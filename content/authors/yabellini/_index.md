@@ -1,7 +1,7 @@
 ---
 authors:
 - yabellini
-bio: Investigadora en INTA.
+bio: ""
 education:
   courses:
   - course: Magister en Explotación de Datos y Gestión del Conocimiento
@@ -24,7 +24,7 @@ organizations:
   url: "https://inta.gob.ar/personas/bellini.yanina"
 - name: R-Ladies
   url: "https://rladies.org"
-rol: Investigadora en Inta - Fundadora de MetaDocencia
+role: Investigadora en Inta - Fundadora de MetaDocencia
 social:
 - icon: envelope
   icon_pack: fas
