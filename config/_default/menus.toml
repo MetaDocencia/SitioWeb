@@ -8,10 +8,10 @@
   url = "#people"
   weight = 10
   
-[[main]]
-  name = "Presentaciones"
-  url = "#talks"
-  weight = 20
+# [[main]]
+#   name = "Presentaciones"
+#   url = "#talks"
+#   weight = 20
 
 [[main]]
   name = "Material"
