@@ -21,22 +21,22 @@ interests:
 - Information Retrieval
 name: Elio Campitelli
 organizations:
-- name: Stanford University
+- name: Centro de Investigaciones del Mar y la Atmósfera - CONICET
   url: ""
-role: Professor of Artificial Intelligence
+role: Licenciado en Ciencias de la Atmósfera
 social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/d_olivaw
+# - icon: google-scholar
+#   icon_pack: ai
+#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/eliocamp
 superuser: true
 user_groups:
 - Fundadores
