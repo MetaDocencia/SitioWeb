@@ -29,7 +29,7 @@ Nacemos el 16 de Marzo de 2020 por la necesidad de virtualizar clases muy rápid
 
 Nos llamamos MetaDocencia porque nuestra misión es enseñar trucos prácticos de enseñanza a las personas que se dedican a la docencia. Damos cursos cortos aplicados hacia el diseño de materiales y una gestión del aula efectiva para que tus estudiantes maximicen su aprendizaje sin que nadie se desgaste de más. 
 
-Todos nuestros cursos son gratuitos y nuestros materiales tienen [licencia abierta](https://creativecommons.org/licenses/by/2.0/deed.es_ES). Es decir, podés reusar o editar cualquier material que aparece en este sitio web, lo único que pedimos a cambio es que en tu nuevo material incluyas una referencia a esta página web.
+Todos nuestros cursos son gratuitos y nuestros materiales tienen [licencia abierta](https://creativecommons.org/licenses/by/2.0/deed.es_ES). Es decir, podés reusar o editar cualquier material que aparece en este sitio web, lo único que pedimos a cambio es que en cualquier material que generes reusando nuestros contenidos incluyas una referencia a esta página web.
 
 Nuestros cursos ayudan a mejorar el aprendizaje en clases presenciales y a distancia. Están basados en técnicas pedagógicas modernas, basadas en evidencia, que mejoran los resultados educativos. 
 
