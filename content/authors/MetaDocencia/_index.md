@@ -27,7 +27,7 @@ Nacemos el 16 de Marzo de 2020 por la necesidad de virtualizar clases muy rápid
 
 ## Nuestra misión y qué ofrecemos
 
-Nos llamamos MetaDocencia porque nuestra misión es enseñar trucos prácticos de enseñanza a las personas que se dedican a la docencia. Damos cursos cortos aplicados hacia el diseño de materiales y una gestión del aula efectiva para que tus estudiantes maximicen su aprendizaje sin que vos  y ellos se te desgastens de más. Todos nuestros cursos son gratuitos y nuestros materiales tienen [licencia abierta](https://creativecommons.org/licenses/by/2.0/deed.es_ES).
+Nos llamamos MetaDocencia porque nuestra misión es enseñar trucos prácticos de enseñanza a las personas que se dedican a la docencia. Damos cursos cortos aplicados hacia el diseño de materiales y una gestión del aula efectiva para que tus estudiantes maximicen su aprendizaje sin que vos y ellos se te desgastens de más. Todos nuestros cursos son gratuitos y nuestros materiales tienen [licencia abierta](https://creativecommons.org/licenses/by/2.0/deed.es_ES).
 
 Nuestros cursos ayudan a mejorar el aprendizaje en clases presenciales y a distancia. Están basados en técnicas pedagógicas modernas, basadas en evidencia, que mejoran los resultados educativos. 
 
@@ -51,9 +51,9 @@ Nos guían estos principios docentes:
 * ... y que un noventa por ciento de la magia consiste en saber una sola cosa más (que tu audiencia).
 * Nunca enseñes sóla/o.
 * Nunca dudes en sacrificar la verdad por la claridad.
-* HacéHaz de cada error una lección.
+* Hacé de cada error una lección.
 * Recuerda que ningún material de clase sobrevive al primer contacto con estudiantes ...
 * ... que cada clase es demasiado corta para quien enseña y demasiado larga para quien la recibe ...
 * ... y que nadie tendrá más entusiasmo que tu por la lección.
 
-Seguimos este [código de conducta]().
+Seguimos este [código de conducta](cdc.html).
