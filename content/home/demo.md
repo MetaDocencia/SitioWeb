@@ -5,10 +5,10 @@
 
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 15  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 120  # Order that this section will appear.
 
-title = "Demos"
+title = "Agradecimientos"
 subtitle = ""
 
 [design]
@@ -29,14 +29,14 @@ subtitle = ""
   # gradient_end = "SkyBlue"
   
   # Background image.
-  image = "headers/bubbles-wide.jpg"  # Name of image in `static/img/`.
-  image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-  image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
-  image_position = "center"  # Options include `left`, `center` (default), or `right`.
-  image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
+  # image = "headers/bubbles-wide.jpg"  # Name of image in `static/img/`.
+  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  # image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
+  # image_position = "center"  # Options include `left`, `center` (default), or `right`.
+  # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
 
   # Text color (true=light or false=dark).
-  text_color_light = true
+  # text_color_light = true
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
@@ -50,16 +50,19 @@ subtitle = ""
  css_class = ""
 +++
 
-Welcome to the **personal demo** of Academic. Other demos available include:
+Esta iniciativa no sería posible sin el apoyo y todo el material abierto que comparten las siguientes organizaciones y personas:
 
-- [**Project Demo** (Academic's actual site)](https://sourcethemes.com/academic/)
+- The Carpentries: muchas gracias también a toda la comunidad de [The Carpentries](https://carpentries.org) que produce una fuente inagotable de recursos cuya traducción al español reutilizamos.
+- RStudio Education: en particular, el [Dr Greg G Wilson](https://third-bit.com/) que nos aconsejó y generó muchos de los recursos que usamos.
 
-**Over 100,000 [Amazing Websites](https://sourcethemes.com/academic/#expo) have Already Been Built with Academic**
+Muchas gracias también a nuestras personas amigas y colegas de: 
 
-**[Join](https://sourcethemes.com/academic/docs/install/) the Most Empowered Hugo Community**
+- Facultad de Ciencias Exactas y Naturales y la Facultad de Psicología de la Universidad de Buenos Aires
+- Universidad Nacional de La Pampa
+- Universidad de Mar del Plata
+- Universidad Nacional de San Martín
+- Universidad de San Andrés
+- Universidad de Córdoba
+- Universidad de Palermo
 
-{{% alert note %}}
-This homepage section is an example of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [*Blank* widget](https://sourcethemes.com/academic/docs/widgets/).
-
-Backgrounds can be applied to any section. Here, the *background* option is set give an *image parallax* effect.
-{{% /alert %}}
+que nos permitieron ver la necesidad de gestar MetaDocencia en el momento en que se suspendieron las clases en Argentina.
