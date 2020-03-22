@@ -24,7 +24,7 @@ No toleramos el acoso de los participantes de MetaDocencia de ninguna forma.
 
 ## Nuestras responsabilidades
 
-Las fundadoras de MetaDocencia somos responsables de aclarar los estándares de comportamiento aceptable y nos reservamos el derecho de admisión o permanencia, temporal o permanente, en la comunidad de MetaDocencia para cualquier caso de comportamiento que consideremos inaceptable.
+Quienes hacemos MetaDocencia somos responsables de aclarar los estándares de comportamiento aceptable y nos reservamos el derecho de admisión o permanencia, temporal o permanente, en la comunidad de MetaDocencia para cualquier caso de comportamiento que consideremos inaceptable.
 
 También tenemos la responsabilidad y nos reservamos el derecho de eliminar, editar o rechazar comentarios, materiales y otras contribuciones que no estén alineadas con este Código de Conducta. 
 
