@@ -67,7 +67,7 @@ diagram = false
 # Privacy pack
 #   Show a cookie consent message to visitors
 #   Anonymize IP in Google Analytics (if enabled)
-privacy_pack = true
+privacy_pack = false
 
 # Enable visitors to edit pages?
 #   `repo` defines the repository URL. `editable` defines which page types can be edited.
@@ -107,7 +107,7 @@ email = "xeqzpkjn" # No borrar o cambiar
 contact_links = [
    {icon = "twitter", icon_pack = "fab", name = "Seguinos en Twitter", link = "https://twitter.com/MetaDocencia"},
    {icon = "slack", icon_pack = "fab", name = "Sumate a la comunindad", link = "https://join.slack.com/t/metadocencia/shared_invite/zt-cq1hleoz-Ij2AgXKJBjg03sRuoxLhjg"},
-   {icon = "github", icon_pack = "fab", name = "Nuestro GitHub", link = "https://keybase.io/"},
+   {icon = "github", icon_pack = "fab", name = "Nuestro GitHub", link = "https://github.com/MetaDocencia"},
 #   {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
 #   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
    ]
@@ -128,7 +128,7 @@ twitter = ""
 
 # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
 #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-date_format = "Jan 2, 2006"
+date_format = "02/01/2006"
 #   Examples: "3:04 pm" or "15:04"
 time_format = "3:04 PM"
 
@@ -148,11 +148,11 @@ main_menu = {align = "l", show_logo = true}
 reading_time = true
 
 # Display next/previous section pager? (true/false)
-section_pager = false
+section_pager = true
 docs_section_pager = true  # Display pager in Docs layout (e.g. tutorials)?
 
 # Enable in-built social sharing buttons? (true/false)
-sharing = true
+sharing = false
 
 # Link authors to their profile page? (true/false)
 link_authors = true

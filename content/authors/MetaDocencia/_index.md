@@ -3,7 +3,7 @@ authors:
 - MetaDocencia
 bio: 
 email: ""
-name: La Propuesta de MetaDocencia
+name: MetaDocencia
 social:
 - icon: envelope
   icon_pack: fas

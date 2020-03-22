@@ -2,7 +2,8 @@
 header:
   caption: ""
   image: ""
-layout: docs
+layout: courses
 title: Cursos
 ---
 
+Blablabla, acá hay cursos blablababa.
