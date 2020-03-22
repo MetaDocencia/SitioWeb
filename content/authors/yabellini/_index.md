@@ -1,7 +1,7 @@
 ---
 authors:
 - yabellini
-bio: Researcher at INTA.
+bio: Investigadora en INTA.
 education:
   courses:
   - course: Magister en Explotación de Datos y Gestión del Conocimiento
@@ -24,6 +24,7 @@ organizations:
   url: "https://inta.gob.ar/personas/bellini.yanina"
 - name: R-Ladies
   url: "https://rladies.org"
+rol: Investigadora en Inta - Fundadora de MetaDocencia
 social:
 - icon: envelope
   icon_pack: fas
@@ -39,7 +40,7 @@ social:
   link: https://github.com/yabellini
 superuser: true
 user_groups:
-- Fundadores
+- MetaDocentes
 ---
 
 Yani es investigadora de INTA en La Pampa. Tiene experiencia docente en todos los niveles educativos, desde primario a universitario, desde 1993. Forma docentes desde 1996 a través de la Red Federal de Formación Docente Continua (Ministerio de Educación de la Nación) y el sistema de transferencia y extensión del INTA. Dictó más de 40 cursos y talleres sobre tecnologías de la información y la comunicación (TICs). Realiza parte de su trabajo de forma remota desde el año 2009, incluyendo la defensa de sus tesis de maestría en esta modalidad en 2015. Desde 2019 es [Instructora certificada de RStudio](https://education.rstudio.com/trainers/).
