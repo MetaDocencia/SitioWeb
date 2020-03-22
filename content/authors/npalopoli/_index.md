@@ -34,7 +34,7 @@ social:
   link: https://github.com/npalopoli
 superuser: true
 user_groups:
-- MetaDocentes
+- Colaboradores
 ---
 
 Trabajo como biólogo computacional.
