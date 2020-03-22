@@ -51,9 +51,12 @@ Como tenemos sólo tres horas, muchas cosas quedarán fuera del alcance del tall
 * Técnicas específicas para enseñar contenidos propios de distintos campos del saber
 * Técnicas específicas de manejo de clases de más de 50 personas
 
+
 ### Como participar 
 
 Por favor, completá [este formulario](https://forms.gle/wTQCxCoCe6jGTy217) si querés ser parte de este curso. Haremos todo lo que esté a nuestro alcance para convocarte a tomar este taller lo antes posible. Te pedimos que seas paciente y esperes a que te enviemos un email con la invitación. Cualquier mensaje por fuera de este formulario nos resta tiempo para poder brindar este taller lo antes posible a la mayor cantidad de gente posible. Muchas gracias por tu comprensión y paciencia.
+
+{{< cta "https://forms.gle/wTQCxCoCe6jGTy217" "Inscribite" "center" >}}
 
 El taller es gratuito. Las personas que sean invitadas al taller se comprometen a:
 * Cumplir con nuestro [código de conducta](cdc.html)
