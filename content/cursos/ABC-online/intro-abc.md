@@ -58,7 +58,7 @@ Por favor, completá [este formulario](https://forms.gle/wTQCxCoCe6jGTy217) si q
 
 El taller es gratuito. Las personas que sean invitadas al taller se comprometen a cumplir con nuestro [código de conducta](cdc.html).
 
-No hay requisitos previos específicos para esta capacitación. Estamos pensando en estas [personas](personas-abc.md) tipo al diseñar los contenidos de este taller.
+No hay requisitos previos específicos para esta capacitación. Estamos pensando en estas [personas](../personas-abc.md) tipo ficticias al diseñar los contenidos de este taller.
 
 ### ¿Te vienen bien cualquiera de nuestros contenidos? ¡Servite sin culpa!
 
