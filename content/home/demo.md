@@ -52,12 +52,17 @@ subtitle = ""
 
 Esta iniciativa no sería posible sin el apoyo y todo el material abierto que comparten las siguientes organizaciones y personas:
 
-- The Carpentries: muchas gracias también a toda la comunidad de [The Carpentries](https://carpentries.org) que produce una fuente inagotable de recursos cuya traducción al español reutilizamos.
+- The Carpentries: muchas gracias por tu aliento para arrancar con MetaDocencia y tus comentarios sobre nuestro material, [Dra Karen Word](https://twitter.com/karen_word). Muchas gracias también a toda la comunidad de [The Carpentries](https://carpentries.org) que produce una fuente inagotable de recursos cuya traducción al español reutilizamos.
+
 - RStudio Education: en particular, el [Dr Greg G Wilson](https://third-bit.com/) que nos aconsejó y generó muchos de los recursos que usamos.
+
+También queremos agradecer los comentarios constructivos de:
+
+- Mg Lucía Caride, Facultad de Filosofía y Letras, Universidad de Buenos Aires
 
 Muchas gracias también a nuestras personas amigas y colegas de: 
 
-- Facultad de Ciencias Exactas y Naturales y la Facultad de Psicología de la Universidad de Buenos Aires
+- Facultad de Ciencias Exactas y Naturales, Facultad de Filosofía y Letras y la Facultad de Psicología de la Universidad de Buenos Aires
 - Universidad Nacional de La Pampa
 - Universidad de Mar del Plata
 - Universidad Nacional de San Martín
