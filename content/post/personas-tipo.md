@@ -2,18 +2,16 @@
 date: "2020-03-21"
 draft: false
 type: page
-linktitle: Asistentes Tipo a Nuestros Cursos de ABC
-summary: Los talleres de ABC están diseñados con estas personas ficticias en mente
-title: Asistentes tipo a nuestros cursos de ABC
+linktitle: Personas Tipo para Nuestros Cursos de ABC
+summary: Los talleres de ABC están diseñados con estas personas tipo en mente
+title: Personas tipo para nuestros cursos de ABC
 authors: 
     - "MetaDocencia"
 type: post
 weight: 1
 ---
 
-## Personas ficticias que representan a nuestra audiencia objetivo para nuestros talleres de ABC
-
-Para diseñar nuestros talleres de ABC estamos teniendo en mente a estas personas ficticias como parte de quienes podrían beneficiarse con nuestros contenidos:
+Para diseñar nuestros talleres de ABC estamos teniendo en mente a estas personas tipo[^1] como parte de quienes podrían beneficiarse con nuestros contenidos:
 
 ### María
 
@@ -32,3 +30,6 @@ Como tiene esta buena fama entre sus colegas, siempre es el encargado de poner a
 Karina acaba de ganar su primer concurso docente para ser Profesora Asistente de la materia Econometría Espacial de una Maestría de Negocios de una universidad privada en Salta. Espera entrar a la carrera de investigación del CONICET pronto, aunque está preocupada porque es evidente que no va a llegar a mandar los dos papers que tenía pensado terminar en el próximo mes. Además, su mamá está en grupo de riesgo para COVID19.
 
 Karina quiere hacer muy bien su trabajo pero será su primera experiencia de estar a cargo de una materia en la que se iba a ir actualizando sobre la marcha del cuatrimestre. La necesidad de tener que pasar su clase online muy rápidamente no la ayuda a bajar su estrés. Está pensando en mantener todo lo más simple posible con una combinación de email y Google Drive, pero su institución le exige hacer videos de alta calidad y usar un campus virtual que no conoce.
+
+
+[^1]: Las personas tipo se conocen en inglés como [Learner Personas](http://teachtogether.tech/) y su objetivo es describir el público para el que fue pensado el curso. Esta información debería ayudar en el desarrollo de las lecciones, la forma de presentar y difundir el curso y en la decisión de usar los materiales, tanto sea para tomar el curso, como para usarlos con el objetivo de generar los propios.
