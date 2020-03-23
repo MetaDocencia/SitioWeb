@@ -1,5 +1,5 @@
 ---
-date: "2020-03-22"
+date: "2020-03-20"
 draft: false
 type: page
 linktitle: ABC para enseñar online
@@ -11,4 +11,4 @@ type: course
 weight: 1
 ---
 
-Gracias por tu interés. Más detalles pronto.
+Gracias por tu interés. Más detalles pronto
