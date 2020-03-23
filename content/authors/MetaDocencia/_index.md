@@ -62,3 +62,7 @@ Nos guían estos principios docentes:
 * ... y que nadie tendrá más entusiasmo que vos por tu clase.
 
 Seguimos este [código de conducta](cdc.html).
+
+## ¿Qurés que te mandemos novedades?
+
+Por favor, completá [este formulario](https://forms.gle/wTQCxCoCe6jGTy217).
