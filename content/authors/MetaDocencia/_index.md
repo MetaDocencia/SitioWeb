@@ -30,7 +30,9 @@ Nacemos el 16 de Marzo de 2020 por la necesidad de virtualizar clases universita
 
 ## Nuestra misión y qué ofrecemos
 
-Nos proponemos socializar herramientas prácticas para acompañar a las personas que se dedican a la docencia en la virtualización de la enseñanza. Damos [cursos](/cursos) presenciales y online (lo que en el mundo de la educación se conoce como clase sincrónica). Nuestros cursos son cortos y aplicados al diseño de materiales y una gestión del aula para que tus estudiantes maximicen su aprendizaje sin que nadie se desgaste de más. 
+Nos proponemos socializar herramientas prácticas para acompañar a las personas que se dedican a la docencia en la virtualización de la enseñanza. Damos [cursos](/cursos) presenciales y online (también llamados cursos sincrónicos online). 
+
+Nuestros cursos son cortos y aplicados al diseño de materiales y una gestión del aula para que tus estudiantes maximicen su aprendizaje sin que nadie se desgaste de más. 
 
 Todos nuestros cursos son gratuitos y nuestros materiales tienen [licencia abierta](https://creativecommons.org/licenses/by/2.0/deed.es_ES). Es decir, podés reusar o editar cualquier material que aparece en este sitio web, lo único que pedimos a cambio es que en cualquier material que generes reusando nuestros contenidos incluyas una referencia a esta web.
 
