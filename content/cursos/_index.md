@@ -5,5 +5,3 @@ header:
 layout: courses
 title: Cursos
 ---
-
-Blablabla, acá hay cursos blablababa.
