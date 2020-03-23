@@ -26,15 +26,15 @@ user_groups:
 
 ## ¿Por qué?
 
-Nacemos el 16 de Marzo de 2020 por la necesidad de virtualizar clases muy rápidamente en Argentina durante la pandemia de COVID19 y nuestra intención de aportar un granito de arena a dar una mano en esta situación. 
+Nacemos el 16 de Marzo de 2020 por la necesidad de virtualizar clases universitarias muy rápidamente en Argentina durante la pandemia de COVID19 y nuestra intención de aportar un granito de arena a dar una mano en esta situación. 
 
 ## Nuestra misión y qué ofrecemos
 
-Nos llamamos MetaDocencia porque nuestra misión es enseñar trucos prácticos de enseñanza a las personas que se dedican a la docencia. Damos cursos cortos aplicados hacia el diseño de materiales y una gestión del aula efectiva para que tus estudiantes maximicen su aprendizaje sin que nadie se desgaste de más. 
+Nos proponemos socializar herramientas prácticas para acompañar a las personas que se dedican a la docencia en la virtualización de la enseñanza. Damos [cursos](/cursos) presenciales, online, cortos y aplicados al diseño de materiales y una gestión del aula para que tus estudiantes maximicen su aprendizaje sin que nadie se desgaste de más. 
 
-Todos nuestros cursos son gratuitos y nuestros materiales tienen [licencia abierta](https://creativecommons.org/licenses/by/2.0/deed.es_ES). Es decir, podés reusar o editar cualquier material que aparece en este sitio web, lo único que pedimos a cambio es que en cualquier material que generes reusando nuestros contenidos incluyas una referencia a esta página web.
+Todos nuestros cursos son gratuitos y nuestros materiales tienen [licencia abierta](https://creativecommons.org/licenses/by/2.0/deed.es_ES). Es decir, podés reusar o editar cualquier material que aparece en este sitio web, lo único que pedimos a cambio es que en cualquier material que generes reusando nuestros contenidos incluyas una referencia a esta web.
 
-Nuestros cursos ayudan a mejorar el aprendizaje en clases presenciales y a distancia. Están basados en técnicas pedagógicas modernas, basadas en evidencia, que mejoran los resultados educativos. 
+Nuestros cursos ayudan a mejorar el aprendizaje en clases presenciales y a distancia. Usamos técnicas pedagógicas modernas, basadas en evidencia, que mejoran los resultados educativos. 
 
 Además, aspiramos a formar una comunidad docente de intercambio de saberes transversal. Sabemos, y la evidencia también lo respalda, que se obtienen mejores resultados cuando enseñamos en comunidad.
 
