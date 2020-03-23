@@ -11,8 +11,6 @@ type: course
 weight: 1
 ---
 
-En los últimos cien años, se descubrió mucho sobre cómo aprendemos las personas y cómo enseñarnos. Gran parte de ese conocimiento aún no se tradujo en una práctica común en el aula. Con este curso online presencial esperamos aplicar algunos de estos conceptos claves para enseñar online.
-
 ### Objetivos 
 
 Introducir buenas prácticas básicas para manejo del aula presencial, pero usando Zoom (o plataforma para reuniones online similar). Cada detalle del taller, empezando por el formulario de demostración de interés y pre-inscripción hasta el pedido de devolución cuando termina el taller, pasando por la ejecución del mismo usando Zoom, son una demostración de estrategias que pueden ser adoptadas o adaptadas a cualquier tarea docente que sucede interactuando en simultáneo con estudiantes (clase sincrónica).
@@ -56,9 +54,9 @@ Por favor, completá [este formulario](https://forms.gle/wTQCxCoCe6jGTy217) si q
 
 {{< cta "https://forms.gle/wTQCxCoCe6jGTy217" "Inscribite" "center" >}}
 
-El taller es gratuito. Las personas que sean invitadas al taller se comprometen a cumplir con nuestro [código de conducta](cdc.html).
+El taller es gratuito. Las personas que sean invitadas al taller se comprometen a cumplir con nuestro [código de conducta](https://github.com/MetaDocencia/SitioWeb/blob/master/content/cdc.md).
 
-No hay requisitos previos específicos para esta capacitación. Estamos pensando en estas [personas](../personas-abc.md) tipo ficticias al diseñar los contenidos de este taller.
+No hay requisitos previos específicos para esta capacitación. Estamos pensando en estas [personas](https://github.com/MetaDocencia/SitioWeb/blob/master/content/cursos/personas-tipo.md) tipo ficticias al diseñar los contenidos de este taller.
 
 ### ¿Te vienen bien cualquiera de nuestros contenidos? ¡Servite sin culpa!
 
