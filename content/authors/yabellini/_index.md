@@ -15,9 +15,11 @@ education:
     year: 2019
 email: ""
 interests:
-- Enseñanza remota
-- Enseñanza de programación 
-- Enseñanza para adultos
+- Inteligencia Artificial 
+- Sistemas de Información Geográfico
+- Teledetección y sensores remotos
+- Ciencia, datos y software abiertos
+
 name: Yanina Bellini Saibene
 organizations:
 - name: Instituto Nacional de Tecnología Agropecuaria
