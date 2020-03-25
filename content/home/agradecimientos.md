@@ -59,6 +59,7 @@ Esta iniciativa no sería posible sin el apoyo y todo el material abierto que co
 También queremos agradecer los comentarios constructivos de:
 
 - Mg Lucía Caride, Facultad de Filosofía y Letras, Universidad de Buenos Aires
+- Dra Luciana Bruno, Instituto de Cálculo, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires-CONICET
 
 Muchas gracias también a nuestras personas amigas y colegas de: 
 
