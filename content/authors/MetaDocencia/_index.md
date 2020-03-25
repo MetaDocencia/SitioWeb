@@ -65,6 +65,6 @@ Nos guían estos principios docentes:
 
 Seguimos este [código de conducta](cdc.html).
 
-## ¿Qurés que te mandemos novedades?
+## ¿Querés que te mandemos novedades?
 
 Por favor, completá [este formulario](https://forms.gle/wTQCxCoCe6jGTy217).
