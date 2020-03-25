@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = ""
+title = "Cursos cortos para virtualizar tu enseñanza"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "hero_logo.png"
@@ -51,4 +51,7 @@ hero_media = "hero_logo.png"
 #   label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-Cursos cortos para virtualizar tu enseñanza
+
+
+Para participar de nuestros cursos, completá el formulario de pre-inscripción. En unos días te vamos a contactar con una propuesta de horario. 
+
