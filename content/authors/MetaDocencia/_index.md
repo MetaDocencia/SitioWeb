@@ -30,7 +30,7 @@ Nacemos el 16 de Marzo de 2020 por la necesidad de virtualizar clases universita
 
 ## Nuestra misión y qué ofrecemos
 
-Nos proponemos socializar herramientas prácticas para acompañar a las personas que se dedican a la docencia en la virtualización de la enseñanza. Damos [cursos](/cursos) presenciales y online (también llamados cursos sincrónicos online). Estamos diseñando estos cursos pensando en estas [personas]().
+Nos proponemos socializar herramientas prácticas para acompañar a las personas que se dedican a la docencia en la virtualización de la enseñanza. Damos [cursos](/cursos) presenciales y online (también llamados cursos sincrónicos online). Estamos diseñando estos cursos pensando en estas [personas](https://github.com/MetaDocencia/SitioWeb/blob/master/content/post/personas-tipo.md).
 
 Nuestros cursos virtuales son cortos y aplicados al diseño de materiales y una gestión del aula para que tus estudiantes maximicen su aprendizaje sin que nadie se desgaste de más. 
 
