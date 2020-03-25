@@ -32,7 +32,7 @@ Nacemos el 16 de Marzo de 2020 por la necesidad de virtualizar clases universita
 
 Nos proponemos socializar herramientas prácticas para acompañar a las personas que se dedican a la docencia en la virtualización de la enseñanza. Damos [cursos](/cursos) presenciales y online (también llamados cursos sincrónicos online). 
 
-Nuestros cursos son cortos y aplicados al diseño de materiales y una gestión del aula para que tus estudiantes maximicen su aprendizaje sin que nadie se desgaste de más. 
+Nuestros cursos virtuales son cortos y aplicados al diseño de materiales y una gestión del aula para que tus estudiantes maximicen su aprendizaje sin que nadie se desgaste de más. 
 
 Todos nuestros cursos son gratuitos y nuestros materiales tienen [licencia abierta](https://creativecommons.org/licenses/by/2.0/deed.es_ES). Es decir, podés reusar o editar cualquier material que aparece en este sitio web, lo único que pedimos a cambio es que en cualquier material que generes reusando nuestros contenidos incluyas una referencia a esta web.
 
@@ -48,8 +48,6 @@ Además, aspiramos a formar una comunidad docente de intercambio de saberes tran
 
 ## ¿Qué modelo seguimos?
 
-Seguimos el modelo de formación docente desarrollado a lo largo de dos décadas por [The Carpentries](https://carpentries.org) y detallado en el libro [Teaching Tech Together](https://teachingtogether.tech).
-
 Nos guían estos principios docentes:
 
 * Sé amable: todo lo demás son detalles.
@@ -64,6 +62,9 @@ Nos guían estos principios docentes:
 * ... y que nadie tendrá más entusiasmo que vos por tu clase.
 
 Seguimos este [código de conducta](cdc.html).
+
+Estas máximas surgen de la experiencia de [The Carpentries](https://carpentries.org), que lleva dos décadas formando docentes y están desarrolladas en el libro gratuito [Teaching Tech Together](https://teachtogether.tech/).
+
 
 ## ¿Querés que te mandemos novedades?
 
