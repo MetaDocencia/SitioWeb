@@ -54,9 +54,6 @@ user_groups:
 - Colaboradores
 ---
 
-Elio está haciendo un doctorado en Ciencias de la Atmósfera en el Centro de Investigaciones del Mar y la Atmósfera para estudiar cómo la circulación atmosférica del hemisferio sur influye en las condiciones meteorológicas de Sudamérica. Es parte de la Red de Clubes de Ciencia, donde dicta talleres que ayudan a crear competencias científicas a estudiantes de primaria y secundaria. Desde 2017 organiza talleres sobre el lenguaje de programación R en la Facultad de Ciencias Exactas y Naturales y como parte del equipo fundador de [R en Buenos Aires](https://renbaires.github.io/) desde 2018. 
-
-
 Roxana es una investigadora postdoc en el  Laboratorio de Estructura Molecular y Propiedades (LEMyP) del CONICET. Trata de entender los mecanismos de inhibición del Cruzain, una cisteín-proteasa involucrada en el mal de Chagas usando análisis de datos y machine learning. 
 
 Es co-fundadora y co-organizadora de *Rladies Resistencia Corrientes*, co-fundadora y co-organizadora del grupo de usuarios de R *R-en-el-NEA*, y una de las organizadoras de la conferencia latinoamericana del uso de R, *LatinR*.
