@@ -58,4 +58,4 @@ Roxana es una investigadora postdoc en el  Laboratorio de Estructura Molecular y
 
 Es co-fundadora y co-organizadora de *Rladies Resistencia Corrientes*, co-fundadora y co-organizadora del grupo de usuarios de R *R-en-el-NEA*, y una de las organizadoras de la conferencia latinoamericana del uso de R, *LatinR*.
 
-Además, es ayudante en la Facultad de Ciencias Agrarias (UNNE) creando nuevos materiales de programación de R para estudiantes de licenciatura. 
+Además, es docente auxiliar de primera en la Facultad de Ciencias Agrarias (UNNE) creando nuevos materiales de programación de R para estudiantes de ingeniería. 
