@@ -74,9 +74,9 @@ Este cronograma asume que el comienzo del curso es las 9 am, pero esto variará 
 | ext    | extension to be used for dest files. |
 
 
-|  Horario  | Actividad  |   
+|  Horario  | Actividad  |
 | ------:| -----------:|
-| 8:50 a 9:00 | Tiempo previo para conectarse y asegurarse que anda bien tu conexión de audio y video (si no tenés camarita no importa, pero si la tenés podría ayudar) |
+| 8.50 - 9.00 | Tiempo previo para conectarse y asegurarse que anda bien tu conexión de audio y video (si no tenés camarita no importa, pero si la tenés podría ayudar) |
 
 
 
