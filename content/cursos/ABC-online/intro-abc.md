@@ -28,7 +28,7 @@ Durante este taller online:
   - Esquematización de los contenidos usando mapas conceptuales
   - Evaluación formativa con poder diagnóstico aproximadamente cada 15 minutos para saber si tus estudiantes están siguiendo la clase y corregir sobre la marcha cuando detectás que algo no es claro para la mayoría  
   - Participación en un documento conjunto colaborativo para tomar notas y/o resolver evaluaciones formativas
-  - Otras herramientas pedagógicas rápidos basados en evidencia y fáciles de implementar
+  - Otras herramientas pedagógicas rápidas basadas en evidencia y fáciles de implementar
   - Pedido de comentarios a tu audiencia luego de cada clase y la importancia de incluir comentarios tanto positivos y como negativos
 
 * Recibiremos fuentes clave, en orden creciente de complejidad, de las cuales seguir aprendiendo prácticas pedagógicas
@@ -61,3 +61,38 @@ No hay requisitos previos específicos para esta capacitación. Estamos pensando
 ### ¿Te vienen bien cualquiera de nuestros contenidos? ¡Servite sin culpa!
 
 Nuestros materiales están disponibles en forma gratuita bajo esta [licencia](https://creativecommons.org/licenses/by/4.0/deed.es). Es decir, podés reusar o editar cualquier material que aparece acá, lo único que pedimos a cambio es que cuando tomes material de acá incluyas una referencia a esta página web.
+
+### Cronograma ejemplo 
+
+Este cronograma asume que el comienzo del curso es las 9 am, pero esto variará según la franja horaria que mencionaremos en el mensaje de invitación.
+
+|  Horario  | Actividad  |
+| ------:|:----------- |
+| <img width="150"/> 8:50 - 9:00 | Tiempo previo para conectarse y asegurarse que anda bien tu conexión de audio y video (si no tenés camarita no importa, pero si la tenés podría ayudar) |
+|9:00 - 9:05 | Comienzo con reglas básicas para bajar la frustración en una teleconferencia |
+|9:05 - 9:15 | Introducción |
+|9:15 - 9:20 |Ejercicio: pensá y compartí una persona tipo que es audiencia en tu clase |
+|9:20 - 9:30 | Mapa conceptual del curso |
+|9:35 - 9:50 |Ejercicio: hacé un mapa coceptual |
+|9:50 - 9:55 |Pausa lejos de la pantalla |
+|9:55 - 10:05 |Consejos útiles para virtualizar tu clase con poco tiempo|
+|10:05 - 10:10| Ejercicio: pensá cómo aplicar los consejos de virtualización a tu clase|
+|10:15 - 10:30| Consejos útiles para la gestión de una clase por tele conferencia|
+|10:30 - 10:35| Ejercicio: ¿qué usamos hasta ahora de todo lo anterior?|
+|10:35 - 10:45| Consejos para lograr clases más accesibles|
+|10:45 - 10:50| Pausa lejos de la pantalla|
+|10:50 - 11:05| Consejos para mantener a tu audiencia motivada|
+|11:05 - 11:20| Ejercicio en grupos para discutir estrategias de motivación en tu contexto|
+|11:25 - 11:40| Cómo unirse a la comunidad MetaDocencia con un paseo demostrativo por Slack|
+|11:40 - 11:45| ¿Cómo hacer buenas devoluciones?|
+|11:45 - 11:50| Contános qué te pareció el curso|
+|11:50 - 12:00| Cierre|
+
+
+### Materiales
+
+* Slides: pronto por aquí
+
+* Documento para notas compartidas: pronto por aquí
+
+* Encuesta de fin del taller: pronto por aquí
