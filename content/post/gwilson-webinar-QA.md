@@ -2,9 +2,9 @@
 date: "2020-03-26"
 draft: false
 type: page
-linktitle: Preguntas y resputas de Enseñando online con poca anticipación
+linktitle: Preguntas y respuestas de Enseñando online con poca anticipación
 summary: Preguntas y respuestas durante el webinar Enseñando online con poca anticipación de Greg Wilson
-title: Preguntas y resputas de Enseñando online con poca anticipación
+title: Preguntas y respuestas de Enseñando online con poca anticipación
 authors: 
     - "MetaDocencia"
 type: post
