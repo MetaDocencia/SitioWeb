@@ -103,3 +103,11 @@ Este cronograma asume que el comienzo del curso es las 9 am, pero esto variará 
 11:45 - 11:50 Contános qué te pareció el curso
 
 11:50 - 12:00 Cierre
+
+### Materiales
+
+* Slides: pronto por aquí
+
+* Documento para notas compartidas: pronto por aquí
+
+* Encuesta de fin del taller: pronto por aquí
