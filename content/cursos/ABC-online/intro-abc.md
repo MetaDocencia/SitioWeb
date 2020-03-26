@@ -66,43 +66,27 @@ Nuestros materiales están disponibles en forma gratuita bajo esta [licencia](ht
 
 Este cronograma asume que el comienzo del curso es las 9 am, pero esto variará según la franja horaria asignada.
 
-8:50 - 9:00 Tiempo previo para conectarse y asegurarse que anda bien tu conexión de audio y video (si no tenés camarita no importa, pero si la tenés podría ayudar)
-
-9:00 - 9:05 Comienzo con reglas básicas para bajar la frustración en una teleconferencia
-
-9:05 - 9:15 Introducción
-
-9:15 - 9:20 Ejercicio: pensá y compartí una persona tipo que es audiencia en tu clase
-
-9:20 - 9:30 Mapa conceptual del curso
-
-9:35 - 9:50 Ejercicio: hacé un mapa conceptual
-
-9:50 - 9:55 Pausa lejos de la pantalla
-
-9:55 - 10:05 Consejos útiles para virtualizar tu clase con poco tiempo
-
-10:05 - 10:10 Ejercicio: aplicá los consejos a tu clase
-
-10:15 - 10:30 Consejos útiles para la gestión de una clase por tele conferencia
-
-10:30 - 10:35 Ejercicio: qué usamos hasta ahora de todo lo anterior?
-
-10:35 - 10:45 Consejos para lograr clases más accesibles
-
-10:45 - 10:50 Pausa
-
-10:50 - 11:05 Consejos para mantener a tu audiencia motivada
-
-11:05 - 11:20 Ejercicio en grupos para discutir estrategias de motivación
-
-11:25 - 11:40 Cómo unirse a la comunidad MetaDocencia con un paseo demostrativo por  Slack
-
-11:40 - 11:45 Cómo hacer buenas devoluciones
-
-11:45 - 11:50 Contános qué te pareció el curso
-
-11:50 - 12:00 Cierre
+|    |   | 
+| ---:|:-- |
+|<img width=150/> 8:50-9:00 | Tiempo previo para conectarse y asegurarse que anda bien tu conexión de audio y video (si no tenés camarita no importa, pero si la tenés podría ayudar) |
+|9:00 - 9:05 | Comienzo con reglas básicas para bajar la frustración en una teleconferencia |
+|9:05 - 9:15 | Introducción |
+|9:15 - 9:20 |Ejercicio: pensá y compartí una persona tipo que es audiencia en tu clase |
+|9:20 - 9:30 | Mapa conceptual del curso |
+|9:35 - 9:50 |Ejercicio: hacé un mapa coceptual |
+|9:50 - 9:55 |Pausa lejos de la pantalla |
+|9:55 - 10:05 |Consejos útiles para virtualizar tu clase con poco tiempo|
+|10:05 - 10:10| Ejercicio: aplicá los consejos a tu clase|
+|10:15 - 10:30| Consejos útiles para la gestión de una clase por tele conferencia|
+|10:30 - 10:35| Ejercicio: qué usamos hasta ahora de todo lo anterior?|
+|10:35 - 10:45| Consejos para lograr clases más accesibles|
+|10:45 - 10:50| Pausa|
+|10:50 - 11:05| Consejos para mantener a tu audiencia motivada|
+|11:05 - 11:20| Ejercicio en grupos para discutir estrategias de motivación|
+|11:25 - 11:40| Cómo unirse a la comunidad MetaDocencia con un paseo demostrativo por  Slack|
+|11:40 - 11:45| Cómo hacer buenas devoluciones|
+|11:45 - 11:50| Contános qué te pareció el curso|
+|11:50 - 12:00| Cierre|
 
 ### Materiales
 
