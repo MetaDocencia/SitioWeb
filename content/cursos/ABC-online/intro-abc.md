@@ -88,6 +88,12 @@ Este cronograma asume que el comienzo del curso es las 9 am, pero esto variará 
 |11.45 - 11.50| Contános qué te pareció el curso|
 |11.50 - 12.00| Cierre|
 
+
+
+|  Horario  | Actividad  |
+| ------:|:----------- |
+| <img width="150"/> 8:50 - 9:00 | Tiempo previo para conectarse y asegurarse que anda bien tu conexión de audio y video (si no tenés camarita no importa, pero si la tenés podría ayudar) |
+
 ### Materiales
 
 * Slides: pronto por aquí
