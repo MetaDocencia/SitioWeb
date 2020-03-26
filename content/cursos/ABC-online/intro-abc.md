@@ -64,7 +64,7 @@ Nuestros materiales están disponibles en forma gratuita bajo esta [licencia](ht
 
 ### Cronograma ejemplo 
 
-Este cronograma asume que el comienzo del curso es las 9 am, pero esto variará según la franja horaria asignada.
+Este cronograma asume que el comienzo del curso es las 9 am, pero esto variará según la franja horaria que mencionaremos en el mensaje de invitación.
 
 |  Horario  | Actividad  |
 | ------:|:----------- |
