@@ -66,8 +66,8 @@ Nuestros materiales están disponibles en forma gratuita bajo esta [licencia](ht
 
 Este cronograma asume que el comienzo del curso es las 9 am, pero esto variará según la franja horaria asignada.
 
-|    |   | 
-| ---:|:-- |
+|  Horario  | Actividad  |   
+| ---: | :-- |  
 |<img width=150/> 8:50-9:00 | Tiempo previo para conectarse y asegurarse que anda bien tu conexión de audio y video (si no tenés camarita no importa, pero si la tenés podría ayudar) |
 |9:00 - 9:05 | Comienzo con reglas básicas para bajar la frustración en una teleconferencia |
 |9:05 - 9:15 | Introducción |
