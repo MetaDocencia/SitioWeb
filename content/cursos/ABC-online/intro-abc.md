@@ -75,7 +75,7 @@ Este cronograma asume que el comienzo del curso es las 9 am, pero esto variará 
 
 
 |  Horario  | Actividad  |   
-| ------: | :------ |  
+| ------:|:----------- |
 | 8:50 - 9:00 | Tiempo previo para conectarse y asegurarse que anda bien tu conexión de audio y video (si no tenés camarita no importa, pero si la tenés podría ayudar) |
 |9:00 - 9:05 | Comienzo con reglas básicas para bajar la frustración en una teleconferencia |
 |9:05 - 9:15 | Introducción |
@@ -83,6 +83,9 @@ Este cronograma asume que el comienzo del curso es las 9 am, pero esto variará 
 |9:20 - 9:30 | Mapa conceptual del curso |
 |9:35 - 9:50 |Ejercicio: hacé un mapa coceptual |
 |9:50 - 9:55 |Pausa lejos de la pantalla |
+
+
+
 |9:55 - 10:05 |Consejos útiles para virtualizar tu clase con poco tiempo|
 |10:05 - 10:10| Ejercicio: aplicá los consejos a tu clase|
 |10:15 - 10:30| Consejos útiles para la gestión de una clase por tele conferencia|
