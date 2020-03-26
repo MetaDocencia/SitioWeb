@@ -28,7 +28,7 @@ Durante este taller online:
   - Esquematización de los contenidos usando mapas conceptuales
   - Evaluación formativa con poder diagnóstico aproximadamente cada 15 minutos para saber si tus estudiantes están siguiendo la clase y corregir sobre la marcha cuando detectás que algo no es claro para la mayoría  
   - Participación en un documento conjunto colaborativo para tomar notas y/o resolver evaluaciones formativas
-  - Otras herramientas pedagógicas rápidos basados en evidencia y fáciles de implementar
+  - Otras herramientas pedagógicas rápidas basadas en evidencia y fáciles de implementar
   - Pedido de comentarios a tu audiencia luego de cada clase y la importancia de incluir comentarios tanto positivos y como negativos
 
 * Recibiremos fuentes clave, en orden creciente de complejidad, de las cuales seguir aprendiendo prácticas pedagógicas
