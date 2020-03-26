@@ -66,9 +66,17 @@ Nuestros materiales están disponibles en forma gratuita bajo esta [licencia](ht
 
 Este cronograma asume que el comienzo del curso es las 9 am, pero esto variará según la franja horaria asignada.
 
+
+| Option | Description |
+| ------:| -----------:|
+| data   | path to data files to supply the data that will be passed into templates. |
+| engine | engine to be used for processing templates. Handlebars is the default. |
+| ext    | extension to be used for dest files. |
+
+
 |  Horario  | Actividad  |   
 | ------: | :------ |  
-| 8:50-9:00 | Tiempo previo para conectarse y asegurarse que anda bien tu conexión de audio y video (si no tenés camarita no importa, pero si la tenés podría ayudar) |
+| 8:50 - 9:00 | Tiempo previo para conectarse y asegurarse que anda bien tu conexión de audio y video (si no tenés camarita no importa, pero si la tenés podría ayudar) |
 |9:00 - 9:05 | Comienzo con reglas básicas para bajar la frustración en una teleconferencia |
 |9:05 - 9:15 | Introducción |
 |9:15 - 9:20 |Ejercicio: pensá y compartí una persona tipo que es audiencia en tu clase |
