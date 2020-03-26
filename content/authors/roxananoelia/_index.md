@@ -5,10 +5,10 @@ bio: ""
 education:
   courses:
   - course: Doctorado en Recursos Naturales
-    year: 2008
+    year: 2018
     institution: FCA - UNNE
   - course: Licenciatura en Ciencias Químicas
-    institution: FCA- UNNE
+    institution: (FaCENA) UNNE
     year: 2012
 email: ""
 interests:
