@@ -34,6 +34,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/yabellini
+  - icon: globe
+  icon_pack: fas
+  link: https://yabellini.netlify.com/
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=5MYAHx4AAAAJ&hl=es
