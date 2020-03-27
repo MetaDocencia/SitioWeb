@@ -54,7 +54,7 @@ Esta iniciativa no sería posible sin el apoyo y todo el material abierto que co
 
 - The Carpentries: muchas gracias por tu aliento para arrancar con MetaDocencia y tus comentarios sobre nuestro material, [Dra Karen Word](https://twitter.com/karen_word). Muchas gracias también a toda la comunidad de [The Carpentries](https://carpentries.org) que produce una fuente inagotable de recursos cuya traducción al español reutilizamos.
 
-- RStudio Education: en particular, el [Dr Greg G Wilson](https://third-bit.com/) que nos aconsejó y generó muchos de los recursos que usamos.
+- RStudio Education: en particular, el [Dr Greg Wilson](https://third-bit.com/) que nos aconsejó y generó muchos de los recursos que usamos.
 
 También queremos agradecer los comentarios constructivos de:
 
