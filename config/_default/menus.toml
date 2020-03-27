@@ -23,10 +23,10 @@
   url = "#agradecimientos"
   weight = 55
 
-#[[main]]
-#  name = "Publications"
-#  url = "#featured"
-#  weight = 40
+[[main]]
+  name = "Auspiciantes"
+  url = "#sponsors"
+  weight = 57
 
 [[main]]
   name = "Cursos"
