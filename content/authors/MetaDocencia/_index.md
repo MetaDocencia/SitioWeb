@@ -11,9 +11,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/metadocencia
-# - icon: google-scholar
-#   icon_pack: ai
-#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: youtube
+  icon_pack: fab
+  link: https://www.youtube.com/channel/UC85JQArB71zWBrUHyr1VV0w
 - icon: github
   icon_pack: fab
   link: https://github.com/MetaDocencia
