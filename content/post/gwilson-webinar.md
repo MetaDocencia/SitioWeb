@@ -11,7 +11,7 @@ type: post
 weight: 2
 ---
 
-El Dr. Greg Wilson del equipo de Educación de RStudio dió la charla online [Teaching online on short notice](https://education.rstudio.com/blog/2020/03/teaching-online-on-short-notice/), acá podés encontrarla traducida y en este [artículo otro las preguntas y respuestas](/post/gwilson-webinar-qa) que se hicieron.
+El Dr. Greg Wilson del equipo de Educación de RStudio dió la charla online [Teaching online on short notice](https://education.rstudio.com/blog/2020/03/teaching-online-on-short-notice/), acá podés encontrarla traducida y en este [otro artículo las preguntas y respuestas](/post/gwilson-webinar-qa) que se hicieron.
 
 Así que acá estás, planeabas enseñar tu clase o impartir tu taller en persona, y ahora tienes que hacerlo en línea o no hacerlo. Nadie te está dando tiempo o dinero para hacer cambios, y otras cien cosas también necesitan su atención. ¿Por dónde debes comenzar y a qué debes apuntar?
 
