@@ -50,4 +50,4 @@
   css_class = ""
 +++
 
-![Rladies Buenos Aires](/img/rladies-ba.jpg)
+[![Rladies Buenos Aires](/img/rladies-ba.jpg)](https://twitter.com/rladiesba)
