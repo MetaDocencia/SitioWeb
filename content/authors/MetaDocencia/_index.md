@@ -34,7 +34,7 @@ Nos proponemos socializar herramientas prácticas para acompañar a las personas
 
 Nuestros cursos virtuales son cortos y aplicados al diseño de materiales y una gestión del aula para que tus estudiantes maximicen su aprendizaje sin que nadie se desgaste de más. 
 
-Todos nuestros cursos son gratuitos y nuestros materiales tienen [licencia abierta](https://creativecommons.org/licenses/by/2.0/deed.es_ES). Es decir, podés reusar o editar cualquier material que aparece en este sitio web, lo único que pedimos a cambio es que en cualquier material que generes reusando nuestros contenidos incluyas una referencia a esta web.
+Todos nuestros cursos son gratuitos y nuestros materiales tienen [licencia abierta](https://metadocencia.netlify.com/terms/). Es decir, podés reusar o editar cualquier material que aparece en este sitio web, lo único que pedimos a cambio es que en cualquier material que generes reusando nuestros contenidos incluyas una referencia a esta web.
 
 Nuestros cursos ayudan a mejorar el aprendizaje en clases presenciales y a distancia. Usamos técnicas pedagógicas modernas, basadas en evidencia, que mejoran los resultados educativos. 
 
