@@ -3,7 +3,7 @@ date: "2020-03-27"
 draft: false
 type: page
 linktitle: Configurando opciones de seguridad en Zoom
-summary: Si organizas reuniones en Zoom y tu link es público podés tener problemas con algunas personas que se unan y se comporten de forma inapropiada. En este post un listado de algunas acciones que pueden hacer tu reunión más segura.
+summary: Si organizás reuniones en Zoom podés tener problemas con personas que se unan a tu reunión y se comporten inapropiadamente. En este post compilamos algunas acciones que pueden hacer tu reunión más segura.
 title: Configurando opciones de seguridad en Zoom
 authors: 
     - "MetaDocencia"
