@@ -9,6 +9,9 @@ authors:
     - "MetaDocencia"
 type: post
 weight: 1
+tags: 
+  - seguridad
+  - tips técnicos 
 ---
 
 Zoom se ha vuelto una de las herramientas más utilizadas para realizar reuniones y clases virtuales, pero desafortunadamente puede ser utilizada de formas inapropiadas.  Este post resume una serie de pasos de configuración para intentar evitar un compartamiento inapropiado por parte de los potenciales participantes.  Está basado en un hilo de twitter realizado por @alexlmiller
