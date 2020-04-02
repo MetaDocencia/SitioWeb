@@ -91,8 +91,10 @@ Este cronograma asume que el comienzo del curso es las 9 am, pero esto variará 
 
 ### Materiales
 
-* Slides: pronto por aquí
+* [Presentación que usamos en el curso](https://docs.google.com/presentation/d/1SmjIGRGxbXJV1RGeY3q0pp52y8FrNVe1LDFcnpF0oaM/edit?usp=sharing) con notas ampliando el contenido para quienes dan la clase
 
-* Documento para notas compartidas: pronto por aquí
+* [Plantilla de nuestro documento para notas compartidas](https://docs.google.com/document/d/1L0I9hxbLZI2LnIkdfxfIOi79Pb2P4L6ihpbKZOSS8j8/edit?usp=sharing)
 
-* Encuesta de fin del taller: pronto por aquí
+* [Plantilla de formulario para la encuesta de fin del taller](https://docs.google.com/forms/d/1d5bcNB6aMVbm1tmM5uK4Eox87qJIydDnHV46LUC2Aig/edit)
+
+* [Plantilla de formulario de pre-inscripción](https://docs.google.com/forms/d/1vG8lXYFMUXqY2FTWzpElXp3DcFU49f_aCi0lYjIibjs/edit)
