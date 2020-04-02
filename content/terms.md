@@ -12,7 +12,7 @@ header:
   image: ""
 ---
 
-Los contenidos de la web están bajo licencia [Atribución 4.0 Internacional (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.es). Esto signfica que
+Los contenidos de la web están bajo licencia [Atribución 4.0 Internacional (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.es). Esto signfica que:
 
 ### Sos libre de...
 
@@ -26,5 +26,5 @@ Los contenidos de la web están bajo licencia [Atribución 4.0 Internacional (CC
 
 * **No hay restricciones adicionales** — No podés aplicar términos legales ni medidas tecnológicas que restrinjan legalmente a otras a hacer cualquier uso permitido por la licencia.
 
-Este resumen legible por humanos no un sustituto de [la licencia](https://creativecommons.org/licenses/by/4.0/legalcode.es).
+Este resumen legible por humanos no es un sustituto de [la licencia](https://creativecommons.org/licenses/by/4.0/legalcode.es).
 
