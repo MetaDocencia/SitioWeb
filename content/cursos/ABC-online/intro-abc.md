@@ -98,3 +98,5 @@ Este cronograma asume que el comienzo del curso es las 9 am, pero esto variará 
 * [Plantilla de formulario para la encuesta de fin del taller](https://docs.google.com/forms/d/1d5bcNB6aMVbm1tmM5uK4Eox87qJIydDnHV46LUC2Aig/edit)
 
 * [Plantilla de formulario de pre-inscripción](https://docs.google.com/forms/d/1vG8lXYFMUXqY2FTWzpElXp3DcFU49f_aCi0lYjIibjs/edit)
+
+* [Video del curso](https://www.youtube.com/watch?v=ojh4KgV0p3g)
