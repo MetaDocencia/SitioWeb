@@ -9,18 +9,12 @@ education:
     year: 
 email: ""
 interests:
--  
-- 
-- 
-- 
-
 name: Patricia A. Loto
 organizations:
 - name: Dirección de Sistemas - Lotería Chaqueña
-  url: 
 - name: R-Ladies
   url: "https://rladies.org"
-role:  - Colaboradora
+role: 
 social:
 - icon: envelope
   icon_pack: fas
