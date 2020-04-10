@@ -60,12 +60,12 @@ Sirve para crear muros digitales de forma colaborativa, como también wikis, blo
 
 ### [Google Docs](http://docs.google.com/)
 
-En nuestros usamos mucho Google Docs compartidos para responder ejercicios en tiempo real. Es una herramienta muy poderosa y que no requiere que les estudiantes se registren en ningún lado. Si bien no hay un límite en la cantidad de usuarios simultáneos, empieza a fallar cuando hay más de 15-20 personas editando al mismo tiempo. 
+En nuestros cursos usamos mucho Google Docs compartidos para responder ejercicios en tiempo real. Es una herramienta muy poderosa y que no requiere que les estudiantes se registren en ningún lado. Si bien no hay un límite en la cantidad de usuarios simultáneos, empieza a fallar cuando hay más de 15-20 personas editando al mismo tiempo. 
 
 
 ### [HackMD](https://hackmd.io/)
 
-Permite colaboración en documentos de texto plano y como es más liviano que Google Docs permite colaboración de más personas al mismo tiempo. Es gratuito para uso personal y para equipos públicos. La única desvetaja es que soporta únicamente texto plano y código de [Markdown](https://programminghistorian.org/es/lecciones/introduccion-a-markdown). 
+Permite colaboración en documentos de texto plano y como es más liviano que Google Docs permite colaboración de más personas al mismo tiempo. Es gratuito para uso personal y para equipos públicos. La única desventaja es que soporta únicamente texto plano y código de [Markdown](https://programminghistorian.org/es/lecciones/introduccion-a-markdown). 
 
 
 ### [Padlet](https://padlet.com/)
