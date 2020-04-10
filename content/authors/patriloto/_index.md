@@ -14,7 +14,7 @@ organizations:
 - name: Dirección de Sistemas - Lotería Chaqueña
 - name: R-Ladies
   url: "https://rladies.org"
-role: 
+role: Licenciada en Sistemas de Información
 social:
 - icon: envelope
   icon_pack: fas
