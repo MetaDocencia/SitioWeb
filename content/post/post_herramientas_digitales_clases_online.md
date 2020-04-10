@@ -7,8 +7,8 @@ summary: Listado de herramientas para tus clases digitales.
 title: Recursos digitales para la enseñanza y el aprendizaje colaborativo online
 authors: 
     - patriloto
-    - yabellini
     - eliocamp
+    - yabellini
 type: post
 weight: 1
 tags: 
