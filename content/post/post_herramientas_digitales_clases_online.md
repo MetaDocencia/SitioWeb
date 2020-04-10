@@ -6,7 +6,9 @@ linktitle: Recursos digitales para la enseñanza y el aprendizaje colaborativo o
 summary: Listado de herramientas para tus clases digitales.
 title: Recursos digitales para la enseñanza y el aprendizaje colaborativo online
 authors: 
-    - "Patricia Loto para MetaDocencia"
+    - patriloto
+    - yabellini
+    - eliocamp
 type: post
 weight: 1
 tags: 
@@ -39,7 +41,7 @@ También existen otras alternativas similares que, aunque no tienen restriccione
 
 ## Gestión de clase
 
-### [Slack ]((https://slack.com/intl/es-ar/))
+### [Slack](https://slack.com/intl/es-ar/)
 
 Es una plataforma de comunicación en tiempo real ampliamente utilizada para gestionar equipos de trabajo y proyectos de forma colaborativa. Permite crear grupos de trabajo,  mantener conversaciones privadas, generar canales públicos y privados para compartir archivos y centralizar la comunicación.
 
@@ -56,12 +58,12 @@ Sirve para crear muros digitales de forma colaborativa, como también wikis, blo
  
 ## Colaboración sincrónica
 
-### [Google Docs]((http://docs.google.com/))
+### [Google Docs](http://docs.google.com/)
 
 En nuestros usamos mucho Google Docs compartidos para responder ejercicios en tiempo real. Es una herramienta muy poderosa y que no requiere que les estudiantes se registren en ningún lado. Si bien no hay un límite en la cantidad de usuarios simultáneos, empieza a fallar cuando hay más de 15-20 personas editando al mismo tiempo. 
 
 
-### [HackMD]((https://hackmd.io/))
+### [HackMD](https://hackmd.io/)
 
 Permite colaboración en documentos de texto plano y como es más liviano que Google Docs permite colaboración de más personas al mismo tiempo. Es gratuito para uso personal y para equipos públicos. La única desvetaja es que soporta únicamente texto plano y código de [Markdown](https://programminghistorian.org/es/lecciones/introduccion-a-markdown). 
 
