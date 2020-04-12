@@ -49,7 +49,7 @@ social:
 - icon: reddit-alien
   icon_pack: fab
   link: https://www.reddit.com/user/data_datum 
-superuser: true
+superuser: false
 user_groups:
 - Colaboradores
 ---

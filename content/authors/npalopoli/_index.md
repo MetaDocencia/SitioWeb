@@ -32,7 +32,7 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/npalopoli
-superuser: true
+superuser: false
 user_groups:
 - Colaboradores
 ---
