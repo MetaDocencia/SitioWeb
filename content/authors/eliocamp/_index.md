@@ -34,7 +34,7 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/eliocamp
-superuser: true
+superuser: fase
 user_groups:
 - MetaDocentes
 ---

@@ -37,7 +37,7 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/paocorrales
-superuser: true
+superuser: false
 user_groups:
 - MetaDocentes
 ---
