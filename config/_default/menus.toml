@@ -8,6 +8,12 @@
   url = "#equipo"
   weight = 10
   
+  
+[[main]]
+  name = "Cursos"
+  url = "cursos/"
+  weight = 30
+  
 # [[main]]
 #   name = "Presentaciones"
 #   url = "#talks"
@@ -22,16 +28,18 @@
   name = "Agradecimientos"
   url = "#agradecimientos"
   weight = 55
+  
+  
+[[main]]
+  name = "Prensa"
+  url = "#prensa"
+  weight = 56
 
 [[main]]
   name = "Auspiciantes"
   url = "#sponsors"
   weight = 57
 
-[[main]]
-  name = "Cursos"
-  url = "cursos/"
-  weight = 30
 
 [[main]]
   name = "Contacto"
