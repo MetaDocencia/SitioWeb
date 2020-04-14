@@ -12,7 +12,6 @@ interests:
 name: Violeta Roizman
 organizations:
 - name: 
-- name: 
   url: 
 role: Licenciada en Ciencias Matemáticas
 social:
@@ -22,7 +21,7 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/violetrzn
-  - icon: globe
+- icon: globe
   icon_pack: fas
   link: https://violetr.netlify.com
 - icon: github
