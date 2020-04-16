@@ -7,7 +7,7 @@ summary: We are one month old! We came a long way and we tell you about it here
 title: Our first month teaching to teach
 authors: 
   - yabellini
-  - "Alejandra Bellini"
+  - alebellini
   - lacion
   - patriloto
   - eliocamp
