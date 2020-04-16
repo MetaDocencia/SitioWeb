@@ -34,11 +34,13 @@ We initially targeted university-level teachers, but teachers of all levels show
 
 Our workshops' participants come from Argentina, Peru, Uruguay, Bolivia, Chile, Costa Rica, Mexico, United States, Canada, Spain and France. Argentinean teachers stranded by CODVID19 also joined us from other countries (such as United Kingdom).
 
-![](https://i.imgur.com/kcpwZiM.png)
+{{< figure src="/img/MonthReportWorldMap.png" >}}
+
 
 Teachers from 16 provinces in Argentina are participating in this initiative. More than 19,000 students in different disciplines and levels are being taught by teachers who participated in our introductory workshops.
 
-![](https://i.imgur.com/C4be9ta.png)
+{{< figure src="/img/ArgentinaDisciplines.png" >}}
+
 
 At this time, we all are burdened by the need to change the way we work, learn, teach, and, ultimately, live. For those of us who teach, this change has to be made with little to no time or resources. Moreover, so much is changing at the same time; all of it with high priorities. As Fernado Torres expresses in this tweet, MetaDocencia wants to be that friend that helps you understand where you should start, what you can do, and what you should aspire to.
 
