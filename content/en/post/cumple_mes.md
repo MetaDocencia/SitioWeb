@@ -30,7 +30,7 @@ We initially targeted university-level teachers, but teachers of all levels show
 
 <blockquote class="twitter-tweet"><p lang="es" dir="ltr">A les docentes en la sala, aprovechen los recursos de metadocencia. Es de esas cosas que necesitabas y no lo sabías. <a href="https://t.co/GKvfOV4I3Q">https://t.co/GKvfOV4I3Q</a></p>&mdash; Valentín Alvarez (@valvarezmr) <a href="https://twitter.com/valvarezmr/status/1250223788777709568?ref_src=twsrc%5Etfw">April 15th 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-> Tweet translation: To the teachers in the room, take advantage of the MetaDocencia's resources. It's one of those things you didn't know you need.
+> Tweet translation: To the teachers in the room, take advantage of MetaDocencia's resources. It's one of those things you didn't know you need.
 
 Our workshops' participants come from Argentina, Peru, Uruguay, Bolivia, Chile, Costa Rica, Mexico, United States, Canada, Spain and France. Argentinean teachers stranded by CODVID19 also joined us from other countries (such as United Kingdom).
 
