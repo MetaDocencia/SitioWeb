@@ -2,9 +2,9 @@
 date: "2020-04-16"
 draft: false
 type: page
-linktitle: Un mes enseñando a enseñar
+linktitle: Nuestro primer mes enseñando a enseñar
 summary: ¡Cumplimos un mes! Ya recorrimos un largo camino. Te lo contamos acá
-title: Un mes enseñando a enseñar
+title: Nuestro primer mes enseñando a enseñar
 authors: 
     - yabellini
     - "Alejandra Bellini"
