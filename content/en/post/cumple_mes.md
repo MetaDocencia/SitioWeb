@@ -20,7 +20,7 @@ tags:
   
 MetaDocencia **was born from the need but, above all, from the ability and desire to help**. Thirty days after its birth, more than **300 professionals** from differnet parts of the world have showed interest in MetaDocencia. 
 
-_"The course was excellent. You gave me back the will to teach. I hated everything about having to teach online, but you showed me that you can do something nice."_ The quote is from Emmanuel Iarussi, who took our course [Introduction to the ABC for virtualizing your classes](https://metadocencia.netlify.app/cursos/abc-online/intro-abc/). He added in his feedback: _"I couldn't even imagine the possibility of this being feasible. Teaching online can be much more humane than I could have ever imagined."_
+_"The workshop was excellent. You gave me back the will to teach. I hated everything about having to teach online, but you showed me that you can do something nice."_ The quote is from Emmanuel Iarussi, who took our course [Introduction to the ABC for virtualizing your classes](https://metadocencia.netlify.app/cursos/abc-online/intro-abc/). He added in his feedback: _"I couldn't even imagine the possibility of this being feasible. Teaching online can be much more humane than I could have ever imagined."_
 
 After only one month, 108 Spanish-speaking teachers have already taken this course and joined the community which, added to the more than 200 who are already pre-registered, there are more than 300 professionals who joined the initiative.
 
