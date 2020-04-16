@@ -60,5 +60,5 @@ Metadocencia seeks exactly that: to share knowledge and add experiences; in shor
 
 > Tweet translation: I'm so happy to have been invited (after having pre-signed-in) to the Introduction to the ABC to teach online workshop by @metadocencia. I need it to be Friday now! Thanks for all of what you do 💜
 
-Come join us, you will be welcome
+Come join us, you will be welcome!
 
