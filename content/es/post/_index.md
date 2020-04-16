@@ -2,6 +2,6 @@
 header:
   caption: "Material"
   image: ""
-title: Materiales
+title: Publicaciones
 view: 2
 ---
