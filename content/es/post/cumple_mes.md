@@ -7,7 +7,7 @@ summary: ¡Cumplimos un mes! Ya recorrimos un largo camino. Te lo contamos acá
 title: Un mes enseñando a enseñar
 authors: 
     - yabellini
-    - Alejandra Bellini
+    - "Alejandra Bellini"
     - lacion
     - patriloto
     - eliocamp

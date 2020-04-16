@@ -2,12 +2,12 @@
 date: "2020-04-16"
 draft: false
 type: page
-linktitle: One month teaching to teach
+linktitle: Our first month teaching to teach
 summary: We are one month old! We came a long way and we tell you about it here
-title: One month teaching to teach
+title: Our first month teaching to teach
 authors: 
   - yabellini
-  - Alejandra Bellini
+  - "Alejandra Bellini"
   - lacion
   - patriloto
   - eliocamp
