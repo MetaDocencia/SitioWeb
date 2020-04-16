@@ -32,7 +32,7 @@ Para configurar tu reunión, accedé a la página de [configuración principal d
 
 3. Cambiá *Compartir pantalla* (Screensharing) a *Solo anfitrión/a* (Host Only), de esta manera solamente quienes sean anfitriones podrán compartir la pantalla.
 
-{{< figure src="zoom-conf.png" >}}
+{{< figure src="/img/zoom-conf.png" >}}
 
 4. Deshabilitá la *Transferencia de archivos* (File Transfer), para que nadie pueda enviar archivos a los participantes de la llamada.
 
