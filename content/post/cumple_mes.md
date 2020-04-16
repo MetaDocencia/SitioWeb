@@ -32,12 +32,12 @@ Lo pensamos inicialmente para docentes de nivel superior, pero la propuesta le i
 
 Quienes toman nuestros talleres no son sólo de Argentina, también se sumaron docentes de Perú, Uruguay, Bolivia, Chile, Costa Rica, México, Estados Unidos, Canadá, España y Francia. Tuvimos asistencia de docentes argentinas que se quedaron varadas por el CODVID19 en otros países (como Inglaterra) y que también participaron.
 
-![](https://github.com/MetaDocencia/SitioWeb/blob/master/static/post/ReporteCumpleMesMapaMundial.png) 
-
+{{< figure src="/img/ReporteCumpleMesMapaMundial.png" >}}
 
 Docentes de 16 provincias de Argentina están participando de esta iniciativa. Quienes ya tomaron nuestro taller introductorio le enseñan a más de 19.000 estudiantes en diferentes disciplinas y niveles.
 
-![](https://github.com/MetaDocencia/SitioWeb/blob/master/static/post/ArgentinayDisciplinas.png)
+{{< figure src="/img/ArgentinayDisciplinas.png" >}}
+
 
 En este momento, todas las personas nos encontramos con la necesidad de cambiar la manera en que trabajamos, aprendemos, enseñamos y, en definitiva, vivimos. En el caso de quienes hacemos docencia, el cambio lo tenemos que hacer casi sin tiempo ni recursos. Además, este cambio sucede con otras 100 cosas en simultáneo, todas importantes. Como expresa Fernado Torres en este tweet, MetaDocencia quiere ser ese amigo que te ayuda a identificar dónde deberías comenzar, qué podes hacer, a qué deberías aspirar.
 
