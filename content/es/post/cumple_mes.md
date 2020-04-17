@@ -58,4 +58,4 @@ La clave para que funcione es que la [comunidad siga creciendo](https://join.sla
 
 
 
-> En [esta presentación](https://docs.google.com/presentation/d/18foPIZLfgJHtLr2KV536biMY0USHvuT8jIa-VdLHfqY/edit?usp=sharing) podes ver más detalles de nuestro primer mes. 
+> En [esta presentación](https://docs.google.com/presentation/d/18foPIZLfgJHtLr2KV536biMY0USHvuT8jIa-VdLHfqY/edit?usp=sharing) encontrás ver más detalles sobre los logros durante nuestro primer mes. 
