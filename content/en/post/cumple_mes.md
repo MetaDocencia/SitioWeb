@@ -64,5 +64,5 @@ Metadocencia seeks exactly that: to share knowledge and add experiences; in shor
 
 Come join us, you will be welcome!
 
-> In [this slides](https://docs.google.com/presentation/d/1QWWxxfHGO7rCIYE7-IOhIvqjrN-TmIsbeK5pbPZsL_Y/edit?usp=sharing) you will find more details of our first month
+> In [these slides](https://docs.google.com/presentation/d/1QWWxxfHGO7rCIYE7-IOhIvqjrN-TmIsbeK5pbPZsL_Y/edit?usp=sharing) you will find more details about our first month achievements.
 
