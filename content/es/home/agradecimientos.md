@@ -68,7 +68,7 @@ Muchas gracias también a nuestras personas amigas y colegas de:
 - Universidad de Mar del Plata
 - Universidad Nacional de San Martín
 - Universidad de San Andrés
-- Universidad de Córdoba
+- Universidad Nacional de Córdoba
 - Universidad de Palermo
 
 que nos permitieron ver la necesidad de gestar MetaDocencia en el momento en que se suspendieron las clases en Argentina.
