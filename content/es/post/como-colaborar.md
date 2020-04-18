@@ -11,7 +11,7 @@ type: post
 weight: 1
 ---
 
-## ¿Qué puedo hacer para ayudarles?
+## ¿Qué puedo hacer para colaborar?
 
 MetaDocencia es una iniciativa 100% voluntaria y, como te imaginarás, dar los cursos es solo una parte de todo el trabajo que hacemos. Prepararnos implica generar y mejorar los materiales, revisar la información que nuestros y nuestras estudiantes nos brindan antes y después del curso, generar contenido a partir del intercambio que tenemos con quienes tomaron las capacitaciones, construir la comunidad docente que buscamos generar con esta iniciativa, mantener nuestros canales de comunicación activos y con contenido relevante y de calidad, entre muchas tareas más.
 
