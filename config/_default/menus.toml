@@ -6,13 +6,13 @@
 [[main]]
   name = "Equipo"
   url = "#equipo"
-  weight = 10
+  weight = 40
   
   
 [[main]]
   name = "Cursos"
   url = "cursos/"
-  weight = 30
+  weight = 20
   
 # [[main]]
 #   name = "Presentaciones"
@@ -22,18 +22,18 @@
 [[main]]
   name = "Publicaciones"
   url = "#publicaciones"
-  weight = 50
+  weight = 30
 
 [[main]]
   name = "Agradecimientos"
   url = "#agradecimientos"
-  weight = 55
+  weight = 56
   
   
 [[main]]
   name = "Prensa"
   url = "#prensa"
-  weight = 56
+  weight = 55
 
 [[main]]
   name = "Auspiciantes"
