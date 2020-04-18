@@ -7,6 +7,7 @@ summary: Si te gustó nuestra propuesta, si tomaste un curso o si te parece que 
 title: Cómo colaborar con MetaDocencia
 authors: 
     - yabellini
+    - lacion
 type: post
 weight: 1
 ---
@@ -19,9 +20,9 @@ Si tenés ganas de colaborar, lo primero que te vamos a pedir es que te [sumes a
 
 Formas de colaborar con MetaDocencia:
 
-1. **Presentándonos organizaciones que puedan auspiciarnos:** para poder sostener MetaDocencia en el mediano y largo plazo estamos buscando auspiciantes, si sabés de alguno al que podría interesarle nuestra propuesta, avisanos.
+1. **Presentándonos organizaciones que puedan auspiciarnos:** para poder sostener MetaDocencia en el mediano y largo plazo estamos buscando auspiciantes, si sabés de alguno al que podría interesarle nuestra propuesta, avisanos (metadocencia@gmail.com).
 
-2. **Canales de comunicación y difusión:** administrando y contestando nuestras cuentas de Twitter o de e-mail, ayudando a quienes se van sumando y participando en Slack, difundiendo nuestras actividades y si conocés gente en los medios de comunicación contándoles sobre MetaDocnecia para que nos ayuden en la difusión.
+2. **Canales de comunicación y difusión:** administrando y contestando nuestras cuentas de Twitter o de e-mail, ayudando a quienes se van sumando y participando en Slack, difundiendo nuestras actividades y si conocés gente en los medios de comunicación contándoles sobre MetaDocencia para que nos ayuden en la difusión.
 
 3. **Generación de contenidos:** por ejemplo, escribiendo un post con material relacionado a dar clases online para que publiquemos en la web, grabar screencasts con ejemplos de softwares útiles, generar imágenes necesarias para los cursos o los post, revisar y arreglar errores que puedan tener los materiales o traducir al español información relevante. También colaborando en la elaboración de materiales para nuevos talleres.
 
