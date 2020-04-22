@@ -30,7 +30,7 @@ Formas de colaborar con MetaDocencia:
 
 5. **Organización de los cursos:** contactar a quienes quieren tomar los cursos, contactar a quienes no pudieron tomar un curso, contactar unas semanas después a quienes lo terminaron  para ver cómo les va, intentar resolver los casos de estudiantes que no pudimos contactar por problemas en sus datos de contacto, difundir la oferta a tus contactos, tu institución, tu organización por mail y por redes sociales.
 
-6. **Ayuda durante el dictado de los cursos:** en nuestros cursos siempre hay ayudantes que apoyan el trabajo de las y los docentes. Quienes ayudan se encargan de atender las diferentes consultas y poblemas que quienes asisten al curso puedan tener. Las y los ayudantes son fundamentales para que todo fluya lo mejor posible y nadie se quede atrás.
+6. **Ayuda durante el dictado de los cursos:** en nuestros cursos siempre hay ayudantes que apoyan el trabajo de las y los docentes. Quienes ayudan se encargan de atender las diferentes consultas y poblemas que quienes asisten al curso puedan tener. Las y los ayudantes son fundamentales para que todo fluya lo mejor posible y nadie se quede atrás. En [esta publicación](https://metadocencia.netlify.app/post/ayudante/) te contamos más sobre esta tarea.
 
 7. **Dictado de cursos:** esperamos para esto que primero hayas participado en alguno de los otros puntos, especialmente el de ser ayudante. Para ser docente es fundamental que puedas manejar y conocer los materiales muy bien.
 
