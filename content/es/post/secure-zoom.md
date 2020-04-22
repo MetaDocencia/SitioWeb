@@ -34,6 +34,7 @@ Para configurar tu reunión, accedé a la página de [configuración principal d
 
 {{< figure src="/img/zoom-conf.png" >}}
 
+
 4. Deshabilitá la *Transferencia de archivos* (File Transfer), para que nadie pueda enviar archivos a los participantes de la llamada.
 
 5. Deshabilitá *Permitir que participantes eliminados vuelvan a unirse* (Allow Removed Participants to Rejoin), de esta manera las personas removidas de la reunión por mal comportamiento, no podrán volver.
