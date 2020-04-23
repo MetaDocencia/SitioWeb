@@ -4,7 +4,7 @@ authors:
 bio: ""
 education:
   courses:
-  - course: Matematica
+  - course: Licenciada en Ciencias Matemáticas
     institution:  Universidad de Buenos Aires
     year: 
 email: ""
@@ -13,7 +13,7 @@ name: Mariela Rajngewerc
 organizations:
 - name: 
   url: 
-role: Matemática - Becaria CONICET en UNSAM
+role: Licenciada en Ciencias Matemáticas
 social:
 - icon: envelope
   icon_pack: fas
