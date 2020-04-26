@@ -7,6 +7,7 @@ email: ""
 interests:
 
 name: Romina Pendino
+role: Bachiller Universitario en Comunicación Social
 social:
 - icon: envelope
   icon_pack: fas
