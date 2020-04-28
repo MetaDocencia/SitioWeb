@@ -26,7 +26,7 @@ name: Laura Acion
 organizations:
 - name: Instituto del Cálculo - CONICET
   url: http://www.ic.fcen.uba.ar/en/
-role: Investigadora Asociada - Fundadora de MetaDocencia
+role: Investigadora Adjunta - Fundadora de MetaDocencia
 social:
 - icon: envelope
   icon_pack: fas
@@ -34,9 +34,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/_lacion_
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com.ar/citations?user=FdUPIdkAAAAJ&hl=en
+- icon: globe
+  icon_pack: fas
+  link: https://lacion.rbind.io/
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0001-5213-6012
