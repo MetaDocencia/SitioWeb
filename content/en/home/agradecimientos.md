@@ -71,4 +71,4 @@ Thank you very much also to our friends and colleagues from:
 - Universidad de Córdoba
 - Universidad de Palermo
 
-who showed us the necessity of creating MetaDocencia when Argentina suspended closed schools.
+who showed us the necessity of creating MetaDocencia when Argentina closed schools.
