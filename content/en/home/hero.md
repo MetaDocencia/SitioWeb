@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Cursos cortos para virtualizar tu enseñanza"
+title = "Short courses for virtual teaching"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "hero_logo.png"
@@ -38,20 +38,18 @@ hero_media = "hero_logo.png"
 #   Remove a link/note by deleting a cta/note block.
 [cta]
   url = "https://docs.google.com/forms/d/e/1FAIpQLSddnptIAMdRgJYH0Vm6cNrk63x5f969Rd4pbuoGKmDgN02xFw/viewform?usp=send_form"
-  label = "Formulario de pre-inscripción"
+  label = "Pre-registration form"
   icon_pack = "fas"
   icon = "edit"
   
 [cta_alt]
   url = "/cursos/"
-  label = "Nuestros cursos"
+  label = "Our Courses"
 
 # Note. An optional note to show underneath the links.
 # [cta_note]
 #   label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-
-
-Para participar de nuestros cursos, completá el formulario de pre-inscripción. En unos días te vamos a contactar con una propuesta de horario. 
+To take part in out courses, please fill in the pre-registration form. A few days later we'll be contacting you with a proposed schedule. 
 

@@ -24,48 +24,45 @@ superuser: true
 user_groups:
 ---
 
-## ¿Por qué?
+## Why?
 
-Nacemos el 16 de Marzo de 2020 por la necesidad de virtualizar clases universitarias muy rápidamente en Argentina durante la pandemia de COVID19 y nuestra intención de aportar un granito de arena a dar una mano en esta situación. 
+We were born on March 16th, 2020 out of the need to move university classes online fast in Argentina during the COVID-19 pandemic and our intention to do our part to help in this situation. 
 
-## Nuestra misión y qué ofrecemos
+## Our mission and what we offer
 
-Nos proponemos socializar herramientas prácticas para acompañar a las personas que se dedican a la docencia en la virtualización de la enseñanza. Damos [cursos](/cursos) presenciales y online (también llamados cursos sincrónicos online). Diseñamos estos cursos pensando en docentes de nivel superior (terciario/universitario) pero también pueden participar docentes de otros niveles y estudiantes que quieran colaborar en las clases.
+We aim to share practical tools to help teachers to teach online. We teach online synchronous [workshops](cursos/). We designed these workshops with higher education teachers in mind, but instructors teaching in other levels and students who want to collaborate in the classes can also participate.
 
-Nuestros cursos virtuales son cortos y aplicados al diseño de materiales y una gestión del aula para que tus estudiantes maximicen su aprendizaje sin que nadie se desgaste de más. 
+Our virtual courses are short and centered in the design of materials and classroom management to maximise students' learning without anyone getting exhausted. 
+  
+All our courses are free and our materials are [openly licensed](terms/)). That is, you can reuse or edit any material, with the condition that you include a reference to this website in any material you generate by reusing our content.
 
-Todos nuestros cursos son gratuitos y nuestros materiales tienen [licencia abierta](https://metadocencia.netlify.com/terms/). Es decir, podés reusar o editar cualquier material que aparece en este sitio web, lo único que pedimos a cambio es que en cualquier material que generes reusando nuestros contenidos incluyas una referencia a esta web.
+Our courses help to improve the learning process both in in-person and online classes. We use modern, evidence-based teaching techniques that improve educational outcomes. 
 
-Nuestros cursos ayudan a mejorar el aprendizaje en clases presenciales y a distancia. Usamos técnicas pedagógicas modernas, basadas en evidencia, que mejoran los resultados educativos. 
+In addition, we aim to create a cross-disciplinary knowledge-sharing teaching community. We know, and the evidence also supports, that better results are obtained when we teach together.
 
-Además, aspiramos a formar una comunidad docente de intercambio de saberes transversal. Sabemos, y la evidencia también lo respalda, que se obtienen mejores resultados cuando enseñamos en comunidad.
+## What we **don't** offer
 
-## ¿Qué **no** ofrecemos?
+* In-depth courses. Our courses are all introductory.
+* Theoretical contents. Our courses are 100% practical.
+* Certificates of any kind.
 
-* Cursos en profundidad. Nuestros cursos son todos introductorios.
-* Contenidos teóricos. Nuestros cursos son 100% prácticos.
-* Certificados de ningún tipo.
+## Which model do we follow
 
-## ¿Qué modelo seguimos?
+We are guided by these teaching principles:
 
-Nos guían estos principios docentes:
+* Be kind: all else is details.
+* Remember that you are not your learner...
+* ...that most people would rather fail than change...
+* ...and that ninety percent of magic consists of knowing one extra thing.
+* Never teach alone.
+* Never hesitate to sacrifice truth for clarity.
+* Make every mistake a lesson.
+* Remember that no lesson survives the first contact with learners...
+* ...that every lesson is too short for the teacher and too long for the learner...
+* ...and that nobody will be excited about the lesson than you are.
 
-* Sé amable: todo lo demás son detalles.
-* Recordá que no sos tu estudiante...
-* ... que la mayoría de la gente prefiere fallar que cambiar ...
-* ... y que un noventa por ciento de la magia consiste en saber una sola cosa más (que tu audiencia).
-* Nunca enseñés sóla/o.
-* Nunca dudés en sacrificar la verdad por la claridad.
-* Hacé de cada error una lección.
-* Recordá que ningún material de clase sobrevive al primer contacto con estudiantes ...
-* ... que cada clase es demasiado corta para quien enseña y demasiado larga para quien la recibe ...
-* ... y que nadie tendrá más entusiasmo que vos por tu clase.
+We follow this [code of conduct](cdc/).
 
-Seguimos este [código de conducta](cdc.html).
+These principles arise from the experience of [The Carpentries](https://carpentries.org), which has been training teachers for two decades and are developed in the free book [Teaching Tech Together](https://teachtogether.tech/).
 
-Estas máximas surgen de la experiencia de [The Carpentries](https://carpentries.org), que lleva dos décadas formando docentes y están desarrolladas en el libro gratuito [Teaching Tech Together](https://teachtogether.tech/).
-
-
-## ¿Querés que te mandemos novedades?
-
-Por favor, completá [este formulario](https://forms.gle/wTQCxCoCe6jGTy217).
+Part of our course materials are based on [RStudio Education](https://education.rstudio.com/) materials.
