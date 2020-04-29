@@ -8,7 +8,7 @@
   active = true  # Activate this widget? true/false
   weight = 125  # Order that this section will appear.
   
-  title = "Auspiciantes"
+  title = "Sponsors"
   subtitle = ""
   
   [design]

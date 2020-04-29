@@ -4,13 +4,13 @@
 #   The weight parameter defines the order that the links will appear in.
   
 [[main]]
-  name = "Equipo"
+  name = "Team"
   url = "#equipo"
   weight = 40
   
   
 [[main]]
-  name = "Cursos"
+  name = "Courses"
   url = "cursos/"
   weight = 20
   
@@ -20,29 +20,29 @@
 #   weight = 20
 
 [[main]]
-  name = "Publicaciones"
+  name = "Publications"
   url = "#publicaciones"
   weight = 30
 
 [[main]]
-  name = "Agradecimientos"
+  name = "Acknowledgements"
   url = "#agradecimientos"
   weight = 56
   
   
 [[main]]
-  name = "Prensa"
+  name = "Press"
   url = "#prensa"
   weight = 55
 
 [[main]]
-  name = "Auspiciantes"
+  name = "Sponsors"
   url = "#sponsors"
   weight = 57
 
 
 [[main]]
-  name = "Contacto"
+  name = "Contact"
   url = "#contact"
   weight = 60
 

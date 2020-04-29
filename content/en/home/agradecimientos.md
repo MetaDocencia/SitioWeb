@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 120  # Order that this section will appear.
 
-title = "Agradecimientos"
+title = "Acknowledgements"
 subtitle = ""
 
 [design]
@@ -50,18 +50,18 @@ subtitle = ""
  css_class = ""
 +++
 
-Esta iniciativa no sería posible sin el apoyo y todo el material abierto que comparten las siguientes organizaciones y personas:
+None of this would be possible without the support of these organisations and people and the open materials that they share:
 
-- The Carpentries: muchas gracias por tu aliento para arrancar con MetaDocencia y tus comentarios sobre nuestro material, [Dra Karen Word](https://twitter.com/karen_word). Muchas gracias también a toda la comunidad de [The Carpentries](https://carpentries.org) que produce una fuente inagotable de recursos cuya traducción al español reutilizamos.
+- The Carpentries: thank you for encouraging us to start with MetaDocenicas and for your comments about out material, [Dra Karen Word](https://twitter.com/karen_word). Also thank you to the whole [The Carpentries](https://carpentries.org) community, which is an unending source of resources whose Spanish translation we reuse. 
 
-- RStudio Education: en particular, el [Dr Greg Wilson](https://third-bit.com/) que nos aconsejó y generó muchos de los recursos que usamos.
+- RStudio Education: in particular, [Dr Greg Wilson](https://third-bit.com/), who counseled us and who created much of the resources that 
 
-También queremos agradecer los comentarios constructivos de:
+We also want to recognise the constructive commentaries from:
 
 - Mg Lucía Caride, Facultad de Filosofía y Letras, Universidad de Buenos Aires
 - Dra Luciana Bruno, Instituto de Cálculo, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires-CONICET
 
-Muchas gracias también a nuestras personas amigas y colegas de: 
+Thank you very much also to our friends and colleagues from:
 
 - Facultad de Ciencias Exactas y Naturales, Facultad de Filosofía y Letras y la Facultad de Psicología de la Universidad de Buenos Aires
 - Universidad Nacional de La Pampa
@@ -71,4 +71,4 @@ Muchas gracias también a nuestras personas amigas y colegas de:
 - Universidad de Córdoba
 - Universidad de Palermo
 
-que nos permitieron ver la necesidad de gestar MetaDocencia en el momento en que se suspendieron las clases en Argentina.
+who showed us the necessity of creating MetaDocencia when Argentina suspended closed schools.
