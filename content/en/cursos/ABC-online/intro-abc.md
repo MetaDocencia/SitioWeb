@@ -2,101 +2,101 @@
 date: "2020-03-22"
 draft: false
 type: page
-linktitle: Introducción al ABC para enseñar online
-summary: Taller presencial online de introducción para enseñar online cualquier tema. Página en modificación continua. Falta información sobre el curso, esperamos completarla muy pronto.
-title: Introducción al ABC para enseñar online
+linktitle: Introduction to online teaching 101
+summary: Introductory online synchronous workshop for general online teaching. 
+title: Introduction to online teaching 101
 authors: 
     - "MetaDocencia"
 type: course
 weight: 1
 ---
 
-### Objetivos 
 
-Introducir buenas prácticas básicas para manejo del aula presencial, pero usando Zoom (o plataforma para reuniones online similar). Cada detalle del taller, empezando por el formulario de demostración de interés y pre-inscripción hasta el pedido de devolución cuando termina el taller, pasando por la ejecución del mismo usando Zoom, son una demostración de estrategias que pueden ser adoptadas o adaptadas a cualquier tarea docente que sucede interactuando en simultáneo con estudiantes (clase sincrónica).
+### Objectives 
 
-Durante este taller online:
+To introduce basic good practices for classroom management using Zoom or similar online meeting platform. Every detail of the workshop, from the demonstration of interest and pre-registration form to the feedback request at the end of the workshop, and including its execution using Zoom, is a demonstration of the strategies that can be adopted or adapted to any teaching task that takes place interacting simultaneously with students (synchronous class).
 
-* Tendremos una demostración de cómo contactar y preparar estudiantes para sumarse a una clase sincrónica ("la previa")
+During this online workshop:
 
-* Tendremos una demostración de cómo manejar un aula virtual sincrónica de 15 personas usando la plataforma Zoom
+* We will demonstrate how to contact and prepare students to join a synchronous class
 
-* Veremos ejemplos de cómo crear un ambiente positivo para nuestra audiencia
+* We will demonstrate how to manage a 15-person synchronous virtual classroom using the Zoom platform
 
-* Tendremos una introducción a conceptos pedagógicos de:  
-  - Diseño de clases pensando en la audiencia que va a estar recibiendo el material (concepto pedagógico de estudiantes tipo)
-  - Esquematización de los contenidos usando mapas conceptuales
-  - Evaluación formativa con poder diagnóstico aproximadamente cada 15 minutos para saber si tus estudiantes están siguiendo la clase y corregir sobre la marcha cuando detectás que algo no es claro para la mayoría  
-  - Participación en un documento conjunto colaborativo para tomar notas y/o resolver evaluaciones formativas
-  - Otras herramientas pedagógicas rápidas basadas en evidencia y fáciles de implementar
-  - Pedido de comentarios a tu audiencia luego de cada clase y la importancia de incluir comentarios tanto positivos y como negativos
+* We will see examples of how to create a positive environment for our audience
 
-* Recibiremos fuentes clave, en orden creciente de complejidad, de las cuales seguir aprendiendo prácticas pedagógicas
+* We will have an introduction to pedagogical concepts of:  
+  - Designing classes keeping the audience that will be receiving the material in mind (learning personas)
+  - Outlining the contents using concept maps
+  - Formative evaluation with diagnostic power approximately every 15 minutes to know if your students are following the class and correct them on the fly when you detect that something is not clear to most of them
+  - Participation in a joint collaborative document to take notes and/or resolve formative evaluations
+  - Other bite-sized, evidence-based and easy-to-implement pedagogical tools
+  - Asking your audience for feedback after each class and the importance of including both positive and negative feedback
 
-* Conoceremos qué es MetaDocencia y cómo sumarse a la comunidad educativa en formación
+* We will receive key sources, in increasing order of complexity, from which we will continue to learn pedagogical practices
 
-### Duración
+* We will know what MetaDocencia is and how to join the educational community we are creating
 
-El taller tiene una duración de 3 horas con intervalos (idealmente lejos de cualquier pantalla) de aproximadamente 5 minutos cada 50 minutos de contenidos.
+### Duration
 
-### Qué _no_ incluye este taller
+The workshop lasts 3 hours with intervals (ideally away from any screen) of approximately 5 minutes for every 50 minutes of content.
 
-Como tenemos sólo tres horas, muchas cosas quedarán fuera del alcance del taller. Entre otras cosas, no vamos a aprender:
+### What is _not_ included in this workshop
 
-* Estrategias para enseñar online desarrolladas en profundidad
-* Teoría de la pedagogía o de las ciencias de la educación
-* Técnicas específicas para enseñar contenidos propios de distintos campos del saber
-* Técnicas específicas de manejo de clases de más de 30 personas
+Since we only have three hours, a lot of things will be out of reach of the workshop. Among other things, we will not learn:
 
-### Cómo participar 
+* In-depth treatment of strategies for teaching online
+* Theory of pedagogy or educational sciences
+* Specific techniques for teaching content from different fields of knowledge
+* Specific techniques for handling classes of more than 30 people
 
-Por favor, completá [este formulario](https://forms.gle/wTQCxCoCe6jGTy217) si querés ser parte de este curso. Haremos todo lo que esté a nuestro alcance para convocarte a tomar este taller lo antes posible. Te pedimos que seas paciente y esperes a que te enviemos un email con la invitación. Cualquier mensaje por fuera de este formulario nos resta tiempo para poder brindar este taller lo antes posible a la mayor cantidad de gente posible. Muchas gracias por tu comprensión y paciencia.
+### How to participate 
 
-{{< cta "https://forms.gle/wTQCxCoCe6jGTy217" "Pre-inscribite" "center" >}}
+Please complete [this form](https://forms.gle/wTQCxCoCe6jGTy217) if you want to be part of this course. We will do our best to invite you to take this workshop as soon as possible. We ask that you be patient and wait for us to send you an email with the invitation. Any message outside of this form consumes time for us to provide this workshop as soon as possible to as many people as possible. Thank you very much for your understanding and patience.
 
-El taller es gratuito. Las personas que sean invitadas al taller se comprometen a cumplir con nuestro [código de conducta](https://github.com/MetaDocencia/SitioWeb/blob/master/content/cdc.md).
+{{< cta "https://forms.gle/wTQCxCoCe6jGTy217" "Pre-register" "center" >}}
 
-No hay requisitos previos específicos para esta capacitación. Estamos pensando en estas [personas tipo](/post/personas-tipo/) al diseñar los contenidos de este taller. Los contenidos de este curso están fuertemente inspirados en el seminario online [Enseñando online con poca anticipación](/post/gwilson-webinar). 
+The workshop is free. Those invited to the workshop agree to abide by our [code of conduct](cdc).
 
-### ¿Te vienen bien cualquiera de nuestros contenidos? ¡Servite sin culpa!
+There are no specific prerequisites for this training. We are thinking of these [type persons](post/personas-tipo/) when designing the contents of this workshop. The contents of this course are strongly inspired by the online seminar [Teaching online at short notice](post/gwilson-webinar). 
 
-Nuestros materiales están disponibles en forma gratuita bajo esta [licencia](https://creativecommons.org/licenses/by/4.0/deed.es). Es decir, podés reusar o editar cualquier material que aparece acá, lo único que pedimos a cambio es que cuando tomes material de acá incluyas una referencia a esta página web.
+### You want to re-use any of our contents? Be our guest!
 
-### Cronograma ejemplo 
+Our materials are available for free under this [license](https://creativecommons.org/licenses/by/4.0/deed.es). To wit, you can reuse or edit any material that appears here, the only thing we ask in return is that when you take material from here you include a reference to this website.
 
-Este cronograma asume que el comienzo del curso es las 9 am, pero esto variará según la franja horaria que mencionaremos en el mensaje de invitación.
+### Sample schedule 
 
-|  Horario  | Actividad  |
+This schedule assumes the start of the course is 9 am, but this will vary according to the time slot we will mention in the invitation message.
+
+| Schedule | Activity |
 | ------:|:----------- |
-| <img width="150"/> 8:50 - 9:00 | Tiempo previo para conectarse y asegurarse que anda bien tu conexión de audio y video (si no tenés camarita no importa, pero si la tenés podría ayudar) |
-|9:00 - 9:05 | Comienzo con reglas básicas para bajar la frustración en una teleconferencia |
-|9:05 - 9:15 | Introducción |
-|9:15 - 9:20 |Ejercicio: pensá y compartí una persona tipo que es audiencia en tu clase |
-|9:20 - 9:30 | Mapa conceptual del curso |
-|9:35 - 9:50 |Ejercicio: hacé un mapa coceptual |
-|9:50 - 9:55 |Pausa lejos de la pantalla |
-|9:55 - 10:05 |Consejos útiles para virtualizar tu clase con poco tiempo|
-|10:05 - 10:10| Ejercicio: pensá cómo aplicar los consejos de virtualización a tu clase|
-|10:15 - 10:30| Consejos útiles para la gestión de una clase por tele conferencia|
-|10:30 - 10:35| Ejercicio: ¿qué usamos hasta ahora de todo lo anterior?|
-|10:35 - 10:45| Consejos para lograr clases más accesibles|
-|10:45 - 10:50| Pausa lejos de la pantalla|
-|10:50 - 11:05| Consejos para mantener a tu audiencia motivada|
-|11:05 - 11:20| Ejercicio en grupos para discutir estrategias de motivación en tu contexto|
-|11:25 - 11:40| Cómo unirse a la comunidad MetaDocencia con un paseo demostrativo por Slack|
-|11:40 - 11:45| ¿Cómo hacer buenas devoluciones?|
-|11:45 - 11:50| Contános qué te pareció el curso|
-|11:50 - 12:00| Cierre|
+| <img width="150"/> 8:50 - 9:00 | Time to connect and make sure your audio and video connection is good (if you don't have a camera it doesn't matter, but if you do, it helps) |
+|9:00 - 9:05 | Stablishment of ground rules to take the frustration out of a teleconference |
+|9:05 - 9:15 | Introduction |
+|9:15 - 9:20 | Exercise: imagine and share a learning persona who is an audience in your class |
+|9:20 - 9:30 | Course concept map |
+|9:35 - 9:50 | Exercise: create a concept map |
+|9:50 - 9:55 | Pause away from the screen |
+|9:55 - 10:05 | Helpful tips for virtualizing your class on short notice |
+|10:05 - 10:10| Exercise: think about how to apply the virtualization tips to your class |
+|10:15 - 10:30| Useful tips for managing a class via teleconference |
+|10:30 - 10:35| Exercise: What did we use so far of all the above? |
+|10:35 - 10:45| Tips for making classes more accessible|
+|10:45 - 10:50| Pause away from the screen |
+|10:50 - 11:05| Tips to keep your audience motivated |
+|11:05 - 11:20| Group exercise to discuss motivation strategies in your context |
+|11:25 - 11:40| How to join the MetaDocencia community with a demonstration tour of Slack |
+|11:40 - 11:45| How to give good feeback |
+|11:45 - 11:50| Tell us what you thought of the course |
+|11:50 - 12:00| Closing |
 
+### Course materials
 
-### Materiales
+* [Presentation](https://docs.google.com/presentation/d/1SmjIGRGxbXJV1RGeY3q0pp52y8FrNVe1LDFcnpF0oaM/edit?usp=sharing) with speaker notes that expand on the content for those giving the course.
 
-* [Presentación que usamos en el curso](https://docs.google.com/presentation/d/1SmjIGRGxbXJV1RGeY3q0pp52y8FrNVe1LDFcnpF0oaM/edit?usp=sharing) con notas ampliando el contenido para quienes dan la clase
+* [Template for our document for shared notes](https://docs.google.com/document/d/1L0I9hxbLZI2LnIkdfxfIOi79Pb2P4L6ihpbKZOSS8j8/edit?usp=sharing)
 
-* [Plantilla de nuestro documento para notas compartidas](https://docs.google.com/document/d/1L0I9hxbLZI2LnIkdfxfIOi79Pb2P4L6ihpbKZOSS8j8/edit?usp=sharing)
+* [Template for our end-of-workshop feeback form](https://docs.google.com/forms/d/1d5bcNB6aMVbm1tmM5uK4Eox87qJIydDnHV46LUC2Aig/edit)
 
-* [Plantilla de formulario para la encuesta de fin del taller](https://docs.google.com/forms/d/1d5bcNB6aMVbm1tmM5uK4Eox87qJIydDnHV46LUC2Aig/edit)
+* [Template for our pre-registering form](https://docs.google.com/forms/d/1vG8lXYFMUXqY2FTWzpElXp3DcFU49f_aCi0lYjIibjs/edit)
 
-* [Plantilla de formulario de pre-inscripción](https://docs.google.com/forms/d/1vG8lXYFMUXqY2FTWzpElXp3DcFU49f_aCi0lYjIibjs/edit)
-
-* [Video del curso](https://www.youtube.com/watch?v=ojh4KgV0p3g)
+* [Video of the course](https://www.youtube.com/watch?v=ojh4KgV0p3g)
