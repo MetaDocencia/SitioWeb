@@ -107,7 +107,7 @@ email = "xeqzpkjn" # No borrar o cambiar
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
    {icon = "twitter", icon_pack = "fab", name = "Seguinos en Twitter", link = "https://twitter.com/MetaDocencia"},
-   {icon = "slack", icon_pack = "fab", name = "Sumate a la comunidad", link = "https://join.slack.com/t/metadocencia/shared_invite/zt-cq1hleoz-Ij2AgXKJBjg03sRuoxLhjg"},
+   {icon = "slack", icon_pack = "fab", name = "Sumate a la comunidad", link = "https://join.slack.com/t/metadocencia/shared_invite/zt-dmxiyrkl-PxIA72YGbr1b51wtGS4M4w"},
    {icon = "github", icon_pack = "fab", name = "Nuestro GitHub", link = "https://github.com/MetaDocencia"},
 #   {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
 #   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
