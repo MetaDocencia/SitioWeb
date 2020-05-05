@@ -4,29 +4,29 @@ authors:
 bio: ""
 education:
   courses:
-  - course: Magister en Explotación de Datos y Gestión del Conocimiento
+  - course: Master degree in Data Mining and Knowledge Management
     institution: Universidad Austral
     year: 2015
-  - course: Licenciada en Sistemas de Información
+  - course: Licenciate in Information System
     institution: Universidad del Salvador
     year: 2005
-  - course: Instructora certificada de RStudio (Tidyverse)
+  - course: Rstudio-certified instructor (Tidyverse)
     institution: RStudio
     year: 2019
 email: ""
 interests:
-- Inteligencia Artificial 
-- Sistemas de Información Geográfico
-- Teledetección y sensores remotos
-- Ciencia, datos y software abiertos
-
+- Artificial Intelligence
+- Geographic Information Systems
+- Remote sensing
+- AgTech
+- Agricultural information systems
 name: Yanina Bellini Saibene
 organizations:
 - name: Instituto Nacional de Tecnología Agropecuaria
   url: "https://inta.gob.ar/personas/bellini.yanina"
 - name: R-Ladies
   url: "https://rladies.org"
-role: Investigadora en Inta - Fundadora de MetaDocencia
+role: Researcher at Inta - Founder
 social:
 - icon: envelope
   icon_pack: fas
@@ -48,9 +48,9 @@ user_groups:
 - MetaDocentes
 ---
 
-Yani es investigadora de INTA en La Pampa. Tiene experiencia docente en todos los niveles educativos, desde primario a universitario, desde 1993. Forma docentes desde 1996 a través de la Red Federal de Formación Docente Continua (Ministerio de Educación de la Nación) y el sistema de transferencia y extensión del INTA. Dictó más de 40 cursos y talleres sobre tecnologías de la información y la comunicación (TICs). Realiza parte de su trabajo de forma remota desde el año 2009, incluyendo la defensa de sus tesis de maestría en esta modalidad en 2015. Desde 2019 es [Instructora certificada de RStudio](https://education.rstudio.com/trainers/).
-Organizó más de 40 eventos (de alcance regional e internacional)  entre los que se destacan ser chair general de las [Jornadas Argentinas de Informática (2020)](http://www.sadio.org.ar/jaiio/) y  fundadora y actual chair de [LatinR 
-](https://latin-r.com), una de las conferencias latinoamericanas más grandes sobre el uso de R en investigación y desarrollo.  
-Yani es activista de las iniciativas abiertas (software, datos y ciencia). Desde 2017 es parte de varias iniciativas voluntarias que implican trabajo remoto colaborativo con profesionales de un arco amplio de disciplinas y países, dentro de las que se destacan [R-Ladies](https://rladies.org/) y [R4DS](https://github.com/cienciadedatos). Esta última iniciativa realizó la traducción del libro [R para Ciencia de Datos](https://es.r4ds.hadley.nz) y del paquete datos al Español. También ayuda con #DatosDeMiercoles en Twitter. 
+Yani is an INTA researcher in La Pampa. She has teaching experience at all educational levels, from primary school to university, since 1993. She has been training teachers since 1996 through the Red Federal de Formación Docente Continua (Ministry of Education) and the INTA transfer and extension system. She has given more than 40 courses and workshops on information and communication technologies (ICTs). She has been working remotely since 2009, including the defense of his master's thesis in this modality in 2015. Since 2019 she is an [RStudio Certified Instructor](https://education.rstudio.com/trainers/).
 
+She has organized more than 40 events (regional and international), among which she was the general chair of the [Jornadas Argentinas de Informática (2020)](http://www.sadio.org.ar/jaiio/) and founder and current chair of [LatinR](https://latin-r.com), one of the largest Latin American conferences on the use of R in research and development.  
+
+Yani is an activist for open initiatives (software, data and science). Since 2017 she takes part in several voluntary initiatives that involve collaborative remote work with professionals from a wide range of disciplines and countries, including [R-Ladies](https://rladies.org/) and [R4DS](https://github.com/cienciadedatos). The latter initiative translated the book [R for Data Science](https://es.r4ds.hadley.nz) and the "data" package into Spanish. She also helps with #DatosDeMiercles on Twitter. 
 

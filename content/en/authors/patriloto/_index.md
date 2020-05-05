@@ -4,7 +4,7 @@ authors:
 bio: ""
 education:
   courses:
-  - course: Licenciada en Sistemas de Información.
+  - course: Licenciate in Information Systems
     institution: Universidad Nacional del Nordeste 
     year: 
 email: ""
@@ -14,7 +14,7 @@ organizations:
 - name: Dirección de Sistemas - Lotería Chaqueña
 - name: R-Ladies
   url: "https://rladies.org"
-role: Licenciada en Sistemas de Información
+role: Licenciate in Information Systems
 social:
 - icon: envelope
   icon_pack: fas

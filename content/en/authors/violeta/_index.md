@@ -4,8 +4,8 @@ authors:
 bio: ""
 education:
   courses:
-  - course: Licenciada en Ciencias Matemáticas.
-    institution:  
+  - course: Masters in Applied Mathematics
+    institution: 
     year: 
 email: ""
 interests:
@@ -13,7 +13,7 @@ name: Violeta Roizman
 organizations:
 - name: 
   url: 
-role: Licenciada en Ciencias Matemáticas
+role: Master in Applied Mathematics
 social:
 - icon: envelope
   icon_pack: fas
