@@ -4,10 +4,10 @@ authors:
 bio: ""
 education:
   courses:
-  - course: Doctorado en Ciencias Básicas y Aplicadas
+  - course: PhD in Basic and Applied Sciences
     year: ""
     institution: Universidad de Quilmes
-  - course: Licenciatura en Biotecnología
+  - course: Licenciate degree in Biotechnology
     institution: Universidad de Quilmes
     year: ""
 email: ""
@@ -18,7 +18,7 @@ name: Nicolás Palopoli
 organizations: 
 - name: Grupo de Bioinformática Estructural - UNQ
   url: "http://ufq.unq.edu.ar/sbg/"
-role: Investigador Adjunto
+role: Adjunct Researcher
 social:
 - icon: envelope
   icon_pack: fas
@@ -37,8 +37,11 @@ user_groups:
 - Colaboradores
 ---
 
-Trabajo como biólogo computacional.
+I work as a computational biologist.
 
-Me interesa comprender la naturaleza funcional de las macromoléculas, con especial atención a sus relaciones evolutivas y sus interacciones en los sistemas biológicos.
+I am interested in understanding the functional nature of macromolecules, with a special focus on their evolutionary relationships and their interactions in biological systems.
 
-Desarrollo y utilizo herramientas computacionales para el análisis de secuencias y estructuras biológicas. Mi principal interés es la estructura de las proteínas y el desorden intrínseco, sus interacciones mediadas por motivos lineales y su evolución modelada por matrices de sustitución.
+I develop and use computational tools for the analysis of biological sequences and structures.
+
+My main focus are protein structure and intrinsic disorder, their interactions mediated by linear motifs and their evolution as modeled by substitution matrices.
+

@@ -4,29 +4,29 @@ authors:
 bio: ""
 education:
   courses:
-  - course: Doctorado en Bioestadística
+  - course: PhD in Biostatistics
     institution: University of Iowa
     year: 2012
-  - course: Master en Salud Pública
+  - course: Master in Public Health
     institution: University of Iowa
     year: 2009
-  - course: Master en Bioestadística
+  - course: MS in Biostatistics
     institution: University of Iowa
     year: 2004
-  - course: Licenciatura en Biología
+  - course: Licentiate in Biology
     institution: Universidad de Buenos Aires
     year: 2002
 email: ""
 interests:
-- Ciencias de datos
-- Investigación clínica
-- Adicciones
-- Ciencia abierta
+- Data Science
+- Clinical Research
+- Adictin
+- Open Science
 name: Laura Acion
 organizations:
 - name: Instituto del Cálculo - CONICET
   url: http://www.ic.fcen.uba.ar/en/
-role: Investigadora Asociada - Fundadora de MetaDocencia
+role: Adjunct Research Scientist - Founder
 social:
 - icon: envelope
   icon_pack: fas
@@ -48,9 +48,9 @@ user_groups:
 - MetaDocentes
 ---
 
-Laura es investigadora adjunta del CONICET en la UBA. Tiene experiencia trabajando en forma 100% remota desde Buenos Aires para el exterior desde 2006. Hizo el 90% de su trabajo doctoral en EEUU de forma remota. Tomó clases universitarias virtuales desde entonces y su primera docencia universitaria de grado y postgrado también fue en forma virtual en 2013 para estudiantes que estaban en EEUU. Todo su trabajo remoto siempre fue desde su hogar en Buenos Aires. Con estos antecedentes, no es casual que cuando comenzó a dar clases presenciales incorporó tecnología para aumentar el vínculo con sus estudiantes. 
+Laura is an Adjunct Research Scientist at the National Research Council in Argentina (CONICET). She has experience working 100% remotely from Buenos Aires to the rest of the world sincce 2006. She worked on her PhD disertation in USA 90% remotely. She took virtual university courses since then and her first experience teaching at the graduate and post-graduate level in 2013 were also remotely for students that were living in the USA. The entirety of her remote work has been done from Buenos Aires. With these precedents, no wonder she included techonoly when she started teaching in person to enhance the relationship with her students. 
 
-Desde 2017 lidera proyectos ejecutados por personas voluntarias alrededor del mundo. Un caso de éxito incluye la creación [de una conferencia latinoamericana](https://latin-r.com) en cuya primera edición el equipo organizador se vió por primera vez en persona. Otro caso de éxito fue [la traducción de un libro](https://es.r4ds.hadley.nz) sin conocer en persona a casi nadie de quienes lo hicieron suceder.
+Since 2007 she leads voluntary-lead projects all around the world. A success is the creation of a [Latin American conference](https://latin-r.com) whose organizer comitee only met in person the day of. Another is the Spanish translation of [a book](https://es.r4ds.hadley.nz) withouth meeting in person with almost none of the participants. 
 
-Laura también es instructora y entrenadora de instructores certificada por The Carpentries y tiene experiencia desarrollando cursos masivos de enseñanza online para una plataforma norteamericana (que elige no nombrar por problemas éticos de la compañía).
+Laura is also a The Carperntries-certified instructor and instructor trainer and has experience developing massive online courses for a northamerican platform (whose name she omits due to the company's ethical issues).
 
