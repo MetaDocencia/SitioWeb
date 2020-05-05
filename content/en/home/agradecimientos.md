@@ -50,16 +50,16 @@ subtitle = ""
  css_class = ""
 +++
 
-None of this would be possible without the support of these organisations and people and the open materials that they share:
+None of this would be possible without the support of these organisations and people and their open materials:
 
-- The Carpentries: thank you for encouraging us to start with MetaDocenicas and for your comments about out material, [Dra Karen Word](https://twitter.com/karen_word). Also thank you to the whole [The Carpentries](https://carpentries.org) community, which is an unending source of resources whose Spanish translation we reuse. 
+- The Carpentries: thank you for encouraging us to start with MetaDocenicas and for your comments about our material, [Dr Karen Word](https://twitter.com/karen_word). Also thank you to the whole [The Carpentries](https://carpentries.org) community, which is an infinite source of resources whose Spanish translation we reuse. 
 
-- RStudio Education: in particular, [Dr Greg Wilson](https://third-bit.com/), who counseled us and who created much of the resources that 
+- RStudio Education: in particular, [Dr Greg Wilson](https://third-bit.com/), who advised us and who created much of the resources that we use.
 
 We also want to recognise the constructive commentaries from:
 
-- Mg Lucía Caride, Facultad de Filosofía y Letras, Universidad de Buenos Aires
-- Dra Luciana Bruno, Instituto de Cálculo, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires-CONICET
+- Lucía Caride, MS, Facultad de Filosofía y Letras, Universidad de Buenos Aires
+- Dr Luciana Bruno, Instituto de Cálculo, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires-CONICET
 
 Thank you very much also to our friends and colleagues from:
 
@@ -71,4 +71,4 @@ Thank you very much also to our friends and colleagues from:
 - Universidad de Córdoba
 - Universidad de Palermo
 
-who showed us the necessity of creating MetaDocencia when Argentina closed schools.
+who showed us the need of creating MetaDocencia when Argentina closed schools.
