@@ -11,4 +11,4 @@ type: course
 weight: 1
 ---
 
-Thank you for your interest. More details to come.
+Thank you for your interest. More details soon.
