@@ -52,14 +52,16 @@ subtitle = ""
 
 None of this would be possible without the support of these organisations and people and their open materials:
 
-- The Carpentries: thank you for encouraging us to start with MetaDocenicas and for your comments about our material, [Dr Karen Word](https://twitter.com/karen_word). Also thank you to the whole [The Carpentries](https://carpentries.org) community, which is an infinite source of resources whose Spanish translation we reuse. 
+- RStudio Education: it generates lot of the resources we use. Particularly, [Dr Greg Wilson](https://third-bit.com/), who advises us and is the main author of the resources we use.
 
-- RStudio Education: in particular, [Dr Greg Wilson](https://third-bit.com/), who advised us and who created much of the resources that we use.
+- The Carpentries: thank you for encouraging us to start with MetaDocenicas and for your comments about our material, [Dr Karen Word](https://twitter.com/karen_word). Also thank you to the whole [The Carpentries](https://carpentries.org) community, which is an infinite source of resources whose Spanish translation we reuse. 
 
 We also want to recognise the constructive commentaries from:
 
 - Lucía Caride, MS, Facultad de Filosofía y Letras, Universidad de Buenos Aires
 - Dr Luciana Bruno, Instituto de Cálculo, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires-CONICET
+
+Any mistake that remains in our materials is ours.
 
 Thank you very much also to our friends and colleagues from:
 
