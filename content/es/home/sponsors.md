@@ -49,5 +49,5 @@
   # CSS class.
   css_class = ""
 +++
-
+[![E.E.A. INTA Anguil "Ing, Agr. Guillermo Covas"](/img/logointa_2.jpg)](https://twitter.com/intaanguil)
 [![Rladies Buenos Aires](/img/rladies-ba.jpg)](https://twitter.com/rladiesba)
