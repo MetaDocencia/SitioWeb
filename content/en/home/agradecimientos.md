@@ -52,7 +52,7 @@ subtitle = ""
 
 None of this would be possible without the support of these organisations and people and their open materials:
 
-- RStudio Education: it generates lot of the resources we use. Particularly, [Dr Greg Wilson](https://third-bit.com/), who advises us and is the main author of the resources we use.
+- [RStudio Education](https://education.rstudio.com/): it generates lot of the resources we use. Particularly, [Dr Greg Wilson](https://third-bit.com/), who advises us and is the main author of the resources we use.
 
 - The Carpentries: thank you for encouraging us to start with MetaDocenicas and for your comments about our material, [Dr Karen Word](https://twitter.com/karen_word). Also thank you to the whole [The Carpentries](https://carpentries.org) community, which is an infinite source of resources whose Spanish translation we reuse. 
 
