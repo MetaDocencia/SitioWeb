@@ -4,26 +4,26 @@ authors:
 bio: ""
 education:
   courses:
-  - course: Doctorado en Ciencias de la Atmósfera
-    year: en curso
+  - course: PhD in Atmospheric Sciences
+    year: ongoing
     institution: Universidad de Buenos Aires
-  - course: Licenciatura en Ciencias de la Atmósfera
+  - course: MS in Atmospheric Sciences
     institution: Universidad de Buenos Aires
     year: 2018
-  - course: Tecnicatura en Gestión Ambiental
+  - course: Technician in Environmental Management
     year: 2012
     institution: Universidad Blas Pascal
 email: ""
 interests:
-- Asimilación de datos
-- Pronóstico de fenómenos severos
-- Modelado numérico
-- Ciencia reproducible
+- Data assimilation
+- Forecast of severe phenomena
+- Numerical modeling
+- Reproducible science
 name: Paola Corrales
 organizations:
 - name: Centro de Investigaciones del Mar y la Atmósfera - UBA-CONICET
   url: "http://www.cima.fcen.uba.ar/"
-role: Licenciada en Ciencias de la Atmósfera - Fundadora de MetaDocencia
+role: MS in Atmospheric Sciences - Founder
 social:
 - icon: envelope
   icon_pack: fas
