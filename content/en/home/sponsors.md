@@ -50,4 +50,14 @@
   css_class = ""
 +++
 
-[![Rladies Buenos Aires](/img/rladies-ba.jpg)](https://twitter.com/rladiesba)
+<div class="row">
+
+  <div class="col-12 col-sm-auto">
+    <a href="https://twitter.com/rladiesba" target="_blank" rel="noopener"><img src="/img/rladies-ba.jpg" alt="Rladies Buenos Aires"></a> 
+  </div>
+  
+  <div class="col-12 col-sm-auto">
+    <a href="https://twitter.com/intaanguil" target="_blank" rel="noopener"><img src="/img/logointa_2.jpg" alt="E.E.A. INTA Anguil Ing, Agr. Guillermo Covas"></a>
+  </div>
+
+</div>
