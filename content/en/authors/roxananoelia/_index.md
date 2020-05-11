@@ -51,7 +51,7 @@ social:
   link: https://www.reddit.com/user/data_datum 
 superuser: false
 user_groups:
-- Colaboradores
+- Contributors
 ---
 
 

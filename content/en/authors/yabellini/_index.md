@@ -45,7 +45,7 @@ social:
   link: https://github.com/yabellini
 superuser: false
 user_groups:
-- MetaDocentes
+- Founders
 ---
 
 Yani is an INTA researcher in La Pampa. She has teaching experience at all educational levels, from primary school to university, since 1993. She has been training teachers since 1996 through the Red Federal de Formación Docente Continua (Ministry of Education) and the INTA transfer and extension system. She has given more than 40 courses and workshops on information and communication technologies (ICTs). She has been working remotely since 2009, including the defense of his master's thesis in this modality in 2015. Since 2019 she is an [RStudio Certified Instructor](https://education.rstudio.com/trainers/).

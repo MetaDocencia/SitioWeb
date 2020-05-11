@@ -26,7 +26,7 @@ social:
   link:  https://gitlab.com/mrajng 
 superuser: false
 user_groups:
-- Colaboradores
+- Contributors
 ---
 
 
