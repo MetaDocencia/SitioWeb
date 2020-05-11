@@ -39,7 +39,7 @@ social:
   link: https://github.com/paocorrales
 superuser: false
 user_groups:
-- MetaDocentes
+- Founders
 ---
 
 Paola es Licenciada en Ciencias de la Atmósfera y actualmente está realizando su doctorado en el Centro de Investigaciones del Mar y la Atmósfera, UBA-CONICET aplicando técnicas de asimilación de datos para mejorar pronósticos de eventos severos a corto plazo. Desde 2011 forma parte de [Expedición Ciencia](http://expedicionciencia.org.ar/), una asociación civil dedicada a generar proyectos que permita a personas de todas las edades desarrollen el pensamiento científico, el placer por la exploración y la curiosidad permanente. En Expedición Ciencia lidera proyectos educativos como campamentos científicos y talleres para estudiantes y docentes.

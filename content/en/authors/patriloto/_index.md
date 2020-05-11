@@ -27,7 +27,7 @@ social:
   link: https://github.com/PatriLoto
 superuser: false
 user_groups:
-- Colaboradores
+- Contributors
 ---
 
 
