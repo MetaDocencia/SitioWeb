@@ -42,7 +42,8 @@ user_groups:
 - Founders
 ---
 
-Paola es Licenciada en Ciencias de la Atmósfera y actualmente está realizando su doctorado en el Centro de Investigaciones del Mar y la Atmósfera, UBA-CONICET aplicando técnicas de asimilación de datos para mejorar pronósticos de eventos severos a corto plazo. Desde 2011 forma parte de [Expedición Ciencia](http://expedicionciencia.org.ar/), una asociación civil dedicada a generar proyectos que permita a personas de todas las edades desarrollen el pensamiento científico, el placer por la exploración y la curiosidad permanente. En Expedición Ciencia lidera proyectos educativos como campamentos científicos y talleres para estudiantes y docentes.
+Paola has a degree in Atmospheric Sciences and is currently doing her PhD at the Centro de Investigaciones del Mar y la Atmósfera, UBA-CONICET applying data assimilation techniques to improve short-term forecasts of severe events. Since 2011 she is part of [Expedición Ciencia](http://expedicionciencia.org.ar/), an NGO dedicated to develop projects that allow people of all ages to learn about scientific thinking, the pleasure of exploration and permanent curiosity. In Expedición Ciencia she leads educational projects such as science camps and workshops for students and teachers.
 
-Desde 2017 forma parte de distintas comunidades de usuarios y usuarias de R (por ejemplo, R-Ladies Buenos Aires y LatinR) en las que genera actividades presenciales y virtuales. Paola también es instructora y entrenadora de instructores certificada por [The Carpentries](https://carpentries.org/) e instructora certificada por [RStudio](https://education.rstudio.com/trainers/people/corrales+paola/).
+Since 2017 she has been part of different communities of R users  (for example, R-Ladies Buenos Aires and LatinR) in which she generates on-site and virtual activities. Paola is also an instructor and trainer certified by [The Carpentries](https://carpentries.org/) and a certified instructor by [RStudio](https://education.rstudio.com/trainers/people/corrales+paola/).
+
 
