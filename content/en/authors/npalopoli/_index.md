@@ -34,7 +34,7 @@ social:
   link: https://github.com/npalopoli
 superuser: false
 user_groups:
-- Colaboradores
+- Contributors
 ---
 
 I work as a computational biologist.
