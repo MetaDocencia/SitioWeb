@@ -2,9 +2,9 @@
 date: "2020-03-22"
 draft: false
 type: page
-linktitle: Introduction to online teaching 101
+linktitle: Introduction to online teaching esentials
 summary: Introductory online synchronous workshop for general online teaching. 
-title: Introduction to online teaching 101
+title: Introduction to online teaching esentials
 authors: 
     - "MetaDocencia"
 type: course
