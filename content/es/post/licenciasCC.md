@@ -14,15 +14,3 @@ weight: 1
 ## Licencias Creative Commons
 
 
-### Configurando Zoom
-
-
-
-### Más configuraciones de seguridad
-
-
-Esta información a sido resumida desde las siguientes fuentes:
-
-1. 
-2. 
-3. 
