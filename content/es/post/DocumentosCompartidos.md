@@ -61,7 +61,7 @@ En este video te mostramos cómo generar un documento de Google y cómo comparti
 
 {{< youtube UAZrqyOVTus >}}
 
-Si usás este recurso, ¡vení a nuestro [Slack](https://join.slack.com/t/metadocencia/shared_invite/zt-ek8a0rup-MQB_5qUKhr9zIGKQAUImXA) y contanos como fue tu experiencia!
+Si usás este recurso, ¡vení a nuestro [Slack](https://join.slack.com/t/metadocencia/shared_invite/zt-ek8a0rup-MQB_5qUKhr9zIGKQAUImXA) y contanos cémo fue tu experiencia!
 
 
 ## Fuentes
