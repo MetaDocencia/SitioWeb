@@ -3,7 +3,7 @@ date: "2020-05-20"
 draft: false
 type: page
 linktitle: Compartiendo trabajo en tiempo real durante tu clase on-line
-summary: ejercicios compartidos, notas compartidas, preguntas compartidas.  Una herramienta que recomendamos para mantener la motiviación de tus estudiantes.  En este post como implementarlas.
+summary: Ejercicios compartidos, notas compartidas, preguntas compartidas.  Una herramienta que recomendamos para mantener la motiviación de tus estudiantes.  En este post como implementarlas.
 title: Compartiendo trabajo en tiempo real durante tu clase on-line
 authors: 
     - yabellini
