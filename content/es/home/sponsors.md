@@ -52,14 +52,15 @@
 
 
 <div class="row">
-
-
   <div class="col-12 col-sm-auto">
     <a href="https://twitter.com/intaanguil" target="_blank" rel="noopener"><img src="/img/logointa_2.jpg" alt="E.E.A. INTA Anguil Ing, Agr. Guillermo Covas"></a>
   </div>
-
+  
   <div class="col-12 col-sm-auto">
-    <a href="https://www.open-bio.org/" target="_blank" rel="noopener"><img src="/img/obf_logo.png" alt="Open Bioinformatics Foundation"></a>
+    <figure>
+      <a href="https://www.open-bio.org/" target="_blank" rel="noopener"><img src="/img/obf_logo.png" alt="Open Bioinformatics Foundation"></a>
+      <figcaption>Beca de la OBF a Laura Acion</figcaption>  
+    </figure>
   </div>
   
 </div>
