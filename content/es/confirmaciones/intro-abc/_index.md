@@ -11,4 +11,5 @@ header:
   caption: ""
   image: ""
 ---
+
 Gracias por confirmar tu participación en el curso Introducción al ABC para enseñar online. Te va a estar llegando un mail con los detalles de tu inscripción, junto con el link para participar. Si no te llegó, revisa tu bandeja de spam. 
