@@ -3,7 +3,7 @@ date: "2020-05-24"
 draft: false
 type: page
 linktitle: Teaching online, smoothly
-summary: In this post Mauro Lepore tells us about his experience dictating a course using what he has learned in MetaDocencia.
+summary: In this post Mauro Lepore tells us about his experience teaching a course using what he learned at MetaDocencia.
 title: Teaching online, smoothly
 authors: 
   - Mauro Lepore
