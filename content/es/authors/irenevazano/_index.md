@@ -4,7 +4,7 @@ authors:
 bio: ""
 education:
   courses:
-  - course: Técnica en bibliotecologia.
+  - course: Técnica en bibliotecnología.
     institution:  
     year: 
 email: ""
@@ -13,7 +13,7 @@ name: Irene Vazano
 organizations:
 - name: 
   url: 
-role: Técnica en bibliotecologia
+role: Técnica en bibliotecnología
 social:
 - icon: envelope
   icon_pack: fas
