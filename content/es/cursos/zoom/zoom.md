@@ -19,7 +19,7 @@ En construcción
 
 ### Objetivos 
 
-En este taller vamos a familiarizarnos con las opciones y herramientas de Zoom que pueden usar para promover un espacio cómodo y amigable en una clase online sincrónica. Vamos a pensar en las necesidades de cada clase y cómo decidír qué herramienta es la más apropiada para satisfacerla. 
+En este taller de XX minutos vamos a familiarizarnos con las opciones y herramientas de Zoom que pueden usar para promover un espacio cómodo y amigable en una clase online sincrónica. Vamos a pensar en las necesidades de cada clase y cómo decidír qué herramienta es la más apropiada para satisfacerla. 
 
 Se trata de un taller práctico donde quienes asistan van a poder poner las manos en la masa. 
 
