@@ -74,3 +74,4 @@ Y también funcionó para los instructores y ayudantes. Todos aprendimos algo un
 
 ¿Qué hay de tí? ¿Qué funcionó para ti?
 
+>> Traducción: Irene Vanzano
