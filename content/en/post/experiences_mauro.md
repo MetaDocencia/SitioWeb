@@ -52,6 +52,7 @@ The instructors were Jackson Hoffart and I; we are data scientists at [2degrees]
 The learners are the ones who know what works best. Ask them and adjust.
 
 After speaking for 5-10 minutes Jackson or I would ask:
+
 * Take two minutes to do this exercise. 
 * When you finish, click the “Yes” button on Zoom.
 * If you have a question, ask on the Google Doc.
