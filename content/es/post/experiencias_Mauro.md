@@ -4,6 +4,7 @@ draft: false
 type: page
 linktitle: Enseñando en línea, sin contratiempos y facilmente
 summary: En esta publicación, Mauro Lepore nos cuenta su experiencia enseñando un curso utilizando lo que aprendió en MetaDocencia.
+title: Enseñando en línea, sin contratiempos y facilmente
 authors: 
   - Mauro Lepore
 type: post
