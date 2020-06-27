@@ -1,5 +1,5 @@
 ---
-date: "2020-06-26"
+date: "2020-05-24"
 draft: false
 type: page
 linktitle: Enseñando en línea, sin contratiempos y facilmente
@@ -13,7 +13,6 @@ tags:
   - experiencias
   - MetaDocencia 
 ---
-
 
 A las 12:04, John Mulligan dijo: "¿Soy solo yo o fue increíblemente bien?" Acabábamos de enseñar a 30 personas en línea y me pareció súper manejable. Seguí leyendo para ver qué hicimos y cómo.
 
