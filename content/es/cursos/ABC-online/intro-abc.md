@@ -54,7 +54,7 @@ Por favor, completá [este formulario](https://forms.gle/wTQCxCoCe6jGTy217) si q
 
 {{< cta "https://forms.gle/wTQCxCoCe6jGTy217" "Pre-inscribite" "center" >}}
 
-El taller es gratuito. Las personas que sean invitadas al taller se comprometen a cumplir con nuestro [código de conducta](https://github.com/MetaDocencia/SitioWeb/blob/master/content/cdc.md).
+El taller es gratuito. Las personas que sean invitadas al taller se comprometen a cumplir con nuestro [código de conducta](https://metadocencia.netlify.app/cdc/).
 
 No hay requisitos previos específicos para esta capacitación. Estamos pensando en estas [personas tipo](/post/personas-tipo/) al diseñar los contenidos de este taller. Los contenidos de este curso están fuertemente inspirados en el seminario online [Enseñando online con poca anticipación](/post/gwilson-webinar). 
 
