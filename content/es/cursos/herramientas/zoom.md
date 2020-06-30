@@ -39,7 +39,7 @@ Para participar de este taller es necesario previamente haber participado en el 
 
 Si no hiciste ese curso, por favor completá [este formulario](https://forms.gle/wTQCxCoCe6jGTy217). Haremos todo lo que esté a nuestro alcance para convocarte a tomar este taller lo antes posible. Te pedimos que seas paciente y esperes a que te enviemos un email con la invitación. Cualquier mensaje por fuera de este formulario nos resta tiempo para poder brindar este taller lo antes posible a la mayor cantidad de gente posible. Muchas gracias por tu comprensión y paciencia.
 
-El taller es gratuito. Las personas que sean invitadas al taller se comprometen a cumplir con nuestro [código de conducta](https://github.com/MetaDocencia/SitioWeb/blob/master/content/cdc.md).
+El taller es gratuito. Las personas que sean invitadas al taller se comprometen a cumplir con nuestro [código de conducta](https://metadocencia.netlify.app/cdc/).
 
 No hay otros requisitos para esta capacitación. Estamos pensando en estas [personas tipo](/post/personas-tipo/) al diseñar los contenidos de este taller. 
 
