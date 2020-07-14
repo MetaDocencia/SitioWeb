@@ -21,7 +21,7 @@ At 12:04 John Mulligan said “Is it just me or was that incredibly smooth?” W
 
 ## What we did
 
-The [workshop]((https://maurolepore.github.io/2020-05-12-rice/)) was based on the materials and philosophy of [The Carpentries](https://carpentries.org/) -- a community of volunteers who “teach foundational coding and data science skills to researchers worldwide” .  It lasted 6 hours, spread over two days . 
+The [workshop](https://maurolepore.github.io/2020-05-12-rice/) was based on the materials and philosophy of [The Carpentries](https://carpentries.org/) -- a community of volunteers who “teach foundational coding and data science skills to researchers worldwide” .  It lasted 6 hours, spread over two days . 
 The teaching staff included two instructors and four helpers. We followed the kind of advice you get from **MetaDocencia**:
 
 * We met twice to discuss and address our concerns before the workshop.
@@ -52,6 +52,7 @@ The instructors were Jackson Hoffart and I; we are data scientists at [2degrees]
 The learners are the ones who know what works best. Ask them and adjust.
 
 After speaking for 5-10 minutes Jackson or I would ask:
+
 * Take two minutes to do this exercise. 
 * When you finish, click the “Yes” button on Zoom.
 * If you have a question, ask on the Google Doc.
