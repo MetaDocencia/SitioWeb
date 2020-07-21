@@ -2,7 +2,7 @@
 date: "2020-03-20"
 draft: false
 type: page
-linktitle: Online teaching 101
+linktitle: Online teaching esentials
 summary: Online synchronous workshop for general online teaching. 
 title: Online teaching 101
 authors: 
