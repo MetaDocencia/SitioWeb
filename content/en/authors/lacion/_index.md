@@ -45,7 +45,7 @@ social:
   link: https://github.com/lauracion
 superuser: false
 user_groups:
-- Founders
+- "Core Team"
 ---
 
 Laura is an Adjunct Research Scientist at the National Research Council in Argentina (CONICET). She has experience working 100% remotely from Buenos Aires to the rest of the world sincce 2006. She worked on her PhD disertation in USA 90% remotely. She took virtual university courses since then and her first experience teaching at the graduate and post-graduate level in 2013 were also remotely for students that were living in the USA. The entirety of her remote work has been done from Buenos Aires. With these precedents, no wonder she included techonoly when she started teaching in person to enhance the relationship with her students. 

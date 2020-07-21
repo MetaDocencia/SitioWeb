@@ -19,7 +19,7 @@ social:
   link: https://github.com/MetaDocencia
 - icon: slack
   icon_pack: fab
-  link: https://join.slack.com/t/metadocencia/shared_invite/zt-dmxiyrkl-PxIA72YGbr1b51wtGS4M4w
+  link: https://join.slack.com/t/metadocencia/shared_invite/zt-ek8a0rup-MQB_5qUKhr9zIGKQAUImXA
 superuser: true
 user_groups:
 ---
@@ -61,7 +61,7 @@ Nos guían estos principios docentes:
 * ... que cada clase es demasiado corta para quien enseña y demasiado larga para quien la recibe ...
 * ... y que nadie tendrá más entusiasmo que vos por tu clase.
 
-Seguimos este [código de conducta](cdc.html).
+Seguimos este [código de conducta](https://metadocencia.netlify.com/cdc/).
 
 Estas máximas surgen de la experiencia de [The Carpentries](https://carpentries.org), que lleva dos décadas formando docentes y están desarrolladas en el libro gratuito [Teaching Tech Together](https://teachtogether.tech/).
 
