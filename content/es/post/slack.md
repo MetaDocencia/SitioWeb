@@ -1,9 +1,10 @@
 ---
-  date: "2020-07-21"
+date: "2020-07-21"
 draft: false
 type: page
 linktitle: ¿Cómo unirse a la comunidad de MetaDocencia en Slack?
 summary: En este espacio virtual intercambiamos experiencias y opiniones relacionadas con la docencia, herramientas y prácticas de enseñanza.
+title: ¿Cómo unirse a la comunidad de MetaDocencia en Slack?
 authors: 
   - RominaPedino
   - paocorrales
