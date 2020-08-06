@@ -16,7 +16,7 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/rgaiacs
-superuser: fase
+superuser: false
 user_groups:
 - "Advisory Team"
 ---
