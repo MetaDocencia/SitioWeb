@@ -21,4 +21,4 @@ user_groups:
 - "Equipo Asesor"
 ---
 
-Raniere Silva trabajÛ como Community Officer para el Instituto de Sostenibilidad de Software y fue miembro del Consejo Ejecutivo de The Carpentries. Raniere tiene una licenciatura en Matem·tica Aplicada y Computacional de la Universidad de Campinas.
+Raniere Silva trabaj√≥ como Community Officer para el Instituto de Sostenibilidad de Software y fue miembro del Consejo Ejecutivo de The Carpentries. Raniere tiene una licenciatura en Matem√°tica Aplicada y Computacional de la Universidad de Campinas.
