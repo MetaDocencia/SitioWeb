@@ -20,7 +20,7 @@ social:
   link: '#contact'
 superuser: false
 user_groups:
-- Colaboradores
+- Contributors
 ---
 
 
