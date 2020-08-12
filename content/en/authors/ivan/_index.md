@@ -9,7 +9,7 @@ education:
     year: 2007
 email: ""
 interests:
-name: Iván Gabriel POGGIO
+name: Iván Gabriel Poggio
 organizations:
 - name: 
   url: 
