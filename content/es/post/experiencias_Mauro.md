@@ -17,7 +17,7 @@ tags:
 A las 12:04, John Mulligan dijo: "¿Soy solo yo o fue increíblemente bien?" Acabábamos de enseñar a 30 personas en línea y me pareció súper manejable. Seguí leyendo para ver qué hicimos y cómo.
 
 {{< figure src="/img/mauro_fig1.png" >}}
-> Los ayudantes sintieron que el taller era increíblemente suave.
+> Los ayudantes sintieron que el taller era increíblemente fluido.
 
 ## Qué hicimos
 
