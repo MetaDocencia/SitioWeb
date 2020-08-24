@@ -23,16 +23,12 @@ user_groups:
 - Colaboradores
 ---
 
-Iván es abogado, recibido en 2007 en la Universidad Nacional de La Pampa. Fue instructor en manejo de PC con programas de asistencia (tiflotecnologías).  Desde el 2009 trabaja en la Dirección Provincial de Discapacidad, formando parte del equipo técnico y desde el año 2015 como Director.
+Iván es abogado, recibido en 2007 en la Universidad Nacional de La Pampa. Fue instructor en manejo de PC con programas de asistencia a personas ciegas o con poca visión (tiflotecnologías). Desde el 2009 trabaja en la Dirección Provincial de Discapacidad en La Pampa, Argentina, formando parte del equipo técnico y desde el año 2015 como su Director.
 
 Es integrante de la Red Trabajo y Discapacidad.
 
-Formó parte como Co-director del  Proyecto de Extensión Universitaria “ORIENTACION JURÍDICA PARA PERSONAS CON DISCAPACIDAD Y SUS FAMILIAS”, de la Universidad Nacional de La Pampa.
+Fue Co-Director del Proyecto de Extensión Universitaria “Orientación jurídica para personas con discapacidad y sus familias” de la Universidad Nacional de La Pampa.
 
-Se formó en Estudios Sociales y Culturales, Universidad Nacional de La Pampa.
-Ha realizado y dictado numerosas capacitaciones relacionadas a los derechos de las personas con discapacidad.
+Se formó en Estudios Sociales y Culturales (Universidad Nacional de La Pampa). Ha realizado y dictado numerosas capacitaciones relacionadas a los derechos de las personas con discapacidad.
 
 Tiene extensa formación y experiencia en tiflotecnología.
-
-
-
