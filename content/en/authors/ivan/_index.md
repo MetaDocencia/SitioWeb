@@ -23,14 +23,13 @@ user_groups:
 - Contributors
 ---
 
-Iván es abogado, recibido en 2007 en la Universidad Nacional de La Pampa. Fue instructor en manejo de PC con programas de asistencia (tiflotecnologías).  Desde el 2009 trabaja en la Dirección Provincial de Discapacidad, formando parte del equipo técnico y desde el año 2015 como Director.
+Iván is a lawyer, received in 2007 from the National University of La Pampa. He was an instructor in PC management with assistance programs (typhlotechnologies). Since 2009 he has worked in the Provincial Disability Directorate, forming part of the technical team and since 2015 as Director.
 
-Es integrante de la Red Trabajo y Discapacidad.
+He is a member of the Work and Disability Network.
 
-Formó parte como Co-director del  Proyecto de Extensión Universitaria “ORIENTACION JURÍDICA PARA PERSONAS CON DISCAPACIDAD Y SUS FAMILIAS”, de la Universidad Nacional de La Pampa.
+He was part as Co-director of the University Extension Project "LEGAL GUIDANCE FOR PEOPLE WITH DISABILITIES AND THEIR FAMILIES", of the National University of La Pampa.
 
-Se formó en Estudios Sociales y Culturales, Universidad Nacional de La Pampa.
-Ha realizado y dictado numerosas capacitaciones relacionadas a los derechos de las personas con discapacidad.
+He trained in Social and Cultural Studies, National University of La Pampa.
+He has conducted and given numerous trainings related to the rights of people with disabilities.
 
-Tiene extensa formación y experiencia en tiflotecnología.
-
+He has extensive training and experience in typhlotechnology.
