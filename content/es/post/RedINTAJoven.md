@@ -1,5 +1,5 @@
 ---
-date: "2020-08-26"
+date: "2020-08-27"
 draft: false
 type: page
 linktitle: Aprendiendo a enseñar online – La experiencia Red INTA Joven.
