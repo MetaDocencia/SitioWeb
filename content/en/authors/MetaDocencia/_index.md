@@ -28,7 +28,14 @@ user_groups:
 
 We were born on March 16th, 2020 out of the need to move university classes online fast in Argentina during the COVID-19 pandemic and our intention to help in this situation. 
 
-## Our mission and what we offer
+## Our mission and vision
+
+**Vision**: We are an inclusive and collaborative community that improves education by empowering instructors from underserved countries.
+
+**Mission**: We are a non-profit organization that nurtures a community of Spanish-speaking educators by teaching concrete, evidence-based, and student-centered educational methods. We collaboratively develop open, reusable, and accessible resources to foster effective training practices.
+
+
+## What we offer
 
 We aim to share practical tools to help teachers to teach online. We teach online synchronous [workshops](cursos/) in Spanish. We designed these workshops with higher education teachers in mind, but instructors teaching outside of higher education and students who want to collaborate in classes can also participate.
 
