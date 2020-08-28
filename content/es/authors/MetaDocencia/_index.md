@@ -28,7 +28,13 @@ user_groups:
 
 Nacemos el 16 de Marzo de 2020 por la necesidad de virtualizar clases universitarias muy rápidamente en Argentina durante la pandemia de COVID19 y nuestra intención de aportar un granito de arena a dar una mano en esta situación. 
 
-## Nuestra misión y qué ofrecemos
+## Nuestra misión, visión 
+
+**Visión:** Somos una comunidad inclusiva y colaborativa que mejora la educación potenciando docentes de países menos favorecidos.
+
+**Misión:** Somos una organización sin fines de lucro que nutre una comunidad docente hispanohablante enseñando métodos educativos concretos, basados en evidencia y centrados en tus estudiantes. Desarrollamos colaborativamente recursos abiertos, reutilizables y accesibles para fomentar prácticas de enseñanza eficaces.
+
+## Qué ofrecemos
 
 Nos proponemos socializar herramientas prácticas para acompañar a las personas que se dedican a la docencia en la virtualización de la enseñanza. Damos [cursos](/cursos) presenciales y online (también llamados cursos sincrónicos online). Diseñamos estos cursos pensando en docentes de nivel superior (terciario/universitario) pero también pueden participar docentes de otros niveles y estudiantes que quieran colaborar en las clases.
 
