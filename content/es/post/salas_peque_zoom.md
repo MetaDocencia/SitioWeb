@@ -6,7 +6,7 @@ linktitle: ¿Cómo armar salas pequeñas en Zoom?
 summary: una de las herramientas que mas disfrutan nuestros alumnos son las salas para grupos pequeños de Zoom, aqui te contamos como hacerlas.
 title: ¿Cómo armar salas pequeñas en Zoom?
 authors: 
-    - RominaPendino
+    - RominaPedino
     - okus 
     - irenevazano 
     - Violeta
