@@ -20,7 +20,7 @@ social:
   link: '#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/LoopLiquido
+  link: https://twitter.com/mariela_rajng
 - icon: gitlab
   icon_pack: fab
   link:  https://gitlab.com/mrajng 
