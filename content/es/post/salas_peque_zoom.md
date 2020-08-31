@@ -42,6 +42,8 @@ En general, los ejercicios _duran entre 5 y 15 minutos_.  El anfitrión puede in
 
 En este video te mostramos como generar estas salas para trabajo en grupos pequeños utilizando la plataforma Zoom.
 
+{{< youtube QXrbLo3r7MI >}}
 
-¿Vos usas esta herramienta?, contanos cómo en nuestro Slack o en nuestro twitter
+<br></br>
+¿Vos usas esta herramienta?, contanos cómo en nuestro [Slack](https://join.slack.com/t/metadocencia/shared_invite/zt-ek8a0rup-MQB_5qUKhr9zIGKQAUImXA) o en nuestro [twitter](https://twitter.com/metadocencia).
  
