@@ -1,5 +1,5 @@
 ---
-date: "2020-09-1"
+date: "2020-09-01"
 draft: false
 type: page
 linktitle: Compartir material educativo y mantener la autoría.
@@ -33,38 +33,35 @@ Si nuestro material tiene código en algún lenguaje de programación, entonces 
 * **Paso 3: agregar un [indentificador de objeto digital (DOI)](https://es.wikipedia.org/wiki/Identificador_de_objeto_digital) para que sea citable.** Vamos a describir este paso con mucho detalle siguiendo estas [intrucciones de GitHub](https://guides.github.com/activities/citable-code/).
 
     * Entrar a [Zenodo](https://zenodo.org/) y presionar el botón Login en la parte superior derecha de la página y seleccionar la opción de iniciar sesión con tu cuenta de GitHub. 
-    ![](https://i.imgur.com/DUKMQiI.png)
+   {{< figure src="/img/screen1.png" >}}
 
     * Debemos _autorizar la aplicación_ para otorgarle a Zenodo los permisos que necesita para poder asignar un DOI a tu repositorio. 
-    ![](https://i.imgur.com/17tfmUO.png)
+    {{< figure src="/img/screen2.png" >}}
 
     * Luego de confirmar que es nuestra cuenta (nos llegará un mail), estaremos logueados en Zenodo y en la esquina superior derecha aparece nuestro correo asociado a GitHub, si hacemos click en el triangulito se despliega un menú donde seleccionamos GitHub:  
-    ![](https://i.imgur.com/mYuBhp1.png)
+    {{< figure src="/img/screen3.png" >}}
 
     
     * Ahora, elije el repositorio que deseas archivar. Para habilitar esta funcionalidad hacemos clic en el botón Activar junto a al repositorio (en este caso GEE_course_code). El respositorio debe ser _público_
 
-    ![](https://i.imgur.com/t1g4iOb.png)
+    {{< figure src="/img/screen4.png" >}}
 
     * Debemos verificar que la configuración del repositorio para enviarle mensajes a Zenodo fue exitosa, para eso hacemos clic en la pestaña de configuración en tu repositorio y luego clic en _Webhooks_ en el menú de la izquierda. Deberías ver una pantalla similar a la siguiente imagen: 
 
-    ![](https://i.imgur.com/sWeOb9v.png)
+    {{< figure src="/img/screen5.png" >}}
 
     * Crea una nueva versión: Zenodo archiva tu repositorio cada vez que generes una nueva versión. Para esto regresamos a la vista principal del repositorio y en el menú de la derecha clickeamos en _create new release_.
-    ![](https://i.imgur.com/7vgFVXh.png)
+    {{< figure src="/img/screen6.png" >}}
    
     * Debemos completar la versión de este _release_, el título y la descripción y luego presionar el botón _publish release_, como se muestra en la siguiente figura.
-    ![](https://i.imgur.com/3rA4asj.png)
+    {{< figure src="/img/screen7.png" >}}
 
     * Ahora vamos a obtener el DOI, para eso debemos volver a Zenodo y hacer click en _Upload_. Allí va a mostrarnos los diferentes materiales que tenemos publicados enZenodo, si hacemos click en el nombre, nos muestra todo el detalle, podemos editar la inforamción y si bajamos en la página a la derecha nos muestra el DOI y una cita sugerida.
 
-    ![](https://i.imgur.com/Eos46O4.png)
+    {{< figure src="/img/screen8.png" >}}
 
 
 Listo, ya tenemos el DOI y la cita que podemos agregar a nuestro repo y pedirle a las personas que usen nuestros materiales que la utilicen para mencionarnos.
-
-
-
 
 
 
