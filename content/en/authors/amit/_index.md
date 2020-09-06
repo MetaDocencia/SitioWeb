@@ -4,10 +4,10 @@ authors:
 bio: ""
 education:
   courses:
-  - course: Ingenieria Ambiental, BSc
+  - course: Environmental Engineer, BSc
     year: 2001
     institution: Rensselaer Polytechnic Institute, Troy, NY, EEUU
-  - course: Ingenieria Ambiental, MSc
+  - course: Environmental Engineer, MSc
     institution: Rensselaer Polytechnic Institute, Troy, NY, EEUU
     year: 2008
 email: ""
@@ -16,7 +16,7 @@ interests:
 name: Amit Kohli
 organizations:
 
-role: Ingeniero Ambiental - Científico de Datos
+role: Environmental Engineer - Data Scientist
 social:
 - icon: envelope
   icon_pack: fas
@@ -35,9 +35,9 @@ social:
   link: https://www.linkedin.com/in/akohli/
 superuser: fase
 user_groups:
-- Colaboradores
+- Contributors
 ---
 
-Amit es un ingeniero ambiental convertido en especialista de datos. Comenzó su carrera recopilando y utilizando datos sobre el suelo y el agua para limpiar los mismos, luego difundió datos sobre el recursos hídricos con AQUASTAT de la FAO (ONU). Recientemente, renunció a su cargo como Director de Datos de ACDI/VOCA para poder ayudar más grupos mediante consultoría y voluntariado.
+Amit is an RPI alumnus, and environmental engineer turned data strategist. He started his career collecting and using environmental data to clean soil and water, then disseminated water data with UN-FAO’s AQUASTAT. Recently he stepped down from his role as Data Director at ACDI/VOCA in order to pursue wider consulting and volunteering interests.
 
-El profundo interés de Amit con el empoderamiento de comunidades desfavorecidas proviene de su experiencia de vida, habiendo crecido en varios 'países en desarrollo' y presenciar todos los extremos en las condiciones de vida. Como persona de ascendencia mexicana e india, Amit valora la diversidad y es un orgulloso defensor de las mujeres y las minorías en el ámbito laboral.
+Amit’s deep commitment to empowering underprivileged communities comes from his experience growing up in 'developing countries' and witnessing every extreme in living conditions. As a person of Mexican and Indian heritage, Amit values diversity and is a proud advocate of women and minorities in the workplace.
