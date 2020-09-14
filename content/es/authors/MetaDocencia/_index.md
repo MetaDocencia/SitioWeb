@@ -24,15 +24,13 @@ superuser: true
 user_groups:
 ---
 
-## ¿Por qué?
+## Nuestra visión 
 
-Nacemos el 16 de Marzo de 2020 por la necesidad de virtualizar clases universitarias muy rápidamente en Argentina durante la pandemia de COVID19 y nuestra intención de aportar un granito de arena a dar una mano en esta situación. 
+Somos una comunidad inclusiva y colaborativa que mejora la educación potenciando docentes de países menos favorecidos.
 
-## Nuestra misión, visión 
+## Nuestra misión 
 
-**Visión:** Somos una comunidad inclusiva y colaborativa que mejora la educación potenciando docentes de países menos favorecidos.
-
-**Misión:** Somos una organización sin fines de lucro que nutre una comunidad docente hispanohablante enseñando métodos educativos concretos, basados en evidencia y centrados en tus estudiantes. Desarrollamos colaborativamente recursos abiertos, reutilizables y accesibles para fomentar prácticas de enseñanza eficaces.
+Somos una organización sin fines de lucro que nutre una comunidad docente hispanohablante enseñando métodos educativos concretos, basados en evidencia y centrados en tus estudiantes. Desarrollamos colaborativamente recursos abiertos, reutilizables y accesibles para fomentar prácticas de enseñanza eficaces.
 
 ## Qué ofrecemos
 
