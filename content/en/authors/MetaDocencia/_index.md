@@ -24,16 +24,13 @@ superuser: true
 user_groups:
 ---
 
-## Why?
+## Our vision
 
-We were born on March 16th, 2020 out of the need to move university classes online fast in Argentina during the COVID-19 pandemic and our intention to help in this situation. 
+We are an inclusive and collaborative community that improves education by empowering instructors from underserved countries.
 
-## Our mission and vision
+## Our mission
 
-**Vision**: We are an inclusive and collaborative community that improves education by empowering instructors from underserved countries.
-
-**Mission**: We are a non-profit organization that nurtures a community of Spanish-speaking educators by teaching concrete, evidence-based, and student-centered educational methods. We collaboratively develop open, reusable, and accessible resources to foster effective training practices.
-
+We are a non-profit organization that nurtures a community of Spanish-speaking educators by teaching concrete, evidence-based, and student-centered educational methods. We collaboratively develop open, reusable, and accessible resources to foster effective training practices.
 
 ## What we offer
 
