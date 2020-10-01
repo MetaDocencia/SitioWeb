@@ -2,9 +2,9 @@
 date: "2020-09-01"
 draft: false
 type: page
-linktitle: Share educational material and maintain authorship.
+linktitle: Share educational material and maintain authorship
 summary: Sharing your educational material so that others can use it is a powerful and generous idea. In this post we tell you how to do it while maintaining your authorship.
-title: Share educational material and maintain authorship.
+title: Share educational material and maintain authorship
 authors: 
     - yabellini
 type: post
