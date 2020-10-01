@@ -24,10 +24,10 @@
   url = "#publicaciones"
   weight = 30
 
-[[main]]
-  name = "Acknowledgements"
-  url = "#agradecimientos"
-  weight = 56
+# [[main]]
+#  name = "Acknowledgements"
+#  url = "#agradecimientos"
+#  weight = 56
   
   
 [[main]]
