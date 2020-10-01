@@ -2,9 +2,9 @@
 date: "2020-05-16"
 draft: false
 type: page
-linktitle: Reconocimiento a quienes nos ayudaron a dar nuestros primero pasos
-summary: Ejercicios compartidos, notas compartidas, preguntas compartidas. Una de las herramientas que recomendamos para mantener la motiviación de tus estudiantes. En este post te contamos cómo implementarla.
-title: Compartiendo trabajo en tiempo real durante tu clase
+linktitle: agradecimientos
+summary: Los primeros días de MetaDocencia, desde que tuvimos la idea inicial hasta que dimos nuestro primer curso, no habría sido posible sin el apoyo y todo el material abierto que comparten varias organizaciones y personas.
+title: Reconocimiento a quienes nos ayudaron a dar nuestros primero pasos
 authors: 
     - lacion
 type: post
