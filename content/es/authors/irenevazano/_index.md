@@ -4,7 +4,7 @@ authors:
 bio: ""
 education:
   courses:
-  - course: Técnica en bibliotecnología.
+  - course: Estudiante de Licenciatura en Bibliotecología.
     institution:  
     year: 
 email: ""
