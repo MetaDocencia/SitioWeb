@@ -22,7 +22,7 @@ interests:
 - Investigación clínica
 - Adicciones
 - Ciencia abierta
-name: Laura Acion
+name: Laura Ación
 organizations:
 - name: Instituto del Cálculo - CONICET
   url: http://www.ic.fcen.uba.ar/en/
