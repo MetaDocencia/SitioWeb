@@ -14,7 +14,7 @@ tags:
   - motivación
 ---
 
-_Nota de MetaDocencia:_ Tenemos el enorme honor de que [Manuel Calvelo Ríos](https://es.wikipedia.org/wiki/Manuel_Calvelo_R%C3%ADos) nos haya autorizado a adaptar [este texto](http://www.pedagogiaycomunicacion.org/inicio/documentos/pautas-pedag%C3%B3gicas/) de su autoría y haya aceptado ser co-autor de esta publicación en el nuestra página. 
+_Nota de MetaDocencia:_ Tenemos el enorme honor de que [Manuel Calvelo Ríos](https://es.wikipedia.org/wiki/Manuel_Calvelo_R%C3%ADos) nos haya autorizado a adaptar [este texto](http://www.pedagogiaycomunicacion.org/inicio/documentos/pautas-pedag%C3%B3gicas/) de su autoría y haya aceptado ser co-autor de esta publicación en nuestra página. 
  
 _________
  
