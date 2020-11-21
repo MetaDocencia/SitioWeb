@@ -42,11 +42,11 @@ Durante la comunicación con las personas asistentes (ya sea por mail o formular
 
 - Fuentes recomendadas:
     
-    - del tipo **Sans-serifs**: Arial, Calibri, and Century Gothic
+    - del tipo **Sans-serifs**: Arial, Calibri y Century Gothic
     
-    - del tipo **Serifs**: Times New Roman and Georgia
+    - del tipo **Serifs**: Times New Roman y Georgia
     
-    - del tipo **Slab serifs**: Rockwell and Avro
+    - del tipo **Slab serifs**: Rockwell y Avro
     
 
 ### Imágenes, gráficos y tablas
