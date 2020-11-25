@@ -38,7 +38,7 @@ hero_media = "hero_logo.png"
 #   Remove a link/note by deleting a cta/note block.
 [cta]
   url = "https://docs.google.com/forms/d/e/1FAIpQLSddnptIAMdRgJYH0Vm6cNrk63x5f969Rd4pbuoGKmDgN02xFw/viewform?usp=send_form"
-  label = "Pre-registration form"
+  label = "Pre-registration form for 2021"
   icon_pack = "fas"
   icon = "edit"
   
