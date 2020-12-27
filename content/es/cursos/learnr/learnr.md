@@ -11,6 +11,10 @@ type: course
 weight: 1
 ---
 
+{{% alert note %}}
+En construcción
+{{% /alert %}}
+
 ### Objetivos
 
 El **objetivo** de este curso es introducir a los asistentes al paquete {learnr} y como utilizarlo para generar tutoriales interactivos que permitan a los y las estudiantes escribir y ejecutar código R directamente en el tutorial, contestar preguntas y recibir feedback inmediato.
