@@ -3,7 +3,7 @@ date: "2020-10-03"
 draft: false
 type: page
 linktitle: Generando tutoriales interactivos con el paquete {learnr}
-summary: Aprende como usar {learnr} para construir tutoriales interactivos con R.
+summary: Aprende como usar {learnr} para construir tutoriales interactivos con R.  Curso en desarrollo.
 title: Generando tutoriales interactivos con el paquete {learnr}
 authors: 
     - yabellini
@@ -12,7 +12,7 @@ weight: 1
 ---
 
 {{% alert note %}}
-En construcción
+En desarrollo.Piloto realizado en LatinR 2020.
 {{% /alert %}}
 
 ### Objetivos
