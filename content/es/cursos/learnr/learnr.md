@@ -113,9 +113,8 @@ Es decir, podés reusar o editar cualquier material que aparece acá, lo único 
 
 ### Materiales
 
-* [Presentación que usamos en el curso]() con notas ampliando el contenido para quienes dan la clase
+* [Presentación que usamos en el curso](https://docs.google.com/presentation/d/1QLRUbERgEk85s8qK6mzmMJn7avQ_bEmTn_NzFYgqwkc/edit?usp=sharing) con notas ampliando el contenido para quienes dan la clase
 
-* [Plantilla de formulario para la encuesta de fin del taller]()
-
+* [Plantilla de formulario para la encuesta de fin del taller](https://docs.google.com/forms/d/1Rw4AMtM32ivHtU-nWufSL1BWe0mmTgHl7953-exZsh8/edit?usp=sharing)
 
 * [Video del curso](https://youtu.be/n6IaftU1yjM)
