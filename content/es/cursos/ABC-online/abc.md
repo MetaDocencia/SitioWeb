@@ -11,4 +11,8 @@ type: course
 weight: 1
 ---
 
-Gracias por tu interés. Más detalles pronto
+{{% alert note %}}
+En construcción. Gracias por tu interés. Más detalles pronto
+{{% /alert %}}
+
+
