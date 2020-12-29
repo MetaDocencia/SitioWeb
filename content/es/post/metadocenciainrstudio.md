@@ -17,13 +17,13 @@ tags:
 
 ## ¿Qué?
 
-El 16 de marzo de 2020 todas las clases presenciales en Argentina fueron canceladas debido a la pandemia, sin tener una indicación clara de cuándo se reanudarían. Por ese motivo un grupo de personas dicadas a actividades académicas, de investigación y docencia con profundos vínculos con sus comunidades en América Latina y que hemos estado trabajando en conjunto en la comunidad R, fundamos [MetaDocencia](https://www.metadocencia.org/). 
+El 16 de marzo de 2020 todas las clases presenciales en Argentina fueron canceladas debido a la pandemia, sin tener una indicación clara de cuándo se reanudarían. Por ese motivo un grupo de personas dedicadas a actividades académicas, de investigación y docencia con profundos vínculos con  comunidades de investigación y docencia de América Latina que hemos estado trabajando en conjunto en la comunidad R, fundamos [MetaDocencia](https://www.metadocencia.org/). 
 
 Nuestra misión es nutrir una comunidad docente hispanohablante enseñando métodos educativos concretos, basados en evidencia y centrados en las/os estudiantes. Desarrollamos colaborativamente recursos abiertos, reutilizables y accesibles para fomentar prácticas de enseñanza eficaces.
 
 Puedes leer más sobre nuestra misión y materiales (tanto en español como en inglés) en nuestro sitio web:
 
-{{< figure src="/img/es-en_rstudio_post.png">}}
+{{< figure src="/img/es-en_rstudio_post.png" alt="captura de pantalla del sitio web de Metadocencia en español y en inglés" >}}
 
 
 ## ¿Por qué?
