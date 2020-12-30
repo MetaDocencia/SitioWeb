@@ -34,13 +34,13 @@ Es necesario realizar un trabajo de nivelación antes de que sea factible una in
 
 ## ¿Cómo?
 
-Nos hemos centrado principalmente en un taller de 3 horas llamado [Introduction al ABC para enseñar on-line](https://www.metadocencia.org/cursos/abc-online/intro-abc/). Este taller práctico aplicar recursos educativos abiertos para enseñar cómo administrar un aula sincrónica e incluye consejos prácticos basados en evidencia para dar una clase en línea atractiva con los recursos que aprendimos de [The Carpentries](https://carpentries.org/) y [RStudio Instructor training](https://education.rstudio.com/trainers/). Este es un taller de primeros pasos en el que presentamos los aspectos clave de nuestra filosofía de enseñanza (Ej., Código de conducta, licencias abiertas, construcción de comunidades, enseñanza activa). Los participantes experimentan cada uno de nuestros consejos y recomendaciones a partir de la [preinscripción](https://docs.google.com/forms/d/e/1FAIpQLSddnptIAMdRgJYH0Vm6cNrk63x5f969Rd4pbuoGKmDgN02xFw/viewform) y para mantenerse en contacto después del curso por medio de nuestro  [Slack](https://join.slack.com/t/metadocencia/shared_invite/zt-ek8a0rup-MQB_5qUKhr9zIGKQAUImXA). Desde el 27 de marzo de 2020, impartimos este taller 44 veces a una gran fracción de los más de 1.250 profesores de habla hispana de 19 países, que mostrsaron su interés registrándose, con una tasa de finalización superior al 90%.
+Nos hemos centrado principalmente en un taller de 3 horas llamado [Introduction al ABC para enseñar on-line](https://www.metadocencia.org/cursos/abc-online/intro-abc/). Este taller práctico aplica recursos educativos abiertos para enseñar cómo administrar un aula sincrónica e incluye consejos prácticos basados en evidencia para dar una clase en línea atractiva con los recursos que aprendimos de [The Carpentries](https://carpentries.org/) y [RStudio Instructor training](https://education.rstudio.com/trainers/). Este es un taller de primeros pasos en el que presentamos los aspectos clave de nuestra filosofía de enseñanza (Ej. Código de conducta, licencias abiertas, construcción de comunidades, enseñanza activa). Los participantes experimentan cada uno de nuestros consejos y recomendaciones a partir de la [preinscripción](https://docs.google.com/forms/d/e/1FAIpQLSddnptIAMdRgJYH0Vm6cNrk63x5f969Rd4pbuoGKmDgN02xFw/viewform) y se mantienen en contacto después del curso por medio de nuestro [Slack](https://join.slack.com/t/metadocencia/shared_invite/zt-ek8a0rup-MQB_5qUKhr9zIGKQAUImXA). Desde el 27 de marzo de 2020, impartimos este taller 44 veces a una gran porción de los más de 1.250 profesores de habla hispana de 19 países, que mostraron su interés registrándose, con una tasa de finalización superior al 90%.
 
 {{< figure src="/img/world_map.png">}}
 
-Estamos probando un taller práctico de 2 horas sobre [cómo usar Zoom para enseñar en línea](https://www.metadocencia.org/cursos/herramientas/zoom/), que es la solicitud más común de nuestras/os participantes. También estamos creando un taller de 3 horas para [crear tutoriales interactivos para enseñar R usando el paquete {learnr}](https://youtu.be/n6IaftU1yjM) que será parte de un curso más extenso sobre cómo enseñar programación.
+Desde hace un tiempo estamos probando un taller práctico de 2 horas sobre [cómo usar Zoom para enseñar en línea](https://www.metadocencia.org/cursos/herramientas/zoom/), que es la solicitud más común de nuestras/os participantes. También estamos creando un taller de 3 horas para [crear tutoriales interactivos para enseñar R usando el paquete {learnr}](https://youtu.be/n6IaftU1yjM) que será parte de un curso más extenso sobre cómo enseñar programación.
 
-Fomentamos una comunidad 100% hispanohablante a través de un [espacio de trabajo de Slack](https://join.slack.com/t/metadocencia/shared_invite/zt-ek8a0rup-MQB_5qUKhr9zIGKQAUImXA), donde se anima a más de 350 miembros a compartir su material, recursos y experiencias. También somos activos en [twitter](https://twitter.com/metadocencia) y [creamos contenido asincrónico](https://www.metadocencia.org/).
+Fomentamos una comunidad 100% hispanohablante a través de un [espacio de trabajo de Slack](https://join.slack.com/t/metadocencia/shared_invite/zt-ek8a0rup-MQB_5qUKhr9zIGKQAUImXA), donde se alienta a los más de 350 miembros a compartir su material, recursos y experiencias. También somos activos en [twitter](https://twitter.com/metadocencia) y [creamos contenido asincrónico](https://www.metadocencia.org/).
 
 ## ¿Con quién?
 
@@ -52,13 +52,13 @@ Impartimos tutoriales para [LatinR](https://latin-r.com/), una conferencia latin
 
 También tradujimos al español material educativo y técnico, como el libro [Teaching Teach Together](https://teachtogether.tech/es/index.html) de Greg Wilson.
 
-Finalmente, gracias al generoso apoyo de The Carpentries, organizamos un Taller de Capacitación de Instructores a la carta en español que completaron el 95% de las personas que participaron.
+Finalmente, gracias al generoso apoyo de The Carpentries, organizamos un Taller de Capacitación de Instructores a la carta en español que fue completado por el 95% de las personas que participaron.
 
 ## ¿Quiénes?
 
 Logramos nuestra misión con el trabajo de un [grupo de voluntarias/os](https://www.metadocencia.org/en/#equipo) que crece rápidamente y que tiene experiencia en la enseñanza de habilidades técnicas, impartir clases en línea y trabajar de forma remota, tanto a nivel local y global. Nuestro equipo ahora incluye 11 colaboradores en 3 países y 6 ciudades diferentes en Argentina. Son instructoras/es certificadas/os por RStudio y/o de The Carpentries y/o expertos regionales en accesibilidad.
 
-Todas las actividades de MetaDocencia son gratuitas y [abiertas](https://github.com/MetaDocencia) y se llevan a cabo mediante trabajo 100% voluntario, con un pequeña subsidio de la Open Bioinformatics Foundation para cubrir los costos de infraestructura.
+Todas las actividades de MetaDocencia son gratuitas y [abiertas](https://github.com/MetaDocencia) y se llevan a cabo mediante trabajo 100% voluntario, con un pequeño subsidio de la Open Bioinformatics Foundation para cubrir los costos de infraestructura.
 
 También contamos con el consejo de un equipo asesor internacional que nos guía en nuestro objetivo de *pensar globalmente mientras actuamos localmente*.
 
