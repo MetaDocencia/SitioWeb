@@ -4,7 +4,6 @@ draft: false
 type: page
 linktitle: Reporte 2020: a la gran comunidad de MetaDocencia, ¡salud!
 summary: Ya pasó el 2020. Recorrimos un largo camino, que te contamos acá.
-
 title: Reporte 2020: a la gran comunidad de MetaDocencia, ¡salud!
 authors: 
     - npalopoli
