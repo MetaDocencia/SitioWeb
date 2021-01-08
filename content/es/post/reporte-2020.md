@@ -42,7 +42,7 @@ Ya con presencia en la [web](https://metadocencia.netlify.app), en [Twitter](htt
 
 Además, dictamos 8 cursos abreviados **Cómo enseñar (y hacer otras cosas) on-line** para 88 participantes de [INTA](https://www.inta.gob.ar) y dos pilotos de nuevos cursos: el [**Taller de Zoom**](https://metadocencia.netlify.app/cursos/herramientas/zoom/) y el curso [Generando tutoriales interactivos con el paquete {learnr}](https://metadocencia.netlify.app/cursos/learnr/learnr/), este último, en el contexto de la conferencia *latinR*. 
 
-Durante cuatro jornadas de agosto de 2020, tres miembros del Equipo Coordinador dictamos el primer **Curso de Instructores The Carpentries por MetaDocencia**, destinado al "entrenamiento de entrenadores". Como resultado, 19 participantes fueon certificados como Instructores en el programa internacional [The Carpentries](https://carpentries.org/), que busca enseñar habilidades de programación y ciencia de datos para investigadores. 
+Durante cuatro jornadas de agosto de 2020, tres miembros del Equipo Coordinador dictamos el primer **Curso de Instructores The Carpentries por MetaDocencia**, destinado al "entrenamiento de entrenadores". Como resultado, 19 participantes fueron certificados como Instructores en el programa internacional [The Carpentries](https://carpentries.org/), que busca enseñar habilidades de programación y ciencia de datos para investigadores. 
 
 ## Tuvimos presencia online
 
