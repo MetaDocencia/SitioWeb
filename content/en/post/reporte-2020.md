@@ -2,13 +2,13 @@
 date: "2021-01-05"
 draft: false
 type: page
-linktitle: 2020 Report. ¡Cheers to the great MetaDocencia community!
+linktitle: 2020 Report. Cheers to the great MetaDocencia community!
 summary: 2020 is over. We came a long way and we tell you about it here.
-title: 2020 Report. ¡Cheers to the great MetaDocencia community!
+title: 2020 Report. Cheers to the great MetaDocencia community!
 authors: 
     - npalopoli
     - paocorrales
-    - rominapedino
+    - rominapendino
     - violeta
 type: post
 weight: 1
@@ -28,7 +28,6 @@ While we work on what's next, we invite you to review all the good things that b
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vROJqYrvAzbbpGUSJp_YKWdtaZVJjxcYmVvpJaEtfn_dOfsLDPCHNIStwDRBiu82n37y8espqlFNw8k/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQwLoteaUjqVZtPibnaC419D632Y5a_TxCrRKe3pC_ibH67B4Lg-mfyvGxL1UGkMMtsi_YG-kumVMOM/embed?start=false&loop=true&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## A lot has happened
 
