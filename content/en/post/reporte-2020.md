@@ -31,7 +31,7 @@ While we work on what's next, we invite you to review all the good things that b
 
 ## A lot has happened
 
-MetaDocencia was born on Martch 16th 2020 as an initiative of four people, early joined by another one to constitute the current [Core Team](https://metadocencia.netlify.app/en/#equipo). More volunteeers joined late and we now have 10 **Contributors** and 5 **Advisory Team** members. Their participation in daily activities and monthly meetings is essential to sustain the activities of MetaDocencia.
+MetaDocencia was born on March 16th 2020 as an initiative of four people, early joined by another one to constitute the current [Core Team](https://metadocencia.netlify.app/en/#equipo). More volunteeers joined late and we now have 10 **Contributors** and 5 **Advisory Team** members. Their participation in daily activities and monthly meetings is essential to sustain the activities of MetaDocencia.
 
 More than **1200 teachers** from **20 countries** showed interest in our courses. Most came from the city of Buenos Aires and its surroundings, but we have shared the classroom with teachers from all provinces in Argentina. As we deal with content in Spanish, and thanks to the presence of Spanish-speaking individuals throughout the world, our reach exceeds Latin America. Our courses have been taken by more than **700 educators** from Argentina, Uruguay, Bolivia, Chile, Peru, Costa Rica, Mexico, Spain, and also in the United States of America, France, Canada and the United Kingdom.
 
@@ -41,7 +41,7 @@ Those teachers who took part in MetaDocencia deliver courses for **all education
 
 Already present in the [web](https://metadocencia.netlify.app/en/), on [Twitter](http://twitter.com/metadocencia) and with an active [pre-registration form](https://docs.google.com/forms/d/e/1FAIpQLSddnptIAMdRgJYH0Vm6cNrk63x5f969Rd4pbuoGKmDgN02xFw/viewform), on March 27th 2020 we delivered the first edition of our flagship course [**Introduction to online teaching essentials**](https://metadocencia.netlify.app/en/cursos/abc-online/intro-abc/). We had 41 editions of this course up to October 26th, 34 of those as the standard workshop (with 494 participants) and 7 adapted 'à la carte' (137 participants). 
 
-Moreover, we gave 8 brief courses **How to teach (and do other stuff) on-line** for 88 participants from the [National Agricultural Technology Institute (INTA)](https://www.inta.gob.ar). We also piloted two new courses, the [**Zoom Workshop**](https://metadocencia.netlify.app/cursos/herramientas/zoom/) and [Generating interactive tutorials with the {learnr} package](https://metadocencia.netlify.app/cursos/learnr/learnr/), the latter delivered as part of the *latinR* conference. 
+Moreover, we gave 8 brief courses **How to teach (and do other stuff) on-line** for 88 participants from the [National Agricultural Technology Institute (INTA)](https://www.inta.gob.ar). We also piloted two new courses, the [**Zoom Workshop**](https://metadocencia.netlify.app/cursos/herramientas/zoom/) and [Generating interactive tutorials with the {learnr} package](https://metadocencia.netlify.app/cursos/learnr/learnr/), the latter delivered as part of the *LatinR* conference. 
 
 Over four days in August 2020, three Core Team members delivered the first **The Carpentries Instructor Training course by MetaDocencia** to 'train the trainers'. As a result, 19 participants were certified as Instructors in the international project [The Carpentries](https://carpentries.org/) that aims to teach computational and data science skills to researchers. 
 
@@ -107,7 +107,7 @@ Following is the timeline of the many and diverse events in which MetaDocencia w
 
 *   10/23/2020 - [Plataforma de Asistencia Estadística INTA](https://docs.google.com/presentation/d/1jFA5xQ0i5qdSv-N3wktu2ZqHaXgtJh5Ue_CIKTWQCzY/edit?usp=sharing)
 
-    [Yanina Bellini Saibene](https://metadocencia.netlify.app/authors/yabellini/) presenta a MetaDocencia en su charla **Comunidades de práctica para I+D y T+E: R y colegas** para la Plataforma de Asistencia Estadística del [INTA](https://www.argentina.gob.ar/inta) y la [Red INTAJoven](https://twitter.com/IntaJoven). 
+    [Yanina Bellini Saibene](https://metadocencia.netlify.app/authors/yabellini/) presents MetaDocencia in hes talk **Comunidades de práctica para I+D y T+E: R y colegas (Communities of practice for R+D and T+E: R and colleagues)** for the Statistical Assistance Platform of [INTA](https://www.argentina.gob.ar/inta) and the [Red INTAJoven](https://twitter.com/IntaJoven). 
 
 *   10/27/2020 - [IEEE International Conference on Image Processing](https://youtu.be/at_e0b_M118)
 
