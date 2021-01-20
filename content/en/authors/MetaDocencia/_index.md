@@ -34,7 +34,7 @@ We are a non-profit organization that nurtures a community of Spanish-speaking e
 
 ## What we offer
 
-We aim to share practical tools to help teachers to teach online. We teach online synchronous [workshops](cursos/) in Spanish. We designed these workshops with higher education teachers in mind, but instructors teaching outside of higher education and students who want to collaborate in classes can also participate.
+We aim to share practical tools to help teachers to improve their classes. We teach online synchronous [workshops](cursos/) in Spanish. We designed these workshops with higher education teachers in mind, but instructors teaching outside of higher education and students who want to collaborate in classes can also participate.
 
 Our virtual courses are short and centered in the design of materials and classroom management to maximise students' learning without anyone getting exhausted. 
   

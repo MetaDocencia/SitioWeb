@@ -10,7 +10,5 @@ Our (virtual and free) courses are intended for upper-level Spanish-speaking tea
 
 We will do our best to invite you to take our workshops as soon as possible. When we do so, you will receive an email with the instructions to join the online course. We will use the [Zoom](https://zoom.us/) platform. If you are not familiar with it, do not worry, part of what we will do is to help you familiarise with it. You will receive all the instructions you will need in our initial contact email.
 
-{{< cta "https://forms.gle/wTQCxCoCe6jGTy217" "Pre-registrarse" "center" >}}
-
 
 ## Our courses
