@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 5  # Order that this section will appear.
 
-title = "Cursos cortos para enseñar online"
+title = "Cursos cortos para desarrollar clases activas aplicando herramientas prácticas"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "hero_logo.png"
@@ -38,7 +38,7 @@ hero_media = "hero_logo.png"
 #   Remove a link/note by deleting a cta/note block.
 [cta]
   url = "https://docs.google.com/forms/d/e/1FAIpQLSddnptIAMdRgJYH0Vm6cNrk63x5f969Rd4pbuoGKmDgN02xFw/viewform?usp=send_form"
-  label = "Formulario de pre-inscripción 2021"
+  label = "Registración"
   icon_pack = "fas"
   icon = "edit"
   
@@ -53,5 +53,5 @@ hero_media = "hero_logo.png"
 
 
 
-Para participar de nuestros cursos, completá el formulario de pre-inscripción. En unos días te vamos a contactar con una propuesta de horario. 
+Para participar de nuestros cursos, completá el formulario de registración y pre-inscribirte en alguno de [nuestros cursos](/cursos/). En unos días te vamos a contactar con una propuesta de horario. 
 

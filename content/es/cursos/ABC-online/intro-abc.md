@@ -11,6 +11,8 @@ type: course
 weight: 1
 ---
 
+
+
 ### Objetivos 
 
 Introducir buenas prácticas básicas para manejo del aula presencial, pero usando Zoom (o plataforma para reuniones online similar). Cada detalle del taller, empezando por el formulario de demostración de interés y pre-inscripción hasta el pedido de devolución cuando termina el taller, pasando por la ejecución del mismo usando Zoom, son una demostración de estrategias que pueden ser adoptadas o adaptadas a cualquier tarea docente que sucede interactuando en simultáneo con estudiantes (clase sincrónica).
@@ -52,7 +54,6 @@ Como tenemos sólo tres horas, muchas cosas quedarán fuera del alcance del tall
 
 Por favor, completá [este formulario](https://forms.gle/wTQCxCoCe6jGTy217) si querés ser parte de este curso. Haremos todo lo que esté a nuestro alcance para convocarte a tomar este taller lo antes posible. Te pedimos que seas paciente y esperes a que te enviemos un email con la invitación. Cualquier mensaje por fuera de este formulario nos resta tiempo para poder brindar este taller lo antes posible a la mayor cantidad de gente posible. Muchas gracias por tu comprensión y paciencia.
 
-{{< cta "https://forms.gle/wTQCxCoCe6jGTy217" "Pre-inscribite" "center" >}}
 
 El taller es gratuito. Las personas que sean invitadas al taller se comprometen a cumplir con nuestro [código de conducta](https://metadocencia.netlify.app/cdc/).
 
