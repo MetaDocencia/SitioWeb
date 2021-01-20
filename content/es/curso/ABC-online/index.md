@@ -3,14 +3,13 @@ date: "2020-03-22"
 draft: false
 type: page
 linktitle: Introducción al ABC para enseñar online
-summary: Taller presencial online de introducción para enseñar online cualquier tema. Página en modificación continua. Falta información sobre el curso, esperamos completarla muy pronto.
+summary: Taller presencial online de introducción para enseñar online cualquier tema. 
 title: Introducción al ABC para enseñar online
 authors: 
     - "MetaDocencia"
 type: course
 weight: 1
 ---
-
 
 
 ### Objetivos 
