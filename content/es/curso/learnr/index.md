@@ -8,7 +8,7 @@ title: Generando tutoriales interactivos con el paquete {learnr}
 authors: 
     - yabellini
 type: course
-weight: 1
+weight: 30
 ---
 
 {{% alert note %}}
