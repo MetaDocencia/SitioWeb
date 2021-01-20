@@ -69,7 +69,3 @@ Seguimos este [código de conducta](https://metadocencia.netlify.com/cdc/).
 
 Estas máximas surgen de la experiencia de [The Carpentries](https://carpentries.org), que lleva dos décadas formando docentes y están desarrolladas en el libro gratuito [Teaching Tech Together](https://teachtogether.tech/).
 
-
-## ¿Querés que te mandemos novedades?
-
-Por favor, completá [este formulario](https://forms.gle/wTQCxCoCe6jGTy217).
