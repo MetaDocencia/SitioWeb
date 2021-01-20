@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Short courses for teaching online"
+title = "Short courses to teach active classes"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "hero_logo.png"
@@ -38,7 +38,7 @@ hero_media = "hero_logo.png"
 #   Remove a link/note by deleting a cta/note block.
 [cta]
   url = "https://docs.google.com/forms/d/e/1FAIpQLSddnptIAMdRgJYH0Vm6cNrk63x5f969Rd4pbuoGKmDgN02xFw/viewform?usp=send_form"
-  label = "Pre-registration form for 2021"
+  label = "Registration"
   icon_pack = "fas"
   icon = "edit"
   
@@ -51,5 +51,5 @@ hero_media = "hero_logo.png"
 #   label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-To take part in out courses, please fill in the pre-registration form. A few days later we'll be contacting you with a proposed schedule. 
+To take part in out courses, please fill in the registration form and then pre-register to one of [our courses](/en/cursos/). A few days later we'll be contacting you with a proposed schedule. 
 

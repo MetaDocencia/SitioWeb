@@ -34,7 +34,7 @@ Somos una organización sin fines de lucro que nutre una comunidad docente hispa
 
 ## Qué ofrecemos
 
-Nos proponemos socializar herramientas prácticas para acompañar a las personas que se dedican a la docencia en la virtualización de la enseñanza. Damos [cursos](/cursos) presenciales y online (también llamados cursos sincrónicos online). Diseñamos estos cursos pensando en docentes de nivel superior (terciario/universitario) pero también pueden participar docentes de otros niveles y estudiantes que quieran colaborar en las clases.
+Nos proponemos socializar herramientas prácticas para acompañar a las personas que se dedican a la docencia. Damos [cursos](/cursos) presenciales y online (también llamados cursos sincrónicos online). Diseñamos estos cursos pensando en docentes de nivel superior (terciario/universitario) pero también pueden participar docentes de otros niveles y estudiantes que quieran colaborar en las clases.
 
 Nuestros cursos virtuales son cortos y aplicados al diseño de materiales y una gestión del aula para que tus estudiantes maximicen su aprendizaje sin que nadie se desgaste de más. 
 
@@ -69,7 +69,3 @@ Seguimos este [código de conducta](https://metadocencia.netlify.com/cdc/).
 
 Estas máximas surgen de la experiencia de [The Carpentries](https://carpentries.org), que lleva dos décadas formando docentes y están desarrolladas en el libro gratuito [Teaching Tech Together](https://teachtogether.tech/).
 
-
-## ¿Querés que te mandemos novedades?
-
-Por favor, completá [este formulario](https://forms.gle/wTQCxCoCe6jGTy217).
