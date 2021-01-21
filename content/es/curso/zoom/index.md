@@ -1,9 +1,10 @@
 ---
 date: "2020-05-15"
 draft: false
-type: page
+image:
+  caption: "[Photo by Holly Mindrup on Unsplash](https://unsplash.com/photos/-uPDkAK6f8A)"
 linktitle: Taller de Zoom
-summary: 
+summary: "En este taller vamos a familiarizarnos con las opciones y herramientas de Zoom"
 title: Taller de Zoom
 authors: 
   - "MetaDocencia"
