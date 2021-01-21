@@ -6,8 +6,8 @@ linktitle: ¿Cómo ser ayudante en MetaDocencia?
 summary: En este post vas a poder encontrar algunos conceptos que te pueden ser de utilidad a la hora de comenzar a colaborar en el rol de ayudante. Estamos convencidos/as de que todas/os tenemos algo para aprender y todas/os tenemos algo para enseñar dentro de nuestra comunidad. 
 title: ¿Cómo ser ayudante en MetaDocencia?
 authors:
-    - RomiZP
-    - 4iro
+    - RominaPendino
+    - irenevazano
 type: post
 weight: 1
 tags: 
