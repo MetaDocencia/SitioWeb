@@ -13,7 +13,7 @@ weight: 30
 ---
 
 {{% alert note %}}
-En desarrollo.Piloto realizado en LatinR 2020.
+En desarrollo. Piloto realizado en LatinR 2020.
 {{% /alert %}}
 
 ### Objetivos
@@ -118,7 +118,7 @@ _tiempo total: 10 minutos_
 
 * [Plantilla de formulario para la encuesta de fin del taller](https://docs.google.com/forms/d/1Rw4AMtM32ivHtU-nWufSL1BWe0mmTgHl7953-exZsh8/edit?usp=sharing)
 
-* [Video del curso](https://youtu.be/n6IaftU1yjM)
+* [Video del curso](https://youtu.be/d7eXzRzEdC8)
 
 ### ¿Te vienen bien cualquiera de nuestros contenidos? ¡Servite sin culpa!
 
