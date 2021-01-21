@@ -34,9 +34,9 @@ Somos una organización sin fines de lucro que nutre una comunidad docente hispa
 
 ## Qué ofrecemos
 
-Nos proponemos socializar herramientas prácticas para acompañar a las personas que se dedican a la docencia. Damos [cursos](/cursos) presenciales y online (también llamados cursos sincrónicos online). Diseñamos estos cursos pensando en docentes. Sin embargo, nuestros materiales son útiles también para hacer cualquier otro tipo de intercambios de conocimiento (por ejemplo, dar charlas, seminarios, o conferencias online).
+Nos proponemos socializar herramientas prácticas para acompañar a las personas que se dedican a la docencia. Damos [cursos](/cursos) remotos. Diseñamos estos cursos pensando en docentes. Nuestros cursos también son útiles para hacer cualquier otro tipo de intercambio de conocimiento (por ejemplo, dar charlas o seminarios).
 
-Nuestros cursos se ofrecen en forma remota, son cortos y aplicados al diseño de materiales y a una gestión del espacio de intercambio para que tus participantes maximicen su aprendizaje sin que nadie se desgaste de más. 
+Nuestros cursos se ofrecen en forma remota, son cortos y aplicados al diseño de materiales y a una gestión del espacio de intercambio tal que tus participantes maximicen su aprendizaje sin que nadie se desgaste de más. 
 
 Todos nuestros cursos son gratuitos y nuestros materiales tienen [licencia abierta](https://metadocencia.netlify.com/terms/). Es decir, puedes reusar o editar cualquier material que aparece en este sitio web, lo único que pedimos a cambio es que en cualquier material que generes reusando nuestros contenidos incluyas una referencia a esta web.
 
