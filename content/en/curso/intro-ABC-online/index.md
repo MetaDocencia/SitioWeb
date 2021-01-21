@@ -52,7 +52,7 @@ Since we only have 3 hours, a lot of things will be out of reach of the workshop
 
 ### How to participate 
 
-Please complete [this registration form in Spanish](https://forms.gle/wTQCxCoCe6jGTy217) (if you have already done so, you do not need to complete it again). As soon as we open slots we will send you an invitation email so you can choose the day and time that suits you best. 
+Please complete [this registration form in Spanish](https://docs.google.com/forms/d/e/1FAIpQLScC20Me-fX7UmCNhNswulYfOVQF4XiyIHgtde_R8CWreCmWhA/viewform?usp=sf_link) (if you have already done so, you do not need to complete it again). As soon as we open slots we will send you an invitation email so you can choose the day and time that suits you best. 
 
 The workshop is free. Those invited to the workshop agree to abide by our [code of conduct](cdc).
 
