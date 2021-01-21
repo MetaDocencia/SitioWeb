@@ -77,7 +77,6 @@ subtitle = ""
 
 
 
-Nuestros cursos --virtuales y totalmente gratuitos-- están pensados para docentes de nivel superior (terciario/universitario) pero también pueden participar docentes de otros niveles educativos, cursos y actividades no formales. Para participar por favor completá [este formulario de registración](https://docs.google.com/forms/d/e/1FAIpQLSddnptIAMdRgJYH0Vm6cNrk63x5f969Rd4pbuoGKmDgN02xFw/viewform?usp=send_form) a MetaDocencia que automáticamente te pre-inscribe a nuestro primer curso Introducción al ABC para enseñar. Si además te interesa alguno de los otros cursos, en las páginas de cada uno encontrarás un botón para pre-inscribirte. 
+Nuestros cursos --remotos y totalmente gratuitos-- están pensados para docentes. También son útiles para otros intercambios de conocimiento (por ejemplo, charlas, seminarios). Para participar por favor completa [este formulario de registro](https://forms.gle/rLxqqPMR4p7tbZpV8) a MetaDocencia que automáticamente te pre-inscribe a nuestro primer curso Introducción al ABC para enseñar. Si además te interesa alguno de los otros cursos, en las páginas de cada uno encontrarás un botón para pre-inscribirte (en construcción). 
 
 Haremos todo lo que esté a nuestro alcance para invitarse a tomar nuestros talleres lo antes posible. Cuando lo hagamos, recibirás un email con todas las indicaciones para que puedas sumarte al curso online. Usaremos la plataforma [zoom](https://zoom.us/). ¿No conocés esa plataforma para reuniones virtuales? o ¿no sabés cómo usarla? No te preocupes, parte de lo que haremos será resolverte esas dos preguntas. Todas las instrucciones que necesitarás las vas a recibir en nuestro email de contacto inicial.
-
