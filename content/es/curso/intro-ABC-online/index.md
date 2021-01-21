@@ -52,7 +52,7 @@ Como tenemos sólo tres horas, muchas cosas quedarán fuera del alcance del tall
 
 ### Cómo participar 
 
-Registraste en MetaDocencia completando [el formulario de registro](https://forms.gle/wTQCxCoCe6jGTy217) (si ya lo hiciste, no es necesario que vuelvas a completarlo). En cuanto abramos vacanes te vamos a mandar un mail de invitación para que elijas el día y horario que más te convenga. 
+Registraste en MetaDocencia completando [el formulario de registro](https://docs.google.com/forms/d/e/1FAIpQLScC20Me-fX7UmCNhNswulYfOVQF4XiyIHgtde_R8CWreCmWhA/viewform?usp=sf_link) (si ya lo hiciste, no es necesario que vuelvas a completarlo). En cuanto abramos vacantes te vamos a mandar un mail de invitación para que elijas el día y horario que más te convenga. 
 
 El taller es gratuito. Las personas que sean invitadas al taller se comprometen a cumplir con nuestro [código de conducta](https://metadocencia.org/cdc/).
 
@@ -97,6 +97,6 @@ Este cronograma asume que el comienzo del curso es las 9 am, pero esto variará 
 
 * [Video del curso](https://www.youtube.com/watch?v=ojh4KgV0p3g)
 
-### ¿Te vienen bien cualquiera de nuestros contenidos? ¡Servite sin culpa!
+### ¿Te vienen bien cualquiera de nuestros contenidos? ¡Sirvete sin culpa!
 
-Nuestros materiales están disponibles en forma gratuita bajo esta [licencia](https://creativecommons.org/licenses/by/4.0/deed.es). Es decir, podés reusar o editar cualquier material que aparece acá, lo único que pedimos a cambio es que cuando tomes material de acá incluyas una referencia a esta página web.
+Nuestros materiales están disponibles en forma gratuita bajo esta [licencia](https://creativecommons.org/licenses/by/4.0/deed.es). Es decir, puedes reusar o editar cualquier material que aparece acá, lo único que pedimos a cambio es que cuando tomes material de acá incluyas una referencia a esta página web.
