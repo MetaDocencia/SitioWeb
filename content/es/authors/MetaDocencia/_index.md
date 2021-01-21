@@ -32,7 +32,7 @@ Somos una comunidad inclusiva y colaborativa que mejora la educación potenciand
 
 Somos una organización sin fines de lucro que nutre una comunidad docente hispanohablante enseñando métodos educativos concretos, basados en evidencia y centrados en tus estudiantes. Desarrollamos colaborativamente recursos abiertos, reutilizables y accesibles para fomentar prácticas de enseñanza eficaces.
 
-## Qué ofrecemos
+## ¿Qué ofrecemos?
 
 Nos proponemos socializar herramientas prácticas para acompañar a las personas que se dedican a la docencia. Damos [cursos](/cursos) remotos. Diseñamos estos cursos pensando en docentes. Nuestros cursos también son útiles para hacer cualquier otro tipo de intercambio de conocimiento (por ejemplo, dar charlas o seminarios).
 
