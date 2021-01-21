@@ -38,7 +38,7 @@ hero_media = "hero_logo.png"
 #   Remove a link/note by deleting a cta/note block.
 [cta]
   url = "https://docs.google.com/forms/d/e/1FAIpQLSddnptIAMdRgJYH0Vm6cNrk63x5f969Rd4pbuoGKmDgN02xFw/viewform?usp=send_form"
-  label = "Registración"
+  label = "Registro"
   icon_pack = "fas"
   icon = "edit"
   
@@ -53,5 +53,5 @@ hero_media = "hero_logo.png"
 
 
 
-Para participar de nuestros cursos, completá el formulario de registración y pre-inscribirte en alguno de [nuestros cursos](/cursos/). En unos días te vamos a contactar con una propuesta de horario. 
+Para participar de nuestros cursos, completa el formulario de registro. En unos días te contactaremos con una propuesta horaria. 
 
