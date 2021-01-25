@@ -31,10 +31,9 @@ Durante este taller online:
 
 ### Cómo participar 
 
-Para participar de este taller es necesario previamente haber participado en el curso [Intro al ABC para enseñar online](/cursos/abc-online/intro-abc/). Si ya hiciste ese curso, llená este formulario cortito (LINK PRÓXIMAMENTE) para que te tengamos en cuenta. 
+Para participar de este taller es necesario que te hayas [registrado](https://docs.google.com/forms/d/e/1FAIpQLScC20Me-fX7UmCNhNswulYfOVQF4XiyIHgtde_R8CWreCmWhA/viewform) y que hayas participado en el curso [Intro al ABC para enseñar online](/curso/intro-abc-online/). 
 
-Si no hiciste ese curso, por favor completá tu mail en el formulario de abajo. Haremos todo lo que esté a nuestro alcance para convocarte a tomar este taller lo antes posible. Te pedimos que seas paciente y esperes a que te enviemos un email con la invitación. Cualquier mensaje por fuera de este formulario nos resta tiempo para poder brindar este taller lo antes posible a la mayor cantidad de gente posible. Muchas gracias por tu comprensión y paciencia.
-
+Para inscribirte a este curso, por favor completá tu mail en el formulario de abajo con el mismo mail que usaste para registrarte.
 
 <iframe 
   src="https://script.google.com/macros/s/AKfycbwdYpQw4I2DYmEONGyUry4ABPgmxf5yCosDOxAYz5NUNrMB1bb4JA9OcQ/exec"
@@ -45,6 +44,8 @@ Si no hiciste ese curso, por favor completá tu mail en el formulario de abajo. 
   Explorador no compatible.
 </iframe> 
 
+
+En cuanto abramos vacantes te vamos a mandar un mail de invitación para que elijas el día y horario que más te convenga. 
 
 El taller es gratuito. Las personas que sean invitadas al taller se comprometen a cumplir con nuestro [código de conducta](https://metadocencia.netlify.app/cdc/).
 
