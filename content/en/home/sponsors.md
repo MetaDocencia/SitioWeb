@@ -54,9 +54,24 @@
 <div class="row">
 
   <div class="col-12 col-sm-auto">
-    <a href="https://twitter.com/intaanguil" target="_blank" rel="noopener"><img src="/img/logointa_2.jpg" alt="E.E.A. INTA Anguil Ing, Agr. Guillermo Covas"></a>
+    <a href="https://www.moore.org/" target="_blank" rel="noopener"><img src="/img/moore-logo-color_sm.jpg" alt="The Gordon and Betty Moore Foundation"></a>
   </div>
 
+  <div class="col-12 col-sm-auto">
+    <a href="https://codeforscience.org/" target="_blank" rel="noopener"><img src="/img/cs&s.png" alt="Code for Science & Society"></a>
+  </div>
+
+
+  <div class="col-12 col-sm-auto">
+    <a href="https://twitter.com/intaanguil" target="_blank" rel="noopener"><img src="/img/logointa_2.jpg" alt="E.E.A. INTA Anguil Ing, Agr. Guillermo Covas"></a>
+  </div>
+  
+</div>
+  
+
+## Previous sponsors
+ 
+<div class="row">
 
   <div class="col-12 col-sm-auto">
     <figure>
@@ -65,16 +80,13 @@
     </figure>
   </div>
   
-</div>
 
-
-## Previous sponsors
- 
-<div class="row">
 
   <div class="col-12 col-sm-auto">
     <a href="https://twitter.com/rladiesba" target="_blank" rel="noopener"><img src="/img/rladies-ba.jpg" alt="Rladies Buenos Aires"></a> 
   </div>
 
+
 </div>
+
   
