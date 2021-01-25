@@ -44,6 +44,7 @@ Para inscribirte a este curso, por favor completá tu mail en el formulario de a
   Explorador no compatible.
 </iframe> 
 
+(Si el formulario no aparece, es posible que tengas algún bloqueador de contenido instalado. En ese caso podés ir a [este link](https://script.google.com/macros/s/AKfycbwdYpQw4I2DYmEONGyUry4ABPgmxf5yCosDOxAYz5NUNrMB1bb4JA9OcQ/exec))
 
 En cuanto abramos vacantes te vamos a mandar un mail de invitación para que elijas el día y horario que más te convenga. 
 
