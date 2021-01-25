@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 5  # Order that this section will appear.
 
-title = "Cursos cortos para desarrollar clases activas aplicando herramientas prácticas"
+title = "Cursos cortos para enseñar online"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "hero_logo.png"
@@ -37,8 +37,8 @@ hero_media = "hero_logo.png"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "https://docs.google.com/forms/d/e/1FAIpQLSddnptIAMdRgJYH0Vm6cNrk63x5f969Rd4pbuoGKmDgN02xFw/viewform?usp=send_form"
-  label = "Registración"
+  url = "https://docs.google.com/forms/d/e/1FAIpQLScC20Me-fX7UmCNhNswulYfOVQF4XiyIHgtde_R8CWreCmWhA/viewform?usp=sf_link"
+  label = "Registro"
   icon_pack = "fas"
   icon = "edit"
   
@@ -53,5 +53,5 @@ hero_media = "hero_logo.png"
 
 
 
-Para participar de nuestros cursos, completá el formulario de registración y pre-inscribirte en alguno de [nuestros cursos](/cursos/). En unos días te vamos a contactar con una propuesta de horario. 
+Para participar de nuestros cursos, completa el formulario de registro. En unos días te contactaremos con una propuesta horaria. 
 

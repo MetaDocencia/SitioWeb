@@ -1,7 +1,8 @@
 ---
 date: "2020-03-22"
 draft: false
-type: page
+image:
+  caption: "[Photo by an_vision on Unsplash](https://unsplash.com/photos/gDPaDDy6_WE)"
 linktitle: Introduction to online teaching essentials
 summary: Introductory online synchronous workshop for general online teaching. 
 title: Introduction to online teaching essentials
@@ -51,17 +52,11 @@ Since we only have 3 hours, a lot of things will be out of reach of the workshop
 
 ### How to participate 
 
-Please complete [this form in Spanish](https://forms.gle/wTQCxCoCe6jGTy217) if you want to be part of this course. We will do our best to invite you to take this workshop as soon as possible. We ask that you be patient and wait for us to send you an email with the invitation. Any message outside of this form takes time from us to provide this workshop as soon as possible to as many people as possible. Thank you very much for your understanding and patience.
-
-{{< cta "https://forms.gle/wTQCxCoCe6jGTy217" "Pre-registrarse" "center" >}}
+Please complete [this registration form in Spanish](https://docs.google.com/forms/d/e/1FAIpQLScC20Me-fX7UmCNhNswulYfOVQF4XiyIHgtde_R8CWreCmWhA/viewform?usp=sf_link) (if you have already done so, you do not need to complete it again). As soon as we open slots we will send you an invitation email so you can choose the day and time that suits you best. 
 
 The workshop is free. Those invited to the workshop agree to abide by our [code of conduct](cdc).
 
 There are no specific prerequisites for this training other than speaking Spanish. We are thinking of these [personas](post/personas-tipo/) when designing the contents of this workshop. The contents of this course are strongly inspired by the online seminar [Teaching online at short notice](post/gwilson-webinar). 
-
-### Do you want to re-use any of our contents? Please, be our guest!
-
-Our materials are available for free under this [license](https://creativecommons.org/licenses/by/4.0/deed.es). You can reuse or edit any material that appears here, the only thing we ask in return is that when you reuse our materials you include a reference to this website.
 
 ### Sample schedule 
 
@@ -100,3 +95,7 @@ This schedule assumes the start of the course is 9 am, but this will vary accord
 * [Pre-registration form template](https://docs.google.com/forms/d/1vG8lXYFMUXqY2FTWzpElXp3DcFU49f_aCi0lYjIibjs/edit)
 
 * [Video of the course](https://www.youtube.com/watch?v=ojh4KgV0p3g)
+
+### Do you want to re-use any of our contents? Please, be our guest!
+
+Our materials are available for free under this [license](https://creativecommons.org/licenses/by/4.0/deed.es). You can reuse or edit any material that appears here, the only thing we ask in return is that when you reuse our materials you include a reference to this website.

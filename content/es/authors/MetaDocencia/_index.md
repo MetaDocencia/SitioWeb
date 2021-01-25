@@ -32,15 +32,15 @@ Somos una comunidad inclusiva y colaborativa que mejora la educación potenciand
 
 Somos una organización sin fines de lucro que nutre una comunidad docente hispanohablante enseñando métodos educativos concretos, basados en evidencia y centrados en tus estudiantes. Desarrollamos colaborativamente recursos abiertos, reutilizables y accesibles para fomentar prácticas de enseñanza eficaces.
 
-## Qué ofrecemos
+## ¿Qué ofrecemos?
 
-Nos proponemos socializar herramientas prácticas para acompañar a las personas que se dedican a la docencia. Damos [cursos](/cursos) presenciales y online (también llamados cursos sincrónicos online). Diseñamos estos cursos pensando en docentes de nivel superior (terciario/universitario) pero también pueden participar docentes de otros niveles y estudiantes que quieran colaborar en las clases.
+Nos proponemos socializar herramientas prácticas para acompañar a las personas que se dedican a la docencia. Damos [cursos](/cursos) remotos. Diseñamos estos cursos pensando en docentes. Nuestros cursos también son útiles para hacer cualquier otro tipo de intercambio de conocimiento (por ejemplo, dar charlas o seminarios).
 
-Nuestros cursos virtuales son cortos y aplicados al diseño de materiales y una gestión del aula para que tus estudiantes maximicen su aprendizaje sin que nadie se desgaste de más. 
+Nuestros cursos se ofrecen en forma remota, son cortos y aplicados al diseño de materiales y a una gestión del espacio de intercambio tal que tus participantes maximicen su aprendizaje sin que nadie se desgaste de más. 
 
-Todos nuestros cursos son gratuitos y nuestros materiales tienen [licencia abierta](https://metadocencia.netlify.com/terms/). Es decir, podés reusar o editar cualquier material que aparece en este sitio web, lo único que pedimos a cambio es que en cualquier material que generes reusando nuestros contenidos incluyas una referencia a esta web.
+Todos nuestros cursos son gratuitos y nuestros materiales tienen [licencia abierta](https://metadocencia.netlify.com/terms/). Es decir, puedes reusar o editar cualquier material que aparece en este sitio web, lo único que pedimos a cambio es que en cualquier material que generes reusando nuestros contenidos incluyas una referencia a esta web.
 
-Nuestros cursos ayudan a mejorar el aprendizaje en clases presenciales y a distancia. Usamos técnicas pedagógicas modernas, basadas en evidencia, que mejoran los resultados educativos. 
+Nuestros cursos ayudan a mejorar el aprendizaje en clases (y otros eventos de intercambio de conocimiento) presenciales y a distancia. Usamos técnicas pedagógicas modernas, basadas en evidencia, que mejoran los resultados educativos. 
 
 Además, aspiramos a formar una comunidad docente de intercambio de saberes transversal. Sabemos, y la evidencia también lo respalda, que se obtienen mejores resultados cuando enseñamos en comunidad.
 
@@ -65,7 +65,6 @@ Nos guían estos principios docentes:
 * ... que cada clase es demasiado corta para quien enseña y demasiado larga para quien la recibe ...
 * ... y que nadie tendrá más entusiasmo que vos por tu clase.
 
-Seguimos este [código de conducta](https://metadocencia.netlify.com/cdc/).
-
 Estas máximas surgen de la experiencia de [The Carpentries](https://carpentries.org), que lleva dos décadas formando docentes y están desarrolladas en el libro gratuito [Teaching Tech Together](https://teachtogether.tech/).
 
+Seguimos este [código de conducta](https://metadocencia.netlify.com/cdc/).

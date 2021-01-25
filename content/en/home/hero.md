@@ -37,7 +37,7 @@ hero_media = "hero_logo.png"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "https://docs.google.com/forms/d/e/1FAIpQLSddnptIAMdRgJYH0Vm6cNrk63x5f969Rd4pbuoGKmDgN02xFw/viewform?usp=send_form"
+  url = "https://docs.google.com/forms/d/e/1FAIpQLScC20Me-fX7UmCNhNswulYfOVQF4XiyIHgtde_R8CWreCmWhA/viewform?usp=sf_link"
   label = "Registration"
   icon_pack = "fas"
   icon = "edit"

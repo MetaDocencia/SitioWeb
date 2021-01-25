@@ -1,7 +1,8 @@
 ---
 date: "2020-10-03"
 draft: false
-type: page
+image:
+  caption: "[Photo by Benjamin Wong on Unsplash](https://unsplash.com/photos/qVywyNo9_-E)"
 linktitle: Generando tutoriales interactivos con el paquete {learnr}
 summary: Aprende como usar {learnr} para construir tutoriales interactivos con R.  Curso en desarrollo.
 title: Generando tutoriales interactivos con el paquete {learnr}
@@ -12,7 +13,7 @@ weight: 30
 ---
 
 {{% alert note %}}
-En desarrollo.Piloto realizado en LatinR 2020.
+En desarrollo. Piloto realizado en LatinR 2020.
 {{% /alert %}}
 
 ### Objetivos
@@ -110,10 +111,6 @@ _tiempo total: 10 minutos_
 - Contacto docentes.
 - Espacio para comentarios y preguntas.
 
-### ¿Te vienen bien cualquiera de nuestros contenidos? ¡Servite sin culpa!
-
-Este curso se comparte bajo la licencia [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/deed.es_ES).
-Es decir, podés reusar o editar cualquier material que aparece acá, lo único que pedimos a cambio es que cuando tomes material de acá incluyas una referencia a esta página web y compartas tu material con esta misma licencia.
 
 ### Materiales
 
@@ -121,4 +118,9 @@ Es decir, podés reusar o editar cualquier material que aparece acá, lo único 
 
 * [Plantilla de formulario para la encuesta de fin del taller](https://docs.google.com/forms/d/1Rw4AMtM32ivHtU-nWufSL1BWe0mmTgHl7953-exZsh8/edit?usp=sharing)
 
-* [Video del curso](https://youtu.be/n6IaftU1yjM)
+* [Video del curso](https://youtu.be/d7eXzRzEdC8)
+
+### ¿Te vienen bien cualquiera de nuestros contenidos? ¡Servite sin culpa!
+
+Este curso se comparte bajo la licencia [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/deed.es_ES).
+Es decir, podés reusar o editar cualquier material que aparece acá, lo único que pedimos a cambio es que cuando tomes material de acá incluyas una referencia a esta página web y compartas tu material con esta misma licencia.

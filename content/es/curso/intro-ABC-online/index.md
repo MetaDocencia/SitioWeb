@@ -1,7 +1,8 @@
 ---
 date: "2020-03-22"
 draft: false
-type: page
+image:
+  caption: "[Photo by an_vision on Unsplash](https://unsplash.com/photos/gDPaDDy6_WE)"
 linktitle: Introducción al ABC para enseñar online
 summary: Taller presencial online de introducción para enseñar online cualquier tema. 
 title: Introducción al ABC para enseñar online
@@ -51,15 +52,11 @@ Como tenemos sólo tres horas, muchas cosas quedarán fuera del alcance del tall
 
 ### Cómo participar 
 
-Registraste completando [el formulario de registro](https://forms.gle/wTQCxCoCe6jGTy217). En cuanto abramos vacanes te vamos a mandar un mail de invitación para que elijas el día y horario que más te convenga. 
+Registraste en MetaDocencia completando [el formulario de registro](https://docs.google.com/forms/d/e/1FAIpQLScC20Me-fX7UmCNhNswulYfOVQF4XiyIHgtde_R8CWreCmWhA/viewform?usp=sf_link) (si ya lo hiciste, no es necesario que vuelvas a completarlo). En cuanto abramos vacantes te vamos a mandar un mail de invitación para que elijas el día y horario que más te convenga. 
 
-El taller es gratuito. Las personas que sean invitadas al taller se comprometen a cumplir con nuestro [código de conducta](https://metadocencia.netlify.app/cdc/).
+El taller es gratuito. Las personas que sean invitadas al taller se comprometen a cumplir con nuestro [código de conducta](https://metadocencia.org/cdc/).
 
 No hay requisitos previos específicos para esta capacitación. Estamos pensando en estas [personas tipo](/post/personas-tipo/) al diseñar los contenidos de este taller. Los contenidos de este curso están fuertemente inspirados en el seminario online [Enseñando online con poca anticipación](/post/gwilson-webinar). 
-
-### ¿Te vienen bien cualquiera de nuestros contenidos? ¡Servite sin culpa!
-
-Nuestros materiales están disponibles en forma gratuita bajo esta [licencia](https://creativecommons.org/licenses/by/4.0/deed.es). Es decir, podés reusar o editar cualquier material que aparece acá, lo único que pedimos a cambio es que cuando tomes material de acá incluyas una referencia a esta página web.
 
 ### Cronograma ejemplo 
 
@@ -99,3 +96,7 @@ Este cronograma asume que el comienzo del curso es las 9 am, pero esto variará 
 * [Plantilla de formulario de pre-inscripción](https://docs.google.com/forms/d/1vG8lXYFMUXqY2FTWzpElXp3DcFU49f_aCi0lYjIibjs/edit)
 
 * [Video del curso](https://www.youtube.com/watch?v=ojh4KgV0p3g)
+
+### ¿Te vienen bien cualquiera de nuestros contenidos? ¡Sirvete sin culpa!
+
+Nuestros materiales están disponibles en forma gratuita bajo esta [licencia](https://creativecommons.org/licenses/by/4.0/deed.es). Es decir, puedes reusar o editar cualquier material que aparece acá, lo único que pedimos a cambio es que cuando tomes material de acá incluyas una referencia a esta página web.
