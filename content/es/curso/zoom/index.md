@@ -34,15 +34,16 @@ Para participar de este taller es necesario previamente haber participado en el 
 
 Si no hiciste ese curso, por favor completá tu mail en el formulario de abajo. Haremos todo lo que esté a nuestro alcance para convocarte a tomar este taller lo antes posible. Te pedimos que seas paciente y esperes a que te enviemos un email con la invitación. Cualquier mensaje por fuera de este formulario nos resta tiempo para poder brindar este taller lo antes posible a la mayor cantidad de gente posible. Muchas gracias por tu comprensión y paciencia.
 
-<!--
+
 <iframe 
-  src="https://script.google.com/macros/s/AKfycbzmCvMvy6Gu6zdTJb9HRiPt-Nw4eY2_tLRa5qEVG7iA_TVMk66E/exec"
+  src="https://script.google.com/macros/s/AKfycbwdYpQw4I2DYmEONGyUry4ABPgmxf5yCosDOxAYz5NUNrMB1bb4JA9OcQ/exec"
   frameBorder="0"
-  width="70%"
+  width="100%",
+  height = 200px,
   vertical-align="text-top">
-  Browser no compatible.
+  Explorador no compatible.
 </iframe> 
--->
+
 
 El taller es gratuito. Las personas que sean invitadas al taller se comprometen a cumplir con nuestro [código de conducta](https://metadocencia.netlify.app/cdc/).
 
