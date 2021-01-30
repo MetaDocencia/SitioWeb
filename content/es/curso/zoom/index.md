@@ -2,7 +2,8 @@
 date: "2020-05-15"
 draft: false
 image:
-  caption: "[Photo by Holly Mindrup on Unsplash](https://unsplash.com/photos/-uPDkAK6f8A)"
+  caption: "[Foto de Holly Mindrup en Unsplash](https://unsplash.com/photos/-uPDkAK6f8A)"
+  alt_text: "Foto de 3 manzanas verdes sobre una mesa tomada por Holly Mindrup"
 linktitle: Taller de Zoom
 summary: "En este taller vamos a familiarizarnos con las opciones y herramientas de Zoom"
 title: Taller de Zoom
