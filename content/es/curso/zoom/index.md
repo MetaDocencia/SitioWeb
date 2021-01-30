@@ -37,7 +37,8 @@ Para inscribirte a este curso, por favor completá tu mail en el formulario de a
 
 <iframe 
   src="https://script.google.com/macros/s/AKfycbwdYpQw4I2DYmEONGyUry4ABPgmxf5yCosDOxAYz5NUNrMB1bb4JA9OcQ/exec"
-  frameBorder="0"
+  frameBorder="0",
+  title = "Formulario de pre-inscripción",
   width="100%",
   height = 300px,
   vertical-align="text-top">
