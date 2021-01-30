@@ -39,7 +39,7 @@ Para inscribirte a este curso, por favor completá tu mail en el formulario de a
   src="https://script.google.com/macros/s/AKfycbwdYpQw4I2DYmEONGyUry4ABPgmxf5yCosDOxAYz5NUNrMB1bb4JA9OcQ/exec"
   frameBorder="0"
   width="100%",
-  height = 200px,
+  height = 300px,
   vertical-align="text-top">
   Explorador no compatible.
 </iframe> 
@@ -62,8 +62,8 @@ El taller se centra en actividades para desarrollar en grupos pequeños y un eje
 
 
 |  Duración (min)  |  Actividad  |
-| ------:|:----------- |
-| <img width="200"/> 5 | Tiempo previo para conectarse y asegurarse que anda bien tu conexión de audio y video (si no tienes camarita no importa, pero si la tienes ayuda) |
+| :------:|:----------- |
+| 5 <img width="200"/> | Tiempo previo para conectarse y asegurarse que anda bien tu conexión de audio y video (si no tienes camarita no importa, pero si la tienes ayuda) |
 | 10 | Introducción al curso |
 | 10 | Presentación del ejercicio transversal | 
 | 10 | Comparativa entre distintas herramientas de comunicación online | 
