@@ -2,7 +2,8 @@
 date: "2020-03-22"
 draft: false
 image:
-  caption: "[Photo by an_vision on Unsplash](https://unsplash.com/photos/gDPaDDy6_WE)"
+  caption: "[Foto de an_vision en Unsplash](https://unsplash.com/photos/gDPaDDy6_WE)"
+  alt_text: "Foto de una manzana roja tomada por an_vision"
 linktitle: Introducción al ABC para enseñar online
 summary: Taller presencial online de introducción para enseñar online cualquier tema. 
 title: Introducción al ABC para enseñar online
