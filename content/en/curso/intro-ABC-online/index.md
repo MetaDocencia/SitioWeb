@@ -3,6 +3,7 @@ date: "2020-03-22"
 draft: false
 image:
   caption: "[Photo by an_vision on Unsplash](https://unsplash.com/photos/gDPaDDy6_WE)"
+  alt_text: "Photo of a red apple taken by an_vision"
 linktitle: Introduction to online teaching essentials
 summary: Introductory online synchronous workshop for general online teaching. 
 title: Introduction to online teaching essentials
