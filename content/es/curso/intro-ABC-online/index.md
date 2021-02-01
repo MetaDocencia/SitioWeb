@@ -14,6 +14,8 @@ weight: 10
 ---
 
 
+{{% toc %}}
+
 ### Objetivos 
 
 Introducir buenas prácticas básicas para manejo de espacios de transmisión de conocimiento presencial (por ejemplo, clase, seminario, taller o charla), pero usando Zoom (o plataforma para reuniones remotas similar). Cada detalle del taller, empezando por el formulario de registro hasta el pedido de devolución cuando termina el taller, pasando por la ejecución del mismo, son una demostración de estrategias que pueden ser adoptadas o adaptadas a cualquier tarea docente o evento de transmisión de conocimiento que sucede interactuando en simultáneo con una audiencia.
