@@ -18,7 +18,7 @@ weight: 10
 
 ### Objetivos 
 
-Introducir buenas prácticas básicas para manejo de espacios de transmisión de conocimiento presencial (por ejemplo, clase, seminario, taller o charla), pero usando Zoom (o plataforma para reuniones remotas similar). Cada detalle del taller, empezando por el formulario de registro hasta el pedido de devolución cuando termina el taller, pasando por la ejecución del mismo, son una demostración de estrategias que pueden ser adoptadas o adaptadas a cualquier tarea docente o evento de transmisión de conocimiento que sucede interactuando en simultáneo con una audiencia.
+Introducir buenas prácticas básicas para manejo de espacios de intercambio de conocimiento presencial (por ejemplo, clase, seminario, taller o charla), pero usando Zoom (o plataforma para reuniones remotas similar). Cada detalle del taller, empezando por el formulario de registro hasta el pedido de devolución cuando termina el taller, pasando por la ejecución del mismo, son una demostración de estrategias que pueden ser adoptadas o adaptadas a cualquier tarea docente que sucede interactuando en simultáneo con una audiencia.
 
 Durante este taller remoto:
 
@@ -40,32 +40,40 @@ Durante este taller remoto:
 
 * Presentaremos qué es MetaDocencia y formas de seguir participando de nuestra comunidad
 
-### Duración
+### ¿Para quién?
 
-El taller tiene una duración de 3 horas con intervalos de aproximadamente 5 minutos cada 50 minutos de contenidos.
+No hay requisitos previos específicos para esta capacitación. 
+
+Pensamos en María y Juan como las [personas tipo](/personas/) al diseñar los contenidos de este taller.
+
+María es docente universitaria desde hace más de 30 años. Se maneja muy bien con el email y por Whatsapp. Más detalles sobre María [aquí](/personas/Maria).
+
+Juan divide su tiempo docente entre enseñar talleres en empresas y clases en los niveles secundario y terciario. Con mucha experiencia en herramientas tecnológicas, da clases desde su casa. Cuida a sus hijas de 2 y 4 años. Más detalles sobre Juan [aquí](/personas/Juan).
 
 ### ¿Qué _no_ incluye este taller?
 
 Entre otras cosas, quedan fuera del alcance del taller:
 
-* Desarrollo en profundidad y práctica extensiva de para la transmisión de conocimiento en forma remota
+* Desarrollo en profundidad y práctica extensiva de enseñanza en forma remota
 * Teoría de la pedagogía o de las ciencias de la educación
-* Técnicas específicas para transmitir contenidos propios de disciplinas específicas
+* Técnicas específicas para enseñar contenidos propios de disciplinas específicas
 * Técnicas específicas de manejo de clases o eventos de más de 30 personas
 
-### ¿Cómo participar? 
+### ¿Cómo participo? 
 
 Si aún no lo hiciste, por favor, completa [el formulario de registro](https://docs.google.com/forms/d/e/1FAIpQLScC20Me-fX7UmCNhNswulYfOVQF4XiyIHgtde_R8CWreCmWhA/viewform?usp=sf_link) (si ya lo hiciste, no es necesario que vuelvas a completarlo). En cuanto abramos vacantes te vamos a mandar un correo electrónico de invitación para que elijas el día y horario que más te convenga.
 
 El taller es gratuito. Las personas que sean invitadas al taller se comprometen a cumplir con nuestro [código de conducta](https://metadocencia.org/cdc/).
 
-No hay requisitos previos específicos para esta capacitación. Estamos pensando en estas [personas tipo](/post/personas-tipo/) al diseñar los contenidos de este taller. 
-
 Aprendemos mejor cuando conocemos al grupo con el que participamos. Por eso, si te interesa tomar este taller junto con tu grupo, escríbenos a [info@metadocencia.org](mailto:info@metadocencia.org) para acomodar a todo el grupo.
 
-### Cronograma ejemplo 
+### Duración
 
-Este cronograma asume que el comienzo del curso es las 9 am, pero esto variará según la franja horaria que mencionaremos en el mensaje de invitación.
+El taller tiene una duración de 3 horas con intervalos de aproximadamente 5 minutos cada 50 minutos de contenidos.
+
+### Cronograma 
+
+Este cronograma es un ejemplo que asume que el comienzo del curso es las 9 am, pero esto variará según la franja horaria que mencionaremos en el mensaje de invitación.
 
 |  Horario  | Actividad  |
 | ------:|:----------- |
@@ -89,7 +97,6 @@ Este cronograma asume que el comienzo del curso es las 9 am, pero esto variará 
 |11:45 - 11:50| Contános qué te pareció el taller |
 |11:50 - 12:00| Fuentes adicionales y cierre |
 
-
 ### Materiales
 
 * [Presentación que usamos en el curso]() con notas ampliando el contenido para quienes dan la clase
@@ -102,6 +109,6 @@ Este cronograma asume que el comienzo del curso es las 9 am, pero esto variará 
 
 * [Video del curso]()
 
-### ¿Te vienen bien cualquiera de nuestros contenidos? ¡Sírvete sin culpa!
+### ¡Sírvete sin culpa!
 
-Nuestros materiales están disponibles en forma gratuita bajo esta [licencia](https://creativecommons.org/licenses/by/4.0/deed.es). Es decir, puedes reusar o editar cualquier material que aparece encima de estas líneas, lo único que pedimos a cambio es que incluyas una referencia a esta página web.
+¿Te vienen bien cualquiera de nuestros contenidos? ¡Sírvete sin culpa! Nuestros materiales están disponibles en forma gratuita bajo esta [licencia](https://creativecommons.org/licenses/by/4.0/deed.es). Es decir, puedes reusar o editar cualquier material que aparece encima de estas líneas, lo único que pedimos a cambio es que incluyas una referencia a esta página web.
