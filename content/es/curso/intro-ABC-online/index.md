@@ -46,9 +46,9 @@ No hay requisitos previos específicos para esta capacitación.
 
 Pensamos en María y Juan como [personas tipo](/personas/) al diseñar los contenidos de este taller.
 
-* María es docente universitaria desde hace más de 30 años. Es una oradora muy buscada para charlas y seminarios. Se maneja muy bien con el correo electrónico y por Whatsapp. Más detalles sobre María [aquí](/personas/maria).
+* María es docente universitaria desde hace más de 30 años. Es una oradora muy buscada para charlas y seminarios. Se maneja muy bien con el correo electrónico y por Whatsapp. Más detalles sobre María [aquí](/persona/maria).
 
-* Juan divide su tiempo docente entre enseñar talleres en empresas y clases en los niveles secundario y terciario. Con mucha experiencia en herramientas tecnológicas, da clases desde su casa. Cuida a sus hijas de 2 y 4 años. Más detalles sobre Juan [aquí](/personas/juan).
+* Juan divide su tiempo docente entre enseñar talleres en empresas y clases en los niveles secundario y terciario. Con mucha experiencia en herramientas tecnológicas, da clases desde su casa. Cuida a sus hijas de 2 y 4 años. Más detalles sobre Juan [aquí](/persona/juan).
 
 ### ¿Qué _no_ incluye este taller?
 
