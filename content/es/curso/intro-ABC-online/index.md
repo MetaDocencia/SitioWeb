@@ -5,7 +5,7 @@ image:
   caption: "[Foto de an_vision en Unsplash](https://unsplash.com/photos/gDPaDDy6_WE)"
   alt_text: "Foto de una manzana roja tomada por an_vision"
 linktitle: Introducción al ABC para enseñar online
-summary: Taller de introducción para transmitir conocimiento sobre cualquier tema en forma remota 
+summary: Taller de introducción para enseñar sobre cualquier tema en forma remota 
 title: Introducción al ABC para enseñar online
 authors: 
     - "MetaDocencia"
@@ -59,7 +59,7 @@ El taller es gratuito. Las personas que sean invitadas al taller se comprometen 
 
 No hay requisitos previos específicos para esta capacitación. Estamos pensando en estas [personas tipo](/post/personas-tipo/) al diseñar los contenidos de este taller. 
 
-Aprendemos mejor cuando conocemos al grupo con el que participamos. Por eso, si te interesa tomar este taller junto con tu grupo, escríbenos a [](info@metadocencia.org) para acomodar a todo el grupo.
+Aprendemos mejor cuando conocemos al grupo con el que participamos. Por eso, si te interesa tomar este taller junto con tu grupo, escríbenos a [info@metadocencia.org](mailto:info@metadocencia.org) para acomodar a todo el grupo.
 
 ### Cronograma ejemplo 
 
