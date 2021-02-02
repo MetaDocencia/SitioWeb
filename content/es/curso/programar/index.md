@@ -16,3 +16,21 @@ weight: 15
 {{% alert note %}}
 En desarrollo. Novedades MUY pronto.
 {{% /alert %}}
+
+
+### Objetivos
+
+
+### Duración
+
+
+### Qué _no_ incluye este taller
+
+
+### Cómo participar 
+
+
+### Cronograma ejemplo 
+
+
+### Materiales
