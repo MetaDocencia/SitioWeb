@@ -1,17 +1,18 @@
 ---
 date: "2021-01-10"
-draft: false
+draft: true
 image:
   caption: "[Photo by Stepan Babanin on Unsplash](https://unsplash.com/photos/kx6fpBOm-ss)"
-linktitle: "Persona tipo: María"
+linktitle: "Persona tipo: Rene"
 summary: Este es el resumen de esta persona tipo
-title: María
+title: Rene
 type: persona
 weight: 15
 ---
 
-### María
+### Rene
 
-María es Profesora Titular de Historia Constitucional, una materia de primer año de la carrera de abogacía en la Universidad Nacional de La Pampa. Usa email desde 1995. Para cualquier tecnología nueva que incorpora a su vida recurre a su hija para que la ayude a empezar a usarla. Le pasa esto cada vez que cambia el teléfono celular. Luego de que le muestran cómo usar su nuevo teléfono se adapta y le encanta ver y hablar con sus nietos por Whatsapp.
+Aprendió a usar R hace muchos años, a los ponchazos, pero ahora lo usa en su trabajo y le funciona muy bien. Mezcla R base con algunos paquetes de tidyverse. No usa proyectos o tiene uno solo que se parece a una bolsa de gatos. Cuando abre RStudio todo lo que dejó ayer (scripts, variables, etc) sigue ahí para continuar trabajando. 
 
-María se encuentra con el desafío de pasar toda su materia a clases virtuales rápidamente y le gustaría que alguien la ayude a conocer las herramientas de las que dispone y la mejor forma de hacerlo. Da clases desde 1995, es muy dedicada y sus estudiantes la adoran. También es muy estimada por sus colegas docentes. En una abogada referente nacional en historia constitucional. En docencia todo lo que sabe lo aprendió por su cuenta y está muy orgullosa de sus logros docentes. Cree que luego de 25 años de experiencia docente no tiene nada nuevo que aprender, mucho menos de colegas de la edad de su hija. Con el tema de la pandemia, está muy preocupada porque es parte del grupo de mayor riesgo para COVID19.
+Normalmente usa otro lenguaje en su día a día pero tuvo que aprender a usar R unas semanas antes de empezar a dar clases porque alguien decidió que a partir de ese momento iban a usar R como lenguaje de programación en la materia. Algunas cosas le resultan familiares pero a veces se encuentra con cosas que funcionan muy distinto en R respecto del otro programa.
+No conoce los proyectos de R, usa rm(list = ls()) y setwd() como primerísimas líneas en sus scripts. Le preocupa cómo va a ayudar a sus estudiantes a resolver problemas y errores de código en una clase online. Tampoco sabe cómo va a manejar el envío de material y las entregas de trabajos prácticos. 
