@@ -77,29 +77,27 @@ Este cronograma es un ejemplo que asume que el comienzo del curso es las 9 am, p
 
 |  Horario  | Actividad  |
 | ------:|:----------- |
-| <img width="150"/> 8:50 - 9:00 | Tiempo previo para conectarse y asegurarse que anda bien tu conexión de audio y video (si no tienes cámara no importa, si la tienes ayuda) |
+| <img width="150"/> 8:50 - 9:00 | Tiempo previo para conectarse y asegurarse que anda bien tu conexión de audio y video (si no tienes cámara no importa, si la tienes, ayuda) |
 |9:00 - 9:05 | Comienzo con reglas básicas para bajar la frustración en una teleconferencia |
 |9:05 - 9:15 | Nos presentamos |
 |9:15 - 9:20 | Ejercicio: piensa y comparte una persona tipo que será parte de tu audiencia |
 |9:20 - 9:30 | Mapas conceptuales |
 |9:35 - 9:50 | Ejercicio: haz un mapa coceptual |
 |9:50 - 9:55 | Pausa lejos de la pantalla |
-|9:55 - 10:05 | Consejos útiles para clases y eventos remotos |
-|10:05 - 10:10| Ejercicio: piensa como aplicar los consejos útiles a tu clase o evento |
-|10:15 - 10:30| Consejos útiles para la gestión de una clase o evento remoto |
-|10:30 - 10:35| Ejercicio: ¿qué usamos en este taller hasta ahora de todo lo anterior? |
-|10:35 - 10:45| Consejos para lograr clases más accesibles |
-|10:45 - 10:50| Pausa lejos de la pantalla |
-|10:50 - 11:05| Consejos para mantener a tu audiencia activa y motivada |
-|11:05 - 11:20| Ejercicio en grupos para discutir estrategias de motivación en tu contexto |
-|11:25 - 11:40| Cómo seguir en conexión con MetaDocencia con un paseo demostrativo por Slack |
+|9:55 - 10:15 | Consejos concretos para todo tipo de clases |
+|10:15 - 10:30| Ejercicio en grupos: tu consejo favorito |
+|10:30 - 10:50| Consejos concretos para clases remotas |
+|10:50 - 10:55| Pausa lejos de la pantalla |
+|10:55 - 11:05| Más consejos para clases remotas |
+|11:05 - 11:15| Ejercicio en grupos: qué consejos de los anteriores usamos en este taller |
+|11:15 - 11:40| Cómo seguir en conexión con MetaDocencia con un paseo demostrativo por Slack |
 |11:40 - 11:45| ¿Cómo hacer buenas devoluciones? |
-|11:45 - 11:50| Contános qué te pareció el taller |
+|11:45 - 11:50| Cuéntanos qué te pareció el taller |
 |11:50 - 12:00| Fuentes adicionales y cierre |
 
 ### Materiales
 
-* [Presentación que usamos en el curso]() con notas ampliando el contenido para quienes dan la clase
+* [Presentación que usamos en el curso](https://docs.google.com/presentation/d/1GeVmDnToCDcWDdz51GcZz5V_7PsXgzHqLFHWTNZxYqk/edit?usp=sharing) con notas ampliando el contenido para quienes dan la clase
 
 * [Plantilla de nuestro documento para notas compartidas]()
 
