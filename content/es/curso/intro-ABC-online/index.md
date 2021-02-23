@@ -5,7 +5,7 @@ image:
   caption: "[Foto de an_vision en Unsplash](https://unsplash.com/photos/gDPaDDy6_WE)"
   alt_text: "Foto de una manzana roja tomada por an_vision"
 linktitle: Introducción al ABC para enseñar online
-summary: Taller presencial online de introducción para enseñar online cualquier tema. 
+summary: Taller de introducción para enseñar sobre cualquier tema en forma remota 
 title: Introducción al ABC para enseñar online
 authors: 
     - "MetaDocencia"
@@ -14,90 +14,99 @@ weight: 10
 ---
 
 
+{{% toc %}}
+
 ### Objetivos 
 
-Introducir buenas prácticas básicas para manejo del aula presencial, pero usando Zoom (o plataforma para reuniones online similar). Cada detalle del taller, empezando por el formulario de demostración de interés y pre-inscripción hasta el pedido de devolución cuando termina el taller, pasando por la ejecución del mismo usando Zoom, son una demostración de estrategias que pueden ser adoptadas o adaptadas a cualquier tarea docente que sucede interactuando en simultáneo con estudiantes (clase sincrónica).
+Introducir buenas prácticas básicas para manejo de espacios de intercambio de conocimiento presencial (por ejemplo, clase, seminario, taller o charla), pero usando Zoom (o plataforma para reuniones remotas similar). Cada detalle del taller, empezando por el formulario de registro hasta el pedido de devolución cuando termina el taller, pasando por la ejecución del mismo, son una demostración de estrategias que pueden ser adoptadas o adaptadas a cualquier tarea docente que sucede interactuando en simultáneo con una audiencia.
 
-Durante este taller online:
+Durante este taller remoto:
 
-* Tendremos una demostración de cómo contactar y preparar estudiantes para sumarse a una clase sincrónica ("la previa")
+* Mostraremos como contactar y preparar a tu audiencia para sumarse a una clase o evento sincrónico ("la previa")
 
-* Tendremos una demostración de cómo manejar un aula virtual sincrónica de 15 personas usando la plataforma Zoom
+* Manejaremos un evento remoto a través de Zoom que mantendrá a una audiencia de hasta 20 personas participando activamente durante tres horas
 
 * Veremos ejemplos de cómo crear un ambiente positivo para nuestra audiencia
 
 * Tendremos una introducción a conceptos pedagógicos de:  
-  - Diseño de clases pensando en la audiencia que va a estar recibiendo el material (concepto pedagógico de estudiantes tipo)
-  - Esquematización de los contenidos usando mapas conceptuales
-  - Evaluación formativa con poder diagnóstico aproximadamente cada 15 minutos para saber si tus estudiantes están siguiendo la clase y corregir sobre la marcha cuando detectás que algo no es claro para la mayoría  
-  - Participación en un documento conjunto colaborativo para tomar notas y/o resolver evaluaciones formativas
+  - Diseño de la clase o evento pensando en la audiencia que va a estar recibiendo el material (estudiantes/personas tipo)
+  - Uso de mapas conceptuales
+  - Evaluación formativa diagnóstica cada 15 minutos para saber si tu audiencia sigue lo que explicas y corregir sobre la marcha cuando detectes que algo no es claro para la mayoría  
+  - Participación en un documento conjunto colaborativo para tomar notas o resolver evaluaciones formativas
   - Otras herramientas pedagógicas rápidas basadas en evidencia y fáciles de implementar
-  - Pedido de comentarios a tu audiencia luego de cada clase y la importancia de incluir comentarios tanto positivos y como negativos
+  - Pedido de devolución a tu audiencia luego de cada clase y cómo dar devoluciones efectivas
 
-* Recibiremos fuentes clave, en orden creciente de complejidad, de las cuales seguir aprendiendo prácticas pedagógicas
+* Compartiremos fuentes de las cuales seguir aprendiendo prácticas pedagógicas
 
-* Conoceremos qué es MetaDocencia y cómo sumarse a la comunidad educativa en formación
+* Presentaremos qué es MetaDocencia y formas de seguir participando de nuestra comunidad
 
-### Duración
+### ¿Para quién?
 
-El taller tiene una duración de 3 horas con intervalos (idealmente lejos de cualquier pantalla) de aproximadamente 5 minutos cada 50 minutos de contenidos.
+No hay requisitos previos específicos para esta capacitación. 
 
-### Qué _no_ incluye este taller
+Pensamos en María y Juan como [personas tipo](/personas/) al diseñar los contenidos de este taller.
 
-Como tenemos sólo tres horas, muchas cosas quedarán fuera del alcance del taller. Entre otras cosas, no vamos a aprender:
+* María es docente universitaria desde hace más de 30 años. Es una oradora muy buscada para charlas y seminarios. Se maneja muy bien con el correo electrónico y por Whatsapp. Más detalles sobre María [aquí](/persona/maria).
 
-* Estrategias para enseñar online desarrolladas en profundidad
+* Juan divide su tiempo docente entre enseñar talleres en empresas y clases en los niveles secundario y terciario. Con mucha experiencia en herramientas tecnológicas, da clases desde su casa. Cuida a sus hijas de 2 y 4 años. Más detalles sobre Juan [aquí](/persona/juan).
+
+### ¿Qué _no_ incluye este taller?
+
+Entre otras cosas, quedan fuera del alcance del taller:
+
+* Desarrollo en profundidad y práctica extensiva de enseñanza en forma remota
 * Teoría de la pedagogía o de las ciencias de la educación
-* Técnicas específicas para enseñar contenidos propios de distintos campos del saber
-* Técnicas específicas de manejo de clases de más de 30 personas
+* Técnicas específicas para enseñar contenidos propios de disciplinas específicas
+* Técnicas específicas de manejo de clases o eventos de más de 30 personas
 
-### Cómo participar 
+### ¿Cómo participo? 
 
-Registraste en MetaDocencia completando [el formulario de registro](https://docs.google.com/forms/d/e/1FAIpQLScC20Me-fX7UmCNhNswulYfOVQF4XiyIHgtde_R8CWreCmWhA/viewform?usp=sf_link) (si ya lo hiciste, no es necesario que vuelvas a completarlo). En cuanto abramos vacantes te vamos a mandar un mail de invitación para que elijas el día y horario que más te convenga. 
+Si aún no lo hiciste, por favor, completa [el formulario de registro](https://docs.google.com/forms/d/e/1FAIpQLScC20Me-fX7UmCNhNswulYfOVQF4XiyIHgtde_R8CWreCmWhA/viewform?usp=sf_link) (si ya lo hiciste, no es necesario que vuelvas a completarlo). En cuanto abramos vacantes te vamos a mandar un correo electrónico de invitación para que elijas el día y horario que más te convenga.
 
 El taller es gratuito. Las personas que sean invitadas al taller se comprometen a cumplir con nuestro [código de conducta](https://metadocencia.org/cdc/).
 
-No hay requisitos previos específicos para esta capacitación. Estamos pensando en estas [personas tipo](/post/personas-tipo/) al diseñar los contenidos de este taller. Los contenidos de este curso están fuertemente inspirados en el seminario online [Enseñando online con poca anticipación](/post/gwilson-webinar). 
+Aprendemos mejor cuando conocemos al grupo con el que participamos. Por eso, si te interesa tomar este taller junto con tu grupo, escríbenos a [info@metadocencia.org](mailto:info@metadocencia.org) para acomodar a todo el grupo.
 
-### Cronograma ejemplo 
+### Duración
 
-Este cronograma asume que el comienzo del curso es las 9 am, pero esto variará según la franja horaria que mencionaremos en el mensaje de invitación.
+El taller tiene una duración de 3 horas con intervalos de aproximadamente 5 minutos cada 50 minutos de contenidos.
+
+### Cronograma 
+
+Este cronograma es un ejemplo que asume que el comienzo del curso es las 9 am, pero esto variará según la franja horaria que mencionaremos en el mensaje de invitación.
 
 |  Horario  | Actividad  |
 | ------:|:----------- |
-| <img width="150"/> 8:50 - 9:00 | Tiempo previo para conectarse y asegurarse que anda bien tu conexión de audio y video (si no tenés camarita no importa, pero si la tenés podría ayudar) |
+| <img width="150"/> 8:50 - 9:00 | Tiempo previo para conectarse y asegurarse que anda bien tu conexión de audio y video (si no tienes cámara no importa, si la tienes, ayuda) |
 |9:00 - 9:05 | Comienzo con reglas básicas para bajar la frustración en una teleconferencia |
-|9:05 - 9:15 | Introducción |
-|9:15 - 9:20 |Ejercicio: pensá y compartí una persona tipo que es audiencia en tu clase |
-|9:20 - 9:30 | Mapa conceptual del curso |
-|9:35 - 9:50 |Ejercicio: hacé un mapa coceptual |
-|9:50 - 9:55 |Pausa lejos de la pantalla |
-|9:55 - 10:05 |Consejos útiles para virtualizar tu clase con poco tiempo|
-|10:05 - 10:10| Ejercicio: pensá cómo aplicar los consejos de virtualización a tu clase|
-|10:15 - 10:30| Consejos útiles para la gestión de una clase por tele conferencia|
-|10:30 - 10:35| Ejercicio: ¿qué usamos hasta ahora de todo lo anterior?|
-|10:35 - 10:45| Consejos para lograr clases más accesibles|
-|10:45 - 10:50| Pausa lejos de la pantalla|
-|10:50 - 11:05| Consejos para mantener a tu audiencia motivada|
-|11:05 - 11:20| Ejercicio en grupos para discutir estrategias de motivación en tu contexto|
-|11:25 - 11:40| Cómo unirse a la comunidad MetaDocencia con un paseo demostrativo por Slack|
-|11:40 - 11:45| ¿Cómo hacer buenas devoluciones?|
-|11:45 - 11:50| Contános qué te pareció el curso|
-|11:50 - 12:00| Cierre|
-
+|9:05 - 9:15 | Nos presentamos |
+|9:15 - 9:20 | Ejercicio: piensa y comparte una persona tipo que será parte de tu audiencia |
+|9:20 - 9:30 | Mapas conceptuales |
+|9:35 - 9:50 | Ejercicio: haz un mapa coceptual |
+|9:50 - 9:55 | Pausa lejos de la pantalla |
+|9:55 - 10:15 | Consejos concretos para todo tipo de clases |
+|10:15 - 10:30| Ejercicio en grupos: tu consejo favorito |
+|10:30 - 10:50| Consejos concretos para clases remotas |
+|10:50 - 10:55| Pausa lejos de la pantalla |
+|10:55 - 11:05| Más consejos para clases remotas |
+|11:05 - 11:15| Ejercicio en grupos: qué consejos de los anteriores usamos en este taller |
+|11:15 - 11:40| Cómo seguir en conexión con MetaDocencia con un paseo demostrativo por Slack |
+|11:40 - 11:45| ¿Cómo hacer buenas devoluciones? |
+|11:45 - 11:50| Cuéntanos qué te pareció el taller |
+|11:50 - 12:00| Fuentes adicionales y cierre |
 
 ### Materiales
 
-* [Presentación que usamos en el curso](https://docs.google.com/presentation/d/1SmjIGRGxbXJV1RGeY3q0pp52y8FrNVe1LDFcnpF0oaM/edit?usp=sharing) con notas ampliando el contenido para quienes dan la clase
+* [Presentación que usamos en el curso](https://docs.google.com/presentation/d/1GeVmDnToCDcWDdz51GcZz5V_7PsXgzHqLFHWTNZxYqk/edit?usp=sharing) con notas ampliando el contenido para quienes dan la clase
 
-* [Plantilla de nuestro documento para notas compartidas](https://docs.google.com/document/d/1L0I9hxbLZI2LnIkdfxfIOi79Pb2P4L6ihpbKZOSS8j8/edit?usp=sharing)
+* [Plantilla de nuestro documento para notas compartidas]()
 
-* [Plantilla de formulario para la encuesta de fin del taller](https://docs.google.com/forms/d/1d5bcNB6aMVbm1tmM5uK4Eox87qJIydDnHV46LUC2Aig/edit)
+* [Plantilla de formulario para la encuesta de fin del taller]()
 
-* [Plantilla de formulario de pre-inscripción](https://docs.google.com/forms/d/1vG8lXYFMUXqY2FTWzpElXp3DcFU49f_aCi0lYjIibjs/edit)
+* [Plantilla de formulario de registro]()
 
-* [Video del curso](https://www.youtube.com/watch?v=ojh4KgV0p3g)
+* [Video del curso]()
 
-### ¿Te vienen bien cualquiera de nuestros contenidos? ¡Sirvete sin culpa!
+### ¡Sírvete sin culpa!
 
-Nuestros materiales están disponibles en forma gratuita bajo esta [licencia](https://creativecommons.org/licenses/by/4.0/deed.es). Es decir, puedes reusar o editar cualquier material que aparece acá, lo único que pedimos a cambio es que cuando tomes material de acá incluyas una referencia a esta página web.
+¿Te vienen bien cualquiera de nuestros contenidos? ¡Sírvete sin culpa! Nuestros materiales están disponibles en forma gratuita bajo esta [licencia](https://creativecommons.org/licenses/by/4.0/deed.es). Es decir, puedes reusar o editar cualquier material que aparece encima de estas líneas, lo único que pedimos a cambio es que incluyas una referencia a esta página web.
