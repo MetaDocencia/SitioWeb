@@ -8,6 +8,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
+- icon: facebook
+  icon_pack: fab
+  link: https://facebook.com/metadocencia
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/metadocencia
