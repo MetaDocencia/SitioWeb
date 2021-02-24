@@ -109,6 +109,7 @@ contact_links = [
    {icon = "twitter", icon_pack = "fab", name = "Twitter", link = "https://twitter.com/MetaDocencia"},
    {icon = "slack", icon_pack = "fab", name = "Slack", link = "https://join.slack.com/t/metadocencia/shared_invite/zt-ek8a0rup-MQB_5qUKhr9zIGKQAUImXA"},
    {icon = "github", icon_pack = "fab", name = "GitHub", link = "https://github.com/MetaDocencia"},
+   {icon = "facebook", icon_pack = "fab", name = "Facebook", link = "https://www.facebook.com/metadocencia"},
 #   {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
 #   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
    ]
