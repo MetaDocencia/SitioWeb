@@ -82,7 +82,7 @@ Este cronograma es un ejemplo que asume que el comienzo del curso es las 9 am, p
 |9:05 - 9:15 | Nos presentamos |
 |9:15 - 9:20 | Ejercicio: piensa y comparte una persona tipo que será parte de tu audiencia |
 |9:20 - 9:30 | Mapas conceptuales |
-|9:35 - 9:50 | Ejercicio: haz un mapa coceptual |
+|9:35 - 9:50 | Ejercicio: haz un mapa conceptual |
 |9:50 - 9:55 | Pausa lejos de la pantalla |
 |9:55 - 10:15 | Consejos concretos para todo tipo de clases |
 |10:15 - 10:30| Ejercicio en grupos: tu consejo favorito |
@@ -99,9 +99,9 @@ Este cronograma es un ejemplo que asume que el comienzo del curso es las 9 am, p
 
 * [Presentación que usamos en el curso](https://docs.google.com/presentation/d/1GeVmDnToCDcWDdz51GcZz5V_7PsXgzHqLFHWTNZxYqk/edit?usp=sharing) con notas ampliando el contenido para quienes dan la clase
 
-* [Plantilla de nuestro documento para notas compartidas]()
+* [Plantilla de nuestro documento para notas compartidas](https://docs.google.com/document/d/1sPvRezzh3y1kJh171mjhbe5krmIi_QNoOs1LPOBp2bE/edit?usp=sharing)
 
-* [Plantilla de formulario para la encuesta de fin del taller]()
+* [Plantilla de formulario para la encuesta de fin del taller](https://docs.google.com/forms/d/1Z7F-gEwIT3Wokj8g65TcU5rzrFHzQsjtmKBQmqUaEnE/edit?usp=sharing)
 
 * [Plantilla de formulario de registro]()
 
