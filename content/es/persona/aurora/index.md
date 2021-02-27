@@ -4,7 +4,7 @@ draft: true
 image:
   caption: "[Photo by Stepan Babanin on Unsplash](https://unsplash.com/photos/kx6fpBOm-ss)"
 linktitle: "Persona tipo: Aurora"
-summary: Este es el resumen de esta persona tipo
+summary: Aurora es docente universitaria, sin formación formal en programación.
 title: Aurora
 type: persona
 weight: 20
