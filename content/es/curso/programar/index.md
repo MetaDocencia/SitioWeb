@@ -1,6 +1,6 @@
 ---
 date: "2021-01-10"
-draft: false
+draft: true
 image:
   caption: "[Foto de Stepan Babanin en Unsplash](https://unsplash.com/photos/kx6fpBOm-ss)"
   alt_text: "Foto de 5 manzanas en degradé de colores de rojo a verde sobre una superficie tomada por Stepan Babanin"
