@@ -75,7 +75,6 @@ Para pre-inscribirte en este curso, por favor completá tu mail en el formulario
 En cuanto abramos vacantes te vamos a mandar un mail de invitación para que elijas el día y horario que más te convenga y tendrías la posibilidad de realizar el curso con ejemplos de R o Python (según la disponibilidad).
 
 
-- Para inscribirte en la versión con ejemplos en R puedes inscribirte acá.
 
 En cuanto abramos vacantes te vamos a mandar un correo electrónico de invitación para que elijas el día y horario que más te convenga dentro de los disponibles.
 
