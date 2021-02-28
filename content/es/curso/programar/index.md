@@ -58,7 +58,22 @@ Para participar de este taller es necesario que te hayas [registrado](https://do
 
 Este curso se centra en cómo enseñar a programar en general. Sin embargo, viene en dos variantes: ejemplos en R o en Python. 
 
-- Para inscribirte en la versión con ejemplos en Python puedes inscribirte acá.
+Para pre-inscribirte en este curso, por favor completá tu mail en el formulario de abajo con el mismo mail que usaste para registrarte.
+
+<iframe 
+  src=https://script.google.com/macros/s/AKfycbyWCniyQJj13oMrYzP2I54syH4IPlo0I0PNgs324JKIeR_L-muWvO07Ww/exec"
+  frameBorder="0",
+  title = "Formulario de pre-inscripción",
+  width="100%",
+  height = 300px,
+  vertical-align="text-top">
+  Explorador no compatible.
+</iframe> 
+
+(Si el formulario no aparece, es posible que tengas algún bloqueador de contenido instalado. En ese caso podés ir a [este link](https://script.google.com/macros/s/AKfycbyWCniyQJj13oMrYzP2I54syH4IPlo0I0PNgs324JKIeR_L-muWvO07Ww/exec))
+
+En cuanto abramos vacantes te vamos a mandar un mail de invitación para que elijas el día y horario que más te convenga y tendrías la posibilidad de realizar el curso con ejemplos de R o Python (según la disponibilidad).
+
 
 - Para inscribirte en la versión con ejemplos en R puedes inscribirte acá.
 
