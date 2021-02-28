@@ -76,7 +76,6 @@ En cuanto abramos vacantes te vamos a mandar un mail de invitación para que eli
 
 
 
-En cuanto abramos vacantes te vamos a mandar un correo electrónico de invitación para que elijas el día y horario que más te convenga dentro de los disponibles.
 
 El taller es gratuito. Las personas que sean invitadas al taller se comprometen a cumplir con nuestro [código de conducta](https://metadocencia.org/cdc/).
 
