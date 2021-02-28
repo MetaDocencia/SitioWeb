@@ -46,9 +46,11 @@ Pensamos en Aurora, Patricio y Rene como [personas tipo](/personas/) al diseñar
 
 ### Qué _no_ incluye este taller
 
-Entre otras cosas, quedan fuera del alcance del taller:
+Este taller **NO** es un curso de programación (es un taller sobre cómo enseñar programación).
 
-* Entrenamiento en técnicas de programación 
+Entre otras cosas, quedan fuera del alcance del taller:
+  
+  * Entrenamiento en técnicas de programación 
 * Desarrollo en profundidad y práctica extensiva de las técnicas mencionadas
 * Contenidos teóricos sobre pedagogía 
 
