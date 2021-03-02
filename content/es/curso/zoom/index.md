@@ -66,11 +66,13 @@ El taller se centra en actividades para desarrollar en grupos pequeños y un eje
 |  Duración (min)  |  Actividad  |
 | :------:|:----------- |
 | 5 <img width="200"/> | Tiempo previo para conectarse y asegurarse que anda bien tu conexión de audio y video (si no tienes camarita no importa, pero si la tienes ayuda) |
-| 10 | Introducción al curso |
+| 10 | Introducción al curso y creación de grupos |
 | 10 | Presentación del ejercicio transversal | 
-| 10 | Comparativa entre distintas herramientas de comunicación online | 
+| 5 | Cómo elejir la herramienta correcta | 
 | 15 | Grupo 1 hace Ejercicio - El resto hace Actividad 1: ¿Qué tenés que hacer durante tu clase? |
-| 10 | Seteo de opciones globales en Zoom |
+|  5 | Pausa lejos de pantallas |
+|  5 | Algunos consejos útiles |
+|  5 | Seteo de opciones globales en Zoom |
 | 15 | Grupo 2 hace Ejercicio - El resto hace Actividad 2: ¿Qué opciones te sirven mejor para tu clase? |
 | 10 | Programando reuniones de Zoom e invitando |
 | 15 | Grupo 3 hace Ejercicio - El resto hace Actividad 3: Programa una reunión para practicar más tarde con tu grupo |
