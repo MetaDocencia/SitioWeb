@@ -11,6 +11,8 @@ authors:
     - yabellini
 type: course
 weight: 30
+tags:
+  - herramientas
 ---
 
 {{% alert note %}}
