@@ -36,13 +36,13 @@ Durante todo el taller ilustraremos los conceptos presentados usando ejemplos de
 
 Esperamos que tengas conocimiento de algún lenguaje de programación que enseñes o quieras/necesites enseñar. En particular en este curso nos centramos en los lenguajes R y Python.
 
-Pensamos en Aurora, Patricio y Rene como [personas tipo](/personas/) al diseñar los contenidos de este taller.
+Pensamos en Aurora, Patricio y René como [personas tipo](/personas/) al diseñar los contenidos de este taller.
 
 * Aurora es docente universitaria, sin formación formal en programación pero que tiene que enseñar conceptos de programación en sus materias. Más detalles sobre Aurora [aquí](/persona/aurora).
 
-* Patricio Python programa en Python profesionalmente desde hace quince años. Este año empezará capacitaciones internas para su empresa, sumado a las clases de programación que dicta en un instituto terciario privado. Más detalles sobre Patricio [aquí](/persona/patricio).
+* Patricio programa en Python profesionalmente desde hace quince años. Este año empezará capacitaciones internas para su empresa, sumado a las clases de programación que dicta en un instituto terciario privado. Más detalles sobre Patricio [aquí](/persona/patricio).
 
-* Rene aprendió hace muchos años un lenguaje que usa día a día en su trabajo haciendo análisis de datos. Muy recientemente tuvo que aprender a usar R para poder empezar a dar clases porque en la institución donde trabaja decidieron que a partir de ese momento iban a usar R como lenguaje de programación en todas las materias. Más detalles sobre Rene [aquí](/persona/rene).
+* René aprendió hace muchos años un lenguaje que usa día a día en su trabajo haciendo análisis de datos. Muy recientemente tuvo que aprender a usar R para poder empezar a dar clases porque en la institución donde trabaja decidieron que a partir de ese momento iban a usar R como lenguaje de programación en todas las materias. Más detalles sobre René [aquí](/persona/rene).
 
 ### Qué _no_ incluye este taller
 
