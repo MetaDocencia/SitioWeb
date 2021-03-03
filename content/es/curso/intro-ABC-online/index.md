@@ -11,6 +11,8 @@ authors:
     - "MetaDocencia"
 type: course
 weight: 10
+tags:
+  - cursos
 ---
 
 

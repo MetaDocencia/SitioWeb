@@ -11,6 +11,8 @@ authors:
     - metadocencia
 type: course
 weight: 15
+tags:
+  - cursos
 ---
 
 {{% alert note %}}

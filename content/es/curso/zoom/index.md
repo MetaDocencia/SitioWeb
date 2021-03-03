@@ -10,6 +10,8 @@ title: Taller de Zoom
 authors: 
   - "MetaDocencia"
 type: course
+tags:
+ - herramientas
 weight: 40
 ---
   
