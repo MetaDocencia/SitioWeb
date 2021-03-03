@@ -1,8 +1,8 @@
 ---
 date: "2021-01-10"
-draft: true
+draft: false
 image:
-  caption: "[Photo by Stepan Babanin on Unsplash](https://unsplash.com/photos/kx6fpBOm-ss)"
+  caption: "[Foto generada en thispersondoesnotexist.com](https://thispersondoesnotexist.com/)"
 linktitle: "Persona tipo: Aurora"
 summary: Aurora es docente universitaria, sin formación formal en programación.
 title: Aurora
