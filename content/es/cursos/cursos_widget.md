@@ -27,11 +27,11 @@ subtitle = ""
    
   [[content.filter_button]]
     name = "Herramientas pedagógicas"
-    tag = "cursos"
+    tag = "Herramientas pedagógicas"
    
   [[content.filter_button]]
     name = "Herramientas tecnológicas"
-    tag = "herramientas"
+    tag = "Herramientas tecnológicas"
 
 
 [design]

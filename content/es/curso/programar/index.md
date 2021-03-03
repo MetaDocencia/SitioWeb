@@ -12,7 +12,7 @@ authors:
 type: course
 weight: 15
 tags:
-  - cursos
+  - Herramientas pedagógicas
 ---
 
 {{% alert note %}}
