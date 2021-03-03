@@ -1,10 +1,10 @@
 ---
 date: "2021-01-10"
-draft: true
+draft: false
 image:
-  caption: "[Photo by Stepan Babanin on Unsplash](https://unsplash.com/photos/kx6fpBOm-ss)"
+  caption: "[Foto generada en thispersondoesnotexist.com](https://thispersondoesnotexist.com/)"
 linktitle: "Persona tipo: Patricio"
-summary: Este es el resumen de esta persona tipo
+summary: Es programador profesional y tiene experiencia dando capacitaciones en su empresa.
 title: Patricio
 type: persona
 weight: 25

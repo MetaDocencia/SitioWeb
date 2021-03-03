@@ -1,10 +1,10 @@
 ---
 date: "2021-01-10"
-draft: true
+draft: false
 image:
-  caption: "[Photo by Stepan Babanin on Unsplash](https://unsplash.com/photos/kx6fpBOm-ss)"
+  caption: "[Foto generada en thispersondoesnotexist.com](https://thispersondoesnotexist.com/)"
 linktitle: "Persona tipo: Rene"
-summary: Este es el resumen de esta persona tipo
+summary: Tiene experiencia programando pero tuvo que apreder R para dar clases en materias de programación.
 title: Rene
 type: persona
 weight: 15
