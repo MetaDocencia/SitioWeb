@@ -12,7 +12,7 @@ authors:
 type: course
 weight: 30
 tags:
-  - herramientas
+  - Herramientas tecnológicas
 ---
 
 {{% alert note %}}
