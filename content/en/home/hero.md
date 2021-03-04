@@ -51,5 +51,5 @@ hero_media = "hero_logo.png"
 #   label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-To take part in out courses, please fill in the registration form and then pre-register to one of [our courses](/en/cursos/). A few days later we'll be contacting you with a proposed schedule. 
+To participate, please fill in the registration form. We will get back to you with a proposed schedule. 
 
