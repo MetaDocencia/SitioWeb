@@ -1,12 +1,12 @@
 ---
 date: "2021-01-10"
-draft: true
+draft: false
 image:
   caption: "[Foto de Stepan Babanin en Unsplash](https://unsplash.com/photos/kx6fpBOm-ss)"
   alt_text: "Foto de 5 manzanas en degradé de colores de rojo a verde sobre una superficie tomada por Stepan Babanin"
-linktitle: Enseñar programación
-summary: En este curso revisamos herramientas específicas para enseñar a programar
-title: Enseñar programación
+linktitle: Cómo enseñar programación
+summary: En este curso revisamos herramientas específicas para enseñar programación
+title: Cómo enseñar programación
 authors: 
     - metadocencia
 type: course
@@ -79,8 +79,6 @@ Para pre-inscribirte en este curso, por favor completá tu mail en el formulario
 En cuanto abramos vacantes te vamos a mandar un mail de invitación para que elijas el día y horario que más te convenga y tendrías la posibilidad de realizar el curso con ejemplos de R o Python (según la disponibilidad).
 
 
-
-
 El taller es gratuito. Las personas que sean invitadas al taller se comprometen a cumplir con nuestro [código de conducta](https://metadocencia.org/cdc/).
 
 Aprendemos mejor cuando conocemos al grupo con el que participamos. Por eso, si te interesa tomar este taller junto con tu grupo, escríbenos a [info@metadocencia.org](mailto:info@metadocencia.org) para acomodar a todo el grupo.
@@ -95,13 +93,13 @@ El taller tiene una duración de 3 horas con intervalos de aproximadamente 5 min
 |  Duración (min)  |  Actividad  |
 | :------:|:----------- |
 | 5 <img width="200"/> | Tiempo previo para conectarse y asegurarse que anda bien tu conexión de audio y video (si no tienes camarita no importa, pero si la tienes ayuda) |
-| 15 | Presentación del curso|
-| 30 | Diseño de cursos| 
+| 15 | Presentación del curso |
+| 30 | Diseño de cursos | 
 | 20 | *Peer review* & *Feedback* | 
 | 25 | Tipos de Evaluación |
 | 15 | Promueve buenas prácticas de programación |
 | 10 | Enseña a buscar ayuda |
-| 30 | Live Coding|
+| 30 | Live Coding |
 | 10 | Cierre del curso: resumen y devolución |
 
 ### Materiales
