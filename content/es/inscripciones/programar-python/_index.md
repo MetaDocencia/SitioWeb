@@ -1,5 +1,5 @@
 ---
-title: Enseñar a programar (con ejemplos en Python)
+title: Cómo enseñar a programar online (con ejemplos en Python)
 date: "2018-06-28T00:00:00+01:00"
 draft: false
 share: false
