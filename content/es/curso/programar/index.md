@@ -4,9 +4,9 @@ draft: false
 image:
   caption: "[Foto de Stepan Babanin en Unsplash](https://unsplash.com/photos/kx6fpBOm-ss)"
   alt_text: "Foto de 5 manzanas en degradé de colores de rojo a verde sobre una superficie tomada por Stepan Babanin"
-linktitle: Cómo enseñar programación
+linktitle: Cómo enseñar a programar online
 summary: En este curso revisamos herramientas específicas para enseñar programación
-title: Cómo enseñar programación
+title: Cómo enseñar a programar online
 authors: 
     - metadocencia
 type: course
@@ -52,7 +52,7 @@ Este taller **NO** es un curso de programación (es un taller sobre cómo enseñ
 
 Entre otras cosas, quedan fuera del alcance del taller:
   
-  * Entrenamiento en técnicas de programación 
+* Entrenamiento en técnicas de programación 
 * Desarrollo en profundidad y práctica extensiva de las técnicas mencionadas
 * Contenidos teóricos sobre pedagogía 
 
