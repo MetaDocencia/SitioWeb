@@ -65,7 +65,7 @@ Este curso se centra en cómo enseñar a programar en general. Sin embargo, vien
 Para pre-inscribirte en este curso, por favor completá tu mail en el formulario de abajo con el mismo mail que usaste para registrarte.
 
 <iframe 
-  src=https://script.google.com/macros/s/AKfycbyWCniyQJj13oMrYzP2I54syH4IPlo0I0PNgs324JKIeR_L-muWvO07Ww/exec"
+  src="https://script.google.com/macros/s/AKfycbyWCniyQJj13oMrYzP2I54syH4IPlo0I0PNgs324JKIeR_L-muWvO07Ww/exec"
   frameBorder="0",
   title = "Formulario de pre-inscripción",
   width="100%",
