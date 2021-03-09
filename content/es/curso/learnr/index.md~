@@ -9,7 +9,7 @@ summary: Aprende como usar {learnr} para construir tutoriales interactivos con R
 title: Generando tutoriales interactivos con el paquete {learnr}
 authors: 
     - yabellini
-type: cursos
+type: course
 weight: 30
 tags:
   - Herramientas tecnológicas

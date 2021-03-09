@@ -9,7 +9,7 @@ summary: En este curso revisamos herramientas específicas para enseñar program
 title: Cómo enseñar a programar online
 authors: 
     - metadocencia
-type: cursos
+type: course
 weight: 15
 tags:
   - Herramientas pedagógicas
