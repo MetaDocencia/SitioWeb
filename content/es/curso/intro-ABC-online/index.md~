@@ -9,7 +9,7 @@ summary: Taller de introducción para enseñar sobre cualquier tema en forma rem
 title: Introducción al ABC para enseñar online
 authors: 
     - "MetaDocencia"
-type: cursos
+type: curso
 weight: 10
 tags:
   - Herramientas pedagógicas
