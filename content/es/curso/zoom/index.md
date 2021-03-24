@@ -19,7 +19,7 @@ weight: 40
 
 ### Objetivos 
 
-En este taller de dos horas y media vamos a familiarizarnos con las opciones y herramientas de Zoom que puedes usar para promover un espacio cómodo y amigable en una clase (o cualquier tipo de evento) online sincrónica. Vamos a pensar en las necesidades de cada clase y cómo decidír qué herramienta es la más apropiada para satisfacerlas. 
+En este taller de tres horas vamos a familiarizarnos con las opciones y herramientas de Zoom que puedes usar para promover un espacio cómodo y amigable en una clase (o cualquier tipo de evento) online sincrónica. Vamos a pensar en las necesidades de cada clase y cómo decidír qué herramienta es la más apropiada para satisfacerlas. 
 
 Se trata de un taller práctico donde vas a poner las manos en la masa. 
 
@@ -74,7 +74,7 @@ No hay otros requisitos para esta capacitación. Estamos pensando en estas [pers
   
 ### Duración
 
-El taller tiene una duración de 2 horas y media con dos intervalos intervalos de aproximadamente 5 minutos cada uno. 
+El taller tiene una duración de 3 horas con dos intervalos intervalos de aproximadamente 5 minutos cada uno. 
 
 ### Cronograma
 
@@ -88,20 +88,20 @@ Este cronograma es un ejemplo que asume que el comienzo del curso es las 9 am, p
 | ---:  | :------:|:----------- |
  | 5  <img width="150"/>| 09:00  | Tiempo previo para conectarse y asegurarse que anda bien tu conexión de audio y video |
  | 10 | 09:05  | Introducción al curso y creación de grupos |
- | 10 | 09:15  | Presentación del ejercicio transversal | 
- | 5  | 09:25  | Cómo elejir la herramienta correcta | 
- | 15 | 09:30  | Grupo 1 hace Ejercicio - El resto hace Actividad 1: ¿Qué tenés que hacer durante tu clase? |
- | 5  | 09:45  |   Pausa lejos de pantallas |
- | 10 | 09:50  | Algunos consejos útiles |
- | 15 | 10:00 |  Grupo 2 hace Ejercicio - El resto hace Actividad 2: ¿Qué puede fallar? |
- |  5 | 10:15 | Seteo de opciones globales en Zoom |
- | 15 | 10:20 | Grupo 3 hace Ejercicio - El resto hace Actividad 3: ¿Qué opciones te sirven mejor para tu clase? |
- | 5  | 10:35 |   Pausa lejos de pantallas |
- | 10 | 10:40 | Programando reuniones de Zoom e invitando |
- | 15 | 10:50 | Grupo 4 hace Ejercicio - El resto hace Actividad 4: Programa una reunión para practicar más tarde con tu grupo 
- | 15 | 11:05 | Cada grupo hace la Actividad que no pudo hacer |
- | 10 | 11:20 | Tiempo para preguntas y devolución |
- |  - | 11:30 | Fin del curso |
+ | 15 | 09:15  | Cómo manejar Zoom durante una reunión | 
+ | 10  | 09:30  | Cómo elegir la herramienta correcta | 
+ | 15 | 09:40  | Grupo 1 hace Ejercicio - El resto hace Actividad 1: ¿Qué tenés que hacer durante tu clase? |
+ | 5  | 09:55  |   Pausa lejos de pantallas |
+ | 15 | 10:00  | Algunos consejos útiles |
+ | 15 | 10:15 |  Grupo 2 hace Ejercicio - El resto hace Actividad 2: ¿Qué puede fallar? |
+ | 15 | 10:30 | Seteo de opciones globales en Zoom |
+ | 15 | 10:45 | Grupo 3 hace Ejercicio - El resto hace Actividad 3: ¿Qué opciones te sirven mejor para tu clase? |
+ | 10  | 11:00 |   Pausa lejos de pantallas |
+ | 10 | 11:10 | Programando reuniones de Zoom e invitando |
+ | 15 | 11:20 | Grupo 4 hace Ejercicio - El resto hace Actividad 4: Programa una reunión para practicar más tarde con tu grupo 
+ | 15 | 11:35 | Cada grupo hace la Actividad que no pudo hacer |
+ | 10 | 11:50 | Tiempo para preguntas y devolución |
+ |  - | 12:00 | Fin del curso |
 
 ### Materiales
 
