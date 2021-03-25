@@ -105,9 +105,9 @@ Este cronograma es un ejemplo que asume que el comienzo del curso es las 9 am, p
 
 * [Plantilla de formulario para la encuesta de fin del taller](https://docs.google.com/forms/d/1Z7F-gEwIT3Wokj8g65TcU5rzrFHzQsjtmKBQmqUaEnE/edit?usp=sharing)
 
-* [Plantilla de formulario de registro]()
+* [Plantilla de formulario de registro](https://docs.google.com/forms/d/e/1FAIpQLSdDUhRTNBD9KgWV39Rzme2iNtsBJZmIRpfABMkgRebdvsV-dw/viewform?usp=sf_link)
 
-* [Video del curso]()
+* [Video del curso](https://www.youtube.com/watch?v=Ze7-fJNHvYQ)
 
 ### ¡Sírvete sin culpa!
 
