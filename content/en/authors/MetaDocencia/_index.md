@@ -47,11 +47,12 @@ Our courses help to improve the learning process both in in-person and online cl
 
 In addition, we aim to create a cross-disciplinary knowledge-sharing teaching community. We know, and the evidence also supports, that better results are obtained when we teach together.
 
+We will award certificates of attendance to each course in digital format to those who have participated in at least 80% of the course. 
+
 ## What we **don't** offer
 
 * In-depth courses. Our courses are all introductory.
 * Theoretical contents. Our courses are 100% practical.
-* Certificates of any kind.
 
 ## Which model do we follow
 
