@@ -15,7 +15,7 @@ tags:
   - tips 
 ---
 
-En nuestro curso de [Intro al ABC para enseñar on-line](https://www.metadocencia.org/curso/intro-abc-online/) recomendamos dar las clases asincónicas y bien grabar tu clase sincrónica para que sea más sencillo y económico generar un video de calidad.  
+En nuestro curso de [Intro al ABC para enseñar on-line](https://www.metadocencia.org/curso/intro-abc-online/) recomendamos dar las clases de forma sincrónica y grabar esa clase sincrónica para que sea más sencillo y económico generar un video de calidad.  
 
 A pesar de esto, no siempre tenemos la posibilidad de grabar una clase real para ponerla a disposición, asi que ante la necesidad de grabar un video veamos que detalles hacen que un video instructivo sea más efectivo (Guo, et.al, 2014):
 
