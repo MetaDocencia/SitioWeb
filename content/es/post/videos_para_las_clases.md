@@ -2,9 +2,9 @@
 date: "2021-04-01"
 draft: false
 type: page
-linktitle: Haciendo videos para las clases
-summary: todas y todos nos volvimos Youtubers en 2020.  Tenemos que seguir generando videos para nuestras clases. En este post consejos, herramientas y recursos.
-title: Haciendo videos para las clases
+linktitle: Haciendo videos para nuestras clases
+summary: Todas y todos nos volvimos Youtubers en 2020.  Tenemos que seguir generando videos para nuestras clases. En este post consejos, herramientas y recursos.
+title: Haciendo videos para nuestras clases
 authors: 
   - Yanina Bellini Saibene
 
