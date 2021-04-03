@@ -2,34 +2,18 @@
 authors:
 - ailin
 bio: ""
-education:
-  courses:
-  - course: 
-    institution: 
-    year:
-  - course: 
-    institution: 
-    year:
-  - course: 
-    institution: 
-    year:
+education: Bachelor of Physical Sciences (Student)
+
 email: ""
 interests:
 
 name: Ailin Mandola
-organizations:
-- name: 
-  url: ""
-- name: 
-  url: 
-role: 
+
 social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
-- icon: twitter
-  icon_pack: fab
-  link: 
+
 superuser: false
 user_groups:
 - Contributors
