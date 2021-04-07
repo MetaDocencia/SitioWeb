@@ -2,9 +2,11 @@
 authors:
 - ailin
 bio: ""
-education: Estudiante Licenciatura en Ciencias Fisicas
+education:
+ courses:
+  - course: Estudiante Licenciatura en Ciencias Fisicas
 email: ""
-interests:
+# interests:
 
 name: Ailin Mandola
 
