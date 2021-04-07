@@ -2,10 +2,11 @@
 authors:
 - ailin
 bio: ""
-education: Bachelor of Physical Sciences (Student)
-
+education:
+ courses:
+  - course:  Bachelor of Physical Sciences (Student)
 email: ""
-interests:
+# interests:
 
 name: Ailin Mandola
 
