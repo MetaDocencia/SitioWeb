@@ -35,7 +35,7 @@ Durante este taller online:
 
 ### ¿Para quién?
 
-Para hacer esta capacitación, primero es necesario haber hecho el curso [Introducción al ABC para enseñar online](https://www.metadocencia.org/curso/intro-abc-online/).
+Para hacer esta capacitación, es recomendable haber hecho el curso [Introducción al ABC para enseñar online](https://www.metadocencia.org/curso/intro-abc-online/), aunque no es requisito. 
 
 Pensamos en María y en Karina como personas tipo al diseñar los contenidos de este taller.
 
@@ -45,16 +45,16 @@ Pensamos en María y en Karina como personas tipo al diseñar los contenidos de 
 
 ### ¿Qué no incluye este taller?
 
-No incluye conceptos teóricos de pedagogía, sino cómo aplicar algunos de los ya vistos en el curso [Introducción al ABC para enseñar online](https://www.metadocencia.org/curso/intro-abc-online/).
+No incluye conceptos teóricos de pedagogía, sino cómo aplicar algunos de los contenidos del curso [Introducción al ABC para enseñar online](https://www.metadocencia.org/curso/intro-abc-online/).
   
 ### ¿Cómo participo?
 
-Para participar de este taller es necesario que te hayas [registrado](https://docs.google.com/forms/d/e/1FAIpQLScC20Me-fX7UmCNhNswulYfOVQF4XiyIHgtde_R8CWreCmWhA/viewform) y que hayas participado en el curso [Intro al ABC para enseñar online](/curso/intro-abc-online/). 
+Para participar de este taller es necesario que te hayas [registrado](https://docs.google.com/forms/d/e/1FAIpQLScC20Me-fX7UmCNhNswulYfOVQF4XiyIHgtde_R8CWreCmWhA/viewform).
 
 Para inscribirte a este curso, por favor completá tu mail en el formulario de abajo con el mismo mail que usaste para registrarte.
 
 <iframe 
-  src="https://script.google.com/macros/s/AKfycbwdYpQw4I2DYmEONGyUry4ABPgmxf5yCosDOxAYz5NUNrMB1bb4JA9OcQ/exec"
+  src="https://script.google.com/macros/s/AKfycbxsAt6oGOOnJLkPQleao8zvpLom2A24L2CYA4u6ahRgGAYy9jmsz6Y9SOnMGDzMv-j0hA/exec"
   frameBorder="0",
   title = "Formulario de pre-inscripción",
   width="100%",
@@ -63,7 +63,7 @@ Para inscribirte a este curso, por favor completá tu mail en el formulario de a
   Explorador no compatible.
 </iframe> 
 
-(Si el formulario no aparece, es posible que tengas algún bloqueador de contenido instalado. En ese caso podés ir a [este link](https://script.google.com/macros/s/AKfycbwdYpQw4I2DYmEONGyUry4ABPgmxf5yCosDOxAYz5NUNrMB1bb4JA9OcQ/exec))
+(Si el formulario no aparece, es posible que tengas algún bloqueador de contenido instalado. En ese caso podés ir a [este link](https://script.google.com/macros/s/AKfycbxsAt6oGOOnJLkPQleao8zvpLom2A24L2CYA4u6ahRgGAYy9jmsz6Y9SOnMGDzMv-j0hA/exec))
 
 En cuanto abramos vacantes te vamos a mandar un mail de invitación para que elijas el día y horario que más te convenga. 
 
