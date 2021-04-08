@@ -65,7 +65,7 @@ Este curso se centra en cómo enseñar a programar en general. Durante el curso 
 Para pre-inscribirte en este curso, por favor completá tu mail en el formulario de abajo con el mismo mail que usaste para registrarte.
 
 <iframe 
-  src="https://script.google.com/macros/s/AKfycbyWCniyQJj13oMrYzP2I54syH4IPlo0I0PNgs324JKIeR_L-muWvO07Ww/exec"
+  src="https://script.google.com/macros/s/AKfycbxiLVssqLE184JQDnu4LPHkgChp-mbpRNOWQ7OGou96XGVUrMRL1oCCpnPq6_0W-1kU6Q/exec"
   frameBorder="0",
   title = "Formulario de pre-inscripción",
   width="100%",
@@ -74,7 +74,7 @@ Para pre-inscribirte en este curso, por favor completá tu mail en el formulario
   Explorador no compatible.
 </iframe> 
 
-(Si el formulario no aparece, es posible que tengas algún bloqueador de contenido instalado. En ese caso podés ir a [este link](https://script.google.com/macros/s/AKfycbyWCniyQJj13oMrYzP2I54syH4IPlo0I0PNgs324JKIeR_L-muWvO07Ww/exec))
+(Si el formulario no aparece, es posible que tengas algún bloqueador de contenido instalado. En ese caso podés ir a [este link](https://script.google.com/macros/s/AKfycbxiLVssqLE184JQDnu4LPHkgChp-mbpRNOWQ7OGou96XGVUrMRL1oCCpnPq6_0W-1kU6Q/exec))
 
 En cuanto abramos vacantes te vamos a mandar un mail de invitación para que elijas el día y horario que más te convenga y tendrías la posibilidad de realizar el curso con ejemplos de R o Python (según la disponibilidad).
 
