@@ -32,7 +32,7 @@ Durante este taller remoto:
 
 * Presentaremos la práctica de *Live Coding*. Veremos ejemplos prácticos que ayudarán a reconocer detalles a tener en cuenta a la hora de llevarla a cabo. 
 
-Durante todo el taller ilustraremos los conceptos presentados usando ejemplos de uso de los lenguajes de programación R y/o Python.
+Durante todo el taller ilustraremos los conceptos presentados usando ejemplos de uso de los lenguajes de programación R y Python.
 
 ### ¿Para quién?
 
@@ -60,7 +60,7 @@ Entre otras cosas, quedan fuera del alcance del taller:
 
 Para participar de este taller es necesario que te hayas [registrado](https://docs.google.com/forms/d/e/1FAIpQLScC20Me-fX7UmCNhNswulYfOVQF4XiyIHgtde_R8CWreCmWhA/viewform) y que hayas participado en el curso [Intro al ABC para enseñar online](/curso/intro-abc-online/). 
 
-Este curso se centra en cómo enseñar a programar en general. Sin embargo, viene en dos variantes: ejemplos en R o en Python. 
+Este curso se centra en cómo enseñar a programar en general. Durante el curso discutiremos algunos ejemplos de código en R y Python y charlaremos sobre herramientas asociadas a estos lenguajes.
 
 Para pre-inscribirte en este curso, por favor completá tu mail en el formulario de abajo con el mismo mail que usaste para registrarte.
 
