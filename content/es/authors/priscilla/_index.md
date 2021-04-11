@@ -4,22 +4,25 @@ authors:
 bio: ""
 education:
   courses:
-  - course: 
-    institution: 
-    year:
-  - course: 
-    institution: 
-    year:
-  - course: 
-    institution: 
-    year:
+  - course: PhD en Sistemas de Información Espacial
+    institution: Instituto Gulich - Universidad Nacional de Cordoba, Argentina
+    year: 2020 - actual
+  - course: MSc. Geography, major Geographic Techniques
+    institution: Oregon State University, Oregon, USA
+    year: 1995
+  - course: Lic. Cs. Biologicas
+    institution: Universidad de Buenos Aires, Argentina
+    year: 1980
 email: ""
 interests:
+ - Geoespacial
+ - Medio ambiente
+ 
 
 name: Priscilla Minotti
 organizations:
-- name: 
-  url: ""
+- name: R-espacial en español 
+  url: "https://rspatial_es.gitlab.io/"
 - name: R-Ladies
   url: "https://rladies.org"
 role: 
