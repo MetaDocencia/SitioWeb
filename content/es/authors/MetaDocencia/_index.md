@@ -16,7 +16,13 @@ social:
   link: https://twitter.com/metadocencia
 - icon: youtube
   icon_pack: fab
-  link: https://www.youtube.com/channel/UC85JQArB71zWBrUHyr1VV0w
+  link: https://www.youtube.com/metadocencia
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/company/metadocencia/
+- icon: instagram
+  icon_pack: fab
+  link:  https://www.instagram.com/metadocencia/
 - icon: github
   icon_pack: fab
   link: https://github.com/MetaDocencia
