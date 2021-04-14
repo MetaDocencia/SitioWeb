@@ -39,7 +39,7 @@ social:
   link: https://soyandrea.netlify.app/
 superuser: false
 user_groups:
-- Colaboradores
+- Contributors
 ---
 
 Andrea has a BA in Sociologist, teacher and researcher with a focus on gender (s) and Human Rights studies. 
