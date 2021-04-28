@@ -9,21 +9,18 @@ summary: Aprende como usar {learnr} para construir tutoriales interactivos con R
 title: Generando tutoriales interactivos con el paquete {learnr}
 authors: 
     - yabellini
+    - paocorrales
 type: course
 weight: 30
 tags:
   - Herramientas tecnológicas
 ---
 
-{{% alert note %}}
-En desarrollo. Piloto realizado en LatinR 2020.
-{{% /alert %}}
-
 ### Objetivos
 
-El **objetivo** de este curso es introducir a los asistentes al paquete {learnr} y como utilizarlo para generar tutoriales interactivos que permitan a los y las estudiantes escribir y ejecutar código R directamente en el tutorial, contestar preguntas y recibir feedback inmediato.
+El **objetivo** de este curso es introducir a las personas que participan al paquete {learnr} de R y como utilizarlo para generar tutoriales interactivos que permitan a los y las estudiantes escribir y ejecutar código R directamente desde el tutorial, contestar preguntas y recibir feedback inmediato.
 
-### ¿Quién sos vos?
+### ¿Para quién está pensado este taller?
 
 Cada lección debe ser pensada, organizada y generada para una audiencia en particular, estas son las personas en la que pensamos cuando preparamos este taller:
 
@@ -33,87 +30,101 @@ Cada lección debe ser pensada, organizada y generada para una audiencia en part
 
 * **_Rene:_** es docente y ha tenido que llevar su clase de _introducción a R_ a formato virtual, esto le hace muy difícil poder ayudar a sus alumnos con la configuración de sus máquinas personales con todo el software necesario para llevar adelante la clase. Ya tiene ejercicios generados en formato rmarkdown. Con la idea de que puedan empezar a trabajar enseguida con R sin sufrir con la instalación en un inicio le parece buena idea generar tutoriales interactivos porque escuchó que se pueden publicar como una aplicación shiny.
 
+### Qué *no* incluye este taller
+
+Si bien realizaremos actividades en RStudio, este taller NO es un curso de programación (es un taller sobre cómo enseñar programación).
+
+Entre otras cosas, quedan fuera del alcance del taller:
+
+* Entrenamiento en técnicas de programación
+* Desarrollo en profundidad y práctica extensiva de las técnicas mencionadas
+* Contenidos teóricos sobre pedagogía
+
+### Cómo participar 
+
+Para participar de este taller es necesario que te hayas [registrado](https://docs.google.com/forms/d/e/1FAIpQLScC20Me-fX7UmCNhNswulYfOVQF4XiyIHgtde_R8CWreCmWhA/viewform).
+
+Para pre-inscribirte en este curso, por favor completá tu mail en el formulario de abajo con el mismo mail que usaste para registrarte.
+
+PROXIMAMENTE
+
+En cuanto abramos vacantes te vamos a mandar un mail de invitación para que elijas el día y horario que más te convenga.
+
+
+El taller es gratuito. Las personas que sean invitadas al taller se comprometen a cumplir con nuestro [código de conducta](https://metadocencia.org/cdc/).
+
+Aprendemos mejor cuando conocemos al grupo con el que participamos. Por eso, si te interesa tomar este taller junto con tu grupo, escríbenos a [info@metadocencia.org](mailto:info@metadocencia.org) para acomodar a todo el grupo.
 
 ### Duración
 
 El taller tiene una duración de 2 horas con intervalos (idealmente lejos de cualquier pantalla) de aproximadamente 5 minutos cada 50 minutos de contenidos.
 
-### Cronograma del curso y objetivos de cada episodio
 
-#### Inicio
-_tiempo total: 10 minutos_ 
+### Cronograma tentativo  
 
-- Introducción de las docentes y del curso.
-- Repaso de las opciones comunes de las herramientas que vamos a usar.
+
+|  Duración (min)  |  Actividad  |
+| :------:|:----------- |
+| 5 <img width="200"/> | Tiempo previo para conectarse y asegurarse que anda bien tu conexión de audio y video (si no tienes camara no importa) |
+| 10 | Introducción de las docentes y del curso y repaso de las opciones comunes de las herramientas que vamos a usar. |
+| 15 | Episodio 1: ¿Qué es un tutorial interactivo? | 
+| 20 | Episodio 2:  ¿Cómo agrego preguntas a mi tutorial? | 
+| 10 | Pausa |
+| 15 | Episodio 3: ¿Cómo puedo realizar ejercicios con código en mis tutoriales? |
+| 15 | Episodio 4: ¿Cómo comparto mis tutoriales? |
+| 10 | Episodio 5: ¿Dónde aprendo más? |
+| 10 | Cierre del taller: resumen y devolución |
+
 
 #### Episodio 1 
-_tiempo total: 15 minutos_
 
 * Pregunta: ¿Qué es un tutorial interactivo?
-
 * Objetivos: 
   - Entender los beneficios de un tutorial interactivo 
   - Entender los componentes básicos de un tutorial interactivo
-
 * Práctica: analizar la plantilla de learnr y reconocer las partes del tutorial, cambiar alguna opción en el YAML y analizar el cambio de comportamiento.
 
 #### Episodio 2 
-_tiempo total: 20 minutos_
 
 * Pregunta: ¿Cómo agrego preguntas a mi tutorial?
-
 * Objetivos:
   - Entender los tipos de preguntas que existen en un tutorial learnr
   - Entender los componentes básicos de las preguntas multiple choice
-  - Entender los componentes básicos de las preguntas de texto **proximamente**
-
+  - Entender los componentes básicos de las preguntas de texto 
 * Práctica: modificar una serie de preguntas en un tutorial de ejemplo armado para este taller.
 
-#### Corte 1
-_tiempo total: 10 minutos_
-
 #### Episodio 3 
-_tiempo total: 25 minutos_
 
 * Pregunta: ¿Cómo puedo realizar ejercicios con código en mis tutoriales?
-
 * Objetivos:
   - Entender los componentes básicos de los ejercicios
   - Entender el chunk exercise
   - Entender el chunk hint
   - Entender el chunk solution
-  - Entender el setup previo de los chunks **proximamente**
-
+  - Entender el setup previo de los chunks
 * Practica: modificar un chunk de ejercicio previamente generado en el ejemplo y modificarlo para que entregue un hint y muestre una solución
 
 #### Episodio 4
-_tiempo total: 15 minutos_
 
 * Pregunta: ¿Cómo comparto mis tutoriales?
-
 * Objetivos: 
   - Entender las diferentes maneras de publicar/compartir un tutorial con learnr
   - Entender las ventajas y desventajas de cada una
-
 * Práctica: publicar el tutorial como una shiny app.
 
 #### Episodio 5 
-_tiempo total: 10 minutos_
 
 * Pregunta: ¿Dónde aprendo más?
-
 * Objetivos:
   - Detalles de lugares donde aprender más sobre learnr
   - Detalle de paquetes que se pueden usar con learnr
   - Detalle de repositorios con código fuente de diferentes tipos de tutoriales.
 
 #### Cierre del taller
-_tiempo total: 10 minutos_
 
 - Solicitud de completar al encuesta de feedback del curso.
 - Contacto docentes.
 - Espacio para comentarios y preguntas.
-
 
 ### Materiales
 
