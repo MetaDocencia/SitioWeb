@@ -16,7 +16,13 @@ social:
   link: https://twitter.com/metadocencia
 - icon: youtube
   icon_pack: fab
-  link: https://www.youtube.com/channel/UC85JQArB71zWBrUHyr1VV0w
+  link: https://www.youtube.com/metadocencia
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/company/metadocencia/
+- icon: instagram
+  icon_pack: fab
+  link:  https://www.instagram.com/metadocencia/
 - icon: github
   icon_pack: fab
   link: https://github.com/MetaDocencia
@@ -47,11 +53,12 @@ Nuestros cursos ayudan a mejorar el aprendizaje en clases (y otros eventos de in
 
 Además, aspiramos a formar una comunidad docente de intercambio de saberes transversal. Sabemos, y la evidencia también lo respalda, que se obtienen mejores resultados cuando enseñamos en comunidad.
 
+Otorgarmos certificados de asistencia a cada curso en formato digital para aquellas personas que participaron en al menos el 80% del curso. 
+
 ## ¿Qué **no** ofrecemos?
 
 * Cursos en profundidad. Nuestros cursos son todos introductorios.
 * Contenidos teóricos. Nuestros cursos son 100% prácticos.
-* Certificados de ningún tipo.
 
 ## ¿Qué modelo seguimos?
 
@@ -68,6 +75,6 @@ Nos guían estos principios docentes:
 * ... que cada clase es demasiado corta para quien enseña y demasiado larga para quien la recibe ...
 * ... y que nadie tendrá más entusiasmo que vos por tu clase.
 
-Estas máximas surgen de la experiencia de [The Carpentries](https://carpentries.org), que lleva dos décadas formando docentes y están desarrolladas en el libro gratuito [Teaching Tech Together](https://teachtogether.tech/).
+Estas máximas surgen de la experiencia de [The Carpentries](https://carpentries.org), que lleva dos décadas formando docentes y están desarrolladas en el libro gratuito [Enseñar Tecnología en Comunidad (Teaching Tech Together)](https://teachtogether.tech/es/index.html).
 
 Seguimos este [código de conducta](/cdc).
