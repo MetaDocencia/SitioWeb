@@ -9,7 +9,7 @@ summary: En este curso revisamos herramientas específicas para enseñar program
 title: Cómo enseñar a programar online
 authors: 
     - metadocencia
-type: course
+type: cursos
 weight: 15
 tags:
   - Herramientas pedagógicas
@@ -32,7 +32,7 @@ Durante este taller remoto:
 
 * Presentaremos la práctica de *Live Coding*. Veremos ejemplos prácticos que ayudarán a reconocer detalles a tener en cuenta a la hora de llevarla a cabo. 
 
-Durante todo el taller ilustraremos los conceptos presentados usando ejemplos de uso de los lenguajes de programación R y/o Python.
+Durante todo el taller ilustraremos los conceptos presentados usando ejemplos de uso de los lenguajes de programación R y Python.
 
 ### ¿Para quién?
 
@@ -59,13 +59,12 @@ Entre otras cosas, quedan fuera del alcance del taller:
 ### Cómo participar 
 
 Para participar de este taller es necesario que te hayas [registrado](https://docs.google.com/forms/d/e/1FAIpQLScC20Me-fX7UmCNhNswulYfOVQF4XiyIHgtde_R8CWreCmWhA/viewform) y que hayas participado en el curso [Intro al ABC para enseñar online](/curso/intro-abc-online/). 
-
-Este curso se centra en cómo enseñar a programar en general. Sin embargo, viene en dos variantes: ejemplos en R o en Python. 
+Este curso se centra en cómo enseñar a programar en general. Durante el curso discutiremos algunos ejemplos de código en R y Python y charlaremos sobre herramientas asociadas a estos lenguajes.
 
 Para pre-inscribirte en este curso, por favor completá tu mail en el formulario de abajo con el mismo mail que usaste para registrarte.
 
 <iframe 
-  src="https://script.google.com/macros/s/AKfycbyWCniyQJj13oMrYzP2I54syH4IPlo0I0PNgs324JKIeR_L-muWvO07Ww/exec"
+  src="https://script.google.com/macros/s/AKfycbxiLVssqLE184JQDnu4LPHkgChp-mbpRNOWQ7OGou96XGVUrMRL1oCCpnPq6_0W-1kU6Q/exec"
   frameBorder="0",
   title = "Formulario de pre-inscripción",
   width="100%",
@@ -74,9 +73,9 @@ Para pre-inscribirte en este curso, por favor completá tu mail en el formulario
   Explorador no compatible.
 </iframe> 
 
-(Si el formulario no aparece, es posible que tengas algún bloqueador de contenido instalado. En ese caso podés ir a [este link](https://script.google.com/macros/s/AKfycbyWCniyQJj13oMrYzP2I54syH4IPlo0I0PNgs324JKIeR_L-muWvO07Ww/exec))
+(Si el formulario no aparece, es posible que tengas algún bloqueador de contenido instalado. En ese caso podés ir a [este link](https://script.google.com/macros/s/AKfycbxiLVssqLE184JQDnu4LPHkgChp-mbpRNOWQ7OGou96XGVUrMRL1oCCpnPq6_0W-1kU6Q/exec))
 
-En cuanto abramos vacantes te vamos a mandar un mail de invitación para que elijas el día y horario que más te convenga y tendrías la posibilidad de realizar el curso con ejemplos de R o Python (según la disponibilidad).
+En cuanto abramos vacantes te vamos a mandar un mail de invitación para que elijas el día y horario que más te convenga.
 
 
 El taller es gratuito. Las personas que sean invitadas al taller se comprometen a cumplir con nuestro [código de conducta](https://metadocencia.org/cdc/).
@@ -104,4 +103,6 @@ El taller tiene una duración de 3 horas con intervalos de aproximadamente 5 min
 
 ### Materiales
 
-Próximamente
+* [Presentación que usamos en el curso](https://docs.google.com/presentation/d/1740hbph4jWHcpUxiHm02IMPp4CCHM8kPlMMHc_qUNG0/edit) con notas ampliando el contenido para quienes dan la clase.
+
+* [Plantilla de formulario para la encuesta de fin del taller](https://docs.google.com/forms/d/1Rw4AMtM32ivHtU-nWufSL1BWe0mmTgHl7953-exZsh8/edit?usp=sharing)

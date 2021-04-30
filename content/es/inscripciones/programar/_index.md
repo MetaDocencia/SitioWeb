@@ -1,5 +1,5 @@
 ---
-title: Cómo enseñar a programar online (con ejemplos en R)
+title: Cómo enseñar a programar online
 date: "2018-06-28T00:00:00+01:00"
 draft: false
 share: false
@@ -15,7 +15,7 @@ header:
 Estos son las fechas y horarios disponibles para participar del cruso Enseñar a Programar
 
 <!-- Principio del widget integrado de Calendly -->
-<div class="calendly-inline-widget" align="left"  data-url="https://calendly.com/metadocencia/enseniar-programar-r?hide_event_type_details=1&primary_color=c83737" style="min-width:fit;height:1000px;"></div>
+<div class="calendly-inline-widget" align="left"  data-url="https://calendly.com/metadocencia/enseniar-programar?hide_event_type_details=1&primary_color=c83737" style="min-width:fit;height:1000px;"></div>
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
 <!-- Final del widget integrado de Calendly -->
 

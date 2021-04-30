@@ -87,15 +87,15 @@ This schedule assumes the start of the course is 9 am, but this will vary accord
 
 ### Course materials
 
-* [Presentation](https://docs.google.com/presentation/d/1SmjIGRGxbXJV1RGeY3q0pp52y8FrNVe1LDFcnpF0oaM/edit?usp=sharing) with speaker notes that expand on the content for those giving the course.
+* [Presentation](https://docs.google.com/presentation/d/1GeVmDnToCDcWDdz51GcZz5V_7PsXgzHqLFHWTNZxYqk/edit?usp=sharing) with speaker notes that expand on the content for those giving the course.
 
-* [Shared document template](https://docs.google.com/document/d/1L0I9hxbLZI2LnIkdfxfIOi79Pb2P4L6ihpbKZOSS8j8/edit?usp=sharing)
+* [Shared document template](https://docs.google.com/document/d/1sPvRezzh3y1kJh171mjhbe5krmIi_QNoOs1LPOBp2bE/edit?usp=sharing)
 
-* [End-of-workshop feeback form template](https://docs.google.com/forms/d/1d5bcNB6aMVbm1tmM5uK4Eox87qJIydDnHV46LUC2Aig/edit)
+* [End-of-workshop feeback form template](https://docs.google.com/forms/d/1Z7F-gEwIT3Wokj8g65TcU5rzrFHzQsjtmKBQmqUaEnE/edit?usp=sharing)
 
-* [Pre-registration form template](https://docs.google.com/forms/d/1vG8lXYFMUXqY2FTWzpElXp3DcFU49f_aCi0lYjIibjs/edit)
+* [Pre-registration form template](https://docs.google.com/forms/d/15M8mqLG_qj6FSvqqzc4l0bnwJ1Q0JNqLSSLnMtYbxOs/edit?usp=sharing)
 
-* [Video of the course](https://www.youtube.com/watch?v=ojh4KgV0p3g)
+* [Video of the course](https://www.youtube.com/watch?v=Ze7-fJNHvYQ)
 
 ### Do you want to re-use any of our contents? Please, be our guest!
 
