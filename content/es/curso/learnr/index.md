@@ -10,7 +10,7 @@ title: Generando tutoriales interactivos con el paquete {learnr}
 authors: 
     - yabellini
     - paocorrales
-type: course
+type: cursos
 weight: 30
 tags:
   - Herramientas tecnológicas
@@ -120,11 +120,6 @@ El taller tiene una duración de 2 horas con intervalos (idealmente lejos de cua
   - Detalle de paquetes que se pueden usar con learnr
   - Detalle de repositorios con código fuente de diferentes tipos de tutoriales.
 
-#### Cierre del taller
-
-- Solicitud de completar al encuesta de feedback del curso.
-- Contacto docentes.
-- Espacio para comentarios y preguntas.
 
 ### Materiales
 

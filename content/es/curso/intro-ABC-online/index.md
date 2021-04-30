@@ -9,7 +9,7 @@ summary: Taller de introducción para enseñar sobre cualquier tema en forma rem
 title: Introducción al ABC para enseñar online
 authors: 
     - "MetaDocencia"
-type: course
+type: cursos
 weight: 10
 tags:
   - Herramientas pedagógicas
@@ -105,9 +105,9 @@ Este cronograma es un ejemplo que asume que el comienzo del curso es las 9 am, p
 
 * [Plantilla de formulario para la encuesta de fin del taller](https://docs.google.com/forms/d/1Z7F-gEwIT3Wokj8g65TcU5rzrFHzQsjtmKBQmqUaEnE/edit?usp=sharing)
 
-* [Plantilla de formulario de registro]()
+* [Plantilla de formulario de registro](https://docs.google.com/forms/d/15M8mqLG_qj6FSvqqzc4l0bnwJ1Q0JNqLSSLnMtYbxOs/edit?usp=sharing)
 
-* [Video del curso]()
+* [Video del curso](https://www.youtube.com/watch?v=Ze7-fJNHvYQ)
 
 ### ¡Sírvete sin culpa!
 
