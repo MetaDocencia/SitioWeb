@@ -24,18 +24,11 @@ El **objetivo** de este curso es introducir a las personas que participan al paq
 
 Cada lección debe ser pensada, organizada y generada para una audiencia en particular, estas son las [personas tipo](/personas/) en la que pensamos cuando preparamos este taller:
 
+* Josefina: conoce y enseña R en su cátedra en la universidad.  Está interesada en proporcionar feedback automatizados a la respuesta de los ejercicios de programación con R que dan en su materia. Más detalles sobre Josefina [aquí](/persona/josefina).
 
- 
+* Francisco: es desarrollador de paquetes, quiere explorar la opción de generar tutoriales interactivos como parte de la ayuda. Más detalles sobre Francisco [aquí](/persona/francisco). 
 
-* Patricio programa en Python profesionalmente desde hace quince años. Este año empezará capacitaciones internas para su empresa, sumado a las clases de programación que dicta en un instituto terciario privado. Más detalles sobre Patricio [aquí](/persona/patricio).
-
-* René aprendió hace muchos años un lenguaje que usa día a día en su trabajo haciendo análisis de datos. Muy recientemente tuvo que aprender a usar R para poder empezar a dar clases porque en la institución donde trabaja decidieron que a partir de ese momento iban a usar R como lenguaje de programación en todas las materias. Más detalles sobre René [aquí](/persona/rene).
-
-* **_Josefina:_** conoce y enseña R en su cátedra en la universidad.  Está interesada en proporcionar feedback automatizados a la respuesta de los ejercicios de programación con R que dan en su materia. Más detalles sobre Josefina [aquí](/persona/josefina).
-
-* **_Francisco:_** es desarrollador de paquetes, quiere explorar la opción de generar tutoriales interactivos como parte de la ayuda. Más detalles sobre Francisco [aquí](/persona/francisco). 
-
-* **_Rene:_** quiere desarrollar tutoriales para publicarlos como aplicaciones shiny con la idea de que sus estudiantes puedan empezar a trabajar enseguida con R sin sufrir con la instalación de herramientas.
+* Alex quiere desarrollar tutoriales para publicarlos como aplicaciones shiny con la idea de que sus estudiantes puedan empezar a trabajar enseguida con R sin sufrir con la instalación de herramientas. Más detalles sobre Alex [aquí](/persona/alex).
 
 ### Qué *no* incluye este taller
 
