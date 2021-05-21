@@ -46,7 +46,17 @@ Para participar de este taller es necesario que te hayas [registrado](https://do
 
 Para pre-inscribirte en este curso, por favor completá tu mail en el formulario de abajo con el mismo mail que usaste para registrarte.
 
-PROXIMAMENTE
+<iframe 
+  src="https://script.google.com/macros/s/AKfycbwCBCpFMEJFdB1REY0Atz9nTIUWynlbOydz9c2wrdlUkiC7h8aeT5WbV5PGFJE8bUm_wA/exec"
+  frameBorder="0",
+  title = "Formulario de pre-inscripción",
+  width="100%",
+  height = 300px,
+  vertical-align="text-top">
+  Explorador no compatible.
+</iframe> 
+
+(Si el formulario no aparece, es posible que tengas algún bloqueador de contenido instalado. En ese caso podés ir a [este link](https://script.google.com/macros/s/AKfycbwCBCpFMEJFdB1REY0Atz9nTIUWynlbOydz9c2wrdlUkiC7h8aeT5WbV5PGFJE8bUm_wA/exec))
 
 En cuanto abramos vacantes te vamos a mandar un mail de invitación para que elijas el día y horario que más te convenga.
 
