@@ -28,7 +28,7 @@ Este código de conducta aplica a todos los espacios relacionados con MetaDocenc
 
 ## Responsabilidades del equipo de Código de Conducta
 
-El equipo de Código de Conducta formado por miembros de MetaDocencia es responsable de aclarar los estándares de comportamiento aceptable y se reserva el derecho de admisión o permanencia, temporal o permanente, en la comunidad de MetaDocencia para cualquier caso de comportamiento considerado inaceptable. 
+El equipo de Código de Conducta formado por integrantes de MetaDocencia es responsable de aclarar los estándares de comportamiento aceptable y se reserva el derecho de admisión o permanencia, temporal o permanente, en la comunidad de MetaDocencia para cualquier caso de comportamiento considerado inaceptable. 
 
 También tiene la responsabilidad y se reserva el derecho de eliminar, editar o rechazar comentarios, materiales y otras contribuciones que no estén alineadas con este Código de Conducta. 
 
