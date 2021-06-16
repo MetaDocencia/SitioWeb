@@ -2,7 +2,7 @@
 
 Quienes organizamos MetaDocencia nos comprometemos a fomentar un ambiente abierto, seguro y amigable y garantizar la participación de todas las personas en nuestras actividades y espacios virtuales  independientemente de su edad, género, orientación sexual, discapacidad, apariencia física, nacionalidad, raza, etnia, religión (o la falta de ella), ideología u opciones tecnológicas. 
 
-Todas las personas que participen en MetaDocencia, incluyendo miembros del equipo coordinador, colaboradores, equipo asesor y participantes deberán aceptar y respetar el siguiente código de conducta. 
+Todas las personas que participen en MetaDocencia, incluyendo integrantes del equipo coordinador, colaboradores, equipo asesor y participantes deberán aceptar y respetar el siguiente código de conducta. 
 
 Si presencias una situación que viole este código de conducta, por favor, reportalo a [cdc@metadocencia.org](mailto:cdc@metadocencia.org) o a cualquier [miembro del equipo de Código de Conducta](#miembros_cdc).
 
@@ -47,6 +47,5 @@ Las personas que forman parte del equipo de Código de Conducta se comprometen a
 
 Este Código de Conducta es una adaptación del [Contributor Covenant](https://www.contributor-covenant.org), versión 2.0,
 disponible en https://www.contributor-covenant.org/es/version/2/0/code_of_conduct.html y [el código de conducta desarrollado para useR!2021](https://user2021.r-project.org/participation/coc/).
-
 
 
