@@ -36,7 +36,7 @@ Los casos de comportamiento inaceptable pueden ser informados enviando un correo
 
 Las personas que forman parte del equipo de Código de Conducta se comprometen a recusarse en caso de haber conflicto de intereses asociados al reporte de un incidente. 
 
-### Miembros del equipo de Código de Conducta {#miembros_cdc}
+### Integrantes del equipo de Código de Conducta {#miembros_cdc}
 
 * Alguien del core tean
 * Alguien el colaboradores
