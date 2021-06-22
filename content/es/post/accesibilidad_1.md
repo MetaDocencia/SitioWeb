@@ -82,7 +82,7 @@ Durante la comunicación con las personas asistentes (ya sea por mail o formular
 
 Si tu presentación incluye diapositivas, envialas previamente por mail a tus asistentes, e  incluí notas del orador, así los lectores de pantalla podrán leerlas a tus personas usuarias.
 
-Una herramienta que puedes utilizar para verificar si tus documentos son accesibles es **grackledocs**, la cual te permite revisar la accesibilidad de documentos, diapositivas y planillas de cálculo de google. [Acceder a grackdocs.](https://www.grackledocs.com/)
+Una herramienta que puedes utilizar para verificar si tus documentos son accesibles es **grackledocs**, la cual te permite revisar la accesibilidad de documentos, diapositivas y planillas de cálculo de google. [Acceder a grackledocs.](https://www.grackledocs.com/)
 
 
 ## Plataforma
