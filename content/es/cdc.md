@@ -38,10 +38,11 @@ Las personas que forman parte del equipo de Código de Conducta se comprometen a
 
 ### Integrantes del equipo de Código de Conducta {#miembros_cdc}
 
+Equipo en construcción
 * Alguien del core tean
-* Alguien el colaboradores
 * Alguien de colaboradores
-* Alguien del advisory team? 
+* Alguien de colaboradores
+* Alguien del advisory team 
 
 ## Atribución
 
