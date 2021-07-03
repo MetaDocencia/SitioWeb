@@ -17,7 +17,7 @@ hero_media = "hero_logo.png"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-   color = "#d4d4d4"
+   color = "#efefef"
   
   # Background gradient.
   # gradient_start = "#D9002F"
