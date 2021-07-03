@@ -24,7 +24,7 @@ Si presencias una situación que viole este código de conducta, por favor, repo
 
 ## Alcance
 
-Este código de conducta aplica a todos los espacios relacionados con MetaDocencia. Esto incluye nuestras cuentas de correo electrónico, nuestro Slack, nuestras redes sociales, nuestros talleres a través de Zoom, nuestra organización en GitHub y todos sus repositorios y cualquier otro medio que sea parte de MetaDocencia.
+Este código de conducta aplica a todos los espacios relacionados con MetaDocencia. Esto incluye nuestras cuentas de correo electrónico, nuestro Slack, nuestras redes sociales, nuestros talleres, nuestra organización en GitHub y todos sus repositorios y cualquier otro medio que sea parte de MetaDocencia.
 
 ## Responsabilidades del equipo de Código de Conducta
 
