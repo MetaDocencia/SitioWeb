@@ -2,7 +2,7 @@
 
 Quienes organizamos MetaDocencia nos comprometemos a fomentar un ambiente abierto, seguro y amigable y garantizar la participación de todas las personas en nuestras actividades y espacios virtuales  independientemente de su edad, género, orientación sexual, discapacidad, apariencia física, nacionalidad, raza, etnia, religión (o la falta de ella), ideología u opciones tecnológicas. 
 
-Todas las personas que participen en MetaDocencia, incluyendo miembros del equipo coordinador, colaboradores, equipo asesor y participantes deberán aceptar y respetar el siguiente código de conducta. 
+Todas las personas que participen en MetaDocencia, incluyendo integrantes del equipo coordinador, colaboradores, equipo asesor y participantes deberán aceptar y respetar el siguiente código de conducta. 
 
 Si presencias una situación que viole este código de conducta, por favor, reportalo a [cdc@metadocencia.org](mailto:cdc@metadocencia.org) o a cualquier [miembro del equipo de Código de Conducta](#miembros_cdc).
 
@@ -24,19 +24,19 @@ Si presencias una situación que viole este código de conducta, por favor, repo
 
 ## Alcance
 
-Este código de conducta aplica a todos los espacios relacionados con MetaDocencia. Esto incluyen nuestras cuentas de correo electrónico, nuestro Slack, nuestras redes sociales, nuestros talleres a través de Zoom, nuestra organización en GitHub y todos sus repositorios y cualquier otro medio que sea parte de MetaDocencia.
+Este código de conducta aplica a todos los espacios relacionados con MetaDocencia. Esto incluye nuestras cuentas de correo electrónico, nuestro Slack, nuestras redes sociales, nuestros talleres a través de Zoom, nuestra organización en GitHub y todos sus repositorios y cualquier otro medio que sea parte de MetaDocencia.
 
 ## Responsabilidades del equipo de Código de Conducta
 
-El equipo de Código de Conducta formado por miembros de MetaDocencia es responsable de aclarar los estándares de comportamiento aceptable y se reserva el derecho de admisión o permanencia, temporal o permanente, en la comunidad de MetaDocencia para cualquier caso de comportamiento considerado inaceptable. 
+El equipo de Código de Conducta formado por integrantes de MetaDocencia es responsable de aclarar los estándares de comportamiento aceptable y se reserva el derecho de admisión o permanencia, temporal o permanente, en la comunidad de MetaDocencia para cualquier caso de comportamiento considerado inaceptable. 
 
 También tiene la responsabilidad y se reserva el derecho de eliminar, editar o rechazar comentarios, materiales y otras contribuciones que no estén alineadas con este Código de Conducta. 
 
-Los casos de comportamiento inaceptable pueden ser informados enviando un correo electrónico a [cdc@metadocencia.org](mailto:cdc@metadocencia.org) o a cualquier miembro del equipo de Código de Conducta. Todas los mensajes serán revisados e investigados y darán como resultado una respuesta apropiada a las circunstancias. Se respetará en todo momento la privacidad y seguridad de las personas afectadas y/o que reporten un incidente. 
+Los casos de comportamiento inaceptable pueden ser informados enviando un correo electrónico a [cdc@metadocencia.org](mailto:cdc@metadocencia.org) o a cualquier persona que integra el equipo de Código de Conducta. Todos los mensajes serán revisados e investigados y darán como resultado una respuesta apropiada a las circunstancias. Se respetará en todo momento la privacidad y seguridad de las personas afectadas y/o que reporten un incidente. 
 
 Las personas que forman parte del equipo de Código de Conducta se comprometen a recusarse en caso de haber conflicto de intereses asociados al reporte de un incidente. 
 
-### Miembros del equipo de Código de Conducta {#miembros_cdc}
+### Integrantes del equipo de Código de Conducta {#miembros_cdc}
 
 * Alguien del core tean
 * Alguien el colaboradores
@@ -47,6 +47,3 @@ Las personas que forman parte del equipo de Código de Conducta se comprometen a
 
 Este Código de Conducta es una adaptación del [Contributor Covenant](https://www.contributor-covenant.org), versión 2.0,
 disponible en https://www.contributor-covenant.org/es/version/2/0/code_of_conduct.html y [el código de conducta desarrollado para useR!2021](https://user2021.r-project.org/participation/coc/).
-
-
-
