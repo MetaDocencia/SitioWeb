@@ -11,18 +11,21 @@ authors:
     - "MetaDocencia"
 type: course
 weight: 1
+tags:
+  - Herramientas pedagógicas
 ---
 
+{{% toc %}}
 
 ### Objectives 
 
-To introduce basic good practices for classroom management using Zoom or a similar online meeting platform. Every detail of the workshop, from the demonstration of interest and pre-registration form to the feedback request at the end of the workshop, including its execution using Zoom, is a demonstration of the strategies that can be adopted or adapted to any synchronous teaching.
+To introduce basic good practices for classroom (or seminar, workshop, talk) management using Zoom or a similar online meeting platform. Every detail of the workshop, from the demonstration of interest and pre-registration form to the feedback request at the end of the workshop, including its execution using Zoom, is a demonstration of the strategies that can be adopted or adapted to any synchronous teaching.
 
 During this online workshop:
 
 * We will demonstrate how to contact and prepare students to join a synchronous class
 
-* We will demonstrate how to manage a 15-person synchronous virtual classroom using Zoom
+* We will demonstrate how to manage an up-to-20-person synchronous virtual classroom using Zoom
 
 * We will see examples of how to create a positive environment for our audience
 
@@ -36,11 +39,20 @@ During this online workshop:
 
 * We will present key sources, in increasing order of complexity, from which we will continue to learn pedagogical practices
 
-* We will know what MetaDocencia is and how to join the educational community we are creating
+* We will present MetaDocencia and how to join our educational community
 
-### Duration
+### Intended public of this course
 
-This is a 3-hour workshop with intervals (ideally away from any screen) of approximately 5 minutes for every 50 minutes of content.
+There are no specific requirements for this course other than speaking Spanish.
+
+When we designed this workshop, we had in mind Maria and Juan as our learner personas.
+
+* Maria has been a University teacher for more than 30 years. Given her experience, she is very required for talks and seminars. She is very confident using email and WhatsApp.
+
+* Juan splits his teaching time between delivering workshops for companies and classes at High-school. He has a lot of experience in technology tools, he teaches from Home. He takes care of his 2-yo and 4-yo daughters. 
+ 
+Check out [personas](https://metadocencia.netlify.app/personas/) to read more about them.
+
 
 ### _Not_ included in this workshop
 
@@ -53,11 +65,14 @@ Since we only have 3 hours, a lot of things will be out of reach of the workshop
 
 ### How to participate 
 
-Please complete [this registration form in Spanish](https://docs.google.com/forms/d/e/1FAIpQLScC20Me-fX7UmCNhNswulYfOVQF4XiyIHgtde_R8CWreCmWhA/viewform?usp=sf_link) (if you have already done so, you do not need to complete it again). As soon as we open slots we will send you an invitation email so you can choose the day and time that suits you best. 
+If you hadn't done it before, please fill on 
+[this registration form in Spanish](https://docs.google.com/forms/d/e/1FAIpQLScC20Me-fX7UmCNhNswulYfOVQF4XiyIHgtde_R8CWreCmWhA/viewform?usp=sf_link) (if you have already done so, you do not need to complete it again). As soon as we open slots we will send you an invitation email so you can choose the day and time that suits you best. 
 
-The workshop is free. Those invited to the workshop agree to abide by our [code of conduct](cdc).
+The workshop is free. Those invited to the workshop agree to abide by our [code of conduct](https://metadocencia.org/cdc/). 
 
-There are no specific prerequisites for this training other than speaking Spanish. We are thinking of these [personas](post/personas-tipo/) when designing the contents of this workshop. The contents of this course are strongly inspired by the online seminar [Teaching online at short notice](post/gwilson-webinar). 
+### Duration
+
+This is a 3-hour workshop with intervals (ideally away from any screen) of approximately 5 minutes for every 50 minutes of content.
 
 ### Sample schedule 
 
@@ -81,17 +96,17 @@ This schedule assumes the start of the course is 9 am, but this will vary accord
 |10:50 - 11:05| Tips to keep your audience motivated |
 |11:05 - 11:20| Breakout room exercise in smaller groups to discuss motivation strategies in your context |
 |11:25 - 11:40| How to join the MetaDocencia community with a demonstration tour of Slack |
-|11:40 - 11:45| How to give good feeback |
+|11:40 - 11:45| How to give good feedback |
 |11:45 - 11:50| Tell us what you thought of the course |
 |11:50 - 12:00| Closing |
 
-### Course materials
+### Course materials (in Spanish)
 
 * [Presentation](https://docs.google.com/presentation/d/1GeVmDnToCDcWDdz51GcZz5V_7PsXgzHqLFHWTNZxYqk/edit?usp=sharing) with speaker notes that expand on the content for those giving the course.
 
 * [Shared document template](https://docs.google.com/document/d/1sPvRezzh3y1kJh171mjhbe5krmIi_QNoOs1LPOBp2bE/edit?usp=sharing)
 
-* [End-of-workshop feeback form template](https://docs.google.com/forms/d/1Z7F-gEwIT3Wokj8g65TcU5rzrFHzQsjtmKBQmqUaEnE/edit?usp=sharing)
+* [End-of-workshop feedback form template](https://docs.google.com/forms/d/1Z7F-gEwIT3Wokj8g65TcU5rzrFHzQsjtmKBQmqUaEnE/edit?usp=sharing)
 
 * [Pre-registration form template](https://docs.google.com/forms/d/15M8mqLG_qj6FSvqqzc4l0bnwJ1Q0JNqLSSLnMtYbxOs/edit?usp=sharing)
 
