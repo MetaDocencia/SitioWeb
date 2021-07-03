@@ -4,7 +4,7 @@ Quienes organizamos MetaDocencia nos comprometemos a fomentar un ambiente abiert
 
 Todas las personas que participen en MetaDocencia, incluyendo integrantes del equipo coordinador, colaboradores, equipo asesor y participantes deberán aceptar y respetar el siguiente código de conducta. 
 
-Si presencias una situación que viole este código de conducta, por favor, reportalo a [cdc@metadocencia.org](mailto:cdc@metadocencia.org) o a cualquier [miembro del equipo de Código de Conducta](#miembros_cdc).
+Si presencias una situación que viole este código de conducta, por favor, reportalo a [cdc@metadocencia.org](mailto:cdc@metadocencia.org) o al [equipo de Código de Conducta](#miembros_cdc).
 
 #### Ejemplos de comportamiento que contribuyen a crear un ambiente positivo para nuestra comunidad:
 
