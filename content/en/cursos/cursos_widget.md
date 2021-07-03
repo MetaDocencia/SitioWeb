@@ -21,17 +21,17 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-  # [[content.filter_button]]
-  #   name = "All"
-  #   tag = "*"
-  # 
-  # [[content.filter_button]]
-  #   name = "Deep Learning"
-  #   tag = "Deep Learning"
-  # 
-  # [[content.filter_button]]
-  #   name = "Other"
-  #   tag = "Demo"
+  [[content.filter_button]]
+    name = "All"
+    tag = "*"
+   
+  [[content.filter_button]]
+    name = "Pedagogical Tools"
+    tag = "Pedagogical Tools"
+   
+  [[content.filter_button]]
+    name = "Technological Tools"
+    tag = "Technological Tools"
 
 
 [design]
@@ -81,5 +81,4 @@ Our (remote and free) courses are intended for Spanish-speaking teachers. Our co
 We will do our best to invite you to take our workshops as soon as possible. When we do so, you will receive an email with the instructions to join the online course. We will use the [Zoom](https://zoom.us/) platform. If you are not familiar with it, do not worry, part of what we will do is to help you familiarise with it. You will receive all the instructions you will need in our initial contact email.
 
 
-## Our courses
 
