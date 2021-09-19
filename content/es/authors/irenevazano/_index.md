@@ -13,7 +13,7 @@ name: Irene Vazano
 organizations:
 - name: 
   url: 
-role: Técnica en bibliotecnología
+role: Técnica en bibliotecología
 social:
 - icon: envelope
   icon_pack: fas
