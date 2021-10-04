@@ -18,6 +18,7 @@ social:
   link: https://github.com/rgaiacs
 superuser: false
 user_groups:
+- "Former Advisory Team"
 - "Alumni"
 ---
 
