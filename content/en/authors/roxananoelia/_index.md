@@ -22,33 +22,13 @@ organizations:
   url: "https://iquiba-nea.conicet.gov.ar/lemyp/"
 role: PostDoc Researcher
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'
+social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/data_datum
-- icon: orcid
-  icon_pack: fab
-  link: https://orcid.org/0000-0002-1760-4703
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=KQvNGicAAAAJ&hl=es
-- icon: researchgate
-  icon_pack: fab
-  link: https://www.researchgate.net/profile/Roxana_Noelia_Villafane
 - icon: github
   icon_pack: fab
   link: https://github.com/data-datum
-- icon: medium
-  icon_pack: fab
-  link: https://medium.com/@data_datum
-- icon: speaker-deck
-  icon_pack: fab
-  link: https://speakerdeck.com/noelia0618
-- icon: reddit-alien
-  icon_pack: fab
-  link: https://www.reddit.com/user/data_datum 
 superuser: false
 user_groups:
 - Contributors
