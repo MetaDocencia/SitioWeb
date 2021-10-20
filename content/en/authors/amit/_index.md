@@ -35,7 +35,8 @@ social:
   link: https://www.linkedin.com/in/akohli/
 superuser: fase
 user_groups:
-- Contributors
+- Former Contributors
+- Alumni
 ---
 
 Amit is an RPI alumnus, and environmental engineer turned data strategist. He started his career collecting and using environmental data to clean soil and water, then disseminated water data with UN-FAO’s AQUASTAT. Recently he stepped down from his role as Data Director at ACDI/VOCA in order to pursue wider consulting and volunteering interests.

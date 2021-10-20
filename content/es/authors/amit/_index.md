@@ -35,7 +35,8 @@ social:
   link: https://www.linkedin.com/in/akohli/
 superuser: fase
 user_groups:
-- Colaboradores
+- Ex Colaboradores
+- Alumni
 ---
 
 Amit es un ingeniero ambiental convertido en especialista de datos. Comenzó su carrera recopilando y utilizando datos sobre el suelo y el agua para limpiar los mismos, luego difundió datos sobre el recursos hídricos con AQUASTAT de la FAO (ONU). Recientemente, renunció a su cargo como Director de Datos de ACDI/VOCA para poder ayudar más grupos mediante consultoría y voluntariado.

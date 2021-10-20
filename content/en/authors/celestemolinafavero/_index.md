@@ -26,7 +26,8 @@ role: Researcher at INTA in Balcarce and professor of Biochemistry at Universida
 social:
 superuser: false
 user_groups:
-- Contributors
+- Former Contributors
+- Alumni
 ---
 
 Celeste is a researcher at INTA in Balcarce and a professor in the Biochemistry department of the Faculty of Agrarian Sciences of the National University of Mar del Plata, both institutions that make up the Balcarce Integrated Unit.

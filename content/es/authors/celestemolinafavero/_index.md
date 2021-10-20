@@ -26,7 +26,8 @@ role: Investigadora en INTA en Balcarce y docente de la cátedra de Bioquímica 
 social:
 superuser: false
 user_groups:
-- Colaboradores
+- Ex Colaboradores
+- Alumni
 ---
 
 Investigadora en INTA en Balcarce y docente de la cátedra de Bioquímica de la Facultad de Ciencias Agrarias de la Universidad Nacional de Mar del Plata, ambas instituciones que conforman la Unidad Integrada Balcarce.
