@@ -29,8 +29,7 @@ social:
   link: https://github.com/violetr
 superuser: false
 user_groups:
-- Ex Colaboradores
-- Alumni
+- Colaboradores
 ---
 
 
