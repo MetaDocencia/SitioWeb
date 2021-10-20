@@ -31,6 +31,7 @@ social:
   link: https://github.com/beatrizmilz  
 superuser: false
 user_groups:
-- Contributors
+- Former Contributors
+- Alumni
 ---
 

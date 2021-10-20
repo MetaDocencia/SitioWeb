@@ -39,7 +39,8 @@ social:
   link: https://soyandrea.netlify.app/
 superuser: false
 user_groups:
-- Colaboradores
+- Ex Colaboradores
+- Alumni
 ---
 
 Andrea es Licenciada en Socióloga, docente e investigadora con orientación en estudios de género(s) y Derechos Humanos. 
