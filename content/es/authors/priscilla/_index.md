@@ -35,6 +35,7 @@ social:
   link: https://twitter.com/pmnatural
 superuser: false
 user_groups:
-- Colaboradores
+- Ex Colaboradores
+- Alumni
 ---
 

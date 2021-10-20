@@ -19,6 +19,7 @@ social:
   link: https://twitter.com/AiluMandola
 superuser: false
 user_groups:
-- Contributors
+- Former Contributors
+- Alumni
 ---
 
