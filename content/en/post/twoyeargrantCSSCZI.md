@@ -1,6 +1,6 @@
 ---
 date: "2021-11-01"
-draft: false
+draft: draft
 type: page
 linktitle: MetaDocencia awarded 2-year grant and joins CS&S 
 summary: MetaDocencia nurtures a community of Spanish-speaking Open Science educators.  
