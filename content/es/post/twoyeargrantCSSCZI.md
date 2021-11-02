@@ -1,6 +1,6 @@
 ---
 date: "2021-11-01"
-draft: true
+draft: false
 type: page
 linktitle: MetaDocencia recibe un subsidio de 2 años y se une a CS&S 
 summary: MetaDocencia nutre una comunidad docente hispanohablante de Ciencia Abierta.  
