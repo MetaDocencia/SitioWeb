@@ -1,3 +1,7 @@
+---
+title: Code of Conduct
+---
+
 # Code of conduct
 
 Those of us who organize MetaDocencia are committed to fostering an open, safe and friendly environment and to guaranteeing the participation of all people in our activities and virtual spaces regardless of age, gender, sexual orientation, disability, physical appearance, nationality, race, ethnicity, religion (or lack thereof), ideology or technological choices. 

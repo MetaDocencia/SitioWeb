@@ -1,3 +1,7 @@
+---
+title: Código de Conducta
+---
+
 # Código de Conducta
 
 Quienes organizamos MetaDocencia nos comprometemos a fomentar un ambiente abierto, seguro y amigable y garantizar la participación de todas las personas en nuestras actividades y espacios virtuales  independientemente de su edad, género, orientación sexual, discapacidad, apariencia física, nacionalidad, raza, etnia, religión (o la falta de ella), ideología u opciones tecnológicas. 
