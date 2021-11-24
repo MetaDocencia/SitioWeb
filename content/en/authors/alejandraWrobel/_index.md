@@ -27,7 +27,8 @@ social:
   link: https://www.linkedin.com/in/alejandra-wrobel/
 superuser: false
 user_groups:
-- Contributors
+- Former Contributors
+- Alumni
 ---
 
 
