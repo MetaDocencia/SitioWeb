@@ -31,7 +31,7 @@ El Dr. Greg Wilson del equipo de Educación de RStudio dió la charla online [Te
 
 **Cuando tus estudiantes dejan de prestar atención, ¿probaste usar una nueva habitación en que tu co-docente esté a cargo?**
 
-> Cuando puedo, divido una clase en dos según los niveles de mis estudiantes (principiantes verdaderos en una habitación, no tan principiantes o estudiantes de nivel intermedio en otra). No he tenido la oportunidad de hacer esto en línea, principalmente porque requiere recursos adicionales. Creo que hacerlo ayudaría a las personas que están perdidas, pero me sorprendería que hiciera una diferencia para las personas que perdieron interés (o que nunca estuvieron interesadas en primer lugar).
+> Cuando puedo, divido una clase en dos según los niveles de mis estudiantes (principiantes verdaderos en una habitación, no tan principiantes o estudiantes de nivel intermedio en otra). No he tenido la oportunidad de hacer esto en línea, principalmente porque requiere recursos adicionales. Creo que hacerlo ayudaría a las personas que están perdidas, pero me sorprendería que hiciera una diferencia para las personas que perdieron interés (o que nunca estuvieron interesadas en primer lugar).
 
 **Mis estudiantes no encienden su video. No sé la razón, tal vez es incomodidad. No sé cómo pedirles que cambien esto. ¿Me puedes recomendar qué hacer por favor?**
 
