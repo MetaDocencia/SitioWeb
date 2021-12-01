@@ -10,7 +10,7 @@ social:
   link: https://www.brianamorrison.net/
 superuser: fase
 user_groups:
-- "Former Advisory Team"
+- "Ex Equipo Asesor"
 - "Alumni"
 ---
 

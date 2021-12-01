@@ -25,7 +25,7 @@
   
 [[main]]
   name = "Team"
-  url = "#equipo"
+  url = "equipo"
   weight = 58
   
 [[main]]
