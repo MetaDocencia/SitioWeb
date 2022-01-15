@@ -51,10 +51,15 @@
 +++
 
 
+
 <div class="row">
 
   <div class="col-12 col-sm-auto">
     <a href="https://www.moore.org/" target="_blank" rel="noopener"><img src="/img/moore-logo-color_sm.jpg" alt="The Gordon and Betty Moore Foundation"></a>
+  </div>
+
+  <div class="col-12 col-sm-auto">
+    <a href="https://chanzuckerberg.com/" target="_blank" rel="noopener"><img src="/img/czi_logo.svg" alt="Chan Zuckerberg Initiative"></a>
   </div>
 
   <div class="col-12 col-sm-auto">
@@ -67,6 +72,7 @@
   </div>
   
 </div>
+  
   
 
 ## Previous sponsors
