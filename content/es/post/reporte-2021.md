@@ -83,7 +83,7 @@ Como parte de nuestras actividades de difusión, durante 2021 nos propusimos est
 
 *   03/10/2021 - **PyConES 2021** - [*video*](https://youtu.be/mhR1EzgOmOk)
 
-    Presntamos la charla **Buenas prácticas para enseñar programación online** en la conferencia [PyConES 2021](https://2021.es.pycon.org/). Fue grabada por [Patricia Loto](https://metadocencia.netlify.app/authors/patriloto/), [Irene Vazano](https://metadocencia.netlify.app/authors/irenevazano/) y [Nicolás Palopoli](https://metadocencia.netlify.app/authors/npalopoli/), con preguntas en vivo y seguimiento por un servidor exclusivo de Discord.
+    Presentamos la charla **Buenas prácticas para enseñar programación online** en la conferencia [PyConES 2021](https://2021.es.pycon.org/). Fue grabada por [Patricia Loto](https://metadocencia.netlify.app/authors/patriloto/), [Irene Vazano](https://metadocencia.netlify.app/authors/irenevazano/) y [Nicolás Palopoli](https://metadocencia.netlify.app/authors/npalopoli/), con preguntas en vivo y seguimiento por un servidor exclusivo de Discord.
 
 *   25/10/2021 - **50 JAIIO** - [*slides*](http://tiny.cc/metadocencia_jaiio_2021)
 
