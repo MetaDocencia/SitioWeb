@@ -87,7 +87,7 @@ Como parte de nuestras actividades de difusión, durante 2021 nos propusimos est
 
 *   25/10/2021 - **50 JAIIO** - [*slides*](http://tiny.cc/metadocencia_jaiio_2021)
 
-    La charla **Enseñando a enseñar sin perder a nadie en el camino** fue presentada por [Patricia Loto](https://metadocencia.netlify.app/authors/patriloto/), [Yanina Bellini Saibene](https://metadocencia.netlify.app/authors/yabellini/) y [Mariela Rajngewerc](https://metadocencia.netlify.app/authors/okus/) en las [Jornadas Argentinas de Informática](https://50jaiio.sadio.org.ar/). También ofrecimos una edición de nuestro curso **Introducción al ABC para enseñar online** en el marco del congreso.
+    La charla **Enseñando a enseñar sin perder a nadie en el camino** fue presentada por [Patricia Loto](https://metadocencia.netlify.app/authors/patriloto/), [Mariela Rajngewerc](https://metadocencia.netlify.app/authors/okus/)  y [Yanina Bellini Saibene](https://metadocencia.netlify.app/authors/yabellini/) en las [Jornadas Argentinas de Informática](https://50jaiio.sadio.org.ar/). También ofrecimos una edición de nuestro curso **Introducción al ABC para enseñar online** en el marco del congreso.
 
 *   03/11/2021 - **2021 Essential Open Source Software for Science Annual Meeting** - [*slides*](http://tiny.cc/EOSS2021)
 
