@@ -1,10 +1,10 @@
 ---
-date: "2021-01-18"
-draft: true
+date: "2021-01-19"
+draft: false
 type: page
-linktitle: Reporte 2021. Otro año compartido, ¡y vamos por más!
+linktitle: Reporte 2021. Otro año compartido ¡y vamos por más!
 summary: Pasó un año más de crecimiento en comunidad. Te contamos cómo fue nuestro 2021 y te presentamos los planes de MetaDocencia para este 2022.  
-title: Reporte 2021. Otro año compartido, ¡y vamos por más!
+title: Reporte 2021. Otro año compartido ¡y vamos por más!
 authors: 
     - npalopoli
     - paocorrales
