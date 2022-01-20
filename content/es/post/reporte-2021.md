@@ -23,7 +23,7 @@ Desde MetaDocencia queremos agradecer a todo nuestro equipo y a cada personas qu
 
 *Resumen del Reporte 2021 en formato presentación:*
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQwLoteaUjqVZtPibnaC419D632Y5a_TxCrRKe3pC_ibH67B4Lg-mfyvGxL1UGkMMtsi_YG-kumVMOM/embed?start=false&loop=true&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRY2dauFUbcNcMkEhAZYfVnBVPs7AJw_UgpHt_sXljkMAIq51A1-abRwFf3VgJ7_DGolSmYPrAuqkPq/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
 ## Consolidamos una comunidad grande y activa
