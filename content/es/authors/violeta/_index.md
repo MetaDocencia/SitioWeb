@@ -5,14 +5,14 @@ bio: ""
 education:
   courses:
   - course: Licenciada en Ciencias Matemáticas.
-    institution:  
-    year: 
+    institution:
+    year:
 email: ""
 interests:
 name: Violeta Roizman
 organizations:
-- name: 
-  url: 
+- name:
+  url:
 role: Licenciada en Ciencias Matemáticas
 social:
 - icon: envelope
@@ -29,7 +29,8 @@ social:
   link: https://github.com/violetr
 superuser: false
 user_groups:
-- Colaboradores
+- Ex Colaboradores
+- Alumni
 ---
 
 

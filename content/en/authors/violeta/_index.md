@@ -5,14 +5,14 @@ bio: ""
 education:
   courses:
   - course: Masters in Applied Mathematics
-    institution: 
-    year: 
+    institution:
+    year:
 email: ""
 interests:
 name: Violeta Roizman
 organizations:
-- name: 
-  url: 
+- name:
+  url:
 role: Master in Applied Mathematics
 social:
 - icon: envelope
@@ -29,7 +29,8 @@ social:
   link: https://github.com/violetr
 superuser: false
 user_groups:
-- Contributors
+- Former Contributors
+- Alumni
 ---
 
 
