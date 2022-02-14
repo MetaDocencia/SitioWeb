@@ -42,11 +42,9 @@ Individuals who are part of the Code of Conduct team agree to recuse themselves 
 
 ### Code of Conduct team members {#cdc_members}
 
-Team under construction
-* Someone from the core team
-* Someone from the collaborators
-* Someone from the collaborators
-* Someone from the advisory team 
+* [Paola Corrales](https://www.metadocencia.org/en/authors/paocorrales/)
+* [Sara Mortara](https://www.metadocencia.org/en/authors/sara/)
+* [Romina Pendino](https://www.metadocencia.org/authors/rominapedino/)
 
 ## Attribution
 

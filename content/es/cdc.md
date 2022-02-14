@@ -42,11 +42,9 @@ Las personas que forman parte del equipo de Código de Conducta se comprometen a
 
 ### Integrantes del equipo de Código de Conducta {#miembros_cdc}
 
-Equipo en construcción
-* Alguien del core tean
-* Alguien de colaboradores
-* Alguien de colaboradores
-* Alguien del advisory team 
+* [Paola Corrales](https://www.metadocencia.org/authors/paocorrales/)
+* [Sara Mortara](https://www.metadocencia.org/authors/sara/)
+* [Romina Pendino](https://www.metadocencia.org/authors/rominapedino/)
 
 ## Atribución
 
