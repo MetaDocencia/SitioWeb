@@ -24,8 +24,7 @@ All of us in MetaDocencia want to thank everyone in our team and each person tha
 
 *Summary of the 2021 Report as slides presentation:*
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTvAqm6QCnDsvd5YPFPhwHtNdhbepFknw2qyVqLjXHEyZiCdsz_o747B5AQGeo45pfei8Zmp25SdalL/pub?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTvAqm6QCnDsvd5YPFPhwHtNdhbepFknw2qyVqLjXHEyZiCdsz_o747B5AQGeo45pfei8Zmp25SdalL/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## We consolidated a large and active community
 
