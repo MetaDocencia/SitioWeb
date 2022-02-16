@@ -1,6 +1,6 @@
 ---
-date: "2022-02-02"
-draft: true
+date: "2022-02-15"
+draft: false
 type: page
 linktitle: 2021 Report. Another year together, and we go for more!
 summary: Another year passed growing in community. Here we tell you how was our 2021 and we present our plans for MetaDocencia in 2022.  
