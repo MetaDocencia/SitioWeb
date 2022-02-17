@@ -44,7 +44,7 @@ Since 2021 we have an account in [Donorbox](https://donorbox.org/metadocencia) t
 
 ## We met in many courses, old and new
 
-Since March 2019, withouth counting 'a la carte' editions, MetaDocencia has offered **more than 70 editions of its courses**.
+Since March 2020, withouth counting 'a la carte' editions, MetaDocencia has offered **more than 70 editions of its courses**.
 
 On February 26th we had the first edition in 2021 of our renewed course [**Introduction to Online Teaching Essentials**](https://www.metadocencia.org/en/curso/intro-abc-online/). We held 20 editions of our hallmark course, with 397 people attending over the year. Besides, in 2021 we offered new courses centred in more concrete concepts and tools. We started March with the course [**How to teach programming online**](https://www.metadocencia.org/en/curso/programar/), which presents techniques and good practices to design and implement programming courses, including useful tips to get feedback and evaluate students. Its 6 editions in 2021 gathered 97 participants. Also in March, we had the first edition of the [**Zoom Workshop**](https://www.metadocencia.org/en/curso/zoom/). Its 5 editions were attended by 63 people who became familiar with the options and tools offered by Zoom to provide a comfortable and friendly spacein an online synchronous event. We also offered 1 edition of our course [**Creating interactive tutorials with {learnr} package**](https://www.metadocencia.org/en/curso/learnr/) for 26 people and organized in May 2021 together with the [R in Buenos Aires](https://renbaires.github.io/) community. We taught how to use the {learnr} R package to build interactive tutorials, answer questions and get feedback.
 
