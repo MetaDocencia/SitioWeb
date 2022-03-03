@@ -2,6 +2,7 @@
 date: "2022-03-04"
 draft: true
 type: page
+title: "Club de lectura de Enseñar Tecnología en Comunidad"
 linktitle: Un club de lectura para seguir aprendiendo a enseñar
 summary: Desde Metadocencia queremos invitarte a formar parte de un Club de Lectura sobre el libro [Enseñar Tecnología en Comunidad (Teaching Tech Together)](https://teachtogether.tech/es/index.html), la obra que representa las bases sobre las que esta comunidad de práctica surgió y creció hace ya dos años.
 authors: 
