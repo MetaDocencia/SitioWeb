@@ -27,4 +27,4 @@ Todas las personas que quieran pueden participar. Si no leiste el libro o los ca
 
 Nuestra idea es poder lanzar nuestro club de lectura a partir de mediados de marzo y como cierre de todo el trabajo realizado organizaremos un encuentro con el autor, Greg Wilson. Un aprendizaje que estará potenciado por los encuentros del club de lectura y las producciones que construimos en ellos.
 
-Publicaremos en redes y en nuestro sitio web como inscribirse a cada encuentro, que como siempre, serán gratuitos.
+Publicaremos en redes y en nuestro sitio web como inscribirse a cada encuentro, que como siempre, serán gratuitos. Podés ir [sumandote](https://join.slack.com/t/metadocencia/shared_invite/zt-ek8a0rup-MQB_5qUKhr9zIGKQAUImXA) al canal #clubdelectura de nuestro Slack.
