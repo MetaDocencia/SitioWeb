@@ -29,7 +29,7 @@ Una moderadora también se encargará de llevar adelante cada encuentro de maner
 Al finalizar, y como cierre, organizaremos un encuentro con el autor, [Greg Wilson](https://third-bit.com/) (con intérprete en español), para que puedas hacerle todas las preguntas que quieras.
 Un aprendizaje que estará potenciado por los encuentros del club de lectura y las producciones que construimos en ellos.
 
-La convocatoria está abierta a quien quiera participar y, como siempre, será gratuita.
+La convocatoria está abierta a todas las personas que quiera participar y, como siempre, será gratuita.
 Si no leiste los capítulos que discutiremos en un encuentro y queres acercarte a escuchar y participar las dinámicas, también te damos la bienvenida.
 Como cada encuentro será autocontenido, así que no es obligatorio participar de todos los encuentros.
 Si te perdiste alguno, igual podés participar en los siguientes.
