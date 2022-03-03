@@ -31,7 +31,7 @@ Un aprendizaje que estará potenciado por los encuentros del club de lectura y l
 
 La convocatoria está abierta a todas las personas que quiera participar y, como siempre, será gratuita.
 Si no leiste los capítulos que discutiremos en un encuentro y queres acercarte a escuchar y participar las dinámicas, también te damos la bienvenida.
-Como cada encuentro será autocontenido, así que no es obligatorio participar de todos los encuentros.
+Cada encuentro será autocontenido, así que no es obligatorio participar de todos los encuentros.
 Si te perdiste alguno, igual podés participar en los siguientes.
 
 Todavía estamos definiendo qué día y horario es el más conveniente para posibilitar la mayor participación, pero serán un día de semana durante la tarde horario de Argentina (UTC-3) y comenzará a mediados de marzo.
