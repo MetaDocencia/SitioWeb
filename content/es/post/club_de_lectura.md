@@ -36,4 +36,4 @@ Si te perdiste alguno, igual podés participar en los siguientes.
 
 Estamos definiendo qué día y horario es el más conveniente para que puedan participar la mayor cantidad de personas, pero serán en día de semana durante la tarde de Argentina (UTC-3) y comenzará a mediados de marzo.
 
-Mientras tanto, podés estar al tanto, [sumandote al canal *#clubdelectura* de nuestro Slack](https://join.slack.com/t/metadocencia/shared_invite/zt-ek8a0rup-MQB_5qUKhr9zIGKQAUImXA). 
+Publicaremos en redes y en nuestro sitio web como inscribirse a cada encuentro, que como siempre, serán gratuitos. Mientras tanto, podés estar al tanto, [sumandote al canal *#clubdelectura* de nuestro Slack](https://join.slack.com/t/metadocencia/shared_invite/zt-ek8a0rup-MQB_5qUKhr9zIGKQAUImXA). 
