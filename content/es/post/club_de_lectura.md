@@ -34,6 +34,6 @@ Si no leiste los capítulos que discutiremos en un encuentro y queres acercarte 
 Cada encuentro será autocontenido, así que no es obligatorio participar de todos los encuentros.
 Si te perdiste alguno, igual podés participar en los siguientes.
 
-Todavía estamos definiendo qué día y horario es el más conveniente para posibilitar la mayor participación, pero serán un día de semana durante la tarde horario de Argentina (UTC-3) y comenzará a mediados de marzo.
+Estamos definiendo qué día y horario es el más conveniente para que puedan participar la mayor cantidad de personas, pero serán en día de semana durante la tarde de Argentina (UTC-3) y comenzará a mediados de marzo.
 
 Mientras tanto, podés estar al tanto, [sumandote al canal *#clubdelectura* de nuestro Slack](https://join.slack.com/t/metadocencia/shared_invite/zt-ek8a0rup-MQB_5qUKhr9zIGKQAUImXA). 
