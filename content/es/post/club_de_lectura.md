@@ -1,6 +1,6 @@
 ---
 date: "2022-03-04"
-draft: true
+draft: false
 type: page
 title: "Club de lectura de Enseñar Tecnología en Comunidad"
 linktitle: Un club de lectura para seguir aprendiendo a enseñar
