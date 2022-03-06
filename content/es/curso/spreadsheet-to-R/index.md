@@ -42,31 +42,6 @@ Este workshop stá dirigido a personas que utilizan hojas de cálculo (Excel, Go
 
 Mira nuestras [personas tipo](https://metadocencia.org/personas/) para leer más detalles.
 
-
-### ¿Cómo participo?
-
-Para participar de este taller es necesario que te hayas [registrado](https://docs.google.com/forms/d/e/1FAIpQLScC20Me-fX7UmCNhNswulYfOVQF4XiyIHgtde_R8CWreCmWhA/viewform).
-
-Para inscribirte a este curso, por favor completá tu mail en el formulario de abajo con el mismo mail que usaste para registrarte.
-
-<iframe 
-  src="https://script.google.com/macros/s/AKfycbxrgsArPvJSoyJ-ZGqFS2i3X7f7RJvJTu8YBDCdEXHeANsgZTzDSKbu-9T5qQN_c0fyrA/exec"
-  frameBorder="0",
-  title = "Formulario de pre-inscripción",
-  width="100%",
-  height = 300px,
-  vertical-align="text-top">
-  Explorador no compatible.
-</iframe> 
-
-(Si el formulario no aparece, es posible que tengas algún bloqueador de contenido instalado. En ese caso podés ir a [este link](https://script.google.com/macros/s/AKfycbxrgsArPvJSoyJ-ZGqFS2i3X7f7RJvJTu8YBDCdEXHeANsgZTzDSKbu-9T5qQN_c0fyrA/exec))
-
-En cuanto abramos vacantes te vamos a mandar un mail de invitación para que elijas el día y horario que más te convenga. 
-
-El taller es gratuito. Las personas que sean invitadas al taller se comprometen a cumplir con nuestro [código de conducta](https://metadocencia.netlify.app/cdc/).
-
-No hay otros requisitos para esta capacitación. Estamos pensando en estas [personas tipo](/post/personas-tipo/) al diseñar los contenidos de este taller. 
-
 ### Duración
 
 El taller tiene una duración de 3 horas con dos intervalos (preferentemente lejos de pantallas) de aproximadamente 5 minutos cada uno. 
