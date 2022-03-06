@@ -11,7 +11,7 @@ spellcheck: true
 authors: 
     - yabellini
     - paocorrales
-type: course
+type: cursos
 weight: 40
 tags:
   - Herramientas tecnológicas
