@@ -43,29 +43,6 @@ from Spreadsheet to R is intended for people who usespreadsheeets (Excel, Google
 Check out [personas](https://metadocencia.org/personas/) to read more about them.
 
 
-### How to participate 
-
-If you hadn't done it before, please fill on 
-[this registration form in Spanish](https://docs.google.com/forms/d/e/1FAIpQLScC20Me-fX7UmCNhNswulYfOVQF4XiyIHgtde_R8CWreCmWhA/viewform). 
-
-In order to participate in this workshop please fill in your email in the following  form:
-
-<iframe 
-  src="https://script.google.com/macros/s/AKfycbwCBCpFMEJFdB1REY0Atz9nTIUWynlbOydz9c2wrdlUkiC7h8aeT5WbV5PGFJE8bUm_wA/exec"
-  frameBorder="0",
-  title = "Formulario de pre-inscripción",
-  width="100%",
-  height = 300px,
-  vertical-align="text-top">
-  Explorador no compatible.
-</iframe> 
-
-(If the form does not appear, it is possible that you have a blocker that prevents you to see it. In this case, you can follow [this link](https://script.google.com/macros/s/AKfycbwCBCpFMEJFdB1REY0Atz9nTIUWynlbOydz9c2wrdlUkiC7h8aeT5WbV5PGFJE8bUm_wA/exec))
-
-As soon as we open slots we will send you an invitation email so you can choose the day and time that suits you best. 
-
-The workshop is free. Those invited to the workshop agree to abide by our [code of conduct](https://metadocencia.org/cdc/). 
-
 ### Duration
 
 This is a 3-hour workshop with intervals (ideally away from any screen) of approximately 5 minutes for every 50 minutes of content.
