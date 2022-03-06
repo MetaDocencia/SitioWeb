@@ -19,7 +19,7 @@ tags:
 
 {{% toc %}}
 
-### Objectivos 
+### Objetivos 
 
 Este curso está dirigido a personas que utilizan hojas de cálculo para la manipulación de datos y que nunca han programado, pero que les gustaría aprender a trabajar con R. Por lo tanto, se empieza trabajando con ¿por qué utilizar R? y ¿por dónde empezar?
 
@@ -42,8 +42,6 @@ Este workshop stá dirigido a personas que utilizan hojas de cálculo (Excel, Go
 
 Mira nuestras [personas tipo](https://metadocencia.org/personas/) para leer más detalles.
 
-
-### How to participate 
 
 ### ¿Cómo participo?
 
