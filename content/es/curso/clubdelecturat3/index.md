@@ -69,7 +69,7 @@ Para inscribirte, por favor completá tu mail en el formulario de abajo con el m
 (Si el formulario no aparece, es posible que tengas algún bloqueador de contenido instalado. En ese caso podés ir a [este link](https://script.google.com/macros/s/AKfycbwRbefmyFZ2O_wpDUujCPJIzXb2BtTp3VFLMWD-7EoUWnjPTPWFcf91u-09MKtrOrP8ZA/exec))
  
 
-El taller es gratuito. Las personas que sean invitadas al taller se comprometen a cumplir con nuestro [código de conducta](https://metadocencia.netlify.app/cdc/).
+Los encuentros son gratuitos. Las personas que quieran participar se comprometen a cumplir con nuestro [código de conducta](https://metadocencia.org/cdc/).
 
 ### Materiales del club de lectura
 
