@@ -66,7 +66,7 @@ Para inscribirte, por favor completá tu mail en el formulario de abajo con el m
   Explorador no compatible.
 </iframe> 
 
-(Si el formulario no aparece, es posible que tengas algún bloqueador de contenido instalado. En ese caso podés ir a [este link](https://script.google.com/macros/s/AKfycbxrgsArPvJSoyJ-ZGqFS2i3X7f7RJvJTu8YBDCdEXHeANsgZTzDSKbu-9T5qQN_c0fyrA/exec))
+(Si el formulario no aparece, es posible que tengas algún bloqueador de contenido instalado. En ese caso podés ir a [este link](https://script.google.com/macros/s/AKfycbwRbefmyFZ2O_wpDUujCPJIzXb2BtTp3VFLMWD-7EoUWnjPTPWFcf91u-09MKtrOrP8ZA/exec))
  
 
 El taller es gratuito. Las personas que sean invitadas al taller se comprometen a cumplir con nuestro [código de conducta](https://metadocencia.netlify.app/cdc/).
