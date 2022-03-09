@@ -22,7 +22,7 @@ tags:
 
 ### Objetivos 
 
-encontrarnos en un club de lectura es poder analizar cada capítulo, realizar los ejercicios propuestos y generar nuevos aprendizajes y construcciones en comunidad.
+Encontrarnos en un club de lectura es poder analizar cada capítulo, realizar los ejercicios propuestos y generar nuevos aprendizajes y construcciones en comunidad.
 
 ### ¿Para quién?
 
