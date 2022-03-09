@@ -52,7 +52,7 @@ Una o varias personas presentarán los capítulos y otra persona moderadora se e
 
 ### ¿Cómo participo?
 
-Para participar de este club de lectura es necesario que te hayas [registrado](https://docs.google.com/forms/d/e/1FAIpQLScC20Me-fX7UmCNhNswulYfOVQF4XiyIHgtde_R8CWreCmWhA/viewform).
+Para participar de este club de lectura es necesario que te hayas registrado previamente en MetaDocencia completando este [formulario](https://docs.google.com/forms/d/e/1FAIpQLScC20Me-fX7UmCNhNswulYfOVQF4XiyIHgtde_R8CWreCmWhA/viewform).
 
 Para inscribirte, por favor completá tu mail en el formulario de abajo con el mismo mail que usaste para registrarte.  Te vas a registrar a todos los eventos, pero si no podes venir a todos no hay problema.
 
