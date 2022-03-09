@@ -1,5 +1,5 @@
 ---
-date: "2020-03-05"
+date: "2020-03-09"
 draft: false
 image:
   caption: "[Photo por Liana Mikah en Unsplash](https://unsplash.com/photos/2t4Ji-nARqA)"
@@ -41,14 +41,14 @@ Una o varias personas presentarán los capítulos y otra persona moderadora se e
 
 |  Fecha |  Capítulos  | Presenta | Modera |
 | ---:  | :----------- | :----------- | :----------- |
-|15 de Marzo |Modelos mentales y evaluación formativa. Tipos de Ejercicios | Yani Bellini Saibene| |
-|22 de Marzo |Pericia y memoria. Ejemplos de mapas conceptuales | Yani Bellini Saibene | Paola Corrales |
-|29 de Marzo |Arquitectura cognitiva. Aprendizaje Individual | Elio Campitelli | Yani Bellini Saibene |
-|5 de Abril |Conocimiento de la pedagogía del contenido. Enseñar como un arte performativo| Paola Corrales | Jesica Formoso |
-|12 de Abril | Un proceso para diseñar lecciones. Motivación y desmotivación | Jesica Formoso | Mónica Alonso |
-|19 de Abril | En el salón de clase. Enseñar en línea |Ernesto Mirt Alvarado | Elio Campitelli |
-|25 de Abril | Construyendo una comunidad de práctica. Difusión y vinculación. Reuniones, reuniones, reuniones | Alejandra Bellini | Yani Bellini Saibene |
-|3 de Mayo | Las Reglas. Introducción. ¿Por qué enseño? | Greg Wilson | Yani Bellini Saibene |
+|15 de Marzo - 18:00 UTC-3 |Modelos mentales y evaluación formativa. Tipos de Ejercicios | Yani Bellini Saibene| |
+|22 de Marzo - 18:00 UTC-3|Pericia y memoria. Ejemplos de mapas conceptuales | Yani Bellini Saibene | Paola Corrales |
+|29 de Marzo - 18:00 UTC-3|Arquitectura cognitiva. Aprendizaje Individual | Elio Campitelli | Yani Bellini Saibene |
+|5 de Abril - 18:00 UTC-3|Conocimiento de la pedagogía del contenido. Enseñar como un arte performativo| Paola Corrales | Jesica Formoso |
+|12 de Abril - 18:00 UTC-3| Un proceso para diseñar lecciones. Motivación y desmotivación | Jesica Formoso | Mónica Alonso |
+|19 de Abril - 18:00 UTC-3| En el salón de clase. Enseñar en línea |Ernesto Mirt Alvarado | Elio Campitelli |
+|25 de Abril - 18:00 UTC-3| Construyendo una comunidad de práctica. Difusión y vinculación. Reuniones, reuniones, reuniones | Alejandra Bellini | Yani Bellini Saibene |
+|3 de Mayo - 18:00 UTC-3| Las Reglas. Introducción. ¿Por qué enseño? | Greg Wilson | Yani Bellini Saibene |
 
 ### ¿Cómo participo?
 
