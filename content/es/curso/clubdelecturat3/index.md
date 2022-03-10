@@ -26,12 +26,12 @@ Encontrarnos en un club de lectura es poder analizar cada capítulo, realizar lo
 
 ### ¿Para quién?
 
-La convocatoria está abierta a todas las personas que quiera participar y, como siempre, será gratuita. Si no leíste los capítulos que discutiremos en un encuentro y querés acercarte a escuchar y participar las dinámicas, también te damos la bienvenida. Cada encuentro será autocontenido, así que no es obligatorio participar de todos los encuentros. Si te perdiste alguno, igual podés participar en los siguientes.
+La convocatoria está abierta a todas las personas que quieran participar y, como siempre, será gratuita. Si no leíste los capítulos que discutiremos en un encuentro y querés acercarte a escuchar y participar de las dinámicas, también te damos la bienvenida. Cada encuentro será autocontenido, así que no es obligatorio participar de todos los encuentros. Si te perdiste alguno, igual podés participar en los siguientes.
 
 
 ### Duración
 
-La organización será con encuentros semanales donde discutiremos dos o tres capítulos relacionados de una hora de duración. 
+La organización será con encuentros semanales (de una hora de duración) donde discutiremos dos o tres capítulos relacionados. 
 
 Una o varias personas presentarán los capítulos y otra persona moderadora se encargará de llevar adelante cada encuentro de manera organizada para desarrollar el contenido y trabajar en los ejercicios. Como cierre, tendremos un encuentro con el autor, Greg Wilson (con intérprete en español), para que puedas hacerle todas las preguntas que quieras. Un aprendizaje que estará potenciado por los encuentros del club de lectura y las producciones que construimos en ellos.
 
