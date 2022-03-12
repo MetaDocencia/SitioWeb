@@ -47,7 +47,7 @@ Una o varias personas presentarán los capítulos y otra persona moderadora se e
 |5 de Abril - 18:00 UTC-3|Conocimiento de la pedagogía del contenido. Enseñar como un arte performativo| Paola Corrales | Jesica Formoso |
 |12 de Abril - 18:00 UTC-3| Un proceso para diseñar lecciones. Motivación y desmotivación | Jesica Formoso | Mónica Alonso |
 |19 de Abril - 18:00 UTC-3| En el salón de clase. Enseñar en línea |Ernesto Mirt Alvarado | Elio Campitelli |
-|25 de Abril - 18:00 UTC-3| Construyendo una comunidad de práctica. Difusión y vinculación. Reuniones, reuniones, reuniones | Alejandra Bellini | Yani Bellini Saibene |
+|26 de Abril - 18:00 UTC-3| Construyendo una comunidad de práctica. Difusión y vinculación. Reuniones, reuniones, reuniones | Alejandra Bellini | Yani Bellini Saibene |
 |3 de Mayo - 18:00 UTC-3| Las Reglas. Introducción. ¿Por qué enseño? | Greg Wilson | Yani Bellini Saibene |
 
 ### ¿Cómo participo?
