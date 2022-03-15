@@ -1,6 +1,7 @@
 ---
 authors:
   - alebellini
+role: Comunicación
 bio: ""
 education:
   courses:
