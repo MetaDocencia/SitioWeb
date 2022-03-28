@@ -1,5 +1,5 @@
 ---
-date: "2022-03-29"
+date: "2022-03-30"
 draft: false
 type: page
 linktitle: Metadocencia cumple dos años
