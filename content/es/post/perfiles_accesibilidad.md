@@ -3,7 +3,7 @@ date: "2022-04-06"
 draft: false
 type: page
 linktitle: Perfiles de accesibilidad de MetaDocencia
-summary: primera descripción de perfiles de personas con discapacidad para organizar los distintos requerimientos y lograr un material que sea accesible para la mayor cantidad de personas.
+summary: Primera descripción de perfiles de personas con discapacidad que nos ayudan a organizar los distintos requerimientos y lograr un material que sea accesible para la mayor cantidad de personas.
 title: Perfiles de accesibilidad de MetaDocencia
 authors: 
   - ivan
