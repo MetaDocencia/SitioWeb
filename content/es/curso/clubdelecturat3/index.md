@@ -39,16 +39,16 @@ Una o varias personas presentarán los capítulos y otra persona moderadora se e
 ### Cronograma 
 
 
-|  Fecha |  Capítulos  | Presenta | Modera |
-| ---:  | :----------- | :----------- | :----------- |
-|15 de Marzo - 18:00 UTC-3 |Modelos mentales y evaluación formativa. Tipos de Ejercicios | Yani Bellini Saibene| |
-|22 de Marzo - 18:00 UTC-3|Pericia y memoria. Ejemplos de mapas conceptuales | Yani Bellini Saibene | Paola Corrales |
-|29 de Marzo - 18:00 UTC-3|Arquitectura cognitiva. Aprendizaje Individual | Elio Campitelli | Yani Bellini Saibene |
-|5 de Abril - 18:00 UTC-3|Conocimiento de la pedagogía del contenido. Enseñar como un arte performativo| Paola Corrales | Jesica Formoso |
-|12 de Abril - 18:00 UTC-3| Un proceso para diseñar lecciones. Motivación y desmotivación | Jesica Formoso | Mónica Alonso |
-|19 de Abril - 18:00 UTC-3| En el salón de clase. Enseñar en línea |Ernesto Mirt Alvarado | Elio Campitelli |
-|26 de Abril - 18:00 UTC-3| Construyendo una comunidad de práctica. Difusión y vinculación. Reuniones, reuniones, reuniones | Alejandra Bellini | Yani Bellini Saibene |
-|3 de Mayo - 18:00 UTC-3| Las Reglas. Introducción. ¿Por qué enseño? | Greg Wilson | Yani Bellini Saibene |
+|  Fecha |  Capítulos  | Presenta | Modera | Materiales |
+| ---:  | :----------- | :----------- | :----------- | :----------- |
+|15 de Marzo - 18:00 UTC-3 |Modelos mentales y evaluación formativa. Tipos de Ejercicios | Yani Bellini Saibene| Paola Corrales | [Slides](https://docs.google.com/presentation/d/12_vkEBWM57yRy86Nd3hLqqDEr_jqhYjgTuDPyuvNOM8/edit?usp=sharing) - [Blog post](https://www.metadocencia.org/post/club_de_lectura_t3_dia1/) |
+|22 de Marzo - 18:00 UTC-3|Pericia y memoria. Ejemplos de mapas conceptuales | Yani Bellini Saibene | Paola Corrales |[Slides](https://docs.google.com/presentation/d/1hQwa8SXLH1iYzY06pTvh7oit1rOUmUB_wzB__O8DhrU/edit?usp=sharing) - [Blog post](https://www.metadocencia.org/post/club_de_lectura_t3_dia2/)|
+|29 de Marzo - 18:00 UTC-3|Arquitectura cognitiva. Aprendizaje Individual | Elio Campitelli | Yani Bellini Saibene |[Blog post](https://www.metadocencia.org/post/club_de_lectura_t3_dia3/)|
+|5 de Abril - 18:00 UTC-3|Conocimiento de la pedagogía del contenido. Enseñar como un arte performativo| Paola Corrales | Jesica Formoso |[Slides](https://docs.google.com/presentation/d/1aeTj5DcjaOIh7WF1VqD5dmiiPuucadvB3bxRQCP7zR0/edit?usp=sharing) - [Blog post](https://www.metadocencia.org/post/club_de_lectura_t3_dia4/)|
+|12 de Abril - 18:00 UTC-3| Un proceso para diseñar lecciones. Motivación y desmotivación | Jesica Formoso | Mónica Alonso ||
+|19 de Abril - 18:00 UTC-3| En el salón de clase. Enseñar en línea |Ernesto Mirt Alvarado | Elio Campitelli ||
+|26 de Abril - 18:00 UTC-3| Construyendo una comunidad de práctica. Difusión y vinculación. Reuniones, reuniones, reuniones | Alejandra Bellini | Yani Bellini Saibene ||
+|3 de Mayo - 18:00 UTC-3| Las Reglas. Introducción. ¿Por qué enseño? | Greg Wilson | Yani Bellini Saibene ||
 
 ### ¿Cómo participo?
 
