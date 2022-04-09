@@ -46,6 +46,7 @@ superuser: false
 user_groups:
 - "Former Core Team"
 - Contributors
+- Alumni
 ---
 
 
