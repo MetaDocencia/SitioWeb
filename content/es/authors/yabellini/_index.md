@@ -46,6 +46,7 @@ superuser: false
 user_groups:
 - Ex Equipo Coordinador
 - Colaboradores
+- Alumni
 ---
 
 En resumen:
