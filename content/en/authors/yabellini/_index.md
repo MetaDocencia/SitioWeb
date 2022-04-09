@@ -16,20 +16,19 @@ education:
   - course: Software Carpentries Trainer
     institution: The Carpentries
     year: 2020    
+  - course: The Carpentries Certified Trainer  
+    institution: The Carpentries
+    year: 2021    
 email: ""
 interests:
-- Artificial Intelligence
-- Geographic Information Systems
-- Remote sensing
-- AgTech
-- Agricultural information systems
+
 name: Yanina Bellini Saibene
 organizations:
-- name: Instituto Nacional de Tecnología Agropecuaria
-  url: "https://inta.gob.ar/personas/bellini.yanina"
 - name: R-Ladies
   url: "https://rladies.org"
-role: Researcher at Inta - MetaDocencia Founder
+- name: The Carpentries
+  url: https://carpentries.org/
+role: MetaDocencia Founder
 social:
 - icon: envelope
   icon_pack: fas
@@ -45,13 +44,22 @@ social:
   link: https://github.com/yabellini
 superuser: false
 user_groups:
-- "Core Team"
+- "Former Core Team"
+- Contributors
 ---
 
 
-Yani is researcher at INTA in La Pampa. She has teaching experience at all educational levels, from primary school to university, since 1993. She has been training teachers since 1996 through the Red Federal de Formación Docente Continua (Ministry of Education) and the INTA transfer and extension system. She has given more than 50 courses and workshops on information and communication technologies (ICTs). She has been working remotely since 2009, including the defense of his master's thesis in this modality in 2015. Since 2019 she is an [RStudio Certified Tidyverse trainer](https://education.rstudio.com/trainers/) and since 2020 is an [Software Carpentries Instructor](https://carpentries.org/instructors/).
+__In short:__ 
 
-She has organized more than 50 events (regional and international), among which she was the general chair of the [Jornadas Argentinas de Informática (2020)](http://www.sadio.org.ar/jaiio/), founder and current chair of [LatinR](https://latin-r.com), one of the largest Latin American conferences on the use of R in research and development and co-chair of [useR!2021](https://user2021.r-project.org/).  
+[UNAB](https://www.unab.edu.ar/) and [UDE](https://www.fca-ude.edu.uy/) Professor.
 
-Yani is an activist for open initiatives (software, data and science). Since 2017 she takes part in several voluntary initiatives that involve collaborative remote work with professionals from a wide range of disciplines and countries, including [R-Ladies](https://rladies.org/) and [R4DS](https://github.com/cienciadedatos). The latter initiative translated the book [R for Data Science](https://es.r4ds.hadley.nz) and the "data" package into Spanish. She also lead the translatios of [Teaching Teach Together](https://teachtogether.tech/) to Spanish. 
+Co-founder of [MetaDocencia](https://www.metadocencia.org/), [LatinR](https://latin-r.com/), and [R-Ladies Santa Rosa](https://www.meetup.com/es/rladies-santa-rosa/).
 
+Member, [The Carpentries](https://carpentries.org/) Executive Council,  [R-Ladies](https://rladies.org/) Global and Leadership Team, [RForwards](https://forwards.github.io/) Core Team, [R Consortium Infrastructure Steering Committee](https://www.r-consortium.org/about/governance), [R4DS_ES](https://github.com/cienciadedatos), useR! Working Group, [MiR](https://mircommunity.com), [Sociedad Argentina de Informática (SADIO)](https://www.sadio.org.ar/).
+
+[INTA](https://www.argentina.gob.ar/inta)'s Researcher (on sabbatical). Ex-Coordinator of the Agroecosystem Modeling Network.
+Ex MetaDocencia's Core Team.
+
+Winner of [CIALP](http://cialp.com.ar/) Technological Innovation Award (2001) and the National e-Government Award (2015 y 2016) for projects related to remote sensing and open data.  
+
+M.S. in Data Mining and Knowledge Management.
