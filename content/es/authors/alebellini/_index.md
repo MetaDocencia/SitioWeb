@@ -22,7 +22,8 @@ email: ""
 interests:
 name: Alejandra Bellini
 user_groups:
-- Colaboradores
+- Ex Colaboradores
+- Alumni
 ---
 
 Alejandra es Licenciada en Comunicación Social con título intermedio de periodista profesional y Locutora Nacional. Durante los últimos 18 años forma parte del equipo de Canal 12 de Córdoba ocupando distintos roles dentro del canal abierto de televisión. Además de conductora y columnista en distintos programas de televisión, ocupó el rol de editora web del lanzamiento de la plataforma digital del canal, transformándose en la primera mujer jefa de la historia del canal que este año cumple 62 años.
