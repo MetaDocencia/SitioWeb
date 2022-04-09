@@ -22,7 +22,8 @@ email: ""
 interests:
 name: Alejandra Bellini
 user_groups:
-- Contributors
+- Former Contributors
+- Alumni
 ---
 
 Alejandra has a degree in Social Communication with an intermediate degree as a professional journalist and national broadcaster. For the last 18 years she has been part of the team of Canal 12 de Córdoba, occupying different roles within the open television channel. In addition to being a host and columnist in different television programs, she was web editor for the launching of the channel's digital platform, becoming the first female chief in the history of the channel, which celebrates its 62nd anniversary this year (2022).
