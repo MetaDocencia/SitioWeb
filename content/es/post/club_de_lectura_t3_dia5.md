@@ -1,6 +1,6 @@
 ---
 date: "2022-04-18"
-draft: true
+draft: false
 type: page
 title: Quinto encuentro del Club de lectura. La pedagogía del contenido. 
 summary: En un encuentro muy charlado y con mucha participación discutimos los capítulos Un proceso para diseñar lecciones y Motivación y desmotivación.
