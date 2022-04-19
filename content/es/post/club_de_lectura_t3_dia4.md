@@ -59,7 +59,11 @@ y este meme nos hizo sentir identificados a varias de las personas del club:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Accurate! 💯<br>🌐 <a href="https://t.co/leSsDUnQAd">https://t.co/leSsDUnQAd</a> <a href="https://t.co/xIHedwNoqh">pic.twitter.com/xIHedwNoqh</a></p>&mdash; TeacherGoals (@teachergoals) <a href="https://twitter.com/teachergoals/status/1495031201224171522?ref_src=twsrc%5Etfw">February 19, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-También tenemos una presentación con un resumen de los dos capítulos que se puede ver aqui: https://docs.google.com/presentation/d/1aeTj5DcjaOIh7WF1VqD5dmiiPuucadvB3bxRQCP7zR0/edit?usp=sharing 
+También tenemos una presentación con un resumen de los dos capítulos que se puede ver aqui: 
+
+
+<iframe src="https://docs.google.com/presentation/d/1aeTj5DcjaOIh7WF1VqD5dmiiPuucadvB3bxRQCP7zR0/embed?start=false&loop=false&delayms=3000" frameborder="0" width="760" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 
 
 Para el próximo encuentro, el _martes 12 de abril_, analizaremos los capítulos:
