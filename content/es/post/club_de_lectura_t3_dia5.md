@@ -59,7 +59,7 @@ Luego hablamos de motivación y como puede influir en nuestros estudiantes.  Jes
 
 {{< figure src="/img/club_t3_quinto_encuentro.jpg"  alt="Motivación Intrínseca es interna y la extrinseca es externa.  La extrinseca la activdad se hace por un premio, evitar un castigo u obtener algo.  El resultado puede no gustar.  La intrinseca necesits tiempo, se hace por satisfacción personal." >}}
 
-El próximo encuentro será el_ martes 19 de abril_ y los capítulos que analizaremos son: 
+El próximo encuentro será el _martes 19 de abril_ y los capítulos que analizaremos son: 
 
 * En el salón de clase: 
 https://teachtogether.tech/es/index.html#s:classroom  
