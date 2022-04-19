@@ -47,6 +47,11 @@ Algunas de las respuestas fueron:
 {{< figure src="/img/CLT3_E1_Slack.png" alt="Respuestas de Paola, Elio y Andrea en el Slack del Club de Lectura. Pao: No logro pensar en un ejemplo. Seguro tengo contra ejemplos (clases donde le docente parecia no querer estar ahí y terminaba siendo una tortura). Posiblemente pasarla bien o que te guste mucho habla de un ambiente amigable. Seguro que no es suficiente para aprender, pero si necesario. Andrea: Yo no creo que haya logrado no aprender al menos algo de una clase que me gustara. Siempre queda algo. Y amaba las clases donde tuviéramos mucha libertad. Un profesor del colegio nos dijo que escogiéramos un/a autor/a latinoamericano/a y leyéramos lo que quisiéramos, fuéramos haciendo reportes y presentáramos lo que quisiéramos al final del año.  Caos :cara_ligeramente_sonriente:  En la universidad un profesor evaluaba inventando dos o tres exámenes levemente diferentes, nos dejaba llevar libros y hablar entre nosotres para resolver las respuestas que nos hubieran tocado al azar. Caos y colaboración :cara_ligeramente_sonriente:. Elio: Me hiciste acordar al mejor trabajo práctico de Literatura en la secundaria. Nos hicieron elegir libros con autoras mujeres y que lo leyéramos y escribiéramos una reseña o algo así. Creo que fue la única vez que leimos algo voluntariamente en vez de elegido por le docente. Todavía recuerdo con cariño el libro que leí (en cambio, no recuerdo nada de otros libros que tuve que leer como El Larazillo de Tormes, o libros que se suponía que debía leer como Don Quijote)." >}}
 
 
+Aquí podes repasar las slides de resumen del encuentro:
+
+<iframe src="https://docs.google.com/presentation/d/12_vkEBWM57yRy86Nd3hLqqDEr_jqhYjgTuDPyuvNOM8/embed?start=false&loop=false&delayms=3000" frameborder="0" width="760" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+
 Nuestro próximo encuentro será el __martes 22 de marzo (18.00 UTC -3)__ donde compartiremos el capítulo sobre _pericia y memoria_ del libro Enseñar Tecnología en Comunidad. 
 
 Si querés sumarte, en esta nota tenés todos los datos para hacerlo: https://www.metadocencia.org/curso/clubdelecturat3/ 
