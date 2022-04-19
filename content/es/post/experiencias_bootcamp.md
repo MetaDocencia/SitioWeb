@@ -16,7 +16,7 @@ tags:
   - MetaDocencia 
 ---
 
-{{< figure src="/img/experiencias_bootcamp_1.png.jpg"  alt="Slide inicial. Intro al ABC para enseñar online. Fuente MetaDocencia. Adaptación para Leniolabs. Bootcamp." >}}
+{{< figure src="/img/experiencias_bootcamp_1.png"  alt="Slide inicial. Intro al ABC para enseñar online. Fuente MetaDocencia. Adaptación para Leniolabs. Bootcamp." >}}
 > Diseño: Florencia Grassi
 
 
@@ -25,7 +25,7 @@ __Metadocencia__ es una hermosa comunidad a la que admiramos y con la cual estam
 Este artículo está enfocado en compartirles cómo fue nuestra experiencia trabajando con la información que amablemente nos compartieron y pusieron a disposición, mientras estuvimos preparando el primer Bootcamp de Leniolabs, la adecuación del material, la experiencia durante el taller, los aprendizajes obtenidos de esta experiencia y por supuesto el agradecimiento hacia el equipo.
 
 
-{{< figure src="/img/experiencias_bootcamp_2.png.jpg"  alt="Slide con un ejercicio de ejemplo. Cuentanos algo sobre ti. Duracion 5 minutos. Usar el documento compartido. Agregar al lado de tu nombre, un superpoder, porque te gusta ser profe.Acompaña un extraterrestre mirando por un telescopio." >}}
+{{< figure src="/img/experiencias_bootcamp_2.png"  alt="Slide con un ejercicio de ejemplo. Cuentanos algo sobre ti. Duracion 5 minutos. Usar el documento compartido. Agregar al lado de tu nombre, un superpoder, porque te gusta ser profe.Acompaña un extraterrestre mirando por un telescopio." >}}
 > Diseño: Florencia Grassi
 
 ## 	Necesidad: ¿Cómo iniciamos?
@@ -45,7 +45,7 @@ También encontramos diferentes tips para disolver la pantalla y lograr acercarn
 
 Y cómo todo, hay cosas que pueden fallar, si bien nuestro público participó feliz y entre los participantes tuvo una buena repercusión ¡olvidamos tomar encuestas!. Obtener feedback al finalizar una clase, taller o curso es relevante para realizar mejoras en los contenidos, propuestas y adaptaciones que debamos hacer en estos para continuar enriqueciendo futuras presentaciones. 
 
-{{< figure src="/img/experiencias_bootcamp_3.png.jpg"  alt="Slide con otro ejercicio de ejemplo. Hoy nos pusimos nuestra camiseta preferida. Contanos brevemente en qué se parece tu camiseta/remera a tí. Acompañan 5 figuras de extraterrestres todos diferentes." >}}
+{{< figure src="/img/experiencias_bootcamp_3.png"  alt="Slide con otro ejercicio de ejemplo. Hoy nos pusimos nuestra camiseta preferida. Contanos brevemente en qué se parece tu camiseta/remera a tí. Acompañan 5 figuras de extraterrestres todos diferentes." >}}
 > Diseño: Florencia Grassi
 
 ##	Conclusiones
@@ -56,7 +56,7 @@ Parte importante de lo que aprendimos, es que ante la vorágine de tareas y prep
  
 Todo esto en medio de una pandemia, transitando y saliendo de ella ¿es viable?, por supuesto que sí. De seguro no es fácil pero tampoco es tan complejo como puede parecer. Estamos sumamente agradecidos (por si no lo dijimos antes) por habernos encontrado con una comunidad que tiene el corazón y el foco centrado en los estudiantes. 
 
-{{< figure src="/img/experiencias_bootcamp_4.png.jpg"  alt="Slide final con un extraterrestre que dice Gracias por participar y arriba la palabra Dudas?" >}}
+{{< figure src="/img/experiencias_bootcamp_4.png"  alt="Slide final con un extraterrestre que dice Gracias por participar y arriba la palabra Dudas?" >}}
 > Diseño: Florencia Grassi
 
 Aqui pueden acceder a la presentación de nuestro material basado en el de MetaDocencia: [https://docs.google.com/presentation/d/1KW-bn4HSM0v4HFDqLLU2S8hTR1V-1ro5/edit#slide=id.g97ea8620dc_16_0](https://docs.google.com/presentation/d/1KW-bn4HSM0v4HFDqLLU2S8hTR1V-1ro5/edit#slide=id.g97ea8620dc_16_0)
