@@ -18,7 +18,11 @@ tags:
 
 En intercambios que se presentan cada vez más interesantes y profundos, el quinto encuentro del Club de lectura sobre el libro [Enseñar tecnología en Comunidad](https://teachtogether.tech/es/index.html) presentó experiencias y ejercicios que llenaron de sentidos los dos capítulos analizados: _Conocimiento de la pedagogía del contenido_ y _Enseñar como un arte performativo._
 
-En este caso, el encuentro fue desarrollado por Jesi y moderado por Moni.  Jesi preparó esta presentación con un resumen de ambos capítulos: https://docs.google.com/presentation/d/15JdUUoKTTy5RZSN1-sdvt3Vzp4u-_FnmtWmfS0Kk9gs/edit#slide=id.g121c516adc5_2_56
+En este caso, el encuentro fue desarrollado por Jesi y moderado por Moni.  Jesi preparó esta presentación con un resumen de ambos capítulos:
+
+
+<iframe src="https://docs.google.com/presentation/d/15JdUUoKTTy5RZSN1-sdvt3Vzp4u-_FnmtWmfS0Kk9gs/embed?start=false&loop=false&delayms=3000" frameborder="0" width="760" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 
 Entre los conceptos más importantes que se compartieron, _diseñar lecciones, como se relaciona este diseño con las personas tipos y la motivación_ fueron los que más se trabajaron a través de los ejercicios en grupo.
 
