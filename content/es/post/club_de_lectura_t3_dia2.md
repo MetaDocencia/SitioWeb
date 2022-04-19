@@ -55,6 +55,10 @@ Herramientas para dibujar mapas conceptuales:
 
 Herramienta para analizar como afecta la memoria a corto plazo: https://what3words.com/cr%C3%ADo.cenamos.alarmas
 
+Estas son las slides del encuentro:
+
+<iframe src="https://docs.google.com/presentation/d/1hQwa8SXLH1iYzY06pTvh7oit1rOUmUB_wzB__O8DhrU/embed?start=false&loop=false&delayms=3000" frameborder="0" width="760" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 Nuestro próximo encuentro será el _martes 29 de marzo_ sobre los capítulos: [Arquitectura cognitiva](https://teachtogether.tech/es/index.html#s:architecture) y [Aprendizaje individual](https://teachtogether.tech/es/index.html#s:individual)
 
 Si querés sumarte a partir del próximo encuentro podés hacerlo desde acá: https://www.metadocencia.org/curso/clubdelecturat3/ 
