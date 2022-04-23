@@ -134,11 +134,11 @@ This is a 3-hour workshop with intervals (ideally away from any screen) of appro
 
 ### Course materials
 
-* [Presentation used during the course](https://docs.google.com/presentation/d/1QLRUbERgEk85s8qK6mzmMJn7avQ_bEmTn_NzFYgqwkc/edit?usp=sharing)
+* [Presentation used during the course](https://docs.google.com/presentation/d/1RejcfLcXZtkZgOTOwo5UJx9Oyg-jU_vE5ucufnUx31Y/edit?usp=sharing)
 
 * [End-of-workshop feedback form template](https://docs.google.com/forms/d/1Z7F-gEwIT3Wokj8g65TcU5rzrFHzQsjtmKBQmqUaEnE/edit?usp=sharing)
 
-* [Recording of the course](https://youtu.be/d7eXzRzEdC8)
+* [Recording of the course](https://youtu.be/BGmM_E6BrRI)
 
 ### Do you want to re-use any of our contents? Please, be our guest!
 
