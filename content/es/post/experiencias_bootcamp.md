@@ -1,6 +1,6 @@
 ---
-date: "2022-04-25"
-draft: true
+date: "2022-04-27"
+draft: false
 type: page
 linktitle: Comunidades del conocimiento 
 summary: Nuestra experiencia sobre la utilización de los cursos de MetaDocencia en el Bootcamp de Leniolabs.
@@ -59,7 +59,7 @@ Todo esto en medio de una pandemia, transitando y saliendo de ella ¿es viable?,
 {{< figure src="/img/experiencias_bootcamp_4.png"  alt="Slide final con un extraterrestre que dice Gracias por participar y arriba la palabra Dudas?" >}}
 > Diseño: Florencia Grassi
 
-Aqui pueden acceder a la presentación de nuestro material basado en el de MetaDocencia: [https://docs.google.com/presentation/d/1KW-bn4HSM0v4HFDqLLU2S8hTR1V-1ro5/edit#slide=id.g97ea8620dc_16_0](https://docs.google.com/presentation/d/1KW-bn4HSM0v4HFDqLLU2S8hTR1V-1ro5/edit#slide=id.g97ea8620dc_16_0)
+Aqui pueden [acceder a la presentación de nuestro material basado en el de MetaDocencia](https://docs.google.com/presentation/d/1H6It2yJMyw447La3xhsbkIyA6KQ2a61k/edit?usp=sharing&ouid=100199791415736280039&rtpof=true&sd=true)
 
 
 >> Gracias a Yanina Bellini Saibene, Nicolas Palopoli y Alejandra Bellini por la colaboración en la escritura de este blog post.
