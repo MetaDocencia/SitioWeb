@@ -57,6 +57,6 @@ Necesitamos que el CV y la nota estén en formato pdf.
 
 Planeamos entrevistar postulantes dentro de las 2 semanas de la fecha de cierre.
 
-MetaDocencia reconoce que la experiencia puede ser más representativa de haber tenido oportunidades que de tener habilidad para realizar un trabajo. Nos proponemos considerar personas talentosas que no hayan tenido las oportunidades de sus pares dabido a  los efectos acumulativos de la discriminación en factores tales como género, grupo étnico, discapacidad, orientación sexual y la intersección de las distintas dimensiones de discriminación.
+MetaDocencia reconoce que la experiencia puede ser más representativa de haber tenido oportunidades que de tener habilidad para realizar un trabajo. Nos proponemos considerar personas talentosas que no hayan tenido las oportunidades de sus pares debido a los efectos acumulativos de la discriminación en factores tales como género, grupo étnico, discapacidad, orientación sexual y la intersección de las distintas dimensiones de discriminación.
 
 **Agradecimientos:** _MetaDocencia le agradece a [Open Life Science](https://openlifesci.org/) y a [Rowland Mosbergen](https://www.practicaldiversity.org/) sus contribuciones a esta búsqueda laboral._ 
