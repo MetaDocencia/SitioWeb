@@ -25,7 +25,7 @@ Los capítulos sobre los cuales trabajamos fueron:
 
 * [Reuniones, reuniones, reuniones](https://teachtogether.tech/es/index.html#s:meetings)
   
-Aqui podes repasar las 3 slides resumiendo los capítulos:
+Aqui podes repasar las slides resumiendo los capítulos:
 
 <iframe src="https://docs.google.com/presentation/d/1JBl-R9uNRXUPJR8NIP2fW8sUO9FE7cUXMEos_McRADY/embed?start=false&loop=false&delayms=3000" frameborder="0" width="760" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
@@ -64,7 +64,7 @@ Tiene buenas intenciones pero, por alguna razón, siempre surge algo y termina s
 * Juan José
 Es grosero. “Esa es la forma en que hablo”, dice. “Si no puedes solucionarlo, ve a buscar otro equipo”. Su frase favorita es: “Eso es estúpido” y dice una obscenidad cada segunda oración.
 
-- Propuesta Equipo 1: Tener en cuenta el código de conducta, si no se acepta no puede participar en las reuniones. Llevar un cuadro con las interrupciones, comentarios que no suman o subjetivos
+  - Propuesta Equipo 1: Tener en cuenta el código de conducta, si no se acepta no puede participar en las reuniones. Llevar un cuadro con las interrupciones, comentarios que no suman o subjetivos
 
 
 Sobre el resto de los capítulos, entre los comentarios más interesantes que surgieron destacamos el siguiente sobre las reuniones:
