@@ -80,7 +80,7 @@ Ese trabajo es el que permitió que existiera este Club de lectura en castellano
 
 __Sumado a esto, y alineado a los objetivos de accesibilidad de MetaDocencia, hubo traducción en vivo para que todas las personas que participaron pudieran disfrutar del intercambio, independientemente del idioma.__ Fue el primer evento en el que sumamos esta posibilidad para disminuir la barrera del idioma.
 
-Los participaten rescataron como muy positivo conocer al autor, la honestidad de las respuestas de Greg, la traducción en vivo que dió la posibilidad de que cada persona se exprese en el idioma que se siente cómoda y la oportunidad que se dió al grupo para expresar su opinion acerca de como se podría mejorar el libro.
+Los participantes rescataron como muy positivo conocer al autor, la honestidad de las respuestas de Greg, la traducción en vivo que dió la posibilidad de que cada persona se exprese en el idioma que se siente cómoda y la oportunidad que se dió al grupo para expresar su opinion acerca de como se podría mejorar el libro.
 
 
 El Club de lectura tuvo un cierre de lujo que cumplió con creces su objetivo primario: compartir experiencias y vivencias a partir del libro en español y plantear nuevas dudas y preguntas para buscar respuestas en futuras ediciones y encuentros.
