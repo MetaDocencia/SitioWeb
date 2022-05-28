@@ -1,5 +1,5 @@
 ---
-date: "2022-05-29"
+date: "2022-05-28"
 draft: false
 type: page
 linktitle: Un cambio de imagen y de estrategia de comunicación en Metadocencia
