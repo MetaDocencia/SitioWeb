@@ -1,5 +1,5 @@
 ---
-date: "2022-04-29"
+date: "2022-05-31"
 draft: false
 type: page
 title: ¡MetaDocencia está contratando! 
@@ -12,6 +12,10 @@ weight: 1
 tags: 
   - MetaDocencia
 ---
+
+**Actualización:** ¡Estamos felices por la hermosa respuesta que recibieron estas búsquedas laborales! Pronto se estarán sumando personas muy valiosas a nuestro equipo y a nuestra comunidad. Si te postulaste - ¡muchas gracias! - y aún no recibiste un mensaje nuestro con noticias sobre tu postulación, no dudes en contactarnos. Cuando volvamos a tener búsquedas abiertas lo anunciaremos por nuestras redes sociales. Publicado originalmente el 29/04/2022. 
+
+------
 
 MetaDocencia está contratando hasta tres personas para que se encarguen de nuestra:
 
