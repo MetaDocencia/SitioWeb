@@ -33,7 +33,7 @@ Es requisito haber tomado el curso de _"Introducción al ABC para enseñar on li
 
 Para saber un poco más sobre las tareas específicas que realiza un/a ayudante, te recomendamos leer el post: [Un día en la vida de un ayudante de clase](https://www.metadocencia.org/post/ayudante/).
 
-Una vez que te decidas a participar, sólo es necesario comunicar las ganas de sumarte mediante nuestro [Slack](https://join.slack.com/t/metadocencia/shared_invite/zt-ek8a0rup-MQB_5qUKhr9zIGKQAUImXA) (en el siguiente apartado te contamos cómo hacerlo). A la brevedad alguien del equipo se pondrá en contacto para guiarte y responder todas las inquietudes que puedan surgir.
+Una vez que te decidas a participar, sólo es necesario comunicar las ganas de sumarte mediante nuestro [Slack](https://w3id.org/metadocencia/slack) (en el siguiente apartado te contamos cómo hacerlo). A la brevedad alguien del equipo se pondrá en contacto para guiarte y responder todas las inquietudes que puedan surgir.
 
 ## ¿Cómo nos comunicamos entre nosotros/as?
 
