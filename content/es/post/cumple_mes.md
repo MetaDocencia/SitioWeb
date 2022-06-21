@@ -51,7 +51,7 @@ El equipo de Metadocencia tiene una frase de cabecera: “La felicidad compartid
 <blockquote class="twitter-tweet"><p lang="es" dir="ltr">Gracias <a href="https://twitter.com/metadocencia?ref_src=twsrc%5Etfw">@metadocencia</a> por el curso de Introducción al ABC para enseñar online. útil y GRATUITO. Las mejores 3hs invertidas en aprender algo nuevo</p>&mdash; 💚Sol Osman💚 (@marisol_osman) <a href="https://twitter.com/marisol_osman/status/1250077903171223553?ref_src=twsrc%5Etfw">14 de Abril de 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 Metadocencia busca exactamente eso: compartir conocimiento y sumar experiencias; construir, en definitiva, un nuevo aprendizaje en un contexto absolutamente extraordinario.
-La clave para que funcione es que la [comunidad siga creciendo](https://join.slack.com/t/metadocencia/shared_invite/zt-cq1hleoz-Ij2AgXKJBjg03sRuoxLhjg).
+La clave para que funcione es que la [comunidad siga creciendo](https://w3id.org/metadocencia/slack).
 
 <blockquote class="twitter-tweet"><p lang="es" dir="ltr">Con mucha alegría, acabo de recibir la invitación (después de mi pre inscripción) para el taller &quot;Intro al ABC para enseñar online&quot; de <a href="https://twitter.com/metadocencia?ref_src=twsrc%5Etfw">@metadocencia</a> .<br><br>¡Ya quiero que sea viernes!<br><br>Gracias por esto que hacen 💜</p>&mdash; Yuriko Sosa (@YkSosaP) <a href="https://twitter.com/YkSosaP/status/1249068691347705858?ref_src=twsrc%5Etfw">11 de Abril de 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
