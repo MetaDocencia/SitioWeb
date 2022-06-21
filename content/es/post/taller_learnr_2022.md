@@ -29,4 +29,4 @@ La organización del evento es en conjunto con [R-Ladies Johannesburg](https://t
 
 Durante los meses de _abril y mayo_ se realizarán reediciones de los cursos de MetaDocencia con diferentes capítulos de _R-Ladies_ tanto en _inglés como en español_. 
 
-Si querés enterarte de las novedades y no perderte ningún encuentro, podés sumarte a la comunidad de Slack de Metadocencia: https://metadocencia.slack.com/
+Si querés enterarte de las novedades y no perderte ningún encuentro, podés sumarte a la comunidad de Slack de Metadocencia: https://w3id.org/metadocencia/slack
