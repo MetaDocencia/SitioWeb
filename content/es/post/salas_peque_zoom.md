@@ -45,5 +45,5 @@ En este video te mostramos como generar estas salas para trabajo en grupos peque
 {{< youtube QXrbLo3r7MI >}}
 
 <br></br>
-¿Vos usas esta herramienta?, contanos cómo en nuestro [Slack](https://join.slack.com/t/metadocencia/shared_invite/zt-ek8a0rup-MQB_5qUKhr9zIGKQAUImXA) o en nuestro [twitter](https://twitter.com/metadocencia).
+¿Vos usas esta herramienta?, contanos cómo en nuestro [Slack](https://w3id.org/metadocencia/slack) o en nuestro [twitter](https://twitter.com/metadocencia).
  
