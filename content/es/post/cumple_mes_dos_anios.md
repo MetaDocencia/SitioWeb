@@ -37,7 +37,7 @@ El cierre de nuestro club de lectura será un encuentro con el autor del libro, 
 
 Todos los que quieran participar pueden inscribirse en este link: https://www.metadocencia.org/curso/clubdelecturat3/
 
-También pueden sumarse a nuestra comunidad de Slack y enterarse de todas las novedades: metadocencia.slack.com
+También pueden sumarse a nuestra comunidad de Slack y enterarse de todas las novedades: https://w3id.org/metadocencia/slack
 
 ## Charla principal
 
