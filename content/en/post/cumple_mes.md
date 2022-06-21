@@ -54,7 +54,7 @@ MetaDocencia's team has a favorite quote: "Shared joy is doubled; shared pain is
 
 > Tweet translation: Thank you, @metadocencia for the Introduction to the ABC to teach online course. useful and FREE. The best 3hs I've invested in learning something new.
 
-Metadocencia seeks exactly that: to share knowledge and add experiences; in short, to build new learning in this utterly extraordinary context. The key to making it work is to keep the [community growing](https://join.slack.com/t/metadocencia/shared_invite/zt-cq1hleoz-Ij2AgXKJBjg03sRuoxLhjg).
+Metadocencia seeks exactly that: to share knowledge and add experiences; in short, to build new learning in this utterly extraordinary context. The key to making it work is to keep the [community growing](https://w3id.org/metadocencia/slack).
 
 
 <blockquote class="twitter-tweet"><p lang="es" dir="ltr">Con mucha alegría, acabo de recibir la invitación (después de mi pre inscripción) para el taller &quot;Intro al ABC para enseñar online&quot; de <a href="https://twitter.com/metadocencia?ref_src=twsrc%5Etfw">@metadocencia</a> .<br><br>¡Ya quiero que sea viernes!<br><br>Gracias por esto que hacen 💜</p>&mdash; Yuriko Sosa (@YkSosaP) <a href="https://twitter.com/YkSosaP/status/1249068691347705858?ref_src=twsrc%5Etfw">11 de Abril de 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
