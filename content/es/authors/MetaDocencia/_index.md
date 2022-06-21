@@ -28,7 +28,7 @@ social:
   link: https://github.com/MetaDocencia
 - icon: slack
   icon_pack: fab
-  link: https://join.slack.com/t/metadocencia/shared_invite/zt-1a3cri0ht-_Ws~Eq2VkkQ9L64rvu2czA
+  link: https://w3id.org/metadocencia/slack
 superuser: true
 user_groups:
 ---
