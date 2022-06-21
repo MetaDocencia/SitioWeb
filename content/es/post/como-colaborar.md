@@ -16,7 +16,7 @@ weight: 1
 
 MetaDocencia es una iniciativa 100% voluntaria y, como te imaginarás, dar los cursos es solo una parte de todo el trabajo que hacemos. Prepararnos implica generar y mejorar los materiales, revisar la información que nuestros y nuestras estudiantes nos brindan antes y después del curso, generar contenido a partir del intercambio que tenemos con quienes tomaron las capacitaciones, construir la comunidad docente que buscamos generar con esta iniciativa, mantener nuestros canales de comunicación activos y con contenido relevante y de calidad, entre muchas tareas más.
 
-Si tenés ganas de colaborar, lo primero que te vamos a pedir es que te [sumes a nuestro Slack](https://join.slack.com/t/metadocencia/shared_invite/zt-dmxiyrkl-PxIA72YGbr1b51wtGS4M4w), allí es donde el equipo completo de MetaDocencia y quienes ya tomaron o quieren tomar los cursos nos comunicamos. Una vez que estés en Slack, podés decirnos en qué te gustaría o podrías ayudar. Para eso te dejamos esta lista no exhaustiva de posibles formas de dar una mano. En este momento necesitamos incorporar más ayudantes y docentes, pero lo listamos al final porque son las tareas que requieren el mayor compromiso, es decir, dedicar un bloque de tiempo de entre 3 y 4 horas por curso.
+Si tenés ganas de colaborar, lo primero que te vamos a pedir es que te [sumes a nuestro Slack](https://w3id.org/metadocencia/slack), allí es donde el equipo completo de MetaDocencia y quienes ya tomaron o quieren tomar los cursos nos comunicamos. Una vez que estés en Slack, podés decirnos en qué te gustaría o podrías ayudar. Para eso te dejamos esta lista no exhaustiva de posibles formas de dar una mano. En este momento necesitamos incorporar más ayudantes y docentes, pero lo listamos al final porque son las tareas que requieren el mayor compromiso, es decir, dedicar un bloque de tiempo de entre 3 y 4 horas por curso.
 
 Formas de colaborar con MetaDocencia:
 
@@ -34,6 +34,6 @@ Formas de colaborar con MetaDocencia:
 
 7. **Dictado de cursos:** esperamos para esto que primero hayas participado en alguno de los otros puntos, especialmente el de ser ayudante. Para ser docente es fundamental que puedas manejar y conocer los materiales muy bien.
 
-¿No ves nada que te entusiasme en la lista pero querés dar una mano igual? Vení a [nuestro Slack](https://join.slack.com/t/metadocencia/shared_invite/zt-dmxiyrkl-PxIA72YGbr1b51wtGS4M4w) y contános cómo te gustaría colaborar.
+¿No ves nada que te entusiasme en la lista pero querés dar una mano igual? Vení a [nuestro Slack](https://w3id.org/metadocencia/slack) y contános cómo te gustaría colaborar.
 
 Sabemos que en estos momentos lo que no sobra es tiempo y, si bien a veces nos encontramos con tiempo disponible, puede ser que no podamos sumar más tareas. La única manera que tenemos de poder llegar a más personas y continuar con nuestra tarea es que más personas se sumen a colaborar. Te vamos a agradecer mucho cualquier aporte que puedas hacer. ¡Todo suma!
