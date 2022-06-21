@@ -40,7 +40,7 @@ Nos hemos centrado principalmente en un taller de 3 horas llamado [Introduction 
 
 Hemos probando un taller práctico de 2 horas sobre [cómo usar Zoom para enseñar en línea](https://www.metadocencia.org/cursos/herramientas/zoom/), que es la solicitud más común de nuestras/os participantes. También estamos creando un taller de 3 horas para [crear tutoriales interactivos para enseñar R usando el paquete {learnr}](https://youtu.be/n6IaftU1yjM) que será parte de un curso más extenso sobre cómo enseñar programación.
 
-Fomentamos una comunidad 100% hispanohablante a través de un [espacio de trabajo de Slack](https://join.slack.com/t/metadocencia/shared_invite/zt-ek8a0rup-MQB_5qUKhr9zIGKQAUImXA), donde se alienta a los más de 350 miembros a compartir su material, recursos y experiencias. También somos activos en [twitter](https://twitter.com/metadocencia) y [creamos contenido asincrónico](https://www.metadocencia.org/).
+Fomentamos una comunidad 100% hispanohablante a través de un [espacio de trabajo de Slack](https://w3id.org/metadocencia/slack), donde se alienta a los más de 350 miembros a compartir su material, recursos y experiencias. También somos activos en [twitter](https://twitter.com/metadocencia) y [creamos contenido asincrónico](https://www.metadocencia.org/).
 
 ## ¿Con quién?
 
