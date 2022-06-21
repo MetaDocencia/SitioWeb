@@ -35,7 +35,7 @@ The closing session of our book club will be a meeting with the author of the bo
 
 All those who want to participate can register following this link: https://www.metadocencia.org/curso/clubdelecturat3/
 
-You can also join our Slack community and find out all the news: metadocencia.slack.com
+You can also join our Slack community and find out all the news: https://w3id.org/metadocencia/slack
 
 
 ## Keynote Talk
