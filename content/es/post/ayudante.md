@@ -62,7 +62,7 @@ Es importante que sepas que antes de cada curso nos juntamos de media a una hora
   
 ### Recomendaciones útiles
 
-En metadocencia usamos herramientas como Zoom, Google Docs, Drive y HackMD para organizar e impartir nuestros cursos. Para la comunicación entre nosotros y la comunidad de docentes que estamos construyendo utilizamos [Slack](https://join.slack.com/t/metadocencia/shared_invite/zt-cq1hleoz-Ij2AgXKJBjg03sRuoxLhjg).
+En metadocencia usamos herramientas como Zoom, Google Docs, Drive y HackMD para organizar e impartir nuestros cursos. Para la comunicación entre nosotros y la comunidad de docentes que estamos construyendo utilizamos [Slack](https://w3id.org/metadocencia/slack).
 
 Todo el material para las clases está centralizado en una carpeta de Google Drive, con la presentación del curso correspondiente, la plantilla modelo para las actividades grupales y una carpeta por cada curso dictado o a dictarse con la fecha del mismo (aaaammdd). Quienes colaboran tienen acceso a todo este material.
 
@@ -81,6 +81,6 @@ También queremos transmitirte algunas recomendaciones, para hacer más sencilla
     
 Si te interesa sumarte a esta iniciativa como ayudante en nuestros talleres, no dudes en escribirnos a metadocencia@gmail.com.
 
-Si tenés más recomendaciones para el rol del ayudante, contános en nuestro [Slack](https://join.slack.com/t/metadocencia/shared_invite/zt-cq1hleoz-Ij2AgXKJBjg03sRuoxLhjg).
+Si tenés más recomendaciones para el rol del ayudante, contános en nuestro [Slack](https://w3id.org/metadocencia/slack).
 
 ¡Te esperamos!
