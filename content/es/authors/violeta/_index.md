@@ -13,7 +13,7 @@ name: Violeta Roizman
 organizations:
 - name:
   url:
-role: Licenciada en Ciencias Matemáticas
+role: Medición de Impacto
 social:
 - icon: envelope
   icon_pack: fas
@@ -29,8 +29,7 @@ social:
   link: https://github.com/violetr
 superuser: false
 user_groups:
-- Ex Colaboradores
-- Alumni
+- Colaboraron con MetaDocencia
 ---
 
 
