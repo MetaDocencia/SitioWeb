@@ -4,7 +4,7 @@ authors:
 bio: ""
 email: ""
 name: Raniere Silva
-roles: Adviser
+role: Adviser
 social:
 - icon: twitter
   icon_pack: fab
