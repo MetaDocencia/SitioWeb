@@ -4,6 +4,7 @@ authors:
 bio: ""
 email: ""
 name: Sara Mortara
+role: Code of Conduct and Advisory Teams
 social:
 - icon: twitter
   icon_pack: fab
@@ -13,7 +14,7 @@ social:
   link: https://github.com/saramortara
 superuser: fase
 user_groups:
-- "Advisory Team"
+- Contributors
 ---
 
 I am a white Latina living in Guaraní territory in Rio de Janeiro, Brazil. I am a scientist and programmer that believes in the democratization of science, based on open, just, and feminist science.
