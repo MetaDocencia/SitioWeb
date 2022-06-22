@@ -52,5 +52,5 @@ Laura es investigadora adjunta del CONICET en la UBA. Tiene experiencia trabajan
 
 Desde 2017 lidera proyectos ejecutados por personas voluntarias alrededor del mundo. Un caso de éxito incluye la creación [de una conferencia latinoamericana](https://latin-r.com) en cuya primera edición el equipo organizador se vió por primera vez en persona. Otro caso de éxito fue [la traducción de un libro](https://es.r4ds.hadley.nz) sin conocer en persona a casi nadie de quienes lo hicieron suceder.
 
-Laura también es instructora y entrenadora de instructores certificada por The Carpentries y tiene experiencia desarrollando cursos masivos de enseñanza online para una plataforma norteamericana (que elige no nombrar por problemas éticos de la compañía). En Marzo 2020 co-fundó MetaDocencia.
+Laura también es instructora y entrenadora de instructores certificada por The Carpentries y tiene experiencia desarrollando cursos masivos de enseñanza online para una plataforma norteamericana (que elige no nombrar por problemas éticos de la compañía). Laura es co-fundadora de MetaDocencia.
 
