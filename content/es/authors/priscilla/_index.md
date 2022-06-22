@@ -35,7 +35,6 @@ social:
   link: https://twitter.com/pmnatural
 superuser: false
 user_groups:
-- Ex Colaboradores
-- Alumni
+- Colaboraron con MetaDocencia
 ---
 
