@@ -4,6 +4,7 @@ authors:
 bio: ""
 email: ""
 name: Malvika Sharan
+role: Advisory Committee
 social:
 - icon: globe
   icon_pack: fas
@@ -13,7 +14,7 @@ social:
   link: https://github.com/malvikasharan
 superuser: false
 user_groups:
-- "Advisory Team"
+- Contributors
 ---
 
 I am a community lead of The Turing Way project at The Alan Turing institute that aims to make data science reproducible, collaborative, ethical and inclusive for researchers around the globe. I involve and support a diverse community of contributors in the project by helping them learn research best practices, exchange skills and become an active member of The Turing Way.
