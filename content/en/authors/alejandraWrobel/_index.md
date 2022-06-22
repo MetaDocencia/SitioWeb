@@ -14,7 +14,7 @@ name: Alejandra Wrobel
 organizations: 
 - name: Head of the Department of Information Security and Cybersecurity (Subsecretariat of Modernization of the Chaco Province)
   url: 
-role: Systems Analyst and Information Security and Cybersecurity Specialist
+role: Communication
 social:
 - icon: envelope
   icon_pack: fas
@@ -28,7 +28,6 @@ social:
 superuser: false
 user_groups:
 - Former Contributors
-- Alumni
 ---
 
 
