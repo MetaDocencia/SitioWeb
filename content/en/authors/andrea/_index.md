@@ -23,7 +23,7 @@ organizations:
   url: "http://www.sociales.uba.ar/"
 - name: R-Ladies
   url: "https://rladies.org"
-role: Licenciate in Sociology 
+role: Graphic Design 
 social:
 - icon: twitter
   icon_pack: fab
@@ -40,7 +40,6 @@ social:
 superuser: false
 user_groups:
 - Former Contributors
-- Alumni
 ---
 
 Andrea has a BA in Sociologist, teacher and researcher with a focus on gender (s) and Human Rights studies. 
