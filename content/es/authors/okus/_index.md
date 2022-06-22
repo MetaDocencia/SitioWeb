@@ -14,7 +14,6 @@ role: Equipo de Accesibilidad
 organizations:
 - name: 
   url: 
-role: Licenciada en Ciencias Matemáticas
 social:
 - icon: envelope
   icon_pack: fas
