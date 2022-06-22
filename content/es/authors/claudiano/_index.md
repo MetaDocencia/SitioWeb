@@ -15,7 +15,7 @@ organizations:
 - name: Universidade Federal do Recôncavo da Bahia (Brasil)
   url: ""
 
-role: Equipo de Traducciones
+role: Equipo de Traducción al Protugués
 social:
 - icon: twitter
   icon_pack: fab
