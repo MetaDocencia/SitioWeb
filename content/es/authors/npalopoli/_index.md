@@ -18,7 +18,7 @@ name: Nicolás Palopoli
 organizations: 
 - name: Grupo de Bioinformática Estructural - UNQ
   url: "http://ufq.unq.edu.ar/sbg/"
-role: Coordinación General
+role: Coordinación General, Consejo Asesor
 social:
 - icon: envelope
   icon_pack: fas
