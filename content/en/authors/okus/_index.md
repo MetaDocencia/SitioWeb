@@ -13,7 +13,7 @@ name: Mariela Rajngewerc
 organizations:
 - name: 
   url: 
-role: Masters in Applied Mathematics
+role: Accessibility Team
 social:
 - icon: envelope
   icon_pack: fas
