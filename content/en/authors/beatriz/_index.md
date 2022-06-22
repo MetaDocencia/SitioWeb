@@ -15,7 +15,7 @@ email: ""
 # interests:
 
 name: Beatriz Milz
-
+role: Portuguese Translation
 social:
 - icon: envelope
   icon_pack: fas
@@ -32,6 +32,5 @@ social:
 superuser: false
 user_groups:
 - Former Contributors
-- Alumni
 ---
 
