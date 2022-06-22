@@ -4,6 +4,7 @@ authors:
 bio: ""
 email: ""
 name: Malvika Sharan
+role: Consejo Asesor
 social:
 - icon: globe
   icon_pack: fas
@@ -13,7 +14,7 @@ social:
   link: https://github.com/malvikasharan
 superuser: false
 user_groups:
-- "Equipo Asesor"
+- "Integrantes"
 ---
 
 Soy líder de la comunidad del proyecto The Turing Way en el Instituto Alan Turing, que tiene como objetivo hacer que la ciencia de datos sea reproducible, colaborativa, ética e inclusiva para los investigadores de todo el mundo. Involucro y apoyo a una comunidad diversa de colaboradores en el proyecto ayudándoles a aprender las mejores prácticas de investigación, a intercambiar habilidades y a convertirse en un miembro activo de The Turing Way.
