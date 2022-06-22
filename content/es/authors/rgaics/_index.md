@@ -4,6 +4,7 @@ authors:
 bio: ""
 email: ""
 name: Raniere Silva
+role: Asesor
 social:
 - icon: twitter
   icon_pack: fab
@@ -18,8 +19,7 @@ social:
   link: https://github.com/rgaiacs
 superuser: false
 user_groups:
-- "Ex Equipo Asesor"
-- "Alumni"
+- Colaboraron con MetaDocencia
 ---
 
 Raniere Silva trabajó como Community Officer para el Instituto de Sostenibilidad de Software y fue miembro del Consejo Ejecutivo de The Carpentries. Raniere tiene una licenciatura en Matemática Aplicada y Computacional de la Universidad de Campinas.
