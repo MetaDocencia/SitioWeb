@@ -23,7 +23,7 @@ organizations:
   url: "http://www.sociales.uba.ar/"
 - name: R-Ladies
   url: "https://rladies.org"
-role: Licenciada en Socióloga 
+role: Diseño Gráfico 
 social:
 - icon: twitter
   icon_pack: fab
@@ -39,8 +39,7 @@ social:
   link: https://soyandrea.netlify.app/
 superuser: false
 user_groups:
-- Ex Colaboradores
-- Alumni
+- Colaboraron con MetaDocencia
 ---
 
 Andrea es Licenciada en Socióloga, docente e investigadora con orientación en estudios de género(s) y Derechos Humanos. 
