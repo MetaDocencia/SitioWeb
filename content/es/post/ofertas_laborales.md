@@ -2,7 +2,7 @@
 date: "2022-05-31"
 draft: false
 type: page
-title: ¡MetaDocencia está contratando! 
+title: ¡MetaDocencia está contratando! [Actualizado]
 summary: MetaDocencia está contratando hasta tres personas para diferentes roles esenciales.
 authors: 
     - lacion
@@ -13,11 +13,11 @@ tags:
   - MetaDocencia
 ---
 
-**Actualización:** ¡Estamos felices por la hermosa respuesta que recibieron estas búsquedas laborales! Pronto se estarán sumando personas muy valiosas a nuestro equipo y a nuestra comunidad. Si te postulaste - ¡muchas gracias! - y aún no recibiste un mensaje nuestro con noticias sobre tu postulación, no dudes en contactarnos. Cuando volvamos a tener búsquedas abiertas lo anunciaremos por nuestras redes sociales. Publicado originalmente el 29/04/2022. 
+**Actualización:** ¡Estamos felices por la hermosa respuesta que recibieron estas búsquedas laborales! Ya se están sumando personas muy valiosas a nuestro equipo y a nuestra comunidad. Si te postulaste - ¡muchas gracias! - y aún no recibiste un mensaje nuestro con noticias sobre tu postulación, no dudes en contactarnos. Cuando volvamos a tener búsquedas abiertas lo anunciaremos por nuestras redes sociales. 
 
 ------
 
-MetaDocencia está contratando hasta tres personas para que se encarguen de nuestra:
+[Publicado originalmente el 29/04/2022] MetaDocencia está contratando hasta tres personas para que se encarguen de nuestra:
 
 * [Coordinación de Proyecto y Desarrollo de Cursos](https://docs.google.com/document/d/1IN4tk7M7fvsXZiSdHfuXxlHkiqadd7od-I4Q9j639po/edit?usp=sharing)
 * [Coordinación de Comunicación y Comunidades](https://docs.google.com/document/d/1zeAAiSdO-Y1-XH5MwsJGwpkJqxL8ljBO7GQx3TSio50/edit?usp=sharing)
