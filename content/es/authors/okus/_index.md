@@ -10,6 +10,7 @@ education:
 email: ""
 interests:
 name: Mariela Rajngewerc
+role: Equipo de Accesibilidad
 organizations:
 - name: 
   url: 
@@ -26,7 +27,7 @@ social:
   link:  https://gitlab.com/mrajng 
 superuser: false
 user_groups:
-- Colaboradores
+- Integrantes
 ---
 
 
