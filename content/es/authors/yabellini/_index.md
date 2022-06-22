@@ -28,7 +28,7 @@ organizations:
   url: "https://rladies.org"
 - name: The Carpentries
   url: https://carpentries.org/
-role: Fundadora de MetaDocencia
+role: Coordinación
 social:
 - icon: envelope
   icon_pack: fas
@@ -44,21 +44,18 @@ social:
   link: https://github.com/yabellini
 superuser: false
 user_groups:
-- Ex Equipo Coordinador
-- Colaboradores
-- Alumni
+- Colaboraron con MetaDocencia
 ---
 
 En resumen:
 
 Profesora de la [UNAB](https://www.unab.edu.ar/) y de la [UDE](https://www.fca-ude.edu.uy/)
 
-Cofundadora de MetaDocencia, [LatinR](https://latin-r.com/) y [R-Ladies Santa Rosa](https://www.meetup.com/es/rladies-santa-rosa/).
+Co-fundadora de MetaDocencia, [LatinR](https://latin-r.com/) y [R-Ladies Santa Rosa](https://www.meetup.com/es/rladies-santa-rosa/).
 
 Miembro del Consejo Ejecutivo de [The Carpentries](https://carpentries.org/), del Equipo Global y de Liderazgo de [R-Ladies](https://rladies.org/), del Core Team de [RForwards](https://forwards.github.io/), del [R Consortium Infrastructure Steering Committee](https://www.r-consortium.org/about/governance), de [R4DS_ES](https://github.com/cienciadedatos), del Grupo de Trabajo de useR!,[MiR](https://mircommunity.com), [Sociedad Argentina de Informática (SADIO)](https://www.sadio.org.ar/).
 
 Investigadora del INTA (en sabático), ex Coordinadora de la Red de Modelización de Agroecosistemas.
-Ex miembro del Core Team de MetaDocencia.
 
 Ganadora del Premio CIALP a la Innovación Tecnológica (2001) y del Premio Nacional de Gobierno Electrónico (2015 y 2016) por proyectos relacionados con teledetección y datos abiertos.
 
