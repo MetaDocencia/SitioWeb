@@ -15,7 +15,7 @@ email: ""
 # interests:
 
 name: Beatriz Milz
-
+role: Traducción al Portugués
 social:
 - icon: envelope
   icon_pack: fas
@@ -31,7 +31,6 @@ social:
   link: https://github.com/beatrizmilz  
 superuser: false
 user_groups:
-- Ex Colaboradores
-- Alumni
+- Colaboraron con MetaDocencia
 ---
 
