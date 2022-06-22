@@ -15,7 +15,7 @@ organizations:
 - name: Federal University of Recôncavo da Bahia (Brazil)
   url: ""
 
-role: Environmental Economist 
+role: Portuguese Translation Team 
 social:
 - icon: twitter
   icon_pack: fab
