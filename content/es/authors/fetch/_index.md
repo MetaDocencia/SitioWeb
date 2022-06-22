@@ -16,8 +16,7 @@ email: ""
 interests:
 name: Francisco Etchart
 user_groups:
-- Ex Colaboradores
-- Alumni
+- Colaboraron con MetaDocencia
 ---
 
 En 2005 comenzó sus actividades dentro de INTA para realizar tareas de diseño gráfico dentro del marco del Proyecto RIAP. Actualmente es el responsable de toda la comunicación visual de la EEA Anguil. Esta involucra actividades de identidad visual institucional, la edición y diagramación de todas las publicaciones de la experimental y regional, diseño de señales y cartelería, diseño e impresión de posters destinados a congresos, diseño web y publicaciones electrónicas, diseño de marcas, programas pictogramáticos, formularios de encuestas y merchandising, entre otros. Es el comunicador visual de la RIAN (Red de Información Agropecuaria Nacional), siendo el responsable de toda la identidad y comunicación visual de la red.
