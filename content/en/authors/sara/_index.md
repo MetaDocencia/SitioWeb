@@ -4,7 +4,7 @@ authors:
 bio: ""
 email: ""
 name: Sara Mortara
-role: Code of Conduct and Advisory Teams
+role: Code of Conduct Team and Adviser
 social:
 - icon: twitter
   icon_pack: fab
