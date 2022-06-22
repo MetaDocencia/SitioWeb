@@ -13,7 +13,7 @@ name: Iván Gabriel Poggio
 organizations:
 - name: 
   url: 
-role: Attorney.
+role: Accessibility Team
 social:
 - icon: envelope
   icon_pack: fas
