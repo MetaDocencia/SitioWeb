@@ -15,7 +15,6 @@ role: Comunicación
 organizations: 
 - name: Jefa del Departamento de Seguridad de la Información y Ciberseguridad (Subsecretaría de Modernización de la Provincia del Chaco)
   url: 
-role: Analista en Sistemas y especialista en Seguridad de la Información y Ciberseguridad
 social:
 - icon: envelope
   icon_pack: fas
