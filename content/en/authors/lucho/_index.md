@@ -1,7 +1,7 @@
 ---
 authors:
   - lucho
-role: Comunication
+role: Communication
 bio: ""
 education:
   courses:
@@ -14,7 +14,6 @@ interests:
 name: Lucio Casalla
 user_groups:
 - Former Contributors
-- Alumni
 ---
 
 Lucio has been working in the area of audiovisual communication for more than 15 years. Editing, recording and photography are the main areas in which his work stands out. He has participated in projects for television and film. 
