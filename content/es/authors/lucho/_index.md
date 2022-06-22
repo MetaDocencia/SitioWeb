@@ -13,8 +13,7 @@ email: ""
 interests:
 name: Lucio Casalla
 user_groups:
-- Ex Colaboradores
-- Alumni
+- Colaboraron con MetaDocencia
 ---
 
 Lucio lleva más de 15 años trabajando en el área de la comunicación audiovisual. La edición, la grabación y la fotografía son las áreas principales en las que se destaca su trabajo. Ha participado en proyectos para televisión y cine. 
