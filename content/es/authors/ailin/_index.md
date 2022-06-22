@@ -10,7 +10,7 @@ email: ""
 
 name: Ailin Mandola
 
-role: 
+role: Diseño Gráfico
 social:
 - icon: envelope
   icon_pack: fas
@@ -21,7 +21,6 @@ social:
   
 superuser: false
 user_groups:
-- Ex Colaboradores
-- Alumni
+- Colaboraron con MetaDocencia
 ---
 
