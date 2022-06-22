@@ -10,9 +10,7 @@ education:
 email: ""
 interests:
 name: Patricia A. Loto
-role: |
-  Lic. in Information Systems
-  Member of the accesibility team
+role: Accessibility Team
 social:
 - icon: envelope
   icon_pack: fas
