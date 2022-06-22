@@ -22,12 +22,11 @@ organizations:
   url: 
 - name: Universidad Nacional de Mar del Plata
   url: 
-role: Investigadora en INTA en Balcarce y docente de la cátedra de Bioquímica de la Facultad de Ciencias Agrarias de la Universidad Nacional de Mar del Plata
+role: Enseñanza
 social:
 superuser: false
 user_groups:
-- Ex Colaboradores
-- Alumni
+- Colaboraron con MetaDocencia
 ---
 
 Investigadora en INTA en Balcarce y docente de la cátedra de Bioquímica de la Facultad de Ciencias Agrarias de la Universidad Nacional de Mar del Plata, ambas instituciones que conforman la Unidad Integrada Balcarce.
