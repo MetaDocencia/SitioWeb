@@ -13,7 +13,7 @@ name: Irene Vazano
 organizations:
 - name: 
   url: 
-role: Technician in library science.
+role: Governance, Infrastructure, and Teaching Teams
 social:
 - icon: envelope
   icon_pack: fas
