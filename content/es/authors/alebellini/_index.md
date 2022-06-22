@@ -1,7 +1,7 @@
 ---
 authors:
   - alebellini
-role: Equipo de Comunicación
+role: Comunicación
 bio: ""
 education:
   courses:
