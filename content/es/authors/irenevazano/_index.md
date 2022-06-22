@@ -13,7 +13,7 @@ name: Irene Vazano
 organizations:
 - name: 
   url: 
-role: Técnica en bibliotecología
+role: Equipos de Gobernanza, Infraestructura y Enseñanza
 social:
 - icon: envelope
   icon_pack: fas
@@ -26,7 +26,7 @@ social:
   link: https://github.com/4iro
 superuser: false
 user_groups:
-- Colaboradores
+- Integrantes
 ---
 
 
