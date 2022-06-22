@@ -4,6 +4,7 @@ authors:
 bio: ""
 email: ""
 name: Raniere Silva
+roles: Adviser
 social:
 - icon: twitter
   icon_pack: fab
@@ -18,8 +19,7 @@ social:
   link: https://github.com/rgaiacs
 superuser: false
 user_groups:
-- "Former Advisory Team"
-- "Alumni"
+- Former Contributors
 ---
 
 Raniere Silva worked as Community Officer for the [Software Sustainability Institute](https://software.ac.uk/) and served as member of [The Carpentries](http://thecarpentries.org/) Executive Council. Raniere has a bachelor in Applied and Computational Mathematics from the University of Campinas.
