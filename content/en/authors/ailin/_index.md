@@ -9,7 +9,7 @@ email: ""
 # interests:
 
 name: Ailin Mandola
-
+role: Graphic Design
 social:
 - icon: envelope
   icon_pack: fas
@@ -20,6 +20,5 @@ social:
 superuser: false
 user_groups:
 - Former Contributors
-- Alumni
 ---
 
