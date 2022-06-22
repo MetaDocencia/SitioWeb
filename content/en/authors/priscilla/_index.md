@@ -37,6 +37,6 @@ social:
 superuser: false
 user_groups:
 - Former Contributors
-- Alumni
+
 ---
 
