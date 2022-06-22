@@ -13,14 +13,14 @@ name: Iván Gabriel Poggio
 organizations:
 - name: 
   url: 
-role: Abogado.
+role: Equipos de Accesibilidad y Enseñanza
 social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
 superuser: false
 user_groups:
-- Colaboradores
+- Integrantes
 ---
 
 Iván es abogado, recibido en 2007 en la Universidad Nacional de La Pampa. Fue instructor en manejo de PC con programas de asistencia a personas ciegas o con poca visión (tiflotecnologías). Desde el 2009 trabaja en la Dirección Provincial de Discapacidad en La Pampa, Argentina, formando parte del equipo técnico y desde el año 2015 como su Director.
