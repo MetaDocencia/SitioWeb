@@ -15,7 +15,7 @@ organizations:
 - name: Universidade Federal do Recôncavo da Bahia (Brasil)
   url: ""
 
-role: Economista Ambiental
+role: Equipo de Traducciones
 social:
 - icon: twitter
   icon_pack: fab
@@ -28,7 +28,7 @@ social:
   link: https://sites.google.com/view/claudianoneto/ 
 superuser: false
 user_groups:
-- Colaboradores
+- Integrantes
 ---
 
 Claudiano Neto es Economista Ambiental y trabaja como profesor en el Centro de Ciencias Agrarias, Ambientales y Biológicas, de la Universidade Federal do Recôncavo da Bahia (Brasil), donde imparte sus clases utilizando el software R y RStudio desde 2019.
