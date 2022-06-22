@@ -26,7 +26,7 @@ name: Laura Ación
 organizations:
 - name: Instituto del Cálculo - CONICET
   url: http://www.ic.fcen.uba.ar/en/
-role: Investigadora Adjunta - Fundadora de MetaDocencia
+role: Coordinadora, Co-Fundadora de MetaDocencia
 social:
 - icon: envelope
   icon_pack: fas
@@ -36,7 +36,7 @@ social:
   link: https://twitter.com/_lacion_
 - icon: globe
   icon_pack: fas
-  link: https://lacion.rbind.io/
+  link: http://lacion.rbind.io/
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0001-5213-6012
@@ -45,7 +45,7 @@ social:
   link: https://github.com/lauracion
 superuser: false
 user_groups:
-- Equipo Coordinador
+- Colaboradores
 ---
 
 Laura es investigadora adjunta del CONICET en la UBA. Tiene experiencia trabajando en forma 100% remota desde Buenos Aires para el exterior desde 2006. Hizo el 90% de su trabajo doctoral en EEUU de forma remota. Tomó clases universitarias virtuales desde entonces y su primera docencia universitaria de grado y postgrado también fue en forma virtual en 2013 para estudiantes que estaban en EEUU. Todo su trabajo remoto siempre fue desde su hogar en Buenos Aires. Con estos antecedentes, no es casual que cuando comenzó a dar clases presenciales incorporó tecnología para aumentar el vínculo con sus estudiantes. 
