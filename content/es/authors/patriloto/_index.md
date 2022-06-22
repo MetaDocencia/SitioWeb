@@ -10,9 +10,7 @@ education:
 email: ""
 interests:
 name: Patricia A. Loto
-role: |
-  Lic. En Sistemas de Información
-  Integrante del equipo de accesibilidad
+role: Equipo de Accesibilidad
 social:
 - icon: envelope
   icon_pack: fas
@@ -25,7 +23,7 @@ social:
   link: https://github.com/PatriLoto
 superuser: false
 user_groups:
-- Colaboradores
+- Integrantes
 ---
 
 
