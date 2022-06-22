@@ -18,7 +18,7 @@ name: Nicolás Palopoli
 organizations: 
 - name: Grupo de Bioinformática Estructural - UNQ
   url: "http://ufq.unq.edu.ar/sbg/"
-role: Investigador Adjunto
+role: Coordinación General
 social:
 - icon: envelope
   icon_pack: fas
@@ -34,7 +34,7 @@ social:
   link: https://github.com/npalopoli
 superuser: false
 user_groups:
-- Equipo Coordinador
+- Integrantes
 ---
 
 Trabajo como biólogo computacional.
