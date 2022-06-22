@@ -4,6 +4,7 @@ authors:
 bio: ""
 email: ""
 name: Sara Mortara
+role: Equipos de Código de Conducta y Asesor
 social:
 - icon: twitter
   icon_pack: fab
@@ -13,7 +14,7 @@ social:
   link: https://github.com/saramortara
 superuser: fase
 user_groups:
-- "Equipo Asesor"
+- "Integrantes"
 ---
 
 Soy una latina blanca que vive en territorio guaraní en Río de Janeiro, Brasil. Soy una científica y programadora que cree en la democratización de la ciencia, basada en una ciencia abierta, justa y feminista.
