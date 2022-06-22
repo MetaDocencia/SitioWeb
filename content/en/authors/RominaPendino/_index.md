@@ -7,7 +7,7 @@ email: ""
 interests:
 
 name: Romina Pendino
-role: University Bachelor in Social Communication
+role: Governance, Code of Conduct, and Teaching Teams
 social:
 - icon: envelope
   icon_pack: fas
