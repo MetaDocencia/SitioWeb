@@ -20,7 +20,6 @@ name: Roxana Noelia Villafañe
 organizations:
 - name: LEMyP (IQUIBA-NEA) CONICET
   url: "https://iquiba-nea.conicet.gov.ar/lemyp/"
-role: Investigadora PostDoc
 social:
 - icon: twitter
   icon_pack: fab
@@ -30,7 +29,7 @@ social:
   link: https://github.com/data-datum
 superuser: false
 user_groups:
-- Colaboradores
+- Integrantes
 ---
 
 Roxana es una investigadora postdoc en el  Laboratorio de Estructura Molecular y Propiedades (LEMyP) del CONICET. Trata de entender los mecanismos de inhibición del Cruzain, una cisteín-proteasa involucrada en el mal de Chagas usando análisis de datos y machine learning. 
