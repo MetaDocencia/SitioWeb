@@ -20,8 +20,6 @@ name: Roxana Noelia Villafañe
 organizations:
 - name: LEMyP (IQUIBA-NEA) CONICET
   url: "https://iquiba-nea.conicet.gov.ar/lemyp/"
-role: PostDoc Researcher
-social:
 social:
 - icon: twitter
   icon_pack: fab
