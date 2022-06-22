@@ -13,7 +13,7 @@ name: Violeta Roizman
 organizations:
 - name:
   url:
-role: Master in Applied Mathematics
+role: Impact Measurement
 social:
 - icon: envelope
   icon_pack: fas
@@ -30,7 +30,7 @@ social:
 superuser: false
 user_groups:
 - Former Contributors
-- Alumni
+
 ---
 
 
