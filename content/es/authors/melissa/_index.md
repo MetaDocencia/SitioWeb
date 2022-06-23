@@ -40,5 +40,5 @@ user_groups:
 
 Melissa tiene formación en Geografía y por muchos años ha investigado temas de conectividad, tecnología y sociedad en América Latina. En su trayectoria construyó conexiones con distintas comunidades internacionales de ciencia abierta, con las cuales viene trabajando más directamente desde 2021.
 
-Es instructora certificada por The Carpentries, fue participante del programa Outreachy como mentorada y co-mentora, y cree profundamente en la educación (en persona y en línea) como medio de emancipación.
+Es instructora certificada por The Carpentries, fue participante del programa Outreachy como mentorada y co-mentora, y cree profundamente en la educación -en persona y en línea- como medio de emancipación.
 
