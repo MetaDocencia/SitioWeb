@@ -10,7 +10,7 @@ education:
   - course: Maestría en Geografía
     institution: Universidad Estatal de Campinas, Brasil
     year: 2015
-- course: Licenciatura en Geografía
+  - course: Licenciatura en Geografía
     institution: Universidad Estatal de Campinas, Brasil
     year: 2010
 email: "mblack@metadocencia.org"
