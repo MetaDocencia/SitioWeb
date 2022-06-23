@@ -2,8 +2,6 @@
 title: Código de Conducta
 ---
 
-# Código de Conducta
-
 Quienes organizamos MetaDocencia nos comprometemos a fomentar un ambiente abierto, seguro y amigable y garantizar la participación de todas las personas en nuestras actividades y espacios virtuales  independientemente de su edad, género, orientación sexual, discapacidad, apariencia física, nacionalidad, raza, etnia, religión (o la falta de ella), ideología u opciones tecnológicas. 
 
 Todas las personas que participen en MetaDocencia, incluyendo integrantes del equipo coordinador, colaboradores, equipo asesor y participantes deberán aceptar y respetar el siguiente código de conducta. 
@@ -42,7 +40,6 @@ Las personas que forman parte del equipo de Código de Conducta se comprometen a
 
 ### Integrantes del equipo de Código de Conducta {#miembros_cdc}
 
-* [Paola Corrales](https://www.metadocencia.org/authors/paocorrales/)
 * [Sara Mortara](https://www.metadocencia.org/authors/sara/)
 * [Romina Pendino](https://www.metadocencia.org/authors/rominapedino/)
 
