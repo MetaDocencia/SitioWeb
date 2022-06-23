@@ -5,13 +5,13 @@ bio: ""
 education:
   courses:
   - course: Doctorado en Geografía Humana
-    institution: Universidad de San Pablo Brasil
+    institution: Universidad de San Pablo, Brasil
     year: 2021
   - course: Maestría en Geografía
-    institution: Universidad Estatal de Campinas Brasil
+    institution: Universidad Estatal de Campinas, Brasil
     year: 2015
 - course: Licenciatura en Geografía
-    institution: Universidad Estatal de Campinas Brasil
+    institution: Universidad Estatal de Campinas, Brasil
     year: 2010
 email: "mblack@metadocencia.org"
 interests:
@@ -37,7 +37,8 @@ superuser: false
 user_groups:
 -  Integrantes
 ---
+
 Melissa tiene formación en Geografía y por muchos años ha investigado temas de conectividad, tecnología y sociedad en América Latina. En su trayectoria construyó conexiones con distintas comunidades internacionales de ciencia abierta, con las cuales viene trabajando más directamente desde 2021.
 
-Es instructora certificada por The Carpentries, fue participante del programa Outreachy como mentorada y co-mentora, y cree profundamente en la educación -en persona y en línea- como medio de emancipación.
+Es instructora certificada por The Carpentries, fue participante del programa Outreachy como mentorada y co-mentora, y cree profundamente en la educación (en persona y en línea) como medio de emancipación.
 
