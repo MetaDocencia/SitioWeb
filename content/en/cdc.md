@@ -2,8 +2,6 @@
 title: Code of Conduct
 ---
 
-# Code of conduct
-
 Those of us who organize MetaDocencia are committed to fostering an open, safe and friendly environment and to guaranteeing the participation of all people in our activities and virtual spaces regardless of age, gender, sexual orientation, disability, physical appearance, nationality, race, ethnicity, religion (or lack thereof), ideology or technological choices. 
 
 All persons participating in MetaDocencia, including members of the coordinating team, collaborators, advisory team and participants must accept and respect the following code of conduct. 
@@ -42,7 +40,6 @@ Individuals who are part of the Code of Conduct team agree to recuse themselves 
 
 ### Code of Conduct team members {#cdc_members}
 
-* [Paola Corrales](https://www.metadocencia.org/en/authors/paocorrales/)
 * [Sara Mortara](https://www.metadocencia.org/en/authors/sara/)
 * [Romina Pendino](https://www.metadocencia.org/authors/rominapedino/)
 
