@@ -12,13 +12,13 @@ education:
     year: 2015
   - course: Licenciatura en Geografía
     institution: Universidad Estatal de Campinas, Brasil
-    year: 2010
+    year: 2012
 email: "mblack@metadocencia.org"
 interests:
 - Ciencia Abierta
 - Humanidades digitales
 - Colaboración comunitaria
-name: Melissa Steda
+name: Melissa Black
 role: Coordinadora de Infraestructura y Medición de Impacto
 social:
 - icon: envelope
