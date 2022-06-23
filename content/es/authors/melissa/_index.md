@@ -5,13 +5,13 @@ bio: ""
 education:
   courses:
   - course: Doctorado en Geografía Humana
-    institution: Universidad de San Pablo, Brasil
+    institution: Universidad de San Pablo Brasil
     year: 2021
   - course: Maestría en Geografía
-    institution: Universidad Estatal de Campinas, Brasil
+    institution: Universidad Estatal de Campinas Brasil
     year: 2015
 - course: Licenciatura en Geografía
-    institution: Universidad Estatal de Campinas, Brasil
+    institution: Universidad Estatal de Campinas Brasil
     year: 2010
 email: "mblack@metadocencia.org"
 interests:
