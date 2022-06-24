@@ -6,12 +6,13 @@ linktitle: MDgrows
 summary: In June, we incorporated 3 new roles and our team grows to promote capacity building.
 title: MetaDocencia keeps growing
 authors: 
+  - MetaDocencia
 type: post
 weight: 1
 tags: 
   - informe
   - reporte
-  - MetaDocencia 
+  - MetaDocencia
 ---
 In June, we incorporated three new roles to our work team:
 - Project and Course Development Manager
