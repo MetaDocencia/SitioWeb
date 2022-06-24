@@ -26,7 +26,7 @@ Tendrá a su cargo liderar, supervisar y administrar la infraestructura digital 
 Correo: mblack@metadocencia.org
 Twitter: https://twitter.com/melissablck
 
-**Laura Ascenzi** se suma como Coordinadora de Comunicación y Comunidades. Es Licenciada en Comunicación Social y Especialista en Gestión de Tecnologías Innovadoras por la Universidad Nacional de Córdoba, Argentina, ciudad en la que reside actualmente.
+[**Laura Ascenzi**] (https://www.metadocencia.org/authors/laurel/) se suma como Coordinadora de Comunicación y Comunidades. Es Licenciada en Comunicación Social y Especialista en Gestión de Tecnologías Innovadoras por la Universidad Nacional de Córdoba, Argentina, ciudad en la que reside actualmente.
 En este rol, se ocupará de liderar, supervisar y coordinar la comunicación y la interacción dentro de nuestra comunidad y con comunidades relacionadas con MetaDocencia. Para ello, deberá interactuar con equipos y colaboradores para optimizar la comunicación interna y externa y darles visibilidad a todas las contribuciones.
 Correo: laurel@metadocencia.org
 
