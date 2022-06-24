@@ -7,13 +7,10 @@ education:
   - course: Maestría en Política Educativa
     institution: Universidad Torcuato Di Tella
     year: 2019
-  - course: Maestría en Geografía
-    institution: Universidad Estatal de Campinas, Brasil
-    year: 2015
-- course: Profesorado en Docencia Superior
+  - course: Profesorado en Docencia Superior
     institution: Universidad Tecnológica Nacional
     year: 2015
-- course: Licenciatura en Ciencia Política
+  - course: Licenciatura en Ciencia Política
     institution: Universidad de Buenos Aires
     year: 2013
 email: "paz.miguez@metadocencia.org"
