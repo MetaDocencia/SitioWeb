@@ -32,7 +32,7 @@ user_groups:
 -  Integrantes
 ---
 
-Laura Ascenzi (alias Laurel) es Licenciada en Comunicación Social con orientación en Comunicación Institucional por la Universidad Nacional de Córdoba y Especialista en Gestión de Tecnologías Innovadoras por la Escuela de Graduados FCE UNC.
+Laura Ascenzi (alias Laurel) es Licenciada en Comunicación Social con orientación en Comunicación Institucional y Especialista en Gestión de Tecnologías Innovadoras por la Universidad Nacional de Córdoba, Argentina.
 
 Se desempeña como comunicadora institucional, vinculada a la planificación y análisis de procesos de comunicación institucional integrales en proyectos y áreas que combinan la comunicación digital, los sistemas de información y las organizaciones desde 2008. Es también docente en la Universidad Nacional de Córdoba, Argentina, ciudad en la que reside actualmente.
 
