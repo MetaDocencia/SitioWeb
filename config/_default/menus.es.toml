@@ -4,52 +4,99 @@
 #   The weight parameter defines the order that the links will appear in.
   
 [[main]]
+name = "Sobre MD"
+url = ""
+weight = 1
+  [[main]]
+  name = "Origen"
+  url = ""
+  parent = "Sobre MD"
+    weight = 1
+  [[main]]
+  name = "Propuesta"
+  url = ""
+  parent = "Sobre MD"
+    weight = 2
+  [[main]]
+  name = "Manifiesto"
+  url = ""
+  parent = "Sobre MD"
+    weight = 3 
+  [[main]]
+  name = "Código de conducta"
+  url = ""
+  parent = "Sobre MD"
+    weight = 4
+  [[main]]
   name = "Equipo"
-  url = "equipo"
-  weight = 58
-  
+  url = ""
+  parent = "Sobre MD"
+    weight = 5
   
 [[main]]
-  name = "Cursos"
+name = "Cursos"
+url = ""
+weight = 2
+  [[main]]
+  name = "Propuestas"
   url = "cursos/"
-  weight = 20
+  parent = "Cursos"
+    weight = 1
+  [[main]]
+  name = "Tipologías"
+  url = ""
+  parent = "Cursos"
+    weight = 2
+  [[main]]
+  name = "Agenda"
+  url = ""
+  parent = "Cursos"
+    weight = 3
+  [[main]]
+  name = "Inscripciones"
+  url = ""
+  parent = "Cursos"
+    weight = 4
   
-# [[main]]
-#   name = "Presentaciones"
-#   url = "#talks"
-#   weight = 20
+[[main]]
+name = "Apoyos"
+url = ""
+weight = 3
+  [[main]]
+  name = "Auspiciantes"
+  url = "#sponsors"
+  parent = "Apoyos"
+    weight = 1
+  [[main]]
+  name = "Donar"
+  url = "#donar"
+  parent = "Apoyos"
+    weight = 2
+  [[main]]
+  name = "Consultas"
+  url = ""
+  parent = "Apoyos"
+    weight = 3
 
 [[main]]
   name = "Publicaciones"
-  url = "#publicaciones"
-  weight = 30
-
-# [[main]]
-#  name = "Agradecimientos"
-#  url = "#agradecimientos"
-#  weight = 56
-  
-  
-[[main]]
-  name = "Prensa"
-  url = "#prensa"
-  weight = 55
-
-[[main]]
-  name = "Auspiciantes"
-  url = "#sponsors"
-  weight = 57
-
+  url = ""
+  weight = 4
+  [[main]]
+  name = "BLOG"
+  url = "post/"
+  parent = "Publicaciones"
+    weight = 1
+  [[main]]
+    name = "Prensa"
+    url = "#prensa"
+    parent = "Publicaciones"
+    weight = 2
 
 [[main]]
   name = "Contacto"
-  url = "#contact"
-  weight = 60
-
-[[main]]
-  name = "Donar"
-  url = "#donar"
-  weight = 65
+  url = ""
+  weight = 5
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
