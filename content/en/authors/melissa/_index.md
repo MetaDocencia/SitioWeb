@@ -10,7 +10,7 @@ education:
   - course: Master's Degree in Geography
     institution: State University of Campinas, Brazil
     year: 2015
-- course: Licenciate in Geography
+  - course: Licenciate in Geography
     institution: State University of Campinas, Brazil
     year: 2012
 email: "mblack@metadocencia.org"
