@@ -4,50 +4,101 @@
 #   The weight parameter defines the order that the links will appear in.
   
 [[main]]
-  name = "Courses"
-  url = "cursos/"
-  weight = 20
+name = "About us"
+url = ""
+weight = 1
+  [[main]]
+  name = "beginning"
+  url = ""
+  parent = "About us"
+    weight = 1
+  [[main]]
+  name = "Approach"
+  url = ""
+  parent = "About us"
+    weight = 2
+  [[main]]
+  name = "Manifest"
+  url = ""
+  parent = "About us"
+    weight = 3 
+  [[main]]
+  name = "Code of Conduct"
+  url = ""
+  parent = "About us"
+    weight = 4
+  [[main]]
+  name = "Team"
+  url = ""
+  parent = "About us"
+    weight = 5
   
-# [[main]]
-#   name = "Presentaciones"
-#   url = "#talks"
-#   weight = 20
+[[main]]
+name = "Courses"
+url = ""
+weight = 2
+  [[main]]
+  name = "Curricula"
+  url = "cursos/"
+  parent = "Courses"
+    weight = 1
+  [[main]]
+  name = "Typologies"
+  url = ""
+  parent = "Courses"
+    weight = 2
+  [[main]]
+  name = "Agenda"
+  url = ""
+  parent = "Courses"
+    weight = 3
+  [[main]]
+  name = "Enrollment"
+  url = ""
+  parent = "Courses"
+    weight = 4
+  
+[[main]]
+name = "Supporters"
+url = ""
+weight = 3
+  [[main]]
+  name = "Sponsors"
+  url = "#sponsors"
+  parent = "Supporters"
+    weight = 1
+  [[main]]
+  name = "Donate"
+  url = "#donar"
+  parent = "Supporters"
+    weight = 2
+  [[main]]
+  name = "Get involved"
+  url = ""
+  parent = "Supporters"
+    weight = 3
 
 [[main]]
   name = "Publications"
-  url = "#publicaciones"
-  weight = 30
-
-# [[main]]
-#  name = "Acknowledgements"
-#  url = "#agradecimientos"
-#  weight = 56
-  
-[[main]]
-  name = "Team"
-  url = "equipo"
-  weight = 58
-  
-[[main]]
-  name = "Press"
-  url = "#prensa"
-  weight = 55
+  url = ""
+  weight = 4
+  [[main]]
+  name = "BLOG"
+  url = "post/"
+  parent = "Publications"
+    weight = 1
+  [[main]]
+    name = "Press"
+    url = "#prensa"
+    parent = "Publications"
+    weight = 2
 
 [[main]]
-  name = "Sponsors"
-  url = "#sponsors"
-  weight = 57
+  name = "Contact us"
+  url = ""
+  weight = 5
 
 
-[[main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 60
-
-[[main]]
-  name = "Donate"
-  url = "#donate"
-  weight = 65
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # [[main]]
