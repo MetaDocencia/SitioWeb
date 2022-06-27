@@ -35,7 +35,7 @@ social:
   link: https://www.linkedin.com/in/melissablck/
 superuser: false
 user_groups:
--  Integrantes
+-  Contributors
 ---
 
 Melissa has a background in Geography and for many years she has researched topics related  to connectivity, technology, and society in Latin America. 
