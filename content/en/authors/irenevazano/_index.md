@@ -29,5 +29,5 @@ user_groups:
 - Contributors
 ---
 
-
+Advanced student of Library Science with work experience in academic libraries and technology. She participates in digital projects involving administration and accessibility. Certified instructor by The Carpentries. Irene is part of MetaDocencia since 2020.
 
