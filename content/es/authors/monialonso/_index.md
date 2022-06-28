@@ -4,7 +4,7 @@ authors:
 bio: ""
 education:
   courses:
-  - course: Maestría en Data Mining & Recovery Knowledge 
+  - course: Especialista en Exploración de Datos y Descubrimiento del Conocimiento
     institution: Universidad de Buenos Aires 
     year: 2018
   - course: Licenciada en Ciencias de la Computación
@@ -40,6 +40,4 @@ user_groups:
 - Integrantes
 ---
 
-Licenciada en Ciencias de la Computación (UBA) y Maestría en Data Mining and Discovery Knowledge en la Facultad de Ciencias Exactas y Naturales (UBA), obteniendo el título de Especialista. Trabaja como Analista en la actividad privada, en Banco Ciudad. 
-Desde 2018 es co-organizadora de Rladies_BA, y también Instructora Certificada de Software Carpentries. 
-Colaboró en la traducción al español de algunas lecciones de R y Python en The Carpentries, de la Cheatsheet RStudio Ide y de Concept-Maps de Rstudio. También en la traducción al español y revisión de los siguientes libros: R for Data Science y Teaching Tech Together.  Formó parte del Comité Organizador de LatinR 2018 y 2020 y del Comité Científico del Congreso Argentino de Agroinformática (CAI) 2018 y 2020. 
+Licenciada en Ciencias de la Computación (UBA) y Especialista en Exploración de Datos y Descubrimiento del Conocimiento (UBA). Trabaja como Analista en el Banco Ciudad. Desde 2018 es co-organizadora de R-Ladies Buenos Aires y también Instructora Certificada de Software Carpentries. Colaboró en la traducción al español de algunas lecciones de R y Python en The Carpentries, de las hojas de referencia RStudio IDE y Concept Maps. También en la traducción al español y revisión de los siguientes libros: R for Data Science y Teaching Tech Together. Formó parte del Comité Organizador de LatinR 2018 y 2020 y del Comité Científico del Congreso Argentino de Agroinformática (CAI) 2018 y 2020.
