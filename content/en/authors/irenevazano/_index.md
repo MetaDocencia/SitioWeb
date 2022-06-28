@@ -5,10 +5,13 @@ bio: ""
 education:
   courses:
   - course: Technician in library science.
-    institution:  
+    institution: UCSE-DABA 
     year: 
 email: ""
 interests:
+- Library science
+- Education
+- Technology
 name: Irene Vazano
 organizations:
 - name: 
