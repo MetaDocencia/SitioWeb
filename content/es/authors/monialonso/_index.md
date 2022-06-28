@@ -4,10 +4,10 @@ authors:
 bio: ""
 education:
   courses:
-  - course: Maestría en Data Mining & Recovery Knowledge. 
+  - course: Maestría en Data Mining & Recovery Knowledge 
     institution: Universidad de Buenos Aires 
     year: 2018
-  - course: Licenciada en Ciencias de la Computación. 
+  - course: Licenciada en Ciencias de la Computación
     institution: Universidad de Buenos Aires 
     year: 1985
 email: "monica.alonso@metadocencia.org"
