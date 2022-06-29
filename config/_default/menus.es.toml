@@ -97,7 +97,7 @@ weight = 3
   name = "Contacto"
   url = ""
   weight = 5
-![](./SitioWeb/layouts/shortcodes/newsletter-mailchimp.html)
+![](./layouts/shortcodes/newsletter-mailchimp.html)
 
 
 # Link to a PDF of your resume/CV from the menu.
