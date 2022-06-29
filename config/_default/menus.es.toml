@@ -97,7 +97,12 @@ weight = 3
   name = "Contacto"
   url = ""
   weight = 5
-![](./layouts/shortcodes/newsletter-mailchimp.html)
+  [[main]]
+    name = "Newsletter"
+    url = "https://netlify.us19.list-manage.com/subscribe/post?u=92fb89ce82f9689a3b083bb35&amp;id=d8187ceaf7"
+    parent = "Contacto"
+    weight = 1
+  
 
 
 # Link to a PDF of your resume/CV from the menu.
