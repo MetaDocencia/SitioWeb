@@ -97,9 +97,8 @@ weight = 3
   name = "Contacto"
   url = ""
   weight = 5
-![[main]](./SitioWeb/layouts/shortcodes/newsletter-mailchimp.html)
-    parent = "Contacto"
-    weight = 2
+![](./SitioWeb/layouts/shortcodes/newsletter-mailchimp.html)
+
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
