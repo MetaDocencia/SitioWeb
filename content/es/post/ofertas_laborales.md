@@ -39,13 +39,6 @@ Estas contrataciones son para llevar a cabo las actividades financiadas por [est
 
 **Modalidad de contratación y pagos:** Todas las personas que se postulen serán contratistas sin relación de dependencia y tendrán que gestionar sus propios impuestos y beneficios en su país de residencia. El contrato será hasta el 30 de Noviembre de 2022, renovable hasta el 30 de Noviembre de 2023. Los pagos se realizarán mensualmente y hay varias opciones de medio de pago (por ejemplo, depósito a: cuenta bancaria en país de residencia, cuenta bancaria fuera del país de residencia, PayPal).  
 
-**Compensación**
-
-Si la persona contratada tiene derecho de trabajar en un país latinoamericano, ofrecemos:
-
-* US$ 24.000 (dólares estadounidenses) anuales de bolsillo (neto) para empleo full-time de 40 horas semanales, prorrateado proporcionalmente por las horas a las que te postules. 
-* US$ 6.000 anuales para reembolso de gastos en beneficios a tu elección, asumiendo una base de 40 horas semanales y prorrateados según la cantidad de horas semanales a las que te postules. Los reembolsos podrían ser, por ejemplo (pero no limitados a): días de vacaciones (hasta 20 días hábiles por año), pagar espacio de co-trabajo en una oficina de tu elección, equipamiento para tu oficina en tu hogar, plan de salud o ahorros jubilatorios. En todos los casos, este monto se te pagará directamente y estarás a cargo de ejecutar este monto. MetaDocencia no coordinará ningún plan de salud o jubilatorio.
-
 **Cómo postularte**
 
 Por favor, envia a empleos@metadocencia.org un CV de hasta 3 páginas y una nota de hasta 750 palabras incluyendo:
