@@ -32,6 +32,10 @@ subtitle = ""
   [[content.filter_button]]
     name = "Herramientas tecnológicas"
     tag = "Herramientas tecnológicas"
+    
+  [[content.filter_button]]
+    name = "Ediciones anteriores"
+    tag = "Ediciones anteriores"
 
 
 [design]
