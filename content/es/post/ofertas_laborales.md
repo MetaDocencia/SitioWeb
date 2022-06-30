@@ -37,8 +37,6 @@ Estas contrataciones son para llevar a cabo las actividades financiadas por [est
 
 **Horas y ubicación de trabajo flexibles:** MetaDocencia está comprometida a proveer un ambiente de trabajo abierto, seguro y amigable. Este trabajo será completamente remoto y recibimos postulaciones de cualquier país latinoamericano. Idealmente, al menos 8 horas de tus horas laborales tendrían que superponerse con el equipo de liderazgo de MetaDocencia que trabaja en la zona horaria argentina (UTC -3). 
 
-**Modalidad de contratación y pagos:** Todas las personas que se postulen serán contratistas sin relación de dependencia y tendrán que gestionar sus propios impuestos y beneficios en su país de residencia. El contrato será hasta el 30 de Noviembre de 2022, renovable hasta el 30 de Noviembre de 2023. Los pagos se realizarán mensualmente y hay varias opciones de medio de pago (por ejemplo, depósito a: cuenta bancaria en país de residencia, cuenta bancaria fuera del país de residencia, PayPal).  
-
 **Cómo postularte**
 
 Por favor, envia a empleos@metadocencia.org un CV de hasta 3 páginas y una nota de hasta 750 palabras incluyendo:
