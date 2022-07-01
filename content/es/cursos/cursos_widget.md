@@ -23,7 +23,7 @@ subtitle = ""
   
   [[content.filter_button]]
     name = "Todos"
-    tags = [ "Herramientas pedagógicas", "Ediciones anteriores" ]
+    tags = [ "*", "Herramientas pedagógicas", "Ediciones anteriores" ]
    
   [[content.filter_button]]
     name = "Herramientas pedagógicas"
