@@ -7,21 +7,21 @@
 name = "Sobre MD"
 url = ""
 weight = 10
-  [[main]]
-  name = "Origen"
-  url = ""
-  parent = "Sobre MD"
-    weight = 10
+#  [[main]]
+#  name = "Origen"
+#  url = ""
+#  parent = "Sobre MD"
+#    weight = 10
   [[main]]
   name = "Propuesta"
   url = "/propuesta"
   parent = "Sobre MD"
     weight = 20
-  [[main]]
-  name = "Manifiesto"
-  url = ""
-  parent = "Sobre MD"
-    weight = 30
+#  [[main]]
+#  name = "Manifiesto"
+#  url = ""
+#  parent = "Sobre MD"
+#    weight = 30
   [[main]]
   name = "Código de conducta"
   url = ""
