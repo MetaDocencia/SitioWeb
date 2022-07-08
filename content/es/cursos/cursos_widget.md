@@ -26,12 +26,8 @@ subtitle = ""
     tag = "*"
    
   [[content.filter_button]]
-    name = "Herramientas pedagógicas"
-    tag = "Herramientas pedagógicas"
-   
-  [[content.filter_button]]
-    name = "Herramientas tecnológicas"
-    tag = "Herramientas tecnológicas"
+    name = "Próximos cursos"
+    tag = "Próximos cursos"
     
   [[content.filter_button]]
     name = "Ediciones anteriores"
