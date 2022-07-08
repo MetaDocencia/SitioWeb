@@ -13,7 +13,7 @@ authors:
 type: cursos
 weight: 30
 tags:
-  - Ediciones Anteriores
+  - Ediciones anteriores
 ---
 
 ### Objetivos
