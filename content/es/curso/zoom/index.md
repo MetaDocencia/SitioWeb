@@ -48,7 +48,7 @@ Pensamos en María y en Karina como personas tipo al diseñar los contenidos de 
 No incluye conceptos teóricos de pedagogía, sino cómo aplicar algunos de los contenidos del curso [Introducción al ABC para enseñar online](https://www.metadocencia.org/curso/intro-abc-online/).
   
 ### Cómo participar 
-Este curso volverá a dictarse en 2022, en fecha a confirmar. Si te interesa participar, escribinos a info@metadocencia.org.
+Este curso volverá a dictarse en 2022, en fecha a confirmar. Si te interesa participar, escríbenos a info@metadocencia.org.
   
 ### Duración
 
