@@ -112,6 +112,12 @@ El taller tiene una duración de 2 horas con intervalos (idealmente lejos de cua
 
 * [Video del curso](https://youtu.be/d7eXzRzEdC8)
 
+
+### ¿Cómo participar?
+
+Este es un curso no activo que dimos anteriormente y no está planeado reeditarlo por el momento, aquí dispones de todos los materiales por si quieres enseñarlo.
+
+
 ### ¿Te vienen bien cualquiera de nuestros contenidos? ¡Servite sin culpa!
 
 Este curso se comparte bajo la licencia [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/deed.es_ES).
