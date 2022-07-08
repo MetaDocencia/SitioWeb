@@ -12,7 +12,7 @@ authors:
 type: cursos
 weight: 10
 tags:
-  - Herramientas pedagógicas
+  - Próximos cursos
 ---
 
 
@@ -61,13 +61,8 @@ Entre otras cosas, quedan fuera del alcance del taller:
 * Técnicas específicas para enseñar contenidos propios de disciplinas específicas
 * Técnicas específicas de manejo de clases o eventos de más de 30 personas
 
-### ¿Cómo participo? 
-
-Si aún no lo hiciste, por favor, completa [el formulario de registro](https://docs.google.com/forms/d/e/1FAIpQLScC20Me-fX7UmCNhNswulYfOVQF4XiyIHgtde_R8CWreCmWhA/viewform?usp=sf_link) (si ya lo hiciste, no es necesario que vuelvas a completarlo). En cuanto abramos vacantes te vamos a mandar un correo electrónico de invitación para que elijas el día y horario que más te convenga.
-
-El taller es gratuito. Las personas que sean invitadas al taller se comprometen a cumplir con nuestro [código de conducta](https://metadocencia.org/cdc/).
-
-Aprendemos mejor cuando conocemos al grupo con el que participamos. Por eso, si te interesa tomar este taller junto con tu grupo, escríbenos a [info@metadocencia.org](mailto:info@metadocencia.org) para acomodar a todo el grupo.
+### Cómo participar 
+Este curso volverá a dictarse en 2022, en fecha a confirmar. Si te interesa participar, escribinos a info@metadocencia.org.
 
 ### Duración
 
