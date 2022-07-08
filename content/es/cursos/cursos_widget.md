@@ -78,8 +78,6 @@ subtitle = ""
 
 Nuestra propuesta –remota y totalmente gratuita–  se desarrolla a través de la plataforma Zoom. Es útil para todo tipo de intercambios que facilitan la formación e intercambio de conocimiento entre quienes asistan a nuestros talleres, charlas y seminarios, entre varios de los formatos que ofrecemos. 
 
-Para participar, completa el formulario de preinscripción dentro de cada propuesta. 
-
-Una vez que realices la preinscripción, recibirás un email con todas las indicaciones para que puedas sumarte al curso online.
+Para participar, completa el formulario de preinscripción dentro de cada propuesta. Una vez que realices la preinscripción, recibirás un email con todas las indicaciones para que puedas sumarte al curso online.
 
 Si tienes inquietudes adicionales sobre capacitación, escríbenos a info@metadocencia.org
