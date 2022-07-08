@@ -12,7 +12,7 @@ authors:
 type: cursos
 weight: 15
 tags:
-  - Herramientas pedagógicas
+  - Próximos cursos
 ---
 
 
@@ -57,30 +57,7 @@ Entre otras cosas, quedan fuera del alcance del taller:
 * Contenidos teóricos sobre pedagogía 
 
 ### Cómo participar 
-
-Para participar de este taller es necesario que te hayas [registrado](https://docs.google.com/forms/d/e/1FAIpQLScC20Me-fX7UmCNhNswulYfOVQF4XiyIHgtde_R8CWreCmWhA/viewform) y que hayas participado en el curso [Intro al ABC para enseñar online](/curso/intro-abc-online/). 
-Este curso se centra en cómo enseñar a programar en general. Durante el curso discutiremos algunos ejemplos de código en R y Python y charlaremos sobre herramientas asociadas a estos lenguajes.
-
-Para pre-inscribirte en este curso, por favor completá tu mail en el formulario de abajo con el mismo mail que usaste para registrarte.
-
-<iframe 
-  src="https://script.google.com/macros/s/AKfycbxiLVssqLE184JQDnu4LPHkgChp-mbpRNOWQ7OGou96XGVUrMRL1oCCpnPq6_0W-1kU6Q/exec"
-  frameBorder="0",
-  title = "Formulario de pre-inscripción",
-  width="100%",
-  height = 300px,
-  vertical-align="text-top">
-  Explorador no compatible.
-</iframe> 
-
-(Si el formulario no aparece, es posible que tengas algún bloqueador de contenido instalado. En ese caso podés ir a [este link](https://script.google.com/macros/s/AKfycbxiLVssqLE184JQDnu4LPHkgChp-mbpRNOWQ7OGou96XGVUrMRL1oCCpnPq6_0W-1kU6Q/exec))
-
-En cuanto abramos vacantes te vamos a mandar un mail de invitación para que elijas el día y horario que más te convenga.
-
-
-El taller es gratuito. Las personas que sean invitadas al taller se comprometen a cumplir con nuestro [código de conducta](https://metadocencia.org/cdc/).
-
-Aprendemos mejor cuando conocemos al grupo con el que participamos. Por eso, si te interesa tomar este taller junto con tu grupo, escríbenos a [info@metadocencia.org](mailto:info@metadocencia.org) para acomodar a todo el grupo.
+Este curso volverá a dictarse en 2022, en fecha a confirmar. Si te interesa participar, escribinos a info@metadocencia.org.
 
 ### Duración
 
