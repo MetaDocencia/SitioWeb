@@ -62,7 +62,7 @@ Entre otras cosas, quedan fuera del alcance del taller:
 * Técnicas específicas de manejo de clases o eventos de más de 30 personas
 
 ### Cómo participar 
-Este curso volverá a dictarse en 2022, en fecha a confirmar. Si te interesa participar, escribinos a info@metadocencia.org.
+Este curso volverá a dictarse en 2022, en fecha a confirmar. Si te interesa participar, escríbenos a info@metadocencia.org.
 
 ### Duración
 
