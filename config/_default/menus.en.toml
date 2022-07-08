@@ -7,21 +7,21 @@
 name = "About us"
 url = ""
 weight = 10
-  [[main]]
-  name = "beginning"
-  url = ""
-  parent = "About us"
-    weight = 10
+#  [[main]]
+#  name = "beginning"
+#  url = ""
+#  parent = "About us"
+#    weight = 10
   [[main]]
   name = "Approach"
   url = ""
   parent = "About us"
     weight = 20
-  [[main]]
-  name = "Manifest"
-  url = ""
-  parent = "About us"
-    weight = 30 
+#  [[main]]
+#  name = "Manifest"
+#  url = ""
+#  parent = "About us"
+#    weight = 30 
   [[main]]
   name = "Code of Conduct"
   url = ""
