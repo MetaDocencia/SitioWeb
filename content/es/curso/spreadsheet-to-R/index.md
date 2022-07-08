@@ -49,7 +49,6 @@ El taller tiene una duración de 3 horas con dos intervalos (preferentemente lej
 
 ### Cronograma tentativo
 
-
 |  Duration (min) |  Actividad  |
 | ---:  | :----------- |
 | -5  <img width="150"/>|  Tiempo previo para conectarse y asegurarse que anda bien tu conexión de audio y video (si no tenés una cámara no importa, pero ayuda si tenés una)|
@@ -92,6 +91,11 @@ El taller tiene una duración de 3 horas con dos intervalos (preferentemente lej
 
 * Control de código
 * Automatización
+
+
+### ¿Cómo participar?
+
+Este es un curso no activo que dimos anteriormente y no está planeado reeditarlo por el momento, aquí dispones de todos los materiales por si quieres enseñarlo.
 
 
 ### Materiales del curso
