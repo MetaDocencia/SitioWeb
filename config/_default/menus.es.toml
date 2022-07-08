@@ -6,97 +6,97 @@
 [[main]]
 name = "Sobre MD"
 url = ""
-weight = 1
+weight = 10
   [[main]]
   name = "Origen"
   url = ""
   parent = "Sobre MD"
-    weight = 1
+    weight = 10
   [[main]]
   name = "Propuesta"
   url = ""
   parent = "Sobre MD"
-    weight = 2
+    weight = 20
   [[main]]
   name = "Manifiesto"
   url = ""
   parent = "Sobre MD"
-    weight = 3 
+    weight = 30
   [[main]]
   name = "Código de conducta"
   url = ""
   parent = "Sobre MD"
-    weight = 4
+    weight = 40
   [[main]]
   name = "Equipo"
   url = ""
   parent = "Sobre MD"
-    weight = 5
+    weight = 50
   
 [[main]]
 name = "Cursos"
 url = ""
-weight = 2
+weight = 20
   [[main]]
   name = "Propuestas"
   url = "cursos/"
   parent = "Cursos"
-    weight = 1
+    weight = 10
   [[main]]
   name = "Tipologías"
   url = ""
   parent = "Cursos"
-    weight = 2
+    weight = 20
   [[main]]
   name = "Agenda"
   url = ""
   parent = "Cursos"
-    weight = 3
+    weight = 30
   [[main]]
   name = "Inscripciones"
   url = ""
   parent = "Cursos"
-    weight = 4
+    weight = 40
   
 [[main]]
 name = "Apoyos"
 url = ""
-weight = 3
+weight = 30
   [[main]]
   name = "Auspiciantes"
   url = "#sponsors"
   parent = "Apoyos"
-    weight = 1
+    weight = 10
   [[main]]
   name = "Donar"
   url = "#donar"
   parent = "Apoyos"
-    weight = 2
+    weight = 20
   [[main]]
   name = "Consultas"
   url = ""
   parent = "Apoyos"
-    weight = 3
+    weight = 30
 
 [[main]]
   name = "Publicaciones"
   url = ""
-  weight = 4
+  weight = 40
   [[main]]
   name = "BLOG"
   url = "post/"
   parent = "Publicaciones"
-    weight = 1
+    weight = 10
   [[main]]
     name = "Prensa"
     url = "#prensa"
     parent = "Publicaciones"
-    weight = 2
+    weight = 20
 
 [[main]]
   name = "Contacto"
   url = ""
-  weight = 5
+  weight = 50
     [[main]]
     name = "Prensa"
     url = "./layouts/shortcodes/newsletter-mailchimp.html"
