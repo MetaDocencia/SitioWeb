@@ -6,97 +6,97 @@
 [[main]]
 name = "About us"
 url = ""
-weight = 1
+weight = 10
   [[main]]
   name = "beginning"
   url = ""
   parent = "About us"
-    weight = 1
+    weight = 10
   [[main]]
   name = "Approach"
   url = ""
   parent = "About us"
-    weight = 2
+    weight = 20
   [[main]]
   name = "Manifest"
   url = ""
   parent = "About us"
-    weight = 3 
+    weight = 30 
   [[main]]
   name = "Code of Conduct"
   url = ""
   parent = "About us"
-    weight = 4
+    weight = 40
   [[main]]
   name = "Team"
   url = ""
   parent = "About us"
-    weight = 5
+    weight = 50
   
 [[main]]
 name = "Courses"
 url = ""
-weight = 2
+weight = 20
   [[main]]
   name = "Curricula"
   url = "cursos/"
   parent = "Courses"
-    weight = 1
+    weight = 10
   [[main]]
   name = "Typologies"
   url = ""
   parent = "Courses"
-    weight = 2
+    weight = 20
   [[main]]
   name = "Agenda"
   url = ""
   parent = "Courses"
-    weight = 3
+    weight = 30
   [[main]]
   name = "Enrollment"
   url = ""
   parent = "Courses"
-    weight = 4
+    weight = 40
   
 [[main]]
 name = "Supporters"
 url = ""
-weight = 3
+weight = 30
   [[main]]
   name = "Sponsors"
   url = "#sponsors"
   parent = "Supporters"
-    weight = 1
+    weight = 10
   [[main]]
   name = "Donate"
   url = "#donar"
   parent = "Supporters"
-    weight = 2
+    weight = 20
   [[main]]
   name = "Get involved"
   url = ""
   parent = "Supporters"
-    weight = 3
+    weight = 30
 
 [[main]]
   name = "Publications"
   url = ""
-  weight = 4
+  weight = 40
   [[main]]
   name = "BLOG"
   url = "post/"
   parent = "Publications"
-    weight = 1
+    weight = 10
   [[main]]
     name = "Press"
     url = "#prensa"
     parent = "Publications"
-    weight = 2
+    weight = 20
 
 [[main]]
   name = "Contact us"
   url = ""
-  weight = 5
+  weight = 50
 
 
 # Link to a PDF of your resume/CV from the menu.
