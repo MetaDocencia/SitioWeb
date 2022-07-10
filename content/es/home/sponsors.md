@@ -56,15 +56,21 @@
 <div class="row">
 
   <div class="col-12 col-sm-auto">
+     <figure>
     <a href="https://www.moore.org/" target="_blank" rel="noopener"><img src="/img/GaBMF_logo_2022.png" alt="The Gordon and Betty Moore Foundation"></a>
+    </figure>
   </div>
 
   <div class="col-12 col-sm-auto">
+     <figure>
     <a href="https://chanzuckerberg.com/" target="_blank" rel="noopener"><img src="/img/CZI_logo_2022.png" alt="Chan Zuckerberg Initiative"></a>
+    </figure>
   </div>
 
   <div class="col-12 col-sm-auto">
+     <figure>
     <a href="https://codeforscience.org/" target="_blank" rel="noopener"><img src="/img/cs&s_logo_2022.png" alt="Code for Science & Society"></a>
+    </figure>
   </div>
 
 
@@ -92,7 +98,9 @@
 
 
   <div class="col-12 col-sm-auto">
+     <figure>
     <a href="https://twitter.com/rladiesba" target="_blank" rel="noopener"><img src="/img/rladies_logo_2022.png" alt="Rladies Buenos Aires"></a> 
+    </figure>
   </div>
 
 
