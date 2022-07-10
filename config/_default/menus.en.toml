@@ -22,11 +22,11 @@ weight = 10
 #  url = ""
 #  parent = "About us"
 #    weight = 30 
-  [[main]]
-  name = "Code of Conduct"
-  url = ""
-  parent = "About us"
-    weight = 40
+#  [[main]]
+#  name = "Code of Conduct"
+#  url = "en/authors/metadocencia/cdc/"
+#  parent = "About us"
+#    weight = 40
   [[main]]
   name = "Team"
   url = "en/equipo/"
