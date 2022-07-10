@@ -39,7 +39,7 @@ url = ""
 weight = 20
   [[main]]
   name = "Curricula"
-  url = "cursos/"
+  url = "en/cursos/"
   parent = "Courses"
     weight = 10
   [[main]]
