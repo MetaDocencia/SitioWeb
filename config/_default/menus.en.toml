@@ -14,7 +14,7 @@ weight = 10
 #    weight = 10
   [[main]]
   name = "Approach"
-  url = ""
+  url = "en/authors/metadocencia/"
   parent = "About us"
     weight = 20
 #  [[main]]
@@ -29,7 +29,7 @@ weight = 10
     weight = 40
   [[main]]
   name = "Team"
-  url = ""
+  url = "en/equipo/"
   parent = "About us"
     weight = 50
   
@@ -43,15 +43,15 @@ weight = 20
   parent = "Courses"
     weight = 10
   [[main]]
-  name = "Typologies"
-  url = ""
-  parent = "Courses"
-    weight = 20
-  [[main]]
-  name = "Agenda"
-  url = ""
-  parent = "Courses"
-    weight = 30
+ # name = "Typologies"
+ # url = ""
+ # parent = "Courses"
+ #   weight = 20
+ # [[main]]
+ # name = "Agenda"
+ # url = ""
+ # parent = "Courses"
+ #   weight = 30
   [[main]]
   name = "Enrollment"
   url = ""
