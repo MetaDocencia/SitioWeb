@@ -56,20 +56,20 @@
 <div class="row">
 
   <div class="col-12 col-sm-auto">
-    <a href="https://www.moore.org/" target="_blank" rel="noopener"><img src="/img/moore-logo-color_sm.jpg" alt="The Gordon and Betty Moore Foundation"></a>
+    <a href="https://www.moore.org/" target="_blank" rel="noopener"><img src="/img/GaBMF_logo_2022.png" alt="The Gordon and Betty Moore Foundation"></a>
   </div>
 
   <div class="col-12 col-sm-auto">
-    <a href="https://chanzuckerberg.com/" target="_blank" rel="noopener"><img src="/img/czi_logo.svg" alt="Chan Zuckerberg Initiative"></a>
+    <a href="https://chanzuckerberg.com/" target="_blank" rel="noopener"><img src="/img/CZI_logo_2022.png" alt="Chan Zuckerberg Initiative"></a>
   </div>
 
   <div class="col-12 col-sm-auto">
-    <a href="https://codeforscience.org/" target="_blank" rel="noopener"><img src="/img/cs&s.png" alt="Code for Science & Society"></a>
+    <a href="https://codeforscience.org/" target="_blank" rel="noopener"><img src="/img/cs&s_logo_2022.png" alt="Code for Science & Society"></a>
   </div>
 
 
   <div class="col-12 col-sm-auto">
-    <a href="https://twitter.com/intaanguil" target="_blank" rel="noopener"><img src="/img/logointa_2.jpg" alt="E.E.A. INTA Anguil Ing, Agr. Guillermo Covas"></a>
+    <a href="https://twitter.com/intaanguil" target="_blank" rel="noopener"><img src="/img/INTA_logo_2022.png" alt="E.E.A. INTA Anguil Ing, Agr. Guillermo Covas"></a>
   </div>
   
 </div>
@@ -81,7 +81,7 @@
 
   <div class="col-12 col-sm-auto">
     <figure>
-      <a href="https://www.open-bio.org/" target="_blank" rel="noopener"><img src="/img/obf_logo.png" alt="Open Bioinformatics Foundation"></a>
+      <a href="https://www.open-bio.org/" target="_blank" rel="noopener"><img src="/img/obf_logo_2022.png" alt="Open Bioinformatics Foundation"></a>
       <figcaption>Beca de la OBF a Laura Acion</figcaption>  
     </figure>
   </div>
@@ -89,7 +89,7 @@
 
 
   <div class="col-12 col-sm-auto">
-    <a href="https://twitter.com/rladiesba" target="_blank" rel="noopener"><img src="/img/rladies-ba.jpg" alt="Rladies Buenos Aires"></a> 
+    <a href="https://twitter.com/rladiesba" target="_blank" rel="noopener"><img src="/img/rladies_logo_2022.png" alt="Rladies Buenos Aires"></a> 
   </div>
 
 
