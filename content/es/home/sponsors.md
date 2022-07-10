@@ -69,7 +69,10 @@
 
 
   <div class="col-12 col-sm-auto">
+    <figure>
     <a href="https://twitter.com/intaanguil" target="_blank" rel="noopener"><img src="/img/INTA_logo_2022.png" alt="E.E.A. INTA Anguil Ing, Agr. Guillermo Covas"></a>
+    <figcaption>E.E.A. INTA Anguil Ing, Agr. Guillermo Covas</figcaption>  
+    </figure>
   </div>
   
 </div>
