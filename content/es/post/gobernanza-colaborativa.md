@@ -34,4 +34,5 @@ Ciclo de encuentros y temas programados:
 |Mié 26/10 - 17hs. | *La gobernanza de MetaDocencia en proceso* |
 
 **> [Formulario de registro para asistir a los eventos](https://docs.google.com/forms/d/e/1FAIpQLSfUHrL4F10zWwOuRKW0I8y-_7YT1p8PslzIk7jLBuoR41Hs-Q/viewform)**
+
 *Todos los datos se manejarán en forma confidencial, sólo podrán ser publicados de forma agregada y anonimizada en reportes sobre el alcance de MetaDocencia.*
