@@ -14,9 +14,9 @@ tags:
 
 En 2022 [cumplimos dos años](https://www.metadocencia.org/post/cumple_mes_dos_anios/), gracias al impulso de la comunidad docente de habla hispana que crece al ritmo de las innovaciones en educación y las ganas de seguir aprendiendo y colaborando en línea.
 
-La consolidación de MetaDocencia se apoya en logros colectivos y nuestro rápido crecimiento nos presenta nuevos desafíos. Por eso, durante la segunda mitad de 2022 comenzamos a elaborar nuestra gobernanza. Aspiramos a tener un modelo transparente para la toma de decisiones estratégicas que nos permita fortalecer nuestra misión institucional sobre la base de la construcción en comunidad.
+La consolidación de MetaDocencia se apoya en logros colectivos y nuestro rápido crecimiento nos presenta nuevos desafíos. Por eso, durante la segunda mitad de 2022 comenzamos a elaborar nuestra **gobernanza**. Aspiramos a tener un modelo transparente para la toma de decisiones estratégicas que nos permita fortalecer nuestra misión institucional sobre la base de la construcción en comunidad.
 
-Con este propósito, entre julio y octubre de 2022 realizaremos ocho conversatorios que tienen como objetivo contribuir a la elaboración colaborativa de nuestra gobernanza. En estos encuentros conversaremos con especialistas en gobernanza y referentes de organizaciones y proyectos vinculados a la educación y el conocimiento abierto. Estas reuniones aportarán a un modelo de organización como el que deseamos para MetaDocencia, pensado desde y para nuestro contexto cultural y regional.
+Con este propósito, entre julio y octubre de 2022 realizaremos **ocho conversatorios** que tienen como objetivo contribuir a la elaboración colaborativa de nuestra gobernanza. En estos encuentros conversaremos con especialistas en gobernanza y referentes de organizaciones y proyectos vinculados a la educación y el conocimiento abierto. Estas reuniones aportarán a un modelo de organización como el que deseamos para MetaDocencia, pensado desde y para nuestro contexto cultural y regional.
 
 Te invitamos a participar de las conversaciones, debates y reflexiones que guiarán este proceso de aprendizaje, para que nuestra forma de gobierno sea otro hito de nuestra trayectoria construida en comunidad. 
 
@@ -24,14 +24,14 @@ Ciclo de encuentros y temas programados:
 
 |  Día/hora | Tema |
 | ---:  | :----------- |
-|Mié 20/07 - 17hs. | MetaDocencia: pensar colaborativamente nuestra gobernanza | 
-|Mié 03/08 - 17hs. | La experiencia de la Fundación Vía Libre | 
-|Mié 17/08 - 17hs. | Gobernanza y datos abiertos: la experiencia ILDA |
-|Mié 31/08 - 17hs. | Gobernanza en comunidad: interseccionalidad y representatividad |
-|Mié 14/09 - 17hs. | Los aspectos normativos de la gobernanza |
-|Mié 28/09 - 17hs. | Gobernanza e innovación educativa |
-|Mié 12/10 - 17hs. | Gobernar en entornos complejos, flexibles y cambiantes |
-|Mié 26/10 - 17hs. | La gobernanza de MetaDocencia en proceso |
+|Mié 20/07 - 17hs. | *MetaDocencia: pensar colaborativamente nuestra gobernanza* | 
+|Mié 03/08 - 17hs. | *La experiencia de la Fundación Vía Libre* | 
+|Mié 17/08 - 17hs. | *Gobernanza y datos abiertos: la experiencia ILDA* |
+|Mié 31/08 - 17hs. | *Gobernanza en comunidad: interseccionalidad y representatividad* |
+|Mié 14/09 - 17hs. | *Los aspectos normativos de la gobernanza* |
+|Mié 28/09 - 17hs. | *Gobernanza e innovación educativa* |
+|Mié 12/10 - 17hs. | *Gobernar en entornos complejos, flexibles y cambiantes* |
+|Mié 26/10 - 17hs. | *La gobernanza de MetaDocencia en proceso* |
 
-> [Formulario de registro para asistir a los eventos](https://docs.google.com/forms/d/e/1FAIpQLSfUHrL4F10zWwOuRKW0I8y-_7YT1p8PslzIk7jLBuoR41Hs-Q/viewform)
+**> [Formulario de registro para asistir a los eventos](https://docs.google.com/forms/d/e/1FAIpQLSfUHrL4F10zWwOuRKW0I8y-_7YT1p8PslzIk7jLBuoR41Hs-Q/viewform)**
 *Todos los datos se manejarán en forma confidencial, sólo podrán ser publicados de forma agregada y anonimizada en reportes sobre el alcance de MetaDocencia.*
