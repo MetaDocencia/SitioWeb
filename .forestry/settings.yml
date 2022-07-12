@@ -5,30 +5,10 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: content
-  label: Pages
+  path: SitioWeb/
+  label: Sitio-entero
   create: all
   match: "*"
-- type: directory
-  path: content/es
-  label: Es
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/en
-  label: En
-  create: all
-  match: "**/*"
-- type: directory
-  path: config/_default/
-  label: Config-default
-  create: all
-  match: "**/*"
-- type: directory
-  path: themes/hugo-academic/
-  label: Themes-Hugo
-  create: all
-  match: "**/*"
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
