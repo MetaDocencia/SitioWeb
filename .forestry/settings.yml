@@ -5,8 +5,53 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: SitioWeb/
-  label: Sitio-entero
+  path: content
+  label: Pages
+  create: all
+  match: "*"
+- type: directory
+  path: content/es
+  label: Es
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/en
+  label: En
+  create: all
+  match: "**/*"
+- type: directory
+  path: config/_default/
+  label: Config-default
+  create: all
+  match: "**/*"
+- type: directory
+  path: themes/hugo-academic/
+  label: Themes-Hugo
+  create: all
+  match: "**/*"
+- type: directory
+  path: assets/images/
+  label: Assets-images
+  create: all
+  match: "*"
+- type: directory
+  path: data/themes/
+  label: Data-themes
+  create: all
+  match: "*"
+- type: directory
+  path: layouts/shortcodes/
+  label: Layouts-shortcodes
+  create: all
+  match: "*"
+- type: directory
+  path: layouts/shortcodes/
+  label: Layouts-shortcodes
+  create: all
+  match: "*"
+- type: directory
+  path: static/
+  label: Static
   create: all
   match: "*"
 upload_dir: static/uploads
