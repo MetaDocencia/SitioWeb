@@ -54,6 +54,11 @@ sections:
   label: Static
   create: all
   match: "*"
+- type: document
+  path: config.toml
+  label: archivo-config-toml
+  create: all
+  match: "*"
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
