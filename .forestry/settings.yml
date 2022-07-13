@@ -59,6 +59,36 @@ sections:
   label: archivo-config-toml
   create: all
   match: "*"
+- type: document
+  path: .Rprofile
+  label: archivo-rprofile
+  create: all
+  match: "*"
+- type: document
+  path: .gitignore
+  label: archivo-gitignore
+  create: all
+  match: "*"
+- type: document
+  path: README.md
+  label: archivo-readme
+  create: all
+  match: "*"
+- type: document
+  path: SitioWeb.Rproj
+  label: archivo-sitioweb-rproj
+  create: all
+  match: "*"
+- type: document
+  path: index.Rmd
+  label: archivo-index-rmd
+  create: all
+  match: "*"
+- type: document
+  path: netlify.toml
+  label: archivo-netlify-toml
+  create: all
+  match: "*"
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
