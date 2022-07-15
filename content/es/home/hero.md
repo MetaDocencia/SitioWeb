@@ -42,7 +42,7 @@ hero_media = "hero_logo.png"
  # icon_pack = "fas"
  # icon = "edit"
   
-[cta_alt]
+[cta]
   url = "/cursos/"
   icon_pack = "fas"
   label = "Nuestros cursos"
