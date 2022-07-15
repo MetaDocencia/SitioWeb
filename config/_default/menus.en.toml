@@ -97,6 +97,21 @@ weight = 30
   name = "Contact us"
   url = ""
   weight = 50
+#    [[main]]
+#    name = "Form"
+#    url = ""
+#    parent = "Contact us"
+#    weight = 10
+#    [[main]]
+#    name = "Social media"
+#    url = ""
+#    parent = "Contact us"
+#    weight = 20    
+    [[main]]
+    name = "Newsletter"
+    url = "https://netlify.us19.list-manage.com/subscribe/post?u=92fb89ce82f9689a3b083bb35&amp;id=d8187ceaf7"
+    parent = "Contact us"
+    weight = 30  
 
 
 # Link to a PDF of your resume/CV from the menu.
