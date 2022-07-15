@@ -89,7 +89,7 @@ weight = 30
     weight = 10
   [[main]]
     name = "Prensa"
-    url = "prensa/"
+    url = "prensa2/"
     parent = "Publicaciones"
     weight = 20
 
