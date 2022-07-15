@@ -72,14 +72,6 @@
     <a href="https://codeforscience.org/" target="_blank" rel="noopener"><img src="/img/cs&s_logo_2022.png" alt="Code for Science & Society"></a>
     </figure>
   </div>
-
-
-  <div class="col-12 col-sm-auto">
-    <figure>
-    <a href="https://twitter.com/intaanguil" target="_blank" rel="noopener"><img src="/img/INTA_logo_2022.png" alt="E.E.A. INTA Anguil Ing, Agr. Guillermo Covas"></a>
-    <figcaption>E.E.A. INTA Anguil Ing, Agr. Guillermo Covas</figcaption>  
-    </figure>
-  </div>
   
 </div>
   
@@ -95,14 +87,18 @@
     </figure>
   </div>
   
-
-
   <div class="col-12 col-sm-auto">
      <figure>
     <a href="https://twitter.com/rladiesba" target="_blank" rel="noopener"><img src="/img/rladies_logo_2022.png" alt="Rladies Buenos Aires"></a> 
     </figure>
   </div>
 
+  <div class="col-12 col-sm-auto">
+    <figure>
+    <a href="https://twitter.com/intaanguil" target="_blank" rel="noopener"><img src="/img/INTA_logo_2022.png" alt="E.E.A. INTA Anguil Ing, Agr. Guillermo Covas"></a>
+    <figcaption>E.E.A. INTA Anguil Ing, Agr. Guillermo Covas</figcaption>  
+    </figure>
+  </div>
 
 </div>
   

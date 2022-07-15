@@ -36,11 +36,6 @@ hero_media = "hero_logo.png"
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
-[cta]
-  url = "https://docs.google.com/forms/d/e/1FAIpQLScC20Me-fX7UmCNhNswulYfOVQF4XiyIHgtde_R8CWreCmWhA/viewform?usp=sf_link"
-  label = "Registro"
-  icon_pack = "fas"
-  icon = "edit"
   
 [cta_alt]
   url = "/cursos/"
@@ -51,7 +46,5 @@ hero_media = "hero_logo.png"
 #   label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-
-
-Para participar de nuestros cursos, completa el formulario de registro. En unos días te contactaremos con una propuesta horaria. 
+Pronto estaremos comunicando nuestros próximos eventos. Si te interesa conocer más sobre nuestras propuestas educativas, accedé desde el siguiente enlace
 
