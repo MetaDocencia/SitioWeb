@@ -69,7 +69,7 @@ weight = 30
     weight = 10
   [[main]]
   name = "Donar"
-  url = "#donar"
+  url = "donar/"
   parent = "Apoyos"
     weight = 20
   [[main]]
