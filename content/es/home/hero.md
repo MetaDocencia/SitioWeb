@@ -44,9 +44,7 @@ hero_media = "hero_logo.png"
   
 [cta]
   url = "/cursos/"
-  icon_pack = "fas"
   label = "Nuestros cursos"
-  icon = "edit"
 
 # Note. An optional note to show underneath the links.
 # [cta_note]
