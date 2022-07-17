@@ -14,6 +14,9 @@
   [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
+
+  # For Showcase view, flip alternate rows?
+  flip_alt_rows = true
   
   [design.background]
   # Apply a background color, gradient, or image.
