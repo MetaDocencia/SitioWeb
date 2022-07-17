@@ -36,15 +36,16 @@ hero_media = "hero_logo.png"
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
-[cta]
-  url = "https://docs.google.com/forms/d/e/1FAIpQLScC20Me-fX7UmCNhNswulYfOVQF4XiyIHgtde_R8CWreCmWhA/viewform?usp=sf_link"
-  label = "Registration"
-  icon_pack = "fas"
-  icon = "edit"
+# [cta]
+#  url = "https://docs.google.com/forms/d/e/1FAIpQLScC20Me-fX7UmCNhNswulYfOVQF4XiyIHgtde_R8CWreCmWhA/viewform?usp=sf_link"
+#  label = "Registration"
+#  icon_pack = "fas"
+#  icon = "edit"
   
-[cta_alt]
+[cta]
   url = "/cursos/"
   label = "Our Courses"
+  icon = "edit"
 
 # Note. An optional note to show underneath the links.
 # [cta_note]
