@@ -1,5 +1,5 @@
 ---
-date: "2020-03-09"
+date: "2020-03-09. Este es un curso no activo que dimos anteriormente y no está planeado reeditarlo por el momento, aquí dispones de todos los materiales por si quieres enseñarlo."
 draft: false
 image:
   caption: "[Photo por Liana Mikah en Unsplash](https://unsplash.com/photos/2t4Ji-nARqA)"
