@@ -22,7 +22,7 @@ Te invitamos a participar de las conversaciones, debates y reflexiones que guiar
 
 Ciclo de encuentros y temas programados:
 
-|  Día/hora (GMT-3) | Tema |
+|  Día/hora (UTC-3) | Tema |
 | ---:  | :----------- |
 |Mié 20/07 - 17 a 18 | *MetaDocencia: pensar colaborativamente nuestra gobernanza* | 
 |Mié 03/08 - 17 a 18 | *La experiencia de la Fundación Vía Libre* | 
