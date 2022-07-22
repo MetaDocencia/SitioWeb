@@ -4,9 +4,9 @@ draft: false
 image:
   caption: "[Photo por Liana Mikah en Unsplash](https://unsplash.com/photos/2t4Ji-nARqA)"
   alt_text: "Una manzana roja y un libro abierto sobre una canasta de picnic  Foto de Liana Mikah."
-linktitle: Club de Lectura de Enseñar Tecnología en Comunidad
+linktitle: Club de Lectura de Enseñar Tecnología en Comunidad 
 summary: Serie de 8 encuentros para leer y charlar sobre el libro Enseñar Tecnología en Comunidad de Greg Wilson. 
-title: Club de Lectura de Enseñar Tecnología en Comunidad
+title: Club de Lectura de Enseñar Tecnología en Comunidad [No vigente]
 spellcheck: true
 authors: 
     - yabellini
@@ -17,6 +17,10 @@ weight: 50
 tags:
   - Ediciones anteriores
 ---
+
+**Actualización:** Este es un curso no activo que dimos anteriormente y no está planeado reeditarlo por el momento, aquí dispones de todos los materiales por si quieres enseñarlo.
+
+------
 
 {{% toc %}}
 
@@ -49,11 +53,6 @@ Una o varias personas presentarán los capítulos y otra persona moderadora se e
 |19 de Abril - 18:00 UTC-3| En el salón de clase. Enseñar en línea |Ernesto Mirt Alvarado | Yani Bellini Saibene | [Blog](https://www.metadocencia.org/post/club_de_lectura_t3_dia6/)|
 |26 de Abril - 18:00 UTC-3| Construyendo una comunidad de práctica. Difusión y vinculación. Reuniones, reuniones, reuniones | Alejandra Bellini | Elio Campitelli |[Blog y Slides](https://www.metadocencia.org/post/club_de_lectura_t3_dia7/)|
 |3 de Mayo - 18:00 UTC-3| Las Reglas. Introducción. ¿Por qué enseño? | Greg Wilson | Yani Bellini Saibene |[Blog](https://www.metadocencia.org/post/club_de_lectura_t3_dia8/)|
-
-### ¿Cómo participar?
-
-Este es un curso no activo que dimos anteriormente y no está planeado reeditarlo por el momento, aquí dispones de todos los materiales por si quieres enseñarlo.
-
 
 ### Materiales del club de lectura
 
