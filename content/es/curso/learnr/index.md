@@ -6,7 +6,7 @@ image:
   alt_text: "1 manzana roja y 2 manzanas verdes sobre una mesa, foto tomada por Benjamin Wong"
 linktitle: Generando tutoriales interactivos con el paquete {learnr}
 summary: Aprende como usar {learnr} para construir tutoriales interactivos con R.  Curso en desarrollo.
-title: Generando tutoriales interactivos con el paquete {learnr}
+title: Generando tutoriales interactivos con el paquete {learnr} [No vigente]
 authors: 
     - yabellini
     - paocorrales
@@ -15,6 +15,10 @@ weight: 30
 tags:
   - Ediciones anteriores
 ---
+
+**Actualización:** Este es un curso no activo que dimos anteriormente y no está planeado reeditarlo por el momento, aquí dispones de todos los materiales por si quieres enseñarlo. 
+
+------
 
 ### Objetivos
 
@@ -111,11 +115,6 @@ El taller tiene una duración de 2 horas con intervalos (idealmente lejos de cua
 * [Presentación que usamos en el curso](https://docs.google.com/presentation/d/1QLRUbERgEk85s8qK6mzmMJn7avQ_bEmTn_NzFYgqwkc/edit?usp=sharing) con notas ampliando el contenido para quienes dan la clase
 
 * [Video del curso](https://youtu.be/d7eXzRzEdC8)
-
-
-### ¿Cómo participar?
-
-Este es un curso no activo que dimos anteriormente y no está planeado reeditarlo por el momento, aquí dispones de todos los materiales por si quieres enseñarlo.
 
 
 ### ¿Te vienen bien cualquiera de nuestros contenidos? ¡Servite sin culpa!
