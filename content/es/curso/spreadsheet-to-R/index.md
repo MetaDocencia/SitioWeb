@@ -6,7 +6,7 @@ image:
   alt_text: "Dos mitades de una manzana roja, a la derecha se ve la cascara, a la izquierda se ve la parte de adentro de la manzana.  Foto de Louis Hansel."
 linktitle: Desde las hojas de cálculo a R
 summary: Taller sincrónico en línea para pasar de usar una hoja de cálculo a usar R. 
-title: Desde las hojas de cálculo a R
+title: Desde las hojas de cálculo a R [No vigente]
 spellcheck: true
 authors: 
     - yabellini
@@ -16,6 +16,10 @@ weight: 40
 tags:
   - Ediciones anteriores
 ---
+
+**Actualización:** Este es un curso no activo que dimos anteriormente y no está planeado reeditarlo por el momento, aquí dispones de todos los materiales por si quieres enseñarlo. 
+
+------
 
 {{% toc %}}
 
@@ -91,11 +95,6 @@ El taller tiene una duración de 3 horas con dos intervalos (preferentemente lej
 
 * Control de código
 * Automatización
-
-
-### ¿Cómo participar?
-
-Este es un curso no activo que dimos anteriormente y no está planeado reeditarlo por el momento, aquí dispones de todos los materiales por si quieres enseñarlo.
 
 
 ### Materiales del curso
