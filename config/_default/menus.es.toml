@@ -13,7 +13,7 @@ weight = 10
 #  parent = "Sobre MD"
 #    weight = 10
   [[main]]
-  name = "Propuesta"
+  name = "Sobre MetaDocencia"
   url = "authors/metadocencia/"
   parent = "Sobre MD"
     weight = 20
@@ -42,21 +42,26 @@ weight = 20
   url = "cursos/"
   parent = "Cursos"
     weight = 10
+  [[main]]
+  name = "Eventos"
+  url = "eventos/"
+  parent = "Cursos"
+    weight = 20
  # [[main]]
  # name = "Tipologías"
  # url = ""
  # parent = "Cursos"
- #   weight = 20
+ #   weight = 30
  # [[main]]
  # name = "Agenda"
  # url = ""
  # parent = "Cursos"
- #   weight = 30
+ #   weight = 40
   [[main]]
   name = "Inscripciones"
   url = ""
   parent = "Cursos"
-    weight = 40
+    weight = 50
   
 [[main]]
 name = "Apoyos"
@@ -74,7 +79,7 @@ weight = 30
     weight = 20
   [[main]]
   name = "Consultas"
-  url = ""
+  url = "#contacto"
   parent = "Apoyos"
     weight = 30
 
