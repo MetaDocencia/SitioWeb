@@ -25,9 +25,13 @@ subtitle = ""
   #  name = "Todos"
   #  tag = "*"
    
-[[content.filter_button]] name = "Próximos cursos" tag = "Próximos cursos"
-
-[[content.filter_button]] name = "Ediciones anteriores" tag = "Ediciones anteriores"
+  [[content.filter_button]]
+    name = "Próximos cursos"
+    tag = "Próximos cursos"
+    
+  [[content.filter_button]]
+    name = "Ediciones anteriores"
+    tag = "Ediciones anteriores"
 
 
 [design]
