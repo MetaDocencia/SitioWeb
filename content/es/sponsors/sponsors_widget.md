@@ -17,7 +17,7 @@
   
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
-  
+
   [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
@@ -76,7 +76,7 @@
     </figure>
   </div>
   
-</div><center>
+</div></center>
   
 
 ## Auspiciantes anteriores
@@ -104,4 +104,4 @@
   </div>
 
 </div>
-  <center>
+  </center>
