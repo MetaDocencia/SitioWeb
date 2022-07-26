@@ -4,9 +4,9 @@ draft: false
 image:
   caption: "[Photo por Liana Mikah en Unsplash](https://unsplash.com/photos/2t4Ji-nARqA)"
   alt_text: "Una manzana roja y un libro abierto sobre una canasta de picnic  Foto de Liana Mikah."
-linktitle: Club de Lectura de Enseñar Tecnología en Comunidad
+linktitle: Gobernanza
 summary: Serie de 8 encuentros para leer y charlar sobre el libro Enseñar Tecnología en Comunidad de Greg Wilson. 
-title: Club de Lectura de Enseñar Tecnología en Comunidad
+title: Gobernanza
 spellcheck: true
 authors: 
     - yabellini
@@ -15,7 +15,7 @@ authors:
 type: cursos
 weight: 50
 tags:
-  - Herramientas pedagógicas
+
 ---
 
 {{% toc %}}
