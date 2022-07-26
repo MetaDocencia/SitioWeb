@@ -6,6 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 5  # Order that this section will appear.
 
 title = "Cursos cortos para aprender a enseñar mejor"
+subtitle = "Ciclo de encuentros de gobernanza de MetaDocencia"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "hero_logo.png"
@@ -42,14 +43,17 @@ hero_media = "hero_logo.png"
  # icon_pack = "fas"
  # icon = "edit"
   
-[cta]
-  url = "/eventos/"
-  label = "Nuestros eventos"
+
+[cta] url = "https://docs.google.com/forms/u/2/d/e/1FAIpQLSfUHrL4F10zWwOuRKW0I8y-_7YT1p8PslzIk7jLBuoR41Hs-Q/viewform" label = "Registro" icon_pack = "fas" icon = "edit"
+
+[cta_alt] url = "/eventos/" label = "Nuestros eventos"
+
 
 # Note. An optional note to show underneath the links.
 # [cta_note]
 #   label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-Pronto estaremos comunicando nuestros próximos eventos. Si te interesa conocer más sobre nuestras propuestas educativas, accedé desde el siguiente enlace
+Participa de los conversatorios que guiarán el proceso de aprendizaje para construir colaborativamente nuestra forma de gobierno.
+
 
