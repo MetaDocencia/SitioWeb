@@ -57,11 +57,11 @@ weight = 20
  # url = ""
  # parent = "Cursos"
  #   weight = 40
-  [[main]]
-  name = "Inscripciones"
-  url = ""
-  parent = "Cursos"
-    weight = 50
+ # [[main]]
+ # name = "Inscripciones"
+ # url = ""
+ # parent = "Cursos"
+ #   weight = 50
   
 [[main]]
 name = "Apoyos"
@@ -79,7 +79,7 @@ weight = 30
     weight = 20
   [[main]]
   name = "Consultas"
-  url = "#contacto"
+  url = "#contact"
   parent = "Apoyos"
     weight = 30
 
@@ -94,7 +94,7 @@ weight = 30
     weight = 10
   [[main]]
     name = "Prensa"
-    url = "prensa2/"
+    url = "prensas/"
     parent = "Publicaciones"
     weight = 20
 
