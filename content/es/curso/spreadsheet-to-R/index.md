@@ -14,7 +14,7 @@ authors:
 type: cursos
 weight: 40
 tags:
-  - Herramientas tecnológicas
+  - Ediciones anteriores
 ---
 
 {{% toc %}}
