@@ -11,7 +11,7 @@ authors:
   - "MetaDocencia"
 type: cursos
 tags:
- - Herramientas tecnológicas
+ - Ediciones anteriores
 weight: 40
 ---
 
