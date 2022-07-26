@@ -62,6 +62,7 @@
 
 </br>
 <div class="row-sponsor">
+<div class="row">
 
   <div class="col-12 col-sm-auto">
      <figure>
@@ -82,12 +83,13 @@
 
   </div>
   
-</div>
+</div></div>
 </br></br></br>
 
 ## Auspiciantes anteriores
  </br>
-<div class="row-sponsor">
+ <div class="row-sponsor">
+<div class="row">
 
   <div class="col-12 col-sm-auto">
     <figure>
@@ -109,4 +111,4 @@
     </figure>
   </div>
 
-</div>
+</div></div>
