@@ -50,7 +50,7 @@
   
   [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "20px", "20px", "20px"]
+  padding = ["0px", "0px", "0px", "0px"]
   
   [advanced]
   # Custom CSS. 
@@ -59,4 +59,4 @@
   # CSS class.
   css_class = ""
 +++
-<script src="https://donorbox.org/widget.js" paypalExpress="true"></script><iframe src="https://donorbox.org/embed/metadocencia" name="donorbox" allowpaymentrequest="allowpaymentrequest" seamless="seamless" frameborder="0" scrolling="no" height="900px" width="100%" style="max-width: 500px; min-width: 250px; max-height:none!important"></iframe>
+<script src="https://donorbox.org/widget.js" paypalExpress="true"></script><iframe src="https://donorbox.org/embed/metadocencia" name="donorbox" allowpaymentrequest="allowpaymentrequest" seamless="seamless" frameborder="0" scrolling="no" height="900px" width="100%" style="max-width: 500px; min-width: 250px; max-height:none!important; "></iframe>
