@@ -23,7 +23,7 @@
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 5
+  view = 2
   
   [design.background]
   # Apply a background color, gradient, or image.
