@@ -33,14 +33,6 @@ subtitle = ""
   [[content.filter_button]]
     name = "Ediciones anteriores"
     tag = "Ediciones anteriores"
-
-  # Filter posts by a taxonomy term.
-  [content.filters]
-    tag = ""
-    category = ""
-    publication_type = ""
-    author = ""
-    exclude_featured = false
   
 [design]
   # Toggle between the various page layout types.
