@@ -30,8 +30,8 @@ subtitle = ""
     tag = "Próximos eventos"
     
   [[content.filter_button]]
-    name = "Ediciones anteriores"
-    tag = "Ediciones anteriores"
+    name = "Ediciones anteriores de eventos"
+    tag = "Ediciones anteriores de eventos"
 
 
 [design]
