@@ -3,7 +3,7 @@
   # Any elements can be added in the body: https://sourcethemes.com/academic/docs/writing-markdown-latex/
   # Add more sections by duplicating this file and customizing to your requirements.
   
-  widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
+  widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
   headless = true  # This file represents a page section.
   active = true  # Activate this widget? true/false
   weight = 60  # Order that this section will appear.
@@ -17,6 +17,13 @@
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = true
+
+  # Toggle between the various page layout types.
+  #   1 = List
+  #   2 = Compact
+  #   3 = Card
+  #   5 = Showcase
+  view = 5
   
   [design.background]
   # Apply a background color, gradient, or image.
