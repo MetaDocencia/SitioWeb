@@ -53,10 +53,15 @@
   css_class = ""
 +++
 
-
+<style>
+  .row-sponsor {
+    text-align:center;
+      width:100%;
+  }
+</style>
 
 </br>
-<div class="row">
+<div class="row-sponsor">
 
   <div class="col-12 col-sm-auto">
      <figure>
@@ -82,7 +87,7 @@
 
 ## Auspiciantes anteriores
  </br>
-<div class="row">
+<div class="row-sponsor">
 
   <div class="col-12 col-sm-auto">
     <figure>
