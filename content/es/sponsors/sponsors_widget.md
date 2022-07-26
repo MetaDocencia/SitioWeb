@@ -56,7 +56,7 @@
 
 
 
-<center><div class="row">
+<div class="row" align="center">
 
   <div class="col-12 col-sm-auto">
      <figure>
@@ -74,14 +74,14 @@
      <figure>
     <a href="https://codeforscience.org/" target="_blank" rel="noopener"><img src="/img/cs&s_logo_2022.png" alt="Code for Science & Society"></a>
     </figure>
+    
   </div>
   
-</div></center>
-  
+</div>
 
 ## Auspiciantes anteriores
  
-<center><div class="row">
+<div class="row" align="center">
 
   <div class="col-12 col-sm-auto">
     <figure>
@@ -104,4 +104,3 @@
   </div>
 
 </div>
-  </center>
