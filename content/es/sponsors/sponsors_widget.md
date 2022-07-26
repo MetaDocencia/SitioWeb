@@ -3,7 +3,7 @@
   # Any elements can be added in the body: https://sourcethemes.com/academic/docs/writing-markdown-latex/
   # Add more sections by duplicating this file and customizing to your requirements.
   
-  widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
+  widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
   headless = true  # This file represents a page section.
   active = true  # Activate this widget? true/false
   weight = 57  # Order that this section will appear.
@@ -55,7 +55,7 @@
 
 
 
-
+</br>
 <div class="row">
 
   <div class="col-12 col-sm-auto">
@@ -81,7 +81,7 @@
 </br></br></br>
 
 ## Auspiciantes anteriores
- 
+ </br>
 <div class="row">
 
   <div class="col-12 col-sm-auto">
