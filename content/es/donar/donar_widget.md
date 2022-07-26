@@ -3,7 +3,7 @@
   # Any elements can be added in the body: https://sourcethemes.com/academic/docs/writing-markdown-latex/
   # Add more sections by duplicating this file and customizing to your requirements.
   
-  widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
+  widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
   headless = true  # This file represents a page section.
   active = true  # Activate this widget? true/false
   weight = 60  # Order that this section will appear.
@@ -17,13 +17,6 @@
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = true
-
-  # Toggle between the various page layout types.
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   5 = Showcase
-  view = 2
   
   [design.background]
   # Apply a background color, gradient, or image.
@@ -59,4 +52,17 @@
   # CSS class.
   css_class = ""
 +++
-<script src="https://donorbox.org/widget.js" paypalExpress="true"></script><iframe src="https://donorbox.org/embed/metadocencia" name="donorbox" allowpaymentrequest="allowpaymentrequest" seamless="seamless" frameborder="0" scrolling="no" height="900px" width="100%" style="max-width: 500px; min-width: 250px; max-height:none!important; "></iframe>
+
+<style>
+  .iframe-donar {
+    text-align:center;
+      width:100%;
+  }
+</style>
+
+<div class="iframe-donar">
+  <!--iframe link is the link to the jsfiddle-->
+  <script src="https://donorbox.org/widget.js" paypalExpress="true"></script><iframe src="https://donorbox.org/embed/metadocencia" name="donorbox" allowpaymentrequest="allowpaymentrequest" seamless="seamless" frameborder="0" scrolling="no" height="900px" width="100%" style="max-width: 500px; min-width: 250px; max-height:none!important; "></iframe>
+</div>
+
+
