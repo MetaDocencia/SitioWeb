@@ -23,6 +23,17 @@ subtitle = ""
   # Page order. Descending (desc) or ascending (asc) date.
   order = "desc"
 
+  # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
+  filter_default = 0
+   
+  [[content.filter_button]]
+    name = "Próximos eventos"
+    tag = "Próximos eventos"
+    
+  [[content.filter_button]]
+    name = "Ediciones anteriores"
+    tag = "Ediciones anteriores"
+
   # Filter posts by a taxonomy term.
   [content.filters]
     tag = ""

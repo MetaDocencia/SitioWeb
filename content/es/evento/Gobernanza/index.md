@@ -15,7 +15,7 @@ authors:
 type: cursos
 weight: 50
 tags:
-
+- próximos eventos
 ---
 
 {{% toc %}}
