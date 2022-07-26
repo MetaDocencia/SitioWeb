@@ -3,15 +3,15 @@
 
 <div class="row">
   {{ if ne $columns "1" }}
-    <div class="col-12 col-lg-4 section-heading">
+    <div class="text-center section-heading">
       {{ with $st.Title }}<h1>{{ . | markdownify | emojify }}</h1>{{ end }}
       {{ with $st.Params.subtitle }}<p>{{ . | markdownify | emojify }}</p>{{ end }}
     </div>
-    <div class="col-12 col-lg-8">
+    <div class="text-center">
       {{ $st.Content }}
     </div>
   {{ else }}
-    <div class="col-lg-12">
+    <div class="text-center">
       {{ with $st.Title }}<h1>{{ . | markdownify | emojify }}</h1>{{ end }}
       {{ with $st.Params.subtitle }}<p>{{ . | markdownify | emojify }}</p>{{ end }}
       {{ $st.Content }}
