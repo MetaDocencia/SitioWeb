@@ -3,7 +3,7 @@
   # Any elements can be added in the body: https://sourcethemes.com/academic/docs/writing-markdown-latex/
   # Add more sections by duplicating this file and customizing to your requirements.
   
-  widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
+  widget = "custom"  # See https://sourcethemes.com/academic/docs/page-builder/
   headless = true  # This file represents a page section.
   active = true  # Activate this widget? true/false
   weight = 57  # Order that this section will appear.
@@ -56,7 +56,7 @@
 
 
 
-<div class="row" align="center">
+<div class="row">
 
   <div class="col-12 col-sm-auto">
      <figure>
@@ -74,14 +74,15 @@
      <figure>
     <a href="https://codeforscience.org/" target="_blank" rel="noopener"><img src="/img/cs&s_logo_2022.png" alt="Code for Science & Society"></a>
     </figure>
-    
+
   </div>
   
 </div>
+</br>
 
 ## Auspiciantes anteriores
  
-<div class="row" align="center">
+<div class="row">
 
   <div class="col-12 col-sm-auto">
     <figure>
