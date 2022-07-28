@@ -13,7 +13,7 @@ education:
   - course: Licenciate in Psychology
     institution: University of Buenos Aires
     year: 2008
-email: "jesica.formoso@gmail.com"
+email: "jesica.formoso@metadocencia.org"
 interests:
 - Data Science
 - Open Science
