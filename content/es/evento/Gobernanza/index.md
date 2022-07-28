@@ -13,7 +13,7 @@ authors:
 type: 
 weight: 50
 tags:
-- Conversatorios anteriores
+  - Conversatorios anteriores
 ---
 
 {{% toc %}}
