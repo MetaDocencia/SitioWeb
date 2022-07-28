@@ -10,7 +10,6 @@ summary: Ciclo de Encuentros de Gobernanza para contribuir a la elaboración col
 title: Gobernanza
 spellcheck: true
 authors: 
-    
 type: 
 weight: 50
 tags:
