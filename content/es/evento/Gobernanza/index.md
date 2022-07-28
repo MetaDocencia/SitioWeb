@@ -2,39 +2,35 @@
 date: "2022-07-20"
 draft: false
 image:
-  caption: "[Agenda de conversatorios sobre gobernanza](/evento/gobernanza/GobernanzaMD_agenda.jpg)"
-  alt_text: "Agenda con fechas, horas y temas que se trabajarán en cada uno de los encuentros de gobernanza"
-linktitle: Gobernanza
-summary: Entre julio y octubre de 2022 realizaremos 8 conversatorios que tienen como objetivo contribuir a la elaboración colaborativa de nuestra gobernanza. 
+  caption: "[Conversatorio 1 del ciclo de encuentros sobre gobernanza](https://www.metadocencia.org/content/es/evento/Gobernanza/GobernanzaMD_agenda.jpg)"
+  alt_text: "Ciclo de Encuentros de Gobernanza, Conversatorio 1. MetaDocencia: pensar colaborativamente nuestra Gobernanza. Miércoles 20/07 a las 17 hs. (UTC-3).
+Coordinan Laura Ación y Nicolás Palopoli."
+linktitle: Conversatorio 1
+summary: Ciclo de Encuentros de Gobernanza para contribuir a la elaboración colaborativa de la gobernanza de MetaDocencia
 title: Gobernanza
 spellcheck: true
 authors: 
     
-type: cursos
+type: 
 weight: 50
 tags:
-- Próximos eventos
+- Conversatorios anteriores
 ---
 
 {{% toc %}}
 
-Entre julio y octubre de 2022 realizaremos **ocho conversatorios** que tienen como objetivo contribuir a la elaboración colaborativa de nuestra gobernanza. En estos encuentros conversaremos con especialistas en gobernanza y referentes de organizaciones y proyectos vinculados a la educación y el conocimiento abierto. Estas reuniones aportarán a un modelo de organización como el que deseamos para MetaDocencia, pensado desde y para nuestro contexto cultural y regional.
+El primer conversatorio se llevó a cabo el miércoles 20 de julio de 17 a 18. Estuvo coordinado por Laura Ación y Nicolás Palopoli, quienes tienen a su cargo la coordinación general de MetaDocencia. 
 
-Te invitamos a participar de las conversaciones, debates y reflexiones que guiarán este proceso de aprendizaje, para que nuestra forma de gobierno sea otro hito de nuestra trayectoria construida en comunidad. 
+### Materiales del evento
 
-Ciclo de encuentros y temas programados:
+* [Presentación](https://docs.google.com/presentation/d/1RnoD3inpMVZ5VhHli3sb5nAUtWwVY8qwmBBqtb0Ql6I/edit?usp=sharing)
+* [Video](https://youtu.be/SotP_QwBDj8)
 
-|  Día/hora (UTC-3) | Tema |
-| ---:  | :----------- |
-|Mié 20/07 - 17 a 18 | *MetaDocencia: pensar colaborativamente nuestra gobernanza* | 
-|Mié 03/08 - 17 a 18 | *Beatriz Busaniche - La experiencia de la Fundación Vía Libre* | 
-|Mié 17/08 - 17 a 18 | *Fabrizio Scrollini - Gobernanza y datos abiertos: la experiencia ILDA* |
-|Mié 31/08 - 17 a 18 | *Gobernanza en comunidad: interseccionalidad y representatividad* |
-|Mié 14/09 - 17 a 18 | *Los aspectos normativos de la gobernanza* |
-|Mié 28/09 - 17 a 18 | *Gobernanza e innovación educativa* |
-|Mié 12/10 - 17 a 18 | *Gobernar en entornos complejos, flexibles y cambiantes* |
-|Mié 26/10 - 17 a 18 | *La gobernanza de MetaDocencia en proceso* |
+### ¡Sírvete sin culpa!
 
+Nuestros materiales están disponibles en forma gratuita bajo esta [licencia](https://creativecommons.org/licenses/by/4.0/deed.es). Es decir, puedes reusar o editar cualquier material que aparece acá, lo único que pedimos a cambio es que cuando tomes material de acá incluyas una referencia a esta página web.
+
+[Ver los próximos eventos](https://deploy-preview-101--metadocencia.netlify.app/eventos/) 
 **> [Formulario de registro para asistir a los eventos](https://docs.google.com/forms/d/e/1FAIpQLSfUHrL4F10zWwOuRKW0I8y-_7YT1p8PslzIk7jLBuoR41Hs-Q/viewform)**
 
 *Todos los datos se manejarán en forma confidencial, sólo podrán ser publicados de forma agregada y anonimizada en reportes sobre el alcance de MetaDocencia.*
