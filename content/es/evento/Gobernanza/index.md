@@ -8,9 +8,9 @@ Coordinan Laura Ación y Nicolás Palopoli."
 linktitle: Conversatorio 1
 summary: Ciclo de Encuentros de Gobernanza para contribuir a la elaboración colaborativa de la gobernanza de MetaDocencia
 title: Gobernanza
-spellcheck: true
-authors: 
-type: 
+authors:
+  - MetaDocencia
+type: eventos
 weight: 50
 tags:
   - Conversatorios anteriores
