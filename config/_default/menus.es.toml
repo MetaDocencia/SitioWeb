@@ -13,7 +13,7 @@ weight = 10
 #  parent = "Sobre MD"
 #    weight = 10
   [[main]]
-  name = "Sobre MetaDocencia"
+  name = "Misión y Visión"
   url = "authors/metadocencia/"
   parent = "Sobre MD"
     weight = 20
@@ -34,11 +34,11 @@ weight = 10
     weight = 50
   
 [[main]]
-name = "Cursos"
+name = "Propuestas"
 url = ""
 weight = 20
   [[main]]
-  name = "Propuestas"
+  name = "Cursos"
   url = "cursos/"
   parent = "Cursos"
     weight = 10

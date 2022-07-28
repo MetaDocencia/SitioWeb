@@ -5,7 +5,9 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 5  # Order that this section will appear.
 
-title = "Cursos cortos para aprender a enseñar mejor"
+# title = "Cursos cortos para aprender a enseñar mejor"
+
+title = "Ciclo de encuentros de gobernanza de MetaDocencia"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "hero_logo.png"
@@ -43,8 +45,8 @@ hero_media = "hero_logo.png"
  icon = "edit"
 
 [cta_alt] 
-url = "/eventos/" 
-label = "Nuestros eventos"
+url = "/cursos/" 
+label = "Nuestros cursos"
 
 
 # Note. An optional note to show underneath the links.
@@ -52,8 +54,6 @@ label = "Nuestros eventos"
 #   label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-<h3>Evento vigente:</h3>
-<h2>Ciclo de encuentros de gobernanza de MetaDocencia</h2>
 
 Participa de los conversatorios que guiarán el proceso de aprendizaje para construir colaborativamente nuestra forma de gobierno.
 
