@@ -30,8 +30,8 @@ subtitle = ""
     tag = "Próximos eventos"
     
   [[content.filter_button]]
-    name = "Ediciones anteriores de eventos"
-    tag = "Ediciones anteriores de eventos"
+    name = "Conversatorios anteriores"
+    tag = "Conversatorios anteriores"
 
 
 [design]
@@ -76,9 +76,24 @@ subtitle = ""
 +++
 
 
+Entre julio y octubre de 2022 realizaremos **ocho conversatorios** que tienen como objetivo contribuir a la elaboración colaborativa de nuestra gobernanza. En estos encuentros conversaremos con especialistas en gobernanza y referentes de organizaciones y proyectos vinculados a la educación y el conocimiento abierto. Estas reuniones aportarán a un modelo de organización como el que deseamos para MetaDocencia, pensado desde y para nuestro contexto cultural y regional.
 
-Nuestra propuesta –remota y totalmente gratuita– se desarrolla a través de la plataforma Zoom. Es útil para todo tipo de intercambios que facilitan la formación e intercambio de conocimiento entre quienes asistan a nuestros talleres, charlas y seminarios, entre varios de los formatos que ofrecemos.
+Te invitamos a participar de las conversaciones, debates y reflexiones que guiarán este proceso de aprendizaje, para que nuestra forma de gobierno sea otro hito de nuestra trayectoria construida en comunidad. 
 
-Para participar, completa el formulario de preinscripción dentro de cada propuesta. Una vez que realices la preinscripción, recibirás un email con todas las indicaciones para que puedas sumarte al curso online.
+Ciclo de encuentros y temas programados:
 
-Si tienes inquietudes adicionales sobre capacitación, escríbenos a info@metadocencia.org
+|  Día/hora (UTC-3) | Tema |
+| ---:  | :----------- |
+|Mié 20/07 - 17 a 18 | *MetaDocencia: pensar colaborativamente nuestra gobernanza* | 
+|Mié 03/08 - 17 a 18 | *Beatriz Busaniche - La experiencia de la Fundación Vía Libre* | 
+|Mié 17/08 - 17 a 18 | *Fabrizio Scrollini - Gobernanza y datos abiertos: la experiencia ILDA* |
+|Mié 31/08 - 17 a 18 | *Gobernanza en comunidad: interseccionalidad y representatividad* |
+|Mié 14/09 - 17 a 18 | *Los aspectos normativos de la gobernanza* |
+|Mié 28/09 - 17 a 18 | *Gobernanza e innovación educativa* |
+|Mié 12/10 - 17 a 18 | *Gobernar en entornos complejos, flexibles y cambiantes* |
+|Mié 26/10 - 17 a 18 | *La gobernanza de MetaDocencia en proceso* |
+
+**> [Formulario de registro para asistir a los eventos](https://docs.google.com/forms/d/e/1FAIpQLSfUHrL4F10zWwOuRKW0I8y-_7YT1p8PslzIk7jLBuoR41Hs-Q/viewform)**
+
+*Todos los datos se manejarán en forma confidencial, sólo podrán ser publicados de forma agregada y anonimizada en reportes sobre el alcance de MetaDocencia.*
+
