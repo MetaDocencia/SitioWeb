@@ -84,14 +84,14 @@ Ciclo de encuentros y temas programados:
 
 |  Día/hora (UTC-3) | Tema |
 | ---:  | :----------- |
-|Mié 20/07 - 17 a 18 | *MetaDocencia: pensar colaborativamente nuestra gobernanza* | 
-|Mié 03/08 - 17 a 18 | *Beatriz Busaniche - La experiencia de la Fundación Vía Libre* | 
-|Mié 17/08 - 17 a 18 | *Fabrizio Scrollini - Gobernanza y datos abiertos: la experiencia ILDA* |
-|Mié 31/08 - 17 a 18 | *Gobernanza en comunidad: interseccionalidad y representatividad* |
-|Mié 14/09 - 17 a 18 | *Los aspectos normativos de la gobernanza* |
-|Mié 28/09 - 17 a 18 | *Gobernanza e innovación educativa* |
-|Mié 12/10 - 17 a 18 | *Gobernar en entornos complejos, flexibles y cambiantes* |
-|Mié 26/10 - 17 a 18 | *La gobernanza de MetaDocencia en proceso* |
+|Mié 20-07 - 17 a 18 | *MetaDocencia: pensar colaborativamente nuestra gobernanza* | 
+|Mié 03-08 - 17 a 18 | *Beatriz Busaniche - La experiencia de la Fundación Vía Libre* | 
+|Mié 17-08 - 17 a 18 | *Fabrizio Scrollini - Gobernanza y datos abiertos: la experiencia ILDA* |
+|Mié 31-08 - 17 a 18 | *Gobernanza en comunidad: interseccionalidad y representatividad* |
+|Mié 14-09 - 17 a 18 | *Los aspectos normativos de la gobernanza* |
+|Mié 28-09 - 17 a 18 | *Gobernanza e innovación educativa* |
+|Mié 12-10 - 17 a 18 | *Gobernar en entornos complejos, flexibles y cambiantes* |
+|Mié 26-10 - 17 a 18 | *La gobernanza de MetaDocencia en proceso* |
 
 **> [Formulario de registro para asistir a los eventos](https://docs.google.com/forms/d/e/1FAIpQLSfUHrL4F10zWwOuRKW0I8y-_7YT1p8PslzIk7jLBuoR41Hs-Q/viewform)**
 
