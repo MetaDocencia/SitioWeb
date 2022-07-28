@@ -6,7 +6,7 @@ image:
   alt_text: "Ciclo de Encuentros de Gobernanza, Conversatorio 1. MetaDocencia: pensar colaborativamente nuestra Gobernanza. Miércoles 20/07 a las 17 hs. (UTC-3).
 Coordinan Laura Ación y Nicolás Palopoli."
 linktitle: Conversatorio 1
-summary: Ciclo de Encuentros de Gobernanza para contribuir a la elaboración colaborativa de la gobernanza de MetaDocencia
+summary: Primero encuentro para contribuir a la elaboración colaborativa de la gobernanza de MetaDocencia
 title: Conversatorio 1
 authors:
   - MetaDocencia
