@@ -40,12 +40,12 @@ weight = 20
   [[main]]
   name = "Cursos"
   url = "cursos/"
-  parent = "Cursos"
+  parent = "Propuestas"
     weight = 10
   [[main]]
   name = "Eventos"
   url = "eventos/"
-  parent = "Cursos"
+  parent = "Propuestas"
     weight = 20
  # [[main]]
  # name = "Tipologías"
