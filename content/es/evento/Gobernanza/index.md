@@ -18,7 +18,7 @@ tags:
 
 {{% toc %}}
 
-entre julio y octubre de 2022 realizaremos **ocho conversatorios** que tienen como objetivo contribuir a la elaboración colaborativa de nuestra gobernanza. En estos encuentros conversaremos con especialistas en gobernanza y referentes de organizaciones y proyectos vinculados a la educación y el conocimiento abierto. Estas reuniones aportarán a un modelo de organización como el que deseamos para MetaDocencia, pensado desde y para nuestro contexto cultural y regional.
+Entre julio y octubre de 2022 realizaremos **ocho conversatorios** que tienen como objetivo contribuir a la elaboración colaborativa de nuestra gobernanza. En estos encuentros conversaremos con especialistas en gobernanza y referentes de organizaciones y proyectos vinculados a la educación y el conocimiento abierto. Estas reuniones aportarán a un modelo de organización como el que deseamos para MetaDocencia, pensado desde y para nuestro contexto cultural y regional.
 
 Te invitamos a participar de las conversaciones, debates y reflexiones que guiarán este proceso de aprendizaje, para que nuestra forma de gobierno sea otro hito de nuestra trayectoria construida en comunidad. 
 
