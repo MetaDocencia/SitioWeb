@@ -10,7 +10,7 @@ summary: Primero encuentro para contribuir a la elaboración colaborativa de la 
 title: Conversatorio 1
 authors:
   - MetaDocencia
-toc: false
+tableOfContents: false
 type: eventos
 weight: 50
 tags:
