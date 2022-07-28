@@ -2,7 +2,7 @@
 date: "2022-07-20"
 draft: false
 image:
-  caption: "[Agenda de conversatorios sobre gobernanza](https://deploy-preview-101--metadocencia.netlify.app/evento/gobernanza/GobernanzaMD_agenda.jpg)"
+  caption: "[Agenda de conversatorios sobre gobernanza](evento/gobernanza/GobernanzaMD_agenda.jpg)"
   alt_text: "Agenda con fechas, horas y temas que se trabajarán en cada uno de los encuentros de gobernanza"
 linktitle: Gobernanza
 summary: Entre julio y octubre de 2022 realizaremos 8 conversatorios que tienen como objetivo contribuir a la elaboración colaborativa de nuestra gobernanza. 
