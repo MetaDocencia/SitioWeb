@@ -29,9 +29,9 @@ El encuentro se propuso presentar el ciclo de conversaciones y la modalidad de t
 * [Presentación](https://docs.google.com/presentation/d/1RnoD3inpMVZ5VhHli3sb5nAUtWwVY8qwmBBqtb0Ql6I/edit?usp=sharing)
 * [Video](https://youtu.be/SotP_QwBDj8)
 * Lecturas propuestas: 
-- [The Tyranny of Structurelessness, por Jo Freeman](https://www.jofreeman.com/joreen/tyranny.htm)
-- [La tiranía de la falta de estructura, traducción del Partido Pirata de Argentina](https://utopia.partidopirata.com.ar/la_tirania_de_la_falta_de_estructuras.html)
-- [Elinor Ostrom’s work on Governing The Commons: An Appreciation, por Win Grant (en inglés)](https://blogs.lse.ac.uk/lsereviewofbooks/2012/06/17/elinor-ostroms-work-on-governing-the-commons-an-appreciation/)
+*** [The Tyranny of Structurelessness, por Jo Freeman](https://www.jofreeman.com/joreen/tyranny.htm)
+*** [La tiranía de la falta de estructura, traducción del Partido Pirata de Argentina](https://utopia.partidopirata.com.ar/la_tirania_de_la_falta_de_estructuras.html)
+*** [Elinor Ostrom’s work on Governing The Commons: An Appreciation, por Win Grant (en inglés)](https://blogs.lse.ac.uk/lsereviewofbooks/2012/06/17/elinor-ostroms-work-on-governing-the-commons-an-appreciation/)
 
 ### ¡Sírvete sin culpa!
 
