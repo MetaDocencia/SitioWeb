@@ -16,7 +16,7 @@ tags:
   - Conversatorios anteriores
 ---
 
-{{/* % toc % */}}
+{{%/* toc */%}}
 
 El primer conversatorio se llevó a cabo el miércoles 20 de julio de 17 a 18. Estuvo coordinado por Laura Ación y Nicolás Palopoli, quienes tienen a su cargo la coordinación general de MetaDocencia. 
 
