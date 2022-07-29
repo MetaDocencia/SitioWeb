@@ -5,8 +5,8 @@ image:
   caption: "[Conversatorio 2 del ciclo de encuentros sobre gobernanza](https://www.metadocencia.org/content/es/evento/Gobernanza/GobernanzaMD_agenda.jpg)"
   alt_text: "Ciclo de Encuentros de Gobernanza, Conversatorio 2. Beatriz Busaniche - La experiencia de la Fundación Vía Libre. Miércoles 03/08 a las 17 hs. (UTC-3).
 Coordinan Laura Ación y Nicolás Palopoli."
-linktitle: Conversatorio 2
-summary: Segundo encuentro para contribuir a la elaboración colaborativa de la gobernanza de MetaDocencia
+linktitle: 03/08 17 (UTC-3) Conversatorio 2
+summary: Beatriz Busaniche - La experiencia de la Fundación Vía Libre
 title: Conversatorio 2
 authors:
   - MetaDocencia
@@ -18,16 +18,15 @@ tags:
 
 <!--- placeholder -->
 
-El primer conversatorio se llevó a cabo el miércoles 20 de julio de 17 a 18. Estuvo coordinado por Laura Ación y Nicolás Palopoli, quienes tienen a su cargo la coordinación general de MetaDocencia. 
+### Sobre el evento
 
-### Materiales del evento
+En el segundo conversatorio del Ciclo de encuentros de gobernanza, nos proponemos aprender de la experiencia de Bea Busaniche y su trayectoria en la Fundación Vía Libre; comprender las dinámicas de trabajo y de toma de decisiones en la FVL, el trabajo con la comunidad y la implementación de los distintos proyectos.
 
-* [Presentación](https://docs.google.com/presentation/d/1RnoD3inpMVZ5VhHli3sb5nAUtWwVY8qwmBBqtb0Ql6I/edit?usp=sharing)
-* [Video](https://youtu.be/SotP_QwBDj8)
+* [Inscripción]([https://docs.google.com/presentation/d/1RnoD3inpMVZ5VhHli3sb5nAUtWwVY8qwmBBqtb0Ql6I/edit?usp=sharing](https://docs.google.com/forms/d/e/1FAIpQLSfUHrL4F10zWwOuRKW0I8y-_7YT1p8PslzIk7jLBuoR41Hs-Q/viewform))
 
-### ¡Sírvete sin culpa!
+### Sobre la invitada
 
-Nuestros materiales están disponibles en forma gratuita bajo esta [licencia](https://creativecommons.org/licenses/by/4.0/deed.es). Es decir, puedes reusar o editar cualquier material que aparece acá, lo único que pedimos a cambio es que cuando tomes material de acá incluyas una referencia a esta página web.
+Beatriz Busaniche es Licenciada en Ciencias de la Comunicación de la Universidad Nacional de Rosario y Magister en Propiedad Intelectual de Flacso.  Es docente en grado y posgrado en la Universidad de Buenos Aires en las Facultades de Ciencias Sociales, Filosofía y Letras, Derecho y Ciencias Económicas.  Desde el 2003 forma parte de la Fundación Vía Libre, organización civil sin fines de lucro que trabaja en la intersección de Derechos Humanos y Tecnologías de información y Comunicación.
 
 ** [Ver los próximos eventos](https://deploy-preview-101--metadocencia.netlify.app/eventos/)**
 
