@@ -18,6 +18,8 @@ tags:
 
 <!--- placeholder -->
 
+![jpg](./GobernanzaMD1.jpg)
+
 ### Sobre el conversatorio
 
 El primer conversatorio se llevó a cabo el **miércoles 20 de julio de 17 a 18 (UTC-3)**. Estuvo coordinado por [Laura Ación](https://www.metadocencia.org/authors/lacion/) y [Nicolas Palopoli](https://www.metadocencia.org/authors/npalopoli/), quienes tienen a su cargo la coordinación general de MetaDocencia.
