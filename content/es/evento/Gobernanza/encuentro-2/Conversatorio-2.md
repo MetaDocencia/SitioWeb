@@ -26,7 +26,7 @@ El encuentro se llevará a cabo el **miércoles 3 de agosto de 17 a 18 (UTC-3)**
 
 Estos encuentros ofrecen una oportunidad de intercambio y aprendizaje, para nutrirnos entre comunidades con nuestras experiencias y procesos.
 
-**[Inscripción a este y los demás eventos](https://docs.google.com/forms/d/e/1FAIpQLSfUHrL4F10zWwOuRKW0I8y-_7YT1p8PslzIk7jLBuoR41Hs-Q/viewform)**
+** **[Inscripción a este y los demás eventos](https://docs.google.com/forms/d/e/1FAIpQLSfUHrL4F10zWwOuRKW0I8y-_7YT1p8PslzIk7jLBuoR41Hs-Q/viewform)** **
 
 ### Sobre la invitada
 
