@@ -18,7 +18,7 @@ tags:
 
 <!--- placeholder -->
 
-![jpg](./GobernanzaMD1.jpg)
+![](./GobernanzaMD1.jpg)
 
 ### Sobre el conversatorio
 
