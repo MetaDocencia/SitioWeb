@@ -25,7 +25,8 @@ En el segundo conversatorio del **Ciclo de encuentros de gobernanza**, nos propo
 El encuentro se llevará a cabo el **miércoles 3 de agosto de 17 a 18 (UTC-3)** y estará guiado por [Laura Ación](https://www.metadocencia.org/authors/lacion/) y [Nicolas Palopoli](https://www.metadocencia.org/authors/npalopoli/), quienes tienen a su cargo la coordinación general de MetaDocencia.
 
 Estos encuentros ofrecen una oportunidad de intercambio y aprendizaje, para nutrirnos entre comunidades con nuestras experiencias y procesos.
-* [Inscripción a este y los demás eventos]([https://docs.google.com/presentation/d/1RnoD3inpMVZ5VhHli3sb5nAUtWwVY8qwmBBqtb0Ql6I/edit?usp=sharing](https://docs.google.com/forms/d/e/1FAIpQLSfUHrL4F10zWwOuRKW0I8y-_7YT1p8PslzIk7jLBuoR41Hs-Q/viewform))
+
+**[Inscripción a este y los demás eventos]**([https://docs.google.com/presentation/d/1RnoD3inpMVZ5VhHli3sb5nAUtWwVY8qwmBBqtb0Ql6I/edit?usp=sharing](https://docs.google.com/forms/d/e/1FAIpQLSfUHrL4F10zWwOuRKW0I8y-_7YT1p8PslzIk7jLBuoR41Hs-Q/viewform))
 
 ### Sobre la invitada
 
