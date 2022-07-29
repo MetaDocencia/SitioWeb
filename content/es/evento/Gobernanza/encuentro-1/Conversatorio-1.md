@@ -7,7 +7,7 @@ image:
 Coordinan Laura Ación y Nicolás Palopoli."
 linktitle: Conversatorio 1
 summary: Conversatorio 1 - 20/07 17 hs. (UTC-3). 
-title: MetaDocencia: pensar colaborativamente nuestra Gobernanza - Laura Ación y Nicolás Palopoli
+title: "MetaDocencia: pensar colaborativamente nuestra Gobernanza - Laura Ación y Nicolás Palopoli"
 authors:
   - MetaDocencia
 type: eventos
