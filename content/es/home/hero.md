@@ -45,8 +45,8 @@ hero_media = "hero_logo.png"
  icon = "edit"
 
 [cta_alt] 
-url = "/cursos/" 
-label = "Nuestros cursos"
+url = "/eventos/" 
+label = "Ver eventos"
 
 
 # Note. An optional note to show underneath the links.
