@@ -5,10 +5,13 @@ bio: ""
 education:
   courses:
   - course: Technician in library science.
-    institution:  
+    institution: UCSE-DABA 
     year: 
 email: ""
 interests:
+- Library science
+- Education
+- Technology
 name: Irene Vazano
 organizations:
 - name: 
@@ -29,5 +32,5 @@ user_groups:
 - Contributors
 ---
 
-
+Advanced student of Library Science with work experience in academic libraries and technology. She participates in digital projects involving administration and accessibility. Certified instructor by The Carpentries. Irene is part of MetaDocencia since 2020.
 

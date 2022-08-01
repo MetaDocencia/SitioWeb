@@ -53,7 +53,7 @@ Nuestros cursos ayudan a mejorar el aprendizaje en clases (y otros eventos de in
 
 Además, aspiramos a formar una comunidad docente de intercambio de saberes transversal. Sabemos, y la evidencia también lo respalda, que se obtienen mejores resultados cuando enseñamos en comunidad.
 
-Otorgarmos certificados de asistencia a cada curso en formato digital para aquellas personas que participaron en al menos el 80% del curso. 
+Otorgamos certificados de asistencia a cada curso en formato digital para aquellas personas que participaron en al menos el 80% del curso. 
 
 ## ¿Qué **no** ofrecemos?
 
