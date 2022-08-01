@@ -5,7 +5,7 @@
   
   widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
   headless = true  # This file represents a page section.
-  active = false  # Activate this widget? true/false
+  active = true  # Activate this widget? true/false
   weight = 60  # Order that this section will appear.
   
   title = "Donar"
@@ -13,7 +13,10 @@
   
   [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  columns = "1"
+
+  # For Showcase view, flip alternate rows?
+  flip_alt_rows = true
   
   [design.background]
   # Apply a background color, gradient, or image.
@@ -40,7 +43,7 @@
   
   [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "0", "20px", "0"]
+  padding = ["0px", "0px", "0px", "0px"]
   
   [advanced]
   # Custom CSS. 
@@ -49,7 +52,16 @@
   # CSS class.
   css_class = ""
 +++
+</br> </br> 
+<style>
+  .iframe-donar {
+    text-align:center;
+      width:100%;
+  }
+</style>
 
-
-
-<script src="https://donorbox.org/widget.js" paypalExpress="true"></script><iframe src="https://donorbox.org/embed/metadocencia" name="donorbox" allowpaymentrequest="allowpaymentrequest" seamless="seamless" frameborder="0" scrolling="no" height="900px" width="100%" style="max-width: 500px; min-width: 250px; max-height:none!important"></iframe>
+</br> </br> 
+<div class="iframe-donar">
+  <!--iframe link is the link to the jsfiddle-->
+  <script src="https://donorbox.org/widget.js" paypalExpress="true"></script><iframe src="https://donorbox.org/embed/metadocencia" name="donorbox" allowpaymentrequest="allowpaymentrequest" seamless="seamless" frameborder="0" scrolling="no" height="900px" width="100%" style="max-width: 500px; min-width: 250px; max-height:none!important; "></iframe>
+</div>

@@ -5,7 +5,9 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 5  # Order that this section will appear.
 
-title = "Cursos cortos para aprender a enseñar mejor"
+# title = "Cursos cortos para aprender a enseñar mejor"
+
+title = "Ciclo de encuentros de gobernanza de MetaDocencia"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "hero_logo.png"
@@ -36,15 +38,16 @@ hero_media = "hero_logo.png"
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
-[cta]
-  url = "https://docs.google.com/forms/d/e/1FAIpQLScC20Me-fX7UmCNhNswulYfOVQF4XiyIHgtde_R8CWreCmWhA/viewform?usp=sf_link"
-  label = "Registro"
-  icon_pack = "fas"
-  icon = "edit"
-  
-[cta_alt]
-  url = "/cursos/"
-  label = "Nuestros cursos"
+ [cta]
+ url = "https://docs.google.com/forms/u/2/d/e/1FAIpQLSfUHrL4F10zWwOuRKW0I8y-_7YT1p8PslzIk7jLBuoR41Hs-Q/viewform"
+ label = "Registro"
+ icon_pack = "fas"
+ icon = "edit"
+
+[cta_alt] 
+url = "/eventos/" 
+label = "Ver eventos"
+
 
 # Note. An optional note to show underneath the links.
 # [cta_note]
@@ -52,6 +55,6 @@ hero_media = "hero_logo.png"
 +++
 
 
+Participa de los conversatorios que guiarán el proceso de aprendizaje para construir colaborativamente nuestra forma de gobierno.
 
-Para participar de nuestros cursos, completa el formulario de registro. En unos días te contactaremos con una propuesta horaria. 
 
