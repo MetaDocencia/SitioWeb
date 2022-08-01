@@ -29,15 +29,14 @@
   url = "eventos"
   weight = 55
   
-  
 [[main]]
   name = "Prensa"
-  url = "#prensa"
+  url = "prensas"
   weight = 56
 
 [[main]]
   name = "Auspiciantes"
-  url = "#sponsors"
+  url = "sponsors"
   weight = 57
 
 
@@ -48,7 +47,7 @@
 
 [[main]]
   name = "Donar"
-  url = "#donar"
+  url = "donar"
   weight = 65
 
 # Link to a PDF of your resume/CV from the menu.
