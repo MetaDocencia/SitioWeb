@@ -11,7 +11,7 @@ authors:
   - "MetaDocencia"
 type: cursos
 tags:
- - Próximos cursos
+ - Ediciones anteriores
 weight: 40
 ---
 

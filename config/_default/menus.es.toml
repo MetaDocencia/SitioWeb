@@ -24,16 +24,16 @@
   url = "#publicaciones"
   weight = 30
 
-# [[main]]
-#  name = "Agradecimientos"
-#  url = "#agradecimientos"
-#  weight = 56
+ [[main]]
+  name = "Eventos"
+  url = "eventos"
+  weight = 55
   
   
 [[main]]
   name = "Prensa"
   url = "#prensa"
-  weight = 55
+  weight = 56
 
 [[main]]
   name = "Auspiciantes"

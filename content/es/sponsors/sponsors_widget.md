@@ -5,7 +5,7 @@
   
   widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
   headless = true  # This file represents a page section.
-  active = false  # Activate this widget? true/false
+  active = true  # Activate this widget? true/false
   weight = 57  # Order that this section will appear.
   
   title = "Auspiciantes"
@@ -15,6 +15,9 @@
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
   
+  # For Showcase view, flip alternate rows?
+  flip_alt_rows = false
+
   [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
@@ -50,9 +53,15 @@
   css_class = ""
 +++
 
+<style>
+  .row-sponsor {
+    text-align:center;
+      width:100%;
+  }
+</style>
 
-
-
+</br>
+<div class="row-sponsor">
 <div class="row">
 
   <div class="col-12 col-sm-auto">
@@ -71,13 +80,15 @@
      <figure>
     <a href="https://codeforscience.org/" target="_blank" rel="noopener"><img src="/img/cs&s_logo_2022.png" alt="Code for Science & Society"></a>
     </figure>
+
   </div>
   
-</div>
-  
+</div></div>
+</br></br></br>
 
 ## Auspiciantes anteriores
- 
+ </br>
+ <div class="row-sponsor">
 <div class="row">
 
   <div class="col-12 col-sm-auto">
@@ -100,5 +111,4 @@
     </figure>
   </div>
 
-</div>
-  
+</div></div>
