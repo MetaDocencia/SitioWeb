@@ -6,7 +6,7 @@ image:
   alt_text: "1 manzana roja y 2 manzanas verdes sobre una mesa, foto tomada por Benjamin Wong"
 linktitle: Generando tutoriales interactivos con el paquete {learnr}
 summary: Aprende como usar {learnr} para construir tutoriales interactivos con R.  Curso en desarrollo.
-title: Generando tutoriales interactivos con el paquete {learnr}
+title: Generando tutoriales interactivos con el paquete {learnr} [No vigente]
 authors: 
     - yabellini
     - paocorrales
@@ -15,6 +15,10 @@ weight: 30
 tags:
   - Ediciones anteriores
 ---
+
+**Actualización:** Este es un curso no activo que dimos anteriormente y no está planeado reeditarlo por el momento, aquí dispones de todos los materiales por si quieres enseñarlo. 
+
+------
 
 ### Objetivos
 
@@ -39,31 +43,6 @@ Entre otras cosas, quedan fuera del alcance del taller:
 * Entrenamiento en técnicas de programación
 * Desarrollo en profundidad y práctica extensiva de las técnicas mencionadas
 * Contenidos teóricos sobre pedagogía
-
-### Cómo participar 
-
-Para participar de este taller es necesario que te hayas [registrado](https://docs.google.com/forms/d/e/1FAIpQLScC20Me-fX7UmCNhNswulYfOVQF4XiyIHgtde_R8CWreCmWhA/viewform).
-
-Para pre-inscribirte en este curso, por favor completá tu mail en el formulario de abajo con el mismo mail que usaste para registrarte.
-
-<iframe 
-  src="https://script.google.com/macros/s/AKfycbwCBCpFMEJFdB1REY0Atz9nTIUWynlbOydz9c2wrdlUkiC7h8aeT5WbV5PGFJE8bUm_wA/exec"
-  frameBorder="0",
-  title = "Formulario de pre-inscripción",
-  width="100%",
-  height = 300px,
-  vertical-align="text-top">
-  Explorador no compatible.
-</iframe> 
-
-(Si el formulario no aparece, es posible que tengas algún bloqueador de contenido instalado. En ese caso podés ir a [este link](https://script.google.com/macros/s/AKfycbwCBCpFMEJFdB1REY0Atz9nTIUWynlbOydz9c2wrdlUkiC7h8aeT5WbV5PGFJE8bUm_wA/exec))
-
-En cuanto abramos vacantes te vamos a mandar un mail de invitación para que elijas el día y horario que más te convenga.
-
-
-El taller es gratuito. Las personas que sean invitadas al taller se comprometen a cumplir con nuestro [código de conducta](https://metadocencia.org/cdc/).
-
-Aprendemos mejor cuando conocemos al grupo con el que participamos. Por eso, si te interesa tomar este taller junto con tu grupo, escríbenos a [info@metadocencia.org](mailto:info@metadocencia.org) para acomodar a todo el grupo.
 
 ### Duración
 
@@ -135,9 +114,8 @@ El taller tiene una duración de 2 horas con intervalos (idealmente lejos de cua
 
 * [Presentación que usamos en el curso](https://docs.google.com/presentation/d/1QLRUbERgEk85s8qK6mzmMJn7avQ_bEmTn_NzFYgqwkc/edit?usp=sharing) con notas ampliando el contenido para quienes dan la clase
 
-* [Plantilla de formulario para la encuesta de fin del taller](https://docs.google.com/forms/d/1Rw4AMtM32ivHtU-nWufSL1BWe0mmTgHl7953-exZsh8/edit?usp=sharing)
-
 * [Video del curso](https://youtu.be/d7eXzRzEdC8)
+
 
 ### ¿Te vienen bien cualquiera de nuestros contenidos? ¡Servite sin culpa!
 
