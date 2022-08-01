@@ -4,116 +4,50 @@
 #   The weight parameter defines the order that the links will appear in.
   
 [[main]]
-name = "About us"
-url = ""
-weight = 10
-#  [[main]]
-#  name = "beginning"
-#  url = ""
-#  parent = "About us"
-#    weight = 10
-  [[main]]
-  name = "Approach"
-  url = "en/authors/metadocencia/"
-  parent = "About us"
-    weight = 20
-#  [[main]]
-#  name = "Manifest"
-#  url = ""
-#  parent = "About us"
-#    weight = 30 
-#  [[main]]
-#  name = "Code of Conduct"
-#  url = "en/authors/metadocencia/cdc/"
-#  parent = "About us"
-#    weight = 40
-  [[main]]
-  name = "Team"
-  url = "en/equipo/"
-  parent = "About us"
-    weight = 50
+  name = "Courses"
+  url = "cursos/"
+  weight = 20
   
-[[main]]
-name = "Courses"
-url = ""
-weight = 20
-  [[main]]
-  name = "Curricula"
-  url = "en/cursos/"
-  parent = "Courses"
-    weight = 10
-  [[main]]
- # name = "Typologies"
- # url = ""
- # parent = "Courses"
- #   weight = 20
- # [[main]]
- # name = "Agenda"
- # url = ""
- # parent = "Courses"
- #   weight = 30
-  [[main]]
-  name = "Enrollment"
-  url = ""
-  parent = "Courses"
-    weight = 40
-  
-[[main]]
-name = "Supporters"
-url = ""
-weight = 30
-  [[main]]
-  name = "Sponsors"
-  url = "sponsors/"
-  parent = "Supporters"
-    weight = 10
-  [[main]]
-  name = "Donate"
-  url = "donar/"
-  parent = "Supporters"
-    weight = 20
-  [[main]]
-  name = "Get involved"
-  url = ""
-  parent = "Supporters"
-    weight = 30
+# [[main]]
+#   name = "Presentaciones"
+#   url = "#talks"
+#   weight = 20
 
 [[main]]
   name = "Publications"
-  url = ""
-  weight = 40
-  [[main]]
-  name = "BLOG"
-  url = "post/"
-  parent = "Publications"
-    weight = 10
-  [[main]]
-    name = "Press"
-    url = "#prensa"
-    parent = "Publications"
-    weight = 20
+  url = "#publicaciones"
+  weight = 30
+
+# [[main]]
+#  name = "Acknowledgements"
+#  url = "#agradecimientos"
+#  weight = 56
+  
+[[main]]
+  name = "Team"
+  url = "equipo"
+  weight = 58
+  
+[[main]]
+  name = "Press"
+  url = "#prensa"
+  weight = 55
 
 [[main]]
-  name = "Contact us"
-  url = ""
-  weight = 50
-#    [[main]]
-#    name = "Form"
-#    url = ""
-#    parent = "Contact us"
-#    weight = 10
-#    [[main]]
-#    name = "Social media"
-#    url = ""
-#    parent = "Contact us"
-#    weight = 20    
-    [[main]]
-    name = "Newsletter"
-    url = "https://netlify.us19.list-manage.com/subscribe/post?u=92fb89ce82f9689a3b083bb35&amp;id=d8187ceaf7"
-    parent = "Contact us"
-    weight = 30  
+  name = "Sponsors"
+  url = "#sponsors"
+  weight = 57
 
 
+[[main]]
+  name = "Contact"
+  url = "#contact"
+  weight = 60
+
+[[main]]
+  name = "Donate"
+  url = "#donate"
+  weight = 65
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # [[main]]
