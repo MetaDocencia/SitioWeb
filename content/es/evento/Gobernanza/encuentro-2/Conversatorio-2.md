@@ -1,8 +1,8 @@
 ---
-date: "2022-07-20"
+date: "2022-08-03"
 draft: false
 image:
-  caption: "[Conversatorio 2 del ciclo de encuentros sobre gobernanza](https://www.metadocencia.org/content/es/evento/Gobernanza/encuentro-2/beatriz-busaniche.jpg)"
+  caption: "[Conversatorio 2 del ciclo de encuentros sobre gobernanza]
   alt_text: "Ciclo de Encuentros de Gobernanza, Conversatorio 2. Beatriz Busaniche - La experiencia de la Fundación Vía Libre. Miércoles 03/08 a las 17 hs. (UTC-3).
 Coordinan Laura Ación y Nicolás Palopoli."
 linktitle: 03/08 17 (UTC-3) Conversatorio 2
@@ -17,6 +17,8 @@ tags:
 ---
 
 <!--- placeholder -->
+
+{{< figure src="img/beatriz-busaniche.jpg" >}}
 
 ### Sobre el conversatorio
 
