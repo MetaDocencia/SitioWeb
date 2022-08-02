@@ -26,17 +26,17 @@ El encuentro se propuso presentar el ciclo de conversaciones y la modalidad de t
 
 ### Materiales del evento
 
-[Presentación](https://docs.google.com/presentation/d/1RnoD3inpMVZ5VhHli3sb5nAUtWwVY8qwmBBqtb0Ql6I/edit?usp=sharing)
+- [Presentación](https://docs.google.com/presentation/d/1RnoD3inpMVZ5VhHli3sb5nAUtWwVY8qwmBBqtb0Ql6I/edit?usp=sharing)
 
-[Video del encuentro](https://youtu.be/SotP_QwBDj8)
+- [Video del encuentro](https://youtu.be/SotP_QwBDj8)
 
 Lecturas propuestas: 
 
-[The Tyranny of Structurelessness, por Jo Freeman (en inglés)](https://www.jofreeman.com/joreen/tyranny.htm)
+- [The Tyranny of Structurelessness, por Jo Freeman (en inglés)](https://www.jofreeman.com/joreen/tyranny.htm)
 
-[La tiranía de la falta de estructura, traducción del Partido Pirata de Argentina](https://utopia.partidopirata.com.ar/la_tirania_de_la_falta_de_estructuras.html)
+- [La tiranía de la falta de estructura, traducción del Partido Pirata de Argentina](https://utopia.partidopirata.com.ar/la_tirania_de_la_falta_de_estructuras.html)
 
-[Elinor Ostrom’s work on Governing The Commons: An Appreciation, por Win Grant (en inglés)](https://blogs.lse.ac.uk/lsereviewofbooks/2012/06/17/elinor-ostroms-work-on-governing-the-commons-an-appreciation/)
+- [Elinor Ostrom’s work on Governing The Commons: An Appreciation, por Win Grant (en inglés)](https://blogs.lse.ac.uk/lsereviewofbooks/2012/06/17/elinor-ostroms-work-on-governing-the-commons-an-appreciation/)
 
 ### ¡Sírvete sin culpa!
 
@@ -46,9 +46,10 @@ Nuestros materiales están disponibles en forma gratuita bajo esta [licencia](ht
 
 Entre julio y octubre de 2022 se desarrollarán 8 conversatorios a los que asistirán especialistas en gobernanza y referentes de organizaciones y proyectos vinculados a la educación y el conocimiento abierto. Los aportes durante estas reuniones contribuirán a darle forma a un modelo de organización como el que deseamos para MetaDocencia, pensado desde y para nuestro contexto cultural y regional. 
 
-** [Ver los próximos eventos](https://deploy-preview-101--metadocencia.netlify.app/eventos/)**
+**[Ver los próximos eventos](https://www.metadocencia.org/eventos)**
+
 Estos encuentros ofrecen una oportunidad de intercambio y aprendizaje, para nutrirnos entre comunidades con nuestras experiencias y procesos.
 
-** **[Formulario de registro para asistir a los eventos](https://docs.google.com/forms/d/e/1FAIpQLSfUHrL4F10zWwOuRKW0I8y-_7YT1p8PslzIk7jLBuoR41Hs-Q/viewform)** **
+**[Formulario de registro para asistir a los eventos](https://docs.google.com/forms/d/e/1FAIpQLSfUHrL4F10zWwOuRKW0I8y-_7YT1p8PslzIk7jLBuoR41Hs-Q/viewform)**
 
 *Todos los datos se manejarán en forma confidencial, sólo podrán ser publicados de forma agregada y anonimizada en reportes sobre el alcance de MetaDocencia.*
