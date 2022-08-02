@@ -1,5 +1,5 @@
 ---
-date: "2022-08-03"
+date: "2022-07-20"
 draft: false
 linktitle: 03/08 17 (UTC-3) Conversatorio 2
 summary: Conversatorio 2 - 03/08 17 hs. (UTC-3)
