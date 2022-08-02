@@ -2,7 +2,7 @@
 date: "2022-07-20"
 draft: false
 image:
-  caption: "[Conversatorio 1 del ciclo de encuentros sobre gobernanza](https://www.metadocencia.org/content/es/evento/Gobernanza/GobernanzaMD_agenda.jpg)"
+  caption: "[Conversatorio 1 del ciclo de encuentros sobre gobernanza]"
   alt_text: "Ciclo de Encuentros de Gobernanza, Conversatorio 1. MetaDocencia: pensar colaborativamente nuestra Gobernanza. Miércoles 20/07 a las 17 hs. (UTC-3).
 Coordinan Laura Ación y Nicolás Palopoli."
 linktitle: Conversatorio 1
@@ -18,7 +18,7 @@ tags:
 
 <!--- placeholder -->
 
-![](./GobernanzaMD1.jpg)
+![jpg](img/GobernanzaMD1.jpg)
 
 ### Sobre el conversatorio
 
