@@ -1,6 +1,9 @@
 ---
 date: "2022-07-20"
 draft: false
+image:
+  caption: "[Bea Busaniche](https://www.metadocencia.org/img/beatriz-busaniche.jpg)"
+  alt_text: "Bea Busaniche, Presidenta de la Fundación Vía Libre"
 linktitle: 03/08 17 (UTC-3) Conversatorio 2
 summary: Conversatorio 2 - 03/08 17 hs. (UTC-3)
 title: "La experiencia de la Fundación Vía Libre - Beatriz Busaniche"
