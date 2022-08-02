@@ -10,6 +10,7 @@ type: eventos
 weight: 50
 tags:
   - Próximos eventos
+featured_image: /img/GobernanzaMD1.jpg
 ---
 
 ![Ciclo de Encuentros de Gobernanza, Conversatorio 2. Beatriz Busaniche - La experiencia de la Fundación Vía Libre. Miércoles 03/08 a las 17 hs. (UTC-3). Coordinan Laura Ación y Nicolás Palopoli.](https://www.metadocencia.org/img/beatriz-busaniche.jpg)
