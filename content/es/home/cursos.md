@@ -27,8 +27,8 @@ subtitle = ""
   filter_default = 0
    
   [[content.filter_button]]
-    name = "Próximos eventos"
-    tag = "Próximos eventos"
+    name = "Próximos cursos"
+    tag = "Próximos cursos"
     
   [[content.filter_button]]
     name = "Ediciones anteriores"
