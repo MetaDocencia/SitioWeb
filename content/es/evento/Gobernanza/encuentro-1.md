@@ -18,7 +18,7 @@ tags:
 
 <!--- placeholder -->
 
-![](/static/img/GobernanzaMD1.jpg)
+![](/(https://www.metadocencia.org/img/GobernanzaMD1.jpg)
 
 ### Sobre el conversatorio
 
