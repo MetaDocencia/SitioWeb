@@ -3,7 +3,7 @@ date: "2022-08-03"
 draft: false
 linktitle: 03/08 17 (UTC-3) Conversatorio 2
 summary: Conversatorio 2 - 03/08 17 hs. (UTC-3)
-title: La experiencia de la Fundación Vía Libre - Beatriz Busaniche
+title: "La experiencia de la Fundación Vía Libre - Beatriz Busaniche"
 authors:
   - MetaDocencia
 type: eventos
@@ -22,7 +22,7 @@ El encuentro se llevará a cabo el **miércoles 3 de agosto de 17 a 18 (UTC-3)**
 
 Estos encuentros ofrecen una oportunidad de intercambio y aprendizaje, para nutrirnos entre comunidades con nuestras experiencias y procesos.
 
-** **[Inscripción a este y los demás eventos](https://docs.google.com/forms/d/e/1FAIpQLSfUHrL4F10zWwOuRKW0I8y-_7YT1p8PslzIk7jLBuoR41Hs-Q/viewform)** **
+**[Inscripción a este y los demás eventos](https://docs.google.com/forms/d/e/1FAIpQLSfUHrL4F10zWwOuRKW0I8y-_7YT1p8PslzIk7jLBuoR41Hs-Q/viewform)**
 
 ### Sobre la invitada
 
@@ -32,8 +32,8 @@ Estos encuentros ofrecen una oportunidad de intercambio y aprendizaje, para nutr
 
 Entre julio y octubre de 2022 se desarrollarán 8 conversatorios a los que asistirán especialistas en gobernanza y referentes de organizaciones y proyectos vinculados a la educación y el conocimiento abierto. Los aportes durante estas reuniones contribuirán a darle forma a un modelo de organización como el que deseamos para MetaDocencia, pensado desde y para nuestro contexto cultural y regional. 
 
-** [Ver los próximos eventos](https://deploy-preview-101--metadocencia.netlify.app/eventos/)**
+**[Ver los próximos eventos](https://www.metadocencia.org/eventos/)**
 
-** [Formulario de registro para asistir a los eventos](https://docs.google.com/forms/d/e/1FAIpQLSfUHrL4F10zWwOuRKW0I8y-_7YT1p8PslzIk7jLBuoR41Hs-Q/viewform)**
+**[Formulario de registro para asistir a los eventos](https://docs.google.com/forms/d/e/1FAIpQLSfUHrL4F10zWwOuRKW0I8y-_7YT1p8PslzIk7jLBuoR41Hs-Q/viewform)**
 
 *Todos los datos se manejarán en forma confidencial, sólo podrán ser publicados de forma agregada y anonimizada en reportes sobre el alcance de MetaDocencia.*
