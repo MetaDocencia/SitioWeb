@@ -110,6 +110,9 @@ contact_links = [
    {icon = "slack", icon_pack = "fab", name = "Slack", link = "https://w3id.org/metadocencia/slack"},
    {icon = "github", icon_pack = "fab", name = "GitHub", link = "https://github.com/MetaDocencia"},
    {icon = "facebook", icon_pack = "fab", name = "Facebook", link = "https://www.facebook.com/metadocencia"},
+   {icon = "instagram", icon_pack = "fab", name = "Instagram", link = "https://www.instagram.com/metadocencia/"},
+   {icon = "linkedin", icon_pack = "fab", name = "LinkedIn", link = "https://www.linkedin.com/company/metadocencia/"},
+   {icon = "youtube", icon_pack = "fab", name = "Youtube", link = "https://www.youtube.com/metadocencia"},
 #   {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
 #   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
    ]
@@ -122,7 +125,7 @@ contact_links = [
 sharing_image = "logo-metadocencia.png"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = ""
+twitter = "metadocencia"
 
 ############################
 ## Regional Settings
