@@ -66,12 +66,6 @@
 
   <div class="col-12 col-sm-auto">
      <figure>
-    <a href="https://www.moore.org/" target="_blank" rel="noopener"><img src="/img/GaBMF_logo_2022.png" alt="The Gordon and Betty Moore Foundation"></a>
-    </figure>
-  </div>
-
-  <div class="col-12 col-sm-auto">
-     <figure>
     <a href="https://chanzuckerberg.com/" target="_blank" rel="noopener"><img src="/img/CZI_logo_2022.png" alt="Chan Zuckerberg Initiative"></a>
     </figure>
   </div>
@@ -108,6 +102,12 @@
     <figure>
     <a href="https://twitter.com/intaanguil" target="_blank" rel="noopener"><img src="/img/INTA_logo_2022.png" alt="E.E.A. INTA Anguil Ing, Agr. Guillermo Covas"></a>
     <figcaption>E.E.A. INTA Anguil Ing, Agr. Guillermo Covas</figcaption>  
+    </figure>
+  </div>
+  
+  <div class="col-12 col-sm-auto">
+     <figure>
+    <a href="https://www.moore.org/" target="_blank" rel="noopener"><img src="/img/GaBMF_logo_2022.png" alt="The Gordon and Betty Moore Foundation"></a>
     </figure>
   </div>
 
