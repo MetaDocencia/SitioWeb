@@ -34,7 +34,7 @@ Estos encuentros ofrecen una oportunidad de intercambio y aprendizaje, para nutr
 
 ### Materiales del evento
 
-- [Video del encuentro]([https://youtu.be/SotP_QwBDj8](https://youtu.be/wQd1IX4E2mM))
+- [Video del encuentro](https://www.youtube.com/watch?v=wQd1IX4E2mM)
 
 ### ¡Sírvete sin culpa!
 
