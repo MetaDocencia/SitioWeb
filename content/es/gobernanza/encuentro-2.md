@@ -12,7 +12,7 @@ authors:
 type: eventos
 weight: 50
 tags:
-  - Eventos anteriores
+  - Conversatorios anteriores
 thumbnail: "img/GobernanzaMD2-BeaBusaniche.png"
 ---
 
