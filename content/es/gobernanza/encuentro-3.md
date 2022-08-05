@@ -20,7 +20,7 @@ thumbnail:
 
 ### Sobre el conversatorio
 
-En el tercer conversatorio del **Ciclo de encuentros de gobernanza**, nos proponemos aprender de la experiencia de Fabrizio Scrollini y su trayectoria en la [Iniciativa Latinoamericana por los Datos Abiertos (ILDA)][(https://www.vialibre.org.ar/en/home/](https://idatosabiertos.org/); como así también de la construcción de consensos a nivel regional (Red de Datos Abiertos para el desarrollo) y de su trabajo a nivel internacional (Carta de Datos Abiertos). 
+En el tercer conversatorio del **Ciclo de encuentros de gobernanza**, nos proponemos aprender de la experiencia de Fabrizio Scrollini y su trayectoria en la [Iniciativa Latinoamericana por los Datos Abiertos (ILDA)](https://www.vialibre.org.ar/en/home/](https://idatosabiertos.org/); como así también de la construcción de consensos a nivel regional (Red de Datos Abiertos para el desarrollo) y de su trabajo a nivel internacional (Carta de Datos Abiertos). 
 
 El encuentro se llevará a cabo el **miércoles 17 de agosto de 17 a 18 (UTC-3)** y estará guiado por [Laura Ación](https://www.metadocencia.org/authors/lacion/), quien tiene a su cargo la coordinación general de MetaDocencia y [Melissa Black](https://www.metadocencia.org/authors/melissa/), coordinadora de Infraestructura y Medición de Impacto de MetaDocencia.
 
