@@ -16,7 +16,7 @@ tags:
 thumbnail:
 ---
 
-[Ciclo de Encuentros de Gobernanza, Conversatorio 3. Fabrizio Scrollini - Gobernanza y datos abiertos: la experiencia ILDA. Miércoles 17/08 a las 17 hs. (UTC-3). Coordinan Laura Ación y Melissa Black](https://www.metadocencia.org/img/GobernanzaMD3-FabrizioScrollini.png)
+![Ciclo de Encuentros de Gobernanza, Conversatorio 3. Fabrizio Scrollini - Gobernanza y datos abiertos: la experiencia ILDA. Miércoles 17/08 a las 17 hs. (UTC-3). Coordinan Laura Ación y Melissa Black](https://www.metadocencia.org/img/GobernanzaMD3-FabrizioScrollini.png)
 
 ### Sobre el conversatorio
 
