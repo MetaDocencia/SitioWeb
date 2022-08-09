@@ -2,9 +2,9 @@
 date: "2022-07-20"
 draft: false
 image:
-  caption: 
-  alt_text: 
-linktitle: 03/08 17 (UTC-3) Conversatorio 2
+  caption: "[Fabrizio Scrollini](https://www.metadocencia.org/img/GobernanzaMD3-FabrizioScrollini.png)"
+  alt_text: "Fabrizio Scrollini, Director de ILDA"
+linktitle: 17/08 17 (UTC-3) Conversatorio 3
 summary: Conversatorio 3 - 17/08 17 hs. (UTC-3)
 title: "Gobernanza y datos abiertos: la experiencia ILDA - Fabrizio Scrollini"
 authors:
