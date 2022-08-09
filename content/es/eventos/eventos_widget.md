@@ -76,6 +76,9 @@ Entre julio y octubre de 2022 realizaremos **ocho conversatorios** que tienen co
 
 Te invitamos a participar de las conversaciones, debates y reflexiones que guiarán este proceso de aprendizaje, para que nuestra forma de gobierno sea otro hito de nuestra trayectoria construida en comunidad. 
 
+**> [Formulario de registro para asistir a los eventos](https://docs.google.com/forms/d/e/1FAIpQLSfUHrL4F10zWwOuRKW0I8y-_7YT1p8PslzIk7jLBuoR41Hs-Q/viewform)**
+*Todos los datos se manejarán en forma confidencial, sólo podrán ser publicados de forma agregada y anonimizada en reportes sobre el alcance de MetaDocencia.*
+
 Ciclo de encuentros y temas programados:
 
 |  Día/hora (UTC-3) | Tema |
@@ -88,8 +91,3 @@ Ciclo de encuentros y temas programados:
 |Mié 28-09 - 17 a 18 | *Gobernanza e innovación educativa* |
 |Mié 12-10 - 17 a 18 | *Gobernar en entornos complejos, flexibles y cambiantes* |
 |Mié 26-10 - 17 a 18 | *La gobernanza de MetaDocencia en proceso* |
-
-**> [Formulario de registro para asistir a los eventos](https://docs.google.com/forms/d/e/1FAIpQLSfUHrL4F10zWwOuRKW0I8y-_7YT1p8PslzIk7jLBuoR41Hs-Q/viewform)**
-
-*Todos los datos se manejarán en forma confidencial, sólo podrán ser publicados de forma agregada y anonimizada en reportes sobre el alcance de MetaDocencia.*
-
