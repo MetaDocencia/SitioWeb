@@ -86,8 +86,8 @@ Ciclo de encuentros y temas programados:
 |Mié 20-07 - 17 a 18 | *MetaDocencia: pensar colaborativamente nuestra gobernanza* | 
 |Mié 03-08 - 17 a 18 | *Beatriz Busaniche - La experiencia de la Fundación Vía Libre* | 
 |Mié 17-08 - 17 a 18 | *Fabrizio Scrollini - Gobernanza y datos abiertos: la experiencia ILDA* |
-|Mié 31-08 - 17 a 18 | *Gobernanza en comunidad: interseccionalidad y representatividad* |
-|Mié 14-09 - 17 a 18 | *Los aspectos normativos de la gobernanza* |
-|Mié 28-09 - 17 a 18 | *Gobernanza e innovación educativa* |
-|Mié 12-10 - 17 a 18 | *Gobernar en entornos complejos, flexibles y cambiantes* |
+|Mié 31-08 - 17 a 18 | *Malvika Sharan y Andrea Sánchez Tapia - Gobernanza en comunidad: interseccionalidad y representatividad* (en inglés con intérprete en simultáneo) |
+|Mié 14-09 - 17 a 18 | *Andrés Piazza - Los aspectos normativos de la gobernanza* |
+|Mié 28-09 - 17 a 18 | *Mayra Botta - Gobernanza e innovación educativa* |
+|Mié 12-10 - 17 a 18 | *Diego Pando - Gobernar en entornos complejos, flexibles y cambiantes* |
 |Mié 26-10 - 17 a 18 | *La gobernanza de MetaDocencia en proceso* |
