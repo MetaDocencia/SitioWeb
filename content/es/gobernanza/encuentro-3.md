@@ -30,7 +30,7 @@ Estos encuentros ofrecen una oportunidad de intercambio y aprendizaje, para nutr
 
 ### Sobre el invitado
 
-**Fabrizio Scrollini** es el director ejecutivo de la Iniciativa Latinoamericana de Datos Abiertos (ILDA), y miembro de la Red de Datos Abiertos para el Desarrollo (OD4D). Co-fundador de Abrelatam y Condatos, asi como también es uno de los asesores de la Carta Internacional de Datos Abiertos. Trabajó con gobiernos, agencias de regulacin y organizaciones de sociedad civil, local e internacionalmente, en temas relacionados con transparencia, acceso a la información pública, datos abiertos y reforma del sector público. Es Doctor en Gobierno de la London School of Economics y Political Science (LSE)..
+**Fabrizio Scrollini** es el director ejecutivo de la Iniciativa Latinoamericana de Datos Abiertos (ILDA), y miembro de la Red de Datos Abiertos para el Desarrollo (OD4D). Co-fundador de Abrelatam y Condatos, asi como también es uno de los asesores de la Carta Internacional de Datos Abiertos. Trabajó con gobiernos, agencias de regulación y organizaciones de sociedad civil, local e internacionalmente, en temas relacionados con transparencia, acceso a la información pública, datos abiertos y reforma del sector público. Es Doctor en Gobierno de la London School of Economics y Political Science (LSE).
 
 ### Sobre los eventos
 
