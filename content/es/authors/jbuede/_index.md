@@ -15,7 +15,6 @@ interests:
 - Narrativa transmedia
 name: Julián Buede
 organizations:
-- name: Universidad Nacional de Córdoba
 role: Redes Sociales y producción audiovisual para el área de Comunicación y Comunidades
 social:
 - icon: envelope
