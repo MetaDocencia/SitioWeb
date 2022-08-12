@@ -15,7 +15,7 @@ interests:
 - Narrativa transmedia
 name: Julián Buede
 organizations:
-role: Redes Sociales y producción audiovisual para el área de Comunicación y Comunidades
+role: Redes sociales y producción audiovisual para el área de Comunicación y Comunidades
 social:
 - icon: envelope
   icon_pack: fas
@@ -28,4 +28,4 @@ user_groups:
 -  Integrantes
 ---
 
-Lic. en Comunicación Social y realizador audiovisual autodidacta. Trabaja en la planificación para canales de redes sociales, encauzando la gestión a partir de la comunicación estratégica. En relación a la producción audiovisual, le interesa entender e identificar cuáles son las oportunidades que el lenguaje audiovisual ofrece para cada contenido en particular. Actualmente investiga posibilidades y nuevos formatos para contenidos audiovisuales educativos (como tutoriales y clases asincrónicas).
+Lic. en Comunicación Social y realizador audiovisual autodidacta. Trabaja en la planificación y gestión de redes sociales a partir de la comunicación estratégica. En relación a la producción audiovisual, le interesa entender e identificar cuáles son las oportunidades que el lenguaje audiovisual ofrece para cada contenido en particular. Actualmente investiga posibilidades y nuevos formatos para contenidos audiovisuales educativos (como tutoriales y clases asincrónicas).
