@@ -12,8 +12,12 @@ education:
     year: ""
 email: ""
 interests:
-- ""
-- ""
+- Proteins
+- Computational Biology
+- Evolution
+- Open Science
+- Education
+- Science Communication
 name: Nicolás Palopoli
 organizations: 
 - name: Grupo de Bioinformática Estructural - UNQ
