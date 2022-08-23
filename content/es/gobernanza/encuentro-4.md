@@ -1,0 +1,43 @@
+---
+date: "2022-07-20"
+draft: false
+image:
+  caption: "[Malvika Sharan](https://www.metadocencia.org/img/GobernanzaMD3-FabrizioScrollini.png)"
+  alt_text: "Malvika Sharan, Senior Researcher en The Turing Way y Co-directora en Open Life Science"
+linktitle: 31/08 17 (UTC-3) Conversatorio 4
+summary: Conversatorio 4 - 31/08 17 hs. (UTC-3)
+title: "Gobernanza en comunidad: interseccionalidad y representatividad - Malvika Sharan y Andrea Sánchez-Tapia"
+authors:
+  - MetaDocencia
+type: eventos
+weight: 50
+tags:
+  - Próximos eventos
+thumbnail:
+---
+
+![Ciclo de Encuentros de Gobernanza, Conversatorio 4. Malvika Sharan y Andrea Sánchez Tapia - Gobernanza en comunidad: interseccionalidad y representatividad. Miércoles 31/08 a las 17 hs. (UTC-3). Coordinan Nicolás Palopoli y Melissa Black](https://www.metadocencia.org/img/GobernanzaMD3-FabrizioScrollini.png)
+
+### Sobre el conversatorio
+
+En el cuarto conversatorio del **Ciclo de encuentros de gobernanza**, nos proponemos aprender de la experiencia de Malvika Sharan y su trayectoria como Senior Researcher en [The Turing Way](https://www.turing.ac.uk/research/research-projects/turing-way) y [Co-directora en Open Life Science](https://openlifesci.org/); explorar experiencias e intercambiar ideas para crear y gestionar comunidades de ciencia abierta, fomentar la interseccionalidad y favorecer la representatividad.  
+
+El encuentro se llevará a cabo el miércoles 31 de agosto de 17 a 18 (UTC-3) y estará guiado por [Nicolás Palopoli](https://www.metadocencia.org/authors/npalopoli/), quien tiene a su cargo la coordinación general de MetaDocencia y [Melissa Black](https://www.metadocencia.org/authors/melissa/), coordinadora de Infraestructura y Medición de Impacto de MetaDocencia.
+
+Estos encuentros ofrecen una oportunidad de intercambio y aprendizaje, para nutrirnos entre comunidades con nuestras experiencias y procesos.
+
+**[Inscripción a este y los demás eventos](https://docs.google.com/forms/d/e/1FAIpQLSfUHrL4F10zWwOuRKW0I8y-_7YT1p8PslzIk7jLBuoR41Hs-Q/viewform)**
+
+### Sobre las invitadas
+
+[**Malvika Sharan**](https://malvikasharan.github.io/) trabaja para lograr que las habilidades digitales y la ciencia de datos sean accesibles y comprensibles para más personas. Sus temas son ciencia abierta, mejores prácticas en código abierto y reproducibilidad, creación de comunidades, colaboración, interseccionalidad, representación, capacitación y biología computacional.
+
+### Sobre los eventos
+
+Entre julio y octubre de 2022 se desarrollarán 8 conversatorios a los que asistirán especialistas en gobernanza y referentes de organizaciones y proyectos vinculados a la educación y el conocimiento abierto. Los aportes durante estas reuniones contribuirán a darle forma a un modelo de organización como el que deseamos para MetaDocencia, pensado desde y para nuestro contexto cultural y regional. 
+
+**[Ver los próximos eventos](https://www.metadocencia.org/eventos/)**
+
+**[Formulario de registro para asistir a los eventos](https://docs.google.com/forms/d/e/1FAIpQLSfUHrL4F10zWwOuRKW0I8y-_7YT1p8PslzIk7jLBuoR41Hs-Q/viewform)**
+
+*Todos los datos se manejarán en forma confidencial, sólo podrán ser publicados de forma agregada y anonimizada en reportes sobre el alcance de MetaDocencia.*
