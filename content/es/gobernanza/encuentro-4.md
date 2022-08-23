@@ -2,7 +2,7 @@
 date: "2022-07-20"
 draft: false
 image:
-  caption: "[Malvika Sharan](https://www.metadocencia.org/img/GobernanzaMD3-FabrizioScrollini.png)"
+  caption: "[Malvika Sharan]()"
   alt_text: "Malvika Sharan, Senior Researcher en The Turing Way y Co-directora en Open Life Science"
 linktitle: 31/08 17 (UTC-3) Conversatorio 4
 summary: Conversatorio 4 - 31/08 17 hs. (UTC-3)
@@ -16,13 +16,13 @@ tags:
 thumbnail:
 ---
 
-![Ciclo de Encuentros de Gobernanza, Conversatorio 4. Malvika Sharan y Andrea Sánchez Tapia - Gobernanza en comunidad: interseccionalidad y representatividad. Miércoles 31/08 a las 17 hs. (UTC-3). Coordinan Nicolás Palopoli y Melissa Black](https://www.metadocencia.org/img/GobernanzaMD3-FabrizioScrollini.png)
+![Ciclo de Encuentros de Gobernanza, Conversatorio 4. Malvika Sharan y Andrea Sánchez Tapia - Gobernanza en comunidad: interseccionalidad y representatividad. Miércoles 31/08 a las 17 hs. (UTC-3). Coordinan Nicolás Palopoli y Melissa Black]()
 
 ### Sobre el conversatorio
 
 En el cuarto conversatorio del **Ciclo de encuentros de gobernanza**, nos proponemos aprender de la experiencia de Malvika Sharan y su trayectoria como Senior Researcher en [The Turing Way](https://www.turing.ac.uk/research/research-projects/turing-way) y [Co-directora en Open Life Science](https://openlifesci.org/); explorar experiencias e intercambiar ideas para crear y gestionar comunidades de ciencia abierta, fomentar la interseccionalidad y favorecer la representatividad.  
 
-El encuentro se llevará a cabo el miércoles 31 de agosto de 17 a 18 (UTC-3) y estará guiado por [Nicolás Palopoli](https://www.metadocencia.org/authors/npalopoli/), quien tiene a su cargo la coordinación general de MetaDocencia y [Melissa Black](https://www.metadocencia.org/authors/melissa/), coordinadora de Infraestructura y Medición de Impacto de MetaDocencia.
+El encuentro se llevará a cabo el **miércoles 31 de agosto de 17 a 18 (UTC-3)** y estará guiado por [Nicolás Palopoli](https://www.metadocencia.org/authors/npalopoli/), quien tiene a su cargo la coordinación general de MetaDocencia y [Melissa Black](https://www.metadocencia.org/authors/melissa/), coordinadora de Infraestructura y Medición de Impacto de MetaDocencia.
 
 Estos encuentros ofrecen una oportunidad de intercambio y aprendizaje, para nutrirnos entre comunidades con nuestras experiencias y procesos.
 
