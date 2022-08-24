@@ -16,7 +16,7 @@ tags:
 thumbnail:
 ---
 
-![Ciclo de Encuentros de Gobernanza, Conversatorio 4. Malvika Sharan y Andrea Sánchez Tapia - Gobernanza en comunidad: interseccionalidad y representatividad. Miércoles 31/08 a las 17 hs. (UTC-3). Coordinan Melissa Black y Nicolás Palopoli]()
+![Ciclo de Encuentros de Gobernanza, Conversatorio 4. Malvika Sharan y Andrea Sánchez Tapia - Gobernanza en comunidad: interseccionalidad y representatividad. Miércoles 31/08 a las 17 hs. (UTC-3). Coordinan Melissa Black y Nicolás Palopoli](https://www.metadocencia.org/img/GobernanzaMD4.png)
 
 ### Sobre el conversatorio
 
