@@ -16,7 +16,7 @@ tags:
 thumbnail:
 ---
 
-![Ciclo de Encuentros de Gobernanza, Conversatorio 5. Andrés Piazza - Los aspectos normativos de la gobernanza. Miércoles 14/09 a las 17 hs. (UTC-3)](https://www.metadocencia.org/img/GobernanzaMD4.jpg)
+![Ciclo de Encuentros de Gobernanza, Conversatorio 5. Andrés Piazza - Los aspectos normativos de la gobernanza. Miércoles 14/09 a las 17 hs. (UTC-3)](https://www.metadocencia.org/img/GobernanzaMD5.jpg)
 
 ### Sobre el conversatorio
 
@@ -30,7 +30,7 @@ Estos encuentros ofrecen una oportunidad de intercambio y aprendizaje, para nutr
 
 ### Sobre las invitadas
 
-[**Andrés Piazza**] es Director del Instituto de Desarrollo Digital de América Latina y el Caribe [IDD LAC](https://iddlac.org/), un espacio que se propone combinar la riqueza del diálogo multisectorial de las políticas de Internet con el compromiso de tender puentes hacia la construcción de regulaciones que comprendan el ecosistema digital y fomenten su desarrollo. Es abogado por la Universidad Nacional de Córdoba, Argentina y cuenta con más de quince años de experiencia en políticas públicas de TIC y Gobernanza de Internet. Se ha desempeñado en diversos ámbitos de diálogo multisectorial, incluyendo foros globales del Sistema de Naciones Unidas, negociaciones de tratados internacionales y otros de alto nivel, en diversos roles entre los que se destacan haber sido Manager General de LACTLD, Presidente de LACRALO en ICANN At Large y Líder en Relaciones Estratégicas de LACNIC. Como consultor en políticas y regulación de Internet ha asesorado a diversos organismos internacionales regionales y globales, así como a entes oficiales nacionales y de la provincia de Córdoba, Argentina.
+**Andrés Piazza** es Director del Instituto de Desarrollo Digital de América Latina y el Caribe [IDD LAC](https://iddlac.org/), un espacio que se propone combinar la riqueza del diálogo multisectorial de las políticas de Internet con el compromiso de tender puentes hacia la construcción de regulaciones que comprendan el ecosistema digital y fomenten su desarrollo. Es abogado por la Universidad Nacional de Córdoba, Argentina y cuenta con más de quince años de experiencia en políticas públicas de TIC y Gobernanza de Internet. Se ha desempeñado en diversos ámbitos de diálogo multisectorial, incluyendo foros globales del Sistema de Naciones Unidas, negociaciones de tratados internacionales y otros de alto nivel, en diversos roles entre los que se destacan haber sido Manager General de LACTLD, Presidente de LACRALO en ICANN At Large y Líder en Relaciones Estratégicas de LACNIC. Como consultor en políticas y regulación de Internet ha asesorado a diversos organismos internacionales regionales y globales, así como a entes oficiales nacionales y de la provincia de Córdoba, Argentina.
 
 ### Sobre los eventos
 
