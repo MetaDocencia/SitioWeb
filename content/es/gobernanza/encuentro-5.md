@@ -22,7 +22,7 @@ thumbnail:
 
 En el quinto conversatorio del **Ciclo de encuentros de gobernanza**, nos proponemos aprender de la experiencia de **Andrés Piazza** y su trayectoria en el [IDD LAC](https://iddlac.org/); comprender los desafíos y oportunidades que se presentan al diseñar políticas públicas y proyectos que requieren de consensos amplios, alianzas sólidas y coodinación de acciones entre distintas partes interesadas.
 
-El encuentro se llevará a cabo el **miércoles 14 de septiembre de 17 a 18 (UTC-3)** y estará guiado por [Laura Ascenzi](https://www.metadocencia.org/authors/laurel/), coordinadora de Comunicación y Comunidades de MetaDocencia e [Irene Vazano](https://www.metadocencia.org/authors/irenevazano/), quien participa de los equipos de Gobernanza, Infraestructura y Enseñanza de MetaDocencia.
+El encuentro se llevará a cabo el **miércoles 14 de septiembre de 17 a 18 (UTC-3)** y estará guiado por [Irene Vazano](https://www.metadocencia.org/authors/irenevazano/), quien participa de los equipos de Gobernanza, Infraestructura y Enseñanza de MetaDocencia, y [Laura Ascenzi](https://www.metadocencia.org/authors/laurel/), coordinadora de Comunicación y Comunidades de MetaDocencia.
 
 Estos encuentros ofrecen una oportunidad de intercambio y aprendizaje, para nutrirnos entre comunidades con nuestras experiencias y procesos.
 
