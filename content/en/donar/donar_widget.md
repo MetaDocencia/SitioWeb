@@ -43,7 +43,7 @@
   
   [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "0", "20px", "5px"]
+  padding = ["20px", "0", "20px", "40px"]
   
   [advanced]
   # Custom CSS. 
@@ -56,7 +56,6 @@
 <style>
   .iframe-donar {
         text-align: center;
-            padding-left: 10px;
       width:100%;
   }
 </style>
