@@ -3,63 +3,6 @@
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
   
-[[main]]
-  name = "Courses"
-  url = "cursos/"
-  weight = 20
-  
-# [[main]]
-#   name = "Presentaciones"
-#   url = "#talks"
-#   weight = 20
-
-[[main]]
-  name = "Publications"
-  url = "#publicaciones"
-  weight = 30
-
- [[main]]
-  name = "Events"
-  url = "events"
-  weight = 40
-
-# [[main]]
-#  name = "Acknowledgements"
-#  url = "#agradecimientos"
-#  weight = 56
-  
-[[main]]
-  name = "Team"
-  url = "equipo"
-  weight = 50
-  
-[[main]]
-  name = "Press"
-  url = "#prensa"
-  weight = 60
-
-[[main]]
-  name = "Sponsors"
-  url = "#sponsors"
-  weight = 70
-
-
-[[main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 80
-
-[[main]]
-  name = "Donate"
-  url = "#donate"
-  weight = 90
-# Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[main]]
-#    name = "CV"
-#    url = "files/cv.pdf"
-#    weight = 70
-
 
 [[main]]
 name = "About MD"
