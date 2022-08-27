@@ -55,7 +55,6 @@
 </br> </br> 
 <style>
   .iframe-donar {
-    text-align:center;
       width:100%;
   }
 </style>
@@ -63,5 +62,5 @@
 </br> </br> 
 <div class="iframe-donar">
   <!--iframe link is the link to the jsfiddle-->
-  <script src="https://donorbox.org/widget.js" paypalExpress="true"></script><iframe src="https://donorbox.org/embed/metadocencia" name="donorbox" allowpaymentrequest="allowpaymentrequest" seamless="seamless" frameborder="0" scrolling="no" height="900px" width="100%" padding-top="10px" style="max-width: 500px; min-width: 250px; max-height:none!important; "></iframe>
+  <script src="https://donorbox.org/widget.js" paypalExpress="true"></script><iframe src="https://donorbox.org/embed/metadocencia" name="donorbox" allowpaymentrequest="allowpaymentrequest" seamless="seamless" frameborder="0" scrolling="no" height="900px" width="100%" padding-top="5px" style="max-width: 500px; min-width: 250px; max-height:none!important; "></iframe>
 </div>

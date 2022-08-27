@@ -59,7 +59,7 @@
 </style>
 </br></br>
 <div class="row-sponsor">
-
+<div class="row">
   <div class="col-12 col-sm-auto">
      <figure>
     <a href="https://chanzuckerberg.com/" target="_blank" rel="noopener"><img src="/img/CZI_logo_2022.png" alt="Chan Zuckerberg Initiative"></a>
@@ -72,13 +72,13 @@
     </figure>
   </div>
   
-</div>
-  
+</div></div>
+</br></br></br>
 
 ## Previous sponsors
- 
+  </br>
 <div class="row-sponsor">
-
+<div class="row">
   <div class="col-12 col-sm-auto">
     <figure>
       <a href="https://www.open-bio.org/" target="_blank" rel="noopener"><img src="/img/obf_logo_2022.png" alt="Open Bioinformatics Foundation"></a>
@@ -103,5 +103,5 @@
     <a href="https://www.moore.org/" target="_blank" rel="noopener"><img src="/img/GaBMF_logo_2022.png" alt="The Gordon and Betty Moore Foundation"></a>
     </figure>
   </div>
-</div>
-  
+
+</div></div>
