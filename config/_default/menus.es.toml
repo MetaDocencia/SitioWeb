@@ -2,57 +2,145 @@
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
-  
-[[main]]
-  name = "Equipo"
-  url = "equipo"
-  weight = 58
-  
-  
-[[main]]
-  name = "Cursos"
-  url = "cursos/"
-  weight = 20
-  
-# [[main]]
-#   name = "Presentaciones"
-#   url = "#talks"
-#   weight = 20
 
 [[main]]
-  name = "Publicaciones"
-  url = "#publicaciones"
-  weight = 30
+name = "Sobre MD"
+url = ""
+weight = 10
+#  [[main]]
+#  name = "Origen"
+#  url = ""
+#  parent = "Sobre MD"
+#    weight = 10
+  [[main]]
+  name = "Misión y Visión"
+  url = "authors/metadocencia/"
+  parent = "Sobre MD"
+    weight = 20
+#  [[main]]
+#  name = "Valores"
+#  url = ""
+#  parent = "Sobre MD"
+#    weight = 30
+#  [[main]]
+#  name = "Código de conducta"
+#  url = "authors/metadocencia/cdc/"
+#  parent = "Sobre MD"
+#    weight = 40
+  [[main]]
+  name = "Equipo"
+  url = "equipo/"
+  parent = "Sobre MD"
+    weight = 50
+  [[main]]
+  name = "Ex Miembros"
+  url = "equipo/"
+  parent = "Sobre MD"
+    weight = 50
+
+
+
+[[main]]
+name = "Propuestas"
+url = ""
+weight = 20
+  [[main]]
+  name = "Cursos"
+  url = "cursos/"
+  parent = "Propuestas"
+  weight = 10
+ #[[main]]
+ #  name = "Presentaciones"
+ #  url = "#talks"
+ #  parent = "Propuestas"
+ #  weight = 20
+  # [[main]]
+ # name = "Tipologías"
+ # url = ""
+ # parent = "Propuestas"
+ #   weight = 30
+ # [[main]]
+ # name = "Agenda"
+ # url = ""
+ # parent = "Propuestas"
+ #   weight = 40
+ # [[main]]
+ # name = "Inscripciones"
+ # url = ""
+ # parent = "Propuestas"
+ #   weight = 50
+
 
  [[main]]
   name = "Eventos"
-  url = "eventos"
-  weight = 55
-  
-[[main]]
-  name = "Prensa"
-  url = "prensas"
-  weight = 56
+  url = "eventos/"
+  weight = 40
+
 
 [[main]]
+name = "Apoyos"
+url = ""
+weight = 30
+  [[main]]
   name = "Auspiciantes"
-  url = "sponsors"
-  weight = 57
+  url = "sponsors/"
+  parent = "Apoyos"
+    weight = 10
+  [[main]]
+  name = "Donar"
+  url = "donar/"
+  parent = "Apoyos"
+    weight = 20
+  [[main]]
+  name = "Consultas"
+  url = "#contact"
+  parent = "Apoyos"
+    weight = 30
+
+
+[[main]]
+  name = "Publicaciones"
+  url = ""
+   weight = 40
+  [[main]]
+  name = "BLOG"
+  url = "#publicaciones"
+  parent = "Publicaciones"
+   weight = 10
+  [[main]]
+  name = "Prensa"
+  url = "prensas/"
+  parent = "Publicaciones"
+   weight = 20
+ # [[main]]
+ # name = "Boletines"
+ # url = ""
+ # parent = "Publicaciones"
+ #  weight = 30
+
 
 
 [[main]]
   name = "Contacto"
-  url = "#contact"
-  weight = 60
+  url = ""
+  weight = 50
+ [[main]]
+   name = "Formulario"
+   url = "#contact"
+   parent = "Contacto"
+   weight = 10
+#    [[main]]
+#    name = "Redes"
+#    url = ""
+#    parent = "Contacto"
+#    weight = 20    
+    [[main]]
+    name = "Newsletter"
+    url = "https://netlify.us19.list-manage.com/subscribe/post?u=92fb89ce82f9689a3b083bb35&amp;id=d8187ceaf7"
+    parent = "Contacto"
+    weight = 30
 
-[[main]]
-  name = "Donar"
-  url = "donar"
-  weight = 65
+
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[main]]
-#    name = "CV"
-#    url = "files/cv.pdf"
-#    weight = 70
