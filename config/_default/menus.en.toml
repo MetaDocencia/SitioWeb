@@ -109,8 +109,8 @@ weight = 30
   parent = "Publicaciones"
    weight = 10
   [[main]]
-  name = "Prenss"
-  url = "prensas/"
+  name = "Press"
+  url = "prensas"
   parent = "Publicaciones"
    weight = 20
  # [[main]]

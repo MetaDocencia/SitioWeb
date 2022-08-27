@@ -14,6 +14,9 @@
   [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
+
+  # For Showcase view, flip alternate rows?
+  flip_alt_rows = true
   
   [design.background]
   # Apply a background color, gradient, or image.
@@ -49,5 +52,12 @@
   # CSS class.
   css_class = ""
 +++
-
+</br> </br> 
+<style>
+  .iframe-donar {
+    text-align:center;
+      width:100%;
+  }
+</style>
+</br> </br> 
 <script src="https://donorbox.org/widget.js" paypalExpress="true"></script><iframe src="https://donorbox.org/embed/metadocencia" name="donorbox" allowpaymentrequest="allowpaymentrequest" seamless="seamless" frameborder="0" scrolling="no" padding-top="10px" height="900px" width="100%" style="max-width: 500px; min-width: 250px; max-height:none!important"></iframe>

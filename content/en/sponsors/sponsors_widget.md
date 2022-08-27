@@ -50,7 +50,7 @@
   css_class = ""
 +++
 
-
+</br> </br> 
 <style>
   .row-sponsor {
     text-align:center;
