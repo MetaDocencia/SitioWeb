@@ -56,6 +56,7 @@
 <style>
   .iframe-donar {
         text-align: center;
+            padding-left: 10px;
       width:100%;
   }
 </style>
