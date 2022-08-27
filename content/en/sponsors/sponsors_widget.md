@@ -58,7 +58,7 @@
   }
 </style>
 </br></br>
-<div class="row">
+<div class="row-sponsor">
 
   <div class="col-12 col-sm-auto">
      <figure>
@@ -77,7 +77,7 @@
 
 ## Previous sponsors
  
-<div class="row">
+<div class="row-sponsor">
 
   <div class="col-12 col-sm-auto">
     <figure>
