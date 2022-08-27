@@ -8,7 +8,7 @@
   active = true  # Activate this widget? true/false
   weight = 57  # Order that this section will appear.
   
-  title = "Auspiciantes"
+  title = "Sponsors"
   subtitle = ""
   
   [design]
@@ -51,15 +51,14 @@
 +++
 
 
-
-
+<style>
+  .row-sponsor {
+    text-align:center;
+      width:100%;
+  }
+</style>
+</br></br>
 <div class="row">
-
-  <div class="col-12 col-sm-auto">
-     <figure>
-    <a href="https://www.moore.org/" target="_blank" rel="noopener"><img src="/img/GaBMF_logo_2022.png" alt="The Gordon and Betty Moore Foundation"></a>
-    </figure>
-  </div>
 
   <div class="col-12 col-sm-auto">
      <figure>
@@ -76,7 +75,7 @@
 </div>
   
 
-## Auspiciantes anteriores
+## Previous sponsors
  
 <div class="row">
 
@@ -99,6 +98,10 @@
     <figcaption>E.E.A. INTA Anguil Ing, Agr. Guillermo Covas</figcaption>  
     </figure>
   </div>
-
+  <div class="col-12 col-sm-auto">
+     <figure>
+    <a href="https://www.moore.org/" target="_blank" rel="noopener"><img src="/img/GaBMF_logo_2022.png" alt="The Gordon and Betty Moore Foundation"></a>
+    </figure>
+  </div>
 </div>
   

@@ -60,7 +60,7 @@
   }
 </style>
 
-</br>
+</br></br>
 <div class="row-sponsor">
 <div class="row">
 
