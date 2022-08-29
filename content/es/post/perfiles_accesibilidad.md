@@ -61,7 +61,7 @@ _Dificultad variable para mantener la atención en una tarea durante largos peri
 |Dificultad variable para mantener la atención en una tarea durante largos periodos de tiempo | Contenido simplificado o de lectura fácil.
 Minimización de la duración de tarea. Pausas frecuentes (Ej: cada 50 minutos).|
 
-[Mail de contacto con el equipo de accesibilidad: accesibilidad@metadocencia.org](mailto:accesibilidad@metadocencia.org)
+Mail de contacto con el equipo de accesibilidad: _accesibilidad@metadocencia.org_
 
 Fuentes:
 
