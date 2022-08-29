@@ -31,7 +31,7 @@ Presentamos esta primera descripción de perfiles de personas con discapacidad p
 _Dificultad para usar la vista como medio de percepción._
 
 | Descripción | Acción | 
-| ------------- | ------------- |
+| ---: | :----------- |
 
 | Pérdida de visión | Facilitar la interacción por voz.|
 | Baja visión |  Posibilidad de utilizar una lupa de ampliación. Material con letras de tamaño como mínimo de 12 puntos para el texto y de 14 puntos para títulos. |
@@ -42,7 +42,7 @@ _Dificultad para usar la vista como medio de percepción._
 _Dificultad  de usar la audición para percibir información._
 
 | Descripción | Acción | 
-| ------------- | ------------- |
+| ---: | :----------- |
 
 | Pérdida de la audición | Subtitulados. Si la lengua materna es la lengua de signos: Interpretación en lengua de signos; uso del lenguaje escrito claro, sencillo y conciso evitando en la medida de lo posible _adornos_  innecesarios que dificulten la comprensión. |
 
@@ -51,7 +51,7 @@ _Dificultad  de usar la audición para percibir información._
 _Dificultad variable de interacción con el dispositivo._
 
 | Descripción | Acción | 
-| ------------- | ------------- |
+| ---: | :----------- |
 
 | Dificultad  respecto al uso interactivo del dispositivo en que se ejecuta la web respecto de control y precisión. | Lectores de pantalla o software específico similar. Uso prioritario de teclado. |
 
@@ -60,7 +60,7 @@ _Dificultad variable de interacción con el dispositivo._
 _Dificultad variable para mantener la atención en una tarea durante largos periodos de tiempo._
 
 | Descripción | Acción | 
-| ------------- | ------------- |
+| ---: | :----------- |
 
 | Dificultad variable para mantener la atención en una tarea durante largos periodos de tiempo | Contenido simplificado o de lectura fácil.
 Minimización de la duración de tarea. Pausas frecuentes (Ej: cada 50 minutos). |
