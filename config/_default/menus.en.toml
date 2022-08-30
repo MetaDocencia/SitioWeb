@@ -30,7 +30,7 @@ weight = 10
 #    weight = 40
 [[main]]
   name = "Accesibility"
-  url = "post/perfiles_accesibilidad/"
+  url = "post/accessibility_profiles/"
   parent = "About MD"
     weight = 50
   [[main]]
@@ -109,7 +109,7 @@ weight = 30
   url = ""
    weight = 40
   [[main]]
-  name = "BLOG"
+  name = "Blog"
   url = "#publicaciones"
   parent = "Publicaciones"
    weight = 10
