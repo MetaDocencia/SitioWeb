@@ -20,6 +20,7 @@ Recientemente presentamos una propuesta para financiación de la [Iniciativa Cha
 **[Acceder a la propuesta completa en Zenodo (en inglés)](https://zenodo.org/record/7025288#.YxCi6naZNPY)
 
 En este blogspot resumimos algunos aspectos generales:
+
 **Colaboración**
 El financiamiento partió de una colaboración entre varias organizaciones referentes en infraestructura abierta, comunidad y liderazgo global:
 - [2i2c](https://2i2c.org/)
@@ -30,6 +31,7 @@ El financiamiento partió de una colaboración entre varias organizaciones refer
 - [Open Life Science](https://openlifesci.org/)
 
 **El problema que genera la propuesta**
+
 La infraestructura en la nube es una forma poderosa de ampliar el acceso a los flujos de trabajo y la infraestructura en todo el mundo. Sin embargo, también es inaccesible para muchas personas por diversas razones:
 - Existe un ecosistema amplio, diverso y desordenado de herramientas de código abierto para facilitar la infraestructura en la nube.
 - La mayoría de las comunidades no cuentan con conocimientos para utilizar estos flujos de trabajo.
@@ -38,6 +40,7 @@ La infraestructura en la nube es una forma poderosa de ampliar el acceso a los f
 Estos problemas se dan en la mayoría de las comunidades científicas, pero se agravan en los países históricamente marginados en la comunidad científica mundial.
 
 **Nuestra propuesta**
+
 Por estas razones, nos propusimos contar con financiamiento para **proporcionar servicios humanos y técnicos que faciliten el aprendizaje e intercambio de conocimientos de los flujos de trabajo en la nube para comunidades en América Latina y África.**
 Se definieron cuatro grandes áreas de colaboración:
 - **Gestión de la infraestructura** para facilitar el acceso a los recursos de la nube a través de herramientas de código abierto.
