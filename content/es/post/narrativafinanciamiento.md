@@ -13,8 +13,8 @@ tags:
 ---
 
 Publicación original: [Chris Holdgraf](https://2i2c.org/author/chris-holdgraf/)
-*Agradecemos especialmente a Chris Holdgraf por la publicación de la iniciativa y la posibilidad de disponibilizarla en español a la comunidad MetaDocente.*
 
+*Agradecemos especialmente a Chris Holdgraf por la publicación de la iniciativa y la posibilidad de disponibilizarla en español a la comunidad MetaDocente.*
 *Traducción: [Laura Ascenzi](https://www.metadocencia.org/authors/laurel/) y [Laura Ación](https://www.metadocencia.org/authors/lacion/)*
 
 Recientemente presentamos una propuesta para financiación de la [Iniciativa Chan Zuckerberg](https://chanzuckerberg.com/) y queremos compartir algunos detalles y la descripción del proceso de financiamiento para que otras personas puedan leerla y reutilizarla.
