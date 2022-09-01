@@ -19,7 +19,7 @@ Publicación original: [Chris Holdgraf](https://2i2c.org/author/chris-holdgraf/)
 
 Recientemente presentamos una propuesta para financiación de la [Iniciativa Chan Zuckerberg](https://chanzuckerberg.com/) y queremos compartir algunos detalles y la descripción del proceso de financiamiento para que otras personas puedan leerla y reutilizarla.
 
-**[Acceder a la propuesta completa en Zenodo (en inglés)]**(https://zenodo.org/record/7025288#.YxCi6naZNPY)
+**[Acceder a la propuesta completa en Zenodo (en inglés)](https://zenodo.org/record/7025288#.YxCi6naZNPY)**
 
 En este blogspot resumimos algunos aspectos generales:
 
