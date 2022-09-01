@@ -15,6 +15,7 @@ tags:
 Publicación original: [Chris Holdgraf](https://2i2c.org/author/chris-holdgraf/)
 
 *Agradecemos especialmente a Chris Holdgraf por la publicación de la iniciativa y la posibilidad de disponibilizarla en español a la comunidad MetaDocente.*
+**Versión original del blogspot (en inglés) en https://2i2c.org/blog/2022/czi-global-communities-proposal/**
 
 *Traducción: [Laura Ascenzi](https://www.metadocencia.org/authors/laurel/) y [Laura Ación](https://www.metadocencia.org/authors/lacion/)*
 
@@ -53,5 +54,3 @@ Se definieron cuatro grandes áreas de colaboración:
 
 Si la propuesta es financiada, en el transcurso de dos años el equipo proporcionará una combinación de los servicios descritos anteriormente para comunidades en América Latina y África, con el objetivo de entender cómo estos servicios pueden ser más útiles para estas comunidades, cómo podemos estructurarlos para mejorar la representación de estas geografías en el uso de estos servicios y cómo podemos sostener y ampliar este modelo de servicios para una comunidad global.
 Y, lo que es más importante, queremos hacer este trabajo de forma que las comunidades con las que trabajamos se conviertan en co-líderes y colaboradoras de estos servicios. Exploraremos las formas de dirigir estos servicios y talleres de forma transparente, inclusiva y dando agencia a estas comunidades. En última instancia, esperamos que éste sea un modelo extensible a muchas más comunidades en el futuro.
-
-**Versión original del blogspot (en inglés) en https://2i2c.org/blog/2022/czi-global-communities-proposal/**
