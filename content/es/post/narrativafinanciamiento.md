@@ -15,6 +15,7 @@ tags:
 Publicación original: [Chris Holdgraf](https://2i2c.org/author/chris-holdgraf/)
 
 *Agradecemos especialmente a Chris Holdgraf por la publicación de la iniciativa y la posibilidad de disponibilizarla en español a la comunidad MetaDocente.*
+
 **Versión original del blogspot (en inglés) en https://2i2c.org/blog/2022/czi-global-communities-proposal/**
 
 *Traducción: [Laura Ascenzi](https://www.metadocencia.org/authors/laurel/) y [Laura Ación](https://www.metadocencia.org/authors/lacion/)*
