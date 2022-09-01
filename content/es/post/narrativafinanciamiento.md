@@ -1,8 +1,7 @@
 ---
 date: "2022-09-01"
 draft: false
-type: page
-title: Narrativa abierta de financiamiento de un Modelo de servicio computacional interactivo y colaborativo para comunidades globales
+title: Narrativa abierta de financiamiento de un modelo de servicio computacional interactivo y colaborativo para comunidades globales
 summary: Compartimos la narrativa de un modelo de servicio presentado colaborativamente
 authors: 
 
