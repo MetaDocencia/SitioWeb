@@ -47,7 +47,7 @@ Estos problemas se dan en la mayoría de las comunidades científicas, pero se a
 Por estas razones, nos propusimos contar con financiamiento para **proporcionar servicios humanos y técnicos que faciliten el aprendizaje e intercambio de conocimientos de los flujos de trabajo en la nube para comunidades en América Latina y África.**
 Se definieron cuatro grandes áreas de colaboración:
 - **Gestión de la infraestructura** para facilitar el acceso a los recursos de la nube a través de herramientas de código abierto.
-- **Orientación y formación en materia de aplicaciones* para disponibilizar para líderes de distintas comunidades los conocimientos necesarios que les permitan utilizar esta infraestructura en función de sus necesidades. Esto incluye contenidos y materiales de formación en el idioma local.
+- **Orientación y formación en materia de aplicaciones** para disponibilizar para líderes de distintas comunidades los conocimientos necesarios que les permitan utilizar esta infraestructura en función de sus necesidades. Esto incluye contenidos y materiales de formación en el idioma local.
 - **Formación de formadores** para que personas clave en distintas comunidades tengan las herramientas para multiplicar el intercambio de conocimiento sobre estos flujos de trabajo en su comunidad.
 - **Liderazgo y gestión de la comunidades** para intercambiar con líderes de distintas comunidades saberes para mantener y nutrir comunidades de práctica saludables.
 
