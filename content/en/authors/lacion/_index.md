@@ -18,9 +18,8 @@ education:
     year: 2002
 email: ""
 interests:
-- Data Science
-- Clinical Research
-- Adiction
+- Health Data Science
+- Responsible Artificial Intelligence
 - Open Science
 name: Laura Ación
 organizations:
@@ -48,9 +47,9 @@ user_groups:
 - Contributors
 ---
 
-Laura is an Adjunct Research Scientist at the National Research Council in Argentina (CONICET). She has experience working 100% remotely from Buenos Aires to the rest of the world sincce 2006. She worked on her PhD disertation in USA 90% remotely. She took virtual university courses since then and her first experience teaching at the graduate and post-graduate level in 2013 were also remotely for students that were living in the USA. The entirety of her remote work has been done from Buenos Aires. With these precedents, no wonder she included techonoly when she started teaching in person to enhance the relationship with her students. 
+Laura is an Adjunct Research Scientist at the National Research Council in Argentina (CONICET) and the University of Buenos Aires, where she leads the Responsible Use of Data Co-Laboratory. She has experience working remotely from Buenos Aires sincce 2006. She is a user of remote graduate education since then. Her first experience teaching at the undergrad and grad levels in 2013 was also remote. With these precedents, when she started teaching in person, no wonder she included techonology to her classes to enhance her students' experience.
 
-Since 2007 she leads voluntary-lead projects all around the world. A success is the creation of a [Latin American conference](https://latin-r.com) whose organizer comitee only met in person the day of. Another is the Spanish translation of [a book](https://es.r4ds.hadley.nz) withouth meeting in person with almost none of the participants. 
+Since 2017 she has held leadership positions at or co-created local, regional, and international open science-related collective projects (e.g., R-Ladies Global, LatinR, useR!, Open Life Science, Code for Science & Society).
 
-Laura is also a The Carperntries-certified instructor and instructor trainer and has experience developing massive online courses for a northamerican platform (whose name she omits due to the company's ethical issues). Laura co-founded MetaDocencia.
+Laura was also a The Carperntries-certified instructor and instructor trainer and has experience developing massive online courses for a US-based platform (whose name we omit due to company's ethical issues). In March 2020, Laura co-founded MetaDocencia.
 
