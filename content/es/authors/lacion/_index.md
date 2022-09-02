@@ -18,9 +18,8 @@ education:
     year: 2002
 email: ""
 interests:
-- Ciencias de datos
-- Investigación clínica
-- Adicciones
+- Ciencias de datos de salud
+- Inteligencia artificial responsable
 - Ciencia abierta
 name: Laura Ación
 organizations:
@@ -48,9 +47,8 @@ user_groups:
 -  Integrantes
 ---
 
-Laura es investigadora adjunta del CONICET en la UBA. Tiene experiencia trabajando en forma 100% remota desde Buenos Aires para el exterior desde 2006. Hizo el 90% de su trabajo doctoral en EEUU de forma remota. Tomó clases universitarias virtuales desde entonces y su primera docencia universitaria de grado y postgrado también fue en forma virtual en 2013 para estudiantes que estaban en EEUU. Todo su trabajo remoto siempre fue desde su hogar en Buenos Aires. Con estos antecedentes, no es casual que cuando comenzó a dar clases presenciales incorporó tecnología para aumentar el vínculo con sus estudiantes. 
+Laura es investigadora adjunta del CONICET en la Universidad de Buenos Aires donde dirige el Co-Laboratorio de Uso Responsable de Datos. Tiene experiencia trabajando en forma remota desde Buenos Aires para el exterior desde 2006. Tomó clases universitarias virtuales desde entonces y su primera docencia universitaria de grado y postgrado también fue en forma virtual en 2013 para estudiantes que estaban en EEUU. Con estos antecedentes, no es casual que cuando comenzó a dar clases presenciales incorporó tecnología para aumentar el vínculo con sus estudiantes. 
 
-Desde 2017 lidera proyectos ejecutados por personas voluntarias alrededor del mundo. Un caso de éxito incluye la creación [de una conferencia latinoamericana](https://latin-r.com) en cuya primera edición el equipo organizador se vió por primera vez en persona. Otro caso de éxito fue [la traducción de un libro](https://es.r4ds.hadley.nz) sin conocer en persona a casi nadie de quienes lo hicieron suceder.
+Desde 2017 ha ocupado lugares de lidezrazgo o co-creado proyectos colectivos relacionados a la ciencia abierta locales, regionales e internacionales (por ejemplo, R-Ladies Global, LatinR, useR!).
 
-Laura también es instructora y entrenadora de instructores certificada por The Carpentries y tiene experiencia desarrollando cursos masivos de enseñanza online para una plataforma norteamericana (que elige no nombrar por problemas éticos de la compañía). Laura es co-fundadora de MetaDocencia.
-
+Laura también se certificó como instructora y entrenadora de instructores en The Carpentries y tiene experiencia desarrollando cursos masivos de enseñanza online para una plataforma estadounidense (cuya marca no nombramos por problemas éticos de la compañía). En marzo 2020, Laura co-fundó MetaDocencia.
