@@ -37,11 +37,11 @@ weight = 10
   url = "equipo/"
   parent = "Sobre MD"
     weight = 60
-  [[main]]
-  name = "Ex Miembros"
-  url = "equipo/"
-  parent = "Sobre MD"
-    weight = 70
+#  [[main]]
+#  name = "Ex Miembros"
+#  url = "equipo/"
+#  parent = "Sobre MD"
+#    weight = 70
 
 
 
