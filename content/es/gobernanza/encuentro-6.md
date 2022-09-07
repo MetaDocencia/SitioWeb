@@ -30,7 +30,7 @@ Estos encuentros ofrecen una oportunidad de intercambio y aprendizaje, para nutr
 
 ### Sobre la invitada
 
-**Mayra Botta** se desempeña en Learning & Diversity, Equity and Inclusion Manager en Globant. Es docente, Licenciada en Psicopedagogía, Especialista en Tecnología Educativa y Magíster en Políticas Educativas.
+**Mayra Botta** se desempeña en *Learning & Diversity, Equity and Inclusion Manager* en Globant. Es docente, Licenciada en Psicopedagogía, Especialista en Tecnología Educativa y Magíster en Políticas Educativas.
 
 Se especializó en el diseño y dirección de proyectos de educación y tecnologías por profesión y luego por formación. Disfruta diseñar e implementar proyectos que involucren a múltiples actores y generen desafíos, que pongan en juego la creatividad, la colaboración e inviten a construir aprendizajes profundos y duraderos.
 
