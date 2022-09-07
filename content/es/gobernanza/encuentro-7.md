@@ -3,8 +3,7 @@ date: "2022-07-20"
 draft: false
 image:
   caption: "[Diego Pando]()"
-  alt_text: "Diego Pando, presidente de la Asociación Argentina de Estudios de Administración Pública (AAEAP) desde 2015 y Director del Núcleo de Estudios sobre Gestión Pública de la Universidad
-Metropolitana para la Educación y el Trabajo (UMET)"
+  alt_text: "Diego Pando, presidente de la AAEAP y Director del Núcleo de Estudios sobre Gestión Pública de la UMET"
 linktitle: 12/10 17 (UTC-3) Conversatorio 7
 summary: Conversatorio 7 - 12/10 17 hs. (UTC-3)
 title: "Gobernar en entornos complejos, flexibles y cambiantes - Diego Pando"
@@ -17,7 +16,7 @@ tags:
 thumbnail:
 ---
 
-![Ciclo de Encuentros de Gobernanza, Conversatorio 6. Mayra Botta - Gobernanza e innovación educativa. Miércoles 28/09 a las 17 hs. (UTC-3)](https://www.metadocencia.org/img/)
+![Ciclo de Encuentros de Gobernanza, Conversatorio 7. Diego Pando - Gobernar en entornos complejos, flexibles y cambiantes. Miércoles 12/10 a las 17 hs. (UTC-3)](https://www.metadocencia.org/img/)
 
 ### Sobre el conversatorio
 
