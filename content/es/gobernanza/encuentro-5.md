@@ -5,7 +5,7 @@ image:
   caption: "[Andrés Piazza]()"
   alt_text: "Andrés Piazza, Director del Instituto de Desarrollo Digital de América Latina y el Caribe"
 linktitle: 14/09 17 (UTC-3) Conversatorio 5
-summary: Conversatorio 5 - 14/08 17 hs. (UTC-3)
+summary: Conversatorio 5 - 14/09 17 hs. (UTC-3)
 title: "Los aspectos normativos de la gobernanza - Andrés Piazza"
 authors:
   - MetaDocencia
