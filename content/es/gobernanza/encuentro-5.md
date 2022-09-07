@@ -4,7 +4,7 @@ draft: false
 image:
   caption: "[Andrés Piazza]()"
   alt_text: "Andrés Piazza, Director del Instituto de Desarrollo Digital de América Latina y el Caribe"
-linktitle: 31/08 17 (UTC-3) Conversatorio 4
+linktitle: 14/09 17 (UTC-3) Conversatorio 5
 summary: Conversatorio 5 - 14/08 17 hs. (UTC-3)
 title: "Los aspectos normativos de la gobernanza - Andrés Piazza"
 authors:
@@ -20,7 +20,7 @@ thumbnail:
 
 ### Sobre el conversatorio
 
-En el quinto conversatorio del **Ciclo de encuentros de gobernanza**, nos proponemos aprender de la experiencia de **Andrés Piazza** y su trayectoria en el [IDD LAC](https://iddlac.org/); comprender los desafíos y oportunidades que se presentan al diseñar políticas públicas y proyectos que requieren de consensos amplios, alianzas sólidas y coodinación de acciones entre distintas partes interesadas.
+En el quinto conversatorio del **Ciclo de encuentros de gobernanza**, nos proponemos aprender de la experiencia de **Andrés Piazza** y su trayectoria en el [IDD LAC](https://iddlac.org/); comprender los desafíos y oportunidades que se presentan al diseñar políticas públicas y proyectos que requieren de consensos amplios, alianzas sólidas y coordinación de acciones entre distintas partes interesadas.
 
 El encuentro se llevará a cabo el **miércoles 14 de septiembre de 17 a 18 (UTC-3)** y estará guiado por [Irene Vazano](https://www.metadocencia.org/authors/irenevazano/), quien participa de los equipos de Gobernanza, Infraestructura y Enseñanza de MetaDocencia, y [Laura Ascenzi](https://www.metadocencia.org/authors/laurel/), coordinadora de Comunicación y Comunidades de MetaDocencia.
 
