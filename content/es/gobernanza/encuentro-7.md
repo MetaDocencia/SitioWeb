@@ -20,8 +20,7 @@ thumbnail:
 
 ### Sobre el conversatorio
 
-En el séptimo conversatorio del **Ciclo de encuentros de gobernanza**, nos proponemos aprender de la experiencia de [**Diego Pando**](https://www.linkedin.com/in/diego-pando-6a7bb04/?
-originalSubdomain=ar) y su experiencia como presidente de la Asociación Argentina de Estudios de Administración Pública (AAEAP) desde 2015 y Director del Núcleo de Estudios sobre Gestión Pública de la Universidad
+En el séptimo conversatorio del **Ciclo de encuentros de gobernanza**, nos proponemos aprender de la experiencia de [**Diego Pando**](https://www.linkedin.com/in/diego-pando-6a7bb04/?originalSubdomain=ar) y su experiencia como presidente de la Asociación Argentina de Estudios de Administración Pública (AAEAP) desde 2015 y Director del Núcleo de Estudios sobre Gestión Pública de la Universidad
 Metropolitana para la Educación y el Trabajo (UMET); introducir aspectos teóricos/prácticos relacionados a modelos de gobernanza, gestión y cambio en entornos complejos y diversos; conocer las ventajas y los desafíos que plantea la tecnología para favorecer la transparencia institucional y la rendición de cuentas.
 
 El encuentro se llevará a cabo el **miércoles 12 de octubre de 17 a 18 (UTC-3)** y estará guiado por [Jesica Formoso](https://www.metadocencia.org/authors/jformoso/), quien participa de los equipos de Gobernanza y Enseñanza de MetaDocencia, y [Paz Míguez](https://www.metadocencia.org/authors/pazmiguez/), coordinadora de Proyecto y Desarrollo de Cursos de MetaDocencia.
