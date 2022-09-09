@@ -16,7 +16,7 @@ tags:
 thumbnail:
 ---
 
-![Ciclo de Encuentros de Gobernanza, Conversatorio 6. Mayra Botta - Gobernanza e innovación educativa. Miércoles 28/09 a las 17 hs. (UTC-3)](https://www.metadocencia.org/img/)
+![Ciclo de Encuentros de Gobernanza, Conversatorio 6. Mayra Botta - Gobernanza e innovación educativa. Miércoles 28/09 a las 17 hs. (UTC-3)](https://www.metadocencia.org/img/GobernanzaMD6.png)
 
 ### Sobre el conversatorio
 
