@@ -16,7 +16,7 @@ tags:
 thumbnail:
 ---
 
-![Ciclo de Encuentros de Gobernanza, Conversatorio 7. Diego Pando - Gobernar en entornos complejos, flexibles y cambiantes. Miércoles 12/10 a las 17 hs. (UTC-3)](https://www.metadocencia.org/img/GobernanzaMD-07.png)
+![Ciclo de Encuentros de Gobernanza, Conversatorio 7. Diego Pando - Gobernar en entornos complejos, flexibles y cambiantes. Miércoles 12/10 a las 17 hs. (UTC-3)](https://www.metadocencia.org/img/GobernanzaMD-07.jpg)
 
 ### Sobre el conversatorio
 
