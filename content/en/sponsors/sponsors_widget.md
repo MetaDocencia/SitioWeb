@@ -8,7 +8,7 @@
   active = true  # Activate this widget? true/false
   weight = 57  # Order that this section will appear.
   
-  title = "Auspiciantes"
+  title = "Sponsors"
   subtitle = ""
   
   [design]
@@ -50,17 +50,16 @@
   css_class = ""
 +++
 
-
-
-
+</br> </br> 
+<style>
+  .row-sponsor {
+    text-align:center;
+      width:100%;
+  }
+</style>
+</br></br>
+<div class="row-sponsor">
 <div class="row">
-
-  <div class="col-12 col-sm-auto">
-     <figure>
-    <a href="https://www.moore.org/" target="_blank" rel="noopener"><img src="/img/GaBMF_logo_2022.png" alt="The Gordon and Betty Moore Foundation"></a>
-    </figure>
-  </div>
-
   <div class="col-12 col-sm-auto">
      <figure>
     <a href="https://chanzuckerberg.com/" target="_blank" rel="noopener"><img src="/img/CZI_logo_2022.png" alt="Chan Zuckerberg Initiative"></a>
@@ -73,13 +72,13 @@
     </figure>
   </div>
   
-</div>
-  
+</div></div>
+</br></br></br>
 
-## Auspiciantes anteriores
- 
+## Previous sponsors
+  </br>
+<div class="row-sponsor">
 <div class="row">
-
   <div class="col-12 col-sm-auto">
     <figure>
       <a href="https://www.open-bio.org/" target="_blank" rel="noopener"><img src="/img/obf_logo_2022.png" alt="Open Bioinformatics Foundation"></a>
@@ -99,6 +98,10 @@
     <figcaption>E.E.A. INTA Anguil Ing, Agr. Guillermo Covas</figcaption>  
     </figure>
   </div>
+  <div class="col-12 col-sm-auto">
+     <figure>
+    <a href="https://www.moore.org/" target="_blank" rel="noopener"><img src="/img/GaBMF_logo_2022.png" alt="The Gordon and Betty Moore Foundation"></a>
+    </figure>
+  </div>
 
-</div>
-  
+</div></div>
