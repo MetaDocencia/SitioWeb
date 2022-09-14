@@ -4,82 +4,97 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-name = "Sobre MD"
+name = "Sobre MetaDocencia"
 url = ""
 weight = 10
 #  [[main]]
 #  name = "Origen"
 #  url = ""
-#  parent = "Sobre MD"
+#  parent = "Sobre MetaDocencia"
 #    weight = 10
   [[main]]
   name = "Misión y Visión"
   url = "authors/metadocencia/"
-  parent = "Sobre MD"
+  parent = "Sobre MetaDocencia"
     weight = 20
-#  [[main]]
-#  name = "Valores"
-#  url = ""
-#  parent = "Sobre MD"
-#    weight = 30
-#  [[main]]
-#  name = "Código de conducta"
-#  url = "authors/metadocencia/cdc/"
-#  parent = "Sobre MD"
-#    weight = 40
-[[main]]
+  [[main]]
+  name = "Valores"
+  url = "authors/metadocencia/"
+  parent = "Sobre MetaDocencia"
+    weight = 30
+  [[main]]
+  name = "Pautas de convivencia"
+  url = "authors/metadocencia/cdc/"
+  parent = "Sobre MetaDocencia"
+    weight = 40
+  [[main]]
   name = "Accesibilidad"
   url = "post/perfiles_accesibilidad/"
-  parent = "Sobre MD"
+  parent = "Sobre MetaDocencia"
     weight = 50
   [[main]]
   name = "Equipo"
   url = "equipo/"
-  parent = "Sobre MD"
+  parent = "Sobre MetaDocencia"
     weight = 60
 #  [[main]]
 #  name = "Ex Miembros"
 #  url = "equipo/"
-#  parent = "Sobre MD"
+#  parent = "Sobre MetaDocencia"
 #    weight = 70
 
 
 
 [[main]]
-name = "Propuestas"
+name = "Qué hacemos"
 url = ""
 weight = 20
   [[main]]
   name = "Cursos"
   url = "cursos/"
-  parent = "Propuestas"
+  parent = "Qué hacemos"
   weight = 10
- #[[main]]
- #  name = "Presentaciones"
- #  url = "#talks"
- #  parent = "Propuestas"
- #  weight = 20
-  # [[main]]
- # name = "Tipologías"
- # url = ""
- # parent = "Propuestas"
- #   weight = 30
- # [[main]]
- # name = "Agenda"
- # url = ""
- # parent = "Propuestas"
- #   weight = 40
+  [[main]]
+  name = "Cursos"
+  url = "cursos/"
+  parent = "Qué hacemos"
+  weight = 20
+  [[main]]
+  name = "Eventos"
+  url = "eventos/"
+  parent = "Qué hacemos"
+    weight = 30
+  [[main]]
+  name = "Consultoría"
+  url = "consultoria/"
+  parent = "Qué hacemos"
+    weight = 40
  # [[main]]
  # name = "Inscripciones"
  # url = ""
- # parent = "Propuestas"
+ # parent = "Qué hacemos"
  #   weight = 50
 
 
  [[main]]
-  name = "Eventos"
-  url = "eventos/"
-  weight = 40
+  name = "Publicaciones"
+  url = ""
+   weight = 40
+  [[main]]
+  name = "Blog"
+  url = "#publicaciones"
+  parent = "Publicaciones"
+   weight = 10
+  [[main]]
+  name = "Prensa"
+  url = "prensas"
+  parent = "Publicaciones"
+   weight = 20
+ # [[main]]
+ # name = "Boletines"
+ # url = ""
+ # parent = "Publicaciones"
+ #  weight = 30
 
 
 [[main]]
@@ -101,27 +116,6 @@ weight = 30
   url = "#contact"
   parent = "Apoyos"
     weight = 30
-
-
-[[main]]
-  name = "Publicaciones"
-  url = ""
-   weight = 40
-  [[main]]
-  name = "BLOG"
-  url = "#publicaciones"
-  parent = "Publicaciones"
-   weight = 10
-  [[main]]
-  name = "Prensa"
-  url = "prensas"
-  parent = "Publicaciones"
-   weight = 20
- # [[main]]
- # name = "Boletines"
- # url = ""
- # parent = "Publicaciones"
- #  weight = 30
 
 
 
