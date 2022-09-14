@@ -5,82 +5,97 @@
   
 
 [[main]]
-name = "About MD"
+name = "About Us"
 url = ""
 weight = 10
 #  [[main]]
-#  name = "Origen"
+#  name = "Origin"
 #  url = ""
-#  parent = "About MD"
+#  parent = "About Us"
 #    weight = 10
   [[main]]
-  name = "Mission y Vision"
+  name = "Mission and Vision"
   url = "authors/metadocencia/"
-  parent = "About MD"
+  parent = "About Us"
     weight = 20
-#  [[main]]
-#  name = "Values"
-#  url = ""
-#  parent = "About MD"
-#    weight = 30
-#  [[main]]
-#  name = "Code of Conduct"
-#  url = "authors/metadocencia/cdc/"
-#  parent = "About MD"
-#    weight = 40
-[[main]]
+  [[main]]
+  name = "Values"
+  url = "authors/metadocencia/"
+  parent = "About Us"
+    weight = 30
+  [[main]]
+  name = "Code of Conduct"
+  url = "authors/metadocencia/cdc/"
+  parent = "About Us"
+    weight = 40
+  [[main]]
   name = "Accesibility"
   url = "post/accessibility_profiles/"
-  parent = "About MD"
+  parent = "About Us"
     weight = 50
   [[main]]
   name = "Team"
   url = "equipo/"
-  parent = "About MD"
+  parent = "About Us"
     weight = 50
-  [[main]]
-  name = "Ex Members"
-  url = "equipo/"
-  parent = "About MD"
-    weight = 50
+#  [[main]]
+#  name = "Former Contributors"
+#  url = "equipo/"
+#  parent = "About Us"
+#    weight = 50
 
 
 
 [[main]]
-name = "Curricula"
+name = "What We Do"
 url = ""
 weight = 20
   [[main]]
-  name = "Courses"
+  name = "Training"
   url = "cursos/"
-  parent = "Curricula"
+  parent = "What We Do"
   weight = 10
- #[[main]]
- #  name = "Presentaciones"
- #  url = "#talks"
- #  parent = "Curricula"
- #  weight = 20
-  # [[main]]
- # name = "Typologies"
- # url = ""
- # parent = "Curricula"
- #   weight = 30
- # [[main]]
+  [[main]]
+  name = "Events"
+  url = "events/"
+  parent = "What We Do"
+  weight = 20
+  [[main]]
+  name = "Consulting"
+  url = ""
+  parent = "consulting/"
+  weight = 30
+  [[main]]
  # name = "Agenda"
  # url = ""
- # parent = "Curricula"
+ # parent = "What We Do"
  #   weight = 40
  # [[main]]
  # name = "Enrollment"
  # url = ""
- # parent = "Curricula"
+ # parent = "What We Do"
  #   weight = 50
 
 
- [[main]]
-  name = "Events"
-  url = "events/"
-  weight = 40
+[[main]]
+  name = "News"
+  url = ""
+   weight = 40
+  [[main]]
+  name = "Blog"
+  url = "blog-posts/"
+  parent = "News"
+   weight = 10
+  [[main]]
+  name = "Press"
+  url = "prensas"
+  parent = "News"
+   weight = 20
+ # [[main]]
+ # name = "Boletines"
+ # url = ""
+ # parent = "News"
+ #  weight = 30
 
 
 [[main]]
@@ -105,29 +120,7 @@ weight = 30
 
 
 [[main]]
-  name = "Publicaciones"
-  url = ""
-   weight = 40
-  [[main]]
-  name = "Blog"
-  url = "#publicaciones"
-  parent = "Publicaciones"
-   weight = 10
-  [[main]]
-  name = "Press"
-  url = "prensas"
-  parent = "Publicaciones"
-   weight = 20
- # [[main]]
- # name = "Boletines"
- # url = ""
- # parent = "Publicaciones"
- #  weight = 30
-
-
-
-[[main]]
-  name = "Contact"
+  name = "Contact Us"
   url = ""
   weight = 50
     [[main]]
