@@ -62,10 +62,10 @@ weight = 20
   weight = 20
   [[main]]
   name = "Consulting"
-  url = ""
-  parent = "consulting/"
+  url = "authors/metadocencia/"
+  parent = "What We Do"
   weight = 30
-  [[main]]
+ #[[main]]
  # name = "Agenda"
  # url = ""
  # parent = "What We Do"
@@ -120,21 +120,21 @@ weight = 30
 
 
 [[main]]
-  name = "Contact Us"
-  url = ""
-  weight = 50
-    [[main]]
-    name = "Form"
-    url = "#contact"
-    parent = "Contact"
-    weight = 10
-#    [[main]]
-#    name = "Social Media"
-#    url = ""
-#    parent = "Contact"
-#    weight = 20    
-    [[main]]
-    name = "Newsletter"
-    url = "https://netlify.us19.list-manage.com/subscribe/post?u=92fb89ce82f9689a3b083bb35&amp;id=d8187ceaf7"
-    parent = "Contact"
-    weight = 30
+name = "Contact Us"
+url = ""
+weight = 50
+  [[main]]
+  name = "Form"
+  url = "#contact"
+  parent = "Contact Us"
+  weight = 10
+#  [[main]]
+#  name = "Social Media"
+#  url = ""
+#  parent = "Contact"
+#  weight = 20    
+  [[main]]
+  name = "Newsletter"
+  url = "https://netlify.us19.list-manage.com/subscribe/post?u=92fb89ce82f9689a3b083bb35&amp;id=d8187ceaf7"
+  parent = "Contact Us"
+  weight = 30
