@@ -69,8 +69,6 @@ Neste primeiro post, vamos explorar alguns dos aspectos culturais comunitários 
 *<center>Vetor criado por freepik - www.freepik.es</center>*
 
 ## Parte II - Espaços institucionais: do local ao global
-Este post, junto com a primeira parte, contém a versão ampliada das notas de um painel realizado durante a reunião da CZI sobre *Essential Open Source Software for Science (EOSS)* de 2021; você poderá encontrar mais detalhes sobre a motivação do evento no primeiro post.
-
 Nesta segunda parte, focamos nos espaços onde este trabalho se desenvolve, desde políticas até ambientes acadêmicos e industriais. Cada um desses contextos é bastante diferente em nossos países em relação aos EUA ou à Europa, e teremos mais chances de construir comunidades saudáveis de Código Aberto/Ciência Aberta se engajarmos as culturas de pesquisa acadêmica e desenvolvimento industrial de forma a atender suas necessidades locais.
 
 ![Imagen divisoria abstracta](https://www.metadocencia.org/img/czi-blogpost/Imagen7.png)
