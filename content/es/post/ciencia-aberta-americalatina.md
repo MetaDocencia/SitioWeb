@@ -13,7 +13,7 @@ tags:
 ---
 
 ![Imagem de capa abstrata](https://www.metadocencia.org/img/czi-blogpost/Imagen1.jpg)
-###### *<center>Vetor criado por freepik - www.freepik.es</center>*
+*<center><font size="3">Vetor criado por freepik - www.freepik.es</font></center>*
 
 ### Autores: Laura Ación, Gonzalo Peña-Castellanos, Fernando Pérez
 
@@ -26,7 +26,7 @@ Este post também está disponível em [espanhol](https://www.metadocencia.org/p
 *<center>Vetor criado por freepik - www.freepik.es</center>*
 
 ## Contexto comunitário e cultural
-Este post é uma versão ampliada das notas de um painel realizado durante a reunião da CZI sobre *Essential Open Source Software for Science (EOSS)*de 2021, com Laura Ación e Gonzalo Peña Castañeda, moderado por Fernando Pérez. Acrescentamos algum contexto adicional e cobrimos alguns tópicos que não pudemos abordar durante o painel devido a limitações de tempo. Tínhamos originalmente preparado estas notas antes do painel e sentimos que seria valioso compartilhá-las por completo.
+Este post é uma versão ampliada das notas de um painel realizado durante a reunião da CZI sobre *Essential Open Source Software for Science (EOSS)* de 2021, com Laura Ación e Gonzalo Peña Castañeda, moderado por Fernando Pérez. Acrescentamos algum contexto adicional e cobrimos alguns tópicos que não pudemos abordar durante o painel devido a limitações de tempo. Tínhamos originalmente preparado estas notas antes do painel e sentimos que seria valioso compartilhá-las por completo.
 
 Nossa motivação para este painel, a convite da equipe de Ciência Aberta da CZI, foi explorar vários aspectos dos processos e comunidades de desenvolvimento de código aberto e ciência aberta na América Latina, mais especificamente na Argentina e na Colômbia, que são os países onde temos experiência mais direta. Como outras áreas em ciência e tecnologia, o desenvolvimento de código aberto científico tende a ser dominado por atividades originadas na América do Norte e na Europa Ocidental. Mas para nós (oriundos dos dois países mencionados), sua verdadeira promessa é oferecer não apenas acesso mas também agência, como participantes e co-criadores de primeira classe, a pessoas de todas as nações.
 
@@ -174,7 +174,7 @@ Contato: [website](http://lacion.rbind.io), [twitter](https://twitter.com/_lacio
 Afiliação: [MetaDocencia](https://www.metadocencia.org/) e [Instituto de Cálculo - UBA - CONICET](https://www.ic.fcen.uba.ar/en/), Buenos Aires, Argentina.
 
 ### Gonzalo Peña-Castellanos 
-**Gonzalo Peña Castellanos** é um engenheiro civil colombiano com mestrados em Hidroinformática e Engenharia Sanitária. Tendo trabalhado inicialmente com previsão de inundações em tempo real e downscaling de modelos de circulação geral/global para aplicações urbanas, ele descobriu uma paixão pelo desenvolvimento de software e pela ciência de dados que o levou a colaborar em diferentes projetos de código aberto e a eventualmente se juntar à Anaconda e atualmente à Quansight como Engenheiro Sênior de Software. Hoje, é desenvolvedor core do JupyterLab, trabalhando em localização e internacionalização, e colaborador principal do projeto napari, com experiência em desenvolvimento desktop, frontend e backend. Gonzalo é um membro ativo da comunidade de código aberto, contribuindo com diferentes projetos como parte do grupo de trabalho de subsídios da Fundação Python Software e líder da comunidade Python Colombia, ajudando a formar e organizar comunidades como Django Girls Colombia, Python Bucaramanga, conferências nacionais e latino-americanas de Python, PyCon Colombia e SciPy Latam e, mais recentemente, a comunidade Python en Español.
+**Gonzalo Peña-Castellanos** é um engenheiro civil colombiano com mestrados em Hidroinformática e Engenharia Sanitária. Tendo trabalhado inicialmente com previsão de inundações em tempo real e downscaling de modelos de circulação geral/global para aplicações urbanas, ele descobriu uma paixão pelo desenvolvimento de software e pela ciência de dados que o levou a colaborar em diferentes projetos de código aberto e a eventualmente se juntar à Anaconda e atualmente à Quansight como Engenheiro Sênior de Software. Hoje, é desenvolvedor core do JupyterLab, trabalhando em localização e internacionalização, e colaborador principal do projeto napari, com experiência em desenvolvimento desktop, frontend e backend. Gonzalo é um membro ativo da comunidade de código aberto, contribuindo com diferentes projetos como parte do grupo de trabalho de subsídios da Fundação Python Software e líder da comunidade Python Colombia, ajudando a formar e organizar comunidades como Django Girls Colombia, Python Bucaramanga, conferências nacionais e latino-americanas de Python, PyCon Colombia e SciPy Latam e, mais recentemente, a comunidade Python en Español.
 
 Contato: gpena@quansight.com, perfil en [LinkedIn](https://www.linkedin.com/in/goanpeca).
 
