@@ -25,8 +25,8 @@ This post is also available in [Spanish](https://www.metadocencia.org/post/cienc
 ![Imagen abstracta de portada](https://www.metadocencia.org/img/czi-blogpost/Imagen2.png)
 *<center>Theme vector created by freepik - www.freepik.es</center>*
 
-## Part I - Community and cultural context
-This post, and its follow-up companion, are an extended write-up of a panel held during the 2021 CZI Essential Open Source Software for Science (EOSS) meeting, with Laura Ación and Gonzalo Peña Castañeda, moderated by Fernando Pérez. We've added some additional context and we cover a few topics that we were not able to get into during the panel due to time constraints. We had originally prepared these notes prior to the panel, and felt that it would be valuable to share them in full. 
+## Community and cultural context
+This post is an extended write-up of a panel held during the 2021 CZI Essential Open Source Software for Science (EOSS) meeting, with Laura Ación and Gonzalo Peña Castañeda, moderated by Fernando Pérez. We've added some additional context and we cover a few topics that we were not able to get into during the panel due to time constraints. We had originally prepared these notes prior to the panel, and felt that it would be valuable to share them in full. 
 
 Our motivation for this panel, at the invitation of the CZI Open Science team, was to explore various aspects of the Open Source and Open Science development processes and communities in Latin America, more specifically in Argentina and Colombia, which are the countries where we have the most direct experience. Like other areas in science and technology, Scientific Open Source development tends to be dominated by activity originating in North America and Western Europe. But for us (who all hail from these two countries), its real promise lies in offering not only access, but agency as first-class participants and co-creators, to people from all nations. 
 
@@ -66,8 +66,8 @@ This is a rich and complex topic, one that deserves both discussion and study. W
 ![Imagen divisoria abstracta](https://www.metadocencia.org/img/czi-blogpost/Imagen6.png)
 *<center>Theme vector created by freepik - www.freepik.es</center>*
 
-## Parte II - Institutional spaces: from the local to the global
-In this second part, we look at the spaces where this work develops, from policies to academic and industrial settings. Each of these contexts is quite different in our countries than in the US or Europe, and we will have a better chance of building healthy Open Source/Open Science communities if we engage the academic research and industrial development cultures in ways that meet their local needs.
+## Institutional spaces: from the local to the global
+In this section, we look at the spaces where this work develops, from policies to academic and industrial settings. Each of these contexts is quite different in our countries than in the US or Europe, and we will have a better chance of building healthy Open Source/Open Science communities if we engage the academic research and industrial development cultures in ways that meet their local needs.
 
 ![Imagen divisoria abstracta](https://www.metadocencia.org/img/czi-blogpost/Imagen7.png)
 *<center>Theme vector created by freepik - www.freepik.es</center>*
