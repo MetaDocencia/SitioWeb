@@ -12,13 +12,14 @@ tags:
   - MetaDocencia
 ---
 
-Publicación original: []()
+![Imagen abstracta de portada](https://www.metadocencia.org/img/czi-blogpost/Imagen1.jpg)
+*<center>Vector de temas creado por freepik - www.freepik.es</center>*
 
 **Autores: Laura Ación, Gonzalo Peña-Castellanos, Fernando Pérez**
 
 *Traducido al español y al portugués por [Laurel Ascenzi](https://www.metadocencia.org/authors/laurel/) y [Melissa Black](https://www.metadocencia.org/authors/melissa/). Imágenes: [Julián Buede](https://www.metadocencia.org/authors/jbuede/)*
 
-![Imagen abstracta de portada](https://www.metadocencia.org/img/czi-blogpost/Imagen1.jpg)
+![Imagen abstracta de portada](https://www.metadocencia.org/img/czi-blogpost/Imagen2.jpg)
 *<center>Vector de temas creado por freepik - www.freepik.es</center>*
 
 ## Parte I - Contexto comunitario y cultural
@@ -30,7 +31,8 @@ Se trata de un tema rico y complejo, que merece ser debatido y estudiado. Somos 
 
 En esta primera publicación, exploraremos algunos de los aspectos culturales de la comunidad y de la región que presentan barreras o un contexto singular para el desarrollo del software de Código Abierto y las prácticas de Ciencia Abierta en nuestros países. 
 
-![Imagen divisoria abstracta](https://www.metadocencia.org/img/czi-blogpost/Imagen2.png)
+![Imagen divisoria abstracta](https://www.metadocencia.org/img/czi-blogpost/Imagen3.png)
+*<center>Vector de temas creado por freepik - www.freepik.es</center>*
 
 ### La localización y el papel del inglés como lengua de intercambio
 **Pregunta:** Ambos abordaron el idioma local como una herramienta para ampliar el alcance de la Ciencia Abierta en América Latina. Sin embargo, la traducción es un proceso laborioso y sabemos que, en última instancia, las personas que hacen ciencia necesitan dominar el inglés. ¿Podrían comentar por qué, a pesar de estas dificultades, siguen apoyando la necesidad de traducir herramientas y materiales del inglés a otros idiomas?
@@ -39,10 +41,16 @@ En esta primera publicación, exploraremos algunos de los aspectos culturales de
 
 **Gonzalo:** Bueno, los científicos antes de serlo son personas, y son niños, y la pasión por el descubrimiento de la investigación y la innovación es algo que podemos empezar muy temprano. Aunque nuestros países estén atrasados en la alfabetización en inglés, no hay razón para atrasarse en tecnología, programación, alfabetización en datos. El argumento de que un científico debe saber inglés, entonces no hay necesidad de traducir nada, es fuerte, pero también es excluyente para cualquier persona que no sea un científico, y queremos aumentar la alfabetización y la promoción científica. Tomemos el ejemplo de Django Girls: como hombre que trabaja organizando y asesorando en ese proyecto, a menudo me preguntan por qué tiene que ser sólo para chicas, que es sexista, que es excluyente. Bueno, la verdad es que es un parche temporal, en un mundo ideal no deberíamos necesitar marcar la diferencia, pero hasta que lleguemos ahí seguiremos usando y necesitando parches.
 
+![Captura de pantalla de la conferencia EOSS](https://www.metadocencia.org/img/czi-blogpost/Imagen4.png)
+*Influencia del idioma inglés en la producción global de ciencia abierta, extraída de la presentación visual de Gonzalo Peña-Castellanos para la conferencia EOSS 2021.*
+
 ### Barreras más allá del idioma
 **Pregunta:** Según su experiencia, además de la barrera del idioma, ¿qué otras barreras existen para el desarrollo de comunidades de práctica de Código Abierto y Ciencia Abierta en América Latina?
 
 **Laura:** La actual asimetría de poder y privilegios entre América Latina y las regiones de altos ingresos es la principal barrera. Todo se reduce a dinero o tiempo. Hasta que el status quo cambie para desmantelar siglos de injusticia, invertir en la educación de las actuales y nuevas generaciones (empezando por la situación de cada geografía) es la forma de poner a América Latina en el mapa del Código Abierto y la Ciencia Abierta. Transplantar iniciativas surgidas en lugares más favorecidos a  América Latina es un reto porque no se traducen bien. Por ejemplo, a menudo, la jerga es difícil de explicar o traducir. La cantidad de puntos ciegos que tiene la gente de fuera del territorio suele ser increíble para la gente local. Cuando vivís en América Latina, los problemas son obvios, pero son difíciles de entender cuando ya no estás en el territorio. En definitiva, todo se reduce a lo difícil que es ponerse en los zapatos de otra persona. Por eso es fundamental contar con referentes locales que tengan un historial de defensa del bien colectivo en las mesas de decisión internacionales. Esas personas comprenderán mejor qué ideas encajan a nivel local y cuáles no. Cuanto más diálogo haya entre todas las geografías, más rápido caerán todas las barreras. 
+
+![Captura de pantalla de la conferencia EOSS](https://www.metadocencia.org/img/czi-blogpost/Imagen5.png)
+*Mapa que muestra el tamaño de los países de acuerdo al volumen de publicaciones científicas (Web of Science, 2016). Imagen extraída de la presentación visual de Laura Ación para la conferencia EOSS 2021, disponible en https://doi.org/10.5281/zenodo.5646442*
 
 **Gonzalo:** En cuanto a la infraestructura básica, la falta de acceso a Internet. Me refiero a un acceso estable, fiable y con buena velocidad las 24 horas del día. Creo que hay muchos esfuerzos tratando de trabajar en los temas pero en el proceso los grupos pueden especializarse y no colaborar con otros grupos. No es posible tener un organismo unificado, pero debería haber algún lugar (virtual/real) donde todas estas iniciativas puedan reunirse y trabajar juntas. El modelo de crowdsourcing ha funcionado de maravilla para muchas cosas, la pregunta es cómo podríamos aplicar esto para aumentar la cooperación entre investigadores. Otra cuestión que podría ser más común en los académicos más senior es la reticencia a participar en conferencias generales (SciPy), porque no hay memorias, ni índice, ni puntos por hacer presentaciones allí. 
 
@@ -54,17 +62,30 @@ En esta primera publicación, exploraremos algunos de los aspectos culturales de
 
 **Gonzalo:** Las cosas han ido mejorando, pero el problema de todo el trabajo voluntario es que es muy exigente. Un problema recurrente que he visto es la falta de relevo generacional, es decir, conseguir sangre nueva y caras nuevas que contribuyan a liderar las comunidades. Podemos tener todo el apoyo que queramos de diferentes empresas en el extranjero, pero eso no soluciona el tema de que haya gente local al mando. Contar con puestos remunerados para estas labores de promoción podría ser una opción y las empresas más grandes tienen cada vez más de estos roles. Hacer eventos es ahora más fácil, ya que hay confianza en las comunidades, por lo que los patrocinadores siguen viniendo. La tutoría también es una buena forma de intentar conseguir personas nuevas, pero también lleva tiempo. Es innegable el impacto que ha tenido el crecimiento de Python en los últimos años. Tengo diferencias con la forma en que se realizan algunos de los eventos y conferencias, y tenemos que encontrar aquello que funciona mejor para nuestros propios países, pero eso también tiene que ver con los valores y objetivos.
 
+![Imagen divisoria abstracta](https://www.metadocencia.org/img/czi-blogpost/Imagen6.png)
+*<center>Vector de temas creado por freepik - www.freepik.es</center>*
+
 ## Parte II - Espacios institucionales: de lo local a lo global
 Esta publicación, junto a su primera parte, contiene una versión ampliada del panel desarrollado durante la reunión 2021 del *CZI Essential Open Source Software for Science (EOSS)*. Más detalles sobre la motivación del evento en la primera parte.
 
 En esta segunda parte, examinamos los espacios en los que se desarrolla este trabajo, desde las políticas hasta los entornos académicos e industriales. Cada uno de estos contextos es bastante diferente en nuestros países que en los EE.UU. o Europa, y tendremos una mejor oportunidad de construir comunidades saludables de Código Abierto/Ciencia Abierta si involucramos a las culturas de investigación académica y desarrollo industrial de manera que satisfagan sus necesidades locales.
+
+![Imagen divisoria abstracta](https://www.metadocencia.org/img/czi-blogpost/Imagen7.png)
+*<center>Vector de temas creado por freepik - www.freepik.es</center>*
 
 ### Políticas: aplicación y obstáculos
 **Pregunta:** ¿Existen políticas públicas para promover el Código Abierto y la Ciencia Abierta en sus países, o en otras partes de América Latina? ¿Cómo se implementan estas políticas? ¿Podría identificar las mayores dificultades para llevarlas adelante?
 
 **Laura:** No conozco mucho sobre políticas públicas en estas áreas. Sé que hay una falta de incentivos para hacer Código y Ciencia Abierta en la academia en nuestros países. Por lo tanto, sospecho que no hay muchas políticas que se apliquen. Un aspecto importante es que, incluso quienes nos dedicamos a la investigación en Latinoamérica y estamos a favor de la apertura de los datos, el código y la ciencia, a veces manifestamos preocupación por la asimetría global de la Ciencia Abierta. Por ejemplo, puede llevar años recopilar datos valiosos de forma frugal, con gran esfuerzo y trabajo. En el momento en que el conjunto de datos está abierto, un laboratorio de una región de altos ingresos pone a sus diez personas altamente calificadas para analizar los datos y escribir los artículos de ese conjunto de datos. Por lo tanto, como muchos de los debates que emergen en [Open Life Science](https://openlifesci.org/), el paradigma actual de la Ciencia Abierta tiene incorporada una asimetría sistémica de poder y privilegios, el elefante que muestro en [esta presentación](https://zenodo.org/record/5646442#.YyMVinaZNPZ). La principal barrera es la falta de conversaciones francas que conduzcan a acciones responsables para cambiar el paradigma y desmantelar las asimetrías. Por supuesto, esto no es un proceso trivial o rápido, porque los problemas son sistémicos en nuestras sociedades. Sin embargo, veo que el fruto más fácil es democratizar las herramientas a través de una educación accesible. En América Latina esto significa, entre otras cosas, gratuidad, en el idioma local, con interés local, atendiendo a las necesidades locales de accesibilidad. Otra fruta madura son las métricas. Hasta que las asimetrías desaparezcan, debemos cambiar las métricas del sistema. Por ejemplo, dando el mismo reconocimiento en nuestros sistemas a la colección y mantenimiento de datos, a la escritura y mantenimiento de código, a la publicación de un artículo o a la organización de comunidades y eventos. Estas actividades son cruciales para que la ciencia y el código abierto prosperen, pero en el mundo académico sólo cuenta la publicación de artículos. Además, creo que debemos dar crédito extra si las personas hacen cualquiera de estas cosas a pesar de la marginación sistémica que juega en su contra. En la América Latina académica, tenemos décadas de experiencia adaptando las métricas internacionales a nuestra región. Por ejemplo, indexamos nuestras revistas regionales para evaluar mejor a quienes hacen ciencia en nuestra región usando [Scielo](https://scielo.org/). Podemos enseñar a otras regiones sin experiencia a adaptar las métricas del sistema.
 
+![Imagen que muestra las asimetrías de poder en el sistema](https://www.metadocencia.org/img/czi-blogpost/Imagen8.png)
+*Fuente: https://doi.org/10.1371/journal.pmed.1003604
+Imagen extraída de la presentación visual de Laura Ación para la conferencia EOSS 2021, disponible en https://doi.org/10.5281/zenodo.5646442*
+
 **Gonzalo:** Incluso antes de la pandemia, el gobierno colombiano ha comenzado a promover iniciativas para mejorar la alfabetización en datos y ha generado muchos programas diferentes para formar profesionales con antecedentes diversos (Colombia 2.0, 3.0, etc.). Sin embargo, esto parece estar dirigido más a profesionales en ejercicio y no a los académicos y científicos. También acceso a internet en las regiones (¡escándalo reciente en los proveedores de los puntos wifi!). No hay leyes que impongan o incluso promuevan el uso de tecnologías de código abierto. Varios proyectos se iniciaron en la década de 2000, pero se archivaron o se modificó el propósito inicial. Los datos abiertos son cada vez más frecuentes.
+
+![Imagen divisoria abstracta](https://www.metadocencia.org/img/czi-blogpost/Imagen9.png)
+*<center>Vector de temas creado por freepik - www.freepik.es</center>*
 
 ### Academia: del uso a la participación y la contribución
 **Pregunta:** El código abierto ha creado nuevas y complejas relaciones entre el mundo académico y la industria. En primer lugar, me gustaría preguntarles cómo ven la cultura del Código Abierto y la Ciencia Abierta en los círculos académicos de sus países. Tengo especial curiosidad por la adopción, o no, de una cultura de participación, contribución y liderazgo en los proyectos de Código Abierto y los esfuerzos de Ciencia Abierta, no sólo en relación al uso y acceso (aunque eso también es importante).
@@ -72,6 +93,9 @@ En esta segunda parte, examinamos los espacios en los que se desarrolla este tra
 **Laura:** Una estimación muy aproximada, basada en haber obtenido mi doctorado en Estados Unidos en 2011 y luego transicionar al sistema académico de Argentina, es que en América Latina estamos como Estados Unidos hace una década en términos de adopción, participación, contribución y liderazgo en la Ciencia Abierta. Las comunidades de práctica inclusivas que bajan la mayor cantidad de barreras posibles para la participación internacional, como R-Ladies, PyLadies, Open Life Science o The Turing Way, ayudan a cambiar esto. Pero necesitamos muchas más. Además, las comunidades de práctica serán mucho más efectivas si nacen en las geografías menos favorecidas y llegan a tener un alcance internacional, en lugar de comenzar en los países de altos ingresos y obtener un alcance global a partir de ahí.
 
 **Gonzalo:** La pandemia ha sido tanto una maldición como una bendición, y en este aspecto ha ayudado a impulsar muchas cosas hacia el futuro. En mi experiencia personal, tener más colaboradores de código abierto ha sido muy difícil. Tenemos una mentalidad de consumidor muy grande en el sentido de que consumimos muchas herramientas de código abierto, pero todavía tenemos que dar el salto para contribuir y luego dar el salto para crear. Probablemente necesitamos más entrenamiento, más caras visibles y más incentivos para que la gente contribuya. He estado en contacto con diferentes profesores de mi universidad y algunos de ellos han empezado a trabajar con herramientas de código abierto y todos sus estudiantes las están utilizando. Para poder avanzar realmente necesitamos incentivos académicos para estudiantes y también para docentes. El costo del software y las herramientas no suele ser un problema, ya que muchas universidades obtienen licencias académicas. No creo que necesitemos necesariamente más grupos especializados para académicos, sino que necesitamos que más académicos participen en las comunidades ya existentes, pero nos encontramos con el problema del abordaje generalista/especialista.
+
+![Captura de pantalla de la conferencia EOSS](https://www.metadocencia.org/img/czi-blogpost/Imagen10.png)
+*Darío Taraborelli resume el día 2 de la conferencia EOSS 2021 que hizo foco en actuar para ampliar la diversidad, equidad e inclusión en Ciencia Abierta y Código Abierto. El día 2 incluyó, entre otras, comunidades como MetaDocencia, Black in IA, oSTEM y Outreachy.*
 
 ### Compromiso industrial con el código abierto en América Latina
 **Pregunta:** A continuación, tengo curiosidad por el lado de la industria. A medida que surgen más empresas de América Latina y tienen un mayor alcance: ¿qué podrían hacer estas empresas para apoyar las contribuciones de código abierto - Globant, Mercado Libre, Rappi (por nombrar algunas)?
@@ -93,6 +117,9 @@ En esta segunda parte, examinamos los espacios en los que se desarrolla este tra
 **Laura:** Empezaré por la última de estas tres preguntas. Trabajando en Inteligencia Artificial (IA), permanezco en el mundo académico en Argentina sólo porque puedo vivir sin afectar el sustento de mis hijos con menos de US $1.000 por mes que gano en mi puesto académico de tiempo completo. Si tuviera que pagar un alquiler en Buenos Aires, no podría arreglármelas con este sueldo. Todas las disciplinas basadas en datos y computación están desertando el mundo académico porque los salarios académicos no son competitivos. Durante la pandemia, la enseñanza en línea hizo más accesible la educación de grado y posgrado en Argentina y la región. Estamos viendo que hay más gente interesada en la educación superior que nunca. Esa es una gran noticia, excepto que no viene acompañada de una inversión adicional en educación para pagar a quienes dan las clases y es aún peor para quienes educan en habilidades computacionales. En conversaciones con colegas de la academia que recientemente han pasado a trabajar en la industria, he aprendido que el único incentivo de la industria es maximizar los beneficios. En la IA responsable, los cambios son impulsados exclusivamente por las regulaciones y las demandas de los clientes económicamente más influyentes. Supongo que para la Ciencia Abierta es bastante similar. Los responsables políticos y la agenda pública tienen un papel importante a la hora de demandar a las empresas tecnológicas que se sumen a los esfuerzos de ser abiertas. Por otro lado, el mundo académico es conservador y tiende a desconfiar de la industria y de los cambios rápidos. Reducir las barreras administrativas para que la industria colabore con el mundo académico ayudaría. Además, una ética puramente altruista en la industria, sin planes ocultos de maximización de beneficios o de mero lavado de imagen, ayudaría a generar confianza e impulsar el cambio. Sin embargo, ¿es realista pedir y esperar que la industria sea realmente altruista? Yo creo que no. 
 
 **Gonzalo:** Aunque no soy parte de la academia, sí tengo contacto y sigo a diferentes académicos en diferentes redes y en el transcurso del último año he visto muchos casos de gente que pasó a trabajar en la industria (Mercado Libre por ejemplo). Cuando dejé mi doctorado fue porque no estaba contento con lo que estaba haciendo, pero al seguirlo siempre me pregunté qué haría cuando volviera a Colombia ya que siempre fue algo que quise hacer. Respuesta corta, ¿tienen los académicos las oportunidades y los recursos que necesitan? La mayoría no. La realidad es que quienes finalizaron un doctorado tienen que buscar diferentes oportunidades y, siendo científicos, migrar hacia la Ciencia de Datos es una opción. No es que no disfruten de su nueva vida como científicos de datos, pero muchos aterrizaron ahí porque no había otra opción. También he visto a graduados de doctorado migrar a la ingeniería de software.
+
+![Imagen divisoria abstracta](https://www.metadocencia.org/img/czi-blogpost/Imagen11.png)
+*<center>Vector de temas creado por freepik - www.freepik.es</center>*
 
 ### El crecimiento de la Ciencia con Código Abierto como un esfuerzo global
 
@@ -123,6 +150,9 @@ Respuesta más larga:
 - Necesitamos unificar esfuerzos en todo el continente, no sólo colaborando en la investigación y en la solicitud de subvenciones para la investigación, sino a todo nivel de la comunidad.
 - Hasta que alcancemos la plena alfabetización en inglés necesitamos hacer que la ciencia sea local, hay mucho por hacer en este aspecto para quienes defienden la ciencia.
 - Antes de hacer las cosas globales, tenemos que hacerlas locales.
+
+![Imagen divisoria abstracta](https://www.metadocencia.org/img/czi-blogpost/Imagen12.png)
+*<center>Vector de temas creado por freepik - www.freepik.es</center>*
 
 ## Una reflexión final: crear herramientas y conocimientos para nuestras necesidades
 
