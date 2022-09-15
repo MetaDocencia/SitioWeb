@@ -22,6 +22,8 @@ Images: [Julián Buede](https://www.metadocencia.org/authors/jbuede/)*
 
 This post is also available in [Spanish](https://www.metadocencia.org/post/ciencia-abierta-americalatina/) and [Portuguese](https://www.metadocencia.org/post/ciencia-aberta-americalatina/).
 
+[CZI Blog abridged English version](https://cziscience.medium.com/open-source-and-open-science-in-latin-america-e3a1f5cc6744)
+
 ![Imagen abstracta de portada](https://www.metadocencia.org/img/czi-blogpost/Imagen2.png)
 *<center>Theme vector created by freepik - www.freepik.es</center>*
 
