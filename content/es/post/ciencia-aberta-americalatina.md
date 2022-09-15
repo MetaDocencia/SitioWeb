@@ -32,8 +32,6 @@ Nossa motivação para este painel, a convite da equipe de Ciência Aberta da CZ
 
 Este é um tópico rico e complexo, que merece tanto discussão quanto estudo. Somos apenas três praticantes, por isso apresentamos estas idéias apenas como ponto de partida para uma conversa: nossa perspectiva se limita às fatias de nossos próprios países que conhecemos bem (a América Latina é um continente grande, rico e variado, com enorme diversidade cultural!) e não pretendemos generalizar. Mas esperamos que sirva para abrir a discussão sobre como podemos fazer do desenvolvimento do código aberto e da ciência aberta um esforço mais global, onde todas as culturas são verdadeiramente bem-vindas como iguais.
 
-Neste primeiro post, vamos explorar alguns dos aspectos culturais comunitários e regionais que apresentam barreiras ou contextos únicos para o desenvolvimento de software de código aberto e práticas de Ciência Aberta em nossos países.
-
 ![Imagen divisoria abstracta](https://www.metadocencia.org/img/czi-blogpost/Imagen3.png)
 *<center>Vetor de temas creado por freepik - www.freepik.es</center>*
 
