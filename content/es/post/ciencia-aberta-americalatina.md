@@ -13,7 +13,7 @@ tags:
 ---
 
 ![Imagen abstracta de portada](https://www.metadocencia.org/img/czi-blogpost/Imagen1.jpg)
-###### *<center>Vetor de temas creado por freepik - www.freepik.es</center>*
+###### *<center>Vetor criado por freepik - www.freepik.es</center>*
 
 ### Autores: Laura Ación, Gonzalo Peña-Castellanos, Fernando Pérez
 
