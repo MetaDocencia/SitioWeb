@@ -25,7 +25,7 @@ Esta publicación está disponible también en [portugués](https://www.metadoce
 ![Imagen abstracta de portada](https://www.metadocencia.org/img/czi-blogpost/Imagen2.png)
 *<center>Vector de temas creado por freepik - www.freepik.es</center>*
 
-## Parte I - Contexto comunitario y cultural
+## Contexto comunitario y cultural
 Esta publicación contiene la versión ampliada de un panel desarrollado durante la reunión 2021 del *CZI Essential Open Source Software for Science (EOSS)*, que contó con la participación de Laura Ación y Gonzalo Peña Castañeda, moderados por Fernando Pérez. Hemos sumado información de contexto y algunos temas que no pudimos abordar durante el panel por limitaciones de tiempo. Habíamos preparado estas notas antes del panel y consideramos valioso compartirlas en su totalidad. 
 
 Nuestra motivación para participar de este panel, por invitación de Darío Taraborelli y el resto del equipo de CZI, fue explorar varios aspectos de los procesos y comunidades de desarrollo de Código Abierto y Ciencia Abierta en América Latina, más específicamente en Argentina y Colombia, que son los países donde tenemos experiencia más directa. Al igual que otras áreas de la ciencia y la tecnología, el desarrollo de prácticas de Código Abierto para Investigación tiende a estar dominado por la actividad originada en América del Norte y Europa Occidental. Pero para quienes procedemos de estos dos países, su verdadera promesa reside en ofrecer no sólo acceso, sino representación como participantes y co-creadores, para personas de todas las naciones. 
@@ -66,8 +66,8 @@ Se trata de un tema rico y complejo, que merece ser debatido y estudiado. Somos 
 ![Imagen divisoria abstracta](https://www.metadocencia.org/img/czi-blogpost/Imagen6.png)
 *<center>Vector de temas creado por freepik - www.freepik.es</center>*
 
-## Parte II - Espacios institucionales: de lo local a lo global
-En esta segunda parte, examinamos los espacios en los que se desarrolla este trabajo, desde las políticas hasta los entornos académicos e industriales. Cada uno de estos contextos es bastante diferente en nuestros países que en los EE.UU. o Europa, y tendremos una mejor oportunidad de construir comunidades saludables de Código Abierto/Ciencia Abierta si involucramos a las culturas de investigación académica y desarrollo industrial de manera que satisfagan sus necesidades locales.
+## Espacios institucionales: de lo local a lo global
+En esta sección, examinamos los espacios en los que se desarrolla este trabajo, desde las políticas hasta los entornos académicos e industriales. Cada uno de estos contextos es bastante diferente en nuestros países que en los EE.UU. o Europa, y tendremos una mejor oportunidad de construir comunidades saludables de Código Abierto/Ciencia Abierta si involucramos a las culturas de investigación académica y desarrollo industrial de manera que satisfagan sus necesidades locales.
 
 ![Imagen divisoria abstracta](https://www.metadocencia.org/img/czi-blogpost/Imagen7.png)
 *<center>Vector de temas creado por freepik - www.freepik.es</center>*
