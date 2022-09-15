@@ -15,9 +15,10 @@ tags:
 ![Imagen abstracta de portada](https://www.metadocencia.org/img/czi-blogpost/Imagen1.jpg)
 *<center>Vector de temas creado por freepik - www.freepik.es</center>*
 
-**Autores: Laura Ación, Gonzalo Peña-Castellanos, Fernando Pérez**
+### Autores: Laura Ación, Gonzalo Peña-Castellanos, Fernando Pérez
 
-*Traducido al español y al portugués por [Laurel Ascenzi](https://www.metadocencia.org/authors/laurel/) y [Melissa Black](https://www.metadocencia.org/authors/melissa/). Imágenes: [Julián Buede](https://www.metadocencia.org/authors/jbuede/)*
+*Traducido al español y al portugués por [Laurel Ascenzi](https://www.metadocencia.org/authors/laurel/) y [Melissa Black](https://www.metadocencia.org/authors/melissa/). 
+Imágenes: [Julián Buede](https://www.metadocencia.org/authors/jbuede/)*
 
 ![Imagen abstracta de portada](https://www.metadocencia.org/img/czi-blogpost/Imagen2.png)
 *<center>Vector de temas creado por freepik - www.freepik.es</center>*
@@ -181,5 +182,6 @@ Pertenencia: [Quansight](https://www.quansight.com/), Bogotá, Colombia.
 
 ### Fernando Pérez
 **Fernando Pérez** es Profesor Asociado de Estadística en la UC Berkeley y científico en el Lawrence Berkeley National Laboratory (LBNL). Construye herramientas de código abierto para que las personas utilicen las computadoras como colaboradoras analíticas, principalmente en el ecosistema científico de Python (IPython, Jupyter y amigos). Físico computacional de formación, sus intereses de investigación incluyen cuestiones que vinculan el software y la Geociencia, y buscan construir un ecosistema computacional y de datos que permita abordar problemas como el cambio climático a partir de prácticas científicas colaborativas, abiertas, reproducibles y extensibles. Es cofundador y codirector del Eric and Wendy Schmidt Center for Data Science and Environment at Berkeley [DS4E](https://ds4e.berkeley.edu). Es cofundador del Proyecto Jupyter, la iniciativa 2i2c.org, el Berkeley Institute for Data Science y la Fundación NumFOCUS. Ha recibido el Premio ACM Software System 2017 y el Premio FSF para el Avance del Software Libre 2012.
+
 Contacto: fernando.perez@berkeley.edu, [@fperez_org](https://twitter.com/fperez_org).
 Pertenencia: [UC Berkeley](https://statistics.berkeley.edu/), [Lawrence Berkeley National Laboratory](https://www.lbl.gov/), [Project Jupyter](https://jupyter.org/), [2i2c.org](https://2i2c.org/).
