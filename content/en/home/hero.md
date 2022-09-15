@@ -47,9 +47,9 @@ hero_media = "MD_original.png"
 #  label = "Our Courses"
 #  icon = "edit"
 
-[cta_alt] 
+[cta] 
 url = "/events/"
-label = "About the eventos"
+label = "About the events"
 
 # Note. An optional note to show underneath the links.
 # [cta_note]
