@@ -6,7 +6,7 @@ title: "Código Aberto e Ciência Aberta na América Latina"
 summary: Uma conversa sobre o crescimento de comunidades globais com raízes locais
 authors: 
 
-type: post
+type: 
 weight: 1
 tags: 
   - MetaDocencia
