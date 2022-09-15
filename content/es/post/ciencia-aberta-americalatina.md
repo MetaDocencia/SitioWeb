@@ -20,7 +20,7 @@ tags:
 *Traduzido para espanhol e português por [Laurel Ascenzi](https://www.metadocencia.org/authors/laurel/) e [Melissa Black](https://www.metadocencia.org/authors/melissa/). 
 Imagens por [Julián Buede](https://www.metadocencia.org/authors/jbuede/)*
 
-Este post também está disponível em [espanhol](https://www.metadocencia.org/post/ciencia-abierta-americalatina/) e inglês.
+Este post também está disponível em [espanhol](https://www.metadocencia.org/post/ciencia-abierta-americalatina/) e [inglês](https://www.metadocencia.org/en/post/open-science-latin-america/)
 
 ![Imagen abstracta de portada](https://www.metadocencia.org/img/czi-blogpost/Imagen2.png)
 *<center>Vetor de temas creado por freepik - www.freepik.es</center>*
