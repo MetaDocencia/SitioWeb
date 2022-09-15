@@ -32,8 +32,6 @@ Nuestra motivación para participar de este panel, por invitación de Darío Tar
 
 Se trata de un tema rico y complejo, que merece ser debatido y estudiado. Somos sólo tres profesionales, por lo que presentamos estas ideas simplemente como punto de partida para la conversación: nuestra perspectiva se limita a las regiones de nuestros propios países que conocemos bien (¡América Latina es un continente grande, rico y diverso, con una enorme diversidad cultural!), y no pretendemos generalizar. Pero esperamos que sirva para abrir el debate sobre cómo podemos hacer que el desarrollo del Código Abierto y la Ciencia Abierta sea un esfuerzo más global, donde todas las culturas sean realmente bienvenidas como iguales.
 
-En esta primera publicación, exploraremos algunos de los aspectos culturales de la comunidad y de la región que presentan barreras o un contexto singular para el desarrollo del software de Código Abierto y las prácticas de Ciencia Abierta en nuestros países. 
-
 ![Imagen divisoria abstracta](https://www.metadocencia.org/img/czi-blogpost/Imagen3.png)
 *<center>Vector de temas creado por freepik - www.freepik.es</center>*
 
