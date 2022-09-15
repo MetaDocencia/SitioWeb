@@ -19,7 +19,7 @@ Publicación original: []()
 *Traducido al español y al portugués por [Laurel Ascenzi](https://www.metadocencia.org/authors/laurel/) y [Melissa Black](https://www.metadocencia.org/authors/melissa/). Imágenes: [Julián Buede](https://www.metadocencia.org/authors/jbuede/)*
 
 ![Imagen abstracta de portada](https://www.metadocencia.org/img/czi-blogpost/Imagen1.jpg)
-<center>*Vector de temas creado por freepik - www.freepik.es*</center>
+*<center>Vector de temas creado por freepik - www.freepik.es</center>*
 
 ## Parte I - Contexto comunitario y cultural
 Esta publicación contiene la versión ampliada de un panel desarrollado durante la reunión 2021 del *CZI Essential Open Source Software for Science (EOSS)*, que contó con la participación de Laura Ación y Gonzalo Peña Castañeda, moderados por Fernando Pérez. Hemos sumado información de contexto y algunos temas que no pudimos abordar durante el panel por limitaciones de tiempo. Habíamos preparado estas notas antes del panel y consideramos valioso compartirlas en su totalidad. 
