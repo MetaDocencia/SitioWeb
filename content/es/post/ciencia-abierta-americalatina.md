@@ -18,6 +18,9 @@ Publicación original: []()
 
 *Traducido al español y al portugués por [Laurel Ascenzi](https://www.metadocencia.org/authors/laurel/) y [Melissa Black](https://www.metadocencia.org/authors/melissa/). Imágenes: [Julián Buede](https://www.metadocencia.org/authors/jbuede/)*
 
+![Imagen abstracta de portada](https://www.metadocencia.org/img/czi-blogpost/Imagen1.jpg)
+*Vector de temas creado por freepik - www.freepik.es*
+
 ## Parte I - Contexto comunitario y cultural
 Esta publicación contiene la versión ampliada de un panel desarrollado durante la reunión 2021 del *CZI Essential Open Source Software for Science (EOSS)*, que contó con la participación de Laura Ación y Gonzalo Peña Castañeda, moderados por Fernando Pérez. Hemos sumado información de contexto y algunos temas que no pudimos abordar durante el panel por limitaciones de tiempo. Habíamos preparado estas notas antes del panel y consideramos valioso compartirlas en su totalidad. 
 
@@ -26,6 +29,8 @@ Nuestra motivación para participar de este panel, por invitación de Darío Tar
 Se trata de un tema rico y complejo, que merece ser debatido y estudiado. Somos sólo tres profesionales, por lo que presentamos estas ideas simplemente como punto de partida para la conversación: nuestra perspectiva se limita a las regiones de nuestros propios países que conocemos bien (¡América Latina es un continente grande, rico y diverso, con una enorme diversidad cultural!), y no pretendemos generalizar. Pero esperamos que sirva para abrir el debate sobre cómo podemos hacer que el desarrollo del Código Abierto y la Ciencia Abierta sea un esfuerzo más global, donde todas las culturas sean realmente bienvenidas como iguales.
 
 En esta primera publicación, exploraremos algunos de los aspectos culturales de la comunidad y de la región que presentan barreras o un contexto singular para el desarrollo del software de Código Abierto y las prácticas de Ciencia Abierta en nuestros países. 
+
+![Imagen divisoria abstracta](https://www.metadocencia.org/img/czi-blogpost/Imagen2.png)
 
 ### La localización y el papel del inglés como lengua de intercambio
 **Pregunta:** Ambos abordaron el idioma local como una herramienta para ampliar el alcance de la Ciencia Abierta en América Latina. Sin embargo, la traducción es un proceso laborioso y sabemos que, en última instancia, las personas que hacen ciencia necesitan dominar el inglés. ¿Podrían comentar por qué, a pesar de estas dificultades, siguen apoyando la necesidad de traducir herramientas y materiales del inglés a otros idiomas?
