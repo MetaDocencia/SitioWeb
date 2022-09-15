@@ -12,7 +12,7 @@ tags:
   - MetaDocencia
 ---
 
-[Vector de temas creado por freepik - www.freepik.es](https://www.metadocencia.org/img/czi-blogpost/Imagen1.jpg)
+![Vector de temas creado por freepik - www.freepik.es](https://www.metadocencia.org/img/czi-blogpost/Imagen1.jpg)
 
 Publicación original: []()
 
