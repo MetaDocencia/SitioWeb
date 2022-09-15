@@ -69,8 +69,6 @@ En esta primera publicación, exploraremos algunos de los aspectos culturales de
 *<center>Vector de temas creado por freepik - www.freepik.es</center>*
 
 ## Parte II - Espacios institucionales: de lo local a lo global
-Esta publicación, junto a su primera parte, contiene una versión ampliada del panel desarrollado durante la reunión 2021 del *CZI Essential Open Source Software for Science (EOSS)*. Más detalles sobre la motivación del evento en la primera parte.
-
 En esta segunda parte, examinamos los espacios en los que se desarrolla este trabajo, desde las políticas hasta los entornos académicos e industriales. Cada uno de estos contextos es bastante diferente en nuestros países que en los EE.UU. o Europa, y tendremos una mejor oportunidad de construir comunidades saludables de Código Abierto/Ciencia Abierta si involucramos a las culturas de investigación académica y desarrollo industrial de manera que satisfagan sus necesidades locales.
 
 ![Imagen divisoria abstracta](https://www.metadocencia.org/img/czi-blogpost/Imagen7.png)
