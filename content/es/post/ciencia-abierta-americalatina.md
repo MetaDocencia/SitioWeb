@@ -18,7 +18,7 @@ Publicación original: []()
 
 *Traducido al español y al portugués por [Laurel Ascenzi](https://www.metadocencia.org/authors/laurel/) y [Melissa Black](https://www.metadocencia.org/authors/melissa/). Imágenes: [Julián Buede](https://www.metadocencia.org/authors/jbuede/)*
 
-![Imagen abstracta de portada](https://www.metadocencia.org/img/czi-blogpost/Imagen1.jpg)
+{{< figure src="/img/czi-blogpost/Imagen1.jpg" alt="Imagen abstracta de portada" >}}
 *Vector de temas creado por freepik - www.freepik.es*
 
 ## Parte I - Contexto comunitario y cultural
