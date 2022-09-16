@@ -14,7 +14,7 @@ author = "MetaDocencia"
 +++
 
 <h2>Our vision</h2>
-We are an inclusive and collaborative community that improves education by empowering instructors from underserved countries.
+<p>We are an inclusive and collaborative community that improves education by empowering instructors from underserved countries.</p>
 
 <h2>Our mission</h2>
-We are a non-profit organization that nurtures a community of Spanish-speaking educators by teaching concrete, evidence-based, and student-centered educational methods. We collaboratively develop open, reusable, and accessible resources to foster effective training practices.
+<p>We are a non-profit organization that nurtures a community of Spanish-speaking educators by teaching concrete, evidence-based, and student-centered educational methods. We collaboratively develop open, reusable, and accessible resources to foster effective training practices.</p>
