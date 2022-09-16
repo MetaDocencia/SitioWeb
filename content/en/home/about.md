@@ -1,6 +1,6 @@
 +++
 # About widget.
-widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear in.
@@ -13,8 +13,8 @@ weight = 20  # Order that this section will appear in.
 author = "MetaDocencia"
 +++
 
-Our vision
+<h2>Our vision</h2>
 We are an inclusive and collaborative community that improves education by empowering instructors from underserved countries.
 
-Our mission
+<h2>Our mission</h2>
 We are a non-profit organization that nurtures a community of Spanish-speaking educators by teaching concrete, evidence-based, and student-centered educational methods. We collaboratively develop open, reusable, and accessible resources to foster effective training practices.
