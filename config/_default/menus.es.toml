@@ -24,7 +24,7 @@ weight = 10
     weight = 30
   [[main]]
   name = "Pautas de convivencia"
-  url = "authors/metadocencia/cdc/"
+  url = "cdc/"
   parent = "Sobre MetaDocencia"
     weight = 40
   [[main]]
