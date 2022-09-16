@@ -12,10 +12,9 @@ weight = 20  # Order that this section will appear in.
 # See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
 author = "MetaDocencia"
 +++
-<div>
-<h2>Our vision</h2>
-<p>We are an inclusive and collaborative community that improves education by empowering instructors from underserved countries.</p></div>
 
-<div><h2>Our mission</h2>
+<h2>Our vision</h2>
+</br><p>We are an inclusive and collaborative community that improves education by empowering instructors from underserved countries.</p>
+
+<h2>Our mission</h2>
 <p>We are a non-profit organization that nurtures a community of Spanish-speaking educators by teaching concrete, evidence-based, and student-centered educational methods. We collaboratively develop open, reusable, and accessible resources to foster effective training practices.</p>
-<div>
