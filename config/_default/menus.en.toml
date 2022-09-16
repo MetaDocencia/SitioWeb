@@ -18,11 +18,11 @@ weight = 10
   url = "authors/metadocencia/"
   parent = "About Us"
     weight = 20
-  [[main]]
-  name = "Values"
-  url = "en/values/"
-  parent = "About Us"
-    weight = 30
+#  [[main]]
+#  name = "Values"
+#  url = "en/values/"
+#  parent = "About Us"
+#    weight = 30
   [[main]]
   name = "Code of Conduct"
   url = "en/cdc/"
