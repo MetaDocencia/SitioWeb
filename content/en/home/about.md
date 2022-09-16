@@ -15,10 +15,10 @@ author = "MetaDocencia"
 
 <div class="container">
   <div class="row">
-    <div class="col" markdown="1">
+    <div class="col">
       <h1>Our Vision</h1>
     </div>
-    <div class="col" markdown="1">
+    <div class="col">
       We work to make the production, communication, and application of scientific and technical knowledge equitable globally.
     </div>
   </div>
@@ -28,10 +28,10 @@ author = "MetaDocencia"
 
 <div class="container">
   <div class="row">
-    <div class="col-md-8" markdown="1">
+    <div class="col">
       <h1>Our Mission</h1>
     </div>
-    <div class="col-md-4" markdown="1">
+    <div class="col">
       To advance innovation with a local perspective that responsibly builds scientific and technical capacities through the co-creation of networks, learning spaces, and accessible resources for Spanish-speaking communities.
     </div>
   </div>
