@@ -14,7 +14,7 @@ author = "MetaDocencia"
 +++
 
 <div class="container">
-  <div class="row">
+  <div class="row align-items-start">
     <div class="col-12 col-lg-4">
       <h1>Our Vision</h1>
     </div>
@@ -24,10 +24,10 @@ author = "MetaDocencia"
   </div>
 </div>
 
-<br><br>
+<p>&nbsp;</p>
 
 <div class="container">
-  <div class="row">
+  <div class="row align-items-start">
     <div class="col-12 col-lg-4">
       <h1>Our Mission</h1>
     </div>
