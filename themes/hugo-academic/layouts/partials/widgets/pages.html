@@ -92,7 +92,7 @@
 
     {{ if gt $count $items_count }}
     <div class="see-all">
-      <a href="{{ $archive_page.RelPermalink }}">
+      <a href="{{- $archive_page.RelPermalink -}}">
         {{ i18n $i18n | default "See all" }}
         <i class="fas fa-angle-right"></i>
       </a>
