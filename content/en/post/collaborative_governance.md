@@ -23,7 +23,7 @@ We invite you to join us and take part in the conversations, discussions, and re
 Agenda of scheduled meetings:
 
 |  Day/time (UTC-3) | Speaker & Topic |
-| ---:  | :----------- |
+| -----:  | :----------- |
 |Wed 07/20 - 5 to 6 pm | *MetaDocencia: How to Think Collaboratively About Our Governance* | 
 |Wed 08/03 - 5 to 6 pm | *Beatriz Busaniche. Governance in Action: The Experience of Fundación Vía Libre* | 
 |Wed 08/17 - 5 to 6 pm | *Fabrizio Scrollini. Governance and Open Data: The ILDA Experience* |
