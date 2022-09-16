@@ -13,7 +13,7 @@ weight = 20  # Order that this section will appear in.
 author = "MetaDocencia"
 +++
 
-<h2>Our vision</h2>
+<h2>Our vision</h2><br>
 <p>We are an inclusive and collaborative community that improves education by empowering instructors from underserved countries.</p>
 
 <h2>Our mission</h2>
