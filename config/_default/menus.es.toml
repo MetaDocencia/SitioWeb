@@ -19,7 +19,7 @@ weight = 10
     weight = 20
   [[main]]
   name = "Valores"
-  url = "authors/metadocencia/"
+  url = "valores/"
   parent = "Sobre MetaDocencia"
     weight = 30
   [[main]]
