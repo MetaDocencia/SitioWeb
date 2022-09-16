@@ -35,11 +35,11 @@ user_groups:
 
 ## Our vision
 
-We work to make the production, communication, and application of scientific and technical knowledge globally equitable.
+We work to make the production, communication, and application of scientific and technical knowledge equitable globally. 
 
 ## Our mission
 
-To advance innovation by responsibly building scientific and technical capacities with a local perspective through the co-creation of networks, learning spaces, and accessible resources for Spanish-speaking communities.
+To advance innovation with a local perspective that responsibly builds scientific and technical capacities through the co-creation of networks, learning spaces, and accessible resources for Spanish-speaking communities.
 
 ## What we offer
 
