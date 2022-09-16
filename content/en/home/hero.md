@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Short courses to teach active classes"
+title = "MetaDocencia Governance Meetings"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "MD_original.png"
@@ -42,15 +42,19 @@ hero_media = "MD_original.png"
 #  icon_pack = "fas"
 #  icon = "edit"
   
-[cta]
-  url = "/cursos/"
-  label = "Our Courses"
-  icon = "edit"
+# [cta]
+#  url = "/cursos/"
+#  label = "Our Courses"
+#  icon = "edit"
+
+[cta] 
+url = "/events/"
+label = "About the events"
 
 # Note. An optional note to show underneath the links.
 # [cta_note]
 #   label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-To participate, please fill in the registration form. We will get back to you with a proposed schedule. 
 
+Participate in the conversations that will guide the learning process to collaboratively build our form of government.
