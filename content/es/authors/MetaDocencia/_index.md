@@ -3,7 +3,7 @@ authors:
 - MetaDocencia
 bio: 
 email: ""
-name: MetaDocencia
+name: 
 social:
 - icon: envelope
   icon_pack: fas
@@ -41,40 +41,3 @@ Trabajamos para que la producción, la comunicación y la aplicación de saberes
 
 Construir capacidades científicas y técnicas en forma responsable y con mirada local, a través de la co-creación de redes, espacios de aprendizaje y recursos accesibles para comunidades hispanohablantes.
 
-## ¿Qué ofrecemos?
-
-Nos proponemos socializar herramientas prácticas para acompañar a las personas que se dedican a la docencia. Damos [cursos](/cursos) remotos. Diseñamos estos cursos pensando en docentes. Nuestros cursos también son útiles para hacer cualquier otro tipo de intercambio de conocimiento (por ejemplo, dar charlas o seminarios).
-
-Nuestros cursos se ofrecen en forma remota, son cortos y aplicados al diseño de materiales y a una gestión del espacio de intercambio tal que tus participantes maximicen su aprendizaje sin que nadie se desgaste de más. 
-
-Todos nuestros cursos son gratuitos y nuestros materiales tienen [licencia abierta](/terms). Es decir, puedes reusar o editar cualquier material que aparece en este sitio web, lo único que pedimos a cambio es que en cualquier material que generes reusando nuestros contenidos incluyas una referencia a esta web.
-
-Nuestros cursos ayudan a mejorar el aprendizaje en clases (y otros eventos de intercambio de conocimiento) presenciales y a distancia. Usamos técnicas pedagógicas modernas, basadas en evidencia, que mejoran los resultados educativos. 
-
-Además, aspiramos a formar una comunidad docente de intercambio de saberes transversal. Sabemos, y la evidencia también lo respalda, que se obtienen mejores resultados cuando enseñamos en comunidad.
-
-Otorgamos certificados de asistencia a cada curso en formato digital para aquellas personas que participaron en al menos el 80% del curso. 
-
-## ¿Qué **no** ofrecemos?
-
-* Cursos en profundidad. Nuestros cursos son todos introductorios.
-* Contenidos teóricos. Nuestros cursos son 100% prácticos.
-
-## ¿Qué modelo seguimos?
-
-Nos guían estos principios docentes:
-
-* Sé amable: todo lo demás son detalles.
-* Recordá que no sos tu estudiante...
-* ... que la mayoría de la gente prefiere fallar que cambiar ...
-* ... y que un noventa por ciento de la magia consiste en saber una sola cosa más (que tu audiencia).
-* Nunca enseñés sóla/o.
-* Nunca dudés en sacrificar la verdad por la claridad.
-* Hacé de cada error una lección.
-* Recordá que ningún material de clase sobrevive al primer contacto con estudiantes ...
-* ... que cada clase es demasiado corta para quien enseña y demasiado larga para quien la recibe ...
-* ... y que nadie tendrá más entusiasmo que vos por tu clase.
-
-Estas máximas surgen de la experiencia de [The Carpentries](https://carpentries.org), que lleva dos décadas formando docentes y están desarrolladas en el libro gratuito [Enseñar Tecnología en Comunidad (Teaching Tech Together)](https://teachtogether.tech/es/index.html).
-
-Seguimos este [código de conducta](/cdc).
