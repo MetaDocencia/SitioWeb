@@ -3,7 +3,7 @@ authors:
 - MetaDocencia
 bio: 
 email: ""
-name: MetaDocencia
+name:
 social:
 - icon: envelope
   icon_pack: fas
