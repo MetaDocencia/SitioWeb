@@ -15,10 +15,10 @@ author = "MetaDocencia"
 
 <div class="container">
   <div class="row">
-    <div class="col">
-      <h1>Our Vision</h1>
+    <div class="col-12 col-lg-4 section-heading">
+      Our Vision
     </div>
-    <div class="col">
+    <div class="col-12 col-lg-8">
       We work to make the production, communication, and application of scientific and technical knowledge equitable globally.
     </div>
   </div>
