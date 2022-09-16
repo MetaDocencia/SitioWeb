@@ -35,11 +35,11 @@ user_groups:
 
 ## Our vision
 
-We are an inclusive and collaborative community that improves education by empowering instructors from underserved countries.
+We work to make the production, communication, and application of scientific and technical knowledge globally equitable.
 
 ## Our mission
 
-We are a non-profit organization that nurtures a community of Spanish-speaking educators by teaching concrete, evidence-based, and student-centered educational methods. We collaboratively develop open, reusable, and accessible resources to foster effective training practices.
+To advance innovation by responsibly building scientific and technical capacities with a local perspective through the co-creation of networks, learning spaces, and accessible resources for Spanish-speaking communities.
 
 ## What we offer
 
