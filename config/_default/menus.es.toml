@@ -4,43 +4,43 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-name = "Sobre MetaDocencia"
+name = "Quiénes Somos"
 url = ""
 weight = 10
 #  [[main]]
 #  name = "Origen"
 #  url = ""
-#  parent = "Sobre MetaDocencia"
+#  parent = "Quiénes Somos"
 #    weight = 10
   [[main]]
   name = "Misión y Visión"
   url = "authors/metadocencia/"
-  parent = "Sobre MetaDocencia"
+  parent = "Quiénes Somos"
     weight = 20
 #  [[main]]
 #  name = "Valores"
 #  url = "valores/"
-#  parent = "Sobre MetaDocencia"
+#  parent = "Quiénes Somos"
 #    weight = 30
   [[main]]
   name = "Pautas de convivencia"
   url = "cdc/"
-  parent = "Sobre MetaDocencia"
+  parent = "Quiénes Somos"
     weight = 40
   [[main]]
   name = "Accesibilidad"
   url = "post/perfiles_accesibilidad/"
-  parent = "Sobre MetaDocencia"
+  parent = "Quiénes Somos"
     weight = 50
   [[main]]
   name = "Equipo"
   url = "equipo/"
-  parent = "Sobre MetaDocencia"
+  parent = "Quiénes Somos"
     weight = 60
 #  [[main]]
 #  name = "Ex Miembros"
 #  url = "equipo/"
-#  parent = "Sobre MetaDocencia"
+#  parent = "Quiénes Somos"
 #    weight = 70
 
 
