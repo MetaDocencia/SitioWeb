@@ -80,7 +80,7 @@ weight = 20
 [[main]]
   name = "News"
   url = ""
-   weight = 40
+   weight = 30
   [[main]]
   name = "Blog"
   url = "blog-posts/"
@@ -101,7 +101,7 @@ weight = 20
 [[main]]
 name = "Supporters"
 url = ""
-weight = 30
+weight = 40
   [[main]]
   name = "Sponsors"
   url = "sponsors/"
