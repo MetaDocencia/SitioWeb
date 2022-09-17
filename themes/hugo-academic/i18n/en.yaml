@@ -234,3 +234,8 @@
 
 - id: cookie_learn
   translation: Learn more
+
+# Footer
+
+- id: fiscal_sponsorship
+  translation: MetaDocencia, a project fiscally sponsored by Code for Science & Society.
