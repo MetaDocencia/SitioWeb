@@ -10,5 +10,6 @@ Our team has extensive experience and expertise in different disciplines and are
 * Responsible use of data for data science and artificial intelligence
 * Bioinformatics
 * Building diverse and inclusive communities of practice
+* Governance and sustainability of open science projects
 
 [Read more about our experience in this document](https://doi.org/10.5281/zenodo.7087811).
