@@ -6,7 +6,7 @@
 [[main]]
 name = "Quiénes Somos"
 url = ""
-weight = 10
+  weight = 10
 #  [[main]]
 #  name = "Origen"
 #  url = ""
@@ -48,17 +48,17 @@ weight = 10
 [[main]]
 name = "Qué hacemos"
 url = ""
-weight = 20
-  [[main]]
-  name = "Cursos"
-  url = "cursos/"
-  parent = "Qué hacemos"
-  weight = 10
-  [[main]]
-  name = "Cursos"
-  url = "cursos/"
-  parent = "Qué hacemos"
   weight = 20
+  [[main]]
+  name = "Cursos"
+  url = "cursos/"
+  parent = "Qué hacemos"
+    weight = 10
+  [[main]]
+  name = "Cursos"
+  url = "cursos/"
+  parent = "Qué hacemos"
+    weight = 20
   [[main]]
   name = "Eventos"
   url = "eventos/"
@@ -76,10 +76,10 @@ weight = 20
  #   weight = 50
 
 
- [[main]]
-  name = "Publicaciones"
-  url = ""
-   weight = 30
+[[main]]
+name = "Publicaciones"
+url = ""
+  weight = 30
   [[main]]
   name = "Blog"
   url = "#publicaciones"
@@ -100,43 +100,42 @@ weight = 20
 [[main]]
 name = "Apoyos"
 url = ""
-weight = 40
-  [[main]]
-  name = "Auspiciantes"
-  url = "sponsors/"
-  parent = "Apoyos"
-    weight = 10
-  [[main]]
-  name = "Donar"
-  url = "donar/"
-  parent = "Apoyos"
-    weight = 20
-  [[main]]
-  name = "Consultas"
-  url = "#contact"
-  parent = "Apoyos"
-    weight = 30
-
+  weight = 40
+    [[main]]
+    name = "Auspiciantes"
+    url = "sponsors/"
+    parent = "Apoyos"
+      weight = 10
+    [[main]]
+    name = "Donar"
+    url = "donar/"
+    parent = "Apoyos"
+      weight = 20
+    [[main]]
+    name = "Consultas"
+    url = "#contact"
+    parent = "Apoyos"
+      weight = 30
 
 
 [[main]]
-  name = "Contacto"
-  url = ""
+name = "Contacto"
+url = ""
   weight = 50
- [[main]]
-   name = "Formulario"
-   url = "#contact"
-   parent = "Contacto"
-   weight = 10
-#    [[main]]
-#    name = "Redes"
-#    url = ""
-#    parent = "Contacto"
-#    weight = 20    
-    [[main]]
-    name = "Newsletter"
-    url = "https://netlify.us19.list-manage.com/subscribe/post?u=92fb89ce82f9689a3b083bb35&amp;id=d8187ceaf7"
-    parent = "Contacto"
+  [[main]]
+  name = "Formulario"
+  url = "#contact"
+  parent = "Contacto"
+    weight = 10
+#   [[main]]
+#   name = "Redes"
+#   url = ""
+#   parent = "Contacto"
+#     weight = 20    
+  [[main]]
+  name = "Newsletter"
+  url = "https://netlify.us19.list-manage.com/subscribe/post?u=92fb89ce82f9689a3b083bb35&amp;id=d8187ceaf7"
+  parent = "Contacto"
     weight = 30
 
 
