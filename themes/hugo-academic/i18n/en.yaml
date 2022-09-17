@@ -241,4 +241,4 @@
   translation: MetaDocencia, a project fiscally sponsored by Code for Science & Society.
 
 - id: powered_by
-  translation: "Powered by the<a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> fpr <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>."
+  translation: "Powered by the <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>."
