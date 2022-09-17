@@ -80,17 +80,17 @@ weight = 20
 [[main]]
   name = "News"
   url = ""
-   weight = 30
+  weight = 30
   [[main]]
   name = "Blog"
-  url = "blog-posts/"
+  url = "post/"
   parent = "News"
-   weight = 10
+  weight = 10
   [[main]]
   name = "Press"
   url = "prensas"
   parent = "News"
-   weight = 20
+  weight = 20
  # [[main]]
  # name = "Boletines"
  # url = ""
