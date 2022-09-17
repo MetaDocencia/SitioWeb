@@ -82,7 +82,7 @@ url = ""
   weight = 30
   [[main]]
   name = "Blog"
-  url = "#publicaciones"
+  url = "post"
   parent = "Publicaciones"
    weight = 10
   [[main]]
