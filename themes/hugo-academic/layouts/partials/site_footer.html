@@ -3,7 +3,7 @@
   <p class="powered-by">
     MetaDocencia, un proyecto con patrocinio fiscal de Code for Science & Society.
     <br>
-    MetaDocencia, a project fiscally sponsored by Code for Science & Society.
+    {{ i18n "fiscal_sponsorship" }}
     <br>
     {{ with site.GetPage "privacy.md" }}
       {{ printf "<a href=\"%s\">%s</a>" .RelPermalink .Title | safeHTML }}
