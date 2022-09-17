@@ -113,7 +113,7 @@ url = ""
     weight = 20
   [[main]]
   name = "Consultas"
-  url = "contact"
+  url = "contacto"
   parent = "Apoyos"
     weight = 30
 
@@ -124,7 +124,7 @@ url = ""
   weight = 50
   [[main]]
   name = "Formulario"
-  url = "contact"
+  url = "contacto"
   parent = "Contacto"
     weight = 10
 #   [[main]]
