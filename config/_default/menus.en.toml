@@ -125,7 +125,7 @@ url = ""
 weight = 50
   [[main]]
   name = "Form"
-  url = "#contact"
+  url = "home/contact"
   parent = "Contact Us"
   weight = 10
 #  [[main]]
