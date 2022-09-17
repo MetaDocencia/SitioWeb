@@ -1,8 +1,6 @@
 <footer class="site-footer">
   {{ if or (site.GetPage "terms.md") (site.GetPage "privacy.md") }}
   <p class="powered-by">
-    MetaDocencia, un proyecto con patrocinio fiscal de Code for Science & Society.
-    <br>
     {{ i18n "fiscal_sponsorship" }}
     <br>
     {{ with site.GetPage "privacy.md" }}
@@ -18,9 +16,7 @@
   <p class="powered-by">
     {{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}} &middot; {{ end }}
 
-    Desarrollado a base de
-    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> para
-    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+    {{ i18n "powered_by" }}
 
     {{ if not (in (slice "docs" "updates") .Type) }}
     <span class="float-right" aria-hidden="true">
