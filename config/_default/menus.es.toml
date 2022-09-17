@@ -101,21 +101,21 @@ url = ""
 name = "Apoyos"
 url = ""
   weight = 40
-    [[main]]
-    name = "Auspiciantes"
-    url = "sponsors/"
-    parent = "Apoyos"
-      weight = 10
-    [[main]]
-    name = "Donar"
-    url = "donar/"
-    parent = "Apoyos"
-      weight = 20
-    [[main]]
-    name = "Consultas"
-    url = "contact/"
-    parent = "Apoyos"
-      weight = 30
+  [[main]]
+  name = "Auspiciantes"
+  url = "sponsors/"
+  parent = "Apoyos"
+    weight = 10
+  [[main]]
+  name = "Donar"
+  url = "donar/"
+  parent = "Apoyos"
+    weight = 20
+  [[main]]
+  name = "Consultas"
+  url = "contact"
+  parent = "Apoyos"
+    weight = 30
 
 
 [[main]]
@@ -124,7 +124,7 @@ url = ""
   weight = 50
   [[main]]
   name = "Formulario"
-  url = "contact/"
+  url = "contact"
   parent = "Contacto"
     weight = 10
 #   [[main]]
