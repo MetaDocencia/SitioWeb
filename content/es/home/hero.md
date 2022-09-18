@@ -7,7 +7,7 @@ weight = 5  # Order that this section will appear.
 
 # title = "Cursos cortos para aprender a enseñar mejor"
 
-title = "Ciclo de encuentros de gobernanza de MetaDocencia"
+title = "Encuentros de gobernanza de MetaDocencia"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "MD_original.png"
