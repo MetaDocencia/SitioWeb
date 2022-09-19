@@ -19,6 +19,7 @@ interests:
 - Education
 - Science Communication
 name: Nicolás Palopoli
+weight: 13
 organizations: 
 - name: Grupo de Bioinformática Estructural - UNQ
   url: "http://ufq.unq.edu.ar/sbg/"
