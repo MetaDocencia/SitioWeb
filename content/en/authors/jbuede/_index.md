@@ -14,6 +14,7 @@ interests:
 - E-learning
 - Transmedia storytelling
 name: Julián Buede
+weight: 5
 organizations:
 role: Social media management and audiovisual production
 social:
