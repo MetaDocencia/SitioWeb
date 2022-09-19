@@ -114,7 +114,7 @@ weight = 40
     weight = 20
   [[main]]
   name = "Get Involved"
-  url = "contact"
+  url = "contact/"
   parent = "Supporters"
     weight = 30
 
@@ -126,6 +126,7 @@ weight = 50
   [[main]]
   name = "Form"
   url = "contact"
+  url = "contact/"
   parent = "Contact Us"
   weight = 10
 #  [[main]]
