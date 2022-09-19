@@ -22,6 +22,7 @@ interests:
 - Inteligencia artificial responsable
 - Ciencia abierta
 name: Laura Ación
+weight: 1
 organizations:
 - name: Instituto del Cálculo - CONICET
   url: http://www.ic.fcen.uba.ar/en/

@@ -19,6 +19,7 @@ interests:
 - Humanidades digitales
 - Colaboración comunitaria
 name: Melissa Black
+weight: 4
 role: Coordinadora de Infraestructura y Medición de Impacto
 social:
 - icon: envelope

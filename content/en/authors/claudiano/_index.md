@@ -11,6 +11,7 @@ email: ""
 interests:
 
 name: Claudiano Neto 
+weight: 12
 organizations:
 - name: Federal University of Recôncavo da Bahia (Brazil)
   url: ""

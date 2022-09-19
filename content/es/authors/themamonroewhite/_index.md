@@ -4,6 +4,7 @@ authors:
 bio: ""
 email: ""
 name: Thema Monroe-White
+weight: 10
 role: Consejo Asesor
 social:
 - icon: linkedin

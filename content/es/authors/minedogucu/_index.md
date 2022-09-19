@@ -4,6 +4,7 @@ authors:
 bio: ""
 email: ""
 name: Mine Dogucu
+weight: 6
 role: Equipo Asesor
 social:
 - icon: twitter

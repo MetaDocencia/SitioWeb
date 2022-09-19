@@ -19,6 +19,7 @@ interests:
 - Ciencia abierta
 - Psicología cognitiva y experimental
 name: Jesica Formoso
+weight: 7
 role: Colaboradora en equipo de gobernanza
 social:
 - icon: envelope

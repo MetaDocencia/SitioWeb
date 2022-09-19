@@ -19,6 +19,7 @@ interests:
 - Open Science
 - Cognitive and experimental psychology
 name: Jesica Formoso
+weight: 7
 role: Governance Team
 social:
 - icon: envelope

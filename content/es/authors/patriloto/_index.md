@@ -10,6 +10,7 @@ education:
 email: ""
 interests:
 name: Patricia A. Loto
+weight: 8
 role: Equipo de Accesibilidad
 social:
 - icon: envelope
