@@ -4,6 +4,7 @@ authors:
 bio: ""
 email: ""
 name: Mine Dogucu
+weight: 6
 role: Adviser
 social:
 - icon: twitter
