@@ -126,7 +126,6 @@ weight = 50
   [[main]]
   name = "Form"
   url = "contact"
-  url = "contact/"
   parent = "Contact Us"
   weight = 10
 #  [[main]]
