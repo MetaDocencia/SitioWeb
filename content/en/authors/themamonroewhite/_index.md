@@ -4,6 +4,7 @@ authors:
 bio: ""
 email: ""
 name: Thema Monroe-White
+weight: 10
 role: Advisory Committee
 social:
 - icon: linkedin
