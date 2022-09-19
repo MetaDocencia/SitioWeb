@@ -12,4 +12,4 @@ Contamos con un equipo con experiencia extensa en distintas disciplinas y ámbit
 * Construcción de comunidades de práctica diversas e inclusivas
 * Gobernanza y sostenibilidad de proyectos de ciencia abierta
 
-[En este documento puedes leer más sobre nuestra experiencia](https://doi.org/10.5281/zenodo.7087811).
+[En este documento puedes leer más sobre nuestra experiencia](https://zenodo.org/record/7093618).
