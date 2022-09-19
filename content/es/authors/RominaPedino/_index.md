@@ -7,6 +7,7 @@ email: ""
 interests:
 
 name: Romina Pendino
+weight: 14
 role: Equipos de Gobernanza, Código de Conducta y Enseñanza
 social:
 - icon: envelope
