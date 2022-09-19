@@ -76,10 +76,11 @@ Between July and October 2022 we will hold **eight talks** that aim to facilitat
 
 We invite you to join us and take part in the conversations, discussions, and reflections that will guide this learning process. Your participation will help us form our governance model and reach another milestone in our community-centered journey.
 
-**> [Registration form to attend events](https://docs.google.com/forms/d/e/1FAIpQLSfUHrL4F10zWwOuRKW0I8y-_7YT1p8PslzIk7jLBuoR41Hs-Q/viewform)**
-*All data will be handled confidentially, and may only be published in an aggregated and anonymized manner in reports on the scope of MetaDocencia.*
+**> [Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSfUHrL4F10zWwOuRKW0I8y-_7YT1p8PslzIk7jLBuoR41Hs-Q/viewform)**
 
-Cycle of meetings and scheduled topics:
+*All data will be handled confidentially and may only be published in an aggregated and anonymized fashion in reports on the scope of MetaDocencia.*
+
+Agenda of scheduled meetings:
 
 |  Day/Time (UTC-3) | Topic |
 | ---:  | :----------- |
