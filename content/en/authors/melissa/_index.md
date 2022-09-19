@@ -19,6 +19,7 @@ interests:
 - Digital humanities
 - Community collaboration
 name: Melissa Black
+weight: 4
 role: Infrastructure and Impact Measurement Manager
 social:
 - icon: envelope

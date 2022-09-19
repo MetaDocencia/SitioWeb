@@ -21,6 +21,7 @@ name: Mónica Alonso
 organizations:
 - name: 
   url: 
+weight: 2
 role: Governance Team
 social:
 - icon: envelope

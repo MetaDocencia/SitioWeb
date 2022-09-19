@@ -14,6 +14,7 @@ interests:
 - Elearning
 - Narrativa transmedia
 name: Julián Buede
+weight: 5
 organizations:
 role: Redes sociales y producción audiovisual para el área de Comunicación y Comunidades
 social:

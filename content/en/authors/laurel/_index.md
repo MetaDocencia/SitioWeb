@@ -17,6 +17,7 @@ interests:
 - Open science
 - Gender
 name: Laura Ascenzi
+weight: 3
 organizations:
 - name: Universidad Nacional de Córdoba
 role: Communication and Communities Manager

@@ -20,6 +20,7 @@ interests:
 - Futuro del Trabajo
 - Género
 name: Paz Míguez
+weight: 9
 role: Coordinadora de Proyecto y Desarrollo de Cursos
 social:
 - icon: envelope

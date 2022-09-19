@@ -7,6 +7,7 @@ email: ""
 interests:
 
 name: Romina Pendino
+weight: 14
 role: Governance, Code of Conduct, and Teaching Teams
 social:
 - icon: envelope

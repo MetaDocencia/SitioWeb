@@ -21,6 +21,7 @@ name: Mónica Alonso
 organizations:
 - name: 
   url: 
+weight: 2
 role: Equipo de Gobernanza
 social:
 - icon: envelope

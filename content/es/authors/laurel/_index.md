@@ -17,6 +17,7 @@ interests:
 - Ciencia abierta
 - Género
 name: Laura Ascenzi
+weight: 3
 organizations:
 - name: Universidad Nacional de Córdoba
 role: Coordinadora de Comunicación y Comunidades

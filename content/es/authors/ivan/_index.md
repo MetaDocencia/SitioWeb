@@ -10,6 +10,7 @@ education:
 email: ""
 interests:
 name: Iván Gabriel Poggio
+weight: 15
 organizations:
 - name: 
   url: 
