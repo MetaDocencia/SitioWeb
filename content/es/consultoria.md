@@ -12,4 +12,4 @@ Contamos con un equipo con experiencia extensa en distintas disciplinas y ámbit
 * Construcción de comunidades de práctica diversas e inclusivas
 * Gobernanza y sostenibilidad de proyectos de ciencia abierta
 
-[En este documento puedes leer más sobre nuestra experiencia](https://zenodo.org/record/7093618).
+Lee más sobre nuestra experiencia en [nuestro prospecto](https://zenodo.org/record/7093618) y contáctanos en [info@metadocencia.org](info@metadocencia.org).
