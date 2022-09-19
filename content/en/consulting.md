@@ -12,4 +12,4 @@ Our team has extensive experience and expertise in different disciplines and are
 * Building diverse and inclusive communities of practice
 * Governance and sustainability of open science projects
 
-[Read more about our experience in this document](https://zenodo.org/record/7093618).
+Read more about our experience in [our prospectus](https://zenodo.org/record/7093618) and contact us at [info@metadocencia.org](info@metadocencia.org).
