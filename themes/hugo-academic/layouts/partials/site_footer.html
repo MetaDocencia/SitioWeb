@@ -1,4 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
+<body>
+
+  <p class="text-center">
+    <a href="https://twitter.com/metadocencia" class="fab fa-twitter" target="_blank" style="text-decoration: none; font-size: 1.5em;"></a>
+    <a href="https://github.com/metadocencia" class="fab fa-github" target="_blank" style="text-decoration: none; font-size: 1.5em;"></a>
+    <a href="https://youtube.com/metadocencia" class="fab fa-youtube" target="_blank" style="text-decoration: none; font-size: 1.5em;"></a>
+    <a href="https://facebook.com/metadocencia" class="fab fa-facebook-f" target="_blank" style="text-decoration: none; font-size: 1.5em;"></a>
+  </p>
+
 <footer class="site-footer">
+    
   {{ if or (site.GetPage "terms.md") (site.GetPage "privacy.md") }}
   <p class="powered-by">
       {{ i18n "fiscal_sponsorship" }}
@@ -26,3 +42,6 @@
     {{ end }}
   </p>
 </footer>
+
+</body>
+</html>
