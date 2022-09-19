@@ -4,7 +4,7 @@ draft: false
 type: page
 linktitle: "MetaDocencia's Accessibility Profiles"
 summary: First description of profiles of persons with disabilities that help us organize the different requirements and achieve material that is accessible to the greatest possible number of people.
-title: "MetaDocencia accessibility profiles"
+title: "MetaDocencia's Accessibility Profiles"
 authors: 
   - ivan
   - patriloto
