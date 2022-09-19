@@ -1,7 +1,8 @@
 <footer class="site-footer">
   {{ if or (site.GetPage "terms.md") (site.GetPage "privacy.md") }}
+  
+<contact_links class="toml"></contact_links>
   <p class="powered-by">
-          {{ params "contact_links" }}
       {{ i18n "fiscal_sponsorship" }}
     {{ with site.GetPage "privacy.md" }}
       {{ printf "<a href=\"%s\">%s</a>" .RelPermalink .Title | safeHTML }}
