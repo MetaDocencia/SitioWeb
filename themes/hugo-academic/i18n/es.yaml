@@ -130,6 +130,5 @@
   translation: Más información
 - id: fiscal_sponsorship
   translation: MetaDocencia, un proyecto con patrocinio fiscal de Code for Science & Society.
-  share: ["facebook", "twitter", "linkedin", "telegram", "whatsapp", "reddit", "email"]
 - id: powered_by
   translation: Desarrollado a base de Academic theme para Hugo.
