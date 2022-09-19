@@ -20,6 +20,7 @@ interests:
 - Future of work
 - Gender
 name: Paz Míguez
+weight: 9
 role: Project and Course Development Manager
 social:
 - icon: envelope
