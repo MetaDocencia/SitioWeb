@@ -12,7 +12,7 @@ header:
   image: ""
 ---
 
-Los contenidos de la web están bajo licencia [Atribución 4.0 Internacional (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed). Esto signfica que:
+The contents of this website are licensed under a [Creative Commons Attribution 4.0 International license (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed).
 
 ### You are free to:
 
