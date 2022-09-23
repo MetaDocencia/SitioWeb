@@ -20,7 +20,7 @@ thumbnail:
 
 ### Sobre el conversatorio
 
-En el sexto conversatorio del **Ciclo de encuentros de gobernanza**, nos proponemos aprender de la experiencia de [**Mayra Botta**](https://www.linkedin.com/in/mayra-botta-5a94a76/) y su experiencia en el diseño, coordinación e implementación de proyectos educativos y programas de formación continua para la inclusión genuina de las tecnologías en la educación básica, como el programa Conectar Igualdad, el programa Juana Manso, los Centros Infinito por Descubrir y el portal educ.ar..
+En el sexto conversatorio del **Ciclo de encuentros de gobernanza**, nos proponemos aprender de la experiencia de [**Mayra Botta**](https://www.linkedin.com/in/mayra-botta-5a94a76/) y su experiencia en el diseño, coordinación e implementación de proyectos educativos y programas de formación continua para la inclusión genuina de las tecnologías en la educación básica, como el programa Conectar Igualdad, el programa Juana Manso, los Centros Infinito por Descubrir y el portal [educ.ar](https://www.educ.ar/).
 
 El encuentro se llevará a cabo el **miércoles 28 de septiembre de 17 a 18 (UTC-3)** y estará guiado por [Romina Pendino](https://www.metadocencia.org/authors/rominapedino/), quien participa de los equipos de Gobernanza, Código de Conducta y Enseñanza de MetaDocencia, y [Paz Míguez](https://www.metadocencia.org/authors/pazmiguez/), coordinadora de Proyecto y Desarrollo de Cursos de MetaDocencia.
 
