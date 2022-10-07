@@ -17,6 +17,7 @@ interests:
 - R Programming
 - Python Programming
 name: Roxana Noelia Villafañe
+weight: 2
 organizations:
 - name: LEMyP (IQUIBA-NEA) CONICET
   url: "https://iquiba-nea.conicet.gov.ar/lemyp/"
@@ -29,7 +30,7 @@ social:
   link: https://github.com/data-datum
 superuser: false
 user_groups:
-- Contributors
+- Outside Contributors
 ---
 
 
