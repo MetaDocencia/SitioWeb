@@ -11,7 +11,7 @@ email: ""
 interests:
 
 name: Claudiano Neto 
-weight: 12
+weight: 1
 organizations:
 - name: Federal University of Recôncavo da Bahia (Brazil)
   url: ""
@@ -29,7 +29,7 @@ social:
   link: https://sites.google.com/view/claudianoneto/ 
 superuser: false
 user_groups:
-- Contributors
+- Outside Contributors
 ---
 
 Claudiano Neto is an Environmental Economist and works as a professor at the Center for Agricultural, Environmental and Biological Sciences, of the Federal University of Recôncavo da Bahia (Brazil), where he has taught his classes using R and RStudio since 2019. 
