@@ -38,6 +38,14 @@ Ha publicado cinco libros, varios capítulos en libros y diversos artículos en 
 Se   ha   desempeñado   como   asesor   en   diversos   organismos   públicos nacionales y provinciales y como consultor en organismos internacionales (BID, UNESCO, CAF y CLAD) en cuestiones relacionadas a la utilización de
 tecnologías digitales para fortalecer capacidades de gestión pública. 
 
+### Materiales del evento
+
+- [Video del encuentro](https://youtu.be/65AMzEJnXMM)
+
+### ¡Sírvete sin culpa!
+
+Nuestros materiales están disponibles en forma gratuita bajo esta [licencia](https://creativecommons.org/licenses/by/4.0/deed.es). Es decir, puedes reusar o editar cualquier material que aparece acá, lo único que pedimos a cambio es que cuando tomes material de acá incluyas una referencia a esta página web.
+
 ### Sobre los eventos
 
 Entre julio y octubre de 2022 se desarrollarán 8 conversatorios a los que asistirán especialistas en gobernanza y referentes de organizaciones y proyectos vinculados a la educación y el conocimiento abierto. Los aportes durante estas reuniones contribuirán a darle forma a un modelo de organización como el que deseamos para MetaDocencia, pensado desde y para nuestro contexto cultural y regional. 
