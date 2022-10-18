@@ -18,7 +18,7 @@ role: Equipos de Accesibilidad y Enseñanza
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'
+  link: 'contact'
 superuser: false
 user_groups:
 - Integrantes
