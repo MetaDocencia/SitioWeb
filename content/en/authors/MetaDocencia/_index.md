@@ -7,7 +7,7 @@ name: Mission, Vision, and Values
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'
+  link: 'contact'
 - icon: facebook
   icon_pack: fab
   link: https://facebook.com/metadocencia
