@@ -42,8 +42,10 @@ user_groups:
 - Integrantes
 ---
 
-Trabajo como biólogo computacional.
+Nicolás es Investigador Adjunto del CONICET y miembro del Grupo de Bioinformática Estructural de la Universidad Nacional de Quilmes (UNQ, Buenos Aires, Argentina). Sus investigaciones están orientadas a comprender la naturaleza funcional de las proteínas, con especial atención a sus relaciones evolutivas y sus interacciones en los sistemas biológicos. Es co-autor de numerosos artículos científicos y de dos capítulos de libro orientados a la comunicación de la ciencia.
 
-Me interesa comprender la naturaleza funcional de las macromoléculas, con especial atención a sus relaciones evolutivas y sus interacciones en los sistemas biológicos.
+Es secretario de la Asociación Argentina de Bioinformática y Biología Computacional (A2B2C) desde 2017 y co-fundador del Grupo Regional de Estudiantes de Bioinformática en Argentina (RSG-Argentina) en 2010. Desde estos roles ha impulsado la organización de congresos, la creación de redes profesionales y el dictado de cursos de formación técnica y pedagógica.
 
-Desarrollo y utilizo herramientas computacionales para el análisis de secuencias y estructuras biológicas. Mi principal interés es la estructura de las proteínas y el desorden intrínseco, sus interacciones mediadas por motivos lineales y su evolución modelada por matrices de sustitución.
+Desde 2008 realiza tareas docentes de grado, posgrado y extensión, en modalidad presencial y virtual, tanto en UNQ como en otras instituciones educativas y para comunidades de práctica. Se ha certificado como instructor y entrenador de instructores en The Carpentries. Actualmente cursa la Especialización en Docencia en Entornos Virtuales de UNQ.
+
+Nicolás se unió a MetaDocencia desde sus inicios en marzo de 2020 y actualmente comparte la coordinación general y es chair del comité asesor.
