@@ -30,7 +30,7 @@ role: General Coordination
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'
+  link: 'contact'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/_lacion_
