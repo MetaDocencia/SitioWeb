@@ -42,11 +42,10 @@ user_groups:
 - Contributors
 ---
 
-I work as a computational biologist.
+Nicolás is an Adjunct Researcher at the National Research Council in Argentina (CONICET) and a member of the Structural Bioinformatics Group at the National University of Quilmes (UNQ, Buenos Aires, Argentina). His research is focused on understanding the functional nature of proteins, with special attention to their evolutionary relationships and interactions in biological systems. He is co-author of numerous scientific articles and two book chapters oriented to science communication.
 
-I am interested in understanding the functional nature of macromolecules, with a special focus on their evolutionary relationships and their interactions in biological systems.
+He is secretary of the Argentine Association of Bioinformatics and Computational Biology (A2B2C) since 2017 and co-founded the Regional Group of Bioinformatics Students in Argentina (RSG-Argentina) in 2010. In these roles he has promoted the organization of conferences, the creation of professional networks and the delivery of technical and pedagogical training courses.
 
-I develop and use computational tools for the analysis of biological sequences and structures.
+Since 2008 he has been teaching undergraduate, postgraduate and extension courses, both in person and virtual, at different educational institutions and also for communities of practice. He is certified as instructor and trainer for The Carpentries. He is currently pursuing a Specialization in Virtual Education at UNQ.
 
-My main focus are protein structure and intrinsic disorder, their interactions mediated by linear motifs and their evolution as modeled by substitution matrices.
-
+Nicolás joined MetaDocencia since its first week in March 2020. He currently participates in the general coordination and is chair of the advisory committee. 
