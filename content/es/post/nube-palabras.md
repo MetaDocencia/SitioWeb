@@ -14,6 +14,7 @@ tags:
 
 
 Desde su origen MetaDocencia se propuso acompañar a docentes y estudiantes que debían llevar la educación a entornos virtuales con mucha urgencia y pocas herramientas.
+
 En este sentido, desarrollamos propuestas de formación que resultaron útiles para cientos de docentes que participaron en nuestros cursos e impactaron en miles de estudiantes. 
 
 Pasado el contexto de urgencia, nos toca reflexionar sobre los espacios de crecimiento y orientación de las próximas propuestas de formación. Y para eso, ¿qué mejor que recuperar la voz de los/las educadores/as que fueron estudiantes MetaDocentes?
@@ -26,7 +27,9 @@ Con este objetivo, analizamos las respuestas a las encuestas de fin de curso rea
 Hicimos una rutina estándar de análisis de texto, en [este link](https://github.com/MetaDocencia/SitioWeb/tree/master/material-nube-de-palabras) podes ver cómo directamente en el código R que usamos.
 ![Nube de palabras en la que se ven con mayor tamaño las palabras "documentos compartidos, recomendaciones, herramientas, tiempos, interactuar, dinámicas, grupos, ejercicios; seguidas de práctica, claridad, ambiente, salas, calide, participación"](https://www.metadocencia.org/img/nube-palabras.png) 
 
-¿Qué nos dicen estas nubes de palabras? Que la comunidad MetaDocente valora enormemente los espacios de encuentro, interacción, recomendaciones y documentos compartidos. 
+#¿Qué nos dicen estas nubes de palabras? 
+
+Que la comunidad MetaDocente valora enormemente los espacios de encuentro, interacción, recomendaciones y documentos compartidos. 
 
 Además, reconocen la utilidad de los ejercicios, prácticas, ejemplos y dinámicas que les propusimos. 
 
