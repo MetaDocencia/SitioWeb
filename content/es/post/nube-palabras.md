@@ -2,7 +2,7 @@
 date: "2022-10-25"
 draft: false
 type: page
-title: ¿Qué nos llevamos de un encuentro sincrónico: contenido o experiencia? 
+title: "¿Qué nos llevamos de un encuentro sincrónico: contenido o experiencia? "
 summary: Analizamos las respuestas a las encuestas de fin de curso a través de nubes de palabras.
 authors: 
 
@@ -11,6 +11,7 @@ weight: 1
 tags: 
   - MetaDocencia
 ---
+
 
 Desde su origen MetaDocencia se propuso acompañar a docentes y estudiantes que debían llevar la educación a entornos virtuales con mucha urgencia y pocas herramientas.
 En este sentido, desarrollamos propuestas de formación que resultaron útiles para cientos de docentes que participaron en nuestros cursos e impactaron en miles de estudiantes. 
@@ -21,6 +22,8 @@ Con este objetivo, analizamos las respuestas a las encuestas de fin de curso rea
 - Introducción al ABC para enseñar online
 
 Hicimos una rutina estándar de análisis de texto, en [este link](https://github.com/MetaDocencia/SitioWeb/tree/master/material-nube-de-palabras) podes ver cómo directamente en el código R que usamos.
+
+![Nube de palabras](https://www.metadocencia.org/img/nube-palabras.png) 
 
 ¿Qué nos dicen estas nubes de palabras? Que la comunidad MetaDocente valora enormemente los espacios de encuentro, interacción, recomendaciones y documentos compartidos. 
 Además, reconocen la utilidad de los ejercicios, prácticas, ejemplos y dinámicas que les propusimos. En este sentido, también reconocen la importancia de la calidez, el ambiente, el trabajo en grupos y la participación. 
