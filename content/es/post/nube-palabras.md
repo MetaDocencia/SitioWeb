@@ -5,7 +5,8 @@ type: page
 title: "¿Qué nos llevamos de un encuentro sincrónico: contenido o experiencia? "
 summary: Analizamos las respuestas a las encuestas de fin de curso a través de nubes de palabras.
 authors: 
-
+- jformoso
+- laurel
 type: post
 weight: 1
 tags: 
