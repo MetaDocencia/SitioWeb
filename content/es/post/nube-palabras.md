@@ -24,17 +24,19 @@ Con este objetivo, analizamos las respuestas a las encuestas de fin de curso rea
 - Introducción al ABC para enseñar online
 
 Hicimos una rutina estándar de análisis de texto, en [este link](https://github.com/MetaDocencia/SitioWeb/tree/master/material-nube-de-palabras) podes ver cómo directamente en el código R que usamos.
-
 ![Nube de palabras en la que se ven con mayor tamaño las palabras "documentos compartidos, recomendaciones, herramientas, tiempos, interactuar, dinámicas, grupos, ejercicios; seguidas de práctica, claridad, ambiente, salas, calide, participación"](https://www.metadocencia.org/img/nube-palabras.png) 
 
 ¿Qué nos dicen estas nubes de palabras? Que la comunidad MetaDocente valora enormemente los espacios de encuentro, interacción, recomendaciones y documentos compartidos. 
-Además, reconocen la utilidad de los ejercicios, prácticas, ejemplos y dinámicas que les propusimos. En este sentido, también reconocen la importancia de la calidez, el ambiente, el trabajo en grupos y la participación. 
+
+Además, reconocen la utilidad de los ejercicios, prácticas, ejemplos y dinámicas que les propusimos. 
+
+En este sentido, también reconocen la importancia de la calidez, el ambiente, el trabajo en grupos y la participación. 
 
 Nos parecen respuestas muy elocuentes y una nube de palabras muy interesante para compartir y seguir pensando: 
 
-Si estos son los aspectos centrales que nos llevamos de una capacitación virtual: ¿los generamos en nuestras clases?  
-¿Qué es lo más rico de compartir encuentros sincrónicos: el contenido o la experiencia?
-Además de posibilitar encontrarnos desde todo el mundo, ¿qué nos llevamos de una capacitación virtual?
+- Si estos son los aspectos centrales que nos llevamos de una capacitación virtual: ¿los generamos en nuestras clases?  
+- ¿Qué es lo más rico de compartir encuentros sincrónicos: el contenido o la experiencia?
+- Además de posibilitar encontrarnos desde todo el mundo, ¿qué nos llevamos de una capacitación virtual?
 
 Desde MetaDocencia creemos que la experiencia hace la diferencia y estamos trabajando en medir cómo impacta en la efectividad del aprendizaje.
 
