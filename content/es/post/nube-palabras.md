@@ -37,9 +37,9 @@ En este sentido, también reconocen la importancia de la calidez, el ambiente, e
 
 Nos parecen respuestas muy elocuentes y una nube de palabras muy interesante para compartir y seguir pensando: 
 
-*- Si estos son los aspectos centrales que nos llevamos de una capacitación virtual: ¿los generamos en nuestras clases?  
-*- ¿Qué es lo más rico de compartir encuentros sincrónicos: el contenido o la experiencia?
-*- Además de posibilitar encontrarnos desde todo el mundo, ¿qué nos llevamos de una capacitación virtual?
+*- Si estos son los aspectos centrales que nos llevamos de una capacitación virtual: ¿los generamos en nuestras clases?*  
+*- ¿Qué es lo más rico de compartir encuentros sincrónicos: el contenido o la experiencia?*
+*- Además de posibilitar encontrarnos desde todo el mundo, ¿qué nos llevamos de una capacitación virtual?*
 
 Desde MetaDocencia creemos que la experiencia hace la diferencia y estamos trabajando en medir cómo impacta en la efectividad del aprendizaje.
 
