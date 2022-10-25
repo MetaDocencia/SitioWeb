@@ -90,11 +90,11 @@ url = ""
   url = "prensas"
   parent = "Publicaciones"
    weight = 20
- # [[main]]
- # name = "Boletines"
- # url = ""
- # parent = "Publicaciones"
- #  weight = 30
+ [[main]]
+ name = "Boletines"
+ url = "boletines"
+ parent = "Publicaciones"
+  weight = 30
 
 
 [[main]]
