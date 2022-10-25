@@ -27,7 +27,7 @@ Con este objetivo, analizamos las respuestas a las encuestas de fin de curso rea
 Hicimos una rutina estándar de análisis de texto, en [este link](https://github.com/MetaDocencia/SitioWeb/tree/master/material-nube-de-palabras) podes ver cómo directamente en el código R que usamos.
 ![Nube de palabras en la que se ven con mayor tamaño las palabras "documentos compartidos, recomendaciones, herramientas, tiempos, interactuar, dinámicas, grupos, ejercicios; seguidas de práctica, claridad, ambiente, salas, calide, participación"](https://www.metadocencia.org/img/nube-palabras.png) 
 
-#¿Qué nos dicen estas nubes de palabras? 
+# ¿Qué nos dicen estas nubes de palabras? 
 
 Que la comunidad MetaDocente valora enormemente los espacios de encuentro, interacción, recomendaciones y documentos compartidos. 
 
