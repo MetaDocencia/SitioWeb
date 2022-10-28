@@ -5,6 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
+# title = "Co-creating and Teaching Open Science"
+
 title = "MetaDocencia Governance Meetings"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
@@ -36,25 +38,21 @@ hero_media = "MD_original.png"
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
-# [cta]
-#  url = "https://docs.google.com/forms/d/e/1FAIpQLScC20Me-fX7UmCNhNswulYfOVQF4XiyIHgtde_R8CWreCmWhA/viewform?usp=sf_link"
-#  label = "Registration"
-#  icon_pack = "fas"
-#  icon = "edit"
-  
-# [cta]
-#  url = "/cursos/"
-#  label = "Our Courses"
-#  icon = "edit"
 
-[cta] 
-url = "/events/"
-label = "About the events"
+[cta]
+ url = "https://www.youtube.com/playlist?list=PLNsHbWOM6tUc3hPxo-EvCtn03Lp_ZcXKy"
+ label = " Playlist"
+ icon_pack = "fab"
+ icon = "youtube"
+
+[cta_alt] 
+url = "/events/" 
+label = "About the Events"
+
 
 # Note. An optional note to show underneath the links.
 # [cta_note]
 #   label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-
-Participate in the conversations that will guide the learning process to collaboratively build our form of government.
+Watch the complete round of open talks to collaboratively build our governance.
