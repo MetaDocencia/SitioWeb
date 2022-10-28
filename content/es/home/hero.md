@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 5  # Order that this section will appear.
 
-# title = "Cursos cortos para aprender a enseñar mejor"
+# title = "Co-creando y enseñando ciencia abierta"
 
 title = "Encuentros de gobernanza de MetaDocencia"
 
@@ -41,7 +41,7 @@ hero_media = "MD_original.png"
  [cta]
  url = "https://www.youtube.com/playlist?list=PLNsHbWOM6tUc3hPxo-EvCtn03Lp_ZcXKy"
  label = "Lista de reproducción"
- icon_pack = "fas"
+ icon_pack = "fab"
  icon = "youtube"
 
 [cta_alt] 
