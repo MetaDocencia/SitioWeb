@@ -9,7 +9,7 @@ authors:
 type: eventos
 weight: 50
 tags:
-  - Próximos eventos
+  - Conversatorios anteriores
 featured_image: https://www.metadocencia.org/img/GobernanzaMD-08.jpg
 ---
 
