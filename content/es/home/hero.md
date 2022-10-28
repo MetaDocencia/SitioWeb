@@ -39,8 +39,8 @@ hero_media = "MD_original.png"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
  [cta]
- url = "https://docs.google.com/forms/u/2/d/e/1FAIpQLSfUHrL4F10zWwOuRKW0I8y-_7YT1p8PslzIk7jLBuoR41Hs-Q/viewform"
- label = "Registro"
+ url = "https://www.youtube.com/playlist?list=PLNsHbWOM6tUc3hPxo-EvCtn03Lp_ZcXKy"
+ label = "Lista de reproducción"
  icon_pack = "fas"
  icon = "edit"
 
@@ -55,6 +55,6 @@ label = "Ver eventos"
 +++
 
 
-Participa de los conversatorios que guiarán el proceso de aprendizaje para construir colaborativamente nuestra forma de gobierno.
+Mira el ciclo completo de conversatorios abiertos para construir colaborativamente nuestra gobernanza.
 
 
