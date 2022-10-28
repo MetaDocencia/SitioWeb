@@ -42,7 +42,7 @@ hero_media = "MD_original.png"
  url = "https://www.youtube.com/playlist?list=PLNsHbWOM6tUc3hPxo-EvCtn03Lp_ZcXKy"
  label = " Lista de reproducción"
  icon_pack = "fab"
- icon = "fa-square-youtube"
+ icon = "youtube"
 
 [cta_alt] 
 url = "/eventos/" 
