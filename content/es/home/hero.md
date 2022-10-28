@@ -40,9 +40,9 @@ hero_media = "MD_original.png"
 #   Remove a link/note by deleting a cta/note block.
  [cta]
  url = "https://www.youtube.com/playlist?list=PLNsHbWOM6tUc3hPxo-EvCtn03Lp_ZcXKy"
- label = "Lista de reproducción"
+ label = " Lista de reproducción"
  icon_pack = "fab"
- icon = "square-youtube"
+ icon = "fa-square-youtube"
 
 [cta_alt] 
 url = "/eventos/" 
