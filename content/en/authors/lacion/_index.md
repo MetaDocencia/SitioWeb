@@ -52,5 +52,5 @@ Laura is an Adjunct Research Scientist at the National Research Council in Argen
 
 Since 2017 she has held leadership positions at or co-created local, regional, and international open science-related collective projects (e.g., R-Ladies Global, LatinR, useR!, Open Life Science, Code for Science & Society). Since 2004, Laura has been a consultant for several projects.
 
-Laura was also a The Carperntries-certified instructor and instructor trainer and has experience developing massive online courses for a US-based platform (whose name we omit due to company's ethical issues). In March 2020, Laura co-founded MetaDocencia.
+Laura was also a The Carpentries-certified instructor and instructor trainer and has experience developing massive online courses for a US-based platform (whose name we omit due to company's ethical issues). In March 2020, Laura co-founded MetaDocencia.
 
