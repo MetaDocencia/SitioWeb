@@ -4,9 +4,9 @@ draft: false
 image:
   caption: "[Foto de an_vision en Unsplash](https://unsplash.com/photos/gDPaDDy6_WE)"
   alt_text: "Foto de una manzana roja tomada por an_vision"
-linktitle: Introducción al ABC para enseñar online
-summary: Taller de introducción para enseñar sobre cualquier tema en forma remota 
-title: Introducción al ABC para enseñar online
+linktitle: "¡Presente! Recursos para Encuentros Activos"
+summary: Buenas prácticas básicas para manejo de espacios de intercambio de conocimiento presencial, híbrido o en línea
+title: "¡Presente! Recursos para Encuentros Activos" (antes Intro ABC)
 authors: 
     - "MetaDocencia"
 type: cursos
@@ -20,26 +20,21 @@ tags:
 
 ### Objetivos 
 
-Introducir buenas prácticas básicas para manejo de espacios de intercambio de conocimiento presencial (por ejemplo, clase, seminario, taller o charla), pero usando Zoom (o plataforma para reuniones remotas similar). Cada detalle del taller, empezando por el formulario de registro hasta el pedido de devolución cuando termina el taller, pasando por la ejecución del mismo, son una demostración de estrategias que pueden ser adoptadas o adaptadas a cualquier tarea docente que sucede interactuando en simultáneo con una audiencia.
+Introducir buenas prácticas básicas para manejo de espacios de intercambio de conocimiento presencial (por ejemplo, clase, seminario, taller o charla). La mayoría de estas prácticas básicas podrán ser usadas en entornos presenciales, híbridos o en línea (por ejemplo, usando Zoom). Cada detalle del taller, empezando por el formulario de registro hasta el pedido de devolución cuando termina el taller, pasando por la ejecución del mismo, son una demostración de estrategias que pueden ser adoptadas o adaptadas a cualquier intercambio de saberes que suceda interactuando en simultáneo con una audiencia.
 
 Durante este taller remoto:
 
-* Mostraremos como contactar y preparar a tu audiencia para sumarse a una clase o evento sincrónico ("la previa")
-
+* Mostraremos cómo contactar y preparar a tu audiencia para sumarse a una clase o evento sincrónico
 * Manejaremos un evento remoto a través de Zoom que mantendrá a una audiencia de hasta 20 personas participando activamente durante tres horas
-
 * Veremos ejemplos de cómo crear un ambiente positivo para nuestra audiencia
-
-* Tendremos una introducción a conceptos pedagógicos de:  
-  - Diseño de la clase o evento pensando en la audiencia que va a estar recibiendo el material (estudiantes/personas tipo)
-  - Uso de mapas conceptuales
-  - Evaluación formativa diagnóstica cada 15 minutos para saber si tu audiencia sigue lo que explicas y corregir sobre la marcha cuando detectes que algo no es claro para la mayoría  
-  - Participación en un documento conjunto colaborativo para tomar notas o resolver evaluaciones formativas
-  - Otras herramientas pedagógicas rápidas basadas en evidencia y fáciles de implementar
-  - Pedido de devolución a tu audiencia luego de cada clase y cómo dar devoluciones efectivas
-
+* Tendremos una introducción a conceptos pedagógicos de:
+- Diseño de la clase o evento pensando en la audiencia que va a estar recibiendo el material (personas tipo)
+- Uso de mapas conceptuales
+- Evaluación formativa diagnóstica cada 15 minutos para saber si tu audiencia sigue lo que explicas y corregir sobre la marcha cuando detectes que algo no es claro para la mayoría
+- Participación en un documento conjunto colaborativo para tomar notas o resolver evaluaciones formativas
+- Otras herramientas pedagógicas rápidas basadas en evidencia y fáciles de implementar
+- Pedido de devolución a tu audiencia luego de cada clase y cómo dar devoluciones efectivas
 * Compartiremos fuentes de las cuales seguir aprendiendo prácticas pedagógicas
-
 * Presentaremos qué es MetaDocencia y formas de seguir participando de nuestra comunidad
 
 ### ¿Para quién?
@@ -94,15 +89,15 @@ Este cronograma es un ejemplo que asume que el comienzo del curso es las 9 am, p
 
 ### Materiales
 
-* [Presentación que usamos en el curso](https://docs.google.com/presentation/d/1GeVmDnToCDcWDdz51GcZz5V_7PsXgzHqLFHWTNZxYqk/edit?usp=sharing) con notas ampliando el contenido para quienes dan la clase
+* [Presentación que usamos en el curso]() con notas ampliando el contenido para quienes dan la clase
 
-* [Plantilla de nuestro documento para notas compartidas](https://docs.google.com/document/d/1sPvRezzh3y1kJh171mjhbe5krmIi_QNoOs1LPOBp2bE/edit?usp=sharing)
+* [Plantilla de nuestro documento para notas compartidas]()
 
-* [Plantilla de formulario para la encuesta de fin del taller](https://docs.google.com/forms/d/1Z7F-gEwIT3Wokj8g65TcU5rzrFHzQsjtmKBQmqUaEnE/edit?usp=sharing)
+* [Plantilla de formulario para la encuesta de fin del taller]()
 
-* [Plantilla de formulario de registro](https://docs.google.com/forms/d/15M8mqLG_qj6FSvqqzc4l0bnwJ1Q0JNqLSSLnMtYbxOs/edit?usp=sharing)
+* [Plantilla de formulario de registro]()
 
-* [Video del curso](https://www.youtube.com/watch?v=Ze7-fJNHvYQ)
+* [Video del curso]()
 
 ### ¡Sírvete sin culpa!
 
