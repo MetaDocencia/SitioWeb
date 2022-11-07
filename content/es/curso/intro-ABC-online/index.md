@@ -37,12 +37,12 @@ Durante este taller remoto:
 * Manejaremos un evento remoto a través de Zoom que mantendrá a una audiencia de hasta 20 personas participando activamente durante tres horas
 * Veremos ejemplos de cómo crear un ambiente positivo para nuestra audiencia
 * Tendremos una introducción a conceptos pedagógicos de:
-- Diseño de la clase o evento pensando en la audiencia que va a estar recibiendo el material (personas tipo)
-- Uso de mapas conceptuales
-- Evaluación formativa diagnóstica cada 15 minutos para saber si tu audiencia sigue lo que explicas y corregir sobre la marcha cuando detectes que algo no es claro para la mayoría
-- Participación en un documento conjunto colaborativo para tomar notas o resolver evaluaciones formativas
-- Otras herramientas pedagógicas rápidas basadas en evidencia y fáciles de implementar
-- Pedido de devolución a tu audiencia luego de cada clase y cómo dar devoluciones efectivas
+-- Diseño de la clase o evento pensando en la audiencia que va a estar recibiendo el material (personas tipo)
+-- Uso de mapas conceptuales
+-- Evaluación formativa diagnóstica cada 15 minutos para saber si tu audiencia sigue lo que explicas y corregir sobre la marcha cuando detectes que algo no es claro para la mayoría
+-- Participación en un documento conjunto colaborativo para tomar notas o resolver evaluaciones formativas
+-- Otras herramientas pedagógicas rápidas basadas en evidencia y fáciles de implementar
+-- Pedido de devolución a tu audiencia luego de cada clase y cómo dar devoluciones efectivas
 * Compartiremos fuentes de las cuales seguir aprendiendo prácticas pedagógicas
 * Presentaremos qué es MetaDocencia y formas de seguir participando de nuestra comunidad
 
