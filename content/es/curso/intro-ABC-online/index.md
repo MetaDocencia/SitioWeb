@@ -20,8 +20,8 @@ tags:
 
 ### Cómo participar 
 Próximos cursos:
-- **Jueves 17 de noviembre de 14 a 17 (UTC-3)** 
-- **Martes 29 de noviembre de 9 a 12 (UTC-3)** 
+- Jueves 17 de noviembre de 14 a 17 (UTC-3)
+- Martes 29 de noviembre de 9 a 12 (UTC-3) 
 
 **> Inscríbete a través del [Formulario de registro](https://docs.google.com/forms/d/e/1FAIpQLSe7rsc-zqJ0A80vchGWrHuMOgWNNODAgh2ivEcfIC7kdKkFbA/viewform)**
 
