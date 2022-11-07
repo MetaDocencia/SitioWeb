@@ -48,7 +48,7 @@ Durante este taller remoto:
 
 ### ¿Para quién?
 
-No hay requisitos previos específicos para esta capacitación. 
+Este taller es la nueva actualización de nuestro "Introducción al ABC para enseñar online". No hay requisitos previos específicos para esta capacitación. 
 
 Pensamos en María y Juan como [personas tipo](/personas/) al diseñar los contenidos de este taller.
 
