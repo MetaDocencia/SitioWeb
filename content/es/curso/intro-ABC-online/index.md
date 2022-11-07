@@ -2,8 +2,8 @@
 date: "2020-03-22"
 draft: false
 image:
-  caption: "[Foto de an_vision en Unsplash](https://unsplash.com/photos/gDPaDDy6_WE)"
-  alt_text: "Foto de una manzana roja tomada por an_vision"
+  caption: 
+  alt_text: "Imagen de globos de diálogo alrededor del planeta"
 linktitle: ¡Presente! Recursos para Encuentros Activos
 summary: Buenas prácticas básicas para manejo de espacios de intercambio de conocimiento presencial, híbrido o en línea
 title: ¡Presente! Recursos para Encuentros Activos (antes Intro ABC)
