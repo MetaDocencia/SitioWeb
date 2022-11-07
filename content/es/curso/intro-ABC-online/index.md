@@ -19,7 +19,7 @@ tags:
 {{% toc %}}
 
 ### Cómo participar 
-Este curso tendrá 2 ediciones:
+Próximos cursos:
 - **Jueves 17 de noviembre de 14 a 17 (UTC-3)** 
 - **Martes 29 de noviembre de 9 a 12 (UTC-3)** 
 
