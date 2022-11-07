@@ -23,7 +23,8 @@ Este curso tendrá 2 ediciones:
 - **Jueves 17 de noviembre de 14 a 17 (UTC-3)** 
 - **Martes 29 de noviembre de 9 a 12 (UTC-3)** 
 
-> Inscríbete a través del [Formulario de registro](https://docs.google.com/forms/d/e/1FAIpQLSe7rsc-zqJ0A80vchGWrHuMOgWNNODAgh2ivEcfIC7kdKkFbA/viewform)
+**> Inscríbete a través del [Formulario de registro](https://docs.google.com/forms/d/e/1FAIpQLSe7rsc-zqJ0A80vchGWrHuMOgWNNODAgh2ivEcfIC7kdKkFbA/viewform)**
+
 *Todos los datos se manejarán en forma confidencial, sólo podrán ser publicados de forma agregada y anonimizada en reportes sobre el alcance de MetaDocencia.*
 
 ### Objetivos 
