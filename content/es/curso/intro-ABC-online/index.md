@@ -29,7 +29,7 @@ Próximos cursos:
 
 ### Objetivos 
 
-Introducir buenas prácticas básicas para manejo de espacios de intercambio de conocimiento presencial (por ejemplo, clase, seminario, taller o charla). La mayoría de estas prácticas básicas podrán ser usadas en entornos presenciales, híbridos o en línea (por ejemplo, usando Zoom). Cada detalle del taller, empezando por el formulario de registro hasta el pedido de devolución cuando termina el taller, pasando por la ejecución del mismo, son una demostración de estrategias que pueden ser adoptadas o adaptadas a cualquier intercambio de saberes que suceda interactuando en simultáneo con una audiencia.
+Introducir buenas prácticas básicas para manejo de espacios de intercambio de conocimiento sincrónico (por ejemplo, clase, seminario, taller o charla). La mayoría de estas prácticas básicas podrán ser usadas en entornos presenciales, híbridos o en línea (por ejemplo, usando Zoom). Cada detalle del taller, empezando por el formulario de registro hasta el pedido de devolución cuando termina el taller, pasando por la ejecución del mismo, son una demostración de estrategias que pueden ser adoptadas o adaptadas a cualquier intercambio de saberes que suceda interactuando en simultáneo con una audiencia.
 
 Durante este taller remoto:
 
