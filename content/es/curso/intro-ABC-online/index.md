@@ -57,7 +57,12 @@ Entre otras cosas, quedan fuera del alcance del taller:
 * Técnicas específicas de manejo de clases o eventos de más de 30 personas
 
 ### Cómo participar 
-Este curso volverá a dictarse en 2022, en fecha a confirmar. Si te interesa participar, escríbenos a info@metadocencia.org.
+Este curso tendrá 2 ediciones:
+- Jueves 17 de noviembre de 14 a 17 (UTC-3) 
+- Martes 29 de noviembre de 9 a 12 (UTC-3) 
+
+> Inscríbete a través del [Formulario de registro](https://docs.google.com/forms/d/e/1FAIpQLSe7rsc-zqJ0A80vchGWrHuMOgWNNODAgh2ivEcfIC7kdKkFbA/viewform)
+*Todos los datos se manejarán en forma confidencial, sólo podrán ser publicados de forma agregada y anonimizada en reportes sobre el alcance de MetaDocencia.*
 
 ### Duración
 
@@ -88,14 +93,13 @@ Este cronograma es un ejemplo que asume que el comienzo del curso es las 9 am, p
 |11:50 - 12:00| Fuentes adicionales y cierre |
 
 ### Materiales
+Se disponibilizan una vez finalizada cada edición del curso.
 
 * [Presentación que usamos en el curso]() con notas ampliando el contenido para quienes dan la clase
 
 * [Plantilla de nuestro documento para notas compartidas]()
 
 * [Plantilla de formulario para la encuesta de fin del taller]()
-
-* [Plantilla de formulario de registro]()
 
 * [Video del curso]()
 
