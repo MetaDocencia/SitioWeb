@@ -18,6 +18,14 @@ tags:
 
 {{% toc %}}
 
+### Cómo participar 
+Este curso tendrá 2 ediciones:
+- **Jueves 17 de noviembre de 14 a 17 (UTC-3)** 
+- **Martes 29 de noviembre de 9 a 12 (UTC-3)** 
+
+> Inscríbete a través del [Formulario de registro](https://docs.google.com/forms/d/e/1FAIpQLSe7rsc-zqJ0A80vchGWrHuMOgWNNODAgh2ivEcfIC7kdKkFbA/viewform)
+*Todos los datos se manejarán en forma confidencial, sólo podrán ser publicados de forma agregada y anonimizada en reportes sobre el alcance de MetaDocencia.*
+
 ### Objetivos 
 
 Introducir buenas prácticas básicas para manejo de espacios de intercambio de conocimiento presencial (por ejemplo, clase, seminario, taller o charla). La mayoría de estas prácticas básicas podrán ser usadas en entornos presenciales, híbridos o en línea (por ejemplo, usando Zoom). Cada detalle del taller, empezando por el formulario de registro hasta el pedido de devolución cuando termina el taller, pasando por la ejecución del mismo, son una demostración de estrategias que pueden ser adoptadas o adaptadas a cualquier intercambio de saberes que suceda interactuando en simultáneo con una audiencia.
@@ -55,14 +63,6 @@ Entre otras cosas, quedan fuera del alcance del taller:
 * Teoría de la pedagogía o de las ciencias de la educación
 * Técnicas específicas para enseñar contenidos propios de disciplinas específicas
 * Técnicas específicas de manejo de clases o eventos de más de 30 personas
-
-### Cómo participar 
-Este curso tendrá 2 ediciones:
-- Jueves 17 de noviembre de 14 a 17 (UTC-3) 
-- Martes 29 de noviembre de 9 a 12 (UTC-3) 
-
-> Inscríbete a través del [Formulario de registro](https://docs.google.com/forms/d/e/1FAIpQLSe7rsc-zqJ0A80vchGWrHuMOgWNNODAgh2ivEcfIC7kdKkFbA/viewform)
-*Todos los datos se manejarán en forma confidencial, sólo podrán ser publicados de forma agregada y anonimizada en reportes sobre el alcance de MetaDocencia.*
 
 ### Duración
 
