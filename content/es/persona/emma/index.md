@@ -3,7 +3,7 @@ date: "2022-11-08"
 draft: false
 image:
   caption: "[Foto generada por...](https://site/)"
-linktitle: "Persona tipo: Eva"
+linktitle: "Persona tipo: Emma"
 summary: 
 title: Emma
 type: persona
