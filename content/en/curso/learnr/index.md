@@ -19,7 +19,7 @@ tags:
 
 {{% toc %}}
 
-**Update: This is a non-active course and there are no plans to relaunch it at the moment, but you can reuse or edit any material that appears here.**
+**[Update: This is a non-active course and there are no plans to relaunch it at the moment, but you can reuse or edit any material that appears here.]**
 
 ### Objectives 
 
