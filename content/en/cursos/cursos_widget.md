@@ -21,17 +21,14 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-  [[content.filter_button]]
-    name = "All"
-    tag = "*"
    
   [[content.filter_button]]
-    name = "Pedagogical Tools"
-    tag = "Pedagogical Tools"
+    name = "Next courses"
+    tag = "Next courses"
    
   [[content.filter_button]]
-    name = "Technological Tools"
-    tag = "Technological Tools"
+    name = "Former courses"
+    tag = "Former courses"
 
 
 [design]
