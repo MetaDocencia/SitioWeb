@@ -12,7 +12,7 @@ authors:
     - "MetaDocencia"
 type: course
 tags:
- - Technological Tools
+ - Next courses
 weight: 40
 ---
 
