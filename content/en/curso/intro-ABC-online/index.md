@@ -12,7 +12,7 @@ authors:
 type: course
 weight: 1
 tags:
-  - Pedagogical Tools
+  - Next courses
 ---
 
 {{% toc %}}
