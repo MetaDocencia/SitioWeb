@@ -19,6 +19,8 @@ tags:
 
 {{% toc %}}
 
+[Update: This is a non-active course and there are no plans to relaunch it at the moment, but you can reuse or edit any material that appears here.]
+
 ### Objectives 
 
 To introduce the {learnr} package and show how to use it to create interactive tutorials. These interactive tools allow the students to run R code directly in the tutorial, to answer to questions and to receive immediate feedback. 
