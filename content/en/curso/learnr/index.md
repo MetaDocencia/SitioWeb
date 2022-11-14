@@ -14,7 +14,7 @@ authors:
 type: course
 weight: 30
 tags:
-  - Technological Tools
+  - Former courses
 ---
 
 {{% toc %}}
