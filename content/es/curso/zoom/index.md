@@ -10,20 +10,25 @@ title: Taller de Zoom Accesible con Lector de Pantalla
 authors: 
   - "MetaDocencia"
 type: cursos
+weight: 40
 tags:
  - Próximos cursos
-weight: 40
 ---
 
+
 {{% toc %}}
+
+
+En este curso proponemos **aprender el manejo de Zoom con el lector de pantalla NVDA**. Recomendamos [mirar este video de 5 minutos](https://www.youtube.com/watch?v=jaOp891hAnY) que explica cómo bajar e instalar el lector de pantalla.
+
+Descarga e instala NVDA 👉 https://nvda.es/descargas/descarga-de-nvda/
+
 
 ### Cómo participar 
 Próximos cursos:
 - **Fecha hora (UTC-3)** > Inscríbete a través del [Formulario de registro](https://docs.google.com/forms/d/e/1FAIpQLSeI1SulmXrsJYhQplomJFW3M0ulcUSVfz1KWbN3b-K6kcaBiA/viewform)
 
-En este curso proponemos **aprender el manejo de Zoom con el lector de pantalla NVDA**. Recomendamos [mirar este video de 5 minutos](https://www.youtube.com/watch?v=jaOp891hAnY) que explica cómo bajar e instalar el lector de pantalla.
-
-Descarga e instala NVDA 👉 https://nvda.es/descargas/descarga-de-nvda/
+*Todos los datos se manejarán en forma confidencial, sólo podrán ser publicados de forma agregada y anonimizada en reportes sobre el alcance de MetaDocencia.*
 
 ### Objetivos 
 Las personas asistentes saben unirse a una reunión de Zoom. Las personas asistentes deben instalar el lector de pantalla NVDA Video explicativo para la descarga e instalación de NVDA previo al taller: https://youtu.be/jaOp891hAnY
@@ -48,7 +53,7 @@ Se disponibilizan una vez finalizada cada edición del curso.
 
 * [Presentación que usamos en el curso]() con instrucciones paso a paso de los ejercicios. 
 
-### ¡Servite sin culpa!
+### ¡Sírvete sin culpa!
 
 Nuestros materiales están disponibles en forma gratuita bajo esta [licencia](https://creativecommons.org/licenses/by/4.0/deed.es). Es decir, puedes reusar o editar cualquier material que aparece acá, lo único que pedimos a cambio es que cuando tomes material de acá incluyas una referencia a esta página web.
 
