@@ -5,7 +5,7 @@ image:
   caption: 
   alt_text: "Imagen de auricular con micrófono para videoconferencias"
 linktitle: Zoom Accesible con Lector de Pantalla
-summary: "Orientado a personas con discapacidad visual y docentes de personas con discapacidad visual."
+summary: Orientado a personas con discapacidad visual y docentes de personas con discapacidad visual.
 title: Taller de Zoom Accesible con Lector de Pantalla
 authors: 
   - "MetaDocencia"
