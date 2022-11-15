@@ -1,5 +1,5 @@
 ---
-date: "2020-05-15"
+date: "2022-11-15"
 draft: false
 image:
   caption: 
@@ -10,9 +10,9 @@ title: Taller de Zoom Accesible con Lector de Pantalla
 authors: 
   - "MetaDocencia"
 type: cursos
-weight: 10
 tags:
  - Próximos cursos
+weight: 50
 ---
 
 
