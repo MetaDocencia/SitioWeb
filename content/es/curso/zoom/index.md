@@ -36,7 +36,8 @@ Al final de este taller, quienes lo completen podrán:
 - Utilizar la totalidad de las funcionalidad existentes en la herramienta Zoom durante una reunión sincrónica.
   
 ### Para quién 
-Orientado a personas con discapacidad visual y docentes de personas con discapacidad visual. 
+**Orientado a personas con discapacidad visual y docentes de personas con discapacidad visual.** 
+
 Las personas asistentes deben saber unirse a una reunión de Zoom e instalar el lector de pantalla NVDA Video explicativo para la descarga e instalación de NVDA previo al taller: https://youtu.be/jaOp891hAnY
 
 ### Duración
