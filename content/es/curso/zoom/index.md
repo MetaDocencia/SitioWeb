@@ -2,88 +2,51 @@
 date: "2020-05-15"
 draft: false
 image:
-  caption: "[Foto de Holly Mindrup en Unsplash](https://unsplash.com/photos/-uPDkAK6f8A)"
-  alt_text: "Foto de 3 manzanas verdes sobre una mesa tomada por Holly Mindrup"
-linktitle: Taller de Zoom
-summary: "En este taller vamos a familiarizarnos con las opciones y herramientas de Zoom"
-title: Taller de Zoom
+  caption: 
+  alt_text: "Imagen de auricular con micrófono para videoconferencias"
+linktitle: Zoom Accesible con Lector de Pantalla
+summary: "Orientado a personas con discapacidad visual y docentes de personas con discapacidad visual."
+title: Taller de Zoom Accesible con Lector de Pantalla
 authors: 
   - "MetaDocencia"
 type: cursos
 tags:
- - Ediciones anteriores
+ - Próximos cursos
 weight: 40
 ---
 
 {{% toc %}}
 
-### Objetivos 
-
-En este taller de tres horas vamos a familiarizarnos con las opciones y herramientas de Zoom que puedes usar para promover un espacio cómodo y amigable en una clase (o cualquier tipo de evento) online sincrónica. Vamos a pensar en las necesidades de cada clase y cómo decidír qué herramienta es la más apropiada para satisfacerlas. 
-
-Se trata de un taller práctico donde vas a poner las manos en la masa. 
-
-Durante este taller online:
-
-* Vas a configurar tu cuenta de Zoom de la manera que mejor se adapte a tu clase.
-
-* Vas a practicar como gestionar una sesión de Zoom.
-
-* Vas a crear y manejar salas para trabajo grupal con posibilidad de que la o el docente a cargo pase de grupo en grupo.
-
-* Vas a programar una reunión de Zoom para practicar la gestión completa en una sesión propia. 
-
-### ¿Para quién?
-
-Para hacer esta capacitación, es recomendable haber hecho el curso [Introducción al ABC para enseñar online](https://www.metadocencia.org/curso/intro-abc-online/), aunque no es requisito. 
-
-Pensamos en María y en Karina como personas tipo al diseñar los contenidos de este taller.
-
-* María es docente universitaria desde hace más de 30 años. Es una oradora muy buscada para charlas y seminarios. Se maneja muy bien con el correo electrónico y por Whatsapp. Más detalles sobre María [aquí](https://www.metadocencia.org/persona/maria/).
-
-* Karina recién se inicia en la docencia este año. No tiene mucha experiencia  ni de pedagogía ni de herramientas específicas. Más detalles sobre Karina [aquí](https://www.metadocencia.org/persona/karina/).
-
-### ¿Qué no incluye este taller?
-
-No incluye conceptos teóricos de pedagogía, sino cómo aplicar algunos de los contenidos del curso [Introducción al ABC para enseñar online](https://www.metadocencia.org/curso/intro-abc-online/).
-  
 ### Cómo participar 
-Este curso volverá a dictarse en 2022, en fecha a confirmar. Si te interesa participar, escríbenos a info@metadocencia.org.
+Próximos cursos:
+- **Fecha hora (UTC-3)** > Inscríbete a través del [Formulario de registro](https://docs.google.com/forms/d/e/1FAIpQLSeI1SulmXrsJYhQplomJFW3M0ulcUSVfz1KWbN3b-K6kcaBiA/viewform)
+
+En este curso proponemos **aprender el manejo de Zoom con el lector de pantalla NVDA**. Recomendamos [mirar este video de 5 minutos](https://www.youtube.com/watch?v=jaOp891hAnY) que explica cómo bajar e instalar el lector de pantalla.
+
+Descarga e instala NVDA 👉 https://nvda.es/descargas/descarga-de-nvda/
+
+### Objetivos 
+Las personas asistentes saben unirse a una reunión de Zoom. Las personas asistentes deben instalar el lector de pantalla NVDA Video explicativo para la descarga e instalación de NVDA previo al taller: https://youtu.be/jaOp891hAnY
+
+Al final de este taller, quienes lo completen podrán:
+- Modificar la configuración de atajos de Zoom
+- Utilizar en simultáneo las herramientas Zoom y NVDA
+- Utilizar la totalidad de las funcionalidad existentes en la herramienta Zoom durante una reunión sincrónica.
   
 ### Duración
 
-El taller tiene una duración de 3 horas con dos intervalos intervalos de aproximadamente 5 minutos cada uno. 
+El taller tiene una duración de 2 horas con 1 pausa de 5 a 10 minutos cada 60 minutos
 
 ### Cronograma
 
-El taller se centra en actividades para desarrollar en grupos pequeños y un ejercicio transversal en el que cada uno va a poder probar las herramientas de Zoom. 
-
-Este cronograma es un ejemplo que asume que el comienzo del curso es las 9 am, pero esto variará según la franja horaria que mencionaremos en el mensaje de invitación.
-
-
-
-|  Duración (min) |Hora   |  Actividad  |
-| ---:  | :------:|:----------- |
- | 5  <img width="150"/>| 09:00  | Tiempo previo para conectarse y asegurarse que anda bien tu conexión de audio y video |
- | 10 | 09:05  | Introducción al curso y creación de grupos |
- | 15 | 09:15  | Cómo manejar Zoom durante una reunión | 
- | 10  | 09:30  | Cómo elegir la herramienta correcta | 
- | 15 | 09:40  | Grupo 1 hace Ejercicio - El resto hace Actividad 1: ¿Qué tenés que hacer durante tu clase? |
- | 5  | 09:55  |   Pausa lejos de pantallas |
- | 15 | 10:00  | Algunos consejos útiles |
- | 15 | 10:15 |  Grupo 2 hace Ejercicio - El resto hace Actividad 2: ¿Qué puede fallar? |
- | 15 | 10:30 | Seteo de opciones globales en Zoom |
- | 15 | 10:45 | Grupo 3 hace Ejercicio - El resto hace Actividad 3: ¿Qué opciones te sirven mejor para tu clase? |
- | 10  | 11:00 |   Pausa lejos de pantallas |
- | 10 | 11:10 | Programando reuniones de Zoom e invitando |
- | 15 | 11:20 | Grupo 4 hace Ejercicio - El resto hace Actividad 4: Programa una reunión para practicar más tarde con tu grupo 
- | 15 | 11:35 | Cada grupo hace la Actividad que no pudo hacer |
- | 10 | 11:50 | Tiempo para preguntas y devolución |
- |  - | 12:00 | Fin del curso |
+Se comenzará mostrando los atajos de la herramienta Zoom antes de iniciar una reunión.
+Continuaremos con los atajos dentro de una reunión desde los más utilizados hasta los más generales.
+Se detallará la funcionalidad de cada atajo permitiendo la experimentación en vivo.
 
 ### Materiales
+Se disponibilizan una vez finalizada cada edición del curso.
 
-* [Presentación que usamos en el curso](https://docs.google.com/presentation/d/1RnLcOo-x1EML7i-hOgAlw9qB3PIEJ6Y4Wb3JVpUmsrc/edit) con instrucciones paso a paso de los ejercicios. 
+* [Presentación que usamos en el curso]() con instrucciones paso a paso de los ejercicios. 
 
 ### ¡Servite sin culpa!
 
