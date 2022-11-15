@@ -10,7 +10,7 @@ title: Taller de Zoom Accesible con Lector de Pantalla
 authors: 
   - "MetaDocencia"
 type: cursos
-weight: 40
+weight: 10
 tags:
  - Próximos cursos
 ---
