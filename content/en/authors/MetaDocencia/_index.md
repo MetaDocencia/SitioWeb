@@ -3,7 +3,7 @@ authors:
 - MetaDocencia
 bio: 
 email: ""
-name: Mission, Vision, and Values
+name: 
 social:
 - icon: envelope
   icon_pack: fas
