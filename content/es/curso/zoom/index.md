@@ -19,25 +19,26 @@ weight: 50
 {{% toc %}}
 
 
-En este curso proponemos **aprender el manejo de Zoom con el lector de pantalla NVDA**. Recomendamos [mirar este video de 5 minutos](https://www.youtube.com/watch?v=jaOp891hAnY) que explica cómo bajar e instalar el lector de pantalla.
-
-Descarga e instala NVDA 👉 https://nvda.es/descargas/descarga-de-nvda/
-
-
 ### Cómo participar 
-Próximos cursos:
+Próximo taller:
 - **Jueves 1 de diciembre de 14 a 16 (UTC-3)** > Inscríbete a través del [Formulario de registro](https://docs.google.com/forms/d/e/1FAIpQLSeI1SulmXrsJYhQplomJFW3M0ulcUSVfz1KWbN3b-K6kcaBiA/viewform)
 
 *Todos los datos se manejarán en forma confidencial, sólo podrán ser publicados de forma agregada y anonimizada en reportes sobre el alcance de MetaDocencia.*
 
 ### Objetivos 
-Las personas asistentes saben unirse a una reunión de Zoom. Las personas asistentes deben instalar el lector de pantalla NVDA Video explicativo para la descarga e instalación de NVDA previo al taller: https://youtu.be/jaOp891hAnY
+En este curso proponemos **aprender el manejo de Zoom con el lector de pantalla NVDA**. Recomendamos [mirar este video de 5 minutos](https://www.youtube.com/watch?v=jaOp891hAnY) que explica cómo bajar e instalar el lector de pantalla.
+
+Descarga e instala NVDA 👉 https://nvda.es/descargas/descarga-de-nvda/
 
 Al final de este taller, quienes lo completen podrán:
 - Modificar la configuración de atajos de Zoom
 - Utilizar en simultáneo las herramientas Zoom y NVDA
 - Utilizar la totalidad de las funcionalidad existentes en la herramienta Zoom durante una reunión sincrónica.
   
+### Para quién 
+Orientado a personas con discapacidad visual y docentes de personas con discapacidad visual. 
+Las personas asistentes deben saber unirse a una reunión de Zoom e instalar el lector de pantalla NVDA Video explicativo para la descarga e instalación de NVDA previo al taller: https://youtu.be/jaOp891hAnY
+
 ### Duración
 
 El taller tiene una duración de 2 horas con 1 pausa de 5 a 10 minutos cada 60 minutos
