@@ -26,7 +26,7 @@ Descarga e instala NVDA 👉 https://nvda.es/descargas/descarga-de-nvda/
 
 ### Cómo participar 
 Próximos cursos:
-- **Fecha hora (UTC-3)** > Inscríbete a través del [Formulario de registro](https://docs.google.com/forms/d/e/1FAIpQLSeI1SulmXrsJYhQplomJFW3M0ulcUSVfz1KWbN3b-K6kcaBiA/viewform)
+- **Jueves 1 de diciembre de 14 a 16 (UTC-3)** > Inscríbete a través del [Formulario de registro](https://docs.google.com/forms/d/e/1FAIpQLSeI1SulmXrsJYhQplomJFW3M0ulcUSVfz1KWbN3b-K6kcaBiA/viewform)
 
 *Todos los datos se manejarán en forma confidencial, sólo podrán ser publicados de forma agregada y anonimizada en reportes sobre el alcance de MetaDocencia.*
 
