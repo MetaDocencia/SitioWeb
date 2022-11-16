@@ -2,8 +2,8 @@
 date: "2020-03-22"
 draft: false
 image:
-  caption: "[Photo by an_vision on Unsplash](https://unsplash.com/photos/gDPaDDy6_WE)"
-  alt_text: "Photo of a red apple taken by an_vision"
+  caption: 
+  alt_text: "Image of dialogue globes around the planet"
 linktitle: Present! Resources for Active Meetings
 summary: Online synchronous workshop including good practices for general teaching spaces. 
 title: Present! Resources for Active Meetings
