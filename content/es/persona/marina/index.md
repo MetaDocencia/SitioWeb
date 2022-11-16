@@ -1,6 +1,6 @@
 ---
 date: "2022-11-16"
-draft: false
+draft: true
 image:
   caption: ""
 linktitle: "Persona tipo: Marina"
