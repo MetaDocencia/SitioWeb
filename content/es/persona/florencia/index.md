@@ -10,8 +10,6 @@ type: persona
 weight: 25
 ---
 
-### Florencia
-
 Florencia es docente de Tecnologías de Información y Comunicación en escuelas secundarias y terciarias. A sus 38 años, asentada en su departamento de la Capital junto a su pareja y como madre de una nena a punto de comenzar la escuela primaria, está más convencida que nunca de que nació para ser docente, inspirada en Dina, la maestra de secundaria que la marcó tanto.
 
 Florencia desespera porque siente que la realidad le pasa por encima. Es docente “taxi” de escuela media: dicta entre 6 y 8 asignaturas en cada una de las 3 escuelas en las que trabaja, por lo que está obligada a desplazarse de una institución a otra con distancias que no son nada cortas. Reconoce que los cambios curriculares, la nueva dinámica post-pandémica, el cansancio generalizado por la situación del país y los intereses cambiantes de sus estudiantes le impiden mantener clases activas y propuestas inspiradoras como las que despertaron su vocación. Sabe que hay recursos más efectivos para usar en sus clases, pero no tiene tiempo ni espacio para tomar propuestas de formación presencial... Y también sabe que, con los bajos salarios docentes, si tuviera ese tiempo extra lo invertiría en dar más horas de clase.
