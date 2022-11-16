@@ -2,15 +2,13 @@
 date: "2022-11-08"
 draft: false
 image:
-  caption: "[Foto generada por...](https://site/)"
+  caption: ""
 linktitle: "Persona tipo: Eva"
 summary: 
 title: Eva
 type: persona
 weight: 25
 ---
-
-### Emma
 
 Tiene 39 años. Es docente de inglés de medio tiempo en un instituto privado.
 
