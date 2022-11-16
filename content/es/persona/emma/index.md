@@ -2,15 +2,13 @@
 date: "2022-11-08"
 draft: false
 image:
-  caption: "[Foto generada por...](https://site/)"
+  caption: ""
 linktitle: "Persona tipo: Emma"
 summary: 
 title: Emma
 type: persona
 weight: 25
 ---
-
-### Emma
 
 Tiene 30 años y está terminando su formación pedagógica en la carrera  de Letras. Nunca se interesó por el uso de la tecnología aplicada a la docencia, pero entiende de su importancia y en su formación suelen mencionarlo. Se siente un poco insegura en sus primeras prácticas docentes, y siente que debería poder reformular sus clases en el momento, pero no sabe de qué manera orientarse para hacerlo.
 
