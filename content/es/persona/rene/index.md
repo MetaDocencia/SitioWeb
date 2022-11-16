@@ -4,7 +4,7 @@ draft: false
 image:
   caption: "[Foto generada en thispersondoesnotexist.com](https://thispersondoesnotexist.com/)"
 linktitle: "Persona tipo: Rene"
-summary: Tiene experiencia programando pero tuvo que apreder R para dar clases en materias de programación.
+summary: Tiene experiencia programando pero tuvo que aprender R para dar clases en materias de programación.
 title: Rene
 type: persona
 weight: 15
