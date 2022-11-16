@@ -4,9 +4,9 @@ draft: false
 image:
   caption: "[Photo by an_vision on Unsplash](https://unsplash.com/photos/gDPaDDy6_WE)"
   alt_text: "Photo of a red apple taken by an_vision"
-linktitle: Introduction to online teaching essentials
-summary: Introductory online synchronous workshop for general online teaching. 
-title: Introduction to online teaching essentials
+linktitle: Present! Resources for Active Meetings
+summary: Online synchronous workshop including good practices for general teaching spaces. 
+title: Present! Resources for Active Meetings
 authors: 
     - "MetaDocencia"
 type: course
@@ -15,11 +15,13 @@ tags:
   - Next courses
 ---
 
+**This workshop will be offered in Spanish. [Dates and registration form (in Spanish)](https://www.metadocencia.org/curso/intro-abc-online/)**
+
 {{% toc %}}
 
 ### Objectives 
 
-To introduce basic good practices for classroom (or seminar, workshop, talk) management using Zoom or a similar online meeting platform. Every detail of the workshop, from the demonstration of interest and pre-registration form to the feedback request at the end of the workshop, including its execution using Zoom, is a demonstration of the strategies that can be adopted or adapted to any synchronous teaching.
+To introduce basic good practices for classroom (or seminar, workshop, talk) in face-to-face, hybrid or online environments (e.g., using Zoom). Every detail of the workshop, from the demonstration of interest and pre-registration form to the feedback request at the end of the workshop, including its execution using Zoom, is a demonstration of the strategies that can be adopted or adapted to any synchronous teaching.
 
 During this online workshop:
 
@@ -43,7 +45,7 @@ During this online workshop:
 
 ### Intended public of this course
 
-There are no specific requirements for this course other than speaking Spanish.
+**There are no specific requirements for this course other than speaking Spanish.**
 
 When we designed this workshop, we had in mind Maria and Juan as our learner personas.
 
@@ -65,8 +67,7 @@ Since we only have 3 hours, a lot of things will be out of reach of the workshop
 
 ### How to participate 
 
-If you hadn't done it before, please fill on 
-[this registration form in Spanish](https://docs.google.com/forms/d/e/1FAIpQLScC20Me-fX7UmCNhNswulYfOVQF4XiyIHgtde_R8CWreCmWhA/viewform?usp=sf_link) (if you have already done so, you do not need to complete it again). As soon as we open slots we will send you an invitation email so you can choose the day and time that suits you best. 
+This workshop will be offered in Spanish. [Dates and registration form (in Spanish)](https://www.metadocencia.org/curso/intro-abc-online/)
 
 The workshop is free. Those invited to the workshop agree to abide by our [code of conduct](https://metadocencia.org/cdc/). 
 
@@ -102,15 +103,7 @@ This schedule assumes the start of the course is 9 am, but this will vary accord
 
 ### Course materials (in Spanish)
 
-* [Presentation](https://docs.google.com/presentation/d/1GeVmDnToCDcWDdz51GcZz5V_7PsXgzHqLFHWTNZxYqk/edit?usp=sharing) with speaker notes that expand on the content for those giving the course.
-
-* [Shared document template](https://docs.google.com/document/d/1sPvRezzh3y1kJh171mjhbe5krmIi_QNoOs1LPOBp2bE/edit?usp=sharing)
-
-* [End-of-workshop feedback form template](https://docs.google.com/forms/d/1Z7F-gEwIT3Wokj8g65TcU5rzrFHzQsjtmKBQmqUaEnE/edit?usp=sharing)
-
-* [Pre-registration form template](https://docs.google.com/forms/d/15M8mqLG_qj6FSvqqzc4l0bnwJ1Q0JNqLSSLnMtYbxOs/edit?usp=sharing)
-
-* [Video of the course](https://www.youtube.com/watch?v=Ze7-fJNHvYQ)
+[Course materials (in Spanish)](https://www.metadocencia.org/curso/intro-abc-online/)
 
 ### Do you want to re-use any of our contents? Please, be our guest!
 
