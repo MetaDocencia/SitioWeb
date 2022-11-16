@@ -10,8 +10,6 @@ type: persona
 weight: 15
 ---
 
-### Juan
-
 Juan es doctorando en Bioinformática. Sólo le falta terminar de escribir su tesis y defenderla para completar su doctorado. También está al cuidado de sus hijas adoptivas de 2 y 4 años. Enseña Biología en una escuela secundaria privada y también Informática en un Instituto de Profesorado público. Además, ofrece talleres de Informática a empresas.
 
 Siempre se preocupa mucho por sus estudiantes. Le interesa enseñar bien y sin improvisar, por eso completó las materias pedagógicas para recibirse de profesor universitario. Aunque ama la tecnología, cuenta con muy poco tiempo para formarse. En los últimos años, estuvo en todo tipo de encuentros de intercambio de saberes virtuales. Algunos de esos espacios le parecieron excelentes.
