@@ -74,5 +74,3 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
-Estas son nuestras learner personas
