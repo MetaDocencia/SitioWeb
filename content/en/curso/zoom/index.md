@@ -2,11 +2,11 @@
 date: "2020-05-15"
 draft: false
 image:
-  caption: "[Photo by Holly Mindrup on Unsplash](https://unsplash.com/photos/gDPaDDy6_WE)"
-  alt_text: "Photo of three green apples on a table taken by Holly Mindrup"
-linktitle: Zoom Workshop
-summary: Introductory online synchronous workshop to teach with Zoom. 
-title: Zoom Workshop
+  caption:
+  alt_text: "Image of headset with microphone for videoconferences"
+linktitle: Accessible Zoom with a Screen Reader
+summary: Oriented to people with visual impairment and teachers of persons with visual impairment. 
+title: Accessible Zoom with a Screen Reader
 spellcheck: true
 authors: 
     - "MetaDocencia"
@@ -15,6 +15,8 @@ tags:
  - Next courses
 weight: 40
 ---
+
+**This workshop will be offered in Spanish. [Dates and registration form (in Spanish)](https://www.metadocencia.org/curso/zoom/)**
 
 {{% toc %}}
 
