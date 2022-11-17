@@ -3,7 +3,7 @@ date: "2022-10-25"
 draft: false
 type: page
 title: "Toma forma la nueva gobernanza de MetaDocencia"
-summary: Nos propusimos diseñar colaborativamente un modelo transparente para la toma de decisiones estratégicas que nos permita fortalecer nuestra misión institucional sobre la base de la construcción en comunidad.
+summary: Pronto comunicaremos y pondremos a disposición de otras comunidades el modelo de organización que pensamos para MetaDocencia.
 authors: 
 
 type: post
