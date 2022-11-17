@@ -53,7 +53,7 @@ When we designed this workshop, we had in mind Juan, Andrea and Florencia as our
 
 * Andrea is 30 years old and has a postdoctoral fellowship. She won her first teaching position and knows a lot about the subject she will be teaching but has no teacher training and needs tools to be able to deliver the content efficiently.
 
-Florencia is a teacher of Information and Communication Technologies. She is the mother of a girl about to start elementary school. She knows that she needs to incorporate effective tools to update contents and formats and that would have positive impact on her students' vocation, educational and professional trajectories. 
+* Florencia is a teacher of Information and Communication Technologies. She is the mother of a girl about to start elementary school. She knows that she needs to incorporate effective tools to update contents and formats and that would have positive impact on her students' vocation, educational and professional trajectories. 
  
 Check out [personas](https://metadocencia.netlify.app/personas/) (in Spanish) to read more about them.
 
