@@ -3,7 +3,7 @@ date: "2022-11-15"
 draft: false
 type: page
 title: "Advances of MetaDocencia's new governance"
-summary: We will soon communicate and share with other communities the organizational model we are thinking of for MetaDocencia.
+summary: We will soon communicate and share with other communities the organizational model we are thinking for MetaDocencia.
 authors: 
 
 type: post
@@ -23,7 +23,7 @@ The challenge is to generate an autonomous, sustainable, and ordered space to wo
 
 We plan to review this governance after the first year of implementation. It will also represent a challenge to keep an open perspective and allow us to question what might not be working.
 
-We will soon communicate and share with other communities the organizational model we are thinking of for MetaDocencia, designed for and shaped by our cultural and regional context.
+We will soon communicate and share with other communities the organizational model we are thinking for MetaDocencia, designed for and shaped by our cultural and regional context.
 
 Our greatest expectation is that our journey contributes to strengthening other communities around the world, as well as public and open spaces for knowledge, exchange, networking, and collaboration.
 
