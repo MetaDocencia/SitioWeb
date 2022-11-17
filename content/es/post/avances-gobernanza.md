@@ -1,5 +1,5 @@
 ---
-date: "2022-10-25"
+date: "2022-11-15"
 draft: false
 type: page
 title: "Toma forma la nueva gobernanza de MetaDocencia"
