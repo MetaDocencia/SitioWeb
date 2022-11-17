@@ -55,8 +55,7 @@ When we designed this workshop, we had in mind Juan, Andrea and Florencia as our
 
 Florencia is a teacher of Information and Communication Technologies. She is the mother of a girl about to start elementary school. She knows that she needs to incorporate effective tools to update contents and formats and that would have positive impact on her students' vocation, educational and professional trajectories. 
  
-Check out [personas](https://metadocencia.netlify.app/personas/) to read more about them.
-
+Check out [personas](https://metadocencia.netlify.app/personas/) (in Spanish) to read more about them.
 
 ### _Not_ included in this workshop
 
