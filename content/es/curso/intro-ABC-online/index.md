@@ -46,13 +46,16 @@ Durante este taller remoto:
 
 ### ¿Para quién?
 
-Este taller es la nueva actualización de nuestro "Introducción al ABC para enseñar online". No hay requisitos previos específicos para esta capacitación. 
+**Este taller es la nueva actualización de nuestro "Introducción al ABC para enseñar online". No hay requisitos previos específicos para esta capacitación.** 
 
-Pensamos en María y Juan como [personas tipo](/personas/) al diseñar los contenidos de este taller.
+Pensamos en Juan, Andrea y Florencia como [personas tipo](/personas/) al diseñar los contenidos de este taller.
 
-* María es docente universitaria desde hace más de 30 años. Es una oradora muy buscada para charlas y seminarios. Se maneja muy bien con el correo electrónico y por Whatsapp. Más detalles sobre María [aquí](/persona/maria).
+* Juan es doctorando en Bioinformática. Divide su tiempo docente entre enseñar talleres en empresas y clases en los niveles secundario y terciario. Con mucha experiencia en herramientas tecnológicas, da clases desde su casa. Cuida a sus hijas de 2 y 4 años. Más detalles sobre Juan [aquí](/persona/juan). 
 
-* Juan divide su tiempo docente entre enseñar talleres en empresas y clases en los niveles secundario y terciario. Con mucha experiencia en herramientas tecnológicas, da clases desde su casa. Cuida a sus hijas de 2 y 4 años. Más detalles sobre Juan [aquí](/persona/juan).
+* Andrea tiene 30 años, una beca postdoctoral y ansía entrar pronto a la carrera de investigación. Ganó su primer concurso docente y sabe mucho sobre el tema que va a dictar pero no tiene formación docente y necesita herramientas para poder transmitir los contenidos de forma eficiente. Más detalles sobre Andrea [aquí](/persona/andrea).
+
+* Florencia es docente de Tecnologías de Información y Comunicación en escuelas secundarias y terciarias. Es madre de una nena a punto de comenzar la escuela primaria. Sabe que necesita incorporar herramientas efectivas para actualizarse, sumar contenidos y formatos que puedan impactar positivamente sobre la vocación y las trayectorias educativas y profesionales de sus estudiantes. Más detalles sobre Florencia [aquí](/persona/florencia).
+
 
 ### ¿Qué _no_ incluye este taller?
 
