@@ -47,11 +47,13 @@ During this online workshop:
 
 **There are no specific requirements for this course other than speaking Spanish.**
 
-When we designed this workshop, we had in mind Maria and Juan as our learner personas.
-
-* Maria has been a University teacher for more than 30 years. Given her experience, she is very required for talks and seminars. She is very confident using email and WhatsApp.
+When we designed this workshop, we had in mind Juan, Andrea and Florencia as our learner personas.
 
 * Juan splits his teaching time between delivering workshops for companies and classes at High-school. He has a lot of experience in technology tools, he teaches from Home. He takes care of his 2-yo and 4-yo daughters. 
+
+* Andrea is 30 years old and has a postdoctoral fellowship. She won her first teaching position and knows a lot about the subject she will be teaching but has no teacher training and needs tools to be able to deliver the content efficiently.
+
+Florencia is a teacher of Information and Communication Technologies. She is the mother of a girl about to start elementary school. She knows that she needs to incorporate effective tools to update contents and formats and that would have positive impact on her students' vocation, educational and professional trajectories. 
  
 Check out [personas](https://metadocencia.netlify.app/personas/) to read more about them.
 
