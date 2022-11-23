@@ -15,6 +15,7 @@ tags:
   - Próximos cursos
 ---
 
+{{% toc %}}
 
 ### Cómo participar 
 Próximos cursos:
@@ -22,8 +23,6 @@ Próximos cursos:
 - **Martes 29 de noviembre de 9 a 12 (UTC-3)** > Inscríbete a través del [Formulario de registro](https://docs.google.com/forms/d/e/1FAIpQLScsLqP4x7yvHl13z_3qfMmL8kXktqSLYumO18ZUCX2-9nzxDg/viewform)
 
 *Todos los datos se manejarán en forma confidencial, sólo podrán ser publicados de forma agregada y anonimizada en reportes sobre el alcance de MetaDocencia.*
-
-{{% toc %}}
 
 ### Objetivos 
 
