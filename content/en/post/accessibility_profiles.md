@@ -34,7 +34,7 @@ _Difficulty using sight as a means of perception._
 | ---: | :----------- |
 | Lost of vision | Facilitate voice interaction. |
 | Low vision | Possibility of using a magnifying glass. Material with font size of at least 12 points for the text and 14 points for titles. |
-| Color blindness | Adequate contrast, at least 4.5. Use of shapes, textures and any other element that helps distinguish information without resorting to color. |
+| Color blindness | Adequate contrast of at least 4.5. Use of shapes, textures, and any other element that helps distinguish information without resorting to color. |
 
 ## Related to hearing
 
@@ -42,7 +42,7 @@ _Difficulty using hearing to perceive information._
 
 | Description | Action | 
 | ---: | :----------- |
-| Lost of hearing | Subtitled. If the mother tongue is sign language: Interpretation in sign language; use of clear, simple and concise written language, avoiding as far as possible unnecessary _adornments_ that make understanding difficult. |
+| Lost of hearing | Captioning. If the mother tongue is sign language, interpretation in sign language; use of clear, simple, and concise written language, avoiding as far as possible unnecessary _adornments_ that make understanding difficult. |
 
 ## Related to mobility
 
@@ -50,7 +50,7 @@ _Variable difficulty of interaction with the device._
 
 | Description | Action |  
 | ---: | :----------- |
-| Difficulty regarding the interactive use of the device in which the web is executed regarding control and precision. | Screen readers or similar specific software. Keyboard priority use. |
+| Difficulty with control and precision regarding the interactive use of the device in which the web is executed. | Screen readers or similar specific software. Keyboard priority use. |
 
 ## Related to concentration and attention
 
@@ -58,12 +58,12 @@ _Variable difficulty sustaining attention on a task for long periods of time._
 
 | Description | Action | 
 | ---: | :----------- |
-| Variable difficulty sustaining attention on a task for long periods of time | Simplified or easy-to-read content.
-Task duration minimization. Frequent breaks (eg every 50 minutes). |
+| Variable difficulty sustaining attention on a task for long periods of time | Easy-to-read content.
+Task duration minimization. Frequent breaks (e.g., every 50 minutes). |
 
-Contact email with the accessibility team: [accesibilidad@metadocencia.org](mailto:accesibilidad@metadocencia.org)
+Accessibility team email: [accesibilidad@metadocencia.org](mailto:accesibilidad@metadocencia.org)
 
-Fuentes:
+## References
 
 * [Web Accessibility 1: Profiling of people with Disabilities](https://www.metsuke.com/accesibilidad-web-1-perfilado-de-personas-con-discapacidad/)
 * [Olga Carreras website on accessibility](https://olgacarreras.blogspot.com/) 
