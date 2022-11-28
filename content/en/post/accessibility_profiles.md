@@ -3,7 +3,7 @@ date: "2022-04-06"
 draft: false
 type: page
 linktitle: "MetaDocencia's Accessibility Profiles"
-summary: First description of profiles of persons with disabilities that help us organize the different requirements and achieve material that is accessible to the greatest possible number of people.
+summary: First description of persons with disabilities profiles that help us organize the different requirements for our events and share contents accessible to the greatest possible number of people.
 title: "MetaDocencia's Accessibility Profiles"
 authors: 
   - ivan
@@ -18,13 +18,13 @@ tags:
   - comunidad
 ---
 
-In the definition of our mission and vision, Metadocencia is defined as _“an inclusive and collaborative community”_ that develops _“open, reusable and accessible resources”_. To define different accessibility profiles for reviewing the materials we offer, we work with an accessibility team: Iván Gabriel Poggio, Mariela Rajngewerc and Patricia A. Loto, 
+In our mission and vision, Metadocencia is defined as _“an inclusive and collaborative community”_ that develops _“open, reusable and accessible resources”_. To define different accessibility profiles for reviewing the materials we offer, we work with an accessibility team: Iván Gabriel Poggio, Mariela Rajngewerc, and Patricia A. Loto. 
 
 We know that it is always possible to improve our work, which is presented as dynamic and permanent, always keeping _people_ at the center of our work.
 
 We are open to suggestions for improvements and warnings of possible barriers to accessing our material. At the end of this note you will find an email address to write to us.
 
-We present this first description of profiles of people with disabilities to organize the different requirements and achieve material that is accessible to the greatest number of people.
+We present this first description of profiles of people with disabilities to organize the different requirements and share material accessible to the greatest number of people.
 
 ## Related to vision
 
