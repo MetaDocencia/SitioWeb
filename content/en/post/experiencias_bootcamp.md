@@ -6,7 +6,7 @@ linktitle: Community of knowledge
 summary: Our experience of using MetaDocencia courses at Leniolabs Bootcamp.
 title: Community of knowledge
 authors: 
-  - carmen
+  - Carmen Villarpando
   - Mariana Beldi
   - Karina Garrido
 type: post
