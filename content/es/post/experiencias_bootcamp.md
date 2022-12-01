@@ -6,7 +6,7 @@ linktitle: Comunidades del conocimiento
 summary: Nuestra experiencia sobre la utilización de los cursos de MetaDocencia en el Bootcamp de Leniolabs.
 title: Comunidades del conocimiento 
 authors: 
-  - carmen
+  - Carmen Villarpando
   - Mariana Beldi
   - Karina Garrido
 type: post
