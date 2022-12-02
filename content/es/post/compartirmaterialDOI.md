@@ -44,7 +44,7 @@ Si nuestro material tiene código en algún lenguaje de programación, entonces 
     {{< figure src="/img/screen3.png" >}}
 
     
-    * Ahora, elije el repositorio que deseas archivar. Para habilitar esta funcionalidad hacemos clic en el botón Activar junto a al repositorio (en este caso GEE_course_code). El respositorio debe ser _público_
+    * Ahora, elige el repositorio que deseas archivar. Para habilitar esta funcionalidad hacemos clic en el botón Activar junto a al repositorio (en este caso GEE_course_code). El respositorio debe ser _público_
 
     {{< figure src="/img/screen4.png" >}}
 
