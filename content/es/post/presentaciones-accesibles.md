@@ -47,7 +47,7 @@ Respecto a los **colores** que aparecen en tu presentación, algunos consejos in
 
 Además de estas recomendaciones puedes utilizar algunas herramientas que evalúan automáticamente la accesibilidad de tus presentaciones. Por ejemplo, para Google Slides puedes utilizar [Grackle Docs](https://www.grackledocs.com/), que es un complemento gratuito de Google. En el caso de que utilices Power Point, puedes utilizar el componente de accesibilidad [Comprobar accesibilidad](https://support.microsoft.com/es-es/office/reglas-del-comprobador-de-accesibilidad-651e08f2-0fc3-4e10-aaca-74b4a67101c1) dentro del menú “Revisar”.
 
-### Recursos
+## Recursos
 
 Dejamos a disposición una **[lista de consejos para presentaciones accesibles](https://drive.google.com/file/d/1sBeuVn8koBm9vRkcyTvW5yEN6F109lVs/view?usp=sharing)**, que te permitirá chequear el cumplimiento de las sugerencias y consejos mencionados.
 
