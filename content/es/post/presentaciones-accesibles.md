@@ -59,9 +59,9 @@ Si tienes algún comentario o querés compartir alguna recomendación o herramie
 
 
 Referencias:
-  [1] [How to make virtual meetings accesible - Essential Accessibility](https://www.essentialaccessibility.com/blog/how-to-make-virtual-meetings-accessible)
-  [2] [5] [7] [8] [Guías de comunicación inclusiva sobre lenguaje visual](https://modii.org/guia-lenguaje-visual/) 
-  [3] [Accessible presentations - w3](https://www.w3.org/WAI/teach-advocate/accessible-presentations/#simple-language)
-  [4] [Make your presentations accessible - Microsoft](https://support.microsoft.com/en-us/office/make-your-powerpoint-presentations-accessible-to-people-with-disabilities-6f7772b2-2f33-4bd2-8ca7-dae3b2b3ef25#:~:text=In%20PowerPoint%2C%20the%20Accessibility%20Checker,%2C%20select%20Review%20%3E%20Check%20Accessibility)
-  [6] [Make your document or presentation more accessible - Google](https://support.google.com/docs/answer/6199477?hl=e)
-  [9] [Contrast rario - Webaim](https://webaim.org/articles/contrast/#ratio)
+- [1] [How to make virtual meetings accesible - Essential Accessibility](https://www.essentialaccessibility.com/blog/how-to-make-virtual-meetings-accessible)
+- [2] [5] [7] [8] [Guías de comunicación inclusiva sobre lenguaje visual](https://modii.org/guia-lenguaje-visual/) 
+- [3] [Accessible presentations - w3](https://www.w3.org/WAI/teach-advocate/accessible-presentations/#simple-language)
+- [4] [Make your presentations accessible - Microsoft](https://support.microsoft.com/en-us/office/make-your-powerpoint-presentations-accessible-to-people-with-disabilities-6f7772b2-2f33-4bd2-8ca7-dae3b2b3ef25#:~:text=In%20PowerPoint%2C%20the%20Accessibility%20Checker,%2C%20select%20Review%20%3E%20Check%20Accessibility)
+- [6] [Make your document or presentation more accessible - Google](https://support.google.com/docs/answer/6199477?hl=e)
+- [9] [Contrast rario - Webaim](https://webaim.org/articles/contrast/#ratio)
