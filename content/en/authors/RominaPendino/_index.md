@@ -18,6 +18,5 @@ user_groups:
 - Contributors
 ---
 
-She studied at the Faculty of Social Communication of the National University of Rosario. She worked for numerous mass media in the city and specialized in tourism communication. She is working on a project related to the application of ICT and virtual care in speech and language practice.
-
+She studied at the Faculty of Social Communication of the National University of Rosario. She worked for numerous mass media in the city and specialized in tourism communication. She has worked as a coordinator of communication spaces for youth and teenagers. She is a certified instructor by The Carpentries. Currently working in the administrative area of MetaDocencia, where she has been actively involved since 2020.
 
