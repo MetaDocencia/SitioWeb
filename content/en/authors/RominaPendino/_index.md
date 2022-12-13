@@ -5,7 +5,10 @@ bio: ""
 education:
 email: ""
 interests:
-
+- Education
+- Gender and Human Rights
+- People management and labor relations
+- Communication
 name: Romina Pendino
 weight: 14
 role: Governance, Code of Conduct, and Teaching Teams
