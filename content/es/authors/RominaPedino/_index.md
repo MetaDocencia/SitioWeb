@@ -5,7 +5,10 @@ bio: ""
 education:
 email: ""
 interests:
-
+- Educación
+- Género y derechos humanos
+- Gestión de personas y relaciones laborales
+- Comunicación
 name: Romina Pendino
 weight: 14
 role: Equipos de Gobernanza, Código de Conducta y Enseñanza
