@@ -5,8 +5,8 @@ type: page
 title: "¿Cómo organizar las pestañas y ventanas para dar una clase virtual sincrónica?"
 summary: Analizamos las respuestas a las encuestas de fin de curso a través de nubes de palabras.
 authors: 
-- RominaPendino
-- npalopoli
+    - RominaPedino
+    - npalopoli
 type: post
 weight: 1
 tags: 
@@ -51,4 +51,5 @@ Teniendo los dos monitores en uso durante una reunión, podremos ubicar en uno d
 ![Captura de pantalla de las distintas ventanas utilizadas para compartir contenido a través de una videollamada"](https://www.metadocencia.org/img/organizar-ventanas/organizar-escritorio-6.jpg) 
 
 Estas son sólo algunas de las posibles opciones de organización de pestañas y ventanas. Cada persona irá encontrando su opción más cómoda a través de la práctica y de acuerdo a la configuración de su sistema. Como regla general, te recomendamos que te mantengas flexible y vayas adecuando tu escritorio de acuerdo a las diferentes dinámicas de los cursos o talleres que estés brindando. 
-¡Cada clase es un mundo!
+
+¡Cada clase es un mundo! 🌎
