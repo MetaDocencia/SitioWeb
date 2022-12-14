@@ -20,7 +20,7 @@ interests:
 - Psicología cognitiva y experimental
 name: Jesica Formoso
 weight: 7
-role: Colaboradora en equipo de gobernanza
+role: Equipo de gobernanza y medición de impacto
 social:
 - icon: envelope
   icon_pack: fas
