@@ -20,7 +20,7 @@ interests:
 - Cognitive and experimental psychology
 name: Jesica Formoso
 weight: 7
-role: Governance Team
+role: Governance and Impact Measurement Teams 
 social:
 - icon: envelope
   icon_pack: fas
