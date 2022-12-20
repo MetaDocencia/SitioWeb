@@ -25,8 +25,8 @@ Para obtener información más detallada, [consulta esta publicación de nuestro
 ## Estamos contratando
 Como parte de este esfuerzo, contrataremos nuevas personas para que se integren al equipo. Actualmente hay dos ofertas de empleo abiertas. Aquí están los enlaces para obtener más información (en inglés) en caso de que tengas interés:
 
-- **[Especialista en ingeniería de infraestructura en la nube](https://2i2c.org/jobs/2022/open-source-infrastructure-engineer/)** para unirse al equipo de Ingeniería de Fiabilidad de 2i2c que operará y dará soporte a la infraestructura en la nube de este proyecto.
-- **[Especialista en gestión de programas](https://openlifesci.org/posts/2022/12/19/ECB-PM-job-description/)** para unirse a Open Life Science y brindar soporte a esta iniciativa mediante la gestión del proyecto y apoyo operativo.
+- **[Especialista en ingeniería de infraestructura en la nube](https://2i2c.org/jobs/2022/open-source-infrastructure-engineer/)** para unirse al equipo de **Ingeniería de Fiabilidad de 2i2c** que operará y dará soporte a la infraestructura en la nube de este proyecto.
+- **[Especialista en gestión de programas](https://openlifesci.org/posts/2022/12/19/ECB-PM-job-description/)** para unirse a **Open Life Science** y brindar soporte a esta iniciativa mediante la gestión del proyecto y apoyo operativo.
 
 Es posible que contratemos otros puestos relacionados con este proyecto, por favor [completa este formulario](https://forms.gle/5boZswKNUn2NcTUv9) para mantenerte al día sobre nuevas búsquedas laborales.
 
