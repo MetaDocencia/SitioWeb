@@ -12,7 +12,7 @@ tags:
   - MetaDocencia
 ---
 
-¡Estamos felices de anunciar que el equipo y la propuesta de esta [publicación de nuestro blog](https://www.metadocencia.org/post/narrativafinanciamiento/) resultó aprobada para financiación por la [Chan Zuckerberg Initiative](https://chanzuckerberg.com/)!
+¡Estamos felices de anunciar que el equipo y la propuesta descripta en esta [publicación de nuestro blog](https://www.metadocencia.org/post/narrativafinanciamiento/) resultó aprobada para financiación por la [Chan Zuckerberg Initiative](https://chanzuckerberg.com/)!
 
 *Nota: Este anuncio se publicará en los sitios web de varias organizaciones colaboradoras de este proyecto.* **Post in English, on the [2i2c.org blog](https://2i2c.org/blog/2022/czi-global-communities-announcement/).**
 
