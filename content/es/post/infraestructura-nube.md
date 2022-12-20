@@ -15,8 +15,6 @@ tags:
 
 *Nota: Este anuncio se publicará en los sitios web de varias organizaciones colaboradoras de este proyecto.*
 
-**Versión del blogspot (en inglés) en **
-
 *Traducción: [Laura Ascenzi](https://www.metadocencia.org/authors/laurel/) y [Laura Ación](https://www.metadocencia.org/authors/lacion/)*
 
 ¡Estamos felices de anunciar que el equipo y la propuesta de esta [publicación de nuestro blog](https://www.metadocencia.org/post/narrativafinanciamiento/) resultó aprobada para financiación por la [Chan Zuckerberg Initiative](https://chanzuckerberg.com/)!
