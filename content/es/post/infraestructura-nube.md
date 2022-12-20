@@ -15,6 +15,7 @@ tags:
 ¡Estamos felices de anunciar que el equipo y la propuesta de esta [publicación de nuestro blog](https://www.metadocencia.org/post/narrativafinanciamiento/) resultó aprobada para financiación por la [Chan Zuckerberg Initiative](https://chanzuckerberg.com/)!
 
 *Nota: Este anuncio se publicará en los sitios web de varias organizaciones colaboradoras de este proyecto.*
+
 **Versión del blogspot (en inglés) en https://2i2c.org/blog/2022/czi-global-communities-announcement/**
 
 Nuestro objetivo es crear un servicio comunitario de infraestructura en la nube y ofrecer flujos de trabajo en biociencias. Promoveremos como valores prácticas comunitarias abiertas e inclusivas, la infraestructura que permita estas prácticas y un enfoque de "formación de formadores", que capacite a líderes de comunidades locales para compartir su experiencia en infraestructura en la nube con otras personas de sus comunidades. Nos centraremos en comunidades de América Latina y África, y esperamos aprender cómo este modelo podría extenderse a otras comunidades globales históricamente marginadas de los proyectos de infraestructura científica a gran escala.
