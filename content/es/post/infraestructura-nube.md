@@ -16,7 +16,7 @@ tags:
 
 *Nota: Este anuncio se publicará en los sitios web de varias organizaciones colaboradoras de este proyecto.*
 
-**Post in English, on the [2i2c blog](https://2i2c.org/blog/2022/czi-global-communities-announcement/)**
+**Post in English, on the [2i2c blog](https://2i2c.org/blog/2022/czi-global-communities-announcement/).**
 
 Nuestro objetivo es crear un servicio comunitario de infraestructura en la nube y ofrecer flujos de trabajo en biociencias. Promoveremos como valores prácticas comunitarias abiertas e inclusivas, la infraestructura que permita estas prácticas y un enfoque de "formación de formadores", que capacite a líderes de comunidades locales para compartir su experiencia en infraestructura en la nube con otras personas de sus comunidades. Nos centraremos en comunidades de América Latina y África, y esperamos aprender cómo este modelo podría extenderse a otras comunidades globales históricamente marginadas de los proyectos de infraestructura científica a gran escala.
 
