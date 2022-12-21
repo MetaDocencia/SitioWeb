@@ -20,6 +20,8 @@ Nuestro objetivo es crear un servicio comunitario de infraestructura en la nube 
 
 Se trata de un esfuerzo de colaboración entre [2i2c](https://2i2c.org/), [The Carpentries](https://carpentries.org/about/), [Center for Scientific Collaboration and Community Engagement](https://www.cscce.org/), [Invest in Open Infrastructure](https://investinopen.org/), MetaDocencia y [Open Life Science](https://openlifesci.org/). 
 
+Mejorar la accesibilidad y la utilidad de la infraestructura en la nube para las comunidades globales requiere una combinación de expertise en muchas áreas como pedagogía, infraestructura y conocimientos locales. MetaDocencia está orgullosa de colaborar en este proyecto con 2i2c, OLS, IOI, CSCCE y The Carpentries, con el objetivo de reunir las habilidades que permitan aumentar el acceso a los servicios de computación interactiva para las comunidades de ciencia abierta en América Latina y África.
+
 Para obtener información más detallada, [consulta esta publicación de nuestro blog](https://www.metadocencia.org/post/narrativafinanciamiento/).
 
 ## Estamos contratando
