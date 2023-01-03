@@ -19,8 +19,8 @@ tags:
 
 ### Cómo participar 
 Próximos cursos:
-- **Jueves 17 de noviembre de 14 a 17 (UTC-3)** > Inscríbete a través del [Formulario de registro](https://docs.google.com/forms/d/e/1FAIpQLScDHiRaA1FigqjWVIWaya6NVj378Bsn5lteIKUWgv-Prq-tQQ/viewform)
-- **Martes 29 de noviembre de 9 a 12 (UTC-3)** > Inscríbete a través del [Formulario de registro](https://docs.google.com/forms/d/e/1FAIpQLScsLqP4x7yvHl13z_3qfMmL8kXktqSLYumO18ZUCX2-9nzxDg/viewform)
+- **Jueves 17 de noviembre 2022 de 14 a 17 (UTC-3)** > Inscríbete a través del [Formulario de registro](https://docs.google.com/forms/d/e/1FAIpQLScDHiRaA1FigqjWVIWaya6NVj378Bsn5lteIKUWgv-Prq-tQQ/viewform)
+- **Martes 29 de noviembre 2022 de 9 a 12 (UTC-3)** > Inscríbete a través del [Formulario de registro](https://docs.google.com/forms/d/e/1FAIpQLScsLqP4x7yvHl13z_3qfMmL8kXktqSLYumO18ZUCX2-9nzxDg/viewform)
 
 *Todos los datos se manejarán en forma confidencial, sólo podrán ser publicados de forma agregada y anonimizada en reportes sobre el alcance de MetaDocencia.*
 
