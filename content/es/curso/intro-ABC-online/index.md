@@ -96,7 +96,7 @@ Este cronograma es un ejemplo que asume que el comienzo del curso es las 9 am, p
 ### Materiales
 Se disponibilizan una vez finalizada cada edición del curso.
 
-* [Presentación que usamos en el curso]() con notas ampliando el contenido para quienes dan la clase
+* [Presentación que usamos en el curso](http://tiny.cc/EncuentrosActivos) con notas ampliando el contenido para quienes dan la clase
 
 * [Plantilla de nuestro documento para notas compartidas]()
 
