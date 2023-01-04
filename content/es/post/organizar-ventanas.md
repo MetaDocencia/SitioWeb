@@ -3,7 +3,7 @@ date: "2022-12-13"
 draft: false
 type: page
 title: "¿Cómo organizar las pestañas y ventanas para dar una clase virtual sincrónica?"
-summary: Analizamos las respuestas a las encuestas de fin de curso a través de nubes de palabras.
+summary:Rrecomendamos una de las maneras posibles de organizar las ventanas para no perder de vista ningún canal de comunicación con quienes asisten a nuestros cursos.
 authors: 
     - RominaPedino
     - npalopoli
