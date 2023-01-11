@@ -1,6 +1,7 @@
 ---
 authors:
 - minedogucu
+draft: true
 bio: ""
 email: ""
 name: Mine Dogucu
@@ -16,7 +17,7 @@ social:
 superuser: fase
 user_groups:
 - Contributors
-draft: true
+
 ---
 
 Mine Dogucu is an Assistant Professor of Teaching in the Department of Statistics at University of California Irvine. She has taught mathematics at K-12 level and statistics and data science at college level. She serves as a co-chair for the undergraduate statistics conference and project competitions organized by the Consortium for the Advancement of Undergraduate Statistics Education (CAUSE) and the American Statistical Association. She is interested in modernizing the statistics curriculum with computational tools, Bayesian education, and instructor training. 
