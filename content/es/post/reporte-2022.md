@@ -56,6 +56,7 @@ En la imagen, todo el equipo de MetaDocencia. En orden de aparición, de izquier
 - Fila 4: Iván Poggio y su perro Pancho 🐶.
 
 ###  Contribuimos
+
 ####  Nuevo proyecto: Infraestructura en la nube y entrenamiento en ciencia abierta para comunidades de América Latina y África
 En 2022 anunciamos que la propuesta colaborativa descrita en esta [publicación de nuestro blog](https://www.metadocencia.org/post/narrativafinanciamiento/) resultó aprobada para financiación por la [Chan Zuckerberg Initiative](https://chanzuckerberg.com/) ⚡.
 
@@ -102,4 +103,25 @@ En 2023, publicaremos y pondremos a disposición las bases de funcionamiento de 
 **Equipo de Gobernanza de MetaDocencia:** Irene Vazano, Iván Poggio, Jesica Formoso, Laura Ación, Laura Ascenzi, Melissa Black, Mónica Alonso, Nicolás Palopoli, Paz Míguez, Romina Pendino.
 
 🔗 [Leer más sobre el avance del proceso de gobernanza](https://zenodo.org/record/7392334#.Y7gW6XaZNPY).
+
 🔗 [Documentación de nuestra gobernanza (español)](https://zenodo.org/record/7398893#.Y7gW1HaZNPY). También disponible en [inglés](https://zenodo.org/record/7399003#.Y7gfDnaZNPZ).
+
+###  Enseñamos
+
+####  Comenzando con todo
+Comenzamos 2022 ofreciendo dos ediciones de **Introducción al ABC para Enseñar Online** y una edición del **Taller de Zoom**, algunos de nuestros primeros talleres sincrónicos en línea para presentar prácticas de enseñanza efectivas. 
+
+Durante el primer semestre enseñamos varios talleres online basados en el lenguaje de programación R: una edición de [Generando Tutoriales Interactivos con el Paquete {learnr}](https://www.metadocencia.org/post/taller_learnr_2022/), destinado a crear tutoriales educativos interactivos (ofrecido en conjunto con [R-Ladies Johannesbourg)](https://rladies.org/south-africa-rladies/locality/Johannesburg/); dos ediciones de [Desde las Hojas de Cálculo a R](https://www.metadocencia.org/curso/spreadsheet-to-r/), junto con el [Software Sustainability Institute](https://www.software.ac.uk/) (Reino Unido), para asistir en la transición a R para trabajar con datos; y tres versiones a la carta de estos dos talleres, co-organizados como *meetups* con grupos locales de [R-Ladies Argentina](https://rladies.org/argentina-rladies/). Estas actividades fueron lideradas por [Paola Corrales](https://www.metadocencia.org/authors/paocorrales/), [Elio Campitelli](https://www.metadocencia.org/authors/eliocamp/) y [Yanina Bellini Saibene](https://www.metadocencia.org/authors/yabellini/), que co-fundaron MetaDocencia, y colaboraron con MetaDocencia hasta fin de mayo de 2022. 
+
+También llevaron adelante el [Club de Lectura de Enseñar Tecnología en Comunidad](https://www.metadocencia.org/post/club_de_lectura/). Se trató de ocho encuentros con presentación y moderación de [distintas personas](https://www.metadocencia.org/curso/clubdelecturat3/) que colaboraron con MetaDocencia. El objetivo fue compartir y profundizar sobre el libro [Enseñando Tecnología en Comunidad de **Greg Wilson**](https://teachtogether.tech/es/), quien participó en el último de estos encuentros, con interpretación simultánea español-inglés 📚. Aunque algunos de estos cursos y eventos no están activos, los materiales permanecen disponibles en la web para quienes deseen conocer más y replicar la experiencia.
+
+Yanina, Paola y Nicolás Palopoli lideraron el tercer [Taller de Entrenamiento de Instructores de The Carpentries](https://www.metadocencia.org/post/metadocencia_carpentries/) organizado por MetaDocencia. Como en ocasiones anteriores, al final del taller certificamos como instructores de The Carpentries a 12 personas de 5 países.
+
+####  Nuevos Talleres 2022-2023
+En el último trimestre de 2022 realizamos ediciones piloto internas de nuevas propuestas de formación, como el próximo MetaEvaluaciones: enseñar evaluando, con el desarrollo de Romina Pendino, Irene Vazano y el equipo de diseño de cursos 🌟. 
+Comenzamos a actualizar nuestros cursos siguiendo nuestro Manual de Estilo, cuyo diseño fue mejorado por Julián. ¡Miren qué linda plantilla de presentaciones nueva que tenemos! 😍
+🧑‍🏫 El primer taller actualizado fue Introducción al ABC para enseñar online: lo renombramos ¡Presente! Recursos para encuentros activos, le sacamos la pandemia de encima e introducimos nuevos recursos para manejo de espacios de intercambio de conocimiento sincrónico ya sea en entornos presenciales, híbridos o en línea.
+🧑‍💻También desarrollamos una propuesta para aprender el manejo de Zoom con el lector de pantalla NVDA orientado a personas con discapacidad visual y docentes de personas con discapacidad visual, que es nuestro nuevo Zoom Accesible con Lector de Pantalla 🆕.
+Se desarrollaron ediciones abiertas de los talleres ¡Presente! Recursos para encuentros activos, a cargo de Irene Vazano, Nicolás Palopoli y Laura Ación; y de Zoom Accesible con Lector de Pantalla, lideradas por Iván Poggio e Irene Vazano. 
+A nuestras ediciones abiertas se inscribieron ¡más de 100 personas! 
+Quienes asistieron nos dejaron muy buenas devoluciones para seguir trabajando en ajustar nuestras propuestas para 2023, en que lanzaremos cursos como Ética e Impactos Sociales de la Inteligencia Artificial y Recursos para aprender y enseñar Bioinformática 💯.
