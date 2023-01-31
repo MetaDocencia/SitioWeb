@@ -47,7 +47,7 @@ A fin de año, compartimos una reunión virtual con música y juegos, en la que 
 
 *¡Es un placer trabajar en equipo!*
 
-{{< figure src="/img/reporte-2022/Brindis_MetaDocencia_full.jpg" alt="En la imagen, todo el equipo de MetaDocencia. . En orden de aparición, de izquierda a derecha y de arriba hacia abajo: Fila 1: Patricia Loto, Laura Ascenzi, Irene Vazano, Jesica Formoso; Fila 2: Mónica Alonso, Melissa Black, Romina Pendino, Laura Ación; Fila 3: Julián Buede, Nicolás Palopoli, Paz Mïguez, Mariela Rajngewerc; Fila 4: Iván Poggio y su perro Pancho." >}}
+{{< figure src="/img/reporte-2022/Brindis_MetaDocencia_full.jpg" alt="En la imagen, todo el equipo de MetaDocencia. En orden de aparición, de izquierda a derecha y de arriba hacia abajo: Fila 1 - Patricia Loto, Laura Ascenzi, Irene Vazano, Jesica Formoso; Fila 2 - Mónica Alonso, Melissa Black, Romina Pendino, Laura Ación; Fila 3 -  Julián Buede, Nicolás Palopoli, Paz Mïguez, Mariela Rajngewerc; Fila 4 - Iván Poggio y su perro Pancho." >}}
 
 En la imagen, todo el equipo de MetaDocencia. En orden de aparición, de izquierda a derecha y de arriba hacia abajo:
 - Fila 1: Patricia Loto, Laura Ascenzi, Irene Vazano, Jesica Formoso; 
@@ -118,10 +118,28 @@ También llevaron adelante el [Club de Lectura de Enseñar Tecnología en Comuni
 Yanina, Paola y Nicolás Palopoli lideraron el tercer [Taller de Entrenamiento de Instructores de The Carpentries](https://www.metadocencia.org/post/metadocencia_carpentries/) organizado por MetaDocencia. Como en ocasiones anteriores, al final del taller certificamos como instructores de The Carpentries a 12 personas de 5 países.
 
 ####  Nuevos Talleres 2022-2023
-En el último trimestre de 2022 realizamos ediciones piloto internas de nuevas propuestas de formación, como el próximo MetaEvaluaciones: enseñar evaluando, con el desarrollo de Romina Pendino, Irene Vazano y el equipo de diseño de cursos 🌟. 
-Comenzamos a actualizar nuestros cursos siguiendo nuestro Manual de Estilo, cuyo diseño fue mejorado por Julián. ¡Miren qué linda plantilla de presentaciones nueva que tenemos! 😍
-🧑‍🏫 El primer taller actualizado fue Introducción al ABC para enseñar online: lo renombramos ¡Presente! Recursos para encuentros activos, le sacamos la pandemia de encima e introducimos nuevos recursos para manejo de espacios de intercambio de conocimiento sincrónico ya sea en entornos presenciales, híbridos o en línea.
-🧑‍💻También desarrollamos una propuesta para aprender el manejo de Zoom con el lector de pantalla NVDA orientado a personas con discapacidad visual y docentes de personas con discapacidad visual, que es nuestro nuevo Zoom Accesible con Lector de Pantalla 🆕.
+En el último trimestre de 2022 realizamos ediciones piloto internas de nuevas propuestas de formación, como el próximo **MetaEvaluaciones: enseñar evaluando**, con el desarrollo de Romina Pendino, Irene Vazano y el equipo de diseño de cursos 🌟. 
+
+Comenzamos a actualizar nuestros cursos siguiendo nuestro [Manual de Estilo](https://github.com/MetaDocencia/Logos/tree/master/manual_identidad_visual), cuyo diseño fue mejorado por Julián. ¡Miren qué linda [plantilla de presentaciones nueva](https://docs.google.com/presentation/d/1bPga_IEQDrIV77d8CTVKyCywcCVtktRCRiQVt6togdE/edit?usp=sharing) que tenemos! 😍
+
+🧑‍🏫 El primer taller actualizado fue Introducción al ABC para enseñar online: lo renombramos [¡Presente! Recursos para encuentros activos](https://www.metadocencia.org/curso/intro-abc-online/), le sacamos la pandemia de encima e introducimos nuevos recursos para manejo de espacios de intercambio de conocimiento sincrónico ya sea en entornos presenciales, híbridos o en línea.
+
+🧑‍💻 También desarrollamos una propuesta para aprender el manejo de Zoom con el lector de pantalla NVDA orientado a personas con discapacidad visual y docentes de personas con discapacidad visual, que es nuestro nuevo [Zoom Accesible con Lector de Pantalla](https://www.metadocencia.org/curso/zoom/) 🆕.
+
 Se desarrollaron ediciones abiertas de los talleres ¡Presente! Recursos para encuentros activos, a cargo de Irene Vazano, Nicolás Palopoli y Laura Ación; y de Zoom Accesible con Lector de Pantalla, lideradas por Iván Poggio e Irene Vazano. 
-A nuestras ediciones abiertas se inscribieron ¡más de 100 personas! 
-Quienes asistieron nos dejaron muy buenas devoluciones para seguir trabajando en ajustar nuestras propuestas para 2023, en que lanzaremos cursos como Ética e Impactos Sociales de la Inteligencia Artificial y Recursos para aprender y enseñar Bioinformática 💯.
+
+A nuestras ediciones abiertas se inscribieron **¡más de 100 personas!** 
+
+Quienes asistieron nos dejaron muy buenas devoluciones para seguir trabajando en ajustar nuestras propuestas para 2023, en que lanzaremos cursos como **Ética e Impactos Sociales de la Inteligencia Artificial** y **Recursos para aprender y enseñar Bioinformática** 💯.
+
+
+###  Investigamos
+
+####  Investigación acerca del efecto de los talleres y cursos de MetaDocencia sobre la autoeficacia docente
+El equipo de Medición de Impacto, integrado por Jesica Formoso, Melissa Black, Nicolás Palopoli y Debora Burin, está investigando el **efecto de los cursos y talleres de MetaDocencia** para medir cómo impacta este tipo de capacitación sobre la percepción docente acerca de su eficacia para transmitir conocimientos 🕵️. 
+
+Para ello, es probable que les pidamos colaboración a quienes participan de nuestros talleres para completar un cuestionario online sobre aspectos de su auto-percepción como docentes, brindando consentimiento para utilizar las respuestas para investigación.
+
+El estudio es financiado por MetaDocencia, a través del financiamiento de CZI (Grant Number 2021-239366), con el patrocinio fiscal de [Code for Science & Society](https://www.codeforsociety.org/) y se realiza en colaboración con el proyecto de la Universidad de Buenos Aires UBACYT 2020 20020190100077BA. 
+
+En 2023 pretendemos compartir los resultados con la comunidad, aplicando principios de ciencia abierta para manejar y publicar las informaciones responsablemente.
