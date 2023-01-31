@@ -204,3 +204,79 @@ Panelistas:
 En este panel plenario se destacó la idea de que todo el mundo debe poder contribuir, participar y beneficiarse del desarrollo de la ciencia y la tecnología 💡. Este principio es fundamental para la ciencia abierta y el código abierto como esfuerzos globales. 
 
 En [este hilo](https://twitter.com/metadocencia/status/1572582681870995456) compartimos algunas de las ideas e iniciativas propuestas 🧵 para seguir conversando y potenciando ideas en comunidad. 
+
+
+###  Medimos nuestro impacto
+
+- Para nuestra primera búsqueda laboral abierta postularon a las convocatorias ¡142 personas! Recibimos postulaciones de 11 países distintos y +90% de las personas no conocían MetaDocencia antes de postularse. Dictamos 5 talleres piloto y 3 ediciones abiertas de talleres.
+- Organizamos 17 eventos con un promedio de 15 asistentes por actividad. 
+- ¡A los eventos de gobernanza se inscribieron más de 100 personas de 16 países distintos! Y sus aportes fueron muy importantes para que el equipo de Gobernanza avanzara el proceso de desarrollo.
+- Nuestros videos en YouTube superaron las ¡2900 reproducciones!
+- Nuestro boletín alcanzó un promedio de 35% de aperturas en sus distintos envíos 
+- Sólo en 2022, los usuarios visitaron nuestro sitio web 12377 veces.
+- Las contribuciones al repositorio del sitio web de MetaDocencia a través de GitHub llegaron a 1172 nuevos commits en 2022 (¡1721 en total!) y 502 vistas en el repositorio.
+- Compartimos espacios virtuales en más de 90 horas de reuniones!
+- Nuestro Slack acumuló más de 56000 mensajes intercambiados entre la comunidad Metadocente 💬
+
+Además, tuvimos **reconocimientos y apariciones en medios masivos de comunicación** ✨:
+
+#### Melissa Black será becaria OLS/SSI en 2023
+El Instituto para la Sostenibilidad del Software (SSI) comunicó las 18 personas becarias para 2023 y Melissa Black resultó seleccionada a través de una colaboración con [Open Life Science (OLS)](https://openlifesci.org/), por lo que formará parte de la primera cohorte de becarios OLS/SSI. ¡Felicitaciones! 🎉
+
+🔗 En este documento se puede ver su [propuesta de trabajo (inglés)](https://zenodo.org/record/7405807#.Y7gWw3aZNPY) denominada *“EspañOLS: empowering Open Science ambassadors in Spanish-speaking communities”* 👏.
+
+🔗 Más información sobre los perfiles y la selección en el [anuncio oficial del SSI (en inglés)](https://www.software.ac.uk/blog/2022-12-15-announcing-2023-software-sustainability-institute-fellows). 
+
+#### Premios Democracia
+¡Nuestra co-fundadora Laura Ación fue ternada para los Premios Democracia en la [categoría Ciencia y Tecnología](https://premiosdemocracia.org.ar/ternas/#ciencia-y-tecnologia)!
+
+Desde 2009, Caras y Caretas premia a personas argentinas o latinoamericanas que se destaquen en sus valores humanitarios y democráticos y en la calidad de sus obras y actividades en las que se reivindique, defienda y se aporte a los [siguientes valores](https://premiosdemocracia.org.ar/fundamentos/).
+
+Felicitamos a quien resultó ganador de la terna, Juan Pablo Paz, y a todas las personas que participaron de parte de toda la comunidad MetaDocente.
+
+🔗 Acceso a nota en periódico Página 12: https://t.co/9nK8VqjFrz
+
+#### Notas periodísticas
+Laura Ación fue entrevistada por distintos medios periodísticos: 
+
+- Conversó con la Fundación Medifé sobre Mitos y Verdades sobre la Inteligencia Artificial y el big data. 
+🔗 Escuchar el podcast: https://soundcloud.com/fundacionmedife/dra-laura-acion-dir
+
+- También fue entrevistada por [Rodrigo Lloret](https://twitter.com/rodrigo_lloret) para la [#AgendaAcadémica del Diario Perfil](https://twitter.com/hashtag/AgendaAcad%C3%A9mica?src=hashtag_click) y compartió su experiencia y mirada sobre los impactos sociales de la Inteligencia Artificial. 
+🔗 Nota completa: [“El problema surge cuando la inteligencia artificial se mete con la democracia, la salud o la justicia”](https://www.perfil.com/noticias/agenda-academica/laura-acion-el-problema-surge-cuando-la-inteligencia-artificial-se-mete-con-la-democracia-la-salud-o-la-justicia.phtml).
+
+
+### Construimos comunidad 
+En 2022 trabajamos mucho para promover el acceso a la información de interés y la vinculación con toda nuestra comunidad.
+
+🍎✨ Relanzamos nuestra [imagen institucional](https://www.metadocencia.org/post/comunicacion_2022/), incluyendo el primer rediseño de nuestro logo.
+
+🧑‍💻 Realizamos una actualización de nuestro [sitio web](https://www.metadocencia.org/) para ofrecer una navegación amigable y accesible, sumando la sección [Consultoría](https://www.metadocencia.org/consultoria/) para el desarrollo de nuevos proyectos con otras organizaciones; 
+
+🥰 Gestionamos y conversamos a través de nuestras redes sociales ([Twitter](https://twitter.com/metadocencia), [Facebook](https://facebook.com/metadocencia), [Instagram](https://www.instagram.com/metadocencia/), [LinkedIn](https://www.linkedin.com/company/metadocencia/), [Slack](https://w3id.org/metadocencia/slack), ¡también [YouTube](https://youtube.com/metadocencia)!) y generamos contenidos de interés para nuestra comunidad; 
+
+💌 Creamos nuestro newsletter y lo renombramos en forma colectiva como los [Apuntes MetaDocentes](https://www.metadocencia.org/boletines/). Para generarlo, planificamos colaborativamente la agenda y lo compartimos también en inglés a través de canales de Slack de comunidades internacionales amigas. 
+
+⚛️ También participamos de actividades y compartimos espacios de capacitación, encuentro y discusión con más de una **decena de comunidades amigas** de Latinoamérica, Europa y Estados Unidos con las que colaboramos a diario y esperamos seguir estrechando lazos en 2023. Promovemos y difundimos sus proyectos y búsquedas, para generar una red que potencie nuestra misión y la de quienes están trabajando por la ciencia abierta. 
+
+❤️ Para el equipo de colaboradores, distribuido en distintas ciudades, provincias y  países, preparamos y enviamos un presente MetaDocente de fin de año, para acercar distancias y stickers, agradecimientos por el año compartido y también alfajores 😋. 
+
+{{< figure src="/img/reporte-2022/collage-regalitos-MD.png" alt="Fotos de la preparación de las cajitas de presentes MetaDocentes y stickers en termo y computadora" >}}
+*Fotos de Romi, Ire y Laurel*
+
+🥂 En el brindis de fin de año construimos de manera colaborativa el deseo para toda nuestra comunidad: 
+
+*“💫 Por un 2023 de nuevos aprendizajes y transformaciones, conexiones genuinas con otras personas y comunidades, que nos permitan construir redes y espacios compartidos.”*
+
+{{< figure src="/img/reporte-2022/saludo-2022.png" alt="Imagen de manos que sostienen una estrellita y mensaje de saludo" >}}
+
+
+### Planificamos 2023
+
+Además de nuevas propuestas de cursos y eventos organizados por MetaDocencia, ya tenemos participación confirmada en la [csv,conf,7](https://csvconf.com/) y estamos planificando participar en otras conferencias y eventos. Nos proponemos que 2023 sea un año de intercambio y aprendizaje junto a comunidades que también buscan fortalecer la ciencia abierta para que la producción, la comunicación y la aplicación de saberes científicos y técnicos sean globalmente equitativos, en línea con nuestra [visión de futuro](https://www.metadocencia.org/authors/metadocencia/). 
+
+También seguiremos promoviendo [esta discusión](https://www.metadocencia.org/post/ciencia-abierta-americalatina/), con el propósito de enriquecer el debate y diseñar respuestas colectivas a las asimetrías e inequidades. De esta manera, seguimos trabajando por construir capacidades científicas y técnicas en forma responsable y con mirada local, en línea con [nuestra misión](https://www.metadocencia.org/authors/metadocencia/) 🙌.
+
+Otro anhelo para 2023 es seguir encontrándonos en persona, para conocernos y compartir la alegría de creer en lo que hacemos.
+
+Te invitamos a acompañarnos, ser parte y participar de las propuestas y oportunidades que vendrán 🌈. 
