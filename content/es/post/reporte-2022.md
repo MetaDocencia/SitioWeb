@@ -143,3 +143,64 @@ Para ello, es probable que les pidamos colaboración a quienes participan de nue
 El estudio es financiado por MetaDocencia, a través del financiamiento de CZI (Grant Number 2021-239366), con el patrocinio fiscal de [Code for Science & Society](https://www.codeforsociety.org/) y se realiza en colaboración con el proyecto de la Universidad de Buenos Aires UBACYT 2020 20020190100077BA. 
 
 En 2023 pretendemos compartir los resultados con la comunidad, aplicando principios de ciencia abierta para manejar y publicar las informaciones responsablemente.
+
+
+###  Publicamos
+En 2022 **sistematizamos y disponibilizamos toda nuestra producción en Zenodo** 🤯:
+🔗 https://zenodo.org/communities/metadocencia/ 
+
+Quienes tengan interés pueden enviarnos publicaciones que se relacionan con MetaDocencia para sumarlas a nuestra comunidad en la plataforma 🤗.
+
+También sintetizamos nuestra [descripción en un *prospectus* (en inglés)](https://zenodo.org/record/7458723#.Y7gWx3aZNPY) para presentarnos ante comunidades no hispanohablantes 📃. 
+
+Además, en nuestro Blog https://www.metadocencia.org/post/ se publican periódicamente nuevas entradas con información útil para nuestra comunidad. Invitamos a quienes quieran publicar novedades en esta sección a enviarnos su texto a info@metadocencia.org ✍️
+
+A continuación, algunas publicaciones compartidas este año para seguir aprendiendo en comunidad 🤓:
+
+####  Buenas prácticas para crear presentaciones accesibles
+En el Día de las Personas con Discapacidad, Mariela Rajngewerc y Patricia Loto compartieron algunos consejos para generar presentaciones accesibles 🙋🥰. En la publicación se puede descargar una lista para chequear el cumplimiento de las sugerencias.
+🔗 Leer más: https://www.metadocencia.org/post/presentaciones-accesibles/ 
+
+####  ¿Cómo organizar las pestañas y ventanas para dar una clase virtual sincrónica?
+En esta publicación, Romina Pendino y Nicolás Palopoli recomiendan maneras posibles de organizar las ventanas para no perder de vista ningún canal de comunicación con quienes asisten a nuestros cursos.
+🔗 Leer más: https://www.metadocencia.org/post/organizar-ventanas/ 
+
+####  ¿Qué nos llevamos de un encuentro sincrónico: contenido o experiencia?
+En esta publicación, Jesica Formoso y Laurel Ascenzi comparten reflexiones sobre los espacios de crecimiento y orientación de las próximas propuestas de formación, recuperando el aporte de quienes fueron estudiantes de nuestros cursos entre marzo de 2020 y octubre de 2021. A través de una nube de palabras respondemos qué es lo que más nos llevamos de un encuentro sincrónico: ¿contenido o experiencia?
+🔗 Leer más: https://www.metadocencia.org/post/nube-palabras/ 
+
+###  Participamos en eventos
+
+####  XII Congreso Argentino de Bioinformática y Biología Computacional
+¡MetaDocencia y [OLS](https://openlifesci.org/) estuvieron de viaje por Argentina! Nuestro co-director ejecutivo Nicolás Palopoli y la investigadora y coordinadora de programas de Open Life Science (OLS) [Paz Bernaldo](http://www.twitter.com/PazByC) difundieron esfuerzos individuales y conjuntos de nuestras comunidades en el XII Congreso Argentino de Bioinformática y Biología Computacional (Corrientes, 24 y 25 de noviembre de 2022) y en el XVI Encuentro de Biólog@s en Red (Mar del Plata, 14 y 15 de noviembre de 2022), respectivamente. 
+
+####  Congreso Iberoamericano de Ciencia Abierta
+Melissa Black y Laurel Ascenzi estuvieron presentes representando a MetaDocencia en el Primer Congreso Iberoamericano de Ciencia Abierta. El evento se propuso generar un espacio de diálogo iberoamericano entre la academia, el Estado y la sociedad civil sobre el derecho a la ciencia y la importancia de promover transformaciones en la forma como se comprende la ciencia desde una mirada inclusiva, abierta, participativa y responsable.
+🔗 Presentación: https://zenodo.org/record/7311765#.Y39fOUzwT 
+
+####  Simposio sobre Dinámica Global en Investigación Responsable de la Fundación Einstein
+La Fundación Einstein nos invitó a participar de su [simposio virtual sobre Dinámica Global en Investigación Responsable](https://symposium.einsteinfoundation.de/) (web en inglés) en el que desarrollamos las siguientes actividades: 
+- Laurel Ascenzi y Paz Míguez brindaron una charla sobre *"Co-creating and Teaching Open Science from the Global South"*, en el que plantearon la asimetría de poder y privilegios entre América Latina y las regiones de altos ingresos en base a [esta publicación](https://www.metadocencia.org/post/ciencia-abierta-americalatina/). 
+🔗 Presentación:  https://zenodo.org/record/7388194#.Y480rnaZNPY
+
+- Melissa Black junto a [Batool Almarzouq]()https://twitter.com/batool664) y [Anne Lee Steele]()https://twitter.com/aleesteele) desarrollaron un workshop sobre internacionalización y localización con la experiencia de [The Turing Way](https://twitter.com/turingway).
+🔗 Presentación: https://zenodo.org/record/7387392#.Y49TR3aZNPY 
+
+####  ICOTS-11
+Nicolás Palopoli, en representación de varios coautores de nuestro equipo, presentó el trabajo realizado durante los primeros dos años de MetaDocencia en la conferencia internacional de enseñanza de estadística ICOTS-11. 
+🔗 Presentación bilingüe: http://tiny.cc/metadocencia-icots11 
+
+####  CZI Open Science 2022 Annual Meeting
+Entre el 18 y el 21 de septiembre de 2022 se desarrolló la Reunión Anual de Ciencia Abierta de la [Chan Zuckerberg Initiative (CZI)](https://chanzuckerberg.com/) en California, Estados Unidos, en la que participaron proyectos financiados y afiliados. ¡MetaDocencia estuvo presente! Como co-directora ejecutiva de este proyecto, Laura Ación asistió en persona al encuentro. 
+
+Además de participar en diversas sesiones y compartir con colegas de otras comunidades globales, Laura co-organizó y co-moderó un panel sobre “Construir y apoyar comunidades científicas de código abierto en África y América Latina” junto a Emmy Tsang (Open Life Science/Invest in Open Infrastructure). 
+Panelistas:
+- Selene L. Fernández Valverde (CABANAnet, México)
+- Angela Okune (Code for Science and Society, Estados Unidos)
+- Anelda van der Walt (Talarify, Sudáfrica)
+- Thomas Mboa (Mboa Lab, Camerún)
+- Fernán Federici (Pontificia Universidad Católica de Chile e Instituto iBio Millenium, Chile)
+
+En este panel plenario se destacó la idea de que todo el mundo debe poder contribuir, participar y beneficiarse del desarrollo de la ciencia y la tecnología 💡. Este principio es fundamental para la ciencia abierta y el código abierto como esfuerzos globales. 
+
+En [este hilo](https://twitter.com/metadocencia/status/1572582681870995456) compartimos algunas de las ideas e iniciativas propuestas 🧵 para seguir conversando y potenciando ideas en comunidad. 
