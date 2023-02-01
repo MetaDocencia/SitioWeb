@@ -216,7 +216,7 @@ En [este hilo](https://twitter.com/metadocencia/status/1572582681870995456) comp
 - Sólo en 2022, los usuarios visitaron nuestro sitio web 12377 veces.
 - Las contribuciones al repositorio del sitio web de MetaDocencia a través de GitHub llegaron a 1172 nuevos commits en 2022 (¡1721 en total!) y 502 vistas en el repositorio.
 - Compartimos espacios virtuales en más de 90 horas de reuniones!
-- Nuestro Slack acumuló más de 56000 mensajes intercambiados entre la comunidad Metadocente 💬
+- Nuestro Slack acumuló más de 56000 mensajes intercambiados entre la comunidad MetaDocente 💬
 
 Además, tuvimos **reconocimientos y apariciones en medios masivos de comunicación** ✨:
 
