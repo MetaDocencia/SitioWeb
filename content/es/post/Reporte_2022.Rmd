@@ -1,24 +1,94 @@
 ---
-date: "2023-01-10"
-draft: true
-type: page
-linktitle: Reporte 2022. Un año de cambios y crecimiento.
-summary: 2022 fue un año en que la vuelta a la presencialidad se hizo sentir tras dos años de crecer impulsando la educación en entornos virtuales. Desde MetaDocencia consolidamos esa experiencia y nos fortalecimos para enfrentar nuevos desafíos por venir 🚀.
-authors: 
-
+title: Reporte 2022. Un año de cambios y crecimiento.
+author: ''
+draft: TRUE
+date: '2023-01-27'
+slug: []
+categories: []
+tags: ["Informe", "Reporte", "MetaDocencia"]
+summary: '2022 fue un año en que la vuelta a la presencialidad se hizo sentir tras dos años de crecer impulsando la educación en entornos virtuales. Desde MetaDocencia consolidamos esa experiencia y nos fortalecimos para enfrentar nuevos desafíos por venir 🚀.'
+authors: []
+lastmod: '2023-01-27T18:38:54-03:00'
+featured: yes
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
 type: post
 weight: 1
-tags: 
-  - informe
-  - reporte
-  - MetaDocencia 
+output:
+  blogdown::html_page:
+    toc: true
 ---
+
+```{r librerias, echo=FALSE, warning=FALSE, message=FALSE}
+
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+
+library(tidyverse)
+library(readxl)
+library(sf)
+library(rnaturalearth)
+library(rnaturalearthdata)
+library(countrycode)
+library(ggiraph)
+library(treemap)
+library(treemapify)
+library(ggrepel)
+library(ggsflabel)
+library(showtext)
+# devtools::install_github("gadenbuie/tweetrmd")
+library(tweetrmd)
+showtext_auto()
+
+theme_set(theme_bw())
+
+
+
+
+set_girafe_defaults(fonts = list(sans = "Open Sans"))
+theme_set(
+  theme_bw(base_family = "Open Sans")
+)
+
+
+
+
+# Data
+
+world <- ne_countries(scale = "medium", returnclass = "sf") %>% 
+  select(iso_a3, geometry)
+
+codigos <- countrycode::codelist %>% 
+  select(cldr.name.es, iso3c)
+
+world <- world  %>% 
+  left_join(codigos, by = c("iso_a3" = "iso3c")) %>% 
+  filter(!duplicated(cldr.name.es))
+
+
+post <- read_xlsx("Datos/gobernanza.xlsx") 
+
+paises <- post %>% 
+  distinct(`Correo electrónico`, .keep_all = TRUE) %>% 
+  count(País)
+
+paises <- world %>% 
+  left_join(paises, by = c("cldr.name.es" = "País")) %>% 
+  mutate(postulaciones = ifelse(is.na(n), "No", "Si"),
+         Etiqueta = ifelse(postulaciones == "Si", str_c(cldr.name.es, "\n", n, " postulantes"), " "),
+         Etiqueta2 = ifelse(postulaciones == "Si", str_c(cldr.name.es, " (", n, ")"), NA))
+
+
+
+```
+
 
 2022 fue un año muy especial para la comunidad de MetaDocencia 🍎. No solo porque la vuelta a la presencialidad se hizo sentir tras dos años de crecer impulsando la educación en entornos virtuales, sino porque consolidamos esa experiencia y nos fortalecimos para enfrentar nuevos desafíos por venir 🚀.
 En este reporte compartimos nuestro año de cambios, crecimiento, consolidación y aprendizajes, junto a recursos accesibles para toda la comunidad 📍.
 
 ## Acciones colaborativas desarrolladas en 2022 📑:
-{{% toc %}}
 
 
 ###  Crecimos como equipo
@@ -29,16 +99,26 @@ Desde fines de 2021 contamos con el apoyo fiscal de Code for Science & Society (
 En 2022 completamos la primera etapa de nuestra transición hacia una organización mucho más inclusiva y participativa, que ya no depende del trabajo voluntario para funcionar. En este sentido, compartimos las incorporaciones y los cambios de un equipo en expansión, ¡que nos da bases sólidas para seguir creciendo! 🌟
 
 Luego de la primera búsqueda laboral abierta de nuestra historia, incorporamos [nuevas personas y roles](https://www.metadocencia.org/post/mdcrece/), reorganizando tareas y funciones en los siguientes equipos de trabajo actuales, que siguen funcionando en 2023 (link a cada perfil solo la primera vez que se nombra)🗃️:
+
 - **Enseñanza:** [Ire](https://www.metadocencia.org/authors/irenevazano/), [Iván](https://www.metadocencia.org/authors/ivan/), [Jesi](https://www.metadocencia.org/authors/jformoso/), [Lau](https://www.metadocencia.org/authors/lacion/), [Marie](https://www.metadocencia.org/authors/okus/), [Moni](https://www.metadocencia.org/authors/monialonso/), [Nico](https://www.metadocencia.org/authors/npalopoli/), [Pato](https://www.metadocencia.org/authors/patriloto/), [Romi](https://www.metadocencia.org/authors/rominapedino/), [Laurel](https://www.metadocencia.org/authors/laurel/), [Meli](https://www.metadocencia.org/authors/melissa/) y [Paz](https://www.metadocencia.org/authors/pazmiguez/) (coordina).
+
 - **Comunicación:** [Juli](https://www.metadocencia.org/authors/jbuede/), Laurel (coordina)
+
 - **Comunidades:** Meli, Laurel (coordina)
+
 - **Accesibilidad:** Iván, Marie, Pato (coordina)
+
 - **Pautas de Convivencia:** Moni, Romi, Paz (coordina)
+
 - **Administración:** Romi, Paz (coordina)
+
 - **Infraestructura:** Ire, Meli (coordina)
+
 - **Medición de Impacto:** Jesi, Meli (coordina)
+
 - **Dirección Ejecutiva:** Lau y Nico
  
+
 Además, se organizaron y formalizaron procesos, reuniones y documentos para ir registrando y mejorando cotidianamente la tarea colaborativa 🌱. Compartimos un documento que estructura nuestro trabajo en equipo desde 2022: 
 
 🔗 **[Pautas para fortalecer el trabajo colaborativo en MetaDocencia](https://zenodo.org/record/7398790#.Y7QhRXaZNPY)**
@@ -47,12 +127,23 @@ A fin de año, compartimos una reunión virtual con música y juegos, en la que 
 
 *¡Es un placer trabajar en equipo!*
 
-{{< figure src="/img/reporte-2022/Brindis_MetaDocencia_full.jpg" alt="En la imagen, todo el equipo de MetaDocencia. En orden de aparición, de izquierda a derecha y de arriba hacia abajo: Fila 1 - Patricia Loto, Laura Ascenzi, Irene Vazano, Jesica Formoso; Fila 2 - Mónica Alonso, Melissa Black, Romina Pendino, Laura Ación; Fila 3 -  Julián Buede, Nicolás Palopoli, Paz Mïguez, Mariela Rajngewerc; Fila 4 - Iván Poggio y su perro Pancho." >}}
+
+```{r brindis, fig.alt = "En la imagen, todo el equipo de MetaDocencia. En orden de aparición, de izquierda a derecha y de arriba hacia abajo: Fila 1 - Patricia Loto, Laura Ascenzi, Irene Vazano, Jesica Formoso; Fila 2 - Mónica Alonso, Melissa Black, Romina Pendino, Laura Ación; Fila 3 -  Julián Buede, Nicolás Palopoli, Paz Mïguez, Mariela Rajngewerc; Fila 4 - Iván Poggio y su perro Pancho."}
+
+# Para incluír imágenes con text alternativo
+
+knitr::include_graphics("/img/reporte-2022/Brindis_MetaDocencia_full.jpg", error = FALSE)
+
+```
 
 En la imagen, todo el equipo de MetaDocencia. En orden de aparición, de izquierda a derecha y de arriba hacia abajo:
+
 - Fila 1: Patricia Loto, Laura Ascenzi, Irene Vazano, Jesica Formoso; 
+
 - Fila 2: Mónica Alonso, Melissa Black, Romina Pendino, Laura Ación; 
+
 - Fila 3: Julián Buede, Nicolás Palopoli, Paz Mïguez, Mariela Rajngewerc; 
+
 - Fila 4: Iván Poggio y su perro Pancho 🐶.
 
 ###  Contribuimos
@@ -206,17 +297,86 @@ En este panel plenario se destacó la idea de que todo el mundo debe poder contr
 En [este hilo](https://twitter.com/metadocencia/status/1572582681870995456) compartimos algunas de las ideas e iniciativas propuestas 🧵 para seguir conversando y potenciando ideas en comunidad. 
 
 
+```{r hilo_md}
+
+include_tweet("https://twitter.com/metadocencia/status/1572582681870995456")
+
+```
+
+
+
+
 ###  Medimos nuestro impacto
+
 
 - Para nuestra primera búsqueda laboral abierta postularon a las convocatorias ¡142 personas! Recibimos postulaciones de 11 países distintos y +90% de las personas no conocían MetaDocencia antes de postularse. Dictamos 5 talleres piloto y 3 ediciones abiertas de talleres.
 - Organizamos 17 eventos con un promedio de 15 asistentes por actividad. 
 - ¡A los eventos de gobernanza se inscribieron más de 100 personas de 16 países distintos! Y sus aportes fueron muy importantes para que el equipo de Gobernanza avanzara el proceso de desarrollo.
+
+
+```{r mapa_gobernanza}
+sf_use_s2(FALSE)
+
+gg <- ggplot(paises) +
+  geom_sf_interactive(aes(tooltip = Etiqueta, fill = postulaciones), color = "white") +
+  scale_fill_manual(values = c("Si" = "#C83737", "No" = "#f4d7d7")) +
+  theme(legend.position = "none", 
+        panel.border = element_rect(color = "#C83737"),
+        axis.ticks = element_blank(),
+        axis.text = element_blank(),
+        panel.grid = element_blank(),
+        text = element_text(family = "Raleway")) +
+  labs(title = "Origen de quienes asistieron a los eventos de gobernanza") +
+  coord_sf(xlim = c(-170, 25), ylim = c(-60, 80))
+
+
+x <- girafe(ggobj = gg)
+
+x
+
+```
+
+
+
+Se enteraron de la existencia de estos encuentros a través de:
+
+```{r como_se_entero, fig.height=5}
+post %>% 
+  count(`¿Cómo te enteraste de estos encuentros?`) %>% 
+  mutate(n = n/sum(n)*100) %>% 
+  ggplot(aes(x = `¿Cómo te enteraste de estos encuentros?`, y = n)) +
+  geom_bar(stat = "identity", fill = "#c83737") +
+  labs(y = "%", x = "") +
+  theme(panel.grid.major = element_blank(),
+        text = element_text(family = "Open Sans", color = "black", size = 24),
+        axis.text = element_text(family = "Open Sans", color = "black", size = 24)) +
+  coord_flip()
+```
+
+
+Asistieron miembros de distintas comunidades:
+
+
+```{r wordclous, fig.alt = "Algunas de las comunidades que estuvieron representadas en los encuentros de gobernanza"}
+
+# Para incluír imágenes con text alternativo
+
+knitr::include_graphics("/img/reporte-2022/wordcloud.jpg", error = FALSE)
+
+```
+
 - Nuestros videos en YouTube superaron las ¡2900 reproducciones!
 - Nuestro boletín alcanzó un promedio de 35% de aperturas en sus distintos envíos 
 - Sólo en 2022, los usuarios visitaron nuestro sitio web 12377 veces.
 - Las contribuciones al repositorio del sitio web de MetaDocencia a través de GitHub llegaron a 1172 nuevos commits en 2022 (¡1721 en total!) y 502 vistas en el repositorio.
 - Compartimos espacios virtuales en más de 90 horas de reuniones!
 - Nuestro Slack acumuló más de 56000 mensajes intercambiados entre la comunidad MetaDocente 💬
+
+
+
+
+
+
 
 Además, tuvimos **reconocimientos y apariciones en medios masivos de comunicación** ✨:
 
@@ -261,14 +421,32 @@ En 2022 trabajamos mucho para promover el acceso a la información de interés y
 
 ❤️ Para el equipo de colaboradores, distribuido en distintas ciudades, provincias y  países, preparamos y enviamos un presente MetaDocente de fin de año, para acercar distancias y stickers, agradecimientos por el año compartido y también alfajores 😋. 
 
-{{< figure src="/img/reporte-2022/collage-regalitos-MD.png" alt="Fotos de la preparación de las cajitas de presentes MetaDocentes y stickers en termo y computadora" >}}
+
+
+```{r regalitos, fig.alt = "Fotos de la preparación de las cajitas de presentes MetaDocentes y stickers en termo y computadora"}
+
+# Para incluír imágenes con text alternativo
+
+knitr::include_graphics("/img/reporte-2022/collage-regalitos-MD.png", error = FALSE)
+
+```
+
 *Fotos de Romi, Ire y Laurel*
 
 🥂 En el brindis de fin de año construimos de manera colaborativa el deseo para toda nuestra comunidad: 
 
 *“💫 Por un 2023 de nuevos aprendizajes y transformaciones, conexiones genuinas con otras personas y comunidades, que nos permitan construir redes y espacios compartidos.”*
 
-{{< figure src="/img/reporte-2022/saludo-2022.png" alt="Imagen de manos que sostienen una estrellita y mensaje de saludo" >}}
+
+
+```{r saludos, fig.alt = "Imagen de manos que sostienen una estrellita y mensaje de saludo"}
+
+# Para incluír imágenes con text alternativo
+
+knitr::include_graphics("/img/reporte-2022/saludo-2022.png", error = FALSE)
+
+```
+
 
 
 ### Planificamos 2023
@@ -280,3 +458,8 @@ También seguiremos promoviendo [esta discusión](https://www.metadocencia.org/p
 Otro anhelo para 2023 es seguir encontrándonos en persona, para conocernos y compartir la alegría de creer en lo que hacemos.
 
 Te invitamos a acompañarnos, ser parte y participar de las propuestas y oportunidades que vendrán 🌈. 
+
+
+
+
+
