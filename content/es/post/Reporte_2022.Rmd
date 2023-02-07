@@ -146,6 +146,7 @@ En la imagen, todo el equipo de MetaDocencia. En orden de aparición, de izquier
 
 - Fila 4: Iván Poggio y su *perro Pancho* 🐶.
 
+
 ###  Contribuimos
 
 ####  Nuevo proyecto: Infraestructura en la nube y entrenamiento en ciencia abierta para comunidades de América Latina y África
@@ -197,6 +198,7 @@ En 2023, publicaremos y pondremos a disposición las bases de funcionamiento de 
 🔗 [Leer más sobre el avance del proceso de gobernanza](https://zenodo.org/record/7392334#.Y7gW6XaZNPY).
 
 🔗 [Documentación de nuestra gobernanza (español)](https://zenodo.org/record/7398893#.Y7gW1HaZNPY). También disponible en [inglés](https://zenodo.org/record/7399003#.Y7gfDnaZNPZ).
+
 
 ###  Enseñamos
 
