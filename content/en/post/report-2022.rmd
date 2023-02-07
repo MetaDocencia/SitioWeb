@@ -138,10 +138,14 @@ knitr::include_graphics("/img/reporte-2022/Brindis_MetaDocencia_full.jpg", error
 ```
 
 In the image, the entire MetaDocencia team. In order of appearance, from left to right and from top to bottom:
-Row 1: Patricia Loto, Laura Ascenzi, Irene Vazano, Jesica Formoso; 
-Row 2: Monica Alonso, Melissa Black, Romina Pendino, Laura Ación; 
-Row 3: Julián Buede, Nicolás Palopoli, Paz Miguez, Mariela Rajngewerc; 
-Row 4: Iván Poggio and *Pancho, his dog* 🐶.
+
+- Row 1: Patricia Loto, Laura Ascenzi, Irene Vazano, Jesica Formoso; 
+
+- Row 2: Monica Alonso, Melissa Black, Romina Pendino, Laura Ación; 
+
+- Row 3: Julián Buede, Nicolás Palopoli, Paz Miguez, Mariela Rajngewerc; 
+
+- Row 4: Iván Poggio and *Pancho, his dog* 🐶.
 
 
 ###  We Contributed
@@ -170,11 +174,17 @@ The conversation continued during the CZI Open Science 2022 Annual Meeting that 
 During the second half of 2022 we began to collaboratively develop our governance. We intended to design a transparent model for strategic decision-making, designed from and for our cultural and regional context.
 
 After
+
 - 32 internal activities
+
 - 8 open meetings
+
 - 7 specialists participated as speakers
+
 - +55 hours of synchronous work
+
 - +4 months of exchange
+
 … we agreed and defined our inner work guidelines, governance bodies and collaboration agreements.
 
 [Watch the video summary of the process](https://youtube.com/watch?v=02NLFbEwgmQ&feature=shares)
