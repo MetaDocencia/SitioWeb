@@ -280,13 +280,16 @@ Melissa Black y Laurel Ascenzi estuvieron presentes representando a MetaDocencia
 La Fundación Einstein nos invitó a participar de su [simposio virtual sobre Dinámica Global en Investigación Responsable](https://symposium.einsteinfoundation.de/) (web en inglés) en el que desarrollamos las siguientes actividades: 
 
 - Laurel Ascenzi y Paz Míguez brindaron una charla sobre *"Co-creating and Teaching Open Science from the Global South"*, en el que plantearon la asimetría de poder y privilegios entre América Latina y las regiones de altos ingresos en base a [esta publicación](https://www.metadocencia.org/post/ciencia-abierta-americalatina/). 
+
 🔗 Presentación:  https://zenodo.org/record/7388194#.Y480rnaZNPY
 
-- Melissa Black junto a [Batool Almarzouq]()https://twitter.com/batool664) y [Anne Lee Steele]()https://twitter.com/aleesteele) desarrollaron un workshop sobre internacionalización y localización con la experiencia de [The Turing Way](https://twitter.com/turingway).
+- Melissa Black junto a [Batool Almarzouq](https://twitter.com/batool664) y [Anne Lee Steele](https://twitter.com/aleesteele) desarrollaron un workshop sobre internacionalización y localización con la experiencia de [The Turing Way](https://twitter.com/turingway).
+
 🔗 Presentación: https://zenodo.org/record/7387392#.Y49TR3aZNPY 
 
 ####  ICOTS-11
 Nicolás Palopoli, en representación de varios coautores de nuestro equipo, presentó el trabajo realizado durante los primeros dos años de MetaDocencia en la conferencia internacional de enseñanza de estadística ICOTS-11. 
+
 🔗 Presentación bilingüe: http://tiny.cc/metadocencia-icots11 
 
 ####  CZI Open Science 2022 Annual Meeting
