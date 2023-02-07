@@ -1,7 +1,7 @@
 ---
 title: Reporte 2022. Un año de cambios y crecimiento.
 author: ''
-draft: TRUE
+draft: FALSE
 date: '2023-01-27'
 slug: []
 categories: []
