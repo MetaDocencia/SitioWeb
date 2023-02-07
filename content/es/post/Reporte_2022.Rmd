@@ -98,7 +98,7 @@ Desde fines de 2021 contamos con el apoyo fiscal de Code for Science & Society (
 
 En 2022 completamos la primera etapa de nuestra transición hacia una organización mucho más inclusiva y participativa, que ya no depende del trabajo voluntario para funcionar. En este sentido, compartimos las incorporaciones y los cambios de un equipo en expansión, ¡que nos da bases sólidas para seguir creciendo! 🌟
 
-Luego de la primera búsqueda laboral abierta de nuestra historia, incorporamos [nuevas personas y roles](https://www.metadocencia.org/post/mdcrece/), reorganizando tareas y funciones en los siguientes equipos de trabajo actuales, que siguen funcionando en 2023 (link a cada perfil solo la primera vez que se nombra)🗃️:
+Luego de la primera búsqueda laboral abierta de nuestra historia, incorporamos [nuevas personas y roles](https://www.metadocencia.org/post/mdcrece/), reorganizando tareas y funciones en los siguientes equipos de trabajo, que siguen funcionando en 2023 (link a cada perfil solo la primera vez que se nombra)🗃️:
 
 - **Enseñanza:** [Ire](https://www.metadocencia.org/authors/irenevazano/), [Iván](https://www.metadocencia.org/authors/ivan/), [Jesi](https://www.metadocencia.org/authors/jformoso/), [Lau](https://www.metadocencia.org/authors/lacion/), [Marie](https://www.metadocencia.org/authors/okus/), [Moni](https://www.metadocencia.org/authors/monialonso/), [Nico](https://www.metadocencia.org/authors/npalopoli/), [Pato](https://www.metadocencia.org/authors/patriloto/), [Romi](https://www.metadocencia.org/authors/rominapedino/), [Laurel](https://www.metadocencia.org/authors/laurel/), [Meli](https://www.metadocencia.org/authors/melissa/) y [Paz](https://www.metadocencia.org/authors/pazmiguez/) (coordina).
 
@@ -144,7 +144,7 @@ En la imagen, todo el equipo de MetaDocencia. En orden de aparición, de izquier
 
 - Fila 3: Julián Buede, Nicolás Palopoli, Paz Mïguez, Mariela Rajngewerc; 
 
-- Fila 4: Iván Poggio y su perro Pancho 🐶.
+- Fila 4: Iván Poggio y su *perro Pancho* 🐶.
 
 ###  Contribuimos
 
@@ -155,6 +155,7 @@ Nuestro objetivo es crear un servicio comunitario de infraestructura en la nube 
 Se trata de un esfuerzo de colaboración entre [2i2c](https://2i2c.org/), [The Carpentries](https://carpentries.org/about/), [Center for Scientific Collaboration and Community Engagement](https://www.cscce.org/), [Invest in Open Infrastructure](https://investinopen.org/), [Open Life Science](https://openlifesci.org/) y MetaDocencia. 
 
 🔗 [Publicación actualizada con ofertas de empleo](https://www.metadocencia.org/post/infraestructura-nube/)
+
 🔗 [Acceder a la propuesta original en Zenodo (en inglés)](https://zenodo.org/record/7025288#.YxCi6naZNPY)
 
 ####  Código Abierto y Ciencia Abierta en América Latina
@@ -175,7 +176,7 @@ Después de
 - 10 personas involucradas activamente,
 - +55 horas de trabajo sincrónico,
 - +4 meses de intercambio…
-… consensuamos y definimos una forma de trabajo interna, órganos de funcionamiento y reglamentos internos. 
+… consensuamos y definimos una forma de trabajo interna, órganos de funcionamiento y pautas de colaboración. 
 
 [Mira el video](https://youtube.com/watch?v=02NLFbEwgmQ&feature=shares) con el relato del proceso:
 
@@ -204,7 +205,9 @@ Comenzamos 2022 ofreciendo dos ediciones de **Introducción al ABC para Enseñar
 
 Durante el primer semestre enseñamos varios talleres online basados en el lenguaje de programación R: una edición de [Generando Tutoriales Interactivos con el Paquete {learnr}](https://www.metadocencia.org/post/taller_learnr_2022/), destinado a crear tutoriales educativos interactivos (ofrecido en conjunto con [R-Ladies Johannesbourg)](https://rladies.org/south-africa-rladies/locality/Johannesburg/); dos ediciones de [Desde las Hojas de Cálculo a R](https://www.metadocencia.org/curso/spreadsheet-to-r/), junto con el [Software Sustainability Institute](https://www.software.ac.uk/) (Reino Unido), para asistir en la transición a R para trabajar con datos; y tres versiones a la carta de estos dos talleres, co-organizados como *meetups* con grupos locales de [R-Ladies Argentina](https://rladies.org/argentina-rladies/). Estas actividades fueron lideradas por [Paola Corrales](https://www.metadocencia.org/authors/paocorrales/), [Elio Campitelli](https://www.metadocencia.org/authors/eliocamp/) y [Yanina Bellini Saibene](https://www.metadocencia.org/authors/yabellini/), que co-fundaron MetaDocencia, y colaboraron con MetaDocencia hasta fin de mayo de 2022. 
 
-También llevaron adelante el [Club de Lectura de Enseñar Tecnología en Comunidad](https://www.metadocencia.org/post/club_de_lectura/). Se trató de ocho encuentros con presentación y moderación de [distintas personas](https://www.metadocencia.org/curso/clubdelecturat3/) que colaboraron con MetaDocencia. El objetivo fue compartir y profundizar sobre el libro [Enseñando Tecnología en Comunidad de **Greg Wilson**](https://teachtogether.tech/es/), quien participó en el último de estos encuentros, con interpretación simultánea español-inglés 📚. Aunque algunos de estos cursos y eventos no están activos, los materiales permanecen disponibles en la web para quienes deseen conocer más y replicar la experiencia.
+También llevaron adelante el [Club de Lectura de Enseñar Tecnología en Comunidad](https://www.metadocencia.org/post/club_de_lectura/). Se trató de ocho encuentros con presentación y moderación de [distintas personas](https://www.metadocencia.org/curso/clubdelecturat3/) que colaboraron con MetaDocencia. El objetivo fue compartir y profundizar sobre el libro [Enseñando Tecnología en Comunidad de Greg Wilson](https://teachtogether.tech/es/), quien participó en el último de estos encuentros, con interpretación simultánea español-inglés 📚. 
+
+Aunque algunos de estos cursos y eventos no están activos, los materiales permanecen disponibles en la web para quienes deseen conocer más y replicar la experiencia.
 
 Yanina, Paola y Nicolás Palopoli lideraron el tercer [Taller de Entrenamiento de Instructores de The Carpentries](https://www.metadocencia.org/post/metadocencia_carpentries/) organizado por MetaDocencia. Como en ocasiones anteriores, al final del taller certificamos como instructores de The Carpentries a 12 personas de 5 países.
 
@@ -238,9 +241,10 @@ En 2023 pretendemos compartir los resultados con la comunidad, aplicando princip
 
 ###  Publicamos
 En 2022 **sistematizamos y disponibilizamos toda nuestra producción en Zenodo** 🤯:
-🔗 https://zenodo.org/communities/metadocencia/ 
 
-Quienes tengan interés pueden enviarnos publicaciones que se relacionan con MetaDocencia para sumarlas a nuestra comunidad en la plataforma 🤗.
+🔗 **https://zenodo.org/communities/metadocencia/** 
+
+Quienes tengan interés pueden enviarnos a info@metadocencia.org las publicaciones que se relacionan con MetaDocencia para sumarlas a nuestra comunidad en la plataforma 🤗.
 
 También sintetizamos nuestra [descripción en un *prospectus* (en inglés)](https://zenodo.org/record/7458723#.Y7gWx3aZNPY) para presentarnos ante comunidades no hispanohablantes 📃. 
 
@@ -260,6 +264,7 @@ En esta publicación, Romina Pendino y Nicolás Palopoli recomiendan maneras pos
 En esta publicación, Jesica Formoso y Laurel Ascenzi comparten reflexiones sobre los espacios de crecimiento y orientación de las próximas propuestas de formación, recuperando el aporte de quienes fueron estudiantes de nuestros cursos entre marzo de 2020 y octubre de 2021. A través de una nube de palabras respondemos qué es lo que más nos llevamos de un encuentro sincrónico: ¿contenido o experiencia?
 🔗 Leer más: https://www.metadocencia.org/post/nube-palabras/ 
 
+
 ###  Participamos en eventos
 
 ####  XII Congreso Argentino de Bioinformática y Biología Computacional
@@ -271,6 +276,7 @@ Melissa Black y Laurel Ascenzi estuvieron presentes representando a MetaDocencia
 
 ####  Simposio sobre Dinámica Global en Investigación Responsable de la Fundación Einstein
 La Fundación Einstein nos invitó a participar de su [simposio virtual sobre Dinámica Global en Investigación Responsable](https://symposium.einsteinfoundation.de/) (web en inglés) en el que desarrollamos las siguientes actividades: 
+
 - Laurel Ascenzi y Paz Míguez brindaron una charla sobre *"Co-creating and Teaching Open Science from the Global South"*, en el que plantearon la asimetría de poder y privilegios entre América Latina y las regiones de altos ingresos en base a [esta publicación](https://www.metadocencia.org/post/ciencia-abierta-americalatina/). 
 🔗 Presentación:  https://zenodo.org/record/7388194#.Y480rnaZNPY
 
@@ -309,7 +315,8 @@ include_tweet("https://twitter.com/metadocencia/status/1572582681870995456")
 ###  Medimos nuestro impacto
 
 
-- Para nuestra primera búsqueda laboral abierta postularon a las convocatorias ¡142 personas! Recibimos postulaciones de 11 países distintos y +90% de las personas no conocían MetaDocencia antes de postularse. Dictamos 5 talleres piloto y 3 ediciones abiertas de talleres.
+- Para nuestra primera búsqueda laboral abierta postularon a las convocatorias ¡142 personas! Recibimos postulaciones de 11 países distintos y +90% de las personas no conocían MetaDocencia antes de postularse. 
+- Dictamos 5 talleres piloto y 3 ediciones abiertas de talleres.
 - Organizamos 17 eventos con un promedio de 15 asistentes por actividad. 
 - ¡A los eventos de gobernanza se inscribieron más de 100 personas de 16 países distintos! Y sus aportes fueron muy importantes para que el equipo de Gobernanza avanzara el proceso de desarrollo.
 
@@ -378,7 +385,7 @@ knitr::include_graphics("/img/reporte-2022/wordcloud.jpg", error = FALSE)
 
 
 
-Además, tuvimos **reconocimientos y apariciones en medios masivos de comunicación** ✨:
+Además, tuvimos **reconocimientos y apariciones en medios de comunicación** ✨:
 
 #### Melissa Black será becaria OLS/SSI en 2023
 El Instituto para la Sostenibilidad del Software (SSI) comunicó las 18 personas becarias para 2023 y Melissa Black resultó seleccionada a través de una colaboración con [Open Life Science (OLS)](https://openlifesci.org/), por lo que formará parte de la primera cohorte de becarios OLS/SSI. ¡Felicitaciones! 🎉
