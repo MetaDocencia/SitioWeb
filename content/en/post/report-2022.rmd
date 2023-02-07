@@ -61,7 +61,7 @@ world <- ne_countries(scale = "medium", returnclass = "sf") %>%
   select(iso_a3, geometry)
 
 codigos <- countrycode::codelist %>% 
-  select(cldr.name.es, iso3c)
+  select(cldr.name.es, iso3c, cldr.name.en)
 
 world <- world  %>% 
   left_join(codigos, by = c("iso_a3" = "iso3c")) %>% 
@@ -77,8 +77,8 @@ paises <- post %>%
 paises <- world %>% 
   left_join(paises, by = c("cldr.name.es" = "País")) %>% 
   mutate(postulaciones = ifelse(is.na(n), "No", "Si"),
-         Etiqueta = ifelse(postulaciones == "Si", str_c(cldr.name.es, "\n", n, " postulantes"), " "),
-         Etiqueta2 = ifelse(postulaciones == "Si", str_c(cldr.name.es, " (", n, ")"), NA))
+         Etiqueta = ifelse(postulaciones == "Si", str_c(cldr.name.en, "\n", n, " postulantes"), " "),
+         Etiqueta2 = ifelse(postulaciones == "Si", str_c(cldr.name.en, " (", n, ")"), NA))
 
 
 
@@ -177,9 +177,9 @@ After
 - +4 months of exchange
 … we agreed and defined our inner work guidelines, governance bodies and collaboration agreements.
 
-[Watch the video summary of the process](https://www.youtube.com/watch?v=AhE3ltbwY6c):
+[Watch the video summary of the process](https://youtube.com/watch?v=02NLFbEwgmQ&feature=shares)
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=AhE3ltbwY6c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/02NLFbEwgmQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 The implementation of our new governance began in December 2022, with the constitution of a new Advisory Committee (AC) and the organization of its first meeting according to the updated operating principles. The AC, together with the Executive Team, the Coordination Team and other work teams, articulate their work so that decision making and the development of activities strengthen MetaDocencia's work and mission.
 
@@ -344,7 +344,7 @@ gg <- ggplot(paises) +
         axis.text = element_blank(),
         panel.grid = element_blank(),
         text = element_text(family = "Raleway")) +
-  labs(title = "Origen de quienes asistieron a los eventos de gobernanza") +
+  labs(title = "Contries of origen of the participants") +
   coord_sf(xlim = c(-170, 25), ylim = c(-60, 80))
 
 
@@ -356,23 +356,33 @@ x
 
 
 
-How did they know about this events:
+How they found out about these events:
 
 ```{r como_se_entero, fig.height=5}
+
 post %>% 
-  count(`¿Cómo te enteraste de estos encuentros?`) %>% 
+  count("conoce" = `¿Cómo te enteraste de estos encuentros?`) %>% 
+  mutate(conoce = case_when(str_detect(conoce, "integrante de") ~ "I'm a member of MetaDocencia",
+                            str_detect(conoce, "Slack") ~ "Through Slack",
+                            str_detect(conoce, "Facebook") ~ "Through social media (Facebook, Twitter, Linkedin)",
+                            str_detect(conoce, "correo") ~ "By email",
+                            str_detect(conoce, "persona conocida") ~ "I was invited by someone I know",
+                            str_detect(conoce, "evento") ~ "At an event or workshop",
+                            str_detect(conoce, "web") ~ "Through a website",
+                            str_detect(conoce, "Nota periodística") ~ "In a journalistic Articles")) %>% 
   mutate(n = n/sum(n)*100) %>% 
-  ggplot(aes(x = `¿Cómo te enteraste de estos encuentros?`, y = n)) +
+  ggplot(aes(x = conoce, y = n)) +
   geom_bar(stat = "identity", fill = "#c83737") +
   labs(y = "%", x = "") +
   theme(panel.grid.major = element_blank(),
         text = element_text(family = "Open Sans", color = "black", size = 24),
         axis.text = element_text(family = "Open Sans", color = "black", size = 24)) +
   coord_flip()
+
 ```
 
 
-Asistieron miembros de distintas comunidades:
+The participants represented different communities:
 
 
 ```{r wordclous, fig.alt = "Algunas de las comunidades que estuvieron representadas en los encuentros de gobernanza"}
