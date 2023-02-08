@@ -227,11 +227,9 @@ In the last quarter of 2022 we conducted internal pilot editions of new training
 
 We started to update our courses following our [Stylebook](https://github.com/MetaDocencia/Logos/tree/master/manual_identidad_visual), with design improved by Julian. Look what a nice new [presentation template we have!](https://docs.google.com/presentation/d/1bPga_IEQDrIV77d8CTVKyCywcCVtktRCRiQVt6togdE/edit?usp=sharing) 😍.
 
-🧑‍🏫 🧑🏫 The first updated workshop was Introduction to Online Teaching Essentials: we renamed it [**Present! Resources for Active Meetings**](https://www.metadocencia.org/en/curso/intro-abc-online/), we took the pandemic out of it and introduced new resources for managing synchronous teaching spaces whether in face-to-face, hybrid or online environments.
+🧑‍🏫 The first updated workshop was Introduction to Online Teaching Essentials: we renamed it [**Present! Resources for Active Meetings**](https://www.metadocencia.org/en/curso/intro-abc-online/), we took the pandemic out of it and introduced new resources for managing synchronous teaching spaces whether in face-to-face, hybrid or online environments.
 
 🧑‍💻 Our team also developed a proposal for those who want to learn how to use Zoom with the NVDA screen reader, oriented to visually impaired people and teachers of visually impaired people, which is our new [**Accessible Zoom with Screen Reader**](https://www.metadocencia.org/en/curso/zoom/) 🆕.
-
-Se desarrollaron ediciones abiertas de los talleres ¡Presente! Recursos para encuentros activos, a cargo de Irene Vazano, Nicolás Palopoli y Laura Ación; y de Zoom Accesible con Lector de Pantalla, lideradas por Iván Poggio e Irene Vazano. 
 
 The open editions of the workshops ¡Present! Resources for Active Meetings were led by Irene Vazano, Nicolás Palopoli and Laura Ación; and Accessible Zoom with Screen Reader was led by Iván Poggio and Irene Vazano. 
 
