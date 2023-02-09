@@ -10,7 +10,6 @@ type: persona
 weight: 35
 ---
 
-### Federico
 Federico está terminando la Licenciatura en Matemáticas. Trabaja en una empresa tecnológica mediana Latinoamericana desde hace 18 meses como machine learning engineer. Hizo una diplomatura en Ciencias de Datos en una universidad pública de Uruguay. Además trabajó 1 año en una empresa chilena multinacional, primero como analista de datos y luego como machine learning engineer.
 
 Es un enamorado de los modelos de machine learning. Admira a los protagonistas del resurgimiento de la inteligencia artificial y cree que la IA puede ser la solución a muchos de los problemas de la humanidad. Piensa que lo importante es que las decisiones de cómo desarrollar estas soluciones las tome gente inteligente. No disfruta de limpiar y analizar datos y piensa que la intuición sobre el problema la tienen que tener otras personas. No le gusta hacer análisis de error de los modelos que entrena. De hecho, le parece que modificar los datos de entrenamiento es hacer trampa, incluso aunque tengan errores.
