@@ -25,7 +25,7 @@ tags:
 
 In this practical you will learn to use different tools to assess how stereotypes can result in discriminatory behavior in language technologies and reflect on their social impacts. You will explore biases in large language models and word embeddings. Working in groups, you will find strengths and limitations in the representations of stereotypes and the different approaches to model bias. This is an introductory course and no previous natural language processing (NLP) knowledge is required.
 
-### Intended public of this practical
+### Practical's intended public
 
 **There are no specific requirements for this practical, you will experience it best if you bring a laptop.**
 
