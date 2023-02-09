@@ -39,7 +39,7 @@ When we designed this practial, we had Sasha, Federico, Esther, Javier, and Sand
 
 * Javier is the founder of FunData, a small Latin American company that implements AI software in the medical domain following the proposals of a US-based research team. Javier is very well connected in the AI field and strongly believes in the economic potential of collaborating with those doing AI research but doesn't understand the technical details of the current technology. Read more about Javier here.
 
-* Sandra ...
+* Sandra is a Project Manager of software projects with machine learning components. She works for a financial consulting company. She wants to incorporate ethical issues into the project planning and monitoring methodology and identify issues that require further investigation in the requirements-gathering process, from an ethical point of view. Read more about Sandra here.
 
 ### _Not_ included in this workshop
 
@@ -75,7 +75,7 @@ This is a 2-hour workshop with one interval (ideally away from your screen) of a
 
 ### Course materials
 
-[Course materials]()
+[Course materials will be shared here soon]()
 
 ### Do you want to re-use any of our contents? Please, be our guest!
 
