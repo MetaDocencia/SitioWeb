@@ -31,7 +31,7 @@ In this practical you will learn to use different tools to assess how stereotype
 
 When we designed this practical, we had Sasha, Federico, Esther, Javier, and Sandra in mind.
 
-* Sasha has a Master's in Physics and is pursuing her PhD in Complex Systems. They are a naturally shy person and sometimes finds it difficult to develop topics that do not have a strong technical structure, although they realize social issues and interpersonal skills are key in data science applications. Read more about Sasha here.
+* Sasha has a Master's in Physics and is pursuing her PhD in Complex Systems. They are a naturally shy person and sometimes finds it difficult to develop topics that do not have a strong technical structure, although they realize social issues and interpersonal skills are key in data science applications. Read more about Sasha [here](https://www.metadocencia.org/persona/sasha/).
 
 * Federico is finishing his undergrad degree in Math and has been working in a medium-sized Latin American technology company for 18 months as a machine learning engineer. He likes to code, he's a vegan, and he believes deeply in social justice. He believes that AI can be the solution to many of humanity's problems. Read more about Federico [here](https://www.metadocencia.org/persona/federico/).
 
