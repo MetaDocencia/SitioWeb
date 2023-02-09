@@ -4,7 +4,7 @@ draft: false
 image:
   caption: "[Foto generada en thispersondoesnotexist.com](https://thispersondoesnotexist.com/)"
 linktitle: "Persona tipo: Esther"
-summary: Fundó FunData, una pequeña empresa latinoamericana que implementa software de IA en el ámbito médico siguiendo las propuestas de un equipo de investigación con sede en EEUU. Javier está muy bien conectado en el campo de la IA y cree firmemente en el potencial económico de colaborar con quienes realizan investigaciones en IA, pero no comprende los detalles técnicos de la tecnología actual.
+summary: Es socióloga y lleva décadas trabajando en diferentes áreas técnicas del sector público mexicano. Ha tomado cursos sobre modernización y datos abiertos, sin embargo, le han parecido poco claros y de poca utilidad práctica.
 title: Esther
 type: persona
 weight: 35
