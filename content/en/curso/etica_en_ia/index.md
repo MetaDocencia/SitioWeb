@@ -42,10 +42,10 @@ When we designed this practial, we had Sasha, Federico, Esther, Javier, and Sand
 
 ### _Not_ included in this workshop
 
-Since we only have 3 hours, a lot of things will be out of reach of the workshop. Among other things, we will not learn:
+Since we only have 2 hours, a lot of things will be out of reach of this practical. Among other things, we will not learn:
 
-* In-depth strategies for teaching online
-* Theory of pedagogy or educational sciences
+* In-depth theoretical principles of large language models
+* Development of unbiased metrics
 * Specific techniques for teaching content from different fields of knowledge
 * Specific techniques for handling classes of more than 30 people
 
@@ -61,16 +61,16 @@ This is a 2-hour workshop with one interval (ideally away from your screen) of a
 
 | Time | Activity |
 | ------:|:----------- |
-| <img width="150"/> 17:20 - 17:30 | Time to start showing up to the practical room and finding a place to plug your laptop, making sure you have good access to the room wifi |
+|<img width="150"/>17:20 - 17:30| Time to start showing up to the practical room and finding a place to plug your laptop, making sure you have good access to the room wifi |
 |17:30 - 17:35 | Establishing ground rules to minimize frustration during the practical |
 |17:35 - 17:45 | Introduction |
-|17:45 - 18:00 | Stereotypes and Bias |
-|18:00 - 18:25 | Is my language model discriminatory? |
+|17:45 - 18:05 | Stereotypes and Bias |
+|18:05 - 18:25 | Is my language model discriminatory? |
 |18:25 - 18:35 | Break away from the screen |
-|18:35 - 18:50 | Exercise: Is my language model discriminatory? |
-|18:50 - 19:00| A word is worth a thousand sentences |
-|19:00 - 19:05| How to continue this type of learning on your own |
-|19:05 - 19:10| How can we improve this workshop? |
+|18:35 - 19:05 | Exercise: Is my language model discriminatory? |
+|19:05 - 19:20 | A word is worth a thousand sentences |
+|19:20 - 19:25| How to continue this type of learning on your own |
+|19:25 - 19:30| How can we improve this workshop? |
 
 ### Course materials
 
