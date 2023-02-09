@@ -37,7 +37,7 @@ When we designed this practical, we had Sasha, Federico, Esther, Javier, and San
 
 * Esther is a sociologist and has been working for decades in different technical areas of the Mexican public sector. She knows very well the written rules and unwritten customs of the different public administrations that handle massive data. She has taken courses on modernization and open data, however, they have seemed unclear and of little practical use. Read more about Esther here.
 
-* Javier is the founder of FunData, a small Latin American company that implements AI software in the medical domain following the proposals of a US-based research team. Javier is very well connected in the AI field and strongly believes in the economic potential of collaborating with those doing AI research but doesn't understand the technical details of the current technology. Read more about Javier here.
+* Javier is the founder of FunData, a small Latin American company that implements AI software in the medical domain following the proposals of a US-based research team. Javier is very well connected in the AI field and strongly believes in the economic potential of collaborating with those doing AI research but doesn't understand the technical details of the current technology. Read more about Javier [here](https://www.metadocencia.org/persona/javier/).
 
 * Sandra is a Project Manager of software projects with machine learning components. She works for a financial consulting company. She wants to incorporate ethical issues into the project planning and monitoring methodology and identify issues that require further investigation in the requirements-gathering process, from an ethical point of view. Read more about Sandra here.
 
