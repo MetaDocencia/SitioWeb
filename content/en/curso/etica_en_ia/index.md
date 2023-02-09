@@ -35,7 +35,7 @@ When we designed this practical, we had Sasha, Federico, Esther, Javier, and San
 
 * Federico is finishing his undergrad degree in Math and has been working in a medium-sized Latin American technology company for 18 months as a machine learning engineer. He likes to code, he's a vegan, and he believes deeply in social justice. He believes that AI can be the solution to many of humanity's problems. Read more about Federico [here](https://www.metadocencia.org/persona/federico/).
 
-* Esther is a sociologist and has been working for decades in different technical areas of the Mexican public sector. She knows very well the written rules and unwritten customs of the different public administrations that handle massive data. She has taken courses on modernization and open data, however, they have seemed unclear and of little practical use. Read more about Esther here.
+* Esther is a sociologist and has been working for decades in different technical areas of the Mexican public sector. She knows very well the written rules and unwritten customs of the different public administrations that handle massive data. She has taken courses on modernization and open data, however, they have seemed unclear and of little practical use. Read more about Esther [here](https://www.metadocencia.org/persona/esther/).
 
 * Javier is the founder of FunData, a small Latin American company that implements AI software in the medical domain following the proposals of a US-based research team. Javier is very well connected in the AI field and strongly believes in the economic potential of collaborating with those doing AI research but doesn't understand the technical details of the current technology. Read more about Javier [here](https://www.metadocencia.org/persona/javier/).
 
