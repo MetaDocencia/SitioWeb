@@ -10,8 +10,6 @@ type: persona
 weight: 20
 ---
 
-### Aurora
-
 Aurora es docente universitaria, sin formación formal en programación pero que tiene que enseñar conceptos de programación en sus materias. 
 
 Desde hace dos años viene utilizando la plataforma Moodle que su facultad puso a disposición de los docentes para subir el cronograma de la materia y subir material bibliográfico y los archivos PDF de las diapositivas de las clases.  
