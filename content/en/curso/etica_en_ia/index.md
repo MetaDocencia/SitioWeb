@@ -29,7 +29,7 @@ In this practical you will learn to use different tools to assess how stereotype
 
 **There are no specific requirements for this practical, you will experience it best if you bring a laptop.**
 
-When we designed this practial, we had Sasha, Federico, Esther, Javier, and Sandra in mind.
+When we designed this practical, we had Sasha, Federico, Esther, Javier, and Sandra in mind.
 
 * Sasha has a Master's in Physics and is pursuing her PhD in Complex Systems. They are a naturally shy person and sometimes finds it difficult to develop topics that do not have a strong technical structure, although they realize social issues and interpersonal skills are key in data science applications. Read more about Sasha here.
 
