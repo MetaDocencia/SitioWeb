@@ -15,9 +15,9 @@ tags:
   - Next courses
 ---
 
-**This site is under construction and will be changing in the following weeks**
+**This site is under construction and will be changing in the following weeks.**
 
-**This workshop will be offered in English in person for persons attending [Khipu 2023, Latin American Meeting In Artificial Intelligence, Montevideo](https://khipu.ai/) during March. During the rest of 2023 a longer version of this workshop will be offered online in Spanish, more news coming soon**
+**This workshop will be offered in English in person for persons attending [Khipu 2023, Latin American Meeting In Artificial Intelligence](https://khipu.ai/) gathering at Montevideo in March. During the rest of 2023 a longer version of this workshop will be offered online in Spanish, more news coming soon.**
 
 {{% toc %}}
 
@@ -35,23 +35,24 @@ When we designed this practial, we had Sasha, Federico, Esther, Javier, and Sand
 
 * Federico is finishing his undergrad degree in Math and has been working in a medium-sized Latin American technology company for 18 months as a machine learning engineer. He likes to code, he's a vegan, and he believes deeply in social justice. He believes that AI can be the solution to many of humanity's problems. Read more about Federico here.
 
-* Esther is a sociologist and has been working for 3 decades in different technical areas of the Mexican public sector. She knows very well the written rules and unwritten customs of the different public administrations that handle massive data. She has taken courses on modernization and open data, however, they have seemed unclear and of little practical use. Read more about Esther here.
+* Esther is a sociologist and has been working for decades in different technical areas of the Mexican public sector. She knows very well the written rules and unwritten customs of the different public administrations that handle massive data. She has taken courses on modernization and open data, however, they have seemed unclear and of little practical use. Read more about Esther here.
 
-* Javier ...
+* Javier is the founder of FunData, a small Latin American company that implements AI software in the medical domain following the proposals of a US-based research team. Javier is very well connected in the AI field and strongly believes in the economic potential of collaborating with those doing AI research but doesn't understand the technical details of the current technology. Read more about Javier here.
+
 * Sandra ...
 
 ### _Not_ included in this workshop
 
 Since we only have 2 hours, a lot of things will be out of reach of this practical. Among other things, we will not learn:
 
-* In-depth theoretical principles of large language models
-* Development of unbiased metrics
-* Specific techniques for teaching content from different fields of knowledge
-* Specific techniques for handling classes of more than 30 people
+* In-depth theoretical principles of large language models (LLM)
+* Analysis of non-open source LLMs such as ChatGPT
+* Automatic techniques for bias mitigation
+* Benchmark comparisons of metrics for bias analysis
 
 ### How to participate 
 
-The workshop is free to attend for those attending Khipu and will abide by Khipu´s code of conduct. More details for registering at https://khipu.ai/
+The workshop is free to attend for those attending Khipu and will abide by [Khipu´s code of conduct](https://khipu.ai/conduct/). More details for registering to this workshop can be found at [Khipu's website](https://khipu.ai/).
 
 ### Duration
 
