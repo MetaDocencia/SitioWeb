@@ -28,12 +28,12 @@
 #' @param base_level Starting level of the lowest header level. Any headers 
 #'   prior to the first header at the base_level are dropped silently.
 #' @param toc_depth Maximum depth for TOC, relative to base_level. Default is
-#'   `toc_depth = 3`, which results in a TOC of at most 3 levels.
+#'   `toc_depth = 1`, which results in a TOC of at most 3 levels.
 render_toc <- function(
   filename, 
   toc_header_name = "Table of Contents",
   base_level = NULL,
-  toc_depth = 3
+  toc_depth = 1
 ) {
   x <- readLines(filename, warn = FALSE)
   x <- paste(x, collapse = "\n")
