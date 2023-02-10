@@ -19,7 +19,7 @@ type: post
 weight: 1
 output:
   blogdown::html_page:
-    toc: true
+    toc: false
 ---
 
 ```{r librerias, echo=FALSE, warning=FALSE, message=FALSE}
@@ -88,7 +88,12 @@ paises <- world %>%
 2022 fue un año muy especial para la comunidad de MetaDocencia 🍎. No solo porque la vuelta a la presencialidad se hizo sentir tras dos años de crecer impulsando la educación en entornos virtuales, sino porque consolidamos esa experiencia y nos fortalecimos para enfrentar nuevos desafíos por venir 🚀.
 En este reporte compartimos nuestro año de cambios, crecimiento, consolidación y aprendizajes, junto a recursos accesibles para toda la comunidad 📍.
 
-## Acciones colaborativas desarrolladas en 2022 📑:
+<h2 font-size="30px;"> Acciones colaborativas desarrolladas en 2022 📑:</h2>
+
+
+```{r toc, echo=FALSE}
+render_toc("Reporte_2022.Rmd")
+```
 
 
 ###  Crecimos como equipo

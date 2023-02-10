@@ -19,12 +19,14 @@ type: post
 weight: 1
 output:
   blogdown::html_page:
-    toc: true
+    toc: false
 ---
 
 ```{r librerias, echo=FALSE, warning=FALSE, message=FALSE}
 
 knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+
+source("render_toc.R")
 
 library(tidyverse)
 library(readxl)
@@ -88,9 +90,12 @@ paises <- world %>%
 2022 was a very special year for the MetaDocencia community 🍎. After two years of growing by fostering education in virtual environments, we consolidated that experience and became stronger to face new challenges to come 🚀.
 In this report we share our year of changes, growth, consolidation and learning, along with resources for the entire community 📍.
 
+<h2 font-size="30px;">Collaborative actions developed in 2022 📑:</h2>
 
-## Collaborative actions developed in 2022 📑:
 
+```{r toc, echo=FALSE}
+render_toc("report-2022.Rmd")
+```
 
 ###  We Grew As A Team
 Since our establishment as a voluntary organization in 2020, MetaDocencia had a great [community of collaborators](https://www.metadocencia.org/equipo/), who made valuable contributions to our present 👐.
