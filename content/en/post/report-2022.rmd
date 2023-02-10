@@ -79,7 +79,7 @@ paises <- post %>%
 paises <- world %>% 
   left_join(paises, by = c("cldr.name.es" = "País")) %>% 
   mutate(postulaciones = ifelse(is.na(n), "No", "Si"),
-         Etiqueta = ifelse(postulaciones == "Si", str_c(cldr.name.en, "\n", n, " postulantes"), " "),
+         Etiqueta = ifelse(postulaciones == "Si", str_c(cldr.name.en, "\n", n, " attendees"), " "),
          Etiqueta2 = ifelse(postulaciones == "Si", str_c(cldr.name.en, " (", n, ")"), NA))
 
 
