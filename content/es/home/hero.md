@@ -7,7 +7,7 @@ weight = 5  # Order that this section will appear.
 
 # title = "Co-creando y enseñando ciencia abierta"
 
-title = "Encuentros de gobernanza de MetaDocencia"
+title = "Reporte 2022. Un año de cambios y crecimiento."
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "MD_original.png"
@@ -39,14 +39,14 @@ hero_media = "MD_original.png"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
  [cta]
- url = "https://www.youtube.com/playlist?list=PLNsHbWOM6tUc3hPxo-EvCtn03Lp_ZcXKy"
- label = " Lista de reproducción"
+ url = "https://www.metadocencia.org/post/reporte_2022/"
+ label = "Reporte 2022"
  icon_pack = "fab"
- icon = "youtube"
+ icon = "Ver Reporte 2022"
 
-[cta_alt] 
-url = "/eventos/" 
-label = "Ver eventos"
+# [cta_alt] 
+# url = "/eventos/" 
+# label = "Ver eventos"
 
 
 # Note. An optional note to show underneath the links.
@@ -54,7 +54,6 @@ label = "Ver eventos"
 #   label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-
-Mira el ciclo completo de conversatorios abiertos para construir colaborativamente nuestra gobernanza.
+En este reporte compartimos nuestro año de consolidación y aprendizajes, junto a recursos accesibles para toda la comunidad.
 
 
