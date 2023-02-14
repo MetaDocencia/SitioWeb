@@ -1,6 +1,7 @@
 ---
 authors:
 - minedogucu
+draft: true
 bio: ""
 email: ""
 name: Mine Dogucu
