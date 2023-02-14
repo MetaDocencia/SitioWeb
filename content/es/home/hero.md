@@ -54,7 +54,6 @@ hero_media = "MD_original.png"
 #   label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-##
 En este reporte compartimos nuestro año de consolidación y aprendizajes, junto a recursos accesibles para toda la comunidad.
 
 
