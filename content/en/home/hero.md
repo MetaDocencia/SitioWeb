@@ -7,7 +7,7 @@ weight = 10  # Order that this section will appear.
 
 # title = "Co-creating and Teaching Open Science"
 
-title = "MetaDocencia Governance Meetings"
+title = "2022 Report. A Year of Changes and Growth."
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "MD_original.png"
@@ -40,10 +40,10 @@ hero_media = "MD_original.png"
 #   Remove a link/note by deleting a cta/note block.
 
 [cta]
- url = "https://www.youtube.com/playlist?list=PLNsHbWOM6tUc3hPxo-EvCtn03Lp_ZcXKy"
- label = " Playlist"
+ url = "https://www.metadocencia.org/en/post/report-2022/"
+ label = "2022 Report"
  icon_pack = "fab"
- icon = "youtube"
+ icon = "Read more"
 
 [cta_alt] 
 url = "/events/" 
@@ -55,4 +55,4 @@ label = "About the Events"
 #   label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-Watch the complete round of open talks to collaboratively build our governance.
+In this report we share our year of consolidation and learning, along with resources for the entire community.
