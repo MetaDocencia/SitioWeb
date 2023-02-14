@@ -7,7 +7,7 @@ weight = 10  # Order that this section will appear.
 
 # title = "Co-creating and Teaching Open Science"
 
-title = "2022 Report. A Year of Changes and Growth."
+title = "2022 Report"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "MD_original.png"
@@ -55,4 +55,5 @@ hero_media = "MD_original.png"
 #   label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
+## A Year of Changes and Growth.
 In this report we share our year of consolidation and learning, along with resources for the entire community.
