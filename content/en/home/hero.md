@@ -45,9 +45,9 @@ hero_media = "MD_original.png"
  icon_pack = "fab"
  icon = "Read more"
 
-[cta_alt] 
-url = "/events/" 
-label = "About the Events"
+# [cta_alt] 
+# url = "/events/" 
+# label = "About the Events"
 
 
 # Note. An optional note to show underneath the links.
