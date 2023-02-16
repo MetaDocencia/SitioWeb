@@ -48,9 +48,8 @@ user_groups:
 - Contributors
 ---
 
-Laura is an Adjunct Research Scientist at the National Research Council in Argentina (CONICET) and the University of Buenos Aires, where she leads the Responsible Use of Data Co-Laboratory. She has experience working remotely from Buenos Aires sincce 2006. She is a user of remote graduate education since then. Her first experience teaching at the undergrad and grad levels in 2013 was also remote. With these precedents, when she started teaching in person, no wonder she included techonology to her classes to enhance her students' experience.
+Laura is an Adjunct Research Scientist at the National Research Council in Argentina (CONICET) and the University of Buenos Aires, where she leads the Responsible Use of Data Co-Laboratory. She has experience working remotely from Buenos Aires since 2006. She has been a user of remote graduate education since then. Her first experience teaching at the undergrad and grad levels in 2013 was also remote. With these precedents, when she started teaching in person, no wonder she included technology to her classes to enhance her students’ experience.
 
 Since 2017 she has held leadership positions at or co-created local, regional, and international open science-related collective projects (e.g., R-Ladies Global, LatinR, useR!, Open Life Science, Code for Science & Society). Since 2004, Laura has been a consultant for several projects.
 
-Laura was also a The Carpentries-certified instructor and instructor trainer and has experience developing massive online courses for a US-based platform (whose name we omit due to company's ethical issues). In March 2020, Laura co-founded MetaDocencia.
-
+Laura was also a The Carpentries-certified instructor and instructor trainer and has experience developing massive online courses for a US-based platform (whose name we omit due to the company’s ethical issues). In March 2020, Laura co-founded MetaDocencia.
