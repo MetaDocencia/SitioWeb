@@ -28,6 +28,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/lauradascenzi/
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/lauradaiana
 superuser: false
 user_groups:
 -  Integrantes
