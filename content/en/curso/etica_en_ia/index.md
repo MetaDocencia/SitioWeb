@@ -3,7 +3,7 @@ date: "2023-02-09"
 draft: false
 image:
   caption: 
-  alt_text: 
+  alt_text: "Image of three persons trying to fit giant puzzle pieces with an exclamation and question marks on top"
 linktitle: Social Impacts of Artificial Intelligence
 summary: In-person practical at Khipu 2023 
 title: Social Impacts of Artificial Intelligence
