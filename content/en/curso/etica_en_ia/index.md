@@ -25,6 +25,13 @@ tags:
 
 In this practical you will learn to use different tools to assess how stereotypes can result in discriminatory behavior in language technologies and reflect on their social impacts. You will explore biases in large language models and word embeddings. Working in groups, you will find strengths and limitations in the representations of stereotypes and the different approaches to model bias. This is an introductory course and no previous natural language processing (NLP) knowledge is required.
 
+After this practical you will be able to: 
+* Explain the value of an ethical approximation to Data Science problems
+* Link machine learning technial knowledge to the social impacts of this technology
+* Learn and use concrete tools to identify biases in large language models
+* Have access to further references about these topics
+* Access resources to continue learning about these topics and connect with a diverse group of colleagues also interested in these topics throughout Latin America
+
 ### Practical's intended public
 
 **There are no specific requirements for this practical, you will experience it best if you bring a laptop.**
@@ -49,6 +56,8 @@ Since we only have 2 hours, a lot of things will be out of reach of this practic
 * Analysis of non-open source LLMs such as ChatGPT
 * Automatic techniques for bias mitigation
 * Benchmark comparisons of metrics for bias analysis
+* Addressing questions such as: Are these technologies inevitable? Do they need to evolve faster than their regulation? Do these technologies bring actual progress to humanity? Do they cause harm? Who does benefit from advancing these technologies?
+* How to bring domain experts into the core of the AI development and decision-making
 
 ### How to participate 
 
