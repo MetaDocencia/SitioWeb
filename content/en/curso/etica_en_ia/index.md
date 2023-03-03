@@ -82,9 +82,10 @@ This is a 2-hour workshop with one interval (ideally away from your screen) of a
 |19:20 - 19:25| How to continue this type of learning on your own |
 |19:25 - 19:30| How can we improve this workshop? |
 
-### Course materials
+### Practical materials
 
-[Course materials will be shared here soon]()
+* [Slides](http://tiny.cc/KhipuSocialImpactsAI)
+* [Colab](http://tiny.cc/colabKhipuSocialImpactsAI)
 
 ### Do you want to re-use any of our contents? Please, be our guest!
 
