@@ -19,7 +19,7 @@ tags:
 
 ### Cómo participar 
 Próximos cursos:
-- **Miércoles 22 de marzo de 17 a 20 (UTC-3)** > Inscríbete a través del [Formulario de registro]()
+- **Miércoles 22 de marzo de 2023 de 17 a 20 (UTC-3)** > Inscríbete a través del [Formulario de registro]()
 
 *Todos los datos se manejarán en forma confidencial, sólo podrán ser publicados de forma agregada y anonimizada en reportes sobre el alcance de MetaDocencia.*
 
