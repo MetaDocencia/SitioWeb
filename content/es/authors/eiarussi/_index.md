@@ -31,7 +31,7 @@ social:
   link: https://twitter.com/emmaiarussi
 superuser: false
 user_groups:
-- Colaboradores externos
+- "Integrantes"
 ---
 
 Emmanuel es Investigador Adjunto de CONICET en el área de Computación Gráfica y miembro del Laboratorio de Inteligencia Artificial de la Universidad Torcuato Di Tella (UTDT, Buenos Aires, Argentina). 
