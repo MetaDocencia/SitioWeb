@@ -26,7 +26,7 @@ social:
   link: 'contact'
 superuser: false
 user_groups:
--  Integrantes
+- Contributors
 ---
 
 
