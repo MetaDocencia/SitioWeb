@@ -14,9 +14,10 @@ Contamos con un equipo con experiencia extensa en distintas disciplinas y ámbit
 
 Lee más sobre nuestra experiencia en [nuestro prospecto](https://zenodo.org/record/7093618) y contáctanos en [info@metadocencia.org](info@metadocencia.org).
 
-## Confían en MetaDocencia
+</br> </br>
 
-</br> </br> 
+## Confían en MetaDocencia
+ 
 <style>
   .row-sponsor {
     text-align:center;
@@ -24,7 +25,6 @@ Lee más sobre nuestra experiencia en [nuestro prospecto](https://zenodo.org/rec
   }
 </style>
 
-</br></br>
 <div class="row-sponsor">
 <div class="row">
 
