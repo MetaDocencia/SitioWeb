@@ -36,7 +36,7 @@ Lee más sobre nuestra experiencia en [nuestro prospecto](https://zenodo.org/rec
 
   <div class="col-12 col-sm-auto">
      <figure>
-    <a href="https://codeforscience.org/" target="_blank" rel="noopener"><img src="/img/cs&s_logo_2022.png" alt="Code for Science & Society"></a>
+    <a href="https://codeforscience.org/" target="_blank" rel="noopener"><img src="/img/CSS_logo_2023.png" alt="Code for Science & Society"></a>
     </figure>
 
   </div>
