@@ -25,7 +25,7 @@ En 2019, gané la beca para asistir a eventos de la Open Bioinformatics Foundati
 Poder reutilizar el [premio de la beca OBF](https://www.open-bio.org/2020/03/13/obf-travel-fellowships-update-in-light-of-the-coronavirus-covid-19-%ef%bb%bf/) para organizar eventos online fue una de las cosas buenas que me pasó bastante temprano en 2020, porque facilitó enormemente el avance de MetaDocencia. Pero eso es adelantarme a los hechos, porque hasta acá, MetaDocencia, aún no era.
 El 16 de marzo de 2020, todas las clases presenciales fueron canceladas en Argentina. En ese momento nadie sabía cuándo se reanudarían. Esa tarde ya estaba claro que debíamos quedarnos en casa por un tiempo (de ahí mi avatar de WhatsApp "Yo me quedo en casa"). Esa tarde envié dos mensajes de audio a un grupo de amigas:
 
-![Captura de pantalla de un chat de whatsapp que muestra los dos mensajes de audio con la idea que generó MetaDocencia](https://github.com/MetaDocencia/SitioWeb/blob/master/static/img/wp-origen.png)
+![Captura de pantalla de un chat de whatsapp que muestra los dos mensajes de audio con la idea que generó MetaDocencia](https://www.metadocencia.org/img/wp-origen.png)
 
 *Los dos mensajes de audio con la idea que generó MetaDocencia*
 
@@ -41,7 +41,7 @@ Las respuestas de este grupo, con profundos vínculos con la comunidad de invest
 ### LA oportunidad
 Se preguntarán por qué en marzo de 2020 pensé que teníamos "LA" oportunidad. A pesar de que existian comunidades educativas abiertas en todo el mundo, la mayoría de ellas hablaban en inglés. El idioma es una enorme barrera en América Latina. Las traducciones de los contenidos son necesarias pero no suficientes para una enseñanza culturalmente responsable. Además, encontrarte con tus estudiantes donde están, en América Latina, en 2020, significaba no hacer suposiciones sobre el conocimiento de tecnologías como Zoom, Slack o Google docs y ser conscientes de las desigualdades de acceso a Internet y accesibilidad.
 
-![Captura de pantalla de presentación en la que se muestra el interés de docentes hispanohablantes por los contenidos de MetaDocencia en 2020](https://github.com/MetaDocencia/SitioWeb/blob/master/static/img/alcance-2020.png) 
+![Captura de pantalla de presentación en la que se muestra el interés de docentes hispanohablantes por los contenidos de MetaDocencia en 2020](https://www.metadocencia.org/img/alcance-2020.png) 
 *Interés de docentes hispanohablantes por los contenidos de MetaDocencia en 2020*
 
 Se necesita mucho trabajo de nivelación del terreno antes de que sea posible una integración internacional real. Herramientas como las aulas activas con un mínimo de tecnología, la instrucción entre pares o la toma de notas compartida están lejos de ser un estándar en las aulas y eventos, incluso entre las personas más expertas en tecnología de nuestra región.
