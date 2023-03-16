@@ -23,7 +23,7 @@ En 2019, gané la beca para asistir a eventos de la Open Bioinformatics Foundati
 Poder reutilizar el [premio de la beca OBF](https://www.open-bio.org/2020/03/13/obf-travel-fellowships-update-in-light-of-the-coronavirus-covid-19-%ef%bb%bf/) para organizar eventos online fue una de las cosas buenas que me pasó bastante temprano en 2020, porque facilitó enormemente el avance de MetaDocencia. Pero eso es adelantarme a los hechos, porque hasta acá, MetaDocencia, aún no era.
 El 16 de marzo de 2020, todas las clases presenciales fueron canceladas en Argentina. En ese momento nadie sabía cuándo se reanudarían. Esa tarde ya estaba claro que debíamos quedarnos en casa por un tiempo (de ahí mi avatar de WhatsApp "Yo me quedo en casa"). Esa tarde envié dos mensajes de audio a un grupo de amigas:
 
-![Captura de pantalla de un chat de whatsapp que muestra los dos mensajes de audio con la idea que generó MetaDocencia](https://www.metadocencia.org/img/wp-origen.png) 
+![Captura de pantalla de un chat de whatsapp que muestra los dos mensajes de audio con la idea que generó MetaDocencia](https://github.com/MetaDocencia/SitioWeb/blob/master/static/img/wp-origen.png) 
 *Los dos mensajes de audio con la idea que generó MetaDocencia*
 
 Esos audios decían: 
