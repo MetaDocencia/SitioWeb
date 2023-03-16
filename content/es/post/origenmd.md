@@ -8,7 +8,6 @@ authors:
   - lacion
 
 type: post
-weight: 1
 tags: 
   - MetaDocencia
 ---
