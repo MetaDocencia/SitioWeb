@@ -2,9 +2,8 @@
 date: "2022-03-16"
 draft: true
 type: page
-linktitle: ¿Cómo nació MetaDocencia?
+title: 
 summary: Laura Ación cuenta nuestra historia fundacional: cómo se encendió la chispa que dio origen a MetaDocencia.
-title: ¿Cómo nació MetaDocencia?
 authors: 
     - lacion
 type: post
