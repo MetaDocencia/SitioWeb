@@ -13,7 +13,9 @@ tags:
   - MetaDocencia
 ---
 
-[Laura Ación](https://www.metadocencia.org/authors/lacion/) compartió los hitos que dieron origen a MetaDocencia en el artículo “MetaDocencia: Enseñar a enseñar (Bioinformática y más) en línea en español”, publicado el 13 de enero de 2021 en [este link (en inglés)](https://www.open-bio.org/2021/01/13/metadocencia-2020-laura-acion/). Cumpliendo el tercer año de MetaDocencia, nos pareció un buen momento para traducir y adaptar aquella publicación y darle espacio en esta web. Lo que sigue es Laura contándoles nuestra historia fundacional 🍎.
+[Laura Ación](https://www.metadocencia.org/authors/lacion/) compartió los hitos que dieron origen a MetaDocencia en el artículo [MetaDocencia: Enseñar a enseñar (Bioinformática y más) en línea en español (en inglés)](https://www.open-bio.org/2021/01/13/metadocencia-2020-laura-acion/), publicado el 13 de enero de 2021.
+
+Cumpliendo el tercer año de MetaDocencia, nos pareció un buen momento para traducir y adaptar aquella publicación y darle espacio en esta web. Lo que sigue es Laura contándoles nuestra historia fundacional 🍎.
 
 
 ### Lo que tenía que pasar en 2020
