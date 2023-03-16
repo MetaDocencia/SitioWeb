@@ -15,7 +15,7 @@ tags:
 
 MetaDocencia cumple 3 años de trabajo construyendo capacidades científicas y técnicas en forma responsable y con mirada local.
 
-En su origen, era impensable todo este crecimiento y consolidación: [¡lee la historia de cómo fue la primera chispa con la que empezamos a andar!](https://www.metadocencia.org/post/origenmd)
+En su origen, era impensable todo este crecimiento y consolidación: [¡lee la historia de cómo fue la primera chispa con la que empezamos a andar!](https://www.metadocencia.org/post/origenmd/)
 
 Con este video le deseamos ¡#FelizCumpleMD a toda su comunidad!
 {{< youtube S4AMKLbeBz0 >}}
