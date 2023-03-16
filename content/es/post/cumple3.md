@@ -1,6 +1,6 @@
 ---
 date: "2022-03-16"
-draft: false
+draft: true
 type: page
 linktitle: ¡Feliz cumple Metadocencia!
 summary: MetaDocencia cumple 3 años de trabajo construyendo capacidades científicas y técnicas en forma responsable y con mirada local.
