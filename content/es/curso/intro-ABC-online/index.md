@@ -70,7 +70,7 @@ El taller tiene una duración de 3 horas con intervalos de aproximadamente 5 min
 
 ### Cronograma 
 
-Este cronograma es un ejemplo que asume que el comienzo del curso es las 9 am, pero esto variará según la franja horaria que mencionaremos en el mensaje de invitación.
+Este cronograma es un ejemplo, pero esto variará según la franja horaria que mencionaremos en el mensaje de invitación.
 
 |  Horario  | Actividad  |
 | ------:|:----------- |
