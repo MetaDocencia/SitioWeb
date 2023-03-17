@@ -75,22 +75,22 @@ Este cronograma es un ejemplo que asume que el comienzo del curso es las 9 am, p
 |  Horario  | Actividad  |
 | ------:|:----------- |
 | <img width="150"/> 8:50 - 9:00 | Tiempo previo para conectarse y asegurarse que anda bien tu conexión de audio y video (si no tienes cámara no importa, si la tienes, ayuda) |
-|9:00 - 9:05 | Comienzo con reglas básicas para bajar la frustración en una teleconferencia |
-|9:05 - 9:15 | Nos presentamos |
-|9:15 - 9:20 | Ejercicio: piensa y comparte una persona tipo que será parte de tu audiencia |
-|9:20 - 9:30 | Mapas conceptuales |
-|9:35 - 9:50 | Ejercicio: haz un mapa conceptual |
-|9:50 - 9:55 | Pausa lejos de la pantalla |
-|9:55 - 10:15 | Consejos concretos para todo tipo de clases |
-|10:15 - 10:30| Ejercicio en grupos: tu consejo favorito |
-|10:30 - 10:50| Consejos concretos para clases remotas |
-|10:50 - 10:55| Pausa lejos de la pantalla |
-|10:55 - 11:05| Más consejos para clases remotas |
-|11:05 - 11:15| Ejercicio en grupos: qué consejos de los anteriores usamos en este taller |
-|11:15 - 11:40| Cómo seguir en conexión con MetaDocencia con un paseo demostrativo por Slack |
-|11:40 - 11:45| ¿Cómo hacer buenas devoluciones? |
-|11:45 - 11:50| Cuéntanos qué te pareció el taller |
-|11:50 - 12:00| Fuentes adicionales y cierre |
+|5 mins | Comienzo con reglas básicas para bajar la frustración en una teleconferencia |
+|10 mins | Nos presentamos |
+|5 mins | Ejercicio: piensa y comparte una persona tipo que será parte de tu audiencia |
+|10 mins | Mapas conceptuales |
+|15 mins | Ejercicio: haz un mapa conceptual |
+|5 mins| Pausa lejos de la pantalla |
+|10 mins | Consejos concretos para todo tipo de clases |
+|15 mins| Ejercicio en grupos: tu consejo favorito |
+|20 mins| Consejos concretos para clases remotas |
+|5 mins| Pausa lejos de la pantalla |
+|10 mins| Más consejos para clases remotas |
+|10 mins| Ejercicio en grupos: qué consejos de los anteriores usamos en este taller |
+|25 mins| Cómo seguir en conexión con MetaDocencia con un paseo demostrativo por Slack |
+|5 mins| ¿Cómo hacer buenas devoluciones? |
+|5 mins| Cuéntanos qué te pareció el taller |
+|10 mins| Fuentes adicionales y cierre |
 
 ### Materiales
 Se disponibilizan una vez finalizada cada edición del curso.
