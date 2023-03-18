@@ -16,7 +16,7 @@ Read more about our experience in [our prospectus](https://zenodo.org/record/709
 
 </br>
 
-## Trust MetaDocencia
+## Clients Who Trust Our Services
  
 <style>
   .row-sponsor {
@@ -30,13 +30,13 @@ Read more about our experience in [our prospectus](https://zenodo.org/record/709
 
   <div class="col-12 col-sm-auto">
      <figure>
-    <a href="https://chanzuckerberg.com/" target="_blank" rel="noopener"><img src="/img/czi_logo.jpg" alt="Chan Zuckerberg Initiative"></a>
+    <a href="https://chanzuckerberg.com/" target="_blank" rel="noopener"><img src="/img/czi_logo.jpg" alt="Chan Zuckerberg Initiative" height="200"></a>
     </figure>
   </div>
 
   <div class="col-12 col-sm-auto">
      <figure>
-    <a href="https://codeforscience.org/" target="_blank" rel="noopener"><img src="/img/CSS_logo_2023.png" alt="Code for Science & Society"></a>
+    <a href="https://codeforscience.org/" target="_blank" rel="noopener"><img src="/img/CSS_logo_2023.png" alt="Code for Science & Society" height="200"></a>
     </figure>
 
   </div>
