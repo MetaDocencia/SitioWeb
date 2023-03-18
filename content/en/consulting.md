@@ -42,4 +42,3 @@ Read more about our experience in [our prospectus](https://zenodo.org/record/709
   </div>
   
 </div></div>
-Footer
