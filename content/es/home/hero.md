@@ -7,7 +7,7 @@ weight = 5  # Order that this section will appear.
 
 # title = "Co-creando y enseñando ciencia abierta"
 
-title = "Reporte 2022. Un año de cambios y crecimiento."
+title = "Súmate a nuestras propuestas de formación gratuitas y online."
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "MD_original.png"
