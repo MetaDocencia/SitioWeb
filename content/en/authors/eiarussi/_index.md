@@ -31,7 +31,7 @@ social:
   link: https://twitter.com/emmaiarussi
 superuser: false
 user_groups:
-- "Integrantes"
+- Contributors
 ---
 
 Emmanuel is an Assistant Researcher at the National Research Council in Argentina (CONICET) in the area of Computer Graphics and a member of the Artificial Intelligence Laboratory at Torcuato Di Tella University (UTDT, Buenos Aires, Argentina). 
