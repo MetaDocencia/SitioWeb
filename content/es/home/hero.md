@@ -44,9 +44,9 @@ hero_media = "MD_original.png"
  icon_pack = "fab"
  icon = "Súmate a nuestras propuestas de formación gratuitas y online"
 
-# [cta_alt] 
-# url = "https://www.metadocencia.org/consultoria/" 
-# label = "Consultoría"
+[cta_alt] 
+url = "https://www.metadocencia.org/consultoria/" 
+label = "Consultoría"
 
 
 # Note. An optional note to show underneath the links.
