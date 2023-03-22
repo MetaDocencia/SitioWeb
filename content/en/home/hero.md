@@ -7,7 +7,7 @@ weight = 10  # Order that this section will appear.
 
 # title = "Co-creating and Teaching Open Science"
 
-title = "2022 Report. A Year of Changes and Growth."
+title = "Join our 2023 training proposals!"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "MD_original.png"
@@ -40,14 +40,14 @@ hero_media = "MD_original.png"
 #   Remove a link/note by deleting a cta/note block.
 
 [cta]
- url = "https://www.metadocencia.org/en/post/report-2022/"
- label = "2022 Report"
+ url = "https://www.metadocencia.org/en/cursos/"
+ label = "2023 Training"
  icon_pack = "fab"
  icon = "Read more"
 
-# [cta_alt] 
-# url = "/events/" 
-# label = "About the Events"
+[cta_alt] 
+url = "https://www.metadocencia.org/en/consulting/" 
+label = "Consulting"
 
 
 # Note. An optional note to show underneath the links.
@@ -56,4 +56,4 @@ hero_media = "MD_original.png"
 +++
 
 ## 
-In this report we share our year of consolidation and learning, along with resources for the entire community.
+Our remote and free courses are intended for Spanish-speaking community. 
