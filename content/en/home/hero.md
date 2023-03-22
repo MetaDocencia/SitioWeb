@@ -41,7 +41,7 @@ hero_media = "MD_original.png"
 
 [cta]
  url = "https://www.metadocencia.org/en/cursos/"
- label = "2023 Training"
+ label = "2023 Workshops"
  icon_pack = "fab"
  icon = "Read more"
 
