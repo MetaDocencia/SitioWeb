@@ -54,6 +54,6 @@ label = "Consultoría"
 #   label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-No hay requisitos previos para sumarse y son capacitaciones gratuitas, por lo que invitamos a compartir entre personas que puedan tener interés en participar:
+No hay requisitos previos y son capacitaciones gratuitas, por lo que invitamos a compartir entre personas que puedan tener interés en participar:
 
 
