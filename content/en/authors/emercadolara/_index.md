@@ -31,7 +31,7 @@ social:
   link: https://twitter.com/eunizeh
 superuser: false
 user_groups:
-- "Integrantes"
+- Contributors
 ---
 
 Eunice is part of the Civic Science Fellows Network. She has large experience in science and technology policymaking. She has worked with government agencies such as Innovation Science and Economic Development Canada and the Quebec Ministry of Science and Innovation to develop to implement open innovation policies inclusive by design. 
