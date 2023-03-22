@@ -39,14 +39,14 @@ hero_media = "MD_original.png"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
  [cta]
- url = "https://www.metadocencia.org/post/reporte_2022/"
- label = "Reporte 2022"
+ url = "https://www.metadocencia.org/cursos/"
+ label = "Talleres 2023"
  icon_pack = "fab"
- icon = "Ver Reporte 2022"
+ icon = "Súmate a nuestras propuestas de formación gratuitas y online"
 
 # [cta_alt] 
-# url = "/eventos/" 
-# label = "Ver eventos"
+# url = "https://www.metadocencia.org/consultoria/" 
+# label = "Consultoría"
 
 
 # Note. An optional note to show underneath the links.
@@ -54,6 +54,6 @@ hero_media = "MD_original.png"
 #   label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-En este reporte compartimos nuestro año de consolidación y aprendizajes, junto a recursos accesibles para toda la comunidad.
+No hay requisitos previos para sumarse y son capacitaciones gratuitas, por lo que invitamos a compartir entre personas a las que les puede interesar.
 
 
