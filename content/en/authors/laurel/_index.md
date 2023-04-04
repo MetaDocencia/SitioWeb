@@ -20,7 +20,7 @@ name: Laura Ascenzi
 weight: 3
 organizations:
 - name: Universidad Nacional de Córdoba
-role: Communication and Communities Coordinator
+role: Communication and Communities Coordinator, Advisory Committee
 social:
 - icon: envelope
   icon_pack: fas
