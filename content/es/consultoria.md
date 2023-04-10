@@ -31,7 +31,7 @@ Lee más sobre nuestra experiencia en [nuestro prospecto](https://zenodo.org/rec
 
   <div class="col-12 col-sm-auto">
      <figure>
-    <a href="https://chanzuckerberg.com/" target="_blank" rel="noopener"><img src="/img/czi_logo.jpg" alt="Chan Zuckerberg Initiative" width="300"></a>
+    <a href="https://chanzuckerberg.com/" target="_blank" rel="noopener"><img src="/img/czi_logo.jpg" alt="Chan Zuckerberg Initiative" width="250"></a>
     </figure>
   </div>
 
