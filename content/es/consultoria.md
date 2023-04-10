@@ -11,6 +11,7 @@ Contamos con un equipo con experiencia extensa en distintas disciplinas y ámbit
 * Bioinformática
 * Construcción de comunidades de práctica diversas e inclusivas
 * Gobernanza y sostenibilidad de proyectos de ciencia abierta
+* Organización de focus groups
 
 Lee más sobre nuestra experiencia en [nuestro prospecto](https://zenodo.org/record/7093618) y contáctanos en [info@metadocencia.org](info@metadocencia.org).
 
@@ -36,9 +37,14 @@ Lee más sobre nuestra experiencia en [nuestro prospecto](https://zenodo.org/rec
 
   <div class="col-12 col-sm-auto">
      <figure>
-    <a href="https://codeforscience.org/" target="_blank" rel="noopener"><img src="/img/CSS_logo_2023.png" alt="Code for Science & Society" width="300"></a>
+    <a href="https://codeforscience.org/" target="_blank" rel="noopener"><img src="/img/CSS_logo_2023_horizontal.png" alt="Code for Science & Society" width="300"></a>
     </figure>
+  </div>
 
+  <div class="col-12 col-sm-auto">
+     <figure>
+    <a href="https://investinopen.org/" target="_blank" rel="noopener"><img src="/img/IOI_logo_2023.png" alt="Invest in Open Infrastructure" width="300"></a>
+    </figure>
   </div>
   
 </div></div>
