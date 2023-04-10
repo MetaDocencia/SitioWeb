@@ -31,19 +31,19 @@ Read more about our experience in [our prospectus](https://zenodo.org/record/709
 
   <div class="col-12 col-sm-auto">
      <figure>
-    <a href="https://chanzuckerberg.com/" target="_blank" rel="noopener"><img src="/img/czi_logo.jpg" alt="Chan Zuckerberg Initiative" height="150"></a>
+    <a href="https://chanzuckerberg.com/" target="_blank" rel="noopener"><img src="/img/czi_logo.jpg" alt="Chan Zuckerberg Initiative" width="250"></a>
     </figure>
   </div>
 
   <div class="col-12 col-sm-auto">
      <figure>
-    <a href="https://codeforscience.org/" target="_blank" rel="noopener"><img src="/img/CSS_logo_2023_horizontal.png" alt="Code for Science & Society" height="150"></a>
+    <a href="https://codeforscience.org/" target="_blank" rel="noopener"><img src="/img/CSS_logo_2023_horizontal.png" alt="Code for Science & Society" width="300"></a>
     </figure>
   </div>
 
   <div class="col-12 col-sm-auto">
      <figure>
-    <a href="https://investinopen.org/" target="_blank" rel="noopener"><img src="/img/IOI_logo_2023.png" alt="Invest in Open Infrastructure" height="150"></a>
+    <a href="https://investinopen.org/" target="_blank" rel="noopener"><img src="/img/IOI_logo_2023.png" alt="Invest in Open Infrastructure" width="300"></a>
     </figure>
   </div>
   
