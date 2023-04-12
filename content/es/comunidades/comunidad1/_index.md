@@ -5,7 +5,7 @@ bio: ""
 education:
   courses:
   - course: lorem ipsum
-    institution:lorem ipsum
+    institution: lorem ipsum
     year: lorem ipsum
 email: "mail@mail.com"
 interests:
