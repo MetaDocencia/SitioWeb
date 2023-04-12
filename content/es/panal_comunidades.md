@@ -1,47 +1,28 @@
 +++
-# A Projects section created with the Portfolio widget.
-widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
+# A "Meet the Team" section created with the People widget.
+# This section displays people from `content/authors/` which belong to the `user_groups` below.
+
+widget = "people"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 65  # Order that this section will appear.
+weight = 01 # Order that this section will appear.
 
-title = "Panal de Comunidades"
+title = ""
 subtitle = ""
 
 [content]
-  # Page type to display. E.g. project.
-  page_type = "cursos"
-  
-  # Filter toolbar (optional).
-  # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
-  # To show all items, set `tag` to "*".
-  # To filter by a specific tag, set `tag` to an existing tag name.
-  # To remove toolbar, delete/comment all instances of `[[content.filter_button]]` below.
-  
-  # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
-  filter_default = 0
-   
-  [[content.filter_button]]
-    name = "Comunidades"
-    tag = "Comunidades"
-    
-  #[[content.filter_button]]
-  #  name = "Ediciones anteriores"
-  #  tag = "Ediciones anteriores"
+  # Choose which groups/teams of users to display.
+  #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
+  user_groups = ["Integrantes"]
 
+ 
 
 [design]
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  # Show user's social networking links? (true/false)
+  show_social = true
 
-  # Toggle between the various page layout types.
-  #   1 = List
-  #   3 = Card
-  #   5 = Showcase
-  view = 3
-
-  # For Showcase view, flip alternate rows?
-  flip_alt_rows = true
+  # Show user's interests? (true/false)
+  show_interests = false
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -70,10 +51,3 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
-
-Nuestra propuesta –remota y totalmente gratuita– se desarrolla a través de la plataforma Zoom. Es útil para todo tipo de intercambios que facilitan la formación e intercambio de conocimiento entre quienes asistan a nuestros talleres, charlas y seminarios, entre varios de los formatos que ofrecemos.
-
-Para participar, completa el formulario de preinscripción dentro de cada propuesta. Una vez que realices la preinscripción, recibirás un email con todas las indicaciones para que puedas sumarte al curso online.
-
-Si tienes inquietudes adicionales sobre capacitación, escríbenos a info@metadocencia.org
