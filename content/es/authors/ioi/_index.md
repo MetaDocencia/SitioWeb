@@ -5,14 +5,14 @@ bio: ""
 email: "info@investinopen.org"
 name: IOI - Invest in Open Infrastructure
 weight: 1
-role: Comunidad
+role: 
 social:
 - icon: globe
   icon_pack: fas
   link: https://investinopen.org/
 superuser: false
 user_groups:
--  Comunidades
+-  Comunidades amigas
 ---
 
 ### Conócela en este video
