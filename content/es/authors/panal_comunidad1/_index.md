@@ -3,7 +3,7 @@ authors:
 - IOI
 bio: ""
 email: "info@investinopen.org"
-name: IOI Invest in Open Infrastructure
+name: IOI - Invest in Open Infrastructure
 weight: 1
 role: Comunidad
 social:
