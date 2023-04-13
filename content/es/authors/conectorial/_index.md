@@ -5,14 +5,14 @@ bio: ""
 email: "ceosciencelab@gmail.com"
 name: Conectorial
 weight: 1
-role: Comunidad
+role: 
 social:
 - icon: globe
   icon_pack: fas
   link: https://conectorial.netlify.app/
 superuser: false
 user_groups:
--  Comunidades
+-  Comunidades amigas
 ---
 
 ### Conócela en este video
