@@ -2,30 +2,16 @@
 authors:
 - Invest in Open Infrastructure iOi
 bio: ""
-education:
-  courses:
-  - course: lorem ipsum
-    institution: lorem ipsum
-    year: lorem ipsum
 email: "info@investinopen.org"
 interests:
 - 
-name: iOi
+name: Invest in Open Infrastructure iOi
 weight: 1
-role: lorem ipsum
+role: Comunidad
 social:
-- icon: envelope
+- icon: globe
   icon_pack: fas
-  link: 'contact'
-- icon: twitter
-  icon_pack: fab
-  link: 
-- icon: github
-  icon_pack: fab
-  link: 
-- icon: linkedin
-  icon_pack: fab
-  link: 
+  link: https://investinopen.org/
 superuser: false
 user_groups:
 -  Comunidades
