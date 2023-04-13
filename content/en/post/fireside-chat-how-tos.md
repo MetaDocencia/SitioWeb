@@ -44,7 +44,7 @@ In this post we focus on **short-, medium- and long-term actions** that funders,
 - One immediate action: we need to **engage with communities that have already thought about these issues**, that have ideas about how to map individual contributions within collective initiatives, and already have a gender agenda and training in cooperative work.
 - Universities promote individualistic narratives such as “protect your idea,” patent-based innovation policies, etcetera; but **science is a collaborative, collective activity, based on shared knowledge, as iterations of a continuum process.** In our regions, **we should encourage the adoption of open source technologies that enable more fluid and frictionless models of technology development and transfer, and look for legal mechanisms that better adapt to its collective nature.**
 
-## **Angela Okune, ([Code for Science and Society](https://www.codeforsociety.org/))
+## **Angela Okune, ([Code for Science and Society](https://www.codeforsociety.org/))**
 
 - **All science is (and should be) situated in its context, in its time, in its location, and in its world view. We need to pay attention to power relations in knowledge production.**
 - It is important to **recognize the contributions to science from regions of the world historically marginalized and to invest** in those usually excluded from participating in science, whether “open” or not.
@@ -55,12 +55,12 @@ In this post we focus on **short-, medium- and long-term actions** that funders,
 
 ### References and extra resources to learn more about these important topics:
 - **Ebook:** Contextualizing Openness: Situating Open Science. Editor(s) Leslie Chan, Angela Okune, Rebecca Hillyer, Denisse Albornoz, and Alejandro Posada. Publisher(s) University of Ottawa Press, IDRC. [PDF](https://idl-bnc-idrc.dspacedirect.org/bitstream/handle/10625/58201/contextualizing.pdf?sequence=2&isAllowed=y)
-- Other initiatives shared during the Fireside Chat: 
+- **Other initiatives shared during the Fireside Chat:** 
   - https://www.masakhane.io/ 
   - https://openhardware.science/ 
   - http://reclone.org/ 
   - https://www.cabana.online/index 
-- Watch the entire [Fireside Chat video](https://fast.wistia.com/embed/channel/g4orlbms5g?wchannelid=g4orlbms5g&wmediaid=v0er0tmgdi) for more insights and share it, to enrich the debate and continue working on thinking collective responses to asymmetries and inequities.
-- In a [previous blogpost](https://www.metadocencia.org/en/post/open-science-latin-america) Laura Ación, Gonzalo Peña-Castellanos, and Fernando Pérez explored barriers to participating in open source science in Latin America. 
+- **Watch the entire [Fireside Chat video](https://fast.wistia.com/embed/channel/g4orlbms5g?wchannelid=g4orlbms5g&wmediaid=v0er0tmgdi)** for more insights and share it, to enrich the debate and continue working on thinking collective responses to asymmetries and inequities.
+- **In a [previous blogpost](https://www.metadocencia.org/en/post/open-science-latin-america)** Laura Ación, Gonzalo Peña-Castellanos, and Fernando Pérez explored barriers to participating in open source science in Latin America. 
 
 Thank you for reading until here! Now we invite you to share and comment them to continue expanding the power of these ideas and all the urgent changes we all must work on as soon as possible.
