@@ -19,32 +19,32 @@ In the fireside chat "Building and supporting open source science communities in
 
 In this post we focus on **short-, medium- and long-term actions** that funders, researchers, and others can take to remove some of the barriers to participation, based on the contributions of the panelists and moderators of the Fireside Chat:
 
-## **Thomas Mboa ([Mboa Lab](https://website-mboalab.vercel.app/) + CEIMIA)**
+## **Thomas Mboa - [Mboa Lab](https://website-mboalab.vercel.app/) + CEIMIA**
 
 - We must address a **diversity of approaches to open science**. Resources to make materials accessible should be developed and distributed in languages different from English.
 - It's good to have collaboration and networks to create open science but we need to be sure that we can **rely on local infrastructure**. We need to take the right action to make open science projects effective in our diverse contexts and develop capacity building.
 - We also need to think about funding open science projects with communities like ours in Africa. **If you think about collaborating with us, you have to learn from us first and understand what we need to develop innovation and collaboration projects.**
  
-## **Anelda Van der Walt ([Talarify](https://www.talarify.co.za/) & Talarify Foundation)**
+## **Anelda Van der Walt - [Talarify](https://www.talarify.co.za/) & Talarify Foundation**
 
 - In the short-term, I hope that people from diverse contexts such as **Latin America, Africa and other emerging regions join the conversation.**
 - There is a lot that we as Africans can contribute - we don’t always have to be seen as people who have to be trained or funded. Persons working in the Global North **can find an opportunity to attend an African-led community event or conversation in your field of interest and don’t attend as speaker or expert, but as an observer/participant**. You might be surprised about what you will learn. If you can’t find an African-led event of interest, ask yourself why it doesn’t exist, and see if you can connect with Africans in your field and help them set up a meetup or event to bring the local community together.
 - The impact of predominantly having Open Science resources, training, and software documentation available in English is hugely underestimated. **Let's purposefully consider what we will do about the language issue**, starting with languages where larger communities could benefit and contribute. Fund projects to create localized training materials with examples and data sets that people from other contexts can relate to. Fund projects to translate their manuals, training materials, etcetera, into other languages.
 - Not only keeping open science to STEM researchers but also **really engaging with social sciences, humanities, linguistics**, to think about the things that we may not have the skills to do. 
 
-## **Selene Fernandez-Valverde ([CABANAnet](https://www.cabana.online/index))** 
+## **Selene Fernandez-Valverde - [CABANAnet](https://www.cabana.online/index)** 
 
 - Immediate actions: **While Latin Americans and Africans must keep and increase efforts to continue sharing knowledge generated in our regions with the rest of the world, the whole international community should also use and cite the high-quality resources generated in the Latin American and African regions.**
 - **Encourage current and former trainees** to share their knowledge in these regions through workshops and participate in translation efforts to make some of these resources more accessible to underrepresented communities. Find the key players that can build and maintain the community by doing the work; support them through resources and guidance. 
 - In the longer-term, it is mandatory to **fund training and open science projects in Latin America and Africa**, particularly when led by local leadership or jointly led with researchers/developers of other regions. Liaison with local and international government stakeholders to promote funding for open science endeavors in these regions (and globally). 
 - **Raise awareness** on the importance of having open access resources in these regions (e.g., epidemiological surveillance, capacity building, science diplomacy, etc).
 
-## **Fernán Federici (Pontificia Universidad Católica de Chile + [iBio Millenium Institute](https://www.ibio.cl/en/))**
+## **Fernán Federici - Pontificia Universidad Católica de Chile + [iBio Millenium Institute](https://www.ibio.cl/en/)**
 
 - One immediate action: we need to **engage with communities that have already thought about these issues**, that have ideas about how to map individual contributions within collective initiatives, and already have a gender agenda and training in cooperative work.
 - Universities promote individualistic narratives such as “protect your idea,” patent-based innovation policies, etcetera; but **science is a collaborative, collective activity, based on shared knowledge, as iterations of a continuum process.** In our regions, **we should encourage the adoption of open source technologies that enable more fluid and frictionless models of technology development and transfer, and look for legal mechanisms that better adapt to its collective nature.**
 
-## **Angela Okune ([Code for Science and Society](https://www.codeforsociety.org/))**
+## **Angela Okune - [Code for Science and Society](https://www.codeforsociety.org/)**
 
 - **All science is (and should be) situated in its context, in its time, in its location, and in its world view. We need to pay attention to power relations in knowledge production.**
 - It is important to **recognize the contributions to science from regions of the world historically marginalized and to invest** in those usually excluded from participating in science, whether “open” or not.
