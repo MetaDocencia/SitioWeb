@@ -5,14 +5,14 @@ bio: ""
 email: ""
 name: The Turing Way
 weight: 1
-role: Comunidad
+role: 
 social:
 - icon: globe
   icon_pack: fas
   link: https://the-turing-way.netlify.app/index.html
 superuser: false
 user_groups:
--  Comunidades
+-  Comunidades amigas
 ---
 
 ### Conócela en este video
