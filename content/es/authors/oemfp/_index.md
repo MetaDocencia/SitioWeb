@@ -5,14 +5,14 @@ bio: ""
 email: "eunice@orfg.org"
 name: Open & Equitable Model Funding Program
 weight: 1
-role: Comunidad
+role: 
 social:
 - icon: globe
   icon_pack: fas
   link: https://www.openandequitable.org/
 superuser: false
 user_groups:
--  Comunidades
+-  Comunidades amigas
 ---
 
 ### Conócela en este video
