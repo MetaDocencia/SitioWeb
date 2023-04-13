@@ -19,7 +19,7 @@ user_groups:
 
 {{< youtube J45QfeysOjE >}} 
 
-### Sobre la comunidad Conectorial
+### Sobre Conectorial
 
 **[Conectorial](https://conectorial.netlify.app/)** es una comunidad sin fines de lucro dirigida a editores de revistas científicas de acceso abierto y profesionales de investigación dedicada a desarrollar recursos y medios en fin de fomentar la producción científica y la promoción del crecimiento de revistas Open Access en latinoamerica.
 
