@@ -5,7 +5,7 @@ bio: ""
 email: ""
 name: LA-CoNGA physics
 weight: 1
-role: Comunidad
+role: 
 social:
 - icon: globe
   icon_pack: fas
@@ -15,7 +15,7 @@ social:
   link: https://twitter.com/lacongaphysics
 superuser: false
 user_groups:
--  Comunidades
+-  Comunidades amigas
 ---
 
 ### Conócela en este video
