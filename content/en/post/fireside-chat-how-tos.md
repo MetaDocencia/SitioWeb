@@ -2,7 +2,7 @@
 date: "2023-04-13"
 draft: false
 type: page
-title: "Some how-tos for building and supporting Open Source Science Communities in Africa and Latin America"
+title: Some how tos for building and supporting Open Source Science Communities in Africa and Latin America
 summary:In this post we focus on short-, medium- and long-term actions that funders, researchers, and others can take to remove some of the barriers to participation, based on the contributions of the panelists and moderators of the Fireside Chat developed at the CZI Open Science 2022 Annual Meeting.
 authors: 
 
