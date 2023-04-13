@@ -19,7 +19,7 @@ user_groups:
 
 {{< youtube 9PFDNXkiAgA >}} 
 
-### Sobre IOI
+### Sobre RLadies Buenos Aires
 
 **[RLadies Buenos Aires](https://rladiesba.netlify.app/)** es un capítulo local de RLadies global, una organización mundial que promueve la Diversidad de Género en la comunidad R.
 
