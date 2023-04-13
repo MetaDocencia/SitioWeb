@@ -1,9 +1,9 @@
 ---
 authors:
-- iOi
+- IOI
 bio: ""
 email: "info@investinopen.org"
-name: iOi Invest in Open Infrastructure
+name: IOI Invest in Open Infrastructure
 weight: 1
 role: Comunidad
 social:
@@ -17,9 +17,9 @@ user_groups:
 
 {{< youtube J45QfeysOjE >}} 
 
-Invest in Open Infrastructure (iOi) es una iniciativa dedicada a mejorar la financiación y la dotación de recursos para las tecnologías y sistemas abiertos que apoyan la investigación y la formación. Trabaja sobre los retos, la investigación y junto a responsables de la toma de decisiones para impulsar el cambio.
+Invest in Open Infrastructure (IOI) es una iniciativa dedicada a mejorar la financiación y la dotación de recursos para las tecnologías y sistemas abiertos que apoyan la investigación y la formación. Trabaja sobre los retos, la investigación y junto a responsables de la toma de decisiones para impulsar el cambio.
 
-Invest in Open Infrastructure (IOI) se fundó sobre dos premisas básicas:
+IOI se fundó sobre dos premisas básicas:
 
 - La infraestructura abierta y de propiedad comunitaria es necesaria para que prospere la investigación,
 - La forma en que se financia y dotan de recursos los proyectos abiertos es insuficiente y va en contra del objetivo de construir un ecosistema sano y colaborativo.
