@@ -15,7 +15,11 @@ user_groups:
 -  Comunidades
 ---
 
+### Conócela en este video
+
 {{< youtube J45QfeysOjE >}} 
+
+### Sobre IOI
 
 **[Invest in Open Infrastructure (IOI)](https://investinopen.org/)** es una iniciativa dedicada a mejorar la financiación y la dotación de recursos para las tecnologías y sistemas abiertos que apoyan la investigación y la formación. Trabaja sobre los retos, la investigación y junto a responsables de la toma de decisiones para impulsar el cambio.
 
