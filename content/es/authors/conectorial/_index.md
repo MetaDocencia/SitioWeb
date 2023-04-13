@@ -15,6 +15,8 @@ user_groups:
 -  Comunidades
 ---
 
+### Conócela en este video
+
 {{< youtube J45QfeysOjE >}} 
 
 ### Sobre la comunidad Conectorial
