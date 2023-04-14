@@ -65,7 +65,7 @@ In this post we focus on **short-, medium- and long-term actions** that funders,
 
 Thank you for reading until here! Now we invite you to share and comment them to continue expanding the power of these ideas and all these urgent changes we all must work on as soon as possible.
 
-### Authors: 
+# Authors: 
 - Anelda Van der Walt
 - Angela Okune
 - Emmy Tsang
