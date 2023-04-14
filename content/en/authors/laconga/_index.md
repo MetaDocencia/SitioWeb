@@ -24,5 +24,10 @@ user_groups:
 
 ### About LA-CoNGA physics
 
-**[LA-CoNGA physics](https://laconga.redclara.net/)** is an Erasmus + educational program funded by the European Union for the formation of a large Alliance in Advanced Physics. It aims to contribute to the modernization, accessibility, and internationalization of partner institutions and communities.
+**[LA-CoNGA physics](https://laconga.redclara.net/)** is an Erasmus + educational program funded by the European Union for the formation of a large Alliance in Advanced Physics. It aims to contribute to the modernization, accessibility, and internationalization of partner institutions and communities. 
+
+
+
+
+***
 

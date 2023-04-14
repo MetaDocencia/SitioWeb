@@ -25,4 +25,7 @@ user_groups:
 
 OLS Cohorts Participants join the training program with a project they are already working on or want to develop individually or as a team. Project ideas can range from solving technical issues to creating an open data project or report, developing an open source software project, writing an open publication, facilitating community/team culture movements, advancing open educational resources, or contributing to other existing projects or communities.
 
+
+
+
 ***
