@@ -15,12 +15,12 @@ user_groups:
 -  Fellow Communities
 ---
 
-### Conócela en este video
+### Learn more about MboaLab in this video
 
 {{< youtube  >}} 
 
-### Sobre MboaLab
+### About MboaLab
 
-**[MboaLab](https://mboalab.net/)** es un espacio abierto y colaborativo situado en Yaundé, Camerún. Es un laboratorio de innovación social, educación comunitaria, colaboración y mediación al servicio del bien común. Funciona como un Centro de investigación y aplicado para la Ciencia Abierta y la Ciencia Ciudadana y se inauguró oficialmente en diciembre de 2017, con el objetivo de catalizar el desarrollo local sostenible y mejorar las condiciones de vida de las personas a través de la ciencia abierta.
+**[MboaLab](https://mboalab.net/)** is an open and collaborative space located in Yaoundé, Cameroon. It is a laboratory for social innovation, community education, collaboration, and mediation in the service of the common good. It functions as a research and applied Center for Open and Citizen Science and was officially inaugurated in December 2017, aiming to catalyze sustainable local development and improve people's living conditions through open science.
 
-Su misión principal es hacer que la investigación y las herramientas biotecnológicas sean más accesibles para los laboratorios de Camerún y África. Existe una importante necesidad de que estas comunidades contribuyan a la investigación científica y a proyectos dirigidos a problemas sanitarios locales. Como resultado del crecimiento, el 27 de junio de 2022, se renombró como Mboalab Biotech.
+Its primary mission is to make biotechnology research and tools more accessible to laboratories in Cameroon and Africa. There is a significant need for these communities to contribute to scientific research and projects aimed at local health problems. As a result of growth, on June 27, 2022, it was renamed Mboalab Biotech.

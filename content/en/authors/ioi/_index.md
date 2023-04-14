@@ -15,14 +15,14 @@ user_groups:
 -  Fellow Communities
 ---
 
-### Conócela en este video
+### Learn more about IOI in this video
 
 {{< youtube J45QfeysOjE >}} 
 
-### Sobre IOI
+### About IOI
 
-**[Invest in Open Infrastructure (IOI)](https://investinopen.org/)** es una iniciativa dedicada a mejorar la financiación y la dotación de recursos para las tecnologías y sistemas abiertos que apoyan la investigación y la formación. Trabaja sobre los retos, la investigación y junto a responsables de la toma de decisiones para impulsar el cambio.
+**[Invest in Open Infrastructure (IOI)](https://investinopen.org/)** is an initiative dedicated to improving funding and resourcing for open technologies and systems that support research and training. It works on challenges, research, and with decision-makers to drive change.
 
-IOI se fundó sobre dos premisas básicas: la infraestructura abierta y de propiedad comunitaria es necesaria para que prospere la investigación; y la forma en que se financia y dotan de recursos los proyectos abiertos es insuficiente y va en contra del objetivo de construir un ecosistema sano y colaborativo.
+IOI was founded on two basic premises: open, and community-owned infrastructure as it is necessary for research to thrive; and the way in which open projects are funded and resourced is insufficient and works against the goal of building a healthy, collaborative ecosystem.
 
 

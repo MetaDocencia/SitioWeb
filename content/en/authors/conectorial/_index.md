@@ -15,12 +15,12 @@ user_groups:
 -  Fellow Communities
 ---
 
-### Conócela en este video
+### Learn more about Conectorial in this video
 
 {{< youtube R7RYHu6z1ok >}} 
 
-### Sobre Conectorial
+### About Conectorial
 
-**[Conectorial](https://conectorial.netlify.app/)** es una comunidad sin fines de lucro dirigida a editores de revistas científicas de acceso abierto y profesionales de investigación dedicada a desarrollar recursos y medios en fin de fomentar la producción científica y la promoción del crecimiento de revistas Open Access en Latinoamérica.
+**[Conectorial](https://conectorial.netlify.app/)** is a non-profit community of open access journal publishers and research professionals dedicated to developing resources and means to foster scientific production and promote the growth of Open Access journals in Latin America.
 
-Brinda un espacio donde personas afines a la edición gestión y promoción de revistas científicas Open Access, además de investigación y publicación de artículos puedan encontrarse para un intercambio de conocimientos.
+It provides a space where people related to the edition, management, and promotion of scientific Open Access journals, as well as research and publication of articles can meet to exchange knowledge.

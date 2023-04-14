@@ -15,12 +15,10 @@ user_groups:
 -  Fellow Communities
 ---
 
-### Conócela en este video
+### Learn more about CZI  in this video
 
 {{< youtube SOSR7B1k_fM >}} 
 
-### Sobre CZI Open Science
+### About CZI Open Science
 
-**El programa de [Ciencia Abierta de la Chan Zuckerberg Initiative](https://chanzuckerberg.com/science/programs-resources/open-science/)** apoya el intercambio abierto universal e inmediato de todos los conocimientos, procesos y resultados científicos. Su objetivo para los próximos 10 años es apoyar a una comunidad científica diversa que trabaje en abierto para acelerar nuestra comprensión de la salud y las enfermedades humanas. Para ello, invierte en herramientas, plataformas y organizaciones que contribuyen a ampliar la participación y el acceso al proceso científico haciéndolo abierto y reproducible, y ayudando a los científicos a aprovechar el trabajo de los demás.
-
-
+**The [Chan Zuckerberg Initiative](https://chanzuckerberg.com/science/programs-resources/open-science/) program** supports the universal and immediate open exchange of all scientific knowledge, processes, and results. Its goal for the next 10 years is to support a diverse scientific community working openly to accelerate our understanding of human health and disease. To this end, it invests in tools, platforms, and organizations that help broaden participation and access to the scientific process by making it open and reproducible, and by helping scientists leverage the work of others.

@@ -18,12 +18,11 @@ user_groups:
 -  Fellow Communities
 ---
 
-### Conócela en este video
+### Learn more about LA-CoNGA physics in this video
 
 {{< youtube jQZ-NYbmFog >}} 
 
-### Sobre LA-CoNGA physics
+### About LA-CoNGA physics
 
-**[LA-CoNGA physics](https://laconga.redclara.net/)** es un programa educativo Erasmus + financiado por la unión europea para la formación de una gran Alianza en Física Avanzada. Su objetivo es contribuir a la modernización, accesibilidad e internacionalización de las instituciones y comunidades asociadas.
-
+**[LA-CoNGA physics](https://laconga.redclara.net/)** is an Erasmus + educational program funded by the European Union for the formation of a large Alliance in Advanced Physics. It aims to contribute to the modernization, accessibility, and internationalization of partner institutions and communities.
 

@@ -15,14 +15,14 @@ user_groups:
 -  Fellow Communities
 ---
 
-### Conócela en este video
+### Learn more about RLadies Buenos Aires in this video
 
 {{< youtube 9PFDNXkiAgA >}} 
 
-### Sobre RLadies Buenos Aires
+### About RLadies Buenos Aires
 
-**[RLadies Buenos Aires](https://rladiesba.netlify.app/)** es un capítulo local de RLadies global, una organización mundial que promueve la Diversidad de Género en la comunidad R.
+**[RLadies Buenos Aires](https://rladiesba.netlify.app/)** is a local chapter of RLadies global, a worldwide organization that promotes Gender Diversity in the R community.
 
-Su meta es crear una atmósfera amigable para personas interesadas en programar en R en Buenos Aires que se identifiquen con géneros menos representados en la comunidad de R (que incluye pero no se limita a mujeres cis/trans, hombres trans, personas no binarias, género fluído o agénero).
+Its goal is to create a friendly atmosphere for people interested in programming in R in Buenos Aires who identify with genders underrepresented in the R community (which includes but is not limited to cis/trans women, trans men, non-binary, gender fluid, or agender people).
 
-El objetivo es promover su uso, intercambiar conocimiento y crear una red de contactos a nivel local y global.
+The goal is to promote their use, exchange knowledge, and create a network of contacts locally and globally.
