@@ -17,7 +17,7 @@ user_groups:
 
 ### Learn more about IOI in this video
 
-{{< youtube J45QfeysOjE >}} 
+{{< youtube >}} 
 
 ### About IOI
 
