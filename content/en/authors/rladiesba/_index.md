@@ -15,9 +15,9 @@ user_groups:
 -  Fellow Communities
 ---
 
-### Learn more about RLadies Buenos Aires in this video
+### Learn more in this video
 
-{{< youtube 9PFDNXkiAgA >}} 
+{{< youtube  >}} 
 
 ### About RLadies Buenos Aires
 
