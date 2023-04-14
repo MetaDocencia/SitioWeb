@@ -12,7 +12,7 @@ social:
   link: https://the-turing-way.netlify.app/index.html
 superuser: false
 user_groups:
--  Comunidades amigas
+-  Fellow Communities
 ---
 
 ### Conócela en este video

@@ -12,7 +12,7 @@ social:
   link: https://www.talarify.co.za/
 superuser: false
 user_groups:
--  Comunidades amigas
+-  Fellow Communities
 ---
 
 ### Conócela en este video
