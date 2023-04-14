@@ -56,7 +56,7 @@ El taller tiene una duración de 2 jornadas de 8 horas con pausas cada 60 minuto
 
 ### Cronograma
 
-**Día 1**
+#### Día 1
 | Hora | Tema |
 | :---- | :---- |
 | 9:00 | Bienvenida (icebreaker) y presentaciones |
@@ -72,7 +72,7 @@ El taller tiene una duración de 2 jornadas de 8 horas con pausas cada 60 minuto
 | 16:00 | Principios de FAIR |
 | 16:30 | Preparación día 2 |
 
-**Día 2**
+#### Día 2
 | Hora | Tema |
 | :---- | :---- |
 | 9:00 | Introducción y recapitulación |
