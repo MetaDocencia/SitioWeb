@@ -65,4 +65,12 @@ In this post we focus on **short-, medium- and long-term actions** that funders,
 
 Thank you for reading until here! Now we invite you to share and comment them to continue expanding the power of these ideas and all these urgent changes we all must work on as soon as possible.
 
-#### Autores: Anelda Van der Walt, Angela Okune, Emmy Tsang, Fernán Federici Laura Ación, Laura Ascenzi, Selene Fernandez-Valverde, Thomas Mboa.
+### Authors: 
+- Anelda Van der Walt
+- Angela Okune
+- Emmy Tsang
+- Fernán Federici
+- Laura Ación
+- Laura Ascenzi
+- Selene Fernandez-Valverde
+- Thomas Mboa
