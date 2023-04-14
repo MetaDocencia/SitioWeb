@@ -66,7 +66,7 @@ En esta publicación nos centramos en las **acciones a corto, medio y largo plaz
 
 ¡Gracias por leer hasta aquí! Ahora te invitamos a compartir y comentar para seguir expandiendo el poder de estas ideas y la necesidad de estos cambios urgentes en los que debemos trabajar cuanto antes.
 
-# Authors: 
+# Autores: 
 - Anelda Van der Walt
 - Angela Okune
 - Emmy Tsang
