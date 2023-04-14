@@ -21,5 +21,10 @@ user_groups:
 
 ### About OEMFP
 
-The **[Open & Equitable Model Funding Program](https://www.openandequitable.org/)** works to make the process of obtaining funding and the results of research more transparent, equitable and inclusive.
+The **[Open & Equitable Model Funding Program](https://www.openandequitable.org/)** works to make the process of obtaining funding and the results of research more transparent, equitable and inclusive. 
+
+
+
+
+***
 

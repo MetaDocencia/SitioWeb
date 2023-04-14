@@ -25,4 +25,9 @@ user_groups:
 
 Its goal is to create a friendly atmosphere for people interested in programming in R in Buenos Aires who identify with genders underrepresented in the R community (which includes but is not limited to cis/trans women, trans men, non-binary, gender fluid, or agender people).
 
-The goal is to promote their use, exchange knowledge, and create a network of contacts locally and globally.
+The goal is to promote their use, exchange knowledge, and create a network of contacts locally and globally. 
+
+
+
+
+***
