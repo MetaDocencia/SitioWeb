@@ -5,14 +5,14 @@ bio: ""
 email: "contact@mboalab.africa"
 name: MboaLab
 weight: 1
-role: Comunidad
+role: 
 social:
 - icon: globe
   icon_pack: fas
   link: https://mboalab.net/
 superuser: false
 user_groups:
--  Comunidades
+-  Comunidades amigas
 ---
 
 ### Conócela en este video
