@@ -15,7 +15,7 @@ user_groups:
 -  Fellow Communities
 ---
 
-### Learn more about Conectorial in this video
+### Learn more in this video
 
 {{< youtube R7RYHu6z1ok >}} 
 
