@@ -15,7 +15,7 @@ user_groups:
 -  Fellow Communities
 ---
 
-### Learn more about OLS in this video
+### Learn more in this video
 
 {{< youtube  >}} 
 
