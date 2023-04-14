@@ -56,38 +56,38 @@ El taller tiene una duración de 2 jornadas de 8 horas con pausas cada 60 minuto
 
 ### Cronograma
 
-**Día 1**
-|Hora|Tema|
-|:----|:----|
-|9:00|Bienvenida (icebreaker) y presentaciones|
-|9:30|Introducción y personas típicas|
-|10:00|¿Cómo aprenden las personas? (teoría)|
-|10:30|Recreo|
-|11:00|¿Cómo aprenden las personas? (discusión)|
-|11:30|Modelos mentales|
-|12:30|Almuerzo|
-|13:30|Carga cognitiva y memoria|
-|14:30|Evaluación y feedback|
-|15:30|Recreo|
-|16:00|Principios de FAIR|
-|16:30|Preparación día 2|
+#### Día 1
+| Hora | Tema |
+| :---- | :---- |
+| 9:00 | Bienvenida (icebreaker) y presentaciones |
+| 9:30 | Introducción y personas típicas |
+| 10:00 | ¿Cómo aprenden las personas? (teoría) |
+| 10:30 | Recreo |
+| 11:00 | ¿Cómo aprenden las personas? (discusión) |
+| 11:30 | Modelos mentales |
+| 12:30 | Almuerzo |
+| 13:30 | Carga cognitiva y memoria |
+| 14:30 | Evaluación y feedback |
+| 15:30 | Recreo |
+| 16:00 | Principios de FAIR |
+| 16:30 | Preparación día 2 |
 
-**Día 2**
-|Hora|Tema|
-|:----|:----|
-|9:00|Introducción y recapitulación|
-|9:30|Definiendo tu audiencia y tus resultados esperados|
-|10:30|Recreo|
-|11:00|Simulación de entrenamiento 1 (en grupos)|
-|12:30|Almuerzo|
-|13:30|Enseñar en línea|
-|13:45|Programación en vivo|
-|14:00|Planificación de cursos|
-|14:30|Buen entrenamiento y mal entrenamiento|
-|14:45|Simulación de entrenamiento 2 (en grupos)|
-|15:45|Recreo|
-|16:00|Discusión sobre entrenamiento de prueba|
-|16:30|Conclusiones y explicación de proceso de checkout|
+#### Día 2
+| Hora | Tema |
+| :---- | :---- |
+| 9:00 | Introducción y recapitulación |
+| 9:30 | Definiendo tu audiencia y tus resultados esperados |
+| 10:30 | Recreo |
+| 11:00 | Simulación de entrenamiento 1 (en grupos) |
+| 12:30 | Almuerzo |
+| 13:30 | Enseñar en línea |
+| 13:45 | Programación en vivo |
+| 14:00 | Planificación de cursos |
+| 14:30 | Buen entrenamiento y mal entrenamiento |
+| 14:45 | Simulación de entrenamiento 2 (en grupos) |
+| 15:45 | Recreo |
+| 16:00 | Discusión sobre entrenamiento de prueba |
+| 16:30 | Conclusiones y explicación de proceso de checkout |
 
 
 ### Materiales
