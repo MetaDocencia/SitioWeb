@@ -54,8 +54,8 @@ En esta publicación nos centramos en las **acciones a corto, medio y largo plaz
 - A largo plazo, los científicos y los financiadores que se preocupan por el desarrollo social y económico necesitan nuevas formas de construir y distribuir el poder localmente de forma más descentralizada. **Necesitamos formas más creativas de organizar a las personas, crear y gestionar el capital y administrar los activos comunitarios**. 
 
 
-### References and extra resources to learn more about these important topics:
-- **Ebook:** Contextualizing Openness: Situating Open Science. Autores: Leslie Chan, Angela Okune, Rebecca Hillyer, Denisse Albornoz, and Alejandro Posada. Editorial:  University of Ottawa Press, IDRC. [PDF](https://idl-bnc-idrc.dspacedirect.org/bitstream/handle/10625/58201/contextualizing.pdf?sequence=2&isAllowed=y)
+### Referencias y recursos adicionales para aprender más sobre estos temas:
+- **Ebook:** Contextualizing Openness: Situating Open Science. Autores: Leslie Chan, Angela Okune, Rebecca Hillyer, Denisse Albornoz y Alejandro Posada. Editorial:  University of Ottawa Press, IDRC. [PDF](https://idl-bnc-idrc.dspacedirect.org/bitstream/handle/10625/58201/contextualizing.pdf?sequence=2&isAllowed=y)
 - **Otras iniciativas compartidas durante el panel:** 
   - https://www.masakhane.io/ 
   - https://openhardware.science/ 
