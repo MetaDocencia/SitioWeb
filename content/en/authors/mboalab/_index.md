@@ -15,7 +15,7 @@ user_groups:
 -  Fellow Communities
 ---
 
-### Learn more about MboaLab in this video
+### Learn more in this video
 
 {{< youtube  >}} 
 
