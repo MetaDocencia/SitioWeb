@@ -15,7 +15,7 @@ user_groups:
 -  Fellow Communities
 ---
 
-### Learn more about ARPHAI in this video
+### Learn more
 
 {{< youtube yx0uNj7RnkU >}} 
 
