@@ -3,7 +3,7 @@ date: "2023-04-13"
 draft: false
 type: page
 title: Acciones para crear y apoyar comunidades científicas de código abierto en África y América Latina
-summary: En esta publicación nos centramos en las acciones a corto, medio y largo plazo que financiadores, investigadores y otros actores pueden llevar a cabo para eliminar algunas de las barreras a la participación basándonos en las contribuciones de panelistas y moderadores del panel desarrollado en la Reunión Anual de Ciencia Abierta 2022 de la Iniciativa Chan Zuckerberg (CZI).
+summary: En esta publicación nos centramos en las acciones a corto, medio y largo plazo que financiadores, investigadores y otros actores pueden llevar a cabo para eliminar algunas de las barreras a la participación basándonos en las contribuciones de panelistas y moderadores del panel desarrollado en la Reunión Anual de Ciencia Abierta 2022 de la Chan Zuckerberg Initiative (CZI).
 authors: 
 type: post
 weight: 1
@@ -14,7 +14,7 @@ tags:
 
 Una idea central para la ciencia abierta y el código abierto es que **todo el mundo, sin importar dónde se encuentre, debe poder contribuir, participar y beneficiarse del desarrollo de la ciencia y la tecnología**. 
 
-En el panel sobre construcción de comunidades de ciencia y código abierto en África y América Latina desarrollado en la Reunión Anual de Ciencia Abierta 2022 de la [Iniciativa Chan Zuckerberg (CZI)](https://chanzuckerberg.com/), cinco líderes de proyectos de ciencia de código abierto que han trabajado extensamente con comunidades africanas y latinoamericanas compartieron sus experiencias y aprendizajes. El [video completo del panel](https://fast.wistia.com/embed/channel/g4orlbms5g?wchannelid=g4orlbms5g&wmediaid=v0er0tmgdi) puede verse con subtítulos en español, portugués e inglés.
+En el panel sobre construcción de comunidades de ciencia y código abierto en África y América Latina desarrollado en la Reunión Anual de Ciencia Abierta 2022 de la [Chan Zuckerberg Initiative(CZI)](https://chanzuckerberg.com/), cinco líderes de proyectos de ciencia de código abierto que han trabajado extensamente con comunidades africanas y latinoamericanas compartieron sus experiencias y aprendizajes. El [video completo del panel](https://fast.wistia.com/embed/channel/g4orlbms5g?wchannelid=g4orlbms5g&wmediaid=v0er0tmgdi) puede verse con subtítulos en español, portugués e inglés.
 
 En esta publicación nos centramos en las **acciones a corto, medio y largo plazo** que financiadores, investigadores y otros actores pueden llevar a cabo para eliminar algunas de las barreras a la participación, basándonos en las contribuciones de panelistas y moderadores del panel:
 
