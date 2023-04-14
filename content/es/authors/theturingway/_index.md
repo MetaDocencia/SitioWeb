@@ -13,6 +13,7 @@ social:
 superuser: false
 user_groups:
 -  Comunidades amigas
+avatar_shape: square
 ---
 
 ### Conócela en este video
