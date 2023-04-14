@@ -15,12 +15,10 @@ user_groups:
 -  Fellow Communities
 ---
 
-### Conócela en este video
+### Learn more about CABANAnet in this video
 
 {{< youtube TVojmNQpncU >}} 
 
-### Sobre CABANAnet
+### About CABANAnet
 
-**[CABANAnet](https://cabana.network/)** es un proyecto de fortalecimiento de capacidades para bioinformática en América Latina. Su objetivo es acelerar la implementación de la biología basada en datos en la región mediante la creación de un programa de creación de capacidad sostenible. CABANAnet está orquestada por un consorcio internacional de diez organizaciones: nueve en América Latina y una en el Reino Unido.
-
-CABANAnet está ayudando a acelerar la biología basada en datos en América Latina mediante la introducción de un programa sostenible para el desarrollo de capacidades en la región.
+**[CABANAnet](https://cabana.network/)** is a capacity-building project for bioinformatics in Latin America. CABANAnet is helping to accelerate data-driven biology in Latin America by introducing a sustainable program for capacity building in the region.. CABANAnet is orchestrated by an international consortium of ten organizations: nine in Latin America and one in the UK.

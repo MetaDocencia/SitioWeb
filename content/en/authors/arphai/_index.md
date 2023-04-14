@@ -15,10 +15,10 @@ user_groups:
 -  Fellow Communities
 ---
 
-### Conócela en este video
+### Learn more about ARPHAI in this video
 
 {{< youtube yx0uNj7RnkU >}} 
 
-### Sobre ARPHAI
+### About ARPHAI
 
-**[ARPHAI](http://www.ciecti.org.ar/arphai)** ARPHAI es un proyecto de investigación liderado por el CIECTI (Centro Interdisciplinario de Estudios en Ciencia, Tecnología e Innovación) y financiado por el IDRC/SIDA. Su objetivo es desarrollar herramientas basadas en IA y CD que, aplicadas a historias clínicas electrónicas, contribuyan a la detección temprana de brotes epidémicos y favorezcan la toma de decisiones de salud pública preventiva. 
+**[ARPHAI](http://www.ciecti.org.ar/arphai)** ARPHAI is a research project led by CIECTI (Interdisciplinary Center for Science, Technology, and Innovation Studies) and funded by IDRC/SIDA. Its objective is to develop tools based on AI and CD that, when applied to electronic medical records, contribute to the early detection of epidemic outbreaks and favor preventive public health decision-making. 

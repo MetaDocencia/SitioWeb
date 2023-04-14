@@ -15,16 +15,16 @@ user_groups:
 -  Fellow Communities
 ---
 
-### Conócela en este video
+### Learn more about Talarify in this video
 
 {{< youtube  >}} 
 
-### Sobre Talarify
+### About Talarify
 
-**[Talarify](https://www.talarify.co.za/)** apoya la innovación digital en la investigación y desarrolla capacidades de impacto e intervenciones de desarrollo comunitario.
+**[Talarify](https://www.talarify.co.za/)** supports digital innovation in research and develops impact capabilities and community development interventions.
 
-Para ello, trabaja con diversas instituciones de investigación, grupos de investigación y particulares desde 2015 para abordar estas cuestiones. 
+To this end, it has been working with diverse research institutions, research groups, and individuals since 2015 to address these issues. 
 
-Sus proyectos se centran en mejorar o reciclar las competencias de estudiantes, investigadores y personal profesional. Sus programas tienen como objetivo mejorar las prácticas académicas digitales y las habilidades en la ciencia de datos de investigación, así como ampliar las redes profesionales. Desarrolla programas de formación y ayuda a sus clientes a integrarse en comunidades de práctica existentes o emergentes para garantizar la sostenibilidad a largo plazo de las intervenciones. 
+Its projects focus on improving or retraining the skills of students, researchers, and professional staff. Its programs aim to improve digital academic practices and skills in research data science and expand professional networks. It develops training programs and helps its clients integrate into existing or emerging communities of practice to ensure the long-term sustainability of interventions. 
 
 
