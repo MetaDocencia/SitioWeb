@@ -4,6 +4,7 @@ authors:
 bio: ""
 email: ""
 name: The Turing Way
+avatar_shape: square
 weight: 1
 role: 
 social:
@@ -13,7 +14,7 @@ social:
 superuser: false
 user_groups:
 -  Comunidades amigas
-avatar_shape: square
+
 ---
 
 ### Conócela en este video
