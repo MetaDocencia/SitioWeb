@@ -3,7 +3,7 @@ authors:
 - ilda
 bio: ""
 email: ""
-name: Iniciativa Latinoamericana por los Datos abiertos ILDA
+name: Latin America Open Data Initiative (ILDA)
 weight: 1
 role: 
 social:
