@@ -17,7 +17,7 @@ user_groups:
 
 ### Learn more
 
-{{< youtube yx0uNj7RnkU >}} 
+{{< youtube OJsZqvmFRfs >}} 
 
 ### About ARPHAI
 
