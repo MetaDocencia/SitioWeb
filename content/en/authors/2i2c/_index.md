@@ -12,7 +12,7 @@ social:
   link: https://2i2c.org/
 superuser: false
 user_groups:
--  Comunidades amigas
+-  Fellow Communities
 ---
 
 ### Learn more
