@@ -12,7 +12,7 @@ authors:
 type: cursos
 weight: 15
 tags:
-  - Ediciones anteriores
+  - Próximos cursos
 ---
 
 
