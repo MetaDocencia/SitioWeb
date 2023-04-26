@@ -2,8 +2,8 @@
 date: "2021-01-10"
 draft: false
 image:
-  caption: "[Foto de Stepan Babanin en Unsplash](https://unsplash.com/photos/kx6fpBOm-ss)"
-  alt_text: "Foto de 5 manzanas en degradé de colores de rojo a verde sobre una superficie tomada por Stepan Babanin"
+  caption: 
+  alt_text: "Imagen de una computadora con código de programación de colores"
 linktitle: Cómo enseñar a programar online
 summary: En este curso revisamos herramientas específicas para enseñar programación
 title: Cómo enseñar a programar online
@@ -15,6 +15,11 @@ tags:
   - Próximos cursos
 ---
 
+
+### Cómo participar 
+Próxima edición:
+Martes 9 de mayo de 2023 de 15 a 18 (UTC-3) > Inscríbete a través del Formulario de registro
+*Todos los datos se manejarán en forma confidencial, sólo podrán ser publicados de forma agregada y anonimizada en reportes sobre el alcance de MetaDocencia.*
 
 ### Objetivos
 
@@ -56,9 +61,6 @@ Entre otras cosas, quedan fuera del alcance del taller:
 * Desarrollo en profundidad y práctica extensiva de las técnicas mencionadas
 * Contenidos teóricos sobre pedagogía 
 
-### Cómo participar 
-Este curso volverá a dictarse en 2022, en fecha a confirmar. Si te interesa participar, escríbenos a info@metadocencia.org.
-
 ### Duración
 
 El taller tiene una duración de 3 horas con intervalos de aproximadamente 5 minutos cada 50 minutos de contenidos.
@@ -80,6 +82,6 @@ El taller tiene una duración de 3 horas con intervalos de aproximadamente 5 min
 
 ### Materiales
 
-* [Presentación que usamos en el curso](https://docs.google.com/presentation/d/1740hbph4jWHcpUxiHm02IMPp4CCHM8kPlMMHc_qUNG0/edit) con notas ampliando el contenido para quienes dan la clase.
+* [Presentación que usamos en el curso](https://docs.google.com/presentation/d/1sj6tbtqjWY8AvcQLVih3FTFIa1pKERFRxk3KY8KK13w/edit?usp=sharing) con notas ampliando el contenido para quienes dan la clase.
 
-* [Plantilla de formulario para la encuesta de fin del taller](https://docs.google.com/forms/d/1Rw4AMtM32ivHtU-nWufSL1BWe0mmTgHl7953-exZsh8/edit?usp=sharing)
+* [Plantilla de formulario para la encuesta de fin del taller]()
