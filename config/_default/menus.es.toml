@@ -40,7 +40,7 @@ url = ""
     [[main]]
   name = "Comunidades amigas"
   url = "panal/"
-  parent = "About Us"
+  parent = "Quiénes somos"
     weight = 70
 #  [[main]]
 #  name = "Ex miembros"
