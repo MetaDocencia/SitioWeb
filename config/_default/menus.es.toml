@@ -37,6 +37,11 @@ url = ""
   url = "equipo/"
   parent = "Quiénes somos"
     weight = 60
+    [[main]]
+  name = "Comunidades amigas"
+  url = "panal/"
+  parent = "About Us"
+    weight = 70
 #  [[main]]
 #  name = "Ex miembros"
 #  url = "equipo/"
