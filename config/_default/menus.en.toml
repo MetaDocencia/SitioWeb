@@ -37,7 +37,12 @@ weight = 10
   name = "Team"
   url = "equipo/"
   parent = "About Us"
-    weight = 50
+    weight = 60
+      [[main]]
+  name = "Fellow Communities"
+  url = "en/hive"
+  parent = "About Us"
+    weight = 70
 #  [[main]]
 #  name = "Former Contributors"
 #  url = "equipo/"
