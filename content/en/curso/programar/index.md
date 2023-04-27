@@ -2,8 +2,8 @@
 date: "2021-01-10"
 draft: false
 image:
-  caption: "[Photo by Stepan Babanin on Unsplash](https://unsplash.com/photos/kx6fpBOm-ss)"
-  alt_text: "Photo of five apples of different colors on a surface taken by Stepan Babanin"
+  caption: 
+  alt_text: "Photo of a computer coding"
 linktitle: Teach programming Workshop
 summary: Introductory online synchronous workshop to teach programming online
 title: How to teach programming online
@@ -12,10 +12,10 @@ authors:
 type: course
 weight: 15
 tags:
-  - Former courses
+  - Next courses
 ---
 
-**[Update: This is a non-active course and there are no plans to relaunch it at the moment, but you can reuse or edit any material that appears here.]**
+**This workshop will be offered in Spanish. [Dates and registration form (in Spanish)](https://www.metadocencia.org/curso/programar/)**
 
 ### Objectives 
 
@@ -103,9 +103,9 @@ This is a 3-hour workshop with intervals (ideally away from any screen) of appro
 
 ### Course materials
 
-* [Presentation used during the course](https://docs.google.com/presentation/d/1740hbph4jWHcpUxiHm02IMPp4CCHM8kPlMMHc_qUNG0/edit)
+* [Presentation used during the course](https://docs.google.com/presentation/d/1sj6tbtqjWY8AvcQLVih3FTFIa1pKERFRxk3KY8KK13w/edit)
 
-* [End-of-workshop feedback form template](https://docs.google.com/forms/d/1Z7F-gEwIT3Wokj8g65TcU5rzrFHzQsjtmKBQmqUaEnE/edit?usp=sharing)
+* [End-of-workshop feedback form template]()
 
 
 ### Do you want to re-use any of our contents? Please, be our guest!
