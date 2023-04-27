@@ -12,7 +12,7 @@ authors:
 type: course
 weight: 1
 tags:
-  - Next courses
+  - Former courses
 ---
 
 **This site is under construction and will be changing in the following weeks.**
