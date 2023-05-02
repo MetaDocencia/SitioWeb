@@ -51,7 +51,7 @@ Para el análisis de redes, incluimos a cada usuario o cuenta como nodo y a cada
 ![Gráficos que muestran promedio de retweets, porcentaje de tweets originales, porcentaje de cuentas influyentes y promedio de centralidad de intermediación.](https://www.metadocencia.org/img/cp-ca/grafico3.png)
 *Fuente: elaboración propia.*
 
-Los resultados muestran que las cuentas pertenecientes a comunidades generan más contenido original vinculado a prácticas abiertas que las cuentas personales y que, a su vez, sus posteos son más retweeteados por usuarios variados. Adicionalmente, encontramos que las cuentas de comunidades frecuentemente funcionan como nexo entre muchos de los usuarios de cuentas personales incluidas en el estudio. Todas estas medidas nos hablan de el potencial multiplicador que tienen las comunidades de práctica para difundir los conceptos asociados a ciencia abierta y aumentar su alcance e impacto. 
+**Los resultados muestran que las cuentas pertenecientes a comunidades generan más contenido original vinculado a prácticas abiertas que las cuentas personales y que, a su vez, sus posteos son más retweeteados por usuarios variados. Adicionalmente, encontramos que las cuentas de comunidades frecuentemente funcionan como nexo entre muchos de los usuarios de cuentas personales incluidas en el estudio. Todas estas medidas nos hablan de el potencial multiplicador que tienen las comunidades de práctica para difundir los conceptos asociados a ciencia abierta y aumentar su alcance e impacto.** 
 
 Para analizar las relaciones entre las comunidades obtenidas en la muestra anterior y otras comunidades latinoamericanas identificadas previamente, realizamos un nuevo análisis tomando las comunidades como nodos y los seguidores que tienen en común como aristas (figura 3).  
 
@@ -70,9 +70,9 @@ Finalmente, realizamos un análisis de modularidad en una red bipartita con las 
 En la figura 5, los vínculos entre miembros del mismo cluster se muestran como colores diferentes. La modularidad muestra que sus conexiones están asociadas a su ubicación geográfica, como es el caso de OpenLabEC y Red Libre EC, o MetaDocencia y RLadiesBA, y, en algunos casos, parece haber una relación entre comunidades con propósitos similares como Karisma, Via Libre e ILDA Latam, que trabajan los derechos digitales, gobernanza y el uso ético de los datos, por ejemplo.
 
 Pese a las dificultades que tuvimos para realizar el análisis por el acceso restringido a datos de Twitter a partir de los cambios en la política de uso de la API, podemos resumir las conclusiones de esta primera aproximación en los siguientes puntos: 
-- La alta modularidad está asociada mayormente a la ubicación geográfica de la comunidad y la temática central de su trabajo o propósito. 
-- También vimos que hay una gran cantidad de seguidores en común que dan cuenta de una red de usuarios y participantes fomentada por las comunidades de práctica.
-- Se verifica el potencial multiplicador de las comunidades a partir del trabajo de articulación y conexión entre usuarios y temas. 
+**- La alta modularidad está asociada mayormente a la ubicación geográfica de la comunidad y la temática central de su trabajo o propósito.** 
+**- También vimos que hay una gran cantidad de seguidores en común que dan cuenta de una red de usuarios y participantes fomentada por las comunidades de práctica.**
+**- Se verifica el potencial multiplicador de las comunidades a partir del trabajo de articulación y conexión entre usuarios y temas.** 
 
 Queda pendiente considerar cuánta apertura promueven estas comunidades o si se restringen al mismo ámbito de relaciones (endogamia). 
 
