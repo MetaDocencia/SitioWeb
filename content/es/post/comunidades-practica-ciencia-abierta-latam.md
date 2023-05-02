@@ -1,6 +1,6 @@
 ---
 date: "2023-04-28"
-draft: true
+draft: false
 type: page
 title: Comunidades de práctica y su influencia en la difusión de la ciencia abierta en Latinoamérica
 summary: En esta publicación hacemos una primera aproximación a responder cuál es el rol de las comunidades de práctica en la difusión e implementación de prácticas de ciencia abierta en general, y específicamente, en la región de Latinoamérica.
