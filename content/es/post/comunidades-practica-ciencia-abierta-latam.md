@@ -41,7 +41,7 @@ En segundo lugar,  realizamos un análisis de redes sociales para identificar us
 El resultado final incluyó una muestra de 2119 tweets generados por 1423 cuentas diferentes y retuiteados 7405 veces por 4733 cuentas. 
 Finalmente, analizamos cada usuario para identificar si la cuenta pertenecía a una comunidad de práctica o no.
 
-Para el análisis de redes, incluímos a cada usuario o cuenta como nodo y a cada retweet como enlace. Luego calculamos distintas métricas para cuentas personales y cuentas de comunidades (figura 3):
+Para el análisis de redes, incluimos a cada usuario o cuenta como nodo y a cada retweet como enlace. Luego calculamos distintas métricas para cuentas personales y cuentas de comunidades (figura 3):
 - Promedio de retweets.
 - Porcentaje de tweets originales.
 - Porcentaje de cuentas influyentes (> 20 usuarios individuales que lo retweetean).
