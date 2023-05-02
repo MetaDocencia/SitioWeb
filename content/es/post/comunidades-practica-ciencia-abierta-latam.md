@@ -70,9 +70,9 @@ Finalmente, realizamos un análisis de modularidad en una red bipartita con las 
 En la figura 5, los vínculos entre miembros del mismo cluster se muestran como colores diferentes. La modularidad muestra que sus conexiones están asociadas a su ubicación geográfica, como es el caso de OpenLabEC y Red Libre EC, o MetaDocencia y RLadiesBA, y, en algunos casos, parece haber una relación entre comunidades con propósitos similares como Karisma, Via Libre e ILDA Latam, que trabajan los derechos digitales, gobernanza y el uso ético de los datos, por ejemplo.
 
 Pese a las dificultades que tuvimos para realizar el análisis por el acceso restringido a datos de Twitter a partir de los cambios en la política de uso de la API, podemos resumir las conclusiones de esta primera aproximación en los siguientes puntos: 
-**- La alta modularidad está asociada mayormente a la ubicación geográfica de la comunidad y la temática central de su trabajo o propósito.** 
-**- También vimos que hay una gran cantidad de seguidores en común que dan cuenta de una red de usuarios y participantes fomentada por las comunidades de práctica.**
-**- Se verifica el potencial multiplicador de las comunidades a partir del trabajo de articulación y conexión entre usuarios y temas.** 
+- La alta modularidad está asociada mayormente a la ubicación geográfica de la comunidad y la temática central de su trabajo o propósito.
+- También vimos que hay una gran cantidad de seguidores en común que dan cuenta de una red de usuarios y participantes fomentada por las comunidades de práctica.
+- Se verifica el potencial multiplicador de las comunidades a partir del trabajo de articulación y conexión entre usuarios y temas.
 
 Queda pendiente considerar cuánta apertura promueven estas comunidades o si se restringen al mismo ámbito de relaciones (endogamia). 
 
