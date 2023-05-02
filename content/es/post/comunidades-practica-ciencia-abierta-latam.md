@@ -25,7 +25,7 @@ Tomamos a las redes sociales como **plataformas de comunicación** que han permi
 
 Para analizar el efecto de las comunidades en la difusión de prácticas abiertas utilizamos dos metodologías. En primer lugar (figura 1), realizamos un análisis exploratorio de la evolución de las búsquedas de los términos “ciencia abierta”, “ciência aberta” (portugués) y “open science” de 2004 a la actualidad.
 
-*Figura 1: Búsquedas de términos “ciencia abierta”, “ciência aberta” (portugués) y “open science” (inglés) de 2012 a la actualidad.*
+*Figura 1: Búsquedas de términos “ciencia abierta”, “ciência aberta” (portugués) y “open science” (inglés) de 2004 a la actualidad.*
 ![Gráfico que muestra las búsquedas de términos “ciencia abierta”, “ciência aberta” (portugués) y “open science” de 2004 a la actualidad.](https://www.metadocencia.org/img/cp-ca/grafico1.png)
 
 *Fuente: Google Trends.*
@@ -34,7 +34,7 @@ A simple vista, vemos en las búsquedas de Google Trends que el interés por el 
 
 En segundo lugar,  realizamos un análisis de redes sociales para identificar usuarios influyentes y agrupaciones de usuarios y estudiar su asociación con comunidades de práctica. Para esto, realizamos una búsqueda de tweets que mencionaran al menos uno de los términos listados en la figura 2. De los tweets recolectados, obtuvimos que los 3 términos más utilizados son Open Source, Código Abierto y Ciencia Abierta. Filtramos los resultados originales por idioma (español), ubicación (América Latina), y excluimos cuentas de organizaciones gubernamentales y cuentas comerciales.
 
-*Figura 2: Análisis de tweets que utilizan términos relacionados.*
+*Figura 2: Términos utilizados para la búsqueda de tweets y su frecuencia de uso.*
 ![Gráfico que muestra las búsquedas de términos en tweets.](https://www.metadocencia.org/img/cp-ca/grafico2.png)
 *Fuente: elaboración propia.*
 
