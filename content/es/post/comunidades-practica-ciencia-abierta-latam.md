@@ -24,7 +24,7 @@ Tomamos a las redes sociales como **plataformas de comunicación** que han permi
 Para analizar el efecto de las comunidades en la difusión de prácticas abiertas a través de las redes sociales utilizamos dos metodologías. En primer lugar (figura 1), realizamos un análisis exploratorio de la evolución de las búsquedas de los términos “ciencia abierta”, “ciência aberta” (portugués) y “open science” de 2004 a la actualidad.
 
 *Figura 1: Búsquedas de términos “ciencia abierta”, “ciência aberta” (portugués) y “open science” (inglés) de 2012 a la actualidad.*
-![Gráfico que muestra las búsquedas de términos “ciencia abierta”, “ciência aberta” (portugués) y “open science” de 2004 a la actualidad.](https://www.metadocencia.org/img/cp-ca-grafico1.png)
+![Gráfico que muestra las búsquedas de términos “ciencia abierta”, “ciência aberta” (portugués) y “open science” de 2004 a la actualidad.](https://www.metadocencia.org/img/cp-ca/grafico1.png)
 
 *Fuente: Google Trends.*
 
