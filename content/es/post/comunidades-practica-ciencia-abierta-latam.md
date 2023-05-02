@@ -30,7 +30,7 @@ Para analizar el efecto de las comunidades en la difusión de prácticas abierta
 
 *Fuente: Google Trends.*
 
-A simple vista, vemos en las búsquedas de Google Trends que el interés por el uso de los términos ciencia abierta y su versión en portugués a lo largo del tiempo en América Latina es aún muy incipiente y se mantiene muy por detrás del desarrollo conceptual del término ciencia abierta utilizado en inglés en el Norte Global. El desglose por regiones muestra que el término en español es más utilizado en Colombia, México, Venezuela, Argentina y Chile. Mientras que su versión en portugués concentra las búsquedas en el territorio brasileño.
+A simple vista, vemos en las búsquedas de Google Trends que el interés por el uso de los términos ciencia abierta y su versión en portugués a lo largo del tiempo en América Latina es aún muy incipiente y se mantiene muy por detrás del desarrollo conceptual del término "open science" a utilizado en el Norte Global. El desglose por regiones muestra que el término en español es más utilizado en Colombia, México, Venezuela, Argentina y Chile. Mientras que su versión en portugués concentra las búsquedas en el territorio brasileño.
 
 En segundo lugar,  realizamos un análisis de redes sociales para identificar usuarios influyentes y agrupaciones de usuarios y estudiar su asociación con comunidades de práctica. Para esto, realizamos una búsqueda de tweets que mencionaran al menos uno de los términos listados en la figura 2. De los tweets recolectados, obtuvimos que los 3 términos más utilizados son Open Source, Código Abierto y Ciencia Abierta. Filtramos los resultados originales por idioma (español), ubicación (América Latina), y excluimos cuentas de organizaciones gubernamentales y cuentas comerciales.
 
