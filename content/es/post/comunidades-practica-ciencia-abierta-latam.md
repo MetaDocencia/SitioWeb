@@ -23,7 +23,7 @@ En este contexto, **nos preguntamos cuál es el rol de las comunidades de práct
 
 Tomamos a las redes sociales como **plataformas de comunicación** que han permitido a las comunidades científicas ampliar el poder de sus ideas y trabajos de investigación. Según el trabajo de Mathilda Åkerlund (2020), las plataformas en línea brindan oportunidades de participación e inclusión y ofrecen a la gente nuevas formas personalizadas de gestionar la identidad, las relaciones y la información. 
 
-Para analizar el efecto de las comunidades en la difusión de prácticas abiertas a través de las redes sociales utilizamos dos metodologías. En primer lugar (figura 1), realizamos un análisis exploratorio de la evolución de las búsquedas de los términos “ciencia abierta”, “ciência aberta” (portugués) y “open science” de 2004 a la actualidad.
+Para analizar el efecto de las comunidades en la difusión de prácticas abiertas utilizamos dos metodologías. En primer lugar (figura 1), realizamos un análisis exploratorio de la evolución de las búsquedas de los términos “ciencia abierta”, “ciência aberta” (portugués) y “open science” de 2004 a la actualidad.
 
 *Figura 1: Búsquedas de términos “ciencia abierta”, “ciência aberta” (portugués) y “open science” (inglés) de 2012 a la actualidad.*
 ![Gráfico que muestra las búsquedas de términos “ciencia abierta”, “ciência aberta” (portugués) y “open science” de 2004 a la actualidad.](https://www.metadocencia.org/img/cp-ca/grafico1.png)
