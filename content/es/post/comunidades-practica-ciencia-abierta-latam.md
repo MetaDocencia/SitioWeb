@@ -33,7 +33,7 @@ A simple vista, vemos en las búsquedas de Google Trends que el interés por el 
 En segundo lugar,  realizamos un análisis de redes sociales para identificar usuarios influyentes y agrupaciones de usuarios y estudiar su asociación con comunidades de práctica. Para esto, realizamos una búsqueda de tweets que mencionaran al menos uno de los términos listados en la figura 2. De los tweets recolectados, obtuvimos que los 3 términos más utilizados son Open Source, Código Abierto y Ciencia Abierta. Filtramos los resultados originales por idioma (español), ubicación (América Latina), y excluimos cuentas de organizaciones gubernamentales y cuentas comerciales.
 
 *Figura 2: Análisis de tweets que utilizan términos relacionados.*
-
+![Gráfico que muestra las búsquedas de términos en tweets.](https://www.metadocencia.org/img/cp-ca/grafico2.png)
 *Fuente: elaboración propia.*
 
 El resultado final incluyó una muestra de 2119 tweets generados por 1423 cuentas diferentes y retuiteados 7405 veces por 4733 cuentas. 
@@ -46,7 +46,7 @@ Para el análisis de redes, incluímos a cada usuario o cuenta como nodo y a cad
 - Promedio de centralidad de intermediación (número de veces que un nodo se encuentra en el camino más corto entre otros dos usuarios).
 
 *Figura 3: Términos utilizados para la búsqueda de tweets y su frecuencia de uso.*
-
+![Gráficos que muestran promedio de retweets, porcentaje de tweets originales, porcentaje de cuentas influyentes y promedio de centralidad de intermediación.](https://www.metadocencia.org/img/cp-ca/grafico3.png)
 *Fuente: elaboración propia.*
 
 Los resultados muestran que las cuentas pertenecientes a comunidades generan más contenido original vinculado a prácticas abiertas que las cuentas personales y que, a su vez, sus posteos son más retweeteados por usuarios variados. Adicionalmente, encontramos que las cuentas de comunidades frecuentemente funcionan como nexo entre muchos de los usuarios de cuentas personales incluidas en el estudio. Todas estas medidas nos hablan de el potencial multiplicador que tienen las comunidades de práctica para difundir los conceptos asociados a ciencia abierta y aumentar su alcance e impacto. 
@@ -54,7 +54,7 @@ Los resultados muestran que las cuentas pertenecientes a comunidades generan má
 Para analizar las relaciones entre las comunidades obtenidas en la muestra anterior y otras comunidades latinoamericanas identificadas previamente, realizamos un nuevo análisis tomando las comunidades como nodos y los seguidores que tienen en común como aristas (figura 3).  
 
 *Figura 4. El gráfico muestra la cantidad de seguidores que comparten las comunidades de práctica estudiadas a través del ancho de las curvas que las conectan.*
-
+![El gráfico muestra la cantidad de seguidores que comparten las comunidades de práctica estudiadas a través del ancho de las curvas que las conectan.](https://www.metadocencia.org/img/cp-ca/grafico4.png)
 *Fuente: elaboración propia.*
 
 Podemos ver (figura 4) que todas las comunidades están conectadas entre sí por al menos un usuario excepto Conectorial, una comunidad muy joven que, si bien no está conectada con todas, lo está con la mayoría.
@@ -62,7 +62,7 @@ Podemos ver (figura 4) que todas las comunidades están conectadas entre sí por
 Finalmente, realizamos un análisis de modularidad en una red bipartita con las comunidades y sus seguidores como nodos. La modularidad es una medida de la estructura de las redes que mide la fuerza de la división de una red en grupos o clusters. Implica agrupar a los usuarios de manera tal que las conexiones entre ellos sean mayores que las conexiones con los miembros de los otros grupos. 
 
 *Figura 5: Gráfico de redes - Modularidad*
-
+![El gráfico muestra la vinculación entre comunidades de práctica estudiadas.](https://www.metadocencia.org/img/cp-ca/grafico5.png)
 *Fuente: elaboración propia.*
 
 En la figura 5, los vínculos entre miembros del mismo cluster se muestran como colores diferentes. La modularidad muestra que sus conexiones están asociadas a su ubicación geográfica, como es el caso de OpenLabEC y Red Libre EC, o MetaDocencia y RLadiesBA, y, en algunos casos, parece haber una relación entre comunidades con propósitos similares como Karisma, Via Libre e ILDA Latam, que trabajan los derechos digitales, gobernanza y el uso ético de los datos, por ejemplo.
