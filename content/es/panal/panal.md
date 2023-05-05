@@ -7,8 +7,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 01 # Order that this section will appear.
 
-title = "Siempre felices de agrandar el panal. Para más información, escríbenos a [info@metadocencia.org](mailto:info@metadocencia.org)."
-subtitle = ""
+title = "Comunidades amigas"
+subtitle = "Siempre felices de agrandar el panal. Para más información, escríbenos a [info@metadocencia.org](mailto:info@metadocencia.org)."
 
 [content]
   # Choose which groups/teams of users to display.
