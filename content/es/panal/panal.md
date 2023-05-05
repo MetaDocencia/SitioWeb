@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 01 # Order that this section will appear.
 
 title = ""
-subtitle = ""
+subtitle = "Siempre felices de agrandar el panal. Para mas informacion, escribinos a info@metadocencia.org"
 
 [content]
   # Choose which groups/teams of users to display.
