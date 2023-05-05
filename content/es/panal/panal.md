@@ -15,8 +15,8 @@ subtitle = ""
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups = ["Comunidades amigas"]
 
+Siempre felices de agrandar el panal. Para más información, escríbenos a [info@metadocencia.org](mailto:info@metadocencia.org).
  
-
 [design]
   # Show user's social networking links? (true/false)
   show_social = true
@@ -52,4 +52,3 @@ subtitle = ""
  css_class = ""
 +++
 
-Siempre felices de agrandar el panal. Para más información, escríbenos a [info@metadocencia.org](mailto:info@metadocencia.org).
