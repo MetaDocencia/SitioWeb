@@ -1,1 +1,9 @@
 // Override this file to add your own SCSS styling.
+
+//Source of code below: https://nickballou.com/blog/custom-wowchemy/#change-shape-of-profile-picture
+// Changes the square shape in profile photos to a hexagon
+/* This block may have other things in it, if for example you also decided to animate your avatar */
+.avatar-square {
+  -webkit-clip-path: polygon(25% 5%, 75% 5%, 100% 50%, 75% 95%, 25% 95%, 0% 50%);
+  clip-path: polygon(25% 5%, 75% 5%, 100% 50%, 75% 95%, 25% 95%, 0% 50%);
+}
