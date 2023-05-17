@@ -7,4 +7,6 @@ summary: "Laura Ación en #AgendaAcadémica: “El problema surge cuando la inte
 tags:
   - prensa
 title: Diario Perfil
+tags:
+  - 2022
 ---
