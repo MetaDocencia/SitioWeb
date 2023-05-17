@@ -7,4 +7,8 @@ summary: "Ación, una de las más de 400 personas del mundo de la ciencia y la i
 tags:
   - prensa
 title: iProfesional
+tags:
+  - 2023
 ---
+
+Artículo en iProfesional con entrevista a Laura Ación sobre inteligencia artificial.
