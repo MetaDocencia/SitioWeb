@@ -7,4 +7,6 @@ summary: "Laura Ación en La Ciencia y la Salud, Fundación Medifé: “Mitos y 
 tags:
   - prensa
 title: La Ciencia y la Salud, Fundación Medifé
+tags:
+  - 2022
 ---
