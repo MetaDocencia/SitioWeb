@@ -6,5 +6,7 @@ image:
 summary: Capacitación docente sobre enseñanza virtual
 tags:
   - prensa
-title: La Capital 
+title: La Capital
+tags:
+  - 2020
 ---
