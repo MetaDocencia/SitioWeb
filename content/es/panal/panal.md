@@ -50,4 +50,4 @@ subtitle = ""
  css_class = ""
 +++
 
-### Siempre felices de agrandar el panal. Para más información, escríbenos a [info@metadocencia.org](mailto:info@metadocencia.org).
+#### Siempre felices de agrandar el panal. Para más información, escríbenos a [info@metadocencia.org](mailto:info@metadocencia.org).
