@@ -55,7 +55,7 @@ Se detallará la funcionalidad de cada atajo permitiendo la experimentación en 
 ### Materiales
 Se disponibilizan una vez finalizada cada edición del curso.
 
-* [Presentación que usamos en el curso]() con instrucciones paso a paso de los ejercicios. 
+* [Presentación que usamos en el curso](https://docs.google.com/presentation/d/1fbi8_JHPwFGuae8eY2yUVG8WA81g8uxoejEhnGmBShY/edit?usp=sharing) con instrucciones paso a paso de los ejercicios. 
 
 ### ¡Sírvete sin culpa!
 
