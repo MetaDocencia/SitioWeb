@@ -9,7 +9,7 @@ role:
 social:
 - icon: globe
   icon_pack: fas
-  link: 
+  link: https://openlifesci.org/
 superuser: false
 user_groups:
 -  Fellow Communities
