@@ -30,8 +30,8 @@ Entonces, ¿cómo podemos ayudar a nuestros estudiantes a maximizar su aprendiza
  
 Si quieres profundizar un poco más sobre el tema te dejamos algunos links y referencias:
 
-Yang, C., Luo, L., Vadillo, M. A., Yu, R., & Shanks, D. R. (2021). Testing (quizzing) boosts classroom learning: A systematic and meta-analytic review. Psychological Bulletin, 147(4), 399–435. https://doi.org/10.1037/bul0000309 
-Morris, R., Perry, T., & Wardle, L. (2021). Formative assessment and feedback for learning in higher education: A systematic review. Review of Education, 9(3), e3292. https://bera-journals.onlinelibrary.wiley.com/doi/full/10.1002/rev3.3292 
-Karaman, P. (2021). The Effect of Formative Assessment Practices on Student Learning: A Meta-Analysis Study . International Journal of Assessment Tools in Education , 8 (4) , 801-817 . https://doi.org/10.21449/ijate.870300
-Carpenter, S.K., Pan, S.C. & Butler, A.C. The science of effective learning with spacing and retrieval practice. Nat Rev Psychol 1, 496–511 (2022). https://doi.org/10.1038/s44159-022-00089-1
-Wilson, G. (2019). Teaching Tech Together: How to Make your lessons work and build a teaching community around them. CRC Press. Versión online: https://teachtogether.tech/ 
+- Yang, C., Luo, L., Vadillo, M. A., Yu, R., & Shanks, D. R. (2021). Testing (quizzing) boosts classroom learning: A systematic and meta-analytic review. Psychological Bulletin, 147(4), 399–435. https://doi.org/10.1037/bul0000309 
+- Morris, R., Perry, T., & Wardle, L. (2021). Formative assessment and feedback for learning in higher education: A systematic review. Review of Education, 9(3), e3292. https://bera-journals.onlinelibrary.wiley.com/doi/full/10.1002/rev3.3292 
+- Karaman, P. (2021). The Effect of Formative Assessment Practices on Student Learning: A Meta-Analysis Study . International Journal of Assessment Tools in Education , 8 (4) , 801-817 . https://doi.org/10.21449/ijate.870300
+- Carpenter, S.K., Pan, S.C. & Butler, A.C. The science of effective learning with spacing and retrieval practice. Nat Rev Psychol 1, 496–511 (2022). https://doi.org/10.1038/s44159-022-00089-1
+- Wilson, G. (2019). Teaching Tech Together: How to Make your lessons work and build a teaching community around them. CRC Press. Versión online: https://teachtogether.tech/ 
