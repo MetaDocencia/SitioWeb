@@ -5,7 +5,8 @@ type: page
 linktitle: In class assessments
 summary: Studies on the use of formative assessments with university students consistently show improvements in performance.
 title: "How in-class assessments can improve learning"
-authors: jformoso
+authors:
+  - jformoso
 type: post
 weight: 1
 tags: 
