@@ -5,7 +5,8 @@ type: page
 linktitle: Evaluaciones formativas
 summary: En esta publicación fundamentamos que las evaluaciones no sólo miden el conocimiento, sino que también ayudan a fortalecerlo.
 title: Cómo las evaluaciones durante la clase pueden mejorar el aprendizaje
-authors: jformoso
+authors:
+  - jformoso
 type: post
 weight: 1
 tags: 
