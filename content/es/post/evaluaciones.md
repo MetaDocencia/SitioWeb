@@ -1,6 +1,6 @@
 ---
 date: "2023-05-22"
-draft: true
+draft: false
 type: page
 linktitle: Evaluaciones formativas
 summary: En esta publicación fundamentamos que las evaluaciones no sólo miden el conocimiento, sino que también ayudan a fortalecerlo.
