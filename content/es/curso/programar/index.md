@@ -18,7 +18,7 @@ tags:
 
 ### Cómo participar 
 Próxima edición:
-**Martes 9 de mayo de 2023 de 15 a 18 (UTC-3) > [Inscríbete a través del formulario de registro](https://docs.google.com/forms/d/e/1FAIpQLSeHiWIM3aw8Q-74wdpEKaGsf6v6BST6m7zRx-t5clto9NVodA/viewform?usp=sf_link)**
+**Martes 13 de junio de 2023 de 18 a 21 (UTC-3) > [Inscríbete a través del formulario de registro](https://docs.google.com/forms/d/e/1FAIpQLSfqaWDrT_2Z-saIWN1h5JbEL5zTCeqh2ZIeFWPo9isa5jde3w/viewform)**
 
 *Todos los datos se manejarán en forma confidencial, sólo podrán ser publicados de forma agregada y anonimizada en reportes sobre el alcance de MetaDocencia.*
 
