@@ -42,6 +42,7 @@ Individuals who are part of the Code of Conduct team agree to recuse themselves 
 
 * [Sara Mortara](https://www.metadocencia.org/en/authors/sara/)
 * [Romina Pendino](https://www.metadocencia.org/authors/rominapedino/)
+* [Mónica Alonso](https://www.metadocencia.org/authors/monialonso/)
 
 ## Attribution
 

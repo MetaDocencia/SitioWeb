@@ -42,6 +42,7 @@ Las personas que forman parte del equipo de Código de Conducta se comprometen a
 
 * [Sara Mortara](https://www.metadocencia.org/authors/sara/)
 * [Romina Pendino](https://www.metadocencia.org/authors/rominapedino/)
+* [Mónica Alonso](https://www.metadocencia.org/authors/monialonso/)
 
 ## Atribución
 
