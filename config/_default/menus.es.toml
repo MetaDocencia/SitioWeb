@@ -24,7 +24,7 @@ url = ""
 #    weight = 30
   [[main]]
   name = "Pautas de convivencia"
-  url = "cdc/"
+  url = "pdc/"
   parent = "Quiénes somos"
     weight = 40
   [[main]]
