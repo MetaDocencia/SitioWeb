@@ -6,5 +6,5 @@ image:
 summary: "En diálogo con iProfesional, Nicolás Palopoli contó los detalles del apoyo de la NASA democratizar el acceso al conocimiento científico."
 tags:
   - prensa
-title: Educación científica gratuita y remota: cómo es el emprendimiento argentino que apoya la NASA
+title: "Educación científica gratuita y remota: cómo es el emprendimiento argentino que apoya la NASA"
 ---
