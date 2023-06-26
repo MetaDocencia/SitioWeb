@@ -6,5 +6,5 @@ image:
 summary: "iProfesional: Laura Ación, una de las más de 400 personas del mundo de la ciencia y la investigación que firmó la Declaración de Montevideo sobre Inteligencia Artificial y su impacto en América Latina, y advirtió sobre la irresponsabilidad con la que se lanzó al mundo esta herramienta de IA."
 tags:
   - prensa
-title: "ChatGPT: ante falta de control, la Inteligencia Artificial pone en alerta a las escuelas argentinas"
+title: "iProfesional - ChatGPT: ante falta de control, la Inteligencia Artificial pone en alerta a las escuelas argentinas"
 ---
