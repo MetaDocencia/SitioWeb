@@ -3,8 +3,8 @@ date: "2023-07-04"
 draft: false
 type: page
 linktitle: AI reflexiones
-summary: En esta publicación compartimos algunas reflexiones críticas y también ideas sobre parte del potencial que la Inteligencia Artificial podría tener en el campo de la Educación.
-title: Inteligencia Artificial y Educación: Reflexiones críticas
+summary: "En esta publicación compartimos algunas reflexiones críticas y también ideas sobre parte del potencial que la Inteligencia Artificial podría tener en el campo de la Educación."
+title: "Inteligencia Artificial y Educación: Reflexiones críticas"
 authors:
   - lacion
   - Luciana Benotti
