@@ -48,4 +48,5 @@ It is always better to prioritize people over tech tools. New AI tools generate 
 *Did you like this post? You can reuse it freely under cc by 4.0 license, just cite it!* 
 
 Here is the citation we recommend you use: 
+
 Laura Ación, Luciana Benotti, Melissa Black, Laura Ascenzi, & Paola Andrea Lefer. (2023). Thinking Critically about Artificial Intelligence and Education. Zenodo. [https://doi.org/10.5281/zenodo.8120652](https://doi.org/10.5281/zenodo.8120652).
