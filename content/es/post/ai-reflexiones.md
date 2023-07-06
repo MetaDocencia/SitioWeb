@@ -44,5 +44,7 @@ Como enseñamos en MetaDocencia, la Educación es en parte un proceso social. Po
 Siempre resulta mejor priorizar a las personas por sobre las herramientas tecnológicas. Las nuevas herramientas de Inteligencia Artificial son generadoras de enorme riqueza para pocas personas y de mayor desigualdad para el resto de la humanidad. Todo esto está mucho mejor explicado en la "[Declaración de Montevideo sobre Inteligencia Artificial y su impacto en América Latina](http://tiny.cc/DeclaMVD)", donde más de 400 personas expertas en Inteligencia Artificial, mayormente de América Latina, comenzamos a advertir sobre esto en marzo de 2023. **Te invitamos a firmar la declaración pero, sobre todo, a seguir reflexionando en forma crítica** y, cuando veas batir el parche de la Inteligencia Artificial aplicada a la Educación, a hacerte algunas de las preguntas que compartimos en [esta otra publicación](https://www.metadocencia.org/post/ai-preguntas/).
 
 *¿Te gustó esta publicación? Puedes reutilizarla libremente bajo licencia cc by 4.0, solo tienes que citarla.* 
+
 Esta es la cita que te recomendamos usar para referenciarla: 
-Laura Ación, Luciana Benotti, Laura Ascenzi, Melissa Black, & Paola Andrea Lefer. (2023). Inteligencia Artificial y Educación: Reflexiones críticas. Zenodo. [https://doi.org/10.5281/zenodo.8120709](https://doi.org/10.5281/zenodo.8120709) 
+
+Laura Ación, Luciana Benotti, Melissa Black, Laura Ascenzi, & Paola Andrea Lefer. (2023). Inteligencia Artificial y Educación: Reflexiones críticas. Zenodo. [https://doi.org/10.5281/zenodo.8120709](https://doi.org/10.5281/zenodo.8120709) 
