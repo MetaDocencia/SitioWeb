@@ -43,4 +43,9 @@ As we teach at MetaDocencia, Education is a social process that does not magical
 
 It is always better to prioritize people over tech tools. New AI tools generate enormous wealth for a few people and greater inequality for the rest of humanity. This is discussed further in the [Montevideo Declaration on Artificial Intelligence and its Impact in Latin America](https://docs.google.com/forms/d/e/1FAIpQLSeFi2ufrXYRP5ZVEoLCv3oOr85MBBXNUdJYmybLkR5zQ9h5ow/viewform), where more than 400 experts, mainly from Latin America, began to warn about this in March of 2023. We invite you to sign the Declaration and, above all, continue thinking critically. We invite you to sign the Declaration and, above all, continue thinking critically and, when you see the AI hype applied to Education, to ask yourself the questions that matter.
 
-*Did you like this post? You can reuse it freely under cc by 4.0 license, just cite it! Here is the citation we recommend you use: [https://zenodo.org/record/8115031](https://zenodo.org/record/8115031)*
+
+*Did you like this post? You can reuse it freely under cc by 4.0 license, just cite it!*
+
+Here is the citation we recommend you use: 
+
+Laura Ación, Luciana Benotti, Melissa Black, Laura Ascenzi, & Paola Andrea Lefer. (2023). Artificial Intelligence and Education: More Questions Than Answers. Zenodo. [https://doi.org/10.5281/zenodo.8120537](https://doi.org/10.5281/zenodo.8120537).
