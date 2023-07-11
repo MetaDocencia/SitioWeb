@@ -57,7 +57,9 @@ Se disponibilizan una vez finalizada cada edición del curso.
 
 * [Presentación que usamos en el curso](https://docs.google.com/presentation/d/1fbi8_JHPwFGuae8eY2yUVG8WA81g8uxoejEhnGmBShY/edit?usp=sharing) con instrucciones paso a paso de los ejercicios. 
 
+* [Video del curso](https://youtu.be/p8kjdVAtYsw)
+
 ### ¡Sírvete sin culpa!
 
-Nuestros materiales están disponibles en forma gratuita bajo esta [licencia](https://creativecommons.org/licenses/by/4.0/deed.es). Es decir, puedes reusar o editar cualquier material que aparece acá, lo único que pedimos a cambio es que cuando tomes material de acá incluyas una referencia a esta página web.
+Nuestros materiales están disponibles en forma gratuita bajo esta [licencia](https://creativecommons.org/licenses/by/4.0/deed.es). Es decir, puedes reusar o editar cualquier material que aparece acá, lo único que pedimos a cambio es que cuando tomes material de acá incluyas una referencia a esta página web. Para más información, escríbenos a [cursos@metadocencia.org](mailto:cursos@metadocencia.org).
 
