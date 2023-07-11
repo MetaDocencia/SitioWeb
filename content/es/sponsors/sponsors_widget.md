@@ -64,7 +64,7 @@
   
   <div class="col-12 col-sm-auto">
      <figure>
-    <a href="https://www.nasa.gov/" target="_blank" rel="noopener"><img src="/img/Tops_Logo_NASA_Original" alt="NASA-TOPS"></a>
+    <a href="https://www.nasa.gov/" target="_blank" rel="noopener"><img src="/img/Tops_Logo_NASA_Original.png" alt="NASA-TOPS"></a>
     </figure>
   </div>
 
