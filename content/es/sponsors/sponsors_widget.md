@@ -61,10 +61,22 @@
 </br></br>
 <div class="row-sponsor">
 <div class="row">
+  
+  <div class="col-12 col-sm-auto">
+     <figure>
+    <a href="https://www.nasa.gov/" target="_blank" rel="noopener"><img src="/img/Tops_Logo_NASA_Original" alt="NASA-TOPS"></a>
+    </figure>
+  </div>
 
   <div class="col-12 col-sm-auto">
      <figure>
     <a href="https://chanzuckerberg.com/" target="_blank" rel="noopener"><img src="/img/CZI_logo_2022.png" alt="Chan Zuckerberg Initiative"></a>
+    </figure>
+  </div>
+
+  <div class="col-12 col-sm-auto">
+     <figure>
+    <a href="https://investinopen.org/" target="_blank" rel="noopener"><img src="/img/IOI_logo_2023.png" alt="Invest in Open Infrastructure" width="300"></a>
     </figure>
   </div>
 
