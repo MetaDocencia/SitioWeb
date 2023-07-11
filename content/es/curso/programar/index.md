@@ -85,4 +85,10 @@ El taller tiene una duración de 3 horas con intervalos de aproximadamente 5 min
 
 * [Presentación que usamos en el curso](https://docs.google.com/presentation/d/1sj6tbtqjWY8AvcQLVih3FTFIa1pKERFRxk3KY8KK13w/edit?usp=sharing) con notas ampliando el contenido para quienes dan la clase.
 
-* [Plantilla de formulario para la encuesta de fin del taller]()
+* [Plantilla de nuestro documento para notas compartidas](https://drive.google.com/file/d/1PK0mbRYke33qQIKcgmrlusJe6dIGYx9y/view?usp=sharing)
+
+* [Video del curso](https://youtu.be/awRCNo0PEZU)
+
+### ¡Sírvete sin culpa!
+
+¿Te vienen bien cualquiera de nuestros contenidos? ¡Sírvete sin culpa! Nuestros materiales están disponibles en forma gratuita bajo esta [licencia](https://creativecommons.org/licenses/by/4.0/deed.es). Es decir, puedes reusar o editar cualquier material que aparece encima de estas líneas, lo único que pedimos a cambio es que incluyas una referencia a esta página web. Para más información, escríbenos a [cursos@metadocencia.org](mailto:cursos@metadocencia.org).

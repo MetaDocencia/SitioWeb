@@ -101,13 +101,15 @@ This is a 3-hour workshop with intervals (ideally away from any screen) of appro
  |  10 | End of the workshop: summary and feedback |
 
 
-### Course materials
+### Course materials (in Spanish)
 
-* [Presentation used during the course](https://docs.google.com/presentation/d/1sj6tbtqjWY8AvcQLVih3FTFIa1pKERFRxk3KY8KK13w/edit)
+* [Presentation used during the course (in Spanish)](https://docs.google.com/presentation/d/1sj6tbtqjWY8AvcQLVih3FTFIa1pKERFRxk3KY8KK13w/edit)
 
-* [End-of-workshop feedback form template]()
+* [Shared document template (in Spanish)](https://drive.google.com/file/d/1PK0mbRYke33qQIKcgmrlusJe6dIGYx9y/view?usp=sharing)
+
+* [Course recording (in Spanish)](https://youtu.be/awRCNo0PEZU)
 
 
 ### Do you want to re-use any of our contents? Please, be our guest!
 
-Our materials are available for free under this [license](https://creativecommons.org/licenses/by/4.0/deed.es). You can reuse or edit any material that appears here, the only thing we ask in return is that when you reuse our materials you include a reference to this website.
+Our materials are available for free under this [license](https://creativecommons.org/licenses/by/4.0/deed.es). You can reuse or edit any material that appears here, the only thing we ask in return is that when you reuse our materials you include a reference to this website. For further information, contact us at [cursos@metadocencia.org](mailto:cursos@metadocencia.org).
