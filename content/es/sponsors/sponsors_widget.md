@@ -54,7 +54,11 @@
 <style>
   .row-sponsor {
     text-align:center;
-      width:100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    width:100%;
+    place-items: center;
   }
 </style>
 
@@ -84,7 +88,6 @@
      <figure>
     <a href="https://codeforscience.org/" target="_blank" rel="noopener"><img src="/img/cs&s_logo_2022.png" alt="Code for Science & Society"></a>
     </figure>
-
   </div>
   
 </div></div>
