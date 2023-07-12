@@ -4,7 +4,7 @@ authors:
 bio: ""
 email: ""
 name: CS&S
-weight: 1
+weight: 4
 role: 
 social:
 - icon: globe
