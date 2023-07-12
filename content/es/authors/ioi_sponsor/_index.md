@@ -8,7 +8,7 @@ weight: 1
 role: 
 social:
 - icon: globe
-  icon_pack: fas
+  icon_pack: fas 
   link: https://investinopen.org/
 superuser: false
 user_groups:
