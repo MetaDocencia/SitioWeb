@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 02 # Order that this section will appear.
 
 title = "Auspiciantes anteriores"
-subtitle = ""
+subtitle = " "
 
 [content]
   # Choose which groups/teams of users to display.
