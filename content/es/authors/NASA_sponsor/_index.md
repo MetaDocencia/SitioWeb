@@ -12,5 +12,5 @@ social:
   link: https:https://www.nasa.gov/
 superuser: false
 user_groups:
--  Sponsors
+-  Auspiciantes actuales
 ---
