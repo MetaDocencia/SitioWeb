@@ -4,7 +4,7 @@ authors:
 bio: ""
 email: ""
 name: CZI Ciencia Abierta
-weight: 1
+weight: 2
 role: 
 social:
 - icon: globe
