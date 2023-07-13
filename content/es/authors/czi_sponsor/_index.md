@@ -1,6 +1,6 @@
 ---
 authors:
-- czi
+- czi_sponsor
 bio: ""
 email: ""
 name: CZI Chang Zuckerberg Initiative
