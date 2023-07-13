@@ -1,16 +1,17 @@
 ---
 authors:
-- NASA-TOPS
+- OBF
 bio: ""
 email: ""
-name: NASA-TOPS
+name: OBF Open Bioinformatics Foundation
 weight: 1
 role: 
 social:
 - icon: globe
   icon_pack: fas
-  link: https:https://www.nasa.gov/
+  link: https://www.open-bio.org/
 superuser: false
 user_groups:
-- Current sponsors
+-   Previous sponsors
 ---
+

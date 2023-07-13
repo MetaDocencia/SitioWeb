@@ -3,8 +3,8 @@ authors:
 - CS&S
 bio: ""
 email: ""
-name: CS&S
-weight: 1
+name: CS&S Code for Science & Society
+weight: 2
 role: 
 social:
 - icon: globe
@@ -12,5 +12,5 @@ social:
   link: https://www.codeforsociety.org/
 superuser: false
 user_groups:
-- Current sponsors
+- Confían en MetaDocencia
 ---
