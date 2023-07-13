@@ -3,7 +3,7 @@ authors:
 - INTA
 bio: ""
 email: ""
-name: INTA Instituto Nacional de Tecnología Agropecuaria (Estación Experimental Agropecuaria Anguil)
+name: INTA (Estación Experimental Agropecuaria Anguil)
 weight: 3
 role: 
 social:
