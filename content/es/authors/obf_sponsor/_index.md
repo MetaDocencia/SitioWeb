@@ -1,15 +1,15 @@
 ---
 authors:
-- RLadiesBA
-bio: ""
+- OBF
+bio: "Beca a Laura Ación"
 email: ""
-name: RLadies Buenos Aires
-weight: 2
+name: OBF Open Bioinformatics Foundation
+weight: 1
 role: 
 social:
 - icon: globe
   icon_pack: fas
-  link: https://rladiesba.netlify.app/
+  link: https://www.open-bio.org/
 superuser: false
 user_groups:
 -  Auspiciantes anteriores
