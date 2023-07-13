@@ -1,27 +1,36 @@
 +++
-# A "Meet the Team" section created with the People widget.
-# This section displays people from `content/authors/` which belong to the `user_groups` below.
-
-widget = "people"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = false # This file represents a page section.
+# A Projects section created with the Portfolio widget.
+widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 02 # Order that this section will appear.
+weight = 01  # Order that this section will appear.
 
-title = " "
-subtitle = " "
+title = "Consulting"
+subtitle = ""
 
 [content]
-  # Choose which groups/teams of users to display.
-  #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-  user_groups = ["Clients Who Trust Our Services"]
+  # Page type to display. E.g. project.
+  page_type = "Consulting"
+  
+  # Filter toolbar (optional).
+  # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
+  # To show all items, set `tag` to "*".
+  # To filter by a specific tag, set `tag` to an existing tag name.
+  # To remove toolbar, delete/comment all instances of `[[content.filter_button]]` below.
+  
+  # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
+  filter_default = 0
+   
+#  [[content.filter_button]]
+#    name = "Next events"
+#    tag = "Next events"
+    
+#  [[content.filter_button]]
+#    name = "previous events"
+#    tag = "previous events"
+
 
 [design]
-  # Show user's social networking links? (true/false)
-  show_social = true
-
-  # Show user's interests? (true/false)
-  show_interests = false
-
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
 
@@ -62,18 +71,16 @@ subtitle = " "
  css_class = ""
 +++
 
-Consulting
-===============
 
 Our team has extensive experience and expertise in different disciplines and areas. We advise and guide processes for both people and organizations in English, Spanish, and Portuguese. Some of the topics we specialize in are:
 
-	* Teaching and organization of active events
-	* Capacity building for open science (e.g., train-the-trainer)
-	* Open science in Latin America
-	* Responsible use of data for data science and artificial intelligence
-	* Bioinformatics
-	* Building diverse and inclusive communities of practice
-	* Governance and sustainability of open science projects
-	* Organizing focus groups
+- Teaching and organization of active events
+- Capacity building for open science (e.g., train-the-trainer)
+- Open science in Latin America
+- Responsible use of data for data science and artificial intelligence
+- Bioinformatics
+- Building diverse and inclusive communities of practice
+- Governance and sustainability of open science projects
+- Organizing focus groups
 
 Read more about our experience in [our prospectus](https://zenodo.org/record/7093618) and contact us at [info@metadocencia.org](info@metadocencia.org).
