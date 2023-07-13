@@ -7,13 +7,13 @@ headless = false # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 02 # Order that this section will appear.
 
-title = "Auspiciantes"
+title = "Clients"
 subtitle = " "
 
 [content]
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-  user_groups = ["Confían en MetaDocencia"]
+  user_groups = ["Clients Who Trust Our Services"]
 
 [design]
   # Show user's social networking links? (true/false)

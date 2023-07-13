@@ -4,7 +4,7 @@ authors:
 bio: ""
 email: "info@investinopen.org"
 name: IOI - Invest in Open Infrastructure
-weight: 1
+weight: 3
 role: 
 social:
 - icon: globe
