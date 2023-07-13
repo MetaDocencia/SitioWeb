@@ -1,16 +1,17 @@
 ---
 authors:
-- CS&S
+- moore
 bio: ""
 email: ""
-name: CS&S Code for Science & Society
+name: Gordon and Betty Moore Foundation
 weight: 4
 role: 
 social:
 - icon: globe
   icon_pack: fas
-  link: https://www.codeforsociety.org/
+  link: https://www.moore.org/
 superuser: false
 user_groups:
--  Auspiciantes actuales
+-  Auspiciantes anteriores
 ---
+
