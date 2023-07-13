@@ -12,5 +12,5 @@ social:
   link: https://chanzuckerberg.com/science/programs-resources/open-science/
 superuser: false
 user_groups:
--  Auspiciantes actuales
+- Auspiciantes actuales
 ---
