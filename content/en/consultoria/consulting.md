@@ -65,12 +65,11 @@ subtitle = ""
   
 [advanced]
  # Custom CSS. 
- css_style = "text-align: center;"
+ css_style = ""
  
  # CSS class.
  css_class = ""
 +++
-
 
 Our team has extensive experience and expertise in different disciplines and areas. We advise and guide processes for both people and organizations in English, Spanish, and Portuguese. Some of the topics we specialize in are:
 
