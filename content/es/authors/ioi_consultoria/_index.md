@@ -12,6 +12,6 @@ social:
   link: https://investinopen.org/
 superuser: false
 user_groups:
-- Confían en MetaDocencia
+- Trabajamos con
 ---
 
