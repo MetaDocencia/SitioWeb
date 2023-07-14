@@ -12,6 +12,6 @@ social:
   link: https://rladiesba.netlify.app/
 superuser: false
 user_groups:
--   Previous sponsors
+-   Previous
 ---
 
