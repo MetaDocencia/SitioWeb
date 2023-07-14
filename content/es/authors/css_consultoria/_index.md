@@ -12,5 +12,5 @@ social:
   link: https://www.codeforsociety.org/
 superuser: false
 user_groups:
-- Confían en MetaDocencia
+- Trabajamos con
 ---
