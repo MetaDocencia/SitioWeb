@@ -67,7 +67,7 @@ weight = 20
   weight = 20
   [[main]]
   name = "Consulting"
-  url = "consulting/"
+  url = "consultoria/"
   parent = "What We Do"
   weight = 30
  #[[main]]
