@@ -12,6 +12,6 @@ social:
   link: https://www.open-bio.org/
 superuser: false
 user_groups:
--  Auspiciantes anteriores
+-  Anteriores
 ---
 

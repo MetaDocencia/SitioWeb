@@ -12,6 +12,6 @@ social:
   link: https://www.argentina.gob.ar/inta
 superuser: false
 user_groups:
--  Auspiciantes anteriores
+-  Anteriores
 ---
 

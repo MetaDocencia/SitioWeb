@@ -12,6 +12,6 @@ social:
   link: https://www.moore.org/
 superuser: false
 user_groups:
--   Previous sponsors
+-   Previous
 ---
 
