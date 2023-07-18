@@ -62,7 +62,7 @@ weight = 20
   weight = 10
   [[main]]
   name = "Events"
-  url = "events/"
+  url = "eventos/"
   parent = "What We Do"
   weight = 20
   [[main]]
