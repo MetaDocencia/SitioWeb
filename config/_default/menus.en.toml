@@ -98,7 +98,7 @@ weight = 20
   weight = 20
   [[main]]
   name = "Newsletters"
-  url = "newsletter"
+  url = "boletines"
   parent = "News"
   weight = 30
 
