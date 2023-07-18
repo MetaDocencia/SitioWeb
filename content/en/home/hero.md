@@ -46,7 +46,7 @@ hero_media = "MD_original.png"
  icon = "Read more"
 
 [cta_alt] 
-url = "https://www.metadocencia.org/en/consulting/" 
+url = "https://www.metadocencia.org/en/consultoria/" 
 label = "Consulting"
 
 
