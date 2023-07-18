@@ -30,7 +30,7 @@ weight = 10
     weight = 40
   [[main]]
   name = "Accessibility"
-  url = "post/accessibility_profiles/"
+  url = "accessibility_profiles/"
   parent = "About Us"
     weight = 50
   [[main]]
