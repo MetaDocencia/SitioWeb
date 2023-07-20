@@ -6,7 +6,7 @@ image:
   alt_text: "Photo of a computer coding"
 linktitle: Teach programming Workshop
 summary: Introductory online synchronous workshop to teach programming online
-title: How to teach programming online
+title: How to Teach Programming Online
 authors: 
     - "MetaDocencia"
 type: course
@@ -57,27 +57,6 @@ This is **NOT** a programming course (this is a course about how to teach progra
 
 * Programming techniques 
 * Theory of pedagogy
-
-### How to participate 
-
-If you hadn't done it before, please fill on 
-[this registration form in Spanish](https://docs.google.com/forms/d/e/1FAIpQLScC20Me-fX7UmCNhNswulYfOVQF4XiyIHgtde_R8CWreCmWhA/viewform). 
-
-In order to participate in this workshop please fill in your email in the following  form:
-
-<iframe 
-  src="https://script.google.com/macros/s/AKfycbxiLVssqLE184JQDnu4LPHkgChp-mbpRNOWQ7OGou96XGVUrMRL1oCCpnPq6_0W-1kU6Q/exec"
-  frameBorder="0",
-  title = "Formulario de pre-inscripción",
-  width="100%",
-  height = 300px,
-  vertical-align="text-top">
-  Explorador no compatible.
-</iframe> 
-
-(In the form does not appear, it is possible that you have a blocker that prevents you to see it. In this case you, you can follow [this link](https://script.google.com/macros/s/AKfycbxiLVssqLE184JQDnu4LPHkgChp-mbpRNOWQ7OGou96XGVUrMRL1oCCpnPq6_0W-1kU6Q/exec))
-
-As soon as we open slots we will send you an invitation email so you can choose the day and time that suits you best. 
 
 The workshop is free. Those invited to the workshop agree to abide by our [code of conduct](https://metadocencia.org/cdc/). 
 
