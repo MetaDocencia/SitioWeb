@@ -43,7 +43,7 @@ Como enseñamos en MetaDocencia, la Educación es en parte un proceso social. Po
 
 Siempre resulta mejor priorizar a las personas por sobre las herramientas tecnológicas. Las nuevas herramientas de Inteligencia Artificial son generadoras de enorme riqueza para pocas personas y de mayor desigualdad para el resto de la humanidad. Todo esto está mucho mejor explicado en la "[Declaración de Montevideo sobre Inteligencia Artificial y su impacto en América Latina](http://tiny.cc/DeclaMVD)", donde más de 400 personas expertas en Inteligencia Artificial, mayormente de América Latina, comenzamos a advertir sobre esto en marzo de 2023. **Te invitamos a firmar la declaración pero, sobre todo, a seguir reflexionando en forma crítica y a hacerte las preguntas que importan.**
 
-*¿Te gustó esta publicación? Puedes reutilizarla libremente bajo licencia cc by 4.0, solo tienes que citarla.* 
+*¿Te gustó esta publicación? Puedes reutilizarla libremente bajo licencia CC by 4.0, solo tienes que citarla.* 
 
 Esta es la cita que te recomendamos usar para referenciarla:
 
