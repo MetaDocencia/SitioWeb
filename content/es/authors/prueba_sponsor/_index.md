@@ -4,6 +4,7 @@ authors:
 bio: ""
 email: ""
 name: Prueba Buenos Aires
+link: https://rladiesba.netlify.app/
 weight: 2
 role: 
 social:
@@ -13,11 +14,5 @@ social:
 superuser: false
 user_groups:
 -  Anteriores
-_build:
-  render: never
-cascade:
-  _build:
-    render: never
-    list: always
 ---
 
