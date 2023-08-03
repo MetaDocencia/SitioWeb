@@ -13,7 +13,11 @@ social:
 superuser: false
 user_groups:
 -  Anteriores
-design:
-      position: center
+_build:
+  render: never
+cascade:
+  _build:
+    render: never
+    list: always
 ---
 
