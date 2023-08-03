@@ -14,7 +14,7 @@ superuser: false
 user_groups:
 -  Anteriores
 design:
-      columns: '1'
+      columns: '2'
       view: showcase
       flipp_alt_rows: true
       position: center
