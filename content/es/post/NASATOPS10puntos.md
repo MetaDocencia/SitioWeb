@@ -17,6 +17,7 @@ tags:
 Como te contamos apenas recibimos la noticia (Figura 1), junto a OLS, 2i2c y con el apoyo de la NASA, nos sumamos a la iniciativa de transformar la ciencia y la técnica a prácticas abiertas.
 
 ![Con emoción y alegría anunciamos el apoyo para nuestra nueva etapa.](https://www.metadocencia.org/img/NASAtweet.jpg)
+
 *Figura 1. Con emoción y alegría anunciamos el apoyo para nuestra nueva etapa.* 
 *Fuente: [Twitter de MetaDocencia](https://twitter.com/metadocencia), 11 de abril de 2023.*
 
