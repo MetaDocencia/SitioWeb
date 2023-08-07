@@ -16,12 +16,12 @@ tags:
 
 Como te contamos apenas recibimos la noticia (Figura 1), junto a OLS, 2i2c y con el apoyo de la NASA, nos sumamos a la iniciativa de transformar la ciencia y la técnica a prácticas abiertas.
 
+*Figura 1. Con emoción y alegría anunciamos el apoyo para nuestra nueva etapa. Fuente: [Twitter de MetaDocencia](https://twitter.com/metadocencia), 11 de abril de 2023.*
 ![Con emoción y alegría anunciamos el apoyo para nuestra nueva etapa.](https://www.metadocencia.org/img/NASAtweet.jpg)
-*Figura 1. Con emoción y alegría anunciamos el apoyo para nuestra nueva etapa.Fuente: [Twitter de MetaDocencia](https://twitter.com/metadocencia), 11 de abril de 2023.*
 
 La emoción y la alegría del anuncio se incrementan según vamos comenzando a trabajar en estos proyectos.
 
-¿Cómo lo conseguimos? ¿Qué representa? ¿Cómo lo haremos? ¿Qué alcance e impacto esperamos que tenga? Te contamos más en estos 10 puntos: 
+**¿Cómo lo conseguimos? ¿Qué representa? ¿Cómo lo haremos? ¿Qué alcance e impacto esperamos que tenga? Te contamos más en estos 10 puntos:** 
 
 1. La [NASA asumió el compromiso de construir una comunidad científica abierta e inclusiva durante la próxima década](https://science.nasa.gov/open-science-overview). Se trata de trabajar globalmente por el intercambio abierto de software, datos, ciencia, técnica y saberes, para que la investigación sea transparente, inclusiva, accesible y reproducible.
    Para ayudar a construir una cultura de ciencia abierta, la NASA está promoviendo la [Open-Source Science Initiative (OSSI)](https://science.nasa.gov/open-science-overview), un programa integral de actividades para apoyar el avance de la ciencia hacia la apertura. En el marco de este programa, **MetaDocencia formará personas de ciencia y técnica hispanohablantes para transformar su trabajo diario a la ciencia abierta**.
