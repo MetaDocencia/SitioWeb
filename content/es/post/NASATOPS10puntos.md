@@ -2,7 +2,7 @@
 date: "2023-08-07"
 draft: false
 type: page
-title: "Arrancamos a transformarnos hacia la ciencia abierta junto con la NASA: ¡10 puntos!"
+title: "Arrancamos a transformarnos hacia la Ciencia Abierta junto con la NASA: ¡10 puntos!"
 linktitle: NASA TOPS 10 puntos
 summary: "¿Cómo lo conseguimos? ¿Qué representa? ¿Cómo lo haremos? ¿Qué alcance e impacto esperamos que tenga? Te contamos más en estos 10 puntos."
 authors:
@@ -26,7 +26,7 @@ La emoción y la alegría del anuncio se incrementan según vamos comenzando a t
 **¿Cómo lo conseguimos? ¿Qué representa? ¿Cómo lo haremos? ¿Qué alcance e impacto esperamos que tenga? Te contamos más en estos 10 puntos:** 
 
 1. La [NASA asumió el compromiso de construir una comunidad científica abierta e inclusiva durante la próxima década](https://science.nasa.gov/open-science-overview). Se trata de trabajar globalmente por el intercambio abierto de software, datos, ciencia, técnica y saberes, para que la investigación sea transparente, inclusiva, accesible y reproducible.
-   Para ayudar a construir una cultura de ciencia abierta, la NASA está promoviendo la [Open-Source Science Initiative (OSSI)](https://science.nasa.gov/open-science-overview), un programa integral de actividades para apoyar el avance de la ciencia hacia la apertura. En el marco de este programa, **MetaDocencia formará personas de ciencia y técnica hispanohablantes para transformar su trabajo diario a la ciencia abierta**.
+Para ayudar a construir una cultura de ciencia abierta, la NASA está promoviendo la [Open-Source Science Initiative (OSSI)](https://science.nasa.gov/open-science-overview), un programa integral de actividades para apoyar el avance de la ciencia hacia la apertura. En el marco de este programa, **MetaDocencia formará personas de ciencia y técnica hispanohablantes para transformar su trabajo diario a la ciencia abierta**.
 
 3. Para apoyar esta transformación, la NASA realizó una llamada abierta para ejecutar 6,5 millones de dólares del proyecto Transform to Open Science (TOPS), de 5 años de duración, cuyo  objetivo es formar 20.000 personas de ciencia y técnica en estos temas.
 
@@ -36,7 +36,7 @@ La emoción y la alegría del anuncio se incrementan según vamos comenzando a t
 
 6. Para OLS y MetaDocencia este apoyo representa **sostenibilidad**, un norte claro y definido y muchas metas por cumplir. Estamos encantadas de tener una hoja de ruta de tres años que nos ayude a seguir haciendo el trabajo que nos gusta, profundizando el compromiso con los valores de una ciencia y técnica al servicio de nuestras sociedades.
 
-7. Por su parte, junto a 2i2c nos comprometimos a **desarrollar contenidos educativos** específicos para TOPS ScienceCore. Esta propuesta reúne módulos curriculares asociados a distintas disciplinas específicas, con el objetivo de aumentar el conocimiento y las habilidades necesarios para aprovechar las herramientas y tecnologías abiertas de NASA para la investigación de la tierra y el espacio. Nuestro módulo formativo estará orientado al **análisis de datos satelitales abiertos** y útiles para entender y predecir inundaciones, incendios forestales y sequías.
+7. Por su parte, junto a 2i2c nos comprometimos a **desarrollar contenidos educativos** específicos para TOPS ScienceCore. Esta propuesta reúne módulos curriculares asociados a distintas disciplinas específicas, con el objetivo de aumentar el conocimiento y las habilidades necesarios para aprovechar las herramientas y tecnologías abiertas de NASA para la investigación de la Tierra y el espacio. Nuestro módulo formativo estará orientado al **análisis de datos satelitales abiertos** y útiles para entender y predecir inundaciones, incendios forestales y sequías.
 
 8. Para MetaDocencia, esta colaboración con 2i2c es una oportunidad valiosa para poner en práctica nuestros conocimientos sobre diseño instruccional y nuestra experiencia en ciencia y educación abiertas al **servicio de la comunidad**. Representa un impulso adicional para nuestra sostenibilidad institucional durante los próximos dos años, comprometiéndonos todavía más en el camino elegido con atención a problemáticas vigentes y centrales para nuestra región.
 
