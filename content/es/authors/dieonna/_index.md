@@ -21,8 +21,7 @@ name: Diego Onna
 weight: 1
 organizations:
 - name: 
-  url: ""
-
+  url: "
 role: 
 social:
 - icon: envelope
