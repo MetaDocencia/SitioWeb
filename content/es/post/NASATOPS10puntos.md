@@ -53,3 +53,5 @@ Si quieres saber más o mostrarnos tu interés para participar en la próxima et
 *¿Te gustó esta publicación? Puedes reutilizarla libremente bajo licencia CC by 4.0, solo tienes que citarla.* 
 
 Esta es la cita que te recomendamos usar para referenciarla: 
+
+MetaDocencia Team. (2023). Arrancamos a transformarnos hacia la Ciencia Abierta junto con la NASA: ¡10 puntos!. Zenodo. https://doi.org/10.5281/zenodo.8221058
