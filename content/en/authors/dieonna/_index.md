@@ -4,10 +4,10 @@ authors:
 bio: ""
 education: 
  courses:
-  - course: Doctor in Chemical Sciences
+  - course: Doctor in Chemistry
     institution: Universidad de Buenos Aires (UBA), Argentina.
     year: 2017 
-  - course: Licenciate in Chemical Sciences
+  - course: Licenciate in Chemistry
     institution: Universidad de Buenos Aires (UBA), Argentina.
     year: 2012
 email: "diego.onna@gmail.com"
@@ -45,6 +45,5 @@ user_groups:
 - Outside Contributors
 ---
 
-Diego is a CONICET researcher based at the Faculty of Exact and Natural Sciences of the University of Buenos Aires. He holds a B.Sc. and a Ph.D. in Chemistry from the University of Buenos Aires. His research aims to develop new materials using artificial intelligence and data science to reduce contamination, time, and costs. He has been a university professor for more than ten years and has worked in various educational institutions in undergraduate, graduate, and extension, in classroom and virtual mode. He constantly seeks to innovate to improve the learning experience and include new technologies. He actively participates in open science projects (The Carpentries, Open Life Science, Code for Science & Society).
-
+Diego is a CONICET researcher based at the Faculty of Exact and Natural Sciences of the University of Buenos Aires. He holds a B.Sc. and a Ph.D. in Chemistry from the University of Buenos Aires. His research aims to develop new materials using artificial intelligence and data science to reduce contamination, and production costs. He has been teaching for more than ten years and has worked in various educational institutions in undergraduate, graduate, and extension courses, both in person and virtual. He constantly innovates to improve the learning experience and include new technologies. He participates in open science projects such as The Carpentries, Open Life Science, Code for Science & Society.
 
