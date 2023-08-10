@@ -49,4 +49,5 @@ Follow us on social media to stay on top of new announcements! 🚀 If you want 
 *Did you like this post? You can reuse it freely under CC by 4.0 license. Just cite it!*
 
 Here is the citation we recommend you use: 
+
 MetaDocencia Team. (2023). We started to transform toward Open Science together with NASA: 10 points!. Zenodo. https://doi.org/10.5281/zenodo.8233747
