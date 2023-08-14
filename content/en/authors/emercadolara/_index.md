@@ -22,7 +22,7 @@ role: Advisory Committee
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'contact'
+  link: "mailto:eunice@orfg.org"
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/eunice-mercado-lara/

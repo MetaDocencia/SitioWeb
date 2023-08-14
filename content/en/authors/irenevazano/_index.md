@@ -7,7 +7,7 @@ education:
   - course: Technician in library science.
     institution: UCSE-DABA 
     year: 
-email: ""
+email: "irene.vazano@metadocencia.org"
 interests:
 - Library science
 - Education
@@ -21,7 +21,7 @@ role: Governance, Infrastructure, and Teaching Teams
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'contact'
+  link: "mailto:irene.vazano@metadocencia.org"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ni_airo
@@ -33,5 +33,5 @@ user_groups:
 - Contributors
 ---
 
-Advanced student of Library Science with work experience in academic libraries and technology. She participates in digital projects involving administration and accessibility. Certified instructor by The Carpentries. Irene is part of MetaDocencia since 2020.
+Library Science degree with work experience in academic libraries and technology. She participates in digital projects involving administration and accessibility. Certified instructor by The Carpentries. Irene is part of MetaDocencia since 2020.
 

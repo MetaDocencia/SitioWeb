@@ -7,7 +7,7 @@ education:
   - course: Licenciada en Bibliotecología.
     institution: UCSE-DABA 
     year: 
-email: "mailto:irene.vazano@metadocencia.org"
+email: "irene.vazano@metadocencia.org"
 interests:
 - Bibliotecología
 - Educación
