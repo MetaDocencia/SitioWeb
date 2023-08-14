@@ -18,7 +18,7 @@ role: Accessibility Team
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'contact'
+  link: "mailto:ivanpoggio@metadocencia.org"
 superuser: false
 user_groups:
 - Contributors

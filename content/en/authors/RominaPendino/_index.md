@@ -15,7 +15,7 @@ role: Governance, Code of Conduct, and Teaching Teams
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'contact'
+  link: "mailto:romipendino@metadocencia.org"
 superuser: false
 user_groups:
 - Contributors

@@ -24,7 +24,7 @@ role: Communication and Communities Coordinator, Advisory Committee
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'contact'
+  link: "mailto:laurel@metadocencia.org"
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/lauradascenzi/
