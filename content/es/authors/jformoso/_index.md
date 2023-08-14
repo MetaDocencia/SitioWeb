@@ -24,7 +24,7 @@ role: Equipo de gobernanza y medición de impacto
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'contact'
+  link: "mailto:jesica.formoso@metadocencia.org"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/JesiFormoso
