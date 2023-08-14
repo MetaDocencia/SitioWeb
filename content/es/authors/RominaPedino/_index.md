@@ -3,7 +3,7 @@ authors:
 - RominaPendino
 bio: ""
 education:
-email: ""
+email: "romipendino@metadocencia.org"
 interests:
 - Educación
 - Género y derechos humanos
@@ -15,7 +15,7 @@ role: Equipos de Gobernanza, Código de Conducta y Enseñanza
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'contact'
+  link: "mailto:romipendino@metadocencia.org"
 superuser: false
 user_groups:
 - Integrantes
