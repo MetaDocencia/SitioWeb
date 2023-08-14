@@ -25,7 +25,7 @@ role: Coordinadora de Proyecto y Desarrollo de Cursos
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'contact'
+  link: "mailto:paz.miguez@metadocencia.org"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Paz_M

@@ -7,7 +7,7 @@ education:
   - course: Licenciada en Ciencias Matemáticas
     institution:  Universidad de Buenos Aires
     year: 
-email: ""
+email: "marielaraj@metadocencia.org"
 interests:
 name: Mariela Rajngewerc
 weight: 16
@@ -18,7 +18,7 @@ organizations:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'contact'
+  link: "mailto:marielaraj@metadocencia.org"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/mariela_rajng
