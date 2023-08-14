@@ -9,7 +9,7 @@ education:
     year: 
 email: "mailto:irene.vazano@metadocencia.org"
 interests:
-- Bibliotecolog{ia
+- Bibliotecología
 - Educación
 - Tecnología
 name: Irene Vazano
@@ -21,7 +21,7 @@ role: Equipos de Gobernanza, Infraestructura y Enseñanza
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'email'
+  link: "mailto:irene.vazano@metadocencia.org"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ni_airo
@@ -33,4 +33,4 @@ user_groups:
 - Integrantes
 ---
 
-Estudiante avanzada de la carrera de Bibliotecología con experiencia de trabajo en bibliotecas académicas en el área de tecnología. Trabaja de forma freelance para distintos proyectos digitales con roles de administración y de calidad de accesibilidad. Instructora certificada por The Carpentries. Participa en MetaDocencia desde 2020.
+Licenciada en Bibliotecología con experiencia de trabajo en bibliotecas académicas en el área de tecnología. Trabaja de forma freelance para distintos proyectos digitales con roles de administración y de calidad de accesibilidad. Instructora certificada por The Carpentries. Participa en MetaDocencia desde 2020.
