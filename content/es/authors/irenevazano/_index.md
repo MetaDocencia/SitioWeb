@@ -21,7 +21,7 @@ role: Equipos de Gobernanza, Infraestructura y Enseñanza
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'contact'
+  link: 'email'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ni_airo
