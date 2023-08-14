@@ -16,7 +16,7 @@ education:
   - course: Licenciatura en Biología
     institution: Universidad de Buenos Aires
     year: 2002
-email: ""
+email: "laura.acion@metadocencia.org"
 interests:
 - Ciencias de datos de salud
 - Inteligencia artificial responsable
@@ -30,7 +30,7 @@ role: Coordinación General
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'contact'
+  link: "mailto:laura.acion@metadocencia.org"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/_lacion_
