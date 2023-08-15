@@ -18,7 +18,7 @@ role: Accessibility Team
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'contact'
+  link: "mailto:marielaraj@metadocencia.org"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/LoopLiquido

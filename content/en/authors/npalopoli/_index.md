@@ -10,7 +10,7 @@ education:
   - course: Licenciate degree in Biotechnology
     institution: Universidad de Quilmes
     year: ""
-email: ""
+email: "npalopoli@metadocencia.org"
 interests:
 - Proteins
 - Computational Biology
@@ -27,13 +27,16 @@ role: General Coordination, Advisory Committee
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'contact'
+  link: "mailto:npalopoli@metadocencia.org"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/NPalopoli
 - icon: globe
   icon_pack: fas
   link: https://about.me/npalopoli
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0001-7925-6436
 - icon: github
   icon_pack: fab
   link: https://github.com/npalopoli
