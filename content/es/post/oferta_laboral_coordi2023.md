@@ -1,6 +1,6 @@
 ---
 date: "2023-08-15"
-draft: true
+draft: false
 type: page
 title: "Búsqueda laboral: Coordinación de Proyectos"
 summary: "MetaDocencia está contratando a una persona que coordine varios de los proyectos que tenemos en marcha."
@@ -25,7 +25,7 @@ MetaDocencia es un proyecto sin fines de lucro que construye capacidades cientí
 
 Somos un proyecto patrocinado fiscalmente por [Code for Science and Society](https://codeforscience.org/) y co-dirigido por Laura Ación y Nicolás Palopoli.
 
-### Cuáles serán las responsabilidades de la persona contratada en este puesto** 
+### Cuáles serán las responsabilidades de la persona contratada en este puesto
 - Integrarse al equipo de coordinación que supervisa, gestiona y administra los proyectos que están en marcha en MetaDocencia, con énfasis en ser enlace con comunidades de práctica latinoamericanas e internacionales y la medición de nuestro funcionamiento e impacto.
 - Colectar y analizar datos con especial atención al uso responsable de datos.
 - Generar reportes para medir impacto trimestralmente y para la mejora de procedimientos internos con la frecuencia que sea necesaria.
