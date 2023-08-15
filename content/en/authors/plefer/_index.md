@@ -23,7 +23,7 @@ role: Administration Team
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'contact'
+  link: "mailto:paola.lefer@metadocencia.org"
 superuser: false
 user_groups:
 - Contributors

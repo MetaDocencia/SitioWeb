@@ -4,9 +4,9 @@ title: Pautas de convivencia
 
 Quienes organizamos MetaDocencia nos comprometemos a fomentar un ambiente abierto, seguro y amigable y garantizar la participación de todas las personas en nuestras actividades y espacios virtuales  independientemente de su edad, género, orientación sexual, discapacidad, apariencia física, nacionalidad, raza, etnia, religión (o la falta de ella), ideología u opciones tecnológicas. 
 
-Todas las personas que participen en MetaDocencia, incluyendo integrantes del equipo coordinador, colaboradores, equipo asesor y participantes deberán aceptar y respetar el siguiente código de conducta. 
+Todas las personas que participen en MetaDocencia, incluyendo integrantes del equipo coordinador, colaboradores, equipo asesor y participantes deberán aceptar y respetar las siguientes pautass de convivencia. 
 
-Si presencias una situación que viole este código de conducta, por favor, reportalo a [cdc@metadocencia.org](mailto:cdc@metadocencia.org) o al [equipo de Código de Conducta](#miembros_cdc).
+Si presencias una situación que viole estas pautas de convivencia, por favor, reportalo a [cdc@metadocencia.org](mailto:cdc@metadocencia.org) o al [equipo de Pautas de convivencia](#miembros_cdc).
 
 #### Ejemplos de comportamiento que contribuyen a crear un ambiente positivo para nuestra comunidad:
 
@@ -26,24 +26,24 @@ Si presencias una situación que viole este código de conducta, por favor, repo
 
 ## Alcance
 
-Este código de conducta aplica a todos los espacios relacionados con MetaDocencia. Esto incluye nuestras cuentas de correo electrónico, nuestro Slack, nuestras redes sociales, nuestros talleres, nuestra organización en GitHub y todos sus repositorios y cualquier otro medio que sea parte de MetaDocencia.
+Estas pautas de convivencia aplican a todos los espacios relacionados con MetaDocencia. Esto incluye nuestras cuentas de correo electrónico, nuestro Slack, nuestras redes sociales, nuestros talleres, nuestra organización en GitHub y todos sus repositorios y cualquier otro medio que sea parte de MetaDocencia.
 
-## Responsabilidades del equipo de Código de Conducta
+## Responsabilidades del equipo de Pautas de convivencia
 
-El equipo de Código de Conducta formado por integrantes de MetaDocencia es responsable de aclarar los estándares de comportamiento aceptable y se reserva el derecho de admisión o permanencia, temporal o permanente, en la comunidad de MetaDocencia para cualquier caso de comportamiento considerado inaceptable. 
+El equipo de Pautas de convivencia formado por integrantes de MetaDocencia es responsable de aclarar los estándares de comportamiento aceptable y se reserva el derecho de admisión o permanencia, temporal o permanente, en la comunidad de MetaDocencia para cualquier caso de comportamiento considerado inaceptable. 
 
-También tiene la responsabilidad y se reserva el derecho de eliminar, editar o rechazar comentarios, materiales y otras contribuciones que no estén alineadas con este Código de Conducta. 
+También tiene la responsabilidad y se reserva el derecho de eliminar, editar o rechazar comentarios, materiales y otras contribuciones que no estén alineadas con estas pautas de convivencia. 
 
-Los casos de comportamiento inaceptable pueden ser informados enviando un correo electrónico a [cdc@metadocencia.org](mailto:cdc@metadocencia.org) o a cualquier persona que integra el equipo de Código de Conducta. Todos los mensajes serán revisados e investigados y darán como resultado una respuesta apropiada a las circunstancias. Se respetará en todo momento la privacidad y seguridad de las personas afectadas y/o que reporten un incidente. 
+Los casos de comportamiento inaceptable pueden ser informados enviando un correo electrónico a [cdc@metadocencia.org](mailto:cdc@metadocencia.org) o a cualquier persona que integra el equipo de Pautas de convivencia . Todos los mensajes serán revisados e investigados y darán como resultado una respuesta apropiada a las circunstancias. Se respetará en todo momento la privacidad y seguridad de las personas afectadas y/o que reporten un incidente. 
 
-Las personas que forman parte del equipo de Código de Conducta se comprometen a recusarse en caso de haber conflicto de intereses asociados al reporte de un incidente. 
+Las personas que forman parte del equipo de Pautas de convivencia se comprometen a recusarse en caso de haber conflicto de intereses asociados al reporte de un incidente. 
 
-### Integrantes del equipo de Código de Conducta {#miembros_cdc}
+### Integrantes del equipo de Pautas de convivencia {#miembros_cdc}
 
 * [Romina Pendino](https://www.metadocencia.org/authors/rominapedino/)
 * [Mónica Alonso](https://www.metadocencia.org/authors/monialonso/)
 
 ## Atribución
 
-Este Código de Conducta es una adaptación del [Contributor Covenant](https://www.contributor-covenant.org), versión 2.0,
+Estas Pautas de convivencia son una adaptación del [Contributor Covenant](https://www.contributor-covenant.org), versión 2.0,
 disponible en https://www.contributor-covenant.org/es/version/2/0/code_of_conduct.html y [el código de conducta desarrollado para useR!2021](https://user2021.r-project.org/participation/coc/).
