@@ -61,7 +61,7 @@ Somos un proyecto patrocinado fiscalmente por [Code for Science and Society](htt
 
 **Compensación**
 Si la persona contratada tiene derecho de trabajar en un país de América Latina o del Caribe, ofrecemos:
-- Rango de compensación de US$ 20.000-25.000 (dólares estadounidenses) de bolsillo (neto) por 40 horas semanales, prorrateado proporcionalmente por las horas a las que te postules. Por ejemplo, si te postulas a 20 horas semanales, tu compensación anual será de US$ 10.000-12.500.
+- Rango de compensación anual de US$ 20.000-25.000 (dólares estadounidenses) de bolsillo (neto) por 40 horas semanales, prorrateado proporcionalmente por las horas a las que te postules. Por ejemplo, si te postulas a 20 horas semanales, tu compensación anual será de US$ 10.000-12.500.
 - Rango de US$ 4.000-5.000 anuales para reembolso de gastos, asumiendo una base de 40 horas semanales y prorrateados según la cantidad de horas semanales a las que te postules. Los reembolsos de gastos podrían ser, por ejemplo (pero no limitados a): días de vacaciones (hasta 20 días hábiles por año), licencia por maternidad (hasta 3 meses por embarazo), pagar espacio de co-trabajo en una oficina de tu elección, equipamiento para tu oficina en tu hogar, plan de salud o ahorros jubilatorios. En todos los casos, este monto se te pagará directamente y estarás a cargo de ejecutar este monto. MetaDocencia no coordinará ningún plan de salud o jubilatorio.
 - Durante los 3 meses de prueba, los montos anuales detallados en los ítems anteriores son del 75%, es decir rangos de US$ 15.000-18.750 y US$ 3.000-3.750 para una dedicación de 40 horas semanales, respectivamente.
 
