@@ -1,6 +1,6 @@
 ---
 date: "2023-08-25"
-draft: true
+draft: false
 type: page
 title: "Uniendo comunidades para ampliar la participación en la Ciencia Abierta"
 linktitle: OLS8
