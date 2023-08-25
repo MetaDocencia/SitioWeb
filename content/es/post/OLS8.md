@@ -90,6 +90,7 @@ Estas enseñanzas se compartirán abiertamente con la comunidad en general, para
 
 - **Cada organización asociada organizará sesiones temáticas**, en las que se debatirá una amplia gama de temas de interés común (desde cómo acceder a publicaciones académicas hasta cómo utilizar alt-text o estructurar un CV). Los temas se sugerirán a partir de una encuesta informal entre los miembros de la cohorte. 
 - Organizaremos **convocatorias aleatorias de trabajo en red entre colegas** (3 tutelados/directores de proyecto) cada mes. Estas llamadas serán un buen lugar para reunirse informalmente, hablar de su trabajo (proyectos, dificultades, éxitos, preguntas, etc.) o discutir las tareas o presentaciones de las llamadas de cohorte. Estas convocatorias sustituirán a las Cafeterías OLS-7 que no contaron con mucha asistencia. Esperamos que estas reuniones auto-organizadas más pequeñas funcionen mejor para la mayoría de la gente. 
+
 Aunque no es obligatorio para graduarse, animaremos a quienes participen de nuestra cohorte a integrarse en la comunidad a través de diversas actividades y canales. Creemos que esto nos ayudará a ampliar nuestras redes, aumentar nuestras posibilidades de colaboración y mantenernos al tanto de la enorme diversidad de perspectivas en la práctica científica.
 
 ## OLS-8, próximamente
