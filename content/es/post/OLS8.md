@@ -99,6 +99,6 @@ publicación.
 
 Aguardamos ansiosamente para dar la bienvenida a quienes participarán de la nueva cohorte junto con nuestras organizaciones asociadas y dar comienzo a Open Seeds OLS-8 en septiembre. 
 
-¿Tienes alguna idea o comentario que quieras compartir con nosotros? Envíe un correo electrónico a team@openlifesci.org, o conecte con Paz en Slack si es miembro de OLS.
+¿Tienes alguna idea o comentario que quieras compartir con nosotros? Envía un correo electrónico a team@openlifesci.org, o si ya eres integrante de OLS, conecta con Paz a través del Slack de OLS.
 
 **Reconocimiento de financiación:** Esta cohorte está financiada por el Wellcome Trust Open Research Fund y la beca CZI otorgada a OLS en 2022.
