@@ -22,6 +22,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/PatriLoto
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-1849-6916
 superuser: false
 user_groups:
 - Integrantes

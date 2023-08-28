@@ -34,6 +34,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/melissablck/
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-5406-2982
 superuser: false
 user_groups:
 -  Integrantes

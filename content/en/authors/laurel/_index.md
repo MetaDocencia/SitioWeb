@@ -31,6 +31,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/lauradaiana
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-9292-7561
 superuser: false
 user_groups:
 -  Contributors
