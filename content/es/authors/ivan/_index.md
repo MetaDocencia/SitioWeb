@@ -19,6 +19,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:ivanpoggio@metadocencia.org"
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0009-0007-9366-4533
 superuser: false
 user_groups:
 - Integrantes

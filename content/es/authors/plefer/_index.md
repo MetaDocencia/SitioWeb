@@ -24,6 +24,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:paola.lefer@metadocencia.org"
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0009-0005-5869-5567
 superuser: false
 user_groups:
 -  Integrantes

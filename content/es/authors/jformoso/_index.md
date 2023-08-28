@@ -34,6 +34,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/jesica-formoso-16ab4649
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-3062-4036
 superuser: false
 user_groups:
 -  Integrantes

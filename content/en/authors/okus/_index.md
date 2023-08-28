@@ -24,7 +24,10 @@ social:
   link: https://twitter.com/LoopLiquido
 - icon: gitlab
   icon_pack: fab
-  link:  https://gitlab.com/mrajng 
+  link:  https://gitlab.com/mrajng
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0001-8268-3260
 superuser: false
 user_groups:
 - Contributors
