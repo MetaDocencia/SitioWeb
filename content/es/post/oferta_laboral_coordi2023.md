@@ -2,7 +2,7 @@
 date: "2023-08-15"
 draft: false
 type: page
-title: "Búsqueda laboral: Coordinación de Proyectos"
+title: "Búsqueda laboral: Coordinación de Proyectos [Actualizado]"
 summary: "MetaDocencia está contratando a una persona que coordine varios de los proyectos que tenemos en marcha."
 authors: 
     - npalopoli
@@ -12,6 +12,12 @@ weight: 1
 tags: 
   - MetaDocencia
 ---
+
+**Actualización:** ¡Estamos felices por la hermosa respuesta que recibió esta búsqueda laboral! Confirmamos por email la recepción de cada postulación recibida: si no la recibiste aún, no dudes en contactarnos. ¡Muchas gracias por tu interés! Cuando volvamos a tener búsquedas abiertas lo anunciaremos por nuestras redes sociales. 
+
+------
+
+[Publicado originalmente el 15/08/2023]
 
 **Nota importante:** Si te gusta esta oferta laboral pero no tienes certeza de que tu perfil se ajuste a este rol, por favor, ¡postúlate de todas formas! MetaDocencia necesita realizar esta contratación cuanto antes ya que ninguna persona de nuestro equipo actual ni de las personas que se presentaron en nuestra búsqueda abierta anterior parece tener la disponibilidad o los requisitos esenciales que estamos buscando en este momento. Los requisitos pueden variar según las postulaciones que recibamos. Incluso si no cumples con todos, este es un gran momento para quedar en nuestro registro para futuras búsquedas, ya que no tenemos los recursos para abrir búsquedas siempre que necesitamos ampliar nuestro equipo y recurrimos a búsquedas anteriores. Si tienes preguntas sobre este anuncio por favor envíalas a [direccion@metadocencia.org](mailto:direccion@metadocencia.org).
 
