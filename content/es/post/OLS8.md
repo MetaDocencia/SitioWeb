@@ -101,3 +101,8 @@ Aguardamos ansiosamente para dar la bienvenida a quienes participarán de la nue
 ¿Tienes alguna idea o comentario que quieras compartir con nosotros? Envía un correo electrónico a team@we-are-ols.org, o si ya eres integrante de OLS, conecta con Paz a través del Slack de OLS.
 
 **Reconocimiento de financiación:** Esta cohorte está financiada por el Wellcome Trust Open Research Fund y la beca CZI otorgada a OLS en 2022. Los subsidios de la NASA 80NSSC23K0854 y 80NSSC23K0857 financian el trabajo de MetaDocencia en este proyecto.
+
+*¿Te gustó esta publicación? Puedes reutilizarla libremente bajo licencia CC by 4.0, solo tienes que citarla.* 
+
+Esta es la cita que te recomendamos usar para referenciarla: 
+Laurah Ondari, Michael Landi, Laura Ación, Nicolás Palopoli, Lena Karvovskaya, Malvika Sharan, Esther Plomp, Paz Bernaldo, Anelda van der Walt, & Laura Ascenzi. (2023). Uniendo comunidades para ampliar la participación en la Ciencia Abierta. Zenodo. https://doi.org/10.5281/zenodo.8304991
