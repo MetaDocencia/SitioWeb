@@ -11,7 +11,7 @@ authors:
   - "MetaDocencia"
 type: cursos
 tags:
- - Próximos cursos
+  - Ediciones anteriores
 weight: 50
 ---
 
@@ -20,8 +20,7 @@ weight: 50
 
 
 ### Cómo participar 
-Próximo taller:
-- **Jueves 4 de mayo de 2023 de 14 a 16 (UTC-3)** > Inscríbete a través del [Formulario de registro](https://docs.google.com/forms/d/e/1FAIpQLSft3SLFlmIt3MdTg7wtAetqwrv2X97nK3_afsn6dnKZ0UEqdQ/viewform?usp=sf_link)
+**Próximos cursos: comunicaremos por todas nuestras redes las próximas ediciones de este curso.**
 
 *Todos los datos se manejarán en forma confidencial, sólo podrán ser publicados de forma agregada y anonimizada en reportes sobre el alcance de MetaDocencia.*
 
