@@ -12,14 +12,13 @@ authors:
 type: cursos
 weight: 10
 tags:
-  - Próximos cursos
+  - Ediciones anteriores
 ---
 
 {{% toc %}}
 
 ### Cómo participar 
-Próximos cursos:
-- **Martes 23 de mayo de 2023 de 15 a 18 (UTC-3)** > Inscríbete a través del [Formulario de registro](https://docs.google.com/forms/d/e/1FAIpQLSfYmKHsh5v6GI-RMxsaTkwI1EY4TTkiC-wzDAh7-5r-u6rAXA/viewform?usp=sf_link)
+**Próximos cursos: comunicaremos por todas nuestras redes las próximas ediciones de este curso.**
 
 *Todos los datos se manejarán en forma confidencial, sólo podrán ser publicados de forma agregada y anonimizada en reportes sobre el alcance de MetaDocencia.*
 
