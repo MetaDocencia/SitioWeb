@@ -18,7 +18,11 @@ tags:
 
 ### Cómo participar 
 Próxima edición:
-**Martes 13 de junio de 2023 de 18 a 21 (UTC-3) > [Inscríbete a través del formulario de registro](https://docs.google.com/forms/d/e/1FAIpQLSfqaWDrT_2Z-saIWN1h5JbEL5zTCeqh2ZIeFWPo9isa5jde3w/viewform)**
+**Fecha: Miércoles 13 de Septiembre de 2023.** 
+- Horario México: 15 a 18 (UTC-6, hora de México)
+- Horario Argentina: 18 a 21 (UTC-3, hora de Argentina) 
+
+**> [Inscríbete a través del formulario de registro](https://docs.google.com/forms/d/e/1FAIpQLSdFk1jLhKu9WZyfOs9aC0gWbumtZjcKrt_W7MmmatnG8FwFZA/viewform)**
 
 *Todos los datos se manejarán en forma confidencial, sólo podrán ser publicados de forma agregada y anonimizada en reportes sobre el alcance de MetaDocencia.*
 
