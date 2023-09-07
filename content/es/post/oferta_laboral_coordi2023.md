@@ -9,8 +9,8 @@ authors:
     - lacion
 type: post
 weight: 1
-tags: 
-  - MetaDocencia
+categories:
+- MetaDocencia
 ---
 
 **Actualización:** ¡Estamos felices por la hermosa respuesta que recibió esta búsqueda laboral! Confirmamos por email la recepción de cada postulación recibida: si no la recibiste aún, no dudes en contactarnos. ¡Muchas gracias por tu interés! Cuando volvamos a tener búsquedas abiertas lo anunciaremos por nuestras redes sociales. 
