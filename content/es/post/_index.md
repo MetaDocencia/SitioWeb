@@ -4,4 +4,5 @@ header:
   image: ""
 title: Publicaciones
 view: 2
+categories = ["Comunidad"]
 ---
