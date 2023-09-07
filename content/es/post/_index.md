@@ -5,3 +5,4 @@ header:
 title: Publicaciones
 view: 2
 ---
+{{< list_categories >}}
