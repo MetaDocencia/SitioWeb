@@ -40,7 +40,7 @@ weight = 10
     weight = 60
       [[main]]
   name = "Fellow Communities"
-  url = "hive/"
+  url = "panal/"
   parent = "About Us"
     weight = 70
 #  [[main]]
