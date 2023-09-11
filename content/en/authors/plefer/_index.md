@@ -6,7 +6,7 @@ education:
   courses:
   - course: History Professor
     institution: Instituto Superior del Profesorado Dr. Joaquín V. González. Argentina.
-    year: 2021
+    year: 2012
   - course: Museum Technician
     institution: Universidad del Museo Social Argentino. Argentina.
     year: 2004

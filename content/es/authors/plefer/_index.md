@@ -6,7 +6,7 @@ education:
   courses:
   - course: Profesora en Historia
     institution: Instituto Superior del Profesorado Dr. Joaquín V. González. Argentina.
-    year: 2021
+    year: 2012
   - course: Técnica Museógrafa
     institution: Universidad del Museo Social Argentino. Argentina.
     year: 2004
