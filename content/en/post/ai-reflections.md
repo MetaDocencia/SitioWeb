@@ -1,10 +1,10 @@
 ---
-date: "2023-07-04"
+date: "2023-09-14"
 draft: false
 type: page
 linktitle: Critical Reflections
 summary: "We share some critical thoughts and ideas about the potential uses of AI in Education"
-title: "Thinking Critically about Artificial Intelligence and Education"
+title: "Thinking Critically about Artificial Intelligence and Education [Updated]"
 authors:
   - lacion
   - Luciana Benotti
@@ -16,6 +16,12 @@ weight: 1
 tags: 
   - MetaDocencia 
 ---
+
+**Update:** At the end of the article, we add useful readings published recently that support and expand on this publication.
+ 
+------
+
+[Originally published on 07/04/2023]
 
 At the beginning of the 20th century, and shortly after its discovery, the chemical element radium – very expensive to extract – was included even in the wool of baby clothes. Thanks to advances in science and research we currently use it only in beneficial applications and stay away from its radioactive effects. Ever since tools like ChatGPT have become available online, **the same that happened with the discovery of radium is now happening with Artificial Intelligence (AI): it is becoming a necessity everywhere.**
 
@@ -44,6 +50,14 @@ Furthermore, some of the advertising for AI tools for Education promises to pers
 As we teach at MetaDocencia, Education is a social process that does not magically improve overnight with the introduction of any technology. Moreover, there is no universal solution for every context. Indeed AI, like radium, can bring benefits to our lives. It still remains to further explore these benefits and how to implement them well in Education. Such change must be democratic, honoring humans and our timing, and not because a handful of business people with accelerated profit motives want to impose their needs and solutions on us.
 
 It is always better to prioritize people over tech tools. New AI tools generate enormous wealth for a few people and greater inequality for the rest of humanity. This is discussed further in the "[Montevideo Declaration on Artificial Intelligence and its Impact in Latin America](https://docs.google.com/forms/d/e/1FAIpQLSeFi2ufrXYRP5ZVEoLCv3oOr85MBBXNUdJYmybLkR5zQ9h5ow/viewform)," where more than 400 experts, mainly from Latin America, began to warn about this in March of 2023. We invite you to sign the Declaration and, above all, continue thinking critically. Whenever you see  buzz about AI tools in Education, ask yourself some of the questions we shared in our other post titled “[Artificial Intelligence and Education: More Questions Than Answers](https://www.metadocencia.org/en/post/ai-questions/)”.
+
+## 📖 Further Readings
+
+- Miao, F. and Holmes, W. [Guidance for generative AI in education and research](https://unesdoc.unesco.org/ark:/48223/pf0000386693). Published by UNESCO. September, 2023. 
+- [UNESCO: Governments must quickly regulate Generative AI in schools](https://www.unesco.org/en/articles/unesco-governments-must-quickly-regulate-generative-ai-schools). September, 2023.
+- [Higher education’s essential role in preparing humanity for the artificial intelligence revolution.](https://www.elon.edu/u/imagining/event-coverage/global-igf/igf-2023/higher_ed_ai_statement/#signthestatement) A statement to be issued by a diverse group of educators and scholars at the 18th annual United Nations lnternet Governance Forum, October 2023, Kyoto, Japan.
+
+---
 
 *Did you like this post? You can reuse it freely under CC by 4.0 license. Just cite it!* 
 
