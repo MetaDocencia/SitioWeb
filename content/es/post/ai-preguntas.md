@@ -1,10 +1,10 @@
 ---
-date: "2023-07-04"
+date: "2023-09-14"
 draft: false
 type: page
 linktitle: AI preguntas
 summary: "En esta publicación compartimos muchas preguntas que recomendamos hacerte cuando veas batir el parche de la Inteligencia Artificial aplicada a la Educación."
-title: "Inteligencia Artificial y Educación: Más preguntas que respuestas"
+title: "Inteligencia Artificial y Educación: Más preguntas que respuestas [Actualizado]"
 authors:
   - lacion
   - Luciana Benotti
@@ -16,6 +16,12 @@ weight: 1
 tags: 
   - MetaDocencia 
 ---
+
+**Actualización:** Al final del artículo agregamos lecturas útiles publicadas recientemente que respaldan y amplían esta publicación. 
+
+------
+
+[Publicado originalmente el 04/07/2023]
 
 A comienzos del siglo XX y poco después de su descubrimiento, el elemento químico radio, carísimo de extraer, era incluido hasta en la lana de la ropita para bebés. Gracias a los avances de la ciencia y la investigación, hoy lo usamos exclusivamente para lo que sí es útil y nos cuidamos de sus efectos radiactivos. Desde que herramientas como ChatGPT fueron puestas a disposición de todas las personas con acceso a internet, **está pasando con la Inteligencia Artificial lo mismo que sucedió cuando se descubrió el radio: parecería que debemos ponerle Inteligencia Artificial a todo**.
 
@@ -42,6 +48,14 @@ Cuando nos preguntan sobre la intersección entre Inteligencia Artificial y Educ
 Como enseñamos en MetaDocencia, la Educación es en parte un proceso social. Por ende, no cambia mágicamente para bien de la noche a la mañana, con la irrupción de una tecnología. Tampoco existe una solución universal para todos los contextos. Seguramente la Inteligencia Artificial, como el radio, tiene potencial para aportar valor a nuestras vidas. Dilucidar cuáles y cómo hacerlo bien en el campo de la Educación son tareas pendientes durante las cuales necesitamos honrar los tiempos humanos y de nuestra región. También para que decanten en forma democrática y no porque unos cuantos empresarios con ánimo de lucro acelerado quieren imponernos necesidades y soluciones.
 
 Siempre resulta mejor priorizar a las personas por sobre las herramientas tecnológicas. Las nuevas herramientas de Inteligencia Artificial son generadoras de enorme riqueza para pocas personas y de mayor desigualdad para el resto de la humanidad. Todo esto está mucho mejor explicado en la "[Declaración de Montevideo sobre Inteligencia Artificial y su impacto en América Latina](http://tiny.cc/DeclaMVD)", donde más de 400 personas expertas en Inteligencia Artificial, mayormente de América Latina, comenzamos a advertir sobre esto en marzo de 2023. **Te invitamos a firmar la declaración pero, sobre todo, a seguir reflexionando en forma crítica y a hacerte las preguntas que importan.**
+
+## 📖 Otras lecturas útiles
+
+- Miao, F y Holmes, W. [Guidance for generative AI in education and research](https://unesdoc.unesco.org/ark:/48223/pf0000386693). Publicado por UNESCO. Septiembre, 2023. 
+- [UNESCO: Governments must quickly regulate Generative AI in schools](https://www.unesco.org/en/articles/unesco-governments-must-quickly-regulate-generative-ai-schools). Septiembre, 2023.
+- [Higher education’s essential role in preparing humanity for the artificial intelligence revolution.](https://www.elon.edu/u/imagining/event-coverage/global-igf/igf-2023/higher_ed_ai_statement/#signthestatement) A statement to be issued by a diverse group of educators and scholars at the 18th annual United Nations lnternet Governance Forum, October 2023, Kyoto, Japan.
+
+---
 
 *¿Te gustó esta publicación? Puedes reutilizarla libremente bajo licencia CC by 4.0, solo tienes que citarla.* 
 
