@@ -8,7 +8,7 @@ title: "MetaDocencia's Accessibility Profiles"
 authors: 
   - ivan
   - patriloto
-  - okus
+  - mrajngewerc
   - alebellini
   - yabellini
 type: post
