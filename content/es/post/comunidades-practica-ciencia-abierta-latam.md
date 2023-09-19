@@ -7,7 +7,7 @@ summary: En esta publicación hacemos una primera aproximación a responder cuá
 authors: 
 - jformoso
 - laurel
-- okus
+- mrajngewerc
 - patriloto
 type: post
 weight: 1

@@ -8,7 +8,7 @@ title: Perfiles de accesibilidad de MetaDocencia
 authors: 
   - ivan
   - patriloto
-  - okus
+  - mrajngewerc
   - alebellini
   - yabellini
 type: post

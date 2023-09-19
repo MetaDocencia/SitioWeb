@@ -6,7 +6,7 @@ linktitle: Cómo hacer reuniones virtuales pensadas para todas las personas
 summary: Primera publicación sobre accesibilidad con recomendaciones para hacer que una clase sea accesible a más personas.
 title: Cómo hacer reuniones virtuales pensadas para todas las personas
 authors:
-    - okus
+    - mrajngewerc
     - patriloto
 type: post
 weight: 1

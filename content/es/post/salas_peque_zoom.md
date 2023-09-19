@@ -7,7 +7,7 @@ summary: una de las herramientas que mas disfrutan nuestros alumnos son las sala
 title: ¿Cómo armar salas pequeñas en Zoom?
 authors: 
     - RominaPedino
-    - okus 
+    - mrajngewerc
     - irenevazano 
     - Violeta
     - paocorrales
