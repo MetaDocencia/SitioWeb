@@ -3,7 +3,7 @@ authors:
 - czi_sponsor
 bio: ""
 email: ""
-name: CZI Chang Zuckerberg Initiative
+name: CZI Chan Zuckerberg Initiative
 weight: 2
 role: 
 social:

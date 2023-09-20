@@ -3,7 +3,7 @@ authors:
 - czi
 bio: ""
 email: ""
-name: CZI Ciencia Abierta
+name: CZI Open Science
 weight: 2
 role: 
 social:
