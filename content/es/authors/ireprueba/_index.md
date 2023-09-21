@@ -7,7 +7,6 @@ education:
 email: "irene.vazano@metadocencia.org"
 interests:
 name: Irene Vazano
-url: https://twitter.com/ni_airo
 weight: 18
 organizations:
 - name: 
