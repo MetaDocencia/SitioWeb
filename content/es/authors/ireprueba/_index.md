@@ -1,17 +1,11 @@
 ---
 authors:
 - ireprueba
+title: [Ire](https://twitter.com/ni_airo)
 bio: ""
 education:
-  courses:
-  - course: Licenciada en Bibliotecología.
-    institution: UCSE-DABA 
-    year: 
 email: "irene.vazano@metadocencia.org"
 interests:
-- Bibliotecología
-- Educación
-- Tecnología
 name: Irene Vazano
 url: https://twitter.com/ni_airo
 weight: 18
