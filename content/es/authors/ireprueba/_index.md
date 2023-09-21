@@ -1,12 +1,11 @@
 ---
 authors:
 - ireprueba
+title: Irene Vazano
 bio: ""
 education:
 email: "irene.vazano@metadocencia.org"
 interests:
-name: Irene Vazano
-link: https://twitter.com/ni_airo
 weight: 18
 organizations:
 - name: 
