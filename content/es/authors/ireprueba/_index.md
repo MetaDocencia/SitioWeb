@@ -12,7 +12,7 @@ interests:
 - Bibliotecología
 - Educación
 - Tecnología
-name: [Irene Vazano](https://www.google.com)
+name: Irene Vazano
 weight: 18
 organizations:
 - name: 
