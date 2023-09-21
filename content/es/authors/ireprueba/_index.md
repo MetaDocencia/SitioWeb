@@ -13,11 +13,12 @@ interests:
 - Educación
 - Tecnología
 name: Irene Vazano
+url: https://twitter.com/ni_airo
 weight: 18
 organizations:
 - name: 
   url: 
-role: Equipos de Gobernanza, Infraestructura y Enseñanza
+- role:
 social:
 - icon: envelope
   icon_pack: fas
