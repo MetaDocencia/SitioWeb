@@ -8,8 +8,8 @@ email: "irene.vazano@metadocencia.org"
 interests:
 weight: 18
 organizations:
-  - name: Irene Vazano
-    url: https://www.stanford.edu/
+- name: Irene Vazano
+  url: https://www.stanford.edu/
 - role:
 social:
 - icon: envelope
