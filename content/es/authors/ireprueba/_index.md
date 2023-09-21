@@ -1,6 +1,7 @@
 ---
 authors:
 - ireprueba
+title: Irene Vazano
 bio: ""
 education:
 email: "irene.vazano@metadocencia.org"
