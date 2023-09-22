@@ -44,13 +44,18 @@ subtitle = ""
   
 [advanced]
  # Custom CSS. 
- css_style = "{
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
+ css_style = "
 "
  
  # CSS class.
  css_class = ""
 +++
+<style>
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+</style>
+
+
