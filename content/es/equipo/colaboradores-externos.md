@@ -48,14 +48,11 @@ subtitle = ""
 "
  
  # CSS class.
- css_class = ""
-+++
-<style>
-.center {
+ css_class = ".center {
   display: flex;
   justify-content: center;
   align-items: center;
-}
-</style>
+}"
++++
 
 
