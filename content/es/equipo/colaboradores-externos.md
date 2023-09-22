@@ -22,6 +22,8 @@ subtitle = ""
   # Show user's interests? (true/false)
   show_interests = false
 
+  position = center
+
 [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
@@ -44,15 +46,10 @@ subtitle = ""
   
 [advanced]
  # Custom CSS. 
- css_style = "
-"
+ css_style = ""
  
  # CSS class.
- css_class = ".center {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}"
+ css_class = ""
 +++
 
 
