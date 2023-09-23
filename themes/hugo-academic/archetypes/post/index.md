@@ -7,9 +7,7 @@ summary: ""
 writers: []
 tags: []
 categories: []
- - icon: tag
-   icon_pack: fa
-   link: https://fontawesome.com/v4/icon/tag
+ - icon: :label:
 date: {{ .Date }}
 lastmod: {{ .Date }}
 featured: false
