@@ -7,8 +7,7 @@ summary: ""
 writers: []
 tags: []
 categories: []
-- icon: fa-tag
-  icon_pack: fas
+categories_icon: tag
 date: {{ .Date }}
 lastmod: {{ .Date }}
 featured: false
