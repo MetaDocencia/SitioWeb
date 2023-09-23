@@ -10,8 +10,6 @@ writers:
 type: post
 weight: 1
 categories:
-- icon: tag
-  icon_pack: fas 
   - comunidad
 ---
 

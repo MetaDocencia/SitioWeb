@@ -1,5 +1,5 @@
 ---
-authors:
+writers:
 - ireprueba
 name: Irene Vazano
 bio: ""
