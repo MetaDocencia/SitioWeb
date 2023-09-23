@@ -21,9 +21,6 @@ subtitle = ""
 
   # Show user's interests? (true/false)
   show_interests = false
-
-  position = center
-
 [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.

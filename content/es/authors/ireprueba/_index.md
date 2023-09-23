@@ -1,15 +1,15 @@
 ---
 authors:
 - ireprueba
-title: Irene Vazano
+name: Irene Vazano
 bio: ""
 education:
 email: "irene.vazano@metadocencia.org"
 interests:
 weight: 18
 organizations:
-- name: Irene Vazano
-  url: https://www.stanford.edu/
+- name:
+  url:
 - role:
 social:
 - icon: envelope
