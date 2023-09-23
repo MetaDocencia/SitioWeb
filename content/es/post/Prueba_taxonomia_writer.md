@@ -2,9 +2,9 @@
 date: "2020-11-21"
 draft: false
 type: page
-linktitle: Cómo hacer reuniones virtuales pensadas para todas las personas
+linktitle: prueba taxonomia writer
 summary: Primera publicación sobre accesibilidad con recomendaciones para hacer que una clase sea accesible a más personas.
-title: Cómo hacer reuniones virtuales pensadas para todas las personas
+title: prueba taxonomia writer
 writers:
     - ireprueba
 type: post
