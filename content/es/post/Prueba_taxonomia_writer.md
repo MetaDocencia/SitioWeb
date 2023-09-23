@@ -5,12 +5,10 @@ type: page
 linktitle: prueba taxonomia writer
 summary: Primera publicación sobre accesibilidad con recomendaciones para hacer que una clase sea accesible a más personas.
 title: prueba taxonomia writer
-writers:
-    - ireprueba
+writers: ["ireprueba"]
 type: post
 weight: 1
-categories:
-  - comunidad
+categories: ["Comunidad"]
 ---
 
 Como ya saben MetaDocencia es una comunidad que tiene como fin enseñar a otros a enseñar y en el camino de la mejora continua nos dimos cuenta que en el módulo el ABC de cómo enseñar online hablábamos sobre accesibilidad y su importancia pero quizás no lo suficiente. De nuestra inquietud nació la idea de aprender más sobre buenas prácticas de accesibilidad, tanto para transmitirlas a la comunidad como también para aplicarlas a nuestro material y contenido. Como resultado surge esta primera publicación con recomendaciones para hacer que una clase sea accesible a más personas.
