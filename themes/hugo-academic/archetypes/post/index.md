@@ -4,9 +4,11 @@
 title: "{{ replace .Name "-" " " | title }}"
 subtitle: ""
 summary: ""
-authors: []
+writers: []
 tags: []
 categories: []
+- icon: tag
+  icon_pack: fas
 date: {{ .Date }}
 lastmod: {{ .Date }}
 featured: false
