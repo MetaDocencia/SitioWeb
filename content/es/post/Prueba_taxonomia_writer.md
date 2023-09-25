@@ -9,7 +9,7 @@ writers:
    - ireprueba
 type: post
 weight: 1
-categories: 
+tags: 
    - Comunidad
 ---
 
