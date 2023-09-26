@@ -277,4 +277,6 @@ plugins_js  = []
   google_analytics = "UA-161659380-1"
   google_tag_manager = ""
 
-
+############################
+## Taxonomies
+############################
