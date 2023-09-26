@@ -7,6 +7,7 @@ summary: ""
 writers: []
 tags: []
 categories: []
+categories_icon: :label:
 date: {{ .Date }}
 lastmod: {{ .Date }}
 featured: false
