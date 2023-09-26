@@ -4,5 +4,5 @@ header:
   image: ""
 title: Publicaciones
 view: 2
-Categories:{{< list_categories >}}
+Categories: {{< list_categories >}}
 ---
