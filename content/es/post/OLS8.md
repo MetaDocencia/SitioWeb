@@ -20,6 +20,8 @@ type: post
 weight: 1
 tags: 
   - MetaDocencia 
+categories:
+  - Temas
 ---
 
 *Nota: Una versión similar de este artículo está disponible en el sitio web de OLS, [publicado en inglés](https://openlifesci.org/posts/2023/08/15/OLS-joining-forces-with-communities-to-broaden-participation-in-open-science/).*

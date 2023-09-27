@@ -10,7 +10,9 @@ authors:
 type: post
 weight: 1
 tags: 
-  - MetaDocencia 
+  - MetaDocencia
+categories:
+  - Recursos 
 ---
 
 Tradicionalmente, pensamos las evaluaciones como una manera de medir el conocimiento de nuestros/as estudiantes. Las utilizamos para definir si aprueban o no, y ocasionalmente para saber si podemos continuar con un nuevo tema o necesitamos profundizar más sobre el actual. 
