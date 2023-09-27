@@ -6,14 +6,9 @@ title: Publicaciones
 view: 2
 ---
 Navegá por las categorías de nuestras publicaciones: 
+<ul>
+  {{ range .Data.Terms.Alphabetical }}
+    <li><a href="{{< list_categories >}}">{{ .Page.Title }}</a> {{ .Count }}</li>
+  {{ end }}
+</ul>
 
-{{ $taxonomy := "categories" }}
-{{ with .GetTerms $taxonomy }}
-  <p>
-    {{ (site.GetPage $taxonomy).LinkTitle }}:
-    {{ range $k, $_ := . -}}
-      {{ if $k }}, {{ end }}
-      <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
-    {{- end }}
-  </p>
-{{ end }}
