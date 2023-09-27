@@ -5,5 +5,6 @@ header:
 title: Publicaciones
 view: 2
 ---
-{{< list_categories >}}
+Navegá por las categorías de nuestras publicaciones: 
+{{ .list_categories }}
 
