@@ -6,4 +6,13 @@ title: Publicaciones
 view: 2
 ---
 
-{{< list_categories >}}
+{{ $taxonomy := "categories" }}
+{{ with .GetTerms $taxonomy }}
+  <p>
+    {{ (site.GetPage $taxonomy).LinkTitle }}:
+    {{ range $k, $_ := . -}}
+      {{ if $k }}, {{ end }}
+      <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+    {{- end }}
+  </p>
+{{ end }}
