@@ -7,6 +7,6 @@ view: 2
 ---
 Navegá por las categorías de nuestras publicaciones: 
 <ul>
-    <li>{{< list_categories >}}
+    <li><a href="{{< list_categories >}}">
 </ul>
 
