@@ -12,7 +12,7 @@ view: 2
     {{ (site.GetPage $taxonomy).LinkTitle }}:
     {{ range $k, $_ := . -}}
       {{ if $k }}, {{ end }}
-      <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+      <a href="{{< list_categories >}}">{{ .LinkTitle }}</a>
     {{- end }}
   </p>
 {{ end }}
