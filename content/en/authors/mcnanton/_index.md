@@ -19,14 +19,14 @@ organizations:
 - name: 
   url: ""
 
-role: 
+role: Project Coordinator
 social:
 - icon: github
   icon_pack: fab
   link: https://github.com/mcnanton
 
 user_groups:
-- Outside Contributors
+- Contributors
 ---
 
 María studied Social Communication at the University of Buenos Aires (UBA). She is an active participant in communities of practice around Open Science and the R programming language in Latin America, an organizer of R-Ladies Buenos Aires and LatinR; and a certified instructor for The Carpentries.  In recent years, she has worked as a teacher in multiple undergraduate and graduate courses and as a data analyst in both the public and private sectors. She currently leads an information and statistics management team at the Ministry of Health of the City of Buenos Aires and is currently pursuing a Master's degree in Data Exploitation and Knowledge Discovery at the Faculty of Exact and Natural Sciences of the University of Buenos Aires (UBA).
