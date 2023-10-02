@@ -1,6 +1,6 @@
 ---
 date: "2023-04-28"
-draft: true
+draft: false
 type: page
 title: Communities of Practice and Their Influence on the Dissemination of Open Science in Latin America
 summary: In this post we discuss what is the role of communities of practice in the dissemination and implementation of Open Science practices in general, and specifically, in the Latin American region.
