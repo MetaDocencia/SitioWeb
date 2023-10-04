@@ -29,4 +29,5 @@ En el marco del proyecto Arecibo C3, MetaDocencia dictará cursos presenciales d
 
 *¿Te gustó esta publicación? Puedes reutilizarla libremente bajo licencia CC by 4.0, solo tienes que citarla.* 
 Esta es la cita que te recomendamos usar para referenciarla: 
+
 Nicolas Palopoli, & Laurel Ascenzi. (2023). MetaDocencia apoya el desarrollo del Centro C3 de Arecibo, financiado por NSF. Zenodo. https://doi.org/10.5281/zenodo.8406559. 
