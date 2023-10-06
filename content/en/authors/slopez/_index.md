@@ -32,7 +32,7 @@ social:
   link: https://slldec.github.io/
 superuser: false
 user_groups:
--  Contributors
+- Contributors
 ---
 
 Sabrina has experience in interdisciplinary research in neurosciences and university teaching. After working in public management at the Ministry of Health of the City of Buenos Aires (Argentina), she became interested in developing public health policies based on quality and timely evidence. She is currently researching the Responsible Use of Health Data, particularly those from electronic medical records.
