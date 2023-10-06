@@ -4,15 +4,15 @@ authors:
 bio: ""
 education: 
  courses:
-  - course: Licenciada en Ciencias Biológicas.
-    institution: Universidad de Buenos Aires (UBA), Argentina.
-    year: 2013
-  - course: Profesora en Enseñanza Media y Superior en Biología.
-    institution: Universidad de Buenos Aires (UBA), Argentina.
-    year: 2014
   - course: Doctora en Ciencias Biológicas
     institution: Universidad de Buenos Aires (UBA), Argentina.
     year: 2021
+  - course: Profesora en Enseñanza Media y Superior en Biología.
+    institution: Universidad de Buenos Aires (UBA), Argentina.
+    year: 2014
+  - course: Licenciada en Ciencias Biológicas.
+    institution: Universidad de Buenos Aires (UBA), Argentina.
+    year: 2013
 email: "sabrina.lopez@metadocencia.org"
 interests:
  - Ciencia de datos de salud
