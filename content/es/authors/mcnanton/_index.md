@@ -7,7 +7,7 @@ education:
   - course: Lic. en Comunicación Social
     institution: Universidad de Buenos Aires (UBA), Argentina.
     year: 2019
-email: "mcnanton@gmail.com"
+email: "mnanton@metadocencia.org"
 interests:
  - Ciencia de datos
  - Ciencia abierta
