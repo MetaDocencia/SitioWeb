@@ -19,7 +19,7 @@ interests:
  - Ciencia abierta
  - Salud púbica
  - Educación 
-name: Sabrina Laura López 
+name: Sabrina López 
 weight: 1
 organizations:
 - name: 
