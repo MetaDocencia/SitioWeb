@@ -35,7 +35,7 @@ user_groups:
 
 ## Nuestra visión 
 
-Trabajamos para que la producción, la comunicación y la aplicación de saberes científicos y técnicos sean globalmente equitativos.
+Trabajamos para que la producción, la comunicación y la aplicación de saberes científicos y técnicos sean globalmente equitativas.
 
 ## Nuestra misión 
 
