@@ -5,8 +5,8 @@ header:
 title: Publicaciones
 view: 2
 ---
-<p style="font size: 10px"> Navegá por las categorías de nuestras publicaciones: 
-<ul>
+<p style="font-size: 15px"> Navegá por las categorías de nuestras publicaciones: 
+<ul style="font-size: 15px">
     <a href={{< list_categories >}}
 </ul>
 
