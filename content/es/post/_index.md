@@ -5,5 +5,5 @@ header:
 title: Publicaciones
 view: 2
 ---
-<p style="font-size: 15px"> Navegá por las [Categories]({{< ref "/content/es/categorias" >}} "Categorías")  de nuestras publicaciones: 
+<p style="font-size: 15px"> Navegá por las categorias de nuestras publicaciones: 
 </p>
