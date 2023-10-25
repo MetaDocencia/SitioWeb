@@ -5,5 +5,5 @@ header:
 title: Publicaciones
 view: 2
 ---
-<p style="font-size: 15px"> Navegá por las [Categorías]({{< ref "/categorias" >}} "Categorías") de nuestras publicaciones
+<p style="font-size: 15px"> Navegá por las <a href="https://www.metadocencia.org/categorias/">categorías</a>  de nuestras publicaciones
 </p>
