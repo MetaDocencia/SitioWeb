@@ -11,6 +11,8 @@ type: post
 weight: 1
 tags: 
   - MetaDocencia
+categories:
+  - Institucional
 ---
 
 [Laura Ación](https://www.metadocencia.org/authors/lacion/) compartió los hitos que dieron origen a MetaDocencia en el artículo (en inglés) [MetaDocencia: Enseñar a enseñar (Bioinformática y más) en línea en español](https://www.open-bio.org/2021/01/13/metadocencia-2020-laura-acion/), publicado el 13 de enero de 2021.

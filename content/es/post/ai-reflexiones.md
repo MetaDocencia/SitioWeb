@@ -15,6 +15,9 @@ type: post
 weight: 1
 tags: 
   - MetaDocencia 
+categories:
+  - Temas
+  - Recursos
 ---
 
 **Actualización:** Al final del artículo agregamos lecturas útiles publicadas recientemente que respaldan y amplían esta publicación. 

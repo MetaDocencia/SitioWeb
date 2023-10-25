@@ -11,6 +11,8 @@ type: post
 weight: 1
 tags: 
   - MetaDocencia 
+categories:
+  - Institucional
 ---
 
 MetaDocencia cumple 3 años de trabajo construyendo capacidades científicas y técnicas en forma responsable y con mirada local.
