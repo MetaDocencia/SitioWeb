@@ -5,5 +5,5 @@ header:
 title: Publicaciones
 view: 2
 ---
-<p style="font-size: 15px"> Browse our publications <a href="https://www.metadocencia.org/en/categories/">categories</a>  
+<p style="font-size: 15px"> Browse our publications <a href="https://www.metadocencia.org/en/categorias/">categories</a>  
 </p>
