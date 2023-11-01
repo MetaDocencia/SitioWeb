@@ -117,11 +117,11 @@ weight = 40
   url = "donar/"
   parent = "Supporters"
     weight = 20
-  [[main]]
-  name = "Get Involved"
-  url = "contact/"
-  parent = "Supporters"
-    weight = 30
+#     [[main]]
+#     name = "Get Involved"
+#     url = "contact/"
+#     parent = "Supporters"
+#       weight = 30
 
 
 [[main]]
