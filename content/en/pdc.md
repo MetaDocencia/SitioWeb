@@ -6,7 +6,7 @@ Those of us who organize MetaDocencia are committed to fostering an open, safe a
 
 All persons participating in MetaDocencia, including members of the coordinating team, collaborators, advisory team and participants must accept and respect the following Community Guidelines. 
 
-If you witness a situation that violates this Community Guidelines, please report it to [pdc@metadocencia.org](mailto:pdc@metadocencia.org) or any [Community Guidelines team member](#cdc_members).
+If you witness a situation that violates this Community Guidelines, please report it to [pdc@metadocencia.org](mailto:pdc@metadocencia.org) or any [Community Guidelines team member](#pdc_members).
 
 #### Examples of behaviors that contribute to creating a positive environment for our community:
 
