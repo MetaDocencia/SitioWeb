@@ -6,7 +6,7 @@ title: "Espacios de crecimiento para aprender a dar y recibir devoluciones posit
 linktitle: MEC2023
 summary: "Conscientes de la relevancia de abrir espacios que nutran el crecimiento y el desarrollo personal y colectivo, en 2022 desde MetaDocencia ideamos la encuesta MEC, una sigla surgida de “MetaDocencia Espacio de Crecimiento”."
 authors:
-- rominapendino
+- RominaPendino
 - monialonso
 - pazmiguez
 - laurel
@@ -33,12 +33,18 @@ Este sería un modo de darle a su mamá una herramienta para mejorar, aprender y
 
 ## Espacio de crecimiento en comunidad
 Conscientes de la relevancia de abrir espacios que nutran el crecimiento y el desarrollo personal y colectivo, en 2022 desde MetaDocencia ideamos la encuesta MEC, una sigla surgida de “MetaDocencia Espacio de Crecimiento”. 
+
 Esta herramienta se apoya principalmente en nuestros valores comunitarios de integridad y bienestar, con  el valor adicional de permitirnos dar y recibir devoluciones de manera sistemática, y de aprender cómo mejorar nuestro trabajo junto a las demás personas integrantes del equipo. Con esta práctica, buscamos identificar tanto las fortalezas como aquellas áreas donde se presenta una oportunidad de crecimiento, sea a nivel individual como de nuestra organización. 
-La MEC, en ocasiones obligatoria y nunca anónima, tiene implementación en forma continua y regular. Cada tres o seis meses, habilita intercambios respetuosos, donde hay lugar tanto para la autoevaluación como para las devoluciones asertivas de otras personas y equipos de trabajo. Cada persona completa su autoevaluación e  invita a que complete su evaluación a pares y a personas que supervisa. Se recomienda también hacer extensiva la invitación a aquellas personas que supervisan diariamente su trabajo para que le realicen una devolución en torno a una serie de acciones concretas y cotidianas,  derivadas directamente desde nuestros valores institucionales por nuestro Equipo de Gobernanza.
+
+La MEC, en ocasiones obligatoria y nunca anónima, tiene implementación en forma continua y regular. Cada tres o seis meses, habilita intercambios respetuosos, donde hay lugar tanto para la autoevaluación como para las devoluciones asertivas de otras personas y equipos de trabajo. Cada persona completa su autoevaluación e invita a que complete su evaluación a pares y a personas que supervisa. Se recomienda también hacer extensiva la invitación a aquellas personas que supervisan diariamente su trabajo para que le realicen una devolución en torno a una serie de acciones concretas y cotidianas,  derivadas directamente desde nuestros valores institucionales por nuestro Equipo de Gobernanza.
+
 En este intercambio, hay lugar para la visibilización de los logros así como también de aquellas áreas, actitudes y valores para seguir desarrollándonos tanto individual como colectivamente, desde una mirada empática, diversa e inclusiva. 
+
 Otro de los valores agregados de la MEC es que es una herramienta de instrumentación democrática: participamos todas las personas que integramos MetaDocencia, independientemente de los cargos y roles que ocupemos. 
+
 La lectura de los resultados se completa con una evaluación personal con el equipo de dirección, en el que se comparten los aprendizajes surgidos de “la MEC”.
 Aunque la MEC siempre altera un poco los nervios (porque eso siempre nos hacen las evaluaciones), en MetaDocencia disfrutamos el momento y siempre aprendemos algo. Creemos que fue fundamental para la implementación el ejemplo del equipo de dirección, que fue el primero en evaluarse con esta modalidad y que también compartió con el resto del equipo los resultados de sus evaluaciones.
+
 Consideramos que este espacio es vital para nuestra comunidad porque refuerza el crecimiento colectivo, contribuye a sostener las metas propuestas y a alcanzar los objetivos en un clima de bienestar. 
 Invitamos a las comunidades amigas a compartir sus experiencias para enriquecer estos procesos de aprendizaje. 
 
