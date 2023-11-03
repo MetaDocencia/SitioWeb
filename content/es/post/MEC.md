@@ -30,7 +30,7 @@ Devoluciones como éstas no permiten el aprendizaje personal ni favorecen la col
 Siguiendo con el ejemplo de la historieta de Mafalda, la protagonista, que odia la sopa, podría mejorar la devolución de la siguiente forma: "Mamá, me gusta que la sopa sea de espinacas pero está muy condimentada, ¿podrías ponerle menos pimienta y sal la próxima?”. Este sería un modo de darle a su mamá una herramienta para mejorar, aprender y adaptarse a un requerimiento específico, siendo atenta con su bienestar y el tiempo que invirtió en cocinar, en este caso.
 
 ## Espacio de crecimiento en comunidad
-Conscientes de la relevancia de abrir espacios que nutran el crecimiento y el desarrollo personal y colectivo, **en 2022 desde MetaDocencia ideamos la encuesta MEC, una sigla surgida de “MetaDocencia Espacio de Crecimiento”**. 
+Conscientes de la relevancia de abrir espacios que nutran el crecimiento y el desarrollo personal y colectivo, **en 2022 desde MetaDocencia ideamos la encuesta MEC, una sigla surgida de “MetaDocencia: Espacio de Crecimiento”**. 
 
 Esta herramienta se apoya principalmente en nuestros valores comunitarios de **integridad y bienestar**, con  el valor adicional de permitirnos dar y recibir devoluciones de manera sistemática, y de aprender cómo mejorar nuestro trabajo junto a las demás personas integrantes del equipo. Con esta práctica, buscamos identificar tanto las fortalezas como aquellas áreas donde se presenta una oportunidad de crecimiento, sea a nivel individual como de nuestra organización. 
 
