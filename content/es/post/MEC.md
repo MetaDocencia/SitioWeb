@@ -19,7 +19,7 @@ tags:
 
 Una de las premisas que sostenemos en MetaDocencia es que nadie nace sabiendo dar una devolución positiva, es algo que también se aprende, pero raramente se enseña. 
 En general, solemos describir lo que no nos gusta o nos molesta dando devoluciones negativas que no son específicas sobre cómo sería el próximo paso para mejorar o, en palabras de Mafalda: 
-!Viñeta de Mafalda donde, frente aun plato de sopa, vocifera "Mamá, ¿puedo decirte que esta sopa es un brebaje espantoso? ¿Y que es la porquería más inmunda que he probado en mi vida? ¿O te molesta la crítica constructiva?"](https://www.metadocencia.org/img/mafalda-sopa.jpg) 
+![Viñeta de Mafalda donde, frente aun plato de sopa, vocifera "Mamá, ¿puedo decirte que esta sopa es un brebaje espantoso? ¿Y que es la porquería más inmunda que he probado en mi vida? ¿O te molesta la crítica constructiva?"](https://www.metadocencia.org/img/mafalda-sopa.jpg) 
 
 Devoluciones como éstas no permiten el aprendizaje personal ni favorecen la colaboración. Entonces: ¿qué características tiene que cumplir una retroalimentación para ser asertiva? 
 
