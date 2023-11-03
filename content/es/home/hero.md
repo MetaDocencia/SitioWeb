@@ -7,7 +7,7 @@ weight = 5  # Order that this section will appear.
 
 # title = "Co-creando y enseñando ciencia abierta"
 
-title = "¡Súmate a nuestras propuestas de formación 2023!"
+title = "Sigue todas las novedades en nuestro Blog."
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "MD_original.png"
@@ -39,14 +39,14 @@ hero_media = "MD_original.png"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
  [cta]
- url = "https://www.metadocencia.org/cursos/"
- label = "Talleres 2023"
+ url = "https://www.metadocencia.org/post/"
+ label = "Ver publicaciones"
  icon_pack = "fab"
  icon = "Súmate a nuestras propuestas de formación gratuitas y online"
 
 [cta_alt] 
-url = "https://www.metadocencia.org/consultoria/" 
-label = "Consultoría"
+url = "https://www.metadocencia.org/boletines/" 
+label = "Suscribirme al boletín"
 
 
 # Note. An optional note to show underneath the links.
@@ -54,5 +54,5 @@ label = "Consultoría"
 #   label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-Talleres virtuales y gratuitos para la comunidad hispanohablante.
+Formación, Institucional, Proyectos, Recursos, Temas.
 

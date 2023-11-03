@@ -7,7 +7,7 @@ weight = 10  # Order that this section will appear.
 
 # title = "Co-creating and Teaching Open Science"
 
-title = "Join our 2023 training proposals!"
+title = "Follow all the latest news in our Blog."
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "MD_original.png"
@@ -40,14 +40,14 @@ hero_media = "MD_original.png"
 #   Remove a link/note by deleting a cta/note block.
 
 [cta]
- url = "https://www.metadocencia.org/en/cursos/"
- label = "2023 Workshops"
+ url = "https://www.metadocencia.org/en/post/"
+ label = "View posts"
  icon_pack = "fab"
  icon = "Read more"
 
 [cta_alt] 
-url = "https://www.metadocencia.org/en/consultoria/" 
-label = "Consulting"
+url = "https://www.metadocencia.org/en/boletines/" 
+label = "Subscribe to our newsletter"
 
 
 # Note. An optional note to show underneath the links.
@@ -56,4 +56,4 @@ label = "Consulting"
 +++
 
 ## 
-Our remote and free courses are intended for Spanish-speaking community. 
+Training, Institutional, Projects, Resources, Topics.
