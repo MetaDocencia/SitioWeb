@@ -4,7 +4,7 @@ draft: true
 type: page
 title: "Spaces for Growth: Learning How to Give and Receive Positive Feedback"
 linktitle: MEC2023
-summary: "Aware of the importance of holding spaces that nurture personal and collective growth and development, in 2022 MetaDocencia created the “MEC survey”, an acronym derived from "MetaDocencia: Espacios de Crecimiento" (“MetaDocencia Spaces for Growth”)"
+summary: "Aware of the importance of holding spaces that nurture personal and collective growth and development, in 2022 MetaDocencia created the MEC survey, an acronym derived from the Spanish expression for MetaDocencia Spaces for Growth"
 authors:
 - RominaPedino
 - monialonso
@@ -76,3 +76,4 @@ Finally, in general and within any organization, the people with the most power 
 *Did you like this post? You can reuse it freely under CC by 4.0 license. Just cite it!*
 
 Here is the citation we recommend you use:
+Pendino, R., Míguez, P., Alonso, M., Ascenzi, L. D., & Ación, L. (2023). Spaces for Growth: Learning How to Give and Receive Positive Feedback. Zenodo. https://doi.org/10.5281/zenodo.10075799
