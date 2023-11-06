@@ -22,6 +22,8 @@ En general, solemos describir lo que no nos gusta o nos molesta dando devolucion
 
 ![Viñeta de Mafalda donde, frente aun plato de sopa, vocifera "Mamá, ¿puedo decirte que esta sopa es un brebaje espantoso? ¿Y que es la porquería más inmunda que he probado en mi vida? ¿O te molesta la crítica constructiva?"](https://www.metadocencia.org/img/mafalda-sopa.jpg) 
 
+*Historieta de Mafalda, creada por el caricaturista argentino Quino.*
+
 Devoluciones como éstas no permiten el aprendizaje personal ni favorecen la colaboración. Entonces: *¿qué características tiene que cumplir una retroalimentación para ser asertiva?* Identificamos tres: 
 - ser positiva,
 - ser específica y
