@@ -7,7 +7,7 @@ weight = 5  # Order that this section will appear.
 
 # title = "Co-creando y enseñando ciencia abierta"
 
-title = "Sigue todas las novedades en nuestro Blog."
+title = "Sigue todas las novedades en nuestro Blog!"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "MD_original.png"
