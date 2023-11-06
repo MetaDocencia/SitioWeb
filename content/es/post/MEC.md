@@ -46,8 +46,8 @@ Aunque la MEC siempre altera un poco los nervios (porque eso siempre nos hacen l
 Consideramos que este espacio es vital para nuestra comunidad porque refuerza el crecimiento colectivo, contribuye a sostener las metas propuestas y a alcanzar los objetivos en un clima de bienestar. 
 Invitamos a las comunidades amigas a compartir sus experiencias para enriquecer estos procesos de aprendizaje. 
 
-## Algunas recomendaciones adicionales para dar y recibir devoluciones positivas
-### Consejos para dar devoluciones positivas *
+## Algunas recomendaciones adicionales para dar y recibir devoluciones positivas*
+### Consejos para dar devoluciones positivas
 - La primera devolución de una persona no debería ser durante una evaluación de desempeño: “Las evaluaciones de desempeño deberían ser la culminación de todo lo que ya se ha hablado” (Reid Whyte, gerente ejecutivo de RRHH, Human Rights Campaign).
 - Si lideras a un grupo de personas, es importante poner atención en la influencia o poder que puedes ejercer sobre las mismas (y su efecto positivo o negativo).
 - Si es posible, trata que la retroalimentación sea concisa y constructiva. Brinda la posibilidad de silencio para procesar.
