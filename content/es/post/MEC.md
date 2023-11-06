@@ -71,4 +71,4 @@ Finalmente, en general, dentro de toda organización, para favorecer un ambiente
 
 Esta es la cita que te recomendamos usar para referenciarla: 
 
-Romina Pendino, Paz Míguez, Mónica Alonso. (2023). Espacios de crecimiento para aprender a dar y recibir devoluciones positivas. Zenodo. https://zenodo.org/records/10069512
+Pendino, R., Míguez, P., Alonso, M., Ascenzi, L. D., & Ación, L. (2023). Espacios de crecimiento para aprender a dar y recibir devoluciones positivas. Zenodo. https://doi.org/10.5281/zenodo.10076566
