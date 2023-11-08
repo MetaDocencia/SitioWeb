@@ -71,7 +71,7 @@ subtitle = ""
  css_class = ""
 +++
 
-<p style="font-size: 15px"> Navegá por las categorías de nuestras publicaciones: 
+<p style="font-size: 15px"> Navega por las categorías de nuestras publicaciones: 
 <ul style="font-size: 15px">
     <a href={{< list_categories >}}
 </ul>
