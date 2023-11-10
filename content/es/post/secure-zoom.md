@@ -12,6 +12,8 @@ weight: 1
 tags: 
   - seguridad
   - tips técnicos 
+categories:
+  - Recursos
 ---
 
 **Zoom** se volvió una de las herramientas más usadas para realizar reuniones y clases virtuales. Desafortunadamente, también se puede usar de formas inapropiadas. Acá resumimos una serie de recomendaciones para intentar evitar ataques a tus clases o reuniones que hagas usando Zoom.

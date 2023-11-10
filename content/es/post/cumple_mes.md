@@ -16,6 +16,8 @@ weight: 1
 tags: 
   - informe
   - MetaDocencia 
+categories:
+  - Formación
 ---
 
 Metadocencia **nace de una necesidad, pero sobre todo de la capacidad y ganas de ayudar**. Treinta días después de su nacimiento, la comunidad ya cuenta con más de **300 profesionales** que se sumaron a la propuesta desde distintas partes del mundo.

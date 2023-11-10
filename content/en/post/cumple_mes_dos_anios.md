@@ -15,6 +15,8 @@ weight: 1
 tags: 
   - informe
   - MetaDocencia 
+categories:
+  - Institutional
 ---
 
 Since March 2020, our community has kept growing and in March we will be two years old. That's why we have prepared a series of events and courses to celebrate by learning.

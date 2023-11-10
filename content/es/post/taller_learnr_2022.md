@@ -14,6 +14,8 @@ tags:
   - cursos
   - learnr
   - R
+categories:
+  - Formación
 ---
 
 {{< figure src="/img/Learnr_English.jpg" alt="Slide con el hexsticker de MetaDocencia, el logo de R-Ladies y el nombre del curso en inglés." >}}

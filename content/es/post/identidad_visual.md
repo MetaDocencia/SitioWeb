@@ -13,6 +13,8 @@ type: post
 weight: 1
 tags: 
   - MetaDocencia
+categories:
+  - Institucional
 ---
 
 {{< figure src="/img/IVN_Manzanota.png" alt="Manzana real con fondo celeste en degradé y debajo tres rect{angulos iguales, uno azul, otro rojo y otro naranja.  En el recuadro azul, a la izquierda, dice Metadocencia" >}}

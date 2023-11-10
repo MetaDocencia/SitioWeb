@@ -13,6 +13,8 @@ type: post
 weight: 1
 tags: 
   - MetaDocencia
+categories:
+  - Formación
 ---
 
 ## ¿Qué?

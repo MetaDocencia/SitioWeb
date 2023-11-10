@@ -13,6 +13,8 @@ type: post
 weight: 1
 tags: 
   - MetaDocencia 
+categories:
+  - Teaching
 ---
 
 We wrote this post telling about MetaDocencia in the year 2020 for the RStudio Education blog. You can read the English version here. [access to blog post](https://education.rstudio.com/blog/2020/12/metadocencia/).

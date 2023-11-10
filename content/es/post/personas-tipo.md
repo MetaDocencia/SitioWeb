@@ -11,6 +11,8 @@ type: post
 weight: 1
 tags: 
   - pedagogía
+categories:
+  - Recursos
 ---
 
 Para diseñar nuestros talleres de ABC estamos teniendo en mente a estas personas tipo[^1] como parte de quienes podrían beneficiarse con nuestros contenidos:

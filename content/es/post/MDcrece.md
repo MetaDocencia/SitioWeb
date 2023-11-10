@@ -10,6 +10,8 @@ type: post
 weight: 1
 tags: 
   - MetaDocencia
+categories:
+  - Institucional 
 ---
 
 Este mes incorporamos tres nuevos roles a nuestro equipo de trabajo: 

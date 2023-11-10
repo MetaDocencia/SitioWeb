@@ -13,6 +13,8 @@ type: post
 weight: 1
 tags: 
   - tips técnicos 
+categories:
+  - Recursos
 ---
 
 Queremos brindarte apoyo en este momento actual de tantos cambios e incertidumbre, sabemos que para muchos la experiencia de la enseñanza online es algo nuevo, por eso armamos este post donde te comentamos algunas herramientas que pueden hacerte mucho menos doloroso el traspaso de clases presenciales a virtuales y además pueden contribuir a dinamizar el aula y promover un ambiente más colaborativo entre tus alumnos y entre tus alumnos y vos.

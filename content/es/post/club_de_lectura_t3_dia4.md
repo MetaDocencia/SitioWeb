@@ -14,6 +14,9 @@ weight: 1
 tags: 
   - MetaDocencia
   - Club de Lectura
+categories:
+  - Recursos
+  - Formación
 ---
 
 En este nuevo encuentro, a cargo de _Pao y Jesi_ se analizaron los capítulos Conocimiento de la pedagogía del contenido y Enseñar como un arte performativo cuyo contenido puede leerse desde aquí: https://teachtogether.tech/es/index.html#s:pck y https://teachtogether.tech/es/index.html#s:performance

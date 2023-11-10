@@ -10,7 +10,9 @@ authors:
 type: post
 weight: 1
 tags: 
-  - MetaDocencia 
+  - MetaDocencia
+categories:
+  - Institutional
 ---
 
 The first days of MetaDocencia, since the initial idea until teaching our first workshop, would not have been possible without the support of these organisations and people and their open materials:

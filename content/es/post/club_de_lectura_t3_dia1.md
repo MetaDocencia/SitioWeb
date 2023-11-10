@@ -13,6 +13,9 @@ weight: 1
 tags: 
   - MetaDocencia
   - Club de Lectura
+categories:
+  - Recursos
+  - Formación
 ---
 
 En el primer encuentro del Club de Lectura, analizamos el capítulo Modelos mentales y evaluación formativa. Durante la presentación de _Yanina Bellini Saibene_ surgieron comentarios y experiencias de cada participante que resignificaron el contenido desarrollado en el primer capítulo del libro Enseñando Tecnología en Comunidad.

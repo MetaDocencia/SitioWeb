@@ -15,6 +15,8 @@ weight: 1
 tags: 
   - informe
   - MetaDocencia 
+categories:
+  - Institucional
 ---
 
 Desde marzo de 2020 nuestra comunidad no para de crecer y este mes de Marzo cumplimos dos años. Por eso tenemos preparados una serie de eventos y cursos para celebrar aprendiendo.

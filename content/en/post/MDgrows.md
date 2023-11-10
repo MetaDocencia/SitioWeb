@@ -13,6 +13,8 @@ tags:
   - informe
   - reporte
   - MetaDocencia
+categories:
+  - Institutional
 ---
 In June, we incorporated three new roles to our work team:
 - Project and Course Development Manager

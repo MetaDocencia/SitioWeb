@@ -11,6 +11,9 @@ type: post
 weight: 1
 tags: 
   - MetaDocencia 
+categories:
+  - Resources
+
 ---
 
 Traditionally, we think of assessments as a way to measure our students' knowledge. We use them to define whether they pass the class or not, and occasionally to know if we can move on to a new topic or need to delve deeper into the current one.

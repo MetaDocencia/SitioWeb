@@ -12,6 +12,8 @@ weight: 1
 tags: 
   - MetaDocencia
   - Club de Lectura
+categories:
+  - Recursos
 ---
 
 El segundo encuentro de nuestro primer Club de Lectura tuvo mucha actividad y trabajo en equipo. Además de analizar el capítulo _“Pericia y memoria”_ donde se desarrolla, principalmente el concepto de mapas conceptuales, compartimos experiencias con esta herramientas y múltiples recursos para crear mapas conceptuales. 
