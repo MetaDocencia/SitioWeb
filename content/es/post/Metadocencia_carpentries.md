@@ -15,6 +15,8 @@ weight: 1
 tags: 
   - MetaDocencia
   - The Carpentries
+categories:
+  - Formación
 ---
 
 Durante 2020 y 2021 enseñamos dos entrenamientos para instructores de Carpentries organizados por [MetaDocencia](https://www.metadocencia.org/).  Estos workshops tuvieron una serie de características particulares:

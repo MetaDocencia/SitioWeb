@@ -13,6 +13,9 @@ weight: 1
 tags: 
   - MetaDocencia
   - Club de Lectura
+categories:
+  - Recursos
+  - Formación
 ---
 
 A medida que avanzan los encuentros de nuestro Club de Lectura, parece que el tiempo pasa más rápido y una hora es escaso para compartir todas las experiencias de la enseñanza y lo que surge del libro [Enseñar tecnología en Comunidad](https://teachtogether.tech/es/index.html) 

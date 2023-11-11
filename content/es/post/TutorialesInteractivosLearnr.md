@@ -11,7 +11,9 @@ type: post
 weight: 1
 tags: 
   - programación
-  - R 
+  - R
+categories:
+  - Recursos
 ---
 
 Desde el año pasado (2019) empecé a utilizar el paquete `learnr` que permite utilizar documentos RMarkdown para generar tutoriales interactivos.  En este post les cuento que aprendí hasta ahora. 

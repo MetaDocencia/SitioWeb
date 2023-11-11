@@ -16,6 +16,8 @@ weight: 1
 tags: 
   - informe
   - MetaDocencia 
+categories:
+  - Teaching
 ---
   
 MetaDocencia **was born from the need but, above all, from the ability and desire to help**. Thirty days after its birth, more than **300 professionals** from different parts of the world have showed interest in MetaDocencia. 

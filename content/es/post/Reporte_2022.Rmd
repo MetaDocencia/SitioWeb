@@ -4,7 +4,7 @@ author: ''
 draft: false
 date: '2023-01-27'
 slug: []
-categories: []
+categories: ["Institucional"]
 tags: ["Informe", "Reporte", "MetaDocencia"]
 summary: '2022 fue un año en que la vuelta a la presencialidad se hizo sentir tras dos años de crecer impulsando la educación en entornos virtuales. Desde MetaDocencia consolidamos esa experiencia y nos fortalecimos para enfrentar nuevos desafíos por venir 🚀.'
 authors: []

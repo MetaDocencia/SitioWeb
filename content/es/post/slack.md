@@ -14,6 +14,8 @@ tags:
   - slack
   - tips técnicos 
   - comunidad
+categories:
+  - Institucional
 ---
 
   

@@ -13,6 +13,8 @@ weight: 1
 tags: 
   - herramientas
   - tips 
+categories:
+  - Recursos
 ---
 
 En nuestro curso de [Intro al ABC para enseñar on-line](https://www.metadocencia.org/curso/intro-abc-online/) recomendamos dar las clases de forma sincrónica y grabar esa clase sincrónica para que sea más sencillo y económico generar un video de calidad.  

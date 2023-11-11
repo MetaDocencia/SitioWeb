@@ -14,6 +14,8 @@ weight: 1
 tags: 
   - experiencias
   - MetaDocencia 
+categories:
+  - Formación 
 ---
 
 {{< figure src="/img/experiencias_bootcamp_1.png"  alt="Slide inicial. Intro al ABC para enseñar online. Fuente MetaDocencia. Adaptación para Leniolabs. Bootcamp." >}}

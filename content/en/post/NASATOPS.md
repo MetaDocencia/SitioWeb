@@ -11,6 +11,8 @@ type: post
 weight: 1
 tags: 
   - MetaDocencia 
+categories:
+  - Institutional
 ---
 
 As we shared as soon as we got the news (Figure 1), with OLS, 2i2c, and the support of NASA, we joined the initiative to transform science and technology into open practices.

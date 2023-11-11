@@ -15,6 +15,8 @@ weight: 1
 tags: 
   - MetaDocencia
   - The Carpentries
+categories:
+  - Teaching
 ---
 
 During 2020 and 2021 we taught two trainings for Carpentries instructors organized by [MetaDocencia](https://www.metadocencia.org/).  These workshops had a number of particular characteristics:

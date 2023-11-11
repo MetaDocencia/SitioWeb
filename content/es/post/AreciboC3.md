@@ -13,6 +13,8 @@ weight: 1
 tags: 
   - Proyectos
   - Institucional 
+categories:
+  - Proyectos
 ---
 
 El [Arecibo C3](https://www.areciboc3.org/spanish) - *Arecibo Center for Culturally Relevant and Inclusive Science Education, Computational Skills, and Community Engagement* (Centro de Arecibo para la Educación Científica Culturalmente Relevante e Inclusiva, Habilidades Computacionales y Participación Comunitaria) abrirá en 2024 como un nuevo centro de investigación y educación en Ciencia, Tecnología, Ingeniería y Matemáticas (CTIM). Estará emplazado en el sitio del antiguo Observatorio de Arecibo en Puerto Rico, con la misión de honrar y ampliar el legado del observatorio mediante programas centrados en astronomía, biología, ciencia de datos y disciplinas relacionadas. Arecibo C3 será sede de actividades de investigación fundamental y aplicada, excursiones, exposiciones, conferencias, becas y otras oportunidades de desarrollo personal, destinadas a estudiantes de primaria y secundaria, a docentes y al público en general. De este modo, el centro buscará fomentar la creación de comunidades locales, regionales e internacionales en torno a valores culturalmente relevantes e inclusivos.

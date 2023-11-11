@@ -10,6 +10,8 @@ authors:
     - lacion
 type: post
 weight: 1
+categories:
+  - Institucional
 ---
 
 ## ¿Qué puedo hacer para colaborar?

@@ -15,6 +15,9 @@ type: post
 weight: 1
 tags: 
   - Institucional 
+categories:
+  - Institucional
+  - Recursos
 ---
 
 Una de las premisas que sostenemos en MetaDocencia es que nadie nace sabiendo dar una devolución positiva, es algo que también se aprende, pero raramente se enseña. 

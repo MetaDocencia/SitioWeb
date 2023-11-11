@@ -10,6 +10,8 @@ type:
 weight: 1
 tags: 
   - MetaDocencia
+categories:
+  - Temas
 ---
 
 ![Imagem de capa abstrata](https://www.metadocencia.org/img/czi-blogpost/Imagen1.jpg)

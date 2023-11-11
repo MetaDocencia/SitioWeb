@@ -14,6 +14,8 @@ weight: 1
 tags: 
   - experiencias
   - MetaDocencia 
+categories:
+  - Formación
 ---
 
 La virtualización de nuestras actividades laborales sin duda ha dado un giro sin precedentes debido a la pandemia del COVID-19.

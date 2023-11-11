@@ -13,6 +13,8 @@ weight: 1
 tags: 
   - enseñanza
   - MetaDocencia 
+categories:
+  - Institucional
 ---
   
 ## ¿Cómo ser ayudante en MetaDocencia?

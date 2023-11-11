@@ -13,6 +13,8 @@ tags:
     - CS&S
     - subsidios
     - CZI
+categories:
+  - Institucional
 ---
 
 Code for Science & Society se complace en dar la bienvenida a MetaDocencia como un proyecto patrocinado fiscalmente, financiado por una nueva subvención de dos años de la [Chan Zuckerberg Initiative](https://czi.co/OpenScience) (CZI). ¡MetaDocencia avanza rápidamente al siguiente nivel!

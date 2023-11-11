@@ -16,6 +16,8 @@ weight: 1
 tags: 
   - accesibilidad
   - comunidad
+categories:
+  - Institutional
 ---
 
 In our mission and vision, Metadocencia is defined as _“an inclusive and collaborative community”_ that develops _“open, reusable and accessible resources”_. To define different accessibility profiles for reviewing the materials we offer, we work with an accessibility team: Iván Gabriel Poggio, Mariela Rajngewerc, and Patricia A. Loto. 

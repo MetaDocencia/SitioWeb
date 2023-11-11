@@ -14,6 +14,8 @@ weight: 1
 tags: 
   - motivación
   - tips técnicos 
+categories:
+  - Recursos
 ---
 
 Una de las herramientas que enseñamos en los cursos de MetaDocencia es trabajar durante la clase compartiendo trabajo en tiempo real. ¿A qué nos referimos con trabajo en tiempo real? A:

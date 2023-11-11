@@ -13,6 +13,8 @@ type: post
 weight: 1
 tags: 
   - MetaDocencia
+categories:
+  - Topics
 ---
 
 When we talk about **Open Science**, we refer to practices that seek to ensure research transparency by sharing the workflow's various stages.. In 2021, UNESCO approved the Recommendation on Open Science to promote global consensus on its importance (Beigel, 2022) and its key pillars: open scientific knowledge, open scientific infrastructures, scientific communication, open engagement of social actors, and open dialogue with other knowledge systems (UNESCO, 2021).

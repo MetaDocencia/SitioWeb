@@ -13,6 +13,8 @@ weight: 1
 tags: 
   - motivación
   - tips técnicos 
+categories:
+  - Recursos
 ---
 
 _El pizarrón o la pizarra es parte de las herramientas que usamos en nuestras clases presenciales, ¿cómo se hace presente en la virtualidad?. **Juan** nos cuenta como usa una pizarra digital para enseñar matemáticas._

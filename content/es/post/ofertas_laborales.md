@@ -11,6 +11,8 @@ type: post
 weight: 1
 tags: 
   - MetaDocencia
+categories:
+  - Institucional 
 ---
 
 **Actualización:** ¡Estamos felices por la hermosa respuesta que recibieron estas búsquedas laborales! Ya se están sumando personas muy valiosas a nuestro equipo y a nuestra comunidad. Si te postulaste - ¡muchas gracias! - y aún no recibiste un mensaje nuestro con noticias sobre tu postulación, no dudes en contactarnos. Cuando volvamos a tener búsquedas abiertas lo anunciaremos por nuestras redes sociales. 
