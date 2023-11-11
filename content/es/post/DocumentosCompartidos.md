@@ -7,7 +7,7 @@ summary: Ejercicios compartidos, notas compartidas, preguntas compartidas. Una d
 title: Compartiendo trabajo en tiempo real durante tu clase
 authors: 
     - yabellini
-    - RominaPedino
+    - rominapendino
     - lacion
 type: post
 weight: 1

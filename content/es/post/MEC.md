@@ -6,7 +6,7 @@ title: "Espacios de crecimiento para aprender a dar y recibir devoluciones posit
 linktitle: MEC2023
 summary: "Conscientes de la relevancia de abrir espacios que nutran el crecimiento y el desarrollo personal y colectivo, en 2022 desde MetaDocencia ideamos la encuesta MEC, una sigla surgida de “MetaDocencia Espacio de Crecimiento”."
 authors:
-- RominaPedino
+- rominapendino
 - monialonso
 - pazmiguez
 - laurel

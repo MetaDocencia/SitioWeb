@@ -6,7 +6,7 @@ title: "Spaces for Growth: Learning How to Give and Receive Positive Feedback"
 linktitle: MEC2023
 summary: "Aware of the importance of holding spaces that nurture personal and collective growth and development, in 2022 MetaDocencia created the MEC survey, an acronym derived from the Spanish expression for MetaDocencia Spaces for Growth."
 authors:
-- RominaPedino
+- rominapendino
 - monialonso
 - pazmiguez
 - laurel
