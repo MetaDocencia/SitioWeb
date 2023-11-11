@@ -9,6 +9,8 @@ type: post
 weight: 1
 tags: 
   - MetaDocencia
+categories:
+  - Institucional
 ---
 
 En septiembre incorporamos tres personas al equipo (sí, ¡3!) a partir de una [convocatoria abierta para coordinación de proyectos](https://www.metadocencia.org/post/oferta_laboral_coordi2023/) que convocó a más de 130 personas de 11 países en América Latina. Esta decisión busca potenciar los valores de inclusión, diversidad, comunidad y versatilidad de nuestro equipo, articulando trayectorias muy valiosas y diversas para prepararnos mejor para la [próxima etapa](https://www.metadocencia.org/post/nasatops10puntos/). 
