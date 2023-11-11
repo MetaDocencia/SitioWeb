@@ -6,7 +6,7 @@ linktitle: Evaluaciones formativas
 summary: Las evaluaciones formativas con un recursos importante para clases virtuales o presenciales. Te presentamos un catálogo de herramientas para poder realizarlas.
 title: Evaluaciones formativas
 authors: 
-    - RominaPedino
+    - rominapendino
     - npalopoli
 type: post
 weight: 1
