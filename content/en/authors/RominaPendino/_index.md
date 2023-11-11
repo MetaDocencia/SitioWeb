@@ -1,6 +1,6 @@
 ---
 authors:
-- RominaPendino
+- rominapendino
 bio: ""
 education:
 email: ""
