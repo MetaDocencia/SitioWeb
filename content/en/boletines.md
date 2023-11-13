@@ -1,6 +1,7 @@
 ---
 title: Newsletters
 ---
+- [Community Pathways 🐝 | Notes from MetaDocencia N° 10](https://mailchi.mp/a6d9e26448a4/construyendo-en-comunidad-newsletter-n-15914905?e=[UNIQID]) 
 - [Notes from MetaDocencia | N° 9](https://mailchi.mp/80fd3f47efed/construyendo-en-comunidad-newsletter-n-15741549?e=43da552e22)
 - [Notes from MetaDocencia | N° 8](https://us19.campaign-archive.com/?e=__test_email__&u=92fb89ce82f9689a3b083bb35&id=88e03a8a0d)
 - [Notes from MetaDocencia | N° 7](https://us19.campaign-archive.com/?e=__test_email__&u=92fb89ce82f9689a3b083bb35&id=f7d15164d9)
