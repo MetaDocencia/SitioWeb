@@ -1,7 +1,7 @@
 ---
 title: Boletines
 ---
-- [Caminos comunitarios  🐝 | Apuntes MetaDocentes N° 10](https://mailchi.mp/d9c777b5906e/construyendo-en-comunidad-newsletter-n-15914677?e=158b6b2f8f) 
+- [Caminos comunitarios  🐝 | Apuntes MetaDocentes N° 10](https://mailchi.mp/d9c777b5906e/construyendo-en-comunidad-newsletter-n-15914677?e=158b6b2f8f) - [English version](https://mailchi.mp/a6d9e26448a4/construyendo-en-comunidad-newsletter-n-15914905?e=[UNIQID])
 -  [Construyendo Ciencia Abierta desde todas partes 🌟 | Apuntes MetaDocentes N° 9](https://mailchi.mp/caa90decf9ae/construyendo-en-comunidad-newsletter-n-15741073?e=158b6b2f8f) - [English version](https://mailchi.mp/80fd3f47efed/construyendo-en-comunidad-newsletter-n-15741549?e=43da552e22)
 - [Edición express para que sepas todo en 2 min ⏳ | Apuntes MetaDocentes N° 8](https://mailchi.mp/b1f85dce0a31/construyendo-en-comunidad-newsletter-n-15736717?e=43da552e22) - [English version](https://us19.campaign-archive.com/?e=__test_email__&u=92fb89ce82f9689a3b083bb35&id=88e03a8a0d)
 - [Preparándonos para la nueva etapa | Apuntes MetaDocentes 🙋 N° 7](https://mailchi.mp/24e84d6a5031/construyendo-en-comunidad-newsletter-n-15723921?e=158b6b2f8f) - [English version](https://us19.campaign-archive.com/?e=__test_email__&u=92fb89ce82f9689a3b083bb35&id=f7d15164d9)
