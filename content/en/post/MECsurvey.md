@@ -69,7 +69,7 @@ We invite to fellow communities to share their experiences on how to enhance sim
 - When in doubt, ask if you can confirm what you heard to verify that you understood your feedback correctly. For example: "Let me see if I understood you correctly. Did you mean to say this ......?
 - Before starting the conversation, it is helpful to ask ourselves: "Is there anything I want to offer or ask for?
 
- * These tips were adapted from the workshop "How to give, receive and implement feedback", offered by the [Chan Zuckerberg Initiative](https://chanzuckerberg.com/) and taught by Laila Makled from @push2exist. We are incredibly grateful that these sessions had live interpretation in Spanish.
+*These tips were adapted from the workshop "How to give, receive and implement feedback", offered by the [Chan Zuckerberg Initiative](https://chanzuckerberg.com/) and taught by Laila Makled from @push2exist. We are incredibly grateful that these sessions had live interpretation in Spanish.
 
 Finally, in general and within any organization, the people with the most power should be those who set the example by first being evaluated by whom they directly or indirectly supervise. This fosters an environment of positive feedback and communication flow. Always use transparency to support improvement and maintain truth among the team, sharing how you will address any feedback received ✨.
 
