@@ -66,7 +66,7 @@ Invitamos a las comunidades amigas a compartir sus experiencias para enriquecer 
 - Cuando tengas dudas puedes preguntar si puedes repetir lo que escuchaste para verificar que has entendido correctamente lo expresado. Por ejemplo: " A ver si te entendí bien ¿lo que dijiste significa que......?
 - Antes de iniciar la conversación, es útil autopreguntarnos: ¿hay algo que me gustaría brindar o pedir?
 
-*Estos consejos fueron tomados y adaptados del taller “Cómo dar, recibir e implementar feedback", ofrecido por la [Chan Zuckerberg Initiative](https://chanzuckerberg.com/) y dictado por Laila Makled, @push2exist. Agradecemos especialmente que estos encuentros se hayan ofrecido en español.
+ * Estos consejos fueron tomados y adaptados del taller “Cómo dar, recibir e implementar feedback", ofrecido por la [Chan Zuckerberg Initiative](https://chanzuckerberg.com/) y dictado por Laila Makled, @push2exist. Agradecemos especialmente que estos encuentros se hayan ofrecido en español.
 
 Finalmente, en general, dentro de toda organización, para favorecer un ambiente en donde se hagan devoluciones positivas y fluya la comunicación, es esencial que las personas con mayor poder en la organización sean aquellas que den el ejemplo al ser evaluadas primero por las personas a quienes supervisan directa o indirectamente. La transparencia sobre cómo atenderán las devoluciones recibidas es clave para mantener la confianza dentro de la organización y que las devoluciones sigan fluyendo libremente para que todas las personas mejoremos y crezcamos ✨
 
