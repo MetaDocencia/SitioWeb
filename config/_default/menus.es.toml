@@ -129,7 +129,7 @@ url = ""
   weight = 50
   [[main]]
   name = "Formulario"
-  url = "contact"
+  url = "contacto/"
   parent = "Contacto"
     weight = 10
 #   [[main]]
