@@ -3,7 +3,7 @@ authors:
 - czi
 bio: ""
 email: ""
-name: CZI Open Science
+name: CZI - Chan Zuckerberg Initiative
 weight: 2
 role: 
 social:

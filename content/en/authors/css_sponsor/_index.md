@@ -3,7 +3,7 @@ authors:
 - CS&S
 bio: ""
 email: ""
-name: CS&S
+name: CS&S - Code for Science & Society
 weight: 4
 role: 
 social:

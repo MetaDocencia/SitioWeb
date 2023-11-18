@@ -3,7 +3,7 @@ authors:
 - OBF
 bio: ""
 email: ""
-name: OBF Open Bioinformatics Foundation
+name: OBF - Open Bioinformatics Foundation
 weight: 1
 role: 
 social:
