@@ -6,7 +6,7 @@ linktitle: IA Nature
 summary: "In this post, we present our latest academic publication, together with colleagues from the University of the Republic of Uruguay, on Artificial Intelligence (AI) and Open Science."
 title: "Generative AI poses ethical challenges to Open Science, a comment for Nature Human Behaviour"
 authors:
-  - violeta
+  - mrajngewerc
   - lacion
 type: post
 weight: 1
