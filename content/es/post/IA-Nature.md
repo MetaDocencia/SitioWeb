@@ -4,7 +4,7 @@ draft: false
 type: page
 linktitle: IA Nature
 summary: "En este post te presentamos nuestra última publicación académica, junto a colegas de la Universidad de la República de Uruguay, sobre Inteligencia Artificial (IA) y Ciencia Abierta."
-title: "La IA generativa plantea desafíos éticos a la Ciencia Abierta, un comentario para Nature Human Behaviour."
+title: "La IA generativa plantea desafíos éticos a la Ciencia Abierta, un comentario para Nature Human Behaviour"
 authors:
   - mrajngewerc
   - lacion
