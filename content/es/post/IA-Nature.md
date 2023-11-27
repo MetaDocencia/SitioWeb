@@ -33,4 +33,5 @@ Esta publicación fue posible gracias a los subsidios de la NASA 80NSSC23K0854, 
 *¿Te gustó esta publicación? Puedes reutilizarla libremente bajo licencia CC by 4.0, solo tienes que citarla.* 
 
 Esta es la cita que te recomendamos usar para referenciarla:
+
 Rajngewerc, M., & Ación, L. (2023). La IA generativa plantea desafíos éticos a la Ciencia Abierta, un comentario para Nature Human Behaviour. Zenodo. [https://doi.org/10.5281/zenodo.10210552](https://doi.org/10.5281/zenodo.10210552)
