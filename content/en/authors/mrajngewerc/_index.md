@@ -1,6 +1,6 @@
 ---
 authors:
-- violeta
+- mariela
 bio: ""
 education:
   courses:
