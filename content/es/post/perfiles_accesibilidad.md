@@ -8,7 +8,7 @@ title: Perfiles de accesibilidad de MetaDocencia
 authors: 
   - ivan
   - patriloto
-  - okus
+  - mrajngewerc
   - alebellini
   - yabellini
 type: post
@@ -16,6 +16,8 @@ weight: 1
 tags: 
   - accesibilidad
   - comunidad
+categories:
+  - Institucional
 ---
 
 En la definición de nuestra misión y visión, Metadocencia se define como _“una comunidad inclusiva y colaborativa”_ que desarrolla _“recursos abiertos, reutilizables y accesibles”_. Es por esto que trabajamos con un equipo de accesibilidad, conformado por Iván Gabriel Poggio, Mariela Rajngewerc y Patricia A. Loto, para definir diferentes perfiles de accesibilidad para la revisión de los materiales que ofrecemos.

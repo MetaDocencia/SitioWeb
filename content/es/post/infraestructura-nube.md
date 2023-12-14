@@ -10,6 +10,8 @@ type: post
 weight: 1
 tags: 
   - MetaDocencia
+categories:
+  - Institucional 
 ---
 
 ¡Estamos felices de anunciar que el equipo y la propuesta descripta en esta [publicación de nuestro blog](https://www.metadocencia.org/post/narrativafinanciamiento/) resultó aprobada para financiación por la [Chan Zuckerberg Initiative](https://chanzuckerberg.com/)!

@@ -25,7 +25,7 @@ role: Advisory Committee
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'contact'
+  link: "mailto:emmanuel.iarussi@utdt.edu"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/emmaiarussi

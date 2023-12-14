@@ -4,7 +4,7 @@ author: ''
 draft: false
 date: '2023-01-27'
 slug: []
-categories: []
+categories: ["Institutional"]
 tags: ["Informe", "Reporte", "MetaDocencia"]
 summary: '2022 was a very special year for the MetaDocencia community 🍎. After two years of growing by fostering education in virtual environments, we consolidated that experience and became stronger to face new challenges to come 🚀.'
 authors: []

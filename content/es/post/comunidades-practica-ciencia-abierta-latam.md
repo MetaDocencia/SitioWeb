@@ -7,12 +7,14 @@ summary: En esta publicación hacemos una primera aproximación a responder cuá
 authors: 
 - jformoso
 - laurel
-- okus
+- mrajngewerc
 - patriloto
 type: post
 weight: 1
 tags: 
   - MetaDocencia
+categories:
+  - Temas
 ---
 
 Cuando hablamos de **ciencia abierta** nos referimos a aquellas prácticas que buscan garantizar la transparencia de los trabajos de investigación compartiendo las distintas etapas del flujo de trabajo. En 2021, la UNESCO aprobó la Recomendación de Ciencia Abierta para fomentar un consenso global sobre la importancia de promoverla (Beigel, 2022) y sus pilares clave: conocimiento científico abierto, infraestructuras científicas abiertas, comunicación científica, compromiso abierto de los actores sociales y diálogo abierto con otros sistemas de conocimiento (UNESCO, 2021).

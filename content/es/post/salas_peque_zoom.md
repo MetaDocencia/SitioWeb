@@ -6,8 +6,8 @@ linktitle: ¿Cómo armar salas pequeñas en Zoom?
 summary: una de las herramientas que mas disfrutan nuestros alumnos son las salas para grupos pequeños de Zoom, aqui te contamos como hacerlas.
 title: ¿Cómo armar salas pequeñas en Zoom?
 authors: 
-    - RominaPedino
-    - okus 
+    - rominapendino
+    - mrajngewerc
     - irenevazano 
     - Violeta
     - paocorrales
@@ -16,6 +16,8 @@ type: post
 weight: 1
 tags: 
   - tips técnicos 
+categories:
+  - Recursos
 ---
 
 Durante el curso de MetaDocencia  _“Introducción al ABC para la enseñanza online”_ utilizamos una herramienta de _Zoom_ llamada **breakout rooms o salas para grupos pequeños**. El objetivo de esta práctica que llevamos adelante genera un rico intercambio entre los participantes al taller, promoviendo la horizontalidad del conocimiento y un acercamiento a las experiencias de cada asistente que pone en valor el aporte que cada uno puede realizar. 

@@ -24,13 +24,17 @@ role: Coordinadora de Comunicación y Comunidades, Consejo Asesor
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'contact'
+  link: "mailto:laurel@metadocencia.org"
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/lauradascenzi/
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/lauradaiana
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-9292-7561
+
 superuser: false
 user_groups:
 -  Integrantes

@@ -24,7 +24,7 @@ role: Governance and Impact Measurement Teams
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'contact'
+  link: "mailto:jesica.formoso@metadocencia.org"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/JesiFormoso
@@ -34,6 +34,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/jesica-formoso-16ab4649
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-3062-4036
 superuser: false
 user_groups:
 -  Contributors

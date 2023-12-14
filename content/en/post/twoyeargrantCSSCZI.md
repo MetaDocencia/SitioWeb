@@ -13,6 +13,8 @@ tags:
     - CS&S
     - grants
     - CZI
+categories:
+  - Institutional
 ---
 
 Code for Science & Society is thrilled to welcome MetaDocencia as a fiscally sponsored project, funded by a new two-year grant from the [Chan Zuckerberg Initiative](https://czi.co/OpenScience) (CZI)! MetaDocencia is moving full speed ahead to the next level! 

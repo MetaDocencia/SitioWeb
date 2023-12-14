@@ -10,6 +10,8 @@ type: post
 weight: 1
 tags: 
   - MetaDocencia
+categories:
+  - Institutional
 ---
 
 **Blogpost duplicated from [this blogpost](ttps://2i2c.org/blog/2022/czi-global-communities-proposal/) with authorization of [Chris Holdgraf](https://2i2c.org/author/chris-holdgraf/).**

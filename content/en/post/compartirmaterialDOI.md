@@ -13,6 +13,8 @@ tags:
   - share
   - open education
   - technical tips
+categories:
+  - Resources
 ---
 
 As detailed in [[1]](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005963) generating educational material requires a significant effort both for its initial development and to keep it updated.

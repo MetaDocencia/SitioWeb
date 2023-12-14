@@ -5,12 +5,14 @@ type: page
 title: "¿Cómo organizar las pestañas y ventanas para dar una clase virtual sincrónica?"
 summary: Recomendamos una de las maneras posibles de organizar las ventanas para no perder de vista ningún canal de comunicación con quienes asisten a nuestros cursos.
 authors: 
-    - RominaPedino
+    - rominapendino
     - npalopoli
 type: post
 weight: 1
 tags: 
   - MetaDocencia
+categories:
+  - Recursos 
 ---
 
 

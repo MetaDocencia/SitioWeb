@@ -6,7 +6,7 @@ linktitle: Evaluaciones formativas
 summary: Las evaluaciones formativas con un recursos importante para clases virtuales o presenciales. Te presentamos un catálogo de herramientas para poder realizarlas.
 title: Evaluaciones formativas
 authors: 
-    - RominaPedino
+    - rominapendino
     - npalopoli
 type: post
 weight: 1
@@ -14,6 +14,8 @@ tags:
   - tips técnicos
   - motivación
   - enseñanza
+categories:
+  - Recursos
 ---
 
 En nuestro curso [Introducción al ABC para enseñar online](https://www.metadocencia.org/curso/intro-abc-online/) hacemos hincapié en la importancia de introducir a las aulas, ya sean presenciales o virtuales, el uso de las _evaluaciones formativas_. Estas herramientas nos brindarán evidencias suficientes acerca del éxito que están teniendo los procesos de enseñanza que proponemos y cuáles son aquellos que necesitamos modificar para lograr los objetivos deseados.

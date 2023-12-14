@@ -13,6 +13,9 @@ weight: 1
 tags: 
   - MetaDocencia
   - Club de Lectura
+categories:
+  - Recursos
+  - Formación
 ---
 
 El último encuentro antes del gran cierre del Club de lectura sobre el libro Enseñar Tecnología en Comunidad, tuvo mucho intercambio de experiencias y aportes sobre tres capítulos que pueden analizarse en el espacio educativo, pero también en espacios de trabajo y comunidades de prácticas.

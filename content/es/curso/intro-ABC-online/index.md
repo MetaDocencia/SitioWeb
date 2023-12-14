@@ -12,14 +12,13 @@ authors:
 type: cursos
 weight: 10
 tags:
-  - Próximos cursos
+  - Ediciones anteriores
 ---
 
 {{% toc %}}
 
 ### Cómo participar 
-Próximos cursos:
-- **Martes 23 de mayo de 2023 de 15 a 18 (UTC-3)** > Inscríbete a través del [Formulario de registro](https://docs.google.com/forms/d/e/1FAIpQLSfYmKHsh5v6GI-RMxsaTkwI1EY4TTkiC-wzDAh7-5r-u6rAXA/viewform?usp=sf_link)
+**Próximos cursos: comunicaremos por todas nuestras redes las próximas ediciones de este curso.**
 
 *Todos los datos se manejarán en forma confidencial, sólo podrán ser publicados de forma agregada y anonimizada en reportes sobre el alcance de MetaDocencia.*
 
@@ -97,12 +96,10 @@ Se disponibilizan una vez finalizada cada edición del curso.
 
 * [Presentación que usamos en el curso](http://tiny.cc/EncuentrosActivos) con notas ampliando el contenido para quienes dan la clase
 
-* [Plantilla de nuestro documento para notas compartidas]()
+* [Plantilla de nuestro documento para notas compartidas](https://drive.google.com/file/d/1m2kjzw2JyhAvvMkcGeV2HJqXGCCVPvnT/view?usp=sharing)
 
-* [Plantilla de formulario para la encuesta de fin del taller]()
-
-* [Video del curso]()
+* [Video del curso](https://youtu.be/P0kK6SsAImA)
 
 ### ¡Sírvete sin culpa!
 
-¿Te vienen bien cualquiera de nuestros contenidos? ¡Sírvete sin culpa! Nuestros materiales están disponibles en forma gratuita bajo esta [licencia](https://creativecommons.org/licenses/by/4.0/deed.es). Es decir, puedes reusar o editar cualquier material que aparece encima de estas líneas, lo único que pedimos a cambio es que incluyas una referencia a esta página web.
+¿Te vienen bien cualquiera de nuestros contenidos? ¡Sírvete sin culpa! Nuestros materiales están disponibles en forma gratuita bajo esta [licencia](https://creativecommons.org/licenses/by/4.0/deed.es). Es decir, puedes reusar o editar cualquier material que aparece encima de estas líneas, lo único que pedimos a cambio es que incluyas una referencia a esta página web. Para más información, escríbenos a [cursos@metadocencia.org](mailto:cursos@metadocencia.org).

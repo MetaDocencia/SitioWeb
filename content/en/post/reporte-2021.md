@@ -15,6 +15,8 @@ tags:
   - informe
   - reporte
   - MetaDocencia 
+categories:
+  - Institutional
 ---
 
 MetaDocencia was born in March 2020 to support teachers and students who needed to take education to virtual environments urgently and with few tools. After travelling a long path, we reach the end of 2021 as a **mature and expanding community**. It has been the year in which our initial proposal was consolidated with the invaluable contribution of each person in our team and the love from everyone who was touched by our initiative. Our intention is still to **accompany each person that is dedicated to teaching**, understanding that contexts of isolation intensified limitations in **accessibility** and **inclusion** both for students and teachers alike. We keep our mission and vision as aguide in the search for **socializing practical tools** for online teaching that are also useful in the traditional classroom. Facing an uncertain reality, this 2021 taught us not to give up and later rewarded MetaDocencia with the necessary backup to keep trusting in our proposal and securing its continuity for the next two years.

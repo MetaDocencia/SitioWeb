@@ -9,6 +9,8 @@ authors:
     - "MetaDocencia"
 type: post
 weight: 3
+categories:
+  - Recursos
 ---
 
 El Dr. Greg Wilson del equipo de Educación de RStudio dió la charla online [Teaching online on short notice](https://education.rstudio.com/blog/2020/03/teaching-online-on-short-notice/), acá podés encontrar el [guión](/post/gwilson-webinar) y en este artículo las [preguntas y respuestas](https://education.rstudio.com/blog/2020/03/online-teaching-qa/) traducidas.

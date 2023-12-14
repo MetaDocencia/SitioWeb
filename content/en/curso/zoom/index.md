@@ -57,8 +57,10 @@ We will detail the functionality of each shortcut allowing live training.
 
 ### Course materials (in Spanish)
 
-[Course materials (in Spanish)](https://www.metadocencia.org/curso/zoom/)
+* [Course materials (in Spanish)](https://www.metadocencia.org/curso/zoom/)
+
+* [Course recording (in Spanish)](https://youtu.be/p8kjdVAtYsw)
 
 ### Do you want to re-use any of our contents? Please, be our guest!
 
-Our materials are available for free under this [license](https://creativecommons.org/licenses/by/4.0/deed.es). You can reuse or edit any material that appears here, the only thing we ask in return is that when you reuse our materials you include a reference to this website.
+Our materials are available for free under this [license](https://creativecommons.org/licenses/by/4.0/deed.es). You can reuse or edit any material that appears here, the only thing we ask in return is that when you reuse our materials you include a reference to this website. For further information, contact us at [cursos@metadocencia.org](mailto:cursos@metadocencia.org).

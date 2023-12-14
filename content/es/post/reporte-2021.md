@@ -15,6 +15,8 @@ tags:
   - informe
   - reporte
   - MetaDocencia 
+categories:
+  - Institucional
 ---
 
 MetaDocencia nació en marzo de 2020 para acompañar a docentes y estudiantes que debían llevar la educación a entornos virtuales con mucha urgencia y pocas herramientas. Tras mucho camino recorrido, llegamos al final de 2021 como una **comunidad madura y en expansión**. Ha sido el año en que nuestra propuesta inicial se afianzó a partir del aporte invaluable de cada persona en nuestro equipo y del abrazo de cada persona a la que llegó nuestra propuesta. Nuestra intención sigue siendo **acompañar a las personas que se dedican a la docencia**, entendiendo que los contextos de aislamiento intensificaron problemáticas de **accesibilidad** e **inclusión** tanto para estudiantes como para docentes. Mantenemos nuestra misión y visión como guía en la búsqueda de **socializar herramientas prácticas** para la enseñanza online que también son útiles en el aula tradicional. Ante una realidad incierta, este 2021 nos enseñó a no bajar los brazos y nos recompensó con el respaldo necesario para seguir confiando en nuestra propuesta y asegurar su continuidad por los próximos dos años.

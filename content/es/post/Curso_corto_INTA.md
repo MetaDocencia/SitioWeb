@@ -17,6 +17,8 @@ weight: 1
 tags: 
   - experiencias
   - MetaDocencia 
+categories:
+  - Formación
 ---
 
 El inicio de la cuarentena llevó al [Instituto Nacional de Tecnología Agropecuaria (INTA)](https://www.argentina.gob.ar/inta) a virtualizar aquellas actividades que lo permitían. Entre ellas se encuentran las actividades de transferencia y extensión: reuniones con productores, jornadas de trabajos con otras instituciones y organismos, asesoramiento a diferentes actores del sector agropecuario, capacitación en forma de charlas, jornadas, cursos y talleres.

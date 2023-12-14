@@ -13,6 +13,8 @@ tags:
   - compartir
   - open education
   - tips técnicos
+categories:
+  - Recursos
 ---
 
 Como se detalla en [[1]](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005963) generar material esducativo requieren un esfuerzo significativo tanto para su desarrollo inicial como para mantenerlo actualizado.

@@ -12,6 +12,8 @@ weight: 1
 tags: 
   - experiencias
   - MetaDocencia 
+categories:
+  - Recursos 
 ---
 
 A las 12:04, John Mulligan dijo: "¿Soy solo yo o fue increíblemente bien?" Acabábamos de enseñar a 30 personas en línea y me pareció súper manejable. Seguí leyendo para ver qué hicimos y cómo.

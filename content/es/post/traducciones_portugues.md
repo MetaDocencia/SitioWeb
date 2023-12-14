@@ -13,7 +13,8 @@ type: post
 weight: 1
 tags: 
   - traducciones
-
+categories:
+  - Institucional
 ---
 
 Durante el año 2021 algunos docentes de Brasil tomaron los cursos de MetaDocencia, específicamente el [Introducción al ABC para enseñar on-line](https://www.metadocencia.org/curso/intro-abc-online/).  Al finalizar el curso algunas de estas personas expresaron en voz alta y en las encuestas de feedback, que sería muy útil tener el material en portugués para poder enseñar estos cursos a más docentes brasileños.  

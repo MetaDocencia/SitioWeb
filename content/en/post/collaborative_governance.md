@@ -10,6 +10,8 @@ type: post
 weight: 1
 tags: 
   - MetaDocencia
+categories:
+  - Institutional
 ---
 
 MetaDocencia [celebrated its second anniversary](https://www.metadocencia.org/en/post/cumple_mes_dos_anios/) in 2022. This was made possible thanks to the support of the Spanish-speaking teaching community that grows along with innovations in education and the desire to continue learning and collaborating online.

@@ -11,7 +11,7 @@ authors:
   - "MetaDocencia"
 type: cursos
 tags:
- - Próximos cursos
+  - Ediciones anteriores
 weight: 50
 ---
 
@@ -20,8 +20,7 @@ weight: 50
 
 
 ### Cómo participar 
-Próximo taller:
-- **Jueves 4 de mayo de 2023 de 14 a 16 (UTC-3)** > Inscríbete a través del [Formulario de registro](https://docs.google.com/forms/d/e/1FAIpQLSft3SLFlmIt3MdTg7wtAetqwrv2X97nK3_afsn6dnKZ0UEqdQ/viewform?usp=sf_link)
+**Próximos cursos: comunicaremos por todas nuestras redes las próximas ediciones de este curso.**
 
 *Todos los datos se manejarán en forma confidencial, sólo podrán ser publicados de forma agregada y anonimizada en reportes sobre el alcance de MetaDocencia.*
 
@@ -55,9 +54,11 @@ Se detallará la funcionalidad de cada atajo permitiendo la experimentación en 
 ### Materiales
 Se disponibilizan una vez finalizada cada edición del curso.
 
-* [Presentación que usamos en el curso]() con instrucciones paso a paso de los ejercicios. 
+* [Presentación que usamos en el curso](https://docs.google.com/presentation/d/1fbi8_JHPwFGuae8eY2yUVG8WA81g8uxoejEhnGmBShY/edit?usp=sharing) con instrucciones paso a paso de los ejercicios. 
+
+* [Video del curso](https://youtu.be/p8kjdVAtYsw)
 
 ### ¡Sírvete sin culpa!
 
-Nuestros materiales están disponibles en forma gratuita bajo esta [licencia](https://creativecommons.org/licenses/by/4.0/deed.es). Es decir, puedes reusar o editar cualquier material que aparece acá, lo único que pedimos a cambio es que cuando tomes material de acá incluyas una referencia a esta página web.
+Nuestros materiales están disponibles en forma gratuita bajo esta [licencia](https://creativecommons.org/licenses/by/4.0/deed.es). Es decir, puedes reusar o editar cualquier material que aparece acá, lo único que pedimos a cambio es que cuando tomes material de acá incluyas una referencia a esta página web. Para más información, escríbenos a [cursos@metadocencia.org](mailto:cursos@metadocencia.org).
 

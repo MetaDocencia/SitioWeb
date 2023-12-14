@@ -7,7 +7,7 @@ education:
   - course: Abogado.
     institution: Universidad Nacional de La Pampa.  
     year: 2007
-email: ""
+email: "ivanpoggio@metadocencia.org"
 interests:
 name: Iván Gabriel Poggio
 weight: 15
@@ -18,7 +18,10 @@ role: Equipos de Accesibilidad y Enseñanza
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'contact'
+  link: "mailto:ivanpoggio@metadocencia.org"
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0009-0007-9366-4533
 superuser: false
 user_groups:
 - Integrantes

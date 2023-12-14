@@ -104,8 +104,12 @@ This schedule assumes the start of the course is 9 am, but this will vary accord
 
 ### Course materials (in Spanish)
 
-[Course materials (in Spanish)](https://www.metadocencia.org/curso/intro-abc-online/)
+* [Course materials (in Spanish)](https://www.metadocencia.org/curso/intro-abc-online/)
+
+* [Shared document (in Spanish)](https://drive.google.com/file/d/1m2kjzw2JyhAvvMkcGeV2HJqXGCCVPvnT/view?usp=sharing)
+
+* [Course recording (in Spanish)](https://youtu.be/P0kK6SsAImA)
 
 ### Do you want to re-use any of our contents? Please, be our guest!
 
-Our materials are available for free under this [license](https://creativecommons.org/licenses/by/4.0/deed.es). You can reuse or edit any material that appears here, the only thing we ask in return is that when you reuse our materials you include a reference to this website.
+Our materials are available for free under this [license](https://creativecommons.org/licenses/by/4.0/deed.es). You can reuse or edit any material that appears here, the only thing we ask in return is that when you reuse our materials you include a reference to this website. For further information, contact us at [cursos@metadocencia.org](mailto:cursos@metadocencia.org).

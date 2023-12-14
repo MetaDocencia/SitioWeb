@@ -16,6 +16,8 @@ tags:
   - informe
   - reporte
   - MetaDocencia 
+categories:
+  - Institucional
 ---
 
 Terminó el 2020, un año lleno de desafíos, incertidumbres y cambios. En ese contexto nació **MetaDocencia**, una respuesta frente a la necesidad y la urgencia impuestas por la pandemia, para brindar herramientas que permitieran virtualizar clases en forma rápida y efectiva. La propuesta fue abrazada y amplificada desde sus inicios por muchos educadores de la Argentina y del exterior. MetaDocencia se ha constituido como una **comunidad inclusiva y colaborativa** de apoyo a docentes hispanoparlantes, que comparte **métodos educativos basados en evidencia** y brinda **recursos abiertos** para fomentar prácticas de enseñanza eficaces.

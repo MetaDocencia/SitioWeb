@@ -10,6 +10,8 @@ type: post
 weight: 1
 tags: 
   - MetaDocencia
+categories:
+  - Institucional 
 ---
 
 Publicación original: [Chris Holdgraf](https://2i2c.org/author/chris-holdgraf/)

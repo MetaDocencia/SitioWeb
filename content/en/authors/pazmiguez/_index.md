@@ -25,13 +25,16 @@ role: Project and Course Development Manager
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'contact'
+  link: "mailto:paz.miguez@metadocencia.org"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Paz_M
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/pazmiguez/
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-1099-4347
 superuser: false
 user_groups:
 -  Contributors

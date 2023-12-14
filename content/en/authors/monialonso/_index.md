@@ -26,7 +26,7 @@ role: Governance Team
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'contact'
+  link: "mailto:monica.alonso@metadocencia.org"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/MonicaLA2000
@@ -36,6 +36,9 @@ social:
 - icon: globe
   icon_pack: fas
   link: monicalonso2000.netlify.com
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0009-0004-3690-9416
 superuser: false
 user_groups:
 - Contributors

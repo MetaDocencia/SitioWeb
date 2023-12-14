@@ -16,6 +16,8 @@ tags:
   - informe
   - reporte
   - MetaDocencia 
+categories:
+  - Institutional
 ---
 
 2020 is over, a year of many challenges, uncertainties and changes. **MetaDocencia** was born in this context as a response to the need and urgency imposed by the pandemic, to offers tools for making a quick and effective switch to online classes. The proposal was embraced and amplified from its very beginnings by many educators in Argentina and abroad. MetaDocencia has established itself as a **collaborative and inclusive community** to support Spanish-speaking teachers, that shares **evidence-based educational methods** and provides **open resources** to foster effective teaching practices.

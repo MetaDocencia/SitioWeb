@@ -1,6 +1,6 @@
 ---
 authors:
-- RominaPendino
+- rominapendino
 bio: ""
 education:
 email: ""
@@ -15,7 +15,10 @@ role: Governance, Code of Conduct, and Teaching Teams
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'contact'
+  link: "mailto:romipendino@metadocencia.org"
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-3566-7222
 superuser: false
 user_groups:
 - Contributors

@@ -24,12 +24,12 @@ url = ""
 #    weight = 30
   [[main]]
   name = "Pautas de convivencia"
-  url = "cdc/"
+  url = "pdc/"
   parent = "Quiénes somos"
     weight = 40
   [[main]]
   name = "Accesibilidad"
-  url = "post/perfiles_accesibilidad/"
+  url = "/post/perfiles_accesibilidad/"
   parent = "Quiénes somos"
     weight = 50
   [[main]]
@@ -116,11 +116,11 @@ url = ""
   url = "donar/"
   parent = "Apoyos"
     weight = 20
-  [[main]]
-  name = "Consultas"
-  url = "contact"
-  parent = "Apoyos"
-    weight = 30
+#     [[main]]
+#     name = "Consultas"
+#     url = "contact"
+#     parent = "Apoyos"
+#       weight = 30
 
 
 [[main]]
@@ -129,7 +129,7 @@ url = ""
   weight = 50
   [[main]]
   name = "Formulario"
-  url = "contact"
+  url = "contacto/"
   parent = "Contacto"
     weight = 10
 #   [[main]]

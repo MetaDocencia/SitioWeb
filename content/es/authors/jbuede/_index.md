@@ -20,10 +20,13 @@ role: Redes sociales y producción audiovisual para el área de Comunicación y 
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'contact'
+  link: "mailto:jbuede@metadocencia.org"
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/julianbuede/
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-2338-648X
 superuser: false
 user_groups:
 -  Integrantes

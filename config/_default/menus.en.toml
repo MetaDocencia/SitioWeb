@@ -25,12 +25,12 @@ weight = 10
 #    weight = 30
   [[main]]
   name = "Code of Conduct"
-  url = "en/cdc/"
+  url = "en/pdc/"
   parent = "About Us"
     weight = 40
   [[main]]
   name = "Accessibility"
-  url = "post/accessibility_profiles/"
+  url = "en/post/perfiles_accesibilidad/"
   parent = "About Us"
     weight = 50
   [[main]]
@@ -40,7 +40,7 @@ weight = 10
     weight = 60
       [[main]]
   name = "Fellow Communities"
-  url = "en/hive"
+  url = "panal/"
   parent = "About Us"
     weight = 70
 #  [[main]]
@@ -62,12 +62,12 @@ weight = 20
   weight = 10
   [[main]]
   name = "Events"
-  url = "events/"
+  url = "eventos/"
   parent = "What We Do"
   weight = 20
   [[main]]
   name = "Consulting"
-  url = "consulting/"
+  url = "consultoria/"
   parent = "What We Do"
   weight = 30
  #[[main]]
@@ -93,12 +93,12 @@ weight = 20
   weight = 10
   [[main]]
   name = "Press"
-  url = "prensa2"
+  url = "prensas/"
   parent = "News"
   weight = 20
   [[main]]
   name = "Newsletters"
-  url = "newsletter"
+  url = "boletines"
   parent = "News"
   weight = 30
 
@@ -117,11 +117,11 @@ weight = 40
   url = "donar/"
   parent = "Supporters"
     weight = 20
-  [[main]]
-  name = "Get Involved"
-  url = "contact/"
-  parent = "Supporters"
-    weight = 30
+#     [[main]]
+#     name = "Get Involved"
+#     url = "contact/"
+#     parent = "Supporters"
+#       weight = 30
 
 
 [[main]]
@@ -130,7 +130,7 @@ url = ""
 weight = 50
   [[main]]
   name = "Form"
-  url = "contact"
+  url = "contacto/"
   parent = "Contact Us"
   weight = 10
 #  [[main]]

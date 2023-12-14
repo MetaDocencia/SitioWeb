@@ -5,12 +5,14 @@ type: page
 title: "Buenas prácticas para crear presentaciones accesibles"
 summary: Sugerencias que permitirán que tus presentaciones puedan ser aprovechadas por una mayor cantidad de personas
 authors: 
-    - okus
+    - mrajngewerc
     - patriloto
 type: post
 weight: 1
 tags: 
   - MetaDocencia
+categories:
+  - Recursos
 ---
 
 

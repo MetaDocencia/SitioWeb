@@ -10,6 +10,8 @@ type: post
 weight: 1
 tags: 
   - MetaDocencia
+categories:
+  - Institucional
 ---
 
 En 2022 [cumplimos dos años](https://www.metadocencia.org/post/cumple_mes_dos_anios/), gracias al impulso de la comunidad docente de habla hispana que crece al ritmo de las innovaciones en educación y las ganas de seguir aprendiendo y colaborando en línea.

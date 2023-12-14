@@ -16,6 +16,8 @@ weight: 1
 tags: 
   - enseñanza
   - tips 
+categories:
+  - Formación
 ---
 
 ## ¿Querés ser ayudante en nuestros cursos? ¡Vení, sumate!

@@ -11,6 +11,8 @@ type: post
 weight: 1
 tags: 
   - MetaDocencia
+categories:
+  - Institucional
 ---
 
 Los primeros días de MetaDocencia, desde que tuvimos la idea inicial hasta que dimos nuestro primer curso, no habría sido posible sin el apoyo y todo el material abierto que comparten las siguientes organizaciones y personas:

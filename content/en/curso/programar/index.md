@@ -6,7 +6,7 @@ image:
   alt_text: "Photo of a computer coding"
 linktitle: Teach programming Workshop
 summary: Introductory online synchronous workshop to teach programming online
-title: How to teach programming online
+title: How to Teach Programming Online
 authors: 
     - "MetaDocencia"
 type: course
@@ -58,27 +58,6 @@ This is **NOT** a programming course (this is a course about how to teach progra
 * Programming techniques 
 * Theory of pedagogy
 
-### How to participate 
-
-If you hadn't done it before, please fill on 
-[this registration form in Spanish](https://docs.google.com/forms/d/e/1FAIpQLScC20Me-fX7UmCNhNswulYfOVQF4XiyIHgtde_R8CWreCmWhA/viewform). 
-
-In order to participate in this workshop please fill in your email in the following  form:
-
-<iframe 
-  src="https://script.google.com/macros/s/AKfycbxiLVssqLE184JQDnu4LPHkgChp-mbpRNOWQ7OGou96XGVUrMRL1oCCpnPq6_0W-1kU6Q/exec"
-  frameBorder="0",
-  title = "Formulario de pre-inscripción",
-  width="100%",
-  height = 300px,
-  vertical-align="text-top">
-  Explorador no compatible.
-</iframe> 
-
-(In the form does not appear, it is possible that you have a blocker that prevents you to see it. In this case you, you can follow [this link](https://script.google.com/macros/s/AKfycbxiLVssqLE184JQDnu4LPHkgChp-mbpRNOWQ7OGou96XGVUrMRL1oCCpnPq6_0W-1kU6Q/exec))
-
-As soon as we open slots we will send you an invitation email so you can choose the day and time that suits you best. 
-
 The workshop is free. Those invited to the workshop agree to abide by our [code of conduct](https://metadocencia.org/cdc/). 
 
 ### Duration
@@ -101,13 +80,15 @@ This is a 3-hour workshop with intervals (ideally away from any screen) of appro
  |  10 | End of the workshop: summary and feedback |
 
 
-### Course materials
+### Course materials (in Spanish)
 
-* [Presentation used during the course](https://docs.google.com/presentation/d/1sj6tbtqjWY8AvcQLVih3FTFIa1pKERFRxk3KY8KK13w/edit)
+* [Presentation used during the course (in Spanish)](https://docs.google.com/presentation/d/1sj6tbtqjWY8AvcQLVih3FTFIa1pKERFRxk3KY8KK13w/edit)
 
-* [End-of-workshop feedback form template]()
+* [Shared document template (in Spanish)](https://drive.google.com/file/d/1PK0mbRYke33qQIKcgmrlusJe6dIGYx9y/view?usp=sharing)
+
+* [Course recording (in Spanish)](https://youtu.be/awRCNo0PEZU)
 
 
 ### Do you want to re-use any of our contents? Please, be our guest!
 
-Our materials are available for free under this [license](https://creativecommons.org/licenses/by/4.0/deed.es). You can reuse or edit any material that appears here, the only thing we ask in return is that when you reuse our materials you include a reference to this website.
+Our materials are available for free under this [license](https://creativecommons.org/licenses/by/4.0/deed.es). You can reuse or edit any material that appears here, the only thing we ask in return is that when you reuse our materials you include a reference to this website. For further information, contact us at [cursos@metadocencia.org](mailto:cursos@metadocencia.org).

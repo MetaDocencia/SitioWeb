@@ -12,6 +12,8 @@ weight: 1
 tags: 
   - experiencias
   - MetaDocencia 
+categories:
+  - Resources
 ---
   
 At 12:04 John Mulligan said “Is it just me or was that incredibly smooth?” We had just finished teaching 30 people online and it felt super manageable. Read on to see what we did and how.
