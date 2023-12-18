@@ -21,6 +21,9 @@ organizations:
 
 role: Project Coordinator
 social:
+- icon: envelope
+  icon_pack: fas
+  link: "mnanton@metadocencia.org"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/bynans1

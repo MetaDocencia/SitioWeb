@@ -27,6 +27,9 @@ organizations:
 
 role: Project Coordination
 social:
+- icon: envelope
+  icon_pack: fas
+  link: "sabrina.lopez@metadocencia.org"
 - icon: github
   icon_pack: fab
   link: https://github.com/SLLDeC/
