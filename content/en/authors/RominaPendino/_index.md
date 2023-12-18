@@ -16,6 +16,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:romipendino@metadocencia.org"
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/romipendinok/
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/romina-pendino-7973051b1
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-3566-7222

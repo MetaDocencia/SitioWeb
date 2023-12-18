@@ -21,10 +21,16 @@ social:
   link: "mailto:marielaraj@metadocencia.org"
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/LoopLiquido
-- icon: gitlab
+  link: https://twitter.com/mariela_rajng
+- icon: linkedin
   icon_pack: fab
-  link:  https://gitlab.com/mrajng
+  link: https://www.linkedin.com/in/mrajngewerc/
+- icon: github
+  icon_pack: fab
+  link:  https://github.com/marielaraj
+- icon: globe
+  icon_pack: fas
+  link: https://marielaraj.github.io/
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0001-8268-3260
