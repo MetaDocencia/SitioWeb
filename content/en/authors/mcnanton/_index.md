@@ -21,9 +21,15 @@ organizations:
 
 role: Project Coordinator
 social:
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/bynans1
 - icon: github
   icon_pack: fab
   link: https://github.com/mcnanton
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/maría-cristina-n-920170126/
 
 user_groups:
 - Contributors
