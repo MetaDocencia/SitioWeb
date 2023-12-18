@@ -25,7 +25,7 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/mrajngewerc/
-- icon: gitlab
+- icon: github
   icon_pack: fab
   link:  https://github.com/marielaraj
 - icon: globe
