@@ -25,9 +25,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:jesica.formoso@metadocencia.org"
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/JesiFormoso
 - icon: github
   icon_pack: fab
   link: https://github.com/JFormoso

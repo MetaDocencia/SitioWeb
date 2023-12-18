@@ -19,6 +19,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:ivanpoggio@metadocencia.org"
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/ivanpoggio/
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0009-0007-9366-4533

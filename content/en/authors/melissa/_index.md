@@ -25,12 +25,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:mblack@metadocencia.org"
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/melissablck/
-- icon: github
-  icon_pack: fab
-  link: https://github.com/melibleq
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/melissablck/

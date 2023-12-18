@@ -33,9 +33,6 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/monialo2000
-- icon: globe
-  icon_pack: fas
-  link: monicalonso2000.netlify.com
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0009-0004-3690-9416

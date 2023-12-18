@@ -29,6 +29,12 @@ role: Project Coordination
 social:
 - icon: github
   icon_pack: fab
+  link: https://github.com/SLLDeC/
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/sabrina-l-l%C3%B3pez-4b675851/
+- icon: globe
+  icon_pack: fas
   link: https://slldec.github.io/
 superuser: false
 user_groups:
