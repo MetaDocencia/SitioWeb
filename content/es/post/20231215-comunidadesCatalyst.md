@@ -52,9 +52,9 @@ Para esto participaremos de capacitaciones sobre la creación de lecciones, junt
 [Narrativa abierta de financiamiento: Modelo de servicio computacional interactivo y colaborativo para comunidades globales](https://www.metadocencia.org/post/narrativafinanciamiento/)
 
 - Sobre la Jornada de datos de UNITEFA
-Noticia en el portal de UNITEFA: [https://unitefa.conicet.unc.edu.ar/jornada-de-ciencia-de-datos/](https://unitefa.conicet.unc.edu.ar/jornada-de-ciencia-de-datos/)
-Noticia en el portal del CCAD: https://ccad.unc.edu.ar/2023/10/23/unitefa-conforma-la-primera-comunidad-del-proyecto-catalyst-en-la-unc-a-traves-del-ccad/
-Más detalles sobre la propuesta: [https://ccad.unc.edu.ar/files/comentarios.pdf](https://ccad.unc.edu.ar/files/comentarios.pdf)
+  - Noticia en el portal de UNITEFA: [https://unitefa.conicet.unc.edu.ar/jornada-de-ciencia-de-datos/](https://unitefa.conicet.unc.edu.ar/jornada-de-ciencia-de-datos/)
+  - Noticia en el portal del CCAD: https://ccad.unc.edu.ar/2023/10/23/unitefa-conforma-la-primera-comunidad-del-proyecto-catalyst-en-la-unc-a-traves-del-ccad/
+  - Más detalles sobre la propuesta: [https://ccad.unc.edu.ar/files/comentarios.pdf](https://ccad.unc.edu.ar/files/comentarios.pdf)
 
 *¿Te gustó esta publicación? Puedes reutilizarla libremente bajo licencia CC by 4.0, solo tienes que citarla.* 
 
