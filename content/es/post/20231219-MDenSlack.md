@@ -1,6 +1,6 @@
 ---
 date: "2023-12-19"
-draft: true
+draft: false
 type: page
 title: "MetaDocencia en Slack"
 linktitle: Slack 2023
@@ -22,9 +22,9 @@ categories:
 
 La Ciencia Abierta es un movimiento que promueve hacer más accesible la producción científica, así como fortalecer prácticas más transparentes, inclusivas y colaborativas. En este sentido, para MetaDocencia es central interactuar en contextos comunitarios, abiertos, participativos y horizontales. Para nuestra comunidad, Slack es uno de los principales espacios para hacerlo.
 
-![Viñeta de Mafalda donde, frente aun plato de sopa, vocifera "Mamá, ¿puedo decirte que esta sopa es un brebaje espantoso? ¿Y que es la porquería más inmunda que he probado en mi vida? ¿O te molesta la crítica constructiva?"](https://www.metadocencia.org/img/mafalda-sopa.jpg) 
+![Captura de la plataforma de Slack donde se ve cómo aparecen los intercambios en los distintos canales](https://www.metadocencia.org/img/Slackcaptura-web.jpg) 
 
-*Historieta de Mafalda, creada por el caricaturista argentino Quino.*
+*Imagen del Slack de MetaDocencia.*
 
 Slack es una plataforma de mensajería online que habitamos como un espacio de encuentro, diálogo e intercambio de información y recursos. Entre otras cosas, Slack permite generar tantos canales de discusión como temas a tratar existan, ordenando las conversaciones y los recursos compartidos. 
 
@@ -54,5 +54,4 @@ Slack es uno de nuestros espacios de encuentro, reflexión y aprendizaje. Ingres
 *¿Te gustó esta publicación? Puedes reutilizarla libremente bajo licencia CC by 4.0, solo tienes que citarla.* 
 
 Esta es la cita que te recomendamos usar para referenciarla: 
-
 Buede, J., Ascenzi, L., Black, M., Alonso, M., Pendino, R., & López, S. (2023). MetaDocencia en Slack. Zenodo. https://doi.org/10.5281/zenodo.10402368
