@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 55  # Order that this section will appear.
 
-title = "Encuentros de Gobernanza de MetaDocencia"
-subtitle = ""
+title = "Misión de Exploración hacia la Ciencia Abierta"
+subtitle = "Grupo de estudio - Pre NASA TOPS"
 
 [content]
   # Page type to display. E.g. project.
@@ -22,12 +22,12 @@ subtitle = ""
   filter_default = 0
    
   [[content.filter_button]]
-    name = "Próximos eventos"
-    tag = "Próximos eventos"
+    name = "Próximos encuentros"
+    tag = "Próximos encuentros"
     
   [[content.filter_button]]
-    name = "Conversatorios anteriores"
-    tag = "Conversatorios anteriores"
+    name = "Encuentros anteriores"
+    tag = "Encuentros anteriores"
 
 
 [design]
@@ -72,22 +72,25 @@ subtitle = ""
 +++
 
 
-Entre julio y octubre de 2022 realizaremos **ocho conversatorios** que tienen como objetivo contribuir a la elaboración colaborativa de nuestra gobernanza. En estos encuentros conversaremos con especialistas en gobernanza y referentes de organizaciones y proyectos vinculados a la educación y el conocimiento abierto. Estas reuniones aportarán a un modelo de organización como el que deseamos para MetaDocencia, pensado desde y para nuestro contexto cultural y regional.
+Comenzamos 2024 con esta misión de despegue hacia la pre NASA-TOPS. ¡Vení a aprender cómo enseñar Ciencia Abierta con MetaDocencia! [https://www.metadocencia.org/post/nasatops10puntos/]
 
-Te invitamos a participar de las conversaciones, debates y reflexiones que guiarán este proceso de aprendizaje, para que nuestra forma de gobierno sea otro hito de nuestra trayectoria construida en comunidad. 
+Este año empezaremos a enseñar principios de la Ciencia Abierta en español. Para prepararnos, invitamos a la comunidad MetaDocente a estudiar juntos el contenido del curso Open Science 101 de la NASA (por ahora solo disponible en inglés).
 
-**> [Formulario de registro para asistir a los eventos](https://docs.google.com/forms/d/e/1FAIpQLSfUHrL4F10zWwOuRKW0I8y-_7YT1p8PslzIk7jLBuoR41Hs-Q/viewform)**
+Serán seis encuentros correspondientes a los cinco módulos. En cada uno, revisaremos distintos temas que componen el mundo de la Ciencia Abierta: sus ideas centrales, herramientas utilizadas, cómo manejar datos abiertos y código abierto, y mucho más. ¡Siempre con mirada local, claro! Pensaremos en situaciones y ejemplos de nuestra propia vivencia en América Latina.
+
+Nuestros encuentros serán los **miércoles de 17 a 18h (UTC-3, hora de Argentina)**.
+
+
+**> [Formulario de registro para asistir a los eventos](https://docs.google.com/forms/d/e/blabla/viewform)**
 *Todos los datos se manejarán en forma confidencial, sólo podrán ser publicados de forma agregada y anonimizada en reportes sobre el alcance de MetaDocencia.*
 
 Ciclo de encuentros y temas programados:
 
 |  Día/hora (UTC-3) | Tema |
 | ---:  | :----------- |
-|Mié 20-07 - 17 a 18 | *MetaDocencia: pensar colaborativamente nuestra gobernanza* | 
-|Mié 03-08 - 17 a 18 | *Beatriz Busaniche - La experiencia de la Fundación Vía Libre* | 
-|Mié 17-08 - 17 a 18 | *Fabrizio Scrollini - Gobernanza y datos abiertos: la experiencia ILDA* |
-|Mié 31-08 - 17 a 18 | *Malvika Sharan y Andrea Sánchez Tapia - Gobernanza en comunidad: interseccionalidad y representatividad* (en inglés con intérprete en simultáneo) |
-|Mié 14-09 - 17 a 18 | *Andrés Piazza - Los aspectos normativos de la gobernanza* |
-|Mié 28-09 - 17 a 18 | *Mayra Botta - Gobernanza e innovación educativa* |
-|Mié 12-10 - 17 a 18 | *Diego Pando - Gobernar en entornos complejos, flexibles y cambiantes* |
-|Mié 26-10 - 17 a 18 | *La gobernanza de MetaDocencia en proceso* |
+|Mié 24-01 - 17 a 18 | *Módulo 1: El “Ethos” de la Ciencia Abierta* | 
+|Mié 31-01 - 17 a 18 | *Módulo 2: Herramientas y recursos abiertos* | 
+|Mié 07-02 - 17 a 18 | *Módulo 3: Datos abiertos* |
+|Mié 14-02 - 17 a 18 | *Módulo 4: Código abierto* |
+|Mié 21-02 - 17 a 18 | *Módulo 5: Resultados de investigación abiertos* |
+|Mié 06-03 - 17 a 18 | *Encuentro final: qué aprendimos?/qué nos llevamos?* |
