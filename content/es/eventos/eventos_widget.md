@@ -82,9 +82,11 @@ Nuestros encuentros serán los **miércoles de 17 a 18h (UTC-3, hora de Argentin
 
 
 **> [Formulario de registro para asistir a los eventos](https://docs.google.com/forms/d/e/blabla/viewform)**
+
 *Todos los datos se manejarán en forma confidencial, sólo podrán ser publicados de forma agregada y anonimizada en reportes sobre el alcance de MetaDocencia.*
 
-Ciclo de encuentros y temas programados:
+
+**Ciclo de encuentros y temas programados:**
 
 |  Día/hora (UTC-3) | Tema |
 | ---:  | :----------- |
