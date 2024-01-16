@@ -70,7 +70,7 @@ subtitle = "Grupo de estudio - Pre NASA TOPS"
  # CSS class.
  css_class = ""
 +++
-
+![Banner Grupo de Estudio Pre NASA TOPS](https://www.metadocencia.org/img/blabla.jpg)
 
 Comenzamos 2024 con esta misión de despegue hacia la pre NASA-TOPS. ¡Vení a aprender cómo enseñar Ciencia Abierta con MetaDocencia! [https://www.metadocencia.org/post/nasatops10puntos/]
 
