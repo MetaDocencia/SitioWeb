@@ -44,6 +44,7 @@ Nuestros encuentros serán los miércoles de 17 a 18h (UTC-3, hora de Argentina)
 5 encuentros, 1 para cada módulo del OpenScience101, más un encuentro de cierre.
 |  Día/hora (UTC-3)  |  Tema  |
 | :------:|:----------- |
+
 | Mié 24-01 17h | Módulo 1: El “Ethos” de la Ciencia Abierta |
 | Mié 31-01 17h | Módulo 2: Herramientas y recursos abiertos |
 | Mié 07-02 17h | Módulo 3: Datos abiertos |
