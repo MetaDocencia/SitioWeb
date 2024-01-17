@@ -44,18 +44,17 @@ Nuestros encuentros serán los miércoles de 17 a 18h (UTC-3, hora de Argentina)
 5 encuentros, 1 para cada módulo del OpenScience101, más un encuentro de cierre.
 |  Día/hora (UTC-3)  |  Tema  |
 | :------:|:----------- |
-
-| Mié 24-01 17h | Módulo 1: El “Ethos” de la Ciencia Abierta |
+| Mié 24-01 17h <img width="200"/> | Módulo 1: El “Ethos” de la Ciencia Abierta |
 | Mié 31-01 17h | Módulo 2: Herramientas y recursos abiertos |
 | Mié 07-02 17h | Módulo 3: Datos abiertos |
 | Mié 14-02 17h | Módulo 4: Código abierto |
 | Mié 21-02 17h | Módulo 5: Resultados de investigación abiertos |
-| Mié 06-03 17h | Encuentro final: qué aprendimos?/qué nos llevamos? |
+| Mié 06-03 17h | Encuentro final: ¿qué aprendimos?/¿qué nos llevamos? |
 
 ### Enlaces de interés
 
 - [OpenScience101.org](https://openscience101.org/)
-- Carpeta en el Google Drive Enseñanza: [NASA TOPS-T](https://drive.google.com/drive/folders/1HqvJhKVk3Zj0Pnilsnl89SV0vonfphXc)
+- Carpeta en el Google Drive.
 
 ### ¡Sírvete sin culpa!
 
