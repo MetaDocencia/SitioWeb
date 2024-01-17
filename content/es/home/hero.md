@@ -7,7 +7,7 @@ weight = 5  # Order that this section will appear.
 
 # title = "Co-creando y enseñando ciencia abierta"
 
-title = "¡Sigue todas las novedades en nuestro Blog!"
+title = "Misión de Exploración hacia la Ciencia Abierta"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "MD_original.png"
@@ -40,13 +40,13 @@ hero_media = "MD_original.png"
 #   Remove a link/note by deleting a cta/note block.
  [cta]
  url = "https://www.metadocencia.org/post/"
- label = "Ver publicaciones"
+ label = "Más información y registro"
  icon_pack = "fab"
  icon = "Súmate a nuestras propuestas de formación gratuitas y online"
 
-[cta_alt] 
+<!--- [cta_alt] 
 url = "https://www.metadocencia.org/boletines/" 
-label = "Suscribirme al boletín"
+label = "Suscribirme al boletín" --->
 
 
 # Note. An optional note to show underneath the links.
@@ -54,5 +54,5 @@ label = "Suscribirme al boletín"
 #   label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-Formación, Institucional, Proyectos, Recursos, Temas.
+¡Ven a explorar junto a MetaDocencia los contenidos de NASA TOPS!
 
