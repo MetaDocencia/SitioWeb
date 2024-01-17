@@ -17,7 +17,7 @@ featured_image: https://www.metadocencia.org/img/blabla.png
 
 ### Sobre el encuentro
 
-El primer encuentro se llevará a cabo el **miércoles 24 de enero de 17 a 18 (UTC-3)**. Estará coordinado por [Melissa Black](https://www.metadocencia.org/authors/mblack/).
+El primer encuentro se llevará a cabo el **miércoles 24 de enero de 17 a 18 (UTC-3)**. Estará coordinado por [Melissa Black](https://www.metadocencia.org/authors/melissa/).
 
 El encuentro se propuse a presentar el grupo de estudios; cómo usar la plataforma; discutir el "Ethos" de la Ciencia Abierta.
 
@@ -38,12 +38,12 @@ Nuestros materiales están disponibles en forma gratuita bajo esta [licencia](ht
 
 ### Sobre los encuentros
 
-Entre enero y marzo de 2024 se desarrollarán 6 encuentros para explorar los contenidos del curso Open Science 101, que forma parte de la iniciativa NASA TOPS. 
+Entre enero y febrero de 2024 se desarrollarán 6 encuentros para explorar los contenidos del curso Open Science 101, que forma parte de la iniciativa NASA TOPS. 
 
 **[Ver los próximos eventos](https://www.metadocencia.org/eventos)**
 
 Estos encuentros ofrecen una oportunidad de intercambio y aprendizaje, para nutrirnos entre comunidades con nuestras experiencias y procesos.
 
-**[Formulario de registro para asistir a los eventos](https://docs.google.com/forms/d/e/blabla/viewform)**
+**[Formulario de registro para asistir a los eventos](https://docs.google.com/forms/d/e/1FAIpQLSeNC5FAkHDNwvqJr0419ddccLsru7c38EttgbjOw6ar-x84-Q/viewform)**
 
 *Todos los datos se manejarán en forma confidencial, sólo podrán ser publicados de forma agregada y anonimizada en reportes sobre el alcance de MetaDocencia.*
