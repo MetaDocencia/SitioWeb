@@ -70,14 +70,14 @@ subtitle = "Grupo de estudio - Pre NASA TOPS"
  # CSS class.
  css_class = ""
 +++
-![Banner Grupo de Estudio Pre NASA TOPS](https://www.metadocencia.org/img/blabla.jpg)
+![Banner Grupo de Estudio Pre NASA TOPS](https://www.metadocencia.org/img/grupo-estudio-pre-nasa-tops-2024.jpg)
 
 #### Comenzamos 2024 con la misión de aprender en comunidad. ¡Ven a explorar junto a MetaDocencia los  contenidos sobre Ciencia Abierta que comparte la NASA!
 <!---[https://www.metadocencia.org/post/nasatops10puntos/]--->
 
 Este año empezaremos a enseñar principios de Ciencia Abierta en español y a través de cohortes virtuales de varias semanas. Para prepararnos, invitamos a todas las personas de la comunidad MetaDocente a que estudiemos juntas los contenidos originales en inglés del curso [Open Science 101](https://openscience101.org/), parte de la iniciativa TOPS (Transform to Open Science) organizada por la NASA.
 
-Serán seis encuentros correspondientes a los cinco módulos. En cada uno, revisaremos distintos temas que componen el mundo de la Ciencia Abierta: sus ideas centrales, las herramientas más utilizadas, cómo manejar datos y código abiertos, y mucho más. Siempre lo haremos con una mirada local, pensando en situaciones y ejemplos de nuestra propia vivencia en América Latina.
+Serán cinco encuentros correspondientes a los cinco módulos y un encuentro de cierre. En cada uno, revisaremos distintos temas que componen el mundo de la Ciencia Abierta: sus ideas centrales, las herramientas más utilizadas, cómo manejar datos y código abiertos, y mucho más. Siempre lo haremos con una mirada local, pensando en situaciones y ejemplos de nuestra propia vivencia en América Latina.
 
 
 ### Qué Sí es este ciclo de encuentros 
