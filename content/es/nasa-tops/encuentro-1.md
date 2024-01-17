@@ -19,7 +19,7 @@ featured_image: https://www.metadocencia.org/img/blabla.png
 
 El primer encuentro se llevará a cabo el **miércoles 24 de enero de 17 a 18 (UTC-3)**. Estará coordinado por [Melissa Black](https://www.metadocencia.org/authors/melissa/).
 
-El encuentro se propuse a presentar el grupo de estudios; cómo usar la plataforma; discutir el "Ethos" de la Ciencia Abierta.
+Esta vez nos propusimos a presentar el grupo de estudios; cómo usar la plataforma; discutir el "Ethos" de la Ciencia Abierta.
 
 ### Materiales del evento
 
@@ -27,9 +27,16 @@ El encuentro se propuse a presentar el grupo de estudios; cómo usar la platafor
 
 <!--- - [Video del encuentro](https://youtu.be/SotP_QwBDj8)--->
 
-Lecturas propuestas: 
+#### Lecturas propuestas: 
 
 - [Manifiesto de Ciencia Abierta y Colaborativa.](https://ocsdnet.org/wp-content/uploads/2015/04/Manifesto-Infographic-Spanish-1.pdf) Recurso en español para ayudar a ir situándonos en el tema y en el propósito de estudiarlo.
+
+#### Registro en el sitio web de Open Science 101
+Para acceder al curso Open Science 101, es necesario hacer un registro a través de la plataforma ORCID. Aunque sea un servicio usado sobre todo en el medio científico, cualquier persona puede crear un perfil.
+
+A continuación te compartimos un instructivo preparado y usado por el equipo de MetaDocencia. Recomendamos revisar las secciones "¿Qué es ORCID?" y "Cómo crear tu perfil".
+
+- [ORCID: instructivo](https://zenodo.org/records/10500808)
 
 
 ### ¡Sírvete sin culpa!
