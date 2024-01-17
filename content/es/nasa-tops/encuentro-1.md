@@ -10,22 +10,22 @@ type: eventos
 weight: 50
 tags:
   - Próximos encuentros
-featured_image: https://www.metadocencia.org/img/blabla.png
+<!--- featured_image: https://www.metadocencia.org/img/blabla.png --->
 ---
 
-![Grupo de Estudio Pre NASA TOPS, encuentro 1. Módulo 1: El “Ethos” de la Ciencia Abierta. Miércoles 24/01 a las 17 hs. (UTC-3). Coordina Melissa Black](https://www.metadocencia.org/img/blabla.jpg)
+<!--- ![Grupo de Estudio Pre NASA TOPS, encuentro 1. Módulo 1: El “Ethos” de la Ciencia Abierta. Miércoles 24/01 a las 17 hs. (UTC-3). Coordina Melissa Black](https://www.metadocencia.org/img/blabla.jpg) --->
 
 ### Sobre el encuentro
 
-El primer encuentro se llevará a cabo el **miércoles 24 de enero de 17 a 18 (UTC-3)**. Estará coordinado por [Melissa Black](https://www.metadocencia.org/authors/melissa/).
+El primer encuentro del Grupo de Estudio Pre NASA-TOPS se llevará a cabo el **miércoles 24 de enero de 17 a 18 (UTC-3)**. Estará coordinado por [Melissa Black](https://www.metadocencia.org/authors/melissa/).
 
-Esta vez nos propusimos a presentar el grupo de estudios; cómo usar la plataforma; discutir el "Ethos" de la Ciencia Abierta.
+Esta vez nos propusimos a presentar el grupo de estudios y exploraremos cómo usar la plataforma. En relación al módulo de estudios, vamos a discutir el "Ethos" de la Ciencia Abierta y sus implicaciones para la ciencia en América Latina.
 
-### Materiales del evento
+<!--- ### Materiales del evento
 
 - [Presentación](https://docs.google.com/presentation/d/blabla/edit?usp=sharing)
 
-<!--- - [Video del encuentro](https://youtu.be/SotP_QwBDj8)--->
+- [Video del encuentro](https://youtu.be/SotP_QwBDj8)--->
 
 #### Preparación para el encuentro
 
