@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 55  # Order that this section will appear.
 
 title = "Misión de Exploración hacia la Ciencia Abierta"
-subtitle = "Grupo de estudio - Pre NASA TOPS"
+subtitle = "Grupo de Estudio Pre NASA-TOPS"
 
 [content]
   # Page type to display. E.g. project.
