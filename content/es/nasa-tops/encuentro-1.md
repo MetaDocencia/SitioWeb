@@ -27,9 +27,11 @@ Esta vez nos propusimos a presentar el grupo de estudios; cómo usar la platafor
 
 <!--- - [Video del encuentro](https://youtu.be/SotP_QwBDj8)--->
 
-#### Lecturas propuestas: 
+#### Preparación para el encuentro
 
-- [Manifiesto de Ciencia Abierta y Colaborativa.](https://ocsdnet.org/wp-content/uploads/2015/04/Manifesto-Infographic-Spanish-1.pdf) Recurso en español para ayudar a ir situándonos en el tema y en el propósito de estudiarlo.
+- Para que puedas aprovechar mejor la experiencia de nuestro encuentro, pedimos que te [registres](https://app.openscience101.org/authn/register?next=%2F) en la página web del Open Science 101 y que pases por todo el "OS101 Module 1: The Ethos of Open Science".
+- Toma notas de los temas que más te llaman la atención, que te generan cuestiones, o que te gustaría escuchar otras opiniones al respecto. Al leer el módulo, ¿te acuerdas de situaciones en tu vida personal o profesional? ¡Compártelas con nosotros en el encuentro!
+- Para ayudar a ir situándonos en el tema de la Ciencia Abierta y en el propósito de estudiarlo, te sugerimos revisar este [Manifiesto de Ciencia Abierta y Colaborativa](https://ocsdnet.org/wp-content/uploads/2015/04/Manifesto-Infographic-Spanish-1.pdf) - son solamente 4 páginas, en español.
 
 #### Registro en el sitio web de Open Science 101
 Para acceder al curso Open Science 101, es necesario hacer un registro a través de la plataforma ORCID. Aunque sea un servicio usado sobre todo en el medio científico, cualquier persona puede crear un perfil.
