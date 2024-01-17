@@ -106,4 +106,4 @@ Nuestros encuentros serán los **miércoles de 17 a 18h (UTC-3, hora de Argentin
 |Mié 07-02 - 17 a 18 | *Módulo 3: Datos abiertos* |
 |Mié 14-02 - 17 a 18 | *Módulo 4: Código abierto* |
 |Mié 21-02 - 17 a 18 | *Módulo 5: Resultados de investigación abiertos* |
-|Mié 28-02 - 17 a 18 | *Encuentro final: qué aprendimos?/qué nos llevamos?* |
+|Mié 06-03 - 17 a 18 | *Encuentro final: qué aprendimos?/qué nos llevamos?* |
