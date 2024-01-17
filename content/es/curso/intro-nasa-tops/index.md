@@ -1,6 +1,6 @@
 ---
 date: "2024-01-17"
-draft: false
+draft: true
 image:
   caption: 
   alt_text: "Imagen de un cohete por despegar a su misión de exploración abierto a nuevas personas tripulantes"
