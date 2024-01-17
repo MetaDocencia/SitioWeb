@@ -80,7 +80,7 @@ Este año empezaremos a enseñar principios de Ciencia Abierta en español y a t
 Serán seis encuentros correspondientes a los cinco módulos. En cada uno, revisaremos distintos temas que componen el mundo de la Ciencia Abierta: sus ideas centrales, las herramientas más utilizadas, cómo manejar datos y código abiertos, y mucho más. Siempre lo haremos con una mirada local, pensando en situaciones y ejemplos de nuestra propia vivencia en América Latina.
 
 
-### Qué SI es este ciclo de encuentros 
+### Qué Sí es este ciclo de encuentros 
 Estos encuentros serán un espacio semanal de aproximadamente una hora, via Zoom, destinado a conversar junto a otras personas acerca del material de los cinco módulos de NASA-TOPS OpenScience 101. Una persona del equipo de MetaDocencia facilitará la conversación. Para sacar mayor provecho, te recomendamos con énfasis que leas el material de cada módulo antes del encuentro y que te unas con ganas de interactuar.
 
 ### Qué NO es este ciclo de encuentros
@@ -90,7 +90,7 @@ Este ciclo de encuentros no será un curso ni tendrá una evaluación, ni te aco
 Nuestros encuentros serán los **miércoles de 17 a 18h (UTC-3, hora de Argentina)**.
 
 
-**> [Formulario de registro para asistir a los eventos](https://docs.google.com/forms/d/e/blabla/viewform)**
+**> [Formulario de registro para asistir a los eventos](https://docs.google.com/forms/d/e/1FAIpQLSeNC5FAkHDNwvqJr0419ddccLsru7c38EttgbjOw6ar-x84-Q/viewform)**
 
 *Todos los datos se manejarán en forma confidencial, sólo podrán ser publicados de forma agregada y anonimizada en reportes sobre el alcance de MetaDocencia.*
 
@@ -104,4 +104,4 @@ Nuestros encuentros serán los **miércoles de 17 a 18h (UTC-3, hora de Argentin
 |Mié 07-02 - 17 a 18 | *Módulo 3: Datos abiertos* |
 |Mié 14-02 - 17 a 18 | *Módulo 4: Código abierto* |
 |Mié 21-02 - 17 a 18 | *Módulo 5: Resultados de investigación abiertos* |
-|Mié 06-03 - 17 a 18 | *Encuentro final: qué aprendimos?/qué nos llevamos?* |
+|Mié 28-02 - 17 a 18 | *Encuentro final: qué aprendimos?/qué nos llevamos?* |
