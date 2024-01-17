@@ -72,12 +72,21 @@ subtitle = "Grupo de estudio - Pre NASA TOPS"
 +++
 ![Banner Grupo de Estudio Pre NASA TOPS](https://www.metadocencia.org/img/blabla.jpg)
 
-Comenzamos 2024 con esta misión de despegue hacia la pre NASA-TOPS. ¡Vení a aprender cómo enseñar Ciencia Abierta con MetaDocencia! [https://www.metadocencia.org/post/nasatops10puntos/]
+#### Comenzamos 2024 con la misión de aprender en comunidad. ¡Ven a explorar junto a MetaDocencia los  contenidos sobre Ciencia Abierta que comparte la NASA!
+<!---[https://www.metadocencia.org/post/nasatops10puntos/]--->
 
-Este año empezaremos a enseñar principios de la Ciencia Abierta en español. Para prepararnos, invitamos a la comunidad MetaDocente a estudiar juntos el contenido del curso Open Science 101 de la NASA (por ahora solo disponible en inglés).
+Este año empezaremos a enseñar principios de Ciencia Abierta en español y a través de cohortes virtuales de varias semanas. Para prepararnos, invitamos a todas las personas de la comunidad MetaDocente a que estudiemos juntas los contenidos originales en inglés del curso [Open Science 101](https://openscience101.org/), parte de la iniciativa TOPS (Transform to Open Science) organizada por la NASA.
 
-Serán seis encuentros correspondientes a los cinco módulos. En cada uno, revisaremos distintos temas que componen el mundo de la Ciencia Abierta: sus ideas centrales, herramientas utilizadas, cómo manejar datos abiertos y código abierto, y mucho más. ¡Siempre con mirada local, claro! Pensaremos en situaciones y ejemplos de nuestra propia vivencia en América Latina.
+Serán seis encuentros correspondientes a los cinco módulos. En cada uno, revisaremos distintos temas que componen el mundo de la Ciencia Abierta: sus ideas centrales, las herramientas más utilizadas, cómo manejar datos y código abiertos, y mucho más. Siempre lo haremos con una mirada local, pensando en situaciones y ejemplos de nuestra propia vivencia en América Latina.
 
+
+### Qué SI es este ciclo de encuentros 
+Estos encuentros serán un espacio semanal de aproximadamente una hora, via Zoom, destinado a conversar junto a otras personas acerca del material de los cinco módulos de NASA-TOPS OpenScience 101. Una persona del equipo de MetaDocencia facilitará la conversación. Para sacar mayor provecho, te recomendamos con énfasis que leas el material de cada módulo antes del encuentro y que te unas con ganas de interactuar.
+
+### Qué NO es este ciclo de encuentros
+Este ciclo de encuentros no será un curso ni tendrá una evaluación, ni te acompañará en la certificación en ciencia abierta de la NASA (para eso ofreceremos nuestras cohortes virtuales de formación en ciencia abierta, en español y más adelante en este año!).
+
+### Horarios e inscripción
 Nuestros encuentros serán los **miércoles de 17 a 18h (UTC-3, hora de Argentina)**.
 
 
