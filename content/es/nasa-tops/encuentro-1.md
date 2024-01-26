@@ -17,9 +17,9 @@ tags:
 
 ### Sobre el encuentro
 
-El primer encuentro del Grupo de Estudio Pre NASA-TOPS se llevará a cabo el **miércoles 24 de enero de 17 a 18 (UTC-3)**. Estará coordinado por [Melissa Black](https://www.metadocencia.org/authors/melissa/).
+El primer encuentro del Grupo de Estudio Pre NASA-TOPS se llevó a cabo el **miércoles 24 de enero de 17 a 18 (UTC-3)**. Estuvo coordinado por [Melissa Black](https://www.metadocencia.org/authors/melissa/), con el apoyo de [Paola Lefer](https://www.metadocencia.org/authors/plefer/).
 
-Esta vez nos propusimos a presentar el grupo de estudios y exploraremos cómo usar la plataforma. En relación al módulo de estudios, vamos a discutir el "Ethos" de la Ciencia Abierta y sus implicaciones para la ciencia en América Latina.
+Esta vez nos propusimos a presentar el grupo de estudios y exploraremos cómo usar la plataforma. En relación al módulo de estudios, discutimos el "Ethos" de la Ciencia Abierta y sus implicaciones para la ciencia en América Latina.
 
 <!--- ### Materiales del evento
 
