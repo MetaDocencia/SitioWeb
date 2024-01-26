@@ -9,7 +9,7 @@ authors:
 type: eventos
 weight: 50
 tags:
-  - Próximos encuentros
+  - Encuentros anteriores
 <!--- featured_image: https://www.metadocencia.org/img/blabla.png --->
 ---
 
