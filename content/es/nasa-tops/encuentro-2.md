@@ -1,15 +1,15 @@
 ---
-date: "2024-01-16"
+date: "2024-01-26"
 draft: false
-linktitle: Encuentro 1
-summary: Encuentro 1 - 24-01 17 hs. (UTC-3). 
-title: "Módulo 1: El 'Ethos' de la Ciencia Abierta"
+linktitle: Encuentro 2
+summary: Encuentro 2 - 31-01 17 hs. (UTC-3). 
+title: "Módulo 2: Herramientas y recursos abiertos"
 authors:
   - MetaDocencia
 type: eventos
 weight: 50
 tags:
-  - Encuentros anteriores
+  - Próximos encuentros
 <!--- featured_image: https://www.metadocencia.org/img/blabla.png --->
 ---
 
@@ -17,9 +17,9 @@ tags:
 
 ### Sobre el encuentro
 
-El primer encuentro del Grupo de Estudio Pre NASA-TOPS se llevó a cabo el **miércoles 24 de enero de 17 a 18 (UTC-3)**. Estuvo coordinado por [Melissa Black](https://www.metadocencia.org/authors/melissa/), con el apoyo de [Paola Lefer](https://www.metadocencia.org/authors/plefer/).
+El segundo encuentro del Grupo de Estudio Pre NASA-TOPS se llevará a cabo el **miércoles 31 de enero de 17 a 18 (UTC-3)**. Estará coordinado por [Melissa Black](https://www.metadocencia.org/authors/melissa/) con el apoyo de [Jesica Formoso](https://www.metadocencia.org/authors/jformoso/) y [Patricia Loto](https://www.metadocencia.org/authors/patriloto/).
 
-Esta vez nos propusimos a presentar el grupo de estudios y exploraremos cómo usar la plataforma. En relación al módulo de estudios, discutimos el "Ethos" de la Ciencia Abierta y sus implicaciones para la ciencia en América Latina.
+Retomaremos los puntos principales del encuentro 1 y haremos una introducción al rol de las herramientas, datos, código y resultados abiertos en el ciclo de la Ciencia Abierta.
 
 <!--- ### Materiales del evento
 
@@ -29,15 +29,15 @@ Esta vez nos propusimos a presentar el grupo de estudios y exploraremos cómo us
 
 ### Preparación para el encuentro
 
-- Para que puedas aprovechar mejor la experiencia de nuestro encuentro, pedimos que te [registres](https://app.openscience101.org/authn/register?next=%2F) en la página web del Open Science 101 y que pases por todo el "OS101 Module 1: The Ethos of Open Science".
+- Para mejor aprovechar la llamada, te recomendamos revisar todo el "OS101 Module 2: Open Tools and Resources".
 
 - Toma notas de los temas que más te llaman la atención, que te generan cuestiones, o que te gustaría escuchar otras opiniones al respecto. Al leer el módulo, ¿te acuerdas de situaciones en tu vida personal o profesional? ¡Compártelas con nosotros en el encuentro!
 
-- Para ayudar a ir situándonos en el tema de la Ciencia Abierta y en el propósito de estudiarlo, te sugerimos revisar este [Manifiesto de Ciencia Abierta y Colaborativa](https://ocsdnet.org/wp-content/uploads/2015/04/Manifesto-Infographic-Spanish-1.pdf) - son solamente 4 páginas, en español.
+- El módulo se refiere principalmente al software abierto. Como complemento y aportando ejemplos prácticos, sugerimos revisar los [proyectos de hardware libre de la iniciativa reGOSH](https://regosh.libres.cc/proyectos/). Se trata de una red latinoamericana enfocada en tecnologías libres.
 
 
 ### Registro en el sitio web de Open Science 101
-Para acceder al curso Open Science 101, es necesario hacer un registro a través de la plataforma ORCID. Aunque sea un servicio usado sobre todo en el medio científico, cualquier persona puede crear un perfil.
+Para acceder al curso Open Science 101, es necesario hacer un registro a través de la plataforma ORCID. Aunque sea un servicio usado sobre todo en el ámbito científico, cualquier persona puede crear un perfil.
 
 A continuación te compartimos un instructivo preparado y usado por el equipo de MetaDocencia. Recomendamos revisar las secciones "¿Qué es ORCID?" y "Cómo crear tu perfil".
 
