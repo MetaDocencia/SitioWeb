@@ -29,7 +29,7 @@ Retomaremos los puntos principales del encuentro 1 y haremos una introducción a
 
 ### Preparación para el encuentro
 
-- Para que puedas mejor aprovechar la llamada, re recomentamos revisar todo el "OS101 Module 2: Open Tools and Resources".
+- Para mejor aprovechar la llamada, te recomendamos revisar todo el "OS101 Module 2: Open Tools and Resources".
 
 - Toma notas de los temas que más te llaman la atención, que te generan cuestiones, o que te gustaría escuchar otras opiniones al respecto. Al leer el módulo, ¿te acuerdas de situaciones en tu vida personal o profesional? ¡Compártelas con nosotros en el encuentro!
 
