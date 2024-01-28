@@ -6,7 +6,7 @@ email: ""
 interests:
 - Energy management
 - Water management
-- Consumption optimization
+- Natural resources consumption optimization
 - Carbon footprint
 name: Laura Martínez Quijano
 weight: 1
