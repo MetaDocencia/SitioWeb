@@ -4,7 +4,7 @@ authors:
 bio: ""
 education:
   courses:
-- course: Especialista en Exploración de Datos y Descubrimiento del Conocimiento
+  - course: Especialista en Exploración de Datos y Descubrimiento del Conocimiento
     institution: Universidad de Buenos Aires 
     year: 2014
   - course: Licenciada en Ciencias de la Computación
