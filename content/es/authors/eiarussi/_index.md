@@ -34,10 +34,14 @@ user_groups:
 - "Integrantes"
 ---
 
-Emmanuel es Investigador Adjunto de CONICET en el área de Computación Gráfica y miembro del Laboratorio de Inteligencia Artificial de la Universidad Torcuato Di Tella (UTDT, Buenos Aires, Argentina). 
+**Experiencia y Trayectoria:**
+Emmanuel Iarussi es Investigador Adjunto de CONICET en el área de Computación Gráfica y miembro del Laboratorio de Inteligencia Artificial de la Universidad Torcuato Di Tella (UTDT) en Buenos Aires, Argentina. 
+Obtuvo su título de Ingeniero de Sistemas en la UNICEN en 2011 y completó su Doctorado en Ciencias de la Computación en la Université Nice Sophia Antipolis y el INRIA en Francia en 2015. 
+Realizó estudios posdoctorales en el Institute of Science and Technology en Austria, centrándose en el desarrollo de nuevas técnicas computacionales para el modelado digital interactivo.
 
-Es Ingeniero de Sistemas por la UNICEN (Tandil, 2011) y Doctor en Ciencias de la Computación por la Université Nice Sophia Antipolis y el INRIA (Francia, 2015). 
+**Enseñanza y Contribuciones Académicas:**
+Desde 2022, Emmanuel es profesor asistente en la Universidad Torcuato Di Tella, donde imparte materias de grado para la Licenciatura en Tecnología Digital y posgrado en el contexto del Master in Management + Analytics. 
+A partir de 2023, también dirige el curso "Deep Learning: Model Design and Application" en la Daniel Felix Ritchie School of Engineering and Computer Science de la University of Denver.
 
-Realizó sus estudios posdoctorales en el Institute of Science and Technology en Austria, donde trabajó en el desarrollo de nuevas técnicas computacionales para el modelado digital interactivo. Sus trabajos de investigación más recientes hacen foco en el desarrollo de herramientas de Inteligencia Artificial para la manipulación de contenido visual 2D y 3D.
-
-Desde 2022 es profesor asistente en la Universidad Torcuato Di Tella, donde dicta materias de grado para la Licenciatura en Tecnología Digital y de posgrado en el contexto del Master in Management + Analytics. Desde 2023 dicta el curso Deep Learning: Model Design and Application de la Daniel Felix Ritchie School of Engineering and Computer Science, en University of Denver. Además, es consultor tecnológico en análisis y manipulación computacional de imágenes y modelos tridimensionales en la empresa de biotecnología Stämm.
+**Consultoría Tecnológica:**
+Además de su labor académica, Emmanuel desempeña un papel clave como consultor tecnológico en análisis y manipulación computacional de imágenes y modelos tridimensionales en la empresa de biotecnología Stämm.
