@@ -20,7 +20,7 @@ social:
   icon_pack: fab
   link: https://twitter.com/LucianaBenotti
 - icon: globe
-  icon_pack: fab
+  icon_pack: fas
   link: https://benotti.github.io/
 - icon: linkedin
   icon_pack: fab

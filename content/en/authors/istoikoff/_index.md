@@ -18,7 +18,7 @@ social:
   icon_pack: fab
   link: https://twitter.com/SuburbioPedago
 - icon: globe
-  icon_pack: fab
+  icon_pack: fas
   link: https://gloriayloor.com/
 superuser: false
 user_groups:
