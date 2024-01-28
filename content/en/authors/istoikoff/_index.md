@@ -4,10 +4,10 @@ authors:
 bio: ""
 email: ""
 interests:
-- Educación
-- Comunicación
-- Edición
-- Políticas públicas
+- Education
+- Communication
+- Publishing
+- Public Policy
 name: Iván Stoikoff
 weight: 1
 organizations:
@@ -22,5 +22,5 @@ social:
   link: https://gloriayloor.com/
 superuser: false
 user_groups:
-- Colaboradores externos
+- Outside Contributors
 ---

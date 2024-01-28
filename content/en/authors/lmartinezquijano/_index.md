@@ -4,10 +4,10 @@ authors:
 bio: ""
 email: ""
 interests:
-- Gestión de la energía
-- Gestión del agua
-- Optimización de consumos
-- Huella de carbono
+- Energy management
+- Water management
+- Consumption optimization
+- Carbon footprint
 name: Laura Martínez Quijano
 weight: 1
 organizations:
@@ -22,5 +22,5 @@ social:
   link: https://www.linkedin.com/in/laura-martinez-quijano/
 superuser: false
 user_groups:
-- Colaboradores externos
+- Outside Contributors
 ---

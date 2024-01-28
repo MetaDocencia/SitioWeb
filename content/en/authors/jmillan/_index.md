@@ -6,9 +6,9 @@ email: ""
 interests:
 - Python
 - SQL
-- Enseñanza
-- Ciencias ambientales
-- Biología
+- Teaching
+- Environmental Science
+- Biology
 name: Julieta Millán
 weight: 1
 organizations:
@@ -20,5 +20,5 @@ social:
   link: https://www.linkedin.com/in/julieta-millan/
 superuser: false
 user_groups:
-- Colaboradores externos
+- Outside Contributors
 ---

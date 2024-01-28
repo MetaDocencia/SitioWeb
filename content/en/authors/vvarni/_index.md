@@ -4,11 +4,11 @@ authors:
 bio: ""
 email: ""
 interests:
-- Sostenibilidad ambiental
-- Comunicación
-- Educación
-- Ciencia abierta
-- Fotografía & danza
+- Environmental sustainability
+- Communication
+- Education
+- Open Science
+- Photography & Dance
 name: Vanina Varni
 weight: 1
 organizations:
@@ -26,5 +26,5 @@ social:
   link: https://www.linkedin.com/in/vanina-varni/
 superuser: false
 user_groups:
-- Colaboradores externos
+- Outside Contributors
 ---

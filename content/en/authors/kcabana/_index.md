@@ -4,10 +4,10 @@ authors:
 bio: ""
 email: ""
 interests:
-- Idiomas
-- Historia
-- Literatura
-- Antropología
+- Language
+- History
+- Literature
+- Anthropology
 name: Kevin Hernan Cabana Horqque
 weight: 1
 organizations:
@@ -15,5 +15,5 @@ organizations:
   url: ""
 superuser: false
 user_groups:
-- Colaboradores externos
+- Outside Contributors
 ---

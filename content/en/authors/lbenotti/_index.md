@@ -4,12 +4,12 @@ authors:
 bio: ""
 email: ""
 interests:
-- Inteligencia artificial responsable
-- Lingüísitica computacional
-- Modelos de lenguajes naturales
-- Análisis de error
-- Modelos multimodales
-- Sistemas de diálogo
+- Responsible artificial intelligence
+- Computational Linguistics
+- Natural language models
+- Error analysis
+- Multimodal models
+- Dialog systems
 name: Luciana Benotti
 weight: 1
 organizations:
@@ -27,5 +27,5 @@ social:
   link: https://www.linkedin.com/in/luciana-benotti/
 superuser: false
 user_groups:
-- Colaboradores externos
+- Outside Contributors
 ---

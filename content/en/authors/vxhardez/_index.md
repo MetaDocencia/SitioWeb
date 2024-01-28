@@ -4,11 +4,11 @@ authors:
 bio: ""
 email: ""
 interests:
-- Coproducción de Conocimiento
-- Comunidades de práctica
-- Ciencia Abierta
-- Software Libre 
-- Uso responsable de datos
+- Knowledge co-production
+- Communities of practice
+- Open Science
+- Free Software
+- Responsible data uUse
 name: Verónica Xhardez
 weight: 1
 organizations:
@@ -26,5 +26,5 @@ social:
   link: https://www.linkedin.com/in/ver%C3%B3nica-xhardez-33b12924/
 superuser: false
 user_groups:
-- Colaboradores externos
+- Outside Contributors
 ---

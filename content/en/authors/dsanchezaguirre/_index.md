@@ -4,10 +4,10 @@ authors:
 bio: ""
 email: ""
 interests:
-- Turismo
-- Ciencias sociales
-- Cultura
-- Estadística
+- Tourism
+- Social Sciences
+- Culture
+- Statistics
 name: Driselda Sánchez Aguirre
 weight: 1
 organizations:
@@ -19,5 +19,5 @@ social:
   link: https://twitter.com/drispaty
 superuser: false
 user_groups:
-- Colaboradores externos
+- Outside Contributors
 ---

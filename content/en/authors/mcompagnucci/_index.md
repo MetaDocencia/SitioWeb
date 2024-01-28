@@ -4,9 +4,9 @@ authors:
 bio: ""
 email: ""
 interests:
-- Comunicación de la ciencia
-- Ambiente
-- Espacio
+- Science communication
+- Environment
+- Space
 name: Marina Compagnucci
 weight: 1
 organizations:
@@ -18,5 +18,5 @@ social:
   link: https://www.linkedin.com/in/marina-valeria-compagnucci
 superuser: false
 user_groups:
-- Colaboradores externos
+- Outside Contributors
 ---
