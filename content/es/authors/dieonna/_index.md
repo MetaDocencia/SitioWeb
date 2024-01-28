@@ -22,7 +22,6 @@ weight: 1
 organizations:
 - name: 
   url: ""
-role: Colaborador Externo
 social:
 - icon: envelope
   icon_pack: fas
