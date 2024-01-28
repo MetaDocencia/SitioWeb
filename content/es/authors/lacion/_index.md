@@ -53,3 +53,6 @@ Laura es investigadora adjunta del CONICET en la Universidad de Buenos Aires don
 Desde 2017 ha ocupado lugares de liderazgo o co-creado proyectos colectivos relacionados a la ciencia abierta locales, regionales e internacionales (por ejemplo, R-Ladies Global, LatinR, useR!, Open Life Science, Code for Science & Society). Laura ha sido consultora en varios proyectos desde 2004.
 
 Laura también se certificó como instructora y entrenadora de instructores en The Carpentries y tiene experiencia desarrollando cursos masivos de enseñanza online para una plataforma estadounidense (cuya marca no nombramos por problemas éticos de la compañía). En marzo 2020, Laura co-fundó MetaDocencia.
+
+Hacia adentro del equipo, Lau ha ganado el Premio  Camiseta porque nos tracciona, nos motiva, nos enseña, y nos potencia dentro de la cancha.  Hacia afuera defiende la ciencia, la técnica, la educación, nuestras geografías y futuro. 
+Invita y sube a otras personas a mil proyectos, comparte su brillante trayectoria y generosamente nos invita a jugar más y mejor. 

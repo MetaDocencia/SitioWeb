@@ -22,7 +22,7 @@ weight: 1
 organizations:
 - name: 
   url: ""
-role: 
+role: Colaborador Externo
 social:
 - icon: envelope
   icon_pack: fas
@@ -44,4 +44,12 @@ user_groups:
 - Colaboradores externos
 ---
 
-Diego es investigador del CONICET con lugar de trabajo en la Facultad de Ciencias Exactas y Naturales de la Universidad de Buenos Aires. Es Licenciado y Doctor en Ciencias Químicas por la Universidad de Buenos Aires. Su investigación está orientada a desarrollar nuevos materiales usando inteligencia artificial y ciencia de datos, buscando reducir la contaminación, tiempos y costos. Es docente universitario hace más de 10 años y se ha desempeñado en grado, posgrado y extensión, en modalidad presencial y virtual, en diversas instituciones educativas. Busca constantemente innovar para mejorar la experiencia de aprendizaje e incluir nuevas tecnologías. Participa activamente de proyectos de ciencia abierta (The Carpentries, Open Life Science, Code for Science & Society).
+**Experiencia y Trayectoria:**
+Diego Onna es investigador del CONICET con sede en la Facultad de Ciencias Exactas y Naturales de la Universidad de Buenos Aires. 
+Con una formación académica que abarca desde la Licenciatura hasta el Doctorado en Ciencias Químicas, su investigación se centra en el desarrollo de nuevos materiales utilizando inteligencia artificial y ciencia de datos. 
+Su objetivo es reducir la contaminación, los tiempos y los costos en la creación de materiales innovadores.
+
+Con más de 10 años de experiencia como docente universitario, Diego ha impartido clases en diferentes niveles y modalidades, incluyendo grado, posgrado y extensión, tanto en entornos presenciales como virtuales. 
+Siempre busca la innovación para mejorar la experiencia de aprendizaje e incorporar nuevas tecnologías.
+
+Diego participa activamente en proyectos de ciencia abierta, contribuyendo a iniciativas como The Carpentries, Open Life Science y Code for Science & Society.

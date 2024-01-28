@@ -21,7 +21,7 @@ interests:
 - Género
 name: Paz Míguez
 weight: 9
-role: Coordinadora de Proyecto y Desarrollo de Cursos
+role: Proyectos y Desarrollo de Cursos
 social:
 - icon: envelope
   icon_pack: fas
@@ -40,8 +40,13 @@ user_groups:
 -  Integrantes
 ---
 
-Es Licenciada en Ciencia Política (Universidad de Buenos Aires), Profesora en Docencia Superior (Universidad Técnica Nacional) y Magíster en Política Educativa (Universidad Torcuato Di Tella). 
+**Experiencia y Trayectoria:**
 
-Paz tiene más de 15 años de trayectoria en el diseño, gestión y monitoreo de programas educativos. Cuenta con sólida experiencia en diseño e instrumentación de herramientas de Monitoreo y Evaluación (M&E), así como en la sistematización, análisis, reporte y visualización de datos para organismos internacionales y para instituciones locales. 
+Paz es Licenciada en Ciencia Política, con una Maestría en Política Educativa y un Profesorado en Docencia Superior. Con más de 15 años de experiencia, Paz se destaca en el diseño, gestión y monitoreo de programas educativos. 
+Su sólida experiencia abarca desde la creación e implementación de herramientas de Monitoreo y Evaluación (M&E) hasta la sistematización, análisis, reporte y visualización de datos para organismos internacionales y locales.
 
-Es docente, investigadora y forma parte de Fundación Éforo, una organización de la sociedad civil vinculada al control público, la transparencia y la participación ciudadana. Asesoró a diputados/as nacionales, funcionarios/as y referentes sindicales en materia de educación, igualdad de género y empleo. Escribe en distintos medios y portales periodísticos sobre Futuro del Trabajo, Género, Educación y Participación Ciudadana. 
+Además de su labor docente e investigadora, Paz es parte activa de Fundación Éforo, una organización de la sociedad civil comprometida con el control público, la transparencia y la participación ciudadana. 
+Su asesoramiento a diputados/as nacionales, funcionarios/as y referentes sindicales ha dejado una huella significativa en áreas clave como educación, igualdad de género y empleo. También contribuye regularmente con diversos medios y portales periodísticos.
+
+En nuestra entrega de los “Premios Internos de Gala Manzanita 2023” que reivindican el enorme valor de las contribuciones de cada persona del equipo, Paz ha ganado el premio Planificatona por ser precisa, dedicada, proyectiva, atenta,una verdadera maestra de la planificación estratégica.
+

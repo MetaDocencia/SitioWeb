@@ -52,3 +52,5 @@ Es secretario de la Asociación Argentina de Bioinformática y Biología Computa
 Desde 2008 realiza tareas docentes de grado, posgrado y extensión, en modalidad presencial y virtual, tanto en UNQ como en otras instituciones educativas y para comunidades de práctica. Se ha certificado como instructor y entrenador de instructores en The Carpentries. Actualmente cursa la Especialización en Docencia en Entornos Virtuales de UNQ.
 
 Nicolás se unió a MetaDocencia desde sus inicios en marzo de 2020 y actualmente comparte la coordinación general y es chair del comité asesor.
+
+En nuestra entrega de los “Premios Internos de Gala Manzanita 2023” que reivindican el enorme valor de las contribuciones de cada persona del equipo, Nico ha ganado el Premio Zen porque con su calma sabiduría puede hacer frente incluso a la complejidad, manteniendo el eje, el buen talante y la cordialidad en cualquier situación y circunstancia. Es noble, amigable y sereno. 

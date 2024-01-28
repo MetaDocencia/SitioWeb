@@ -9,17 +9,17 @@ education:
     year: 2019
 email: "mnanton@metadocencia.org"
 interests:
- - Ciencia de datos
- - Ciencia abierta
- - NLP
- - IA en el sector público
+- Ciencia de Datos
+- Ciencia Abierta
+- Procesamiento del Lenguaje Natural (NLP)
+- Inteligencia Artificial en el Sector Público
 name: María Cristina Nanton 
 weight: 1
 organizations:
 - name: 
   url: ""
 
-role: Coordinación de Proyectos
+role: Equipo de Infraestructura
 social:
 - icon: envelope
   icon_pack: fas
@@ -38,4 +38,14 @@ user_groups:
 -  Integrantes
 ---
 
-María estudió Comunicación Social en la Universidad de Buenos Aires (UBA). Es participante activa de comunidades de práctica nucleadas alrededor de la Ciencia Abierta y el lenguaje de programación R en Latinoamérica, organizadora de R-Ladies Buenos Aires y LatinR e instructora certificada por The Carpentries.  En los últimos años se desempeñó como docente en múltiples cursos de grado y posgrado, y como analista de datos tanto en el sector público como privado. Actualmente lidera un equipo de gestión de información y estadísticas en el Ministerio de Salud de la Ciudad de Buenos Aires y se encuentra cursando la Maestría en Explotación de Datos y Descubrimiento del Conocimiento de la Facultad de Ciencias Exactas y Naturales de la UBA.
+**Experiencia y Trayectoria:**
+
+Su compromiso con la ciencia abierta y la programación R la ha llevado a ser una participante activa en comunidades de práctica en Latinoamérica. 
+Además, es organizadora de R-Ladies Buenos Aires y LatinR, y cuenta con la certificación de instructora por The Carpentries.
+
+En los últimos años, María ha desempeñado roles tanto en el sector público como privado. 
+Ha sido docente en múltiples cursos de grado y posgrado, compartiendo su conocimiento en ciencia de datos. 
+Actualmente, lidera un equipo de gestión de información y estadísticas en el Ministerio de Salud de la Ciudad de Buenos Aires. 
+
+En nuestra entrega de los “Premios Internos de Gala Manzanita 2023” que reivindican el enorme valor de las contribuciones de cada persona del equipo, María ha ganado el premio Polisemia, por su notable habilidad para pasar de un tema a otro con fluidez anfibia, gracias a su capacidad de comprensión de cualquier tema, detalles, significantes y dimensiones. 
+

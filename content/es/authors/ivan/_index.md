@@ -9,6 +9,9 @@ education:
     year: 2007
 email: "ivanpoggio@metadocencia.org"
 interests:
+- Accesibilidad
+- Derecho
+- Discapacidad
 name: Iván Gabriel Poggio
 weight: 15
 organizations:
@@ -30,12 +33,15 @@ user_groups:
 - Integrantes
 ---
 
-Iván es abogado, recibido en 2007 en la Universidad Nacional de La Pampa. Fue instructor en manejo de PC con programas de asistencia a personas ciegas o con poca visión (tiflotecnologías). Desde el 2009 trabaja en la Dirección Provincial de Discapacidad en La Pampa, Argentina, formando parte del equipo técnico y desde el año 2015 como su Director.
+**Experiencia y Trayectoria:**
 
-Es integrante de la Red Trabajo y Discapacidad.
+Iván es abogado con enfoque profesional centrado en los derechos y la inclusión de personas con discapacidad. 
+Su compromiso con estos temas se refleja en su recorrido laboral, en el que ha desempeñado un papel fundamental en la promoción y garantía de los derechos de las personas con discapacidad.
 
-Fue Co-Director del Proyecto de Extensión Universitaria “Orientación jurídica para personas con discapacidad y sus familias” de la Universidad Nacional de La Pampa.
+Desde el año 2015, Iván se desempeña como Director de Discapacidad provincial, dependiente del Ministerio de Desarrollo Social de la provincia de La Pampa. 
+En este rol ha liderado iniciativas y programas que promueven la accesibilidad, la inclusión y el respeto de los derechos de las personas con discapacidad.
 
-Se formó en Estudios Sociales y Culturales (Universidad Nacional de La Pampa). Ha realizado y dictado numerosas capacitaciones relacionadas a los derechos de las personas con discapacidad.
+Iván no se limita a aportar a su área laboral, sino que también demuestra un fuerte compromiso con la comunidad. 
+Su enfoque se centra en el sostenimiento de una filosofía de pautas de convivencia inclusivas, buscando crear conciencia y fomentar un entorno respetuoso y accesible para todos.
 
-Tiene extensa formación y experiencia en tiflotecnología.
+En nuestra entrega de los “Premios Internos de Gala Manzanita 2023” que reivindican el enorme valor de las contribuciones de cada persona del equipo, Iván ha ganado el premio Impacto Positivo por lo que genera en la vida de las demás personas por su don de buena gente, generosidad con sus conocimientos, predisposición y un sentido del humor ocurrente.
