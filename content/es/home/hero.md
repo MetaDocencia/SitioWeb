@@ -54,4 +54,4 @@ label = "Reporte 2023"
 #   label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-¡Ven a explorar junto a MetaDocencia los contenidos de NASA TOPS!
+Introducción grupal a los contenidos de NASA TOPS
