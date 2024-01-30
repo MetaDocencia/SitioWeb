@@ -25,7 +25,7 @@ Desde MetaDocencia tenemos el rol clave de identificar y contactar comunidades l
 
 Les presentamos a UNITEFA, CICADA y GITA porque estamos muy felices de trabajar junto a ellas en esta etapa:
 
-## UNITEFA <img style="height:24px;" src="https://www.metadocencia.org/img/bandera-AR.png" alt="Bandera de Argentina"/>
+## <div><span>UNITEFA </span><img style="height:24px;" src="https://www.metadocencia.org/img/bandera-AR.png" alt="Bandera de Argentina"/></div>
 Es la [Unidad de Investigación y Desarrollo en Tecnología Farmacéutica](https://unitefa.conicet.unc.edu.ar/), del Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET), de Argentina.
 
 El 6 de octubre organizaron una [jornada de Ciencia de Datos](https://unitefa.conicet.unc.edu.ar/jornada-de-ciencia-de-datos/) para aprender sobre el uso del JupyterHub provisto por el proyecto Catalyst y nociones mínimas de Python. Para ello utilizaron como problema modelo el análisis y construcción de modelos a partir de datos originados en ensayos de fármacos.
