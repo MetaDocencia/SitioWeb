@@ -25,17 +25,17 @@ Desde MetaDocencia tenemos el rol clave de identificar y contactar comunidades l
 
 Les presentamos a UNITEFA, CICADA y GITA porque estamos muy felices de trabajar junto a ellas en esta etapa:
 
-## <div><span>UNITEFA </span><img style="height:24px;" src="https://www.metadocencia.org/img/bandera-AR.png" alt="Bandera de Argentina"/></div>
+## UNITEFA 🇦🇷
 Es la [Unidad de Investigación y Desarrollo en Tecnología Farmacéutica](https://unitefa.conicet.unc.edu.ar/), del Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET), de Argentina.
 
 El 6 de octubre organizaron una [jornada de Ciencia de Datos](https://unitefa.conicet.unc.edu.ar/jornada-de-ciencia-de-datos/) para aprender sobre el uso del JupyterHub provisto por el proyecto Catalyst y nociones mínimas de Python. Para ello utilizaron como problema modelo el análisis y construcción de modelos a partir de datos originados en ensayos de fármacos.
 
 Agradecemos a Nicolás Wolovick, director del Centro de Computación de Alto Desempeño de la Universidad Nacional de Córdoba, Argentina (CCAD-UNC), por sus servicios como consultor de MetaDocencia para facilitar el contacto con [esta primera comunidad](https://ccad.unc.edu.ar/2023/10/23/unitefa-conforma-la-primera-comunidad-del-proyecto-catalyst-en-la-unc-a-traves-del-ccad/). 
 
-## CICADA <img style="height:24px;" src="https://www.metadocencia.org/img/bandera-UY.png" alt="Bandera de Uruguay"/>
+## CICADA 🇺🇾
 Es el [Centro Interdisciplinario en Ciencia de Datos y Aprendizaje Automático de la Universidad de la República](https://cicada.uy/), de Uruguay. Entre sus objetivos, busca contribuir a la formación de recursos humanos en el área de la Ciencia de Datos de forma interdisciplinaria, en particular en los campos de ecología, bioinformática, biomedicina, entre otros. Actualmente se encuentran configurando el acceso al JupyterHub.
 
-## GITA <img style="height:24px;" src="https://www.metadocencia.org/img/bandera-CO.png" alt="Bandera de Colombia"/>
+## GITA 🇨🇴
 El [Grupo de Investigación en Telecomunicaciones Aplicadas](https://www.udea.edu.co/wps/portal/udea/web/inicio/investigacion/areas-investigacion/inicio-fichas/fichas/!ut/p/z0/fY7BCoJAEIZfRQ8dYzUx7BgRRWjgTfcS0zrplO2qu0qP30AQBdFp5vu_YWaEFIWQGiaqwZHR0DKXcnk65vE2XGyCNMnSJGDI8lW8323SUByE_D_AG-ja93ItpDLa4cOJojODg3asEGYB2G9qzB1fPekJreNfFPkq8s-RZj8gWK9C75e8kGrAzj-UeadcQY2tg4p9jZpwIL5RkwPR3WT5BLdu2qk!/) de la Universidad de Antioquia, en Colombia, es la comunidad más nueva que se sumó al proyecto en 2023. Tienen variadas líneas de investigación donde se destaca el análisis de señales como el habla, la escritura o la caminata para el estudio de enfermedades neurológicas.
 
 Agradecemos a Fernando Pérez, Profesor Asociado de Estadística en la Universidad de California, Berkeley y científico en el Lawrence Berkeley National Laboratory (LBNL) además de cofundador del [Proyecto Jupyter](https://jupyter.org/), por hacer el contacto inicial con esta comunidad. 
