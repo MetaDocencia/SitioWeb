@@ -3,7 +3,7 @@ authors:
 - RLadiesBA
 bio: ""
 email: ""
-name: RLadies Buenos Aires
+name: R-Ladies Buenos Aires
 weight: 2
 role: 
 social:
