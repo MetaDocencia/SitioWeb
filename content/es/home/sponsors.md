@@ -89,7 +89,7 @@
   
   <div class="col-12 col-sm-auto">
      <figure>
-    <a href="https://twitter.com/rladiesba" target="_blank" rel="noopener"><img src="/img/rladies_logo_2022.png" alt="Rladies Buenos Aires"></a> 
+    <a href="https://twitter.com/rladiesba" target="_blank" rel="noopener"><img src="/img/rladies_logo_2022.png" alt="R-Ladies Buenos Aires"></a> 
     </figure>
   </div>
 
