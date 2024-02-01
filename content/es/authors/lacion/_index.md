@@ -48,6 +48,8 @@ user_groups:
 -  Integrantes
 ---
 
+**Experiencia y trayectoria**
+
 Laura es investigadora adjunta del CONICET en la Universidad de Buenos Aires donde dirige el Co-Laboratorio de Uso Responsable de Datos. Tiene más de 50 publicaciones académicas revisadas por pares y ha recibido financiación de prestigiosas agencias internacionales tales como la NASA, el NIH y la CZI. 
 
 Tiene más de dos décadas de experiencia ofreciendo servicios de consultoria y también experiencia trabajando en forma remota desde Buenos Aires para el exterior desde 2006. Tomó clases universitarias virtuales desde entonces y su primera docencia universitaria de grado y postgrado también fue en forma virtual en 2013 para estudiantes que estaban en EEUU.  

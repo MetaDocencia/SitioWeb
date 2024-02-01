@@ -18,6 +18,8 @@ user_groups:
 - "Integrantes"
 ---
 
+**Experiencia y trayectoria**
+
 Soy líder de la comunidad del proyecto The Turing Way en el Instituto Alan Turing, que tiene como objetivo hacer que la ciencia de datos sea reproducible, colaborativa, ética e inclusiva para los investigadores de todo el mundo. Involucro y apoyo a una comunidad diversa de colaboradores en el proyecto ayudándoles a aprender las mejores prácticas de investigación, a intercambiar habilidades y a convertirse en un miembro activo de The Turing Way.
 
 Soy cofundadora de Open Life Science, un programa de tutoría y formación que acerca a personal de investigación a principios de la ciencia abierta, y les ayuda crea colaboraciones con expertos y adoptar las mejores prácticas en el contexto de sus comunidades.

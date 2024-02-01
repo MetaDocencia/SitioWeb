@@ -44,6 +44,7 @@ superuser: false
 user_groups:
 - Integrantes
 ---
+**Experiencia y trayectoria**
 
 Nicolás es Investigador Adjunto del CONICET y miembro del Grupo de Bioinformática Estructural de la Universidad Nacional de Quilmes (UNQ, Buenos Aires, Argentina). Sus investigaciones están orientadas a comprender la naturaleza funcional de las proteínas, con especial atención a sus relaciones evolutivas y sus interacciones en los sistemas biológicos. Es co-autor de numerosos artículos científicos y de dos capítulos de libro orientados a la comunicación de la ciencia.
 

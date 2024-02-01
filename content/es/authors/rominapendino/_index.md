@@ -30,7 +30,7 @@ user_groups:
 - Integrantes
 ---
 
-**Experiencia y Trayectoria:**
+**Experiencia y Trayectoria**
 
 Romina Pendino se encuentra finalizando la tesina para obtener la Licenciatura en Comunicación Social en la Universidad Nacional de Rosario. 
 En su trayectoria, ha trabajado en diversos medios de comunicación en la ciudad y ha ocupado el rol de coordinadora de espacios de comunicación destinados a jóvenes y adolescentes.
