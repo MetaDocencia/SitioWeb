@@ -34,5 +34,10 @@ superuser: false
 user_groups:
 -  Contributors
 ---
+**Experience and Track Record**
 
-Julián is an institutional communicator and audiovisual producer. He works on planning and managing social media channels, based on strategic communication. In relation to audiovisual production, he is interested in understanding and identifying the opportunities that audiovisual language offers for each particular content. He is currently investigating possibilities and new formats for educational audiovisual content (such as tutorials and asynchronous classes).
+Julian's (aka Niño) experience is focused on strategic planning for social media channels. In the field of audiovisual production, he manages to identify and implement the opportunities that audiovisual language offers for each type of content.
+
+Currently, Julian is dedicated to researching new possibilities and formats for educational audiovisual content, especially in the area of tutorials and asynchronous classes, with the goal of exploring creative ways of presenting information. 
+
+In our "Manzanita 2023 Internal Gala Awards" that vindicate the enormous value of the contributions of each person in the team, Niño has won the Lightning Bolt Award because he unifies, embellishes and cohesively unifies our productions, bringing harmony to everything we do.

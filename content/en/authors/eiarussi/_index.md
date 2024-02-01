@@ -34,8 +34,14 @@ user_groups:
 - Contributors
 ---
 
-Emmanuel is an Assistant Researcher at the National Research Council in Argentina (CONICET) in the area of Computer Graphics and a member of the Artificial Intelligence Laboratory at Torcuato Di Tella University (UTDT, Buenos Aires, Argentina). 
+**Experience and Track Record:**
+Emmanuel Iarussi is an Assistant Researcher at CONICET in the area of Computer Graphics and a member of the Artificial Intelligence Laboratory at the Universidad Torcuato Di Tella (UTDT) in Buenos Aires, Argentina. 
+He obtained his degree in Systems Engineering at UNICEN in 2011 and completed his PhD in Computer Science at Université Nice Sophia Antipolis and INRIA in France in 2015. 
+He did postdoctoral studies at the Institute of Science and Technology in Austria, focusing on the development of new computational techniques for interactive digital modeling.
 
-He completed his postdoctoral studies at the Institute of Science and Technology in Austria, where he worked on the development of new computational techniques for interactive digital modeling. His most recent research work focuses on the development of Artificial Intelligence tools for the manipulation of 2D and 3D visual content.
+**Teaching and Academic Contributions:**.
+Since 2022, Emmanuel is an assistant professor at Torcuato Di Tella University, where he teaches undergraduate subjects for the Bachelor in Digital Technology and postgraduate subjects in the context of the Master in Management + Analytics. 
+As of 2023, he also directs the course "Deep Learning: Model Design and Application" at the Daniel Felix Ritchie School of Engineering and Computer Science at the University of Denver.
 
-Since 2022 he is an assistant professor at Universidad Torcuato Di Tella, where he teaches undergraduate courses for the Bachelor in Digital Technology and graduate courses in the Master in Management + Analytics. Since 2023, he also teaches the course Deep Learning: Model Design and Application at the Daniel Felix Ritchie School of Engineering and Computer Science, University of Denver. In addition, he is a technology consultant in computational analysis and manipulation of images and 3D models at the biotechnology company Stämm.
+**Technology Consulting
+In addition to his academic work, Emmanuel plays a key role as a technology consultant in computational analysis and manipulation of 3D images and models at the biotechnology company Stämm.

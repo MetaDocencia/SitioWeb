@@ -44,6 +44,7 @@ superuser: false
 user_groups:
 - Contributors
 ---
+**Experience and Track Record**
 
 Nicolás is an Adjunct Researcher at the National Research Council in Argentina (CONICET) and a member of the Structural Bioinformatics Group at the National University of Quilmes (UNQ, Buenos Aires, Argentina). His research is focused on understanding the functional nature of proteins, with special attention to their evolutionary relationships and interactions in biological systems. He is co-author of numerous scientific articles and two book chapters oriented to science communication.
 
@@ -52,3 +53,5 @@ He is secretary of the Argentine Association of Bioinformatics and Computational
 Since 2008 he has been teaching undergraduate, postgraduate and extension courses, both in person and virtual, at different educational institutions and also for communities of practice. He is certified as instructor and trainer for The Carpentries. He is currently pursuing a Specialization in Virtual Education at UNQ.
 
 Nicolás joined MetaDocencia since its first week in March 2020. He currently participates in the general coordination and is chair of the advisory committee. 
+
+In our presentation of the "Manzanita 2023 Internal Gala Awards" that vindicate the enormous value of the contributions of each person in the team, Nico has won the Zen Award because with his calm wisdom he can cope even with complexity, maintaining focus, good humor and cordiality in any situation and circumstance. He is noble, friendly and serene.

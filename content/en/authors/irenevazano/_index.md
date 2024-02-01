@@ -17,7 +17,7 @@ weight: 18
 organizations:
 - name: 
   url: 
-role: Governance, Infrastructure, and Teaching Teams
+role: Infrastructure Team
 social:
 - icon: envelope
   icon_pack: fas
@@ -35,6 +35,10 @@ superuser: false
 user_groups:
 - Contributors
 ---
+**Experience and Track Record**
 
-Library Science degree with work experience in academic libraries and technology. She participates in digital projects involving administration and accessibility. Certified instructor by The Carpentries. Irene is part of MetaDocencia since 2020.
+Irene has a degree in Library Science from UCSE-DABA. Since Irene joined MetaDocencia at the beginning, she has brought all her knowledge about academic libraries and her specialization in the area of technology. She has worked as a freelancer in several digital projects, fulfilling management roles and ensuring the quality of accessibility.
 
+Irene is a certified instructor for The Carpentries, which underscores her commitment to teaching and disseminating digital skills. She is also an active participant in MetaDocencia, contributing to the strengthening of the community.
+
+In our "Manzanita 2023 Internal Gala Awards" that vindicate the enormous value of the contributions of each person in the team, Ire has won the Transformation Award for her performance in charge of the infrastructure area, and for her great ability to document and transform our tutorials into a coveted and beautiful digital library.
