@@ -19,7 +19,7 @@ organizations:
 - name: 
   url: ""
 
-role: Project Coordinator
+role: Infrastructure Team
 social:
 - icon: envelope
   icon_pack: fas
@@ -37,6 +37,10 @@ social:
 user_groups:
 - Contributors
 ---
+**Experience and Track Record**
 
-María studied Social Communication at the University of Buenos Aires (UBA). She is an active participant in communities of practice around Open Science and the R programming language in Latin America, an organizer of R-Ladies Buenos Aires and LatinR; and a certified instructor for The Carpentries.  In recent years, she has worked as a teacher in multiple undergraduate and graduate courses and as a data analyst in both the public and private sectors. She currently leads an information and statistics management team at the Ministry of Health of the City of Buenos Aires and is currently pursuing a Master's degree in Data Exploitation and Knowledge Discovery at the Faculty of Exact and Natural Sciences of the University of Buenos Aires (UBA).
+María studied Social Communication at the University of Buenos Aires (UBA). She is an active participant in communities of practice around Open Science and the R programming language in Latin America, an organizer of R-Ladies Buenos Aires and LatinR, and a certified instructor for The Carpentries.  
+In recent years, she has worked as a teacher in multiple undergraduate and graduate courses and as a data analyst in both the public and private sectors. 
+She currently leads an information and statistics management team at the Ministry of Health of the City of Buenos Aires and is currently pursuing a Master's degree in Data Exploitation and Knowledge Discovery at the Faculty of Exact and Natural Sciences of the University of Buenos Aires (UBA).
 
+In our presentation of the "Manzanita 2023 Internal Gala Awards" that vindicate the enormous value of the contributions of each person in the team, Maria has won the Polysemy Award, for her remarkable ability to move from one topic to another with amphibious fluency, thanks to her capacity to understand any topic, details, signifiers and dimensions.

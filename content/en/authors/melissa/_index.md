@@ -16,11 +16,11 @@ education:
 email: "mblack@metadocencia.org"
 interests:
 - Open science
-- Digital humanities
-- Community collaboration
+- Building communities
+- Translation
 name: Melissa Black
 weight: 4
-role: Infrastructure and Impact Measurement Manager
+role: Infrastructure and Impact Measurement Coordinator
 social:
 - icon: envelope
   icon_pack: fas
@@ -35,7 +35,15 @@ superuser: false
 user_groups:
 -  Contributors
 ---
+**Experience and Track Record**
 
-Melissa has a background in Geography and for many years she has researched topics related  to connectivity, technology, and society in Latin America. 
+Melissa Black brings valuable research experience in connectivity, technology and society in Latin America. In her role as Impact Measurement Coordinator, she leads the evaluation and measurement of the impact of MetaDocencia's initiatives. Additionally, she represents MetaDocencia in the Catalyst project, strengthening the presence and participation in collaborative initiatives.
+Also, Melissa contributes as:
+- Co-leader of the Turing Way Portuguese translation team.
+- Expert in the development of the NASA TOPS Open Science 101 curriculum.
+- Mentoring and participation as a mentor in OLS and Outreachy.
+- Certified instructor by The Carpentries.
+- Software Sustainability Institute Fellow (2023 cohort, SSI/OLS fellow).
 
-She has developed connections with different international open science communities, working with them more directly since 2021.
+
+In our "Manzanita 2023 Internal Gala Awards" that vindicate the enormous value of the contributions of each person on the team, Meli has won the All Terrain Award, since she speaks several languages perfectly, represents us masterfully in external communities, elevates discussions and always invites us to think outside the box.

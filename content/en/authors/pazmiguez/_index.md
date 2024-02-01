@@ -21,7 +21,7 @@ interests:
 - Gender
 name: Paz Míguez
 weight: 9
-role: Project and Course Development Manager
+role: Project and Course Development
 social:
 - icon: envelope
   icon_pack: fas
@@ -39,8 +39,9 @@ superuser: false
 user_groups:
 -  Contributors
 ---
+**Experience and Track Record**
+Paz holds a Bachelor's degree in Political Science, a Master's degree in Educational Policy and a Professorate degree in University Education. With more than 15 years of experience, Paz excels in the design, management and monitoring of educational programs. Her solid experience ranges from the creation and implementation of Monitoring and Evaluation (M&E) tools to the systematization, analysis, reporting and visualization of data for international and local organizations.
 
-Paz has more than 15 years of experience in designing, managing and monitoring educational programs, including the implementation of Monitoring and Evaluation (M&E) tools. She also has experience in systematization, analysis, reporting, and data visualization for international organizations and local institutions.
-She is a teacher, researcher, and a member of the Éforo Foundation, a civil society organization related to public control, transparency, and citizen participation. 
-Paz has been an advisor in education, gender equality, and employment to government, political, and trade union leaders. 
-She has published media articles about the future of work, gender, education, and citizen participation.
+In addition to her teaching and research work, Paz is an active member of Fundación Éforo, a civil society organization committed to public oversight, transparency and citizen participation. Her advice to national deputies, civil servants and union leaders has left a significant mark in key areas such as education, gender equality and employment. She also contributes regularly to various media and journalistic portals.
+
+In our "Manzanita 2023 Internal Gala Awards" that vindicate the enormous value of the contributions of each person in the team, Paz has won the Planificathon award for being precise, dedicated, proactive, attentive, and a true master of strategic planning.

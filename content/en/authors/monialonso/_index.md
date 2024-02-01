@@ -12,17 +12,16 @@ education:
     year: 1985
 email: "monica.alonso@metadocencia.org"
 interests:
+- Computer Science
 - Data Science
-- Teaching
-- OpenScience
-- R
-- Programming
+- R / Python
+- Information retrieval
 name: Mónica Alonso
 organizations:
 - name: 
   url: 
 weight: 2
-role: Governance Team
+role: Community Guidelines and Governance Teams
 social:
 - icon: envelope
   icon_pack: fas
@@ -40,5 +39,9 @@ superuser: false
 user_groups:
 - Contributors
 ---
+**Experience and Track Record**
 
-Degree in Computer Science (University of Buenos Aires, UBA) and Specialist in Data Mining and Knowledge Discovery (UBA). She works as an Analyst at Banco Ciudad. Since 2018, she has been a co-organizer of R-Ladies Buenos Aires, and also a Certified Software Carpentries Instructor. She collaborated in the Spanish translation of R and Python lessons in The Carpentries, the RStudio IDE and Concept Mapscheatsheets. Also in the Spanish translation and revision of the following books: R for Data Science and Teaching Tech Together. She was part of the Organizing Committee of LatinR 2018 and 2020 and of the Scientific Committee of the Argentine Congress of Agroinformatics (CAI) in 2018 and 2020.
+Mónica has been part of the MetaDocencia team since 2022.  She works as a Systems Analyst at Banco Ciudad (since 2015).
+She has been a co-organizer of R-Ladies Buenos Aires since 2018, and is also a Certified Software Carpentries Instructor. 
+She collaborated in the Spanish translation of R and Python lessons in The Carpentries, the RStudio IDE and concept maps and cheatsheets. 
+She also collaborated in the Spanish translation and revision of the following books: R for Data Science and Teaching Tech Together. She was part of the Organizing Committee of LatinR 2018 and 2020 and of the Scientific Committee of the Argentine Congress of Agroinformatics (CAI) in 2018 and 2020.

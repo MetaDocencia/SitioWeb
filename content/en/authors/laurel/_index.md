@@ -38,6 +38,7 @@ superuser: false
 user_groups:
 -  Contributors
 ---
+**Experience and Track Record**
 
 Laura (aka Laurel) has experience working as an institutional communicator. Since 2008, she has been in charge of the analysis and planning of comprehensive institutional communication strategies combining digital communication, information systems, and organizations’ voices. 
 

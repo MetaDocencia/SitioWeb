@@ -19,7 +19,7 @@ organizations:
 - name: 
   url: ""
 
-role: 
+role: Trainee
 social:
 - icon: envelope
   icon_pack: fas
@@ -41,4 +41,12 @@ user_groups:
 -  Contributors
 ---
 
-José Luis is a Bolivian physician and scientist. Commited to advancing and disseminating scientific knowledge, he has woven a career in medicine and research. With a degree in Medicine and a Diploma in Higher Education in Health, he is currently pursuing a Master's degree in Clinical Research Sciences. In a professional network that encompasses both research and editing in scientific publications, José Luis has participated in several open science projects. He has been a pillar in the management of funds for relevant research. Proficient in data manipulation and handling diverse technological tools and languages, he broadens the spectrum of his contribution to the medical and scientific fields. He is an active advocate and participant in the scientific community, an integral part of the organization of scientific events in Bolivia, facilitating spaces for learning, discussion, and collaboration between professionals and enthusiasts in the sector. Today, José Luis continues to walk the path of research and education, always looking forward to new opportunities to learn, share, and contribute to the wide and exciting world of medicine and science.
+**Experience and Track Record**
+
+José Luis is a Bolivian physician and scientist. Commited to advancing and disseminating scientific knowledge, he has woven a career in medicine and research. With a degree in Medicine and a Diploma in Higher Education in Health, he is currently pursuing a Master's degree in Clinical Research Sciences. 
+
+In a professional network that encompasses both research and editing in scientific publications, José Luis has participated in several open science projects and he has been a pillar in the management of funds for relevant research. 
+
+Proficient in data manipulation and handling diverse technological tools and languages, he broadens the spectrum of his contribution to the medical and scientific fields. He is an active advocate and participant in the scientific community, an integral part of the organization of scientific events in Bolivia, facilitating spaces for learning, discussion, and collaboration between professionals and enthusiasts in the sector. Today, José Luis continues to walk the path of research and education, always looking forward to new opportunities to learn, share, and contribute to the wide and exciting world of medicine and science.
+
+In our presentation of the "Manzanita 2023 Internal Gala Awards" that vindicate the enormous value of the contributions of each person in the team, José Luis has won the Emerging Star award for his exceptional commitment to learn and contribute and for his thoughtful eye that brings knowledge to the work of MetaDocencia.
