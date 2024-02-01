@@ -10,6 +10,7 @@ interests:
 - Software Libre 
 - Uso responsable de datos
 name: Verónica Xhardez
+role: Colaboradora Externa | Proyecto Polen
 weight: 1
 organizations:
 - name: 

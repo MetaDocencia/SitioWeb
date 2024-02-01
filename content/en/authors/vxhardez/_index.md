@@ -8,8 +8,9 @@ interests:
 - Communities of practice
 - Open Science
 - Free Software
-- Responsible data uUse
+- Responsible data use
 name: Verónica Xhardez
+role: Outside Contributor | Pollen Project
 weight: 1
 organizations:
 - name: 

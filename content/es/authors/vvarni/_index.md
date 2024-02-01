@@ -10,6 +10,7 @@ interests:
 - Ciencia abierta
 - Fotografía & danza
 name: Vanina Varni
+role: Proyecto Polen
 weight: 1
 organizations:
 - name: 

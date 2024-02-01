@@ -11,6 +11,7 @@ interests:
 - Modelos multimodales
 - Sistemas de diálogo
 name: Luciana Benotti
+role: Colaboradora Externa
 weight: 1
 organizations:
 - name: 

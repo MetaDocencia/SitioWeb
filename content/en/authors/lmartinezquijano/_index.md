@@ -9,6 +9,7 @@ interests:
 - Natural resources consumption optimization
 - Carbon footprint
 name: Laura Martínez Quijano
+role: Pollen Project
 weight: 1
 organizations:
 - name: 

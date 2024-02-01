@@ -9,6 +9,7 @@ interests:
 - Literature
 - Anthropology
 name: Kevin Hernan Cabana Horqque
+role: Outside Contributor
 weight: 1
 organizations:
 - name: 

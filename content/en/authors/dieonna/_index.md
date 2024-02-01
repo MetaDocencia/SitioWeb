@@ -23,7 +23,7 @@ organizations:
 - name: 
   url: ""
 
-role: 
+role: Outside Contributor
 social:
 - icon: envelope
   icon_pack: fas

@@ -10,6 +10,7 @@ interests:
 - Environmental Science
 - Biology
 name: Julieta Millán
+role: Pollen Project
 weight: 1
 organizations:
 - name: 

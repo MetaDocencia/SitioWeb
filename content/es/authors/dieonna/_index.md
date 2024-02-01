@@ -18,6 +18,7 @@ interests:
  - Nanotecnología
  - Educación
 name: Diego Onna
+role: Colaborador Externo
 weight: 1
 organizations:
 - name: 

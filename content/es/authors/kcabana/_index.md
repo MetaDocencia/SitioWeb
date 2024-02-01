@@ -9,6 +9,7 @@ interests:
 - Literatura
 - Antropología
 name: Kevin Hernan Cabana Horqque
+role: Colaborador Externo
 weight: 1
 organizations:
 - name: 

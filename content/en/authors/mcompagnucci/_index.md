@@ -8,6 +8,7 @@ interests:
 - Environment
 - Space
 name: Marina Compagnucci
+role: Pollen Project
 weight: 1
 organizations:
 - name: 

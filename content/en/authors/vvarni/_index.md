@@ -10,6 +10,7 @@ interests:
 - Open Science
 - Photography & Dance
 name: Vanina Varni
+role: Pollen Project
 weight: 1
 organizations:
 - name: 
