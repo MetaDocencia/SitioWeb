@@ -14,6 +14,11 @@ weight: 15
 organizations:
 - name: 
   url: 
+interests:
+- Accessibility
+- Rights
+- Inclusion
+- Technology
 role: Accessibility Team
 social:
 - icon: envelope
@@ -29,12 +34,11 @@ superuser: false
 user_groups:
 - Contributors
 ---
-Iván is a lawyer (class of 2007, National University of La Pampa, Argentina). He was an instructor in personal computer use with techonology for blind and visually imparired persons (typhlotechnologies). Since 2009 he has worked for the Provincial Disability Office (La Pampa, Argentina), initially as pare of its technical team and as its Director starting in 2015.
+Iván is a lawyer with a professional focus on the rights and inclusion of people with disabilities. His commitment to these issues is reflected in his professional career, in which he has played a key role in promoting and guaranteeing the rights of people with disabilities.
 
-He is a member of the Work and Disability Network.
+Since 2015, Ivan has served as Provincial Disability Director, under the Ministry of Social Development of the province of La Pampa. In this role he has led initiatives and programs that promote accessibility, inclusion and respect for the rights of people with disabilities.
 
-He was a co-director of the University of La Pampa Extension Project "Legal guidance for people with disabilities and their families".
+Iván does not limit his contribution to his area of work, but also demonstrates a strong commitment to the community. His approach focuses on upholding a philosophy of inclusive coexistence guidelines, seeking to raise awareness and foster a respectful and accessible environment for all.
 
-He is trained in Social and Cultural Studies (National University of La Pampa). He has taught numerous trainings related to the rights of people with disabilities.
 
-He has extensive training and experience in typhlotechnology.
+In our "Manzanita 2023 Internal Gala Awards" that vindicate the enormous value of the contributions of each person in the team, Ivan has won the Positive Impact award for what he generates in the lives of others through his people skills, generosity with his knowledge, predisposition and his witty sense of humor.

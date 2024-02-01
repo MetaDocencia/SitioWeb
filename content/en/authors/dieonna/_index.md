@@ -45,5 +45,9 @@ user_groups:
 - Outside Contributors
 ---
 
-Diego is a CONICET researcher based at the Faculty of Exact and Natural Sciences of the University of Buenos Aires. He holds a B.Sc. and a Ph.D. in Chemistry from the University of Buenos Aires. His research aims to develop new materials using artificial intelligence and data science to reduce contamination, and production costs. He has been teaching for more than ten years and has worked in various educational institutions in undergraduate, graduate, and extension courses, both in person and virtual. He constantly innovates to improve the learning experience and include new technologies. He participates in open science projects such as The Carpentries, Open Life Science, Code for Science & Society.
+**Experience and Track Record:** 
+Diego Onna is a CONICET researcher based at the Faculty of Exact and Natural Sciences of the University of Buenos Aires. With an academic background ranging from BS to PhD in Chemical Sciences, his research focuses on the development of new materials using artificial intelligence and data science. His goal is to reduce contamination, time and costs in the creation of innovative materials.
 
+With more than 10 years of experience as a university professor, Diego has taught at different levels and modalities, including undergraduate, graduate and extension, both in in-person and virtual environments. He is always looking for innovation to improve the learning experience and incorporate new technologies.
+
+Diego actively participates in open science projects, contributing to initiatives such as The Carpentries, Open Life Science and Code for Science & Society.

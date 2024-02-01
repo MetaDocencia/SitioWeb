@@ -11,7 +11,7 @@ interests:
 - Communication
 name: Romina Pendino
 weight: 14
-role: Governance, Code of Conduct, and Teaching Teams
+role: Community Guidelines and People Management Teams
 social:
 - icon: envelope
   icon_pack: fas
@@ -30,5 +30,12 @@ user_groups:
 - Contributors
 ---
 
-She studied at the Faculty of Social Communication of the National University of Rosario. She worked for numerous mass media in the city and specialized in tourism communication. She has worked as a coordinator of communication spaces for youth and teenagers. She is a certified instructor by The Carpentries. Currently working in the administrative area of MetaDocencia, where she has been actively involved since 2020.
+Romina Pendino is currently finishing her thesis to obtain a degree in Social Communication at the National University of Rosario. In her career, she has worked in various media in the city and has held the role of coordinator of communication spaces aimed at young people and adolescents.
+
+Currently, Romina works in the area of People Management and Community Guidelines, where she contributes her experience to ensure a healthy and respectful work environment. She also works actively in the Governance and Teaching teams.
+
+Romina is a certified instructor for The Carpentries, part of her commitment to teaching and promoting open science. Her active and prolific participation in the areas of Community Guidelines and People Management reflects her interest in contributing to the smooth functioning and development of collaborative initiatives.
+
+
+In our "Manzanita 2023 Internal Gala Awards" that vindicate the enormous value of the contributions of each person in the team, Romi has won the Community Guru Award because her initiatives contribute to generate an increasingly welcoming, caring and safe environment. Her sensitivity is complemented by dedication, commitment and a lot of conviction.
 
