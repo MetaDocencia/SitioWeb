@@ -36,7 +36,7 @@ user_groups:
 - Integrantes
 ---
 
-**Experiencia y Trayectoria:**
+**Experiencia y Trayectoria**
 
 Irene es Licenciada en  Bibliotecología en la UCSE-DABA. Desde que Irene se sumo en los inicios de MetaDocencia, aporta todo su conocimiento sobre bibliotecas académicas  y su especialización en el área de tecnología. 
 Ha trabajado como profesional independiente en diversos proyectos digitales, desempeñando roles de administración y garantizando la calidad de accesibilidad.

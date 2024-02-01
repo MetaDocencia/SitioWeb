@@ -40,7 +40,7 @@ user_groups:
 -  Integrantes
 ---
 
-**Experiencia y Trayectoria:**
+**Experiencia y Trayectoria**
 
 Paz es Licenciada en Ciencia Política, con una Maestría en Política Educativa y un Profesorado en Docencia Superior. Con más de 15 años de experiencia, Paz se destaca en el diseño, gestión y monitoreo de programas educativos. 
 Su sólida experiencia abarca desde la creación e implementación de herramientas de Monitoreo y Evaluación (M&E) hasta la sistematización, análisis, reporte y visualización de datos para organismos internacionales y locales.

@@ -45,7 +45,7 @@ user_groups:
 - Integrantes
 ---
 
-**Experiencia y Trayectoria:**
+**Experiencia y Trayectoria**
 
 Mariela Rajngewerc es una investigadora postdoctoral del Consejo Nacional de Investigaciones Científicas y Técnicas de Argentina (CONICET) y de la FAMAF (Universidad Nacional de Córdoba). 
 Sus intereses de investigación se centran en el análisis del sesgo en modelos de aprendizaje automático, con un enfoque específico en métricas de equidad para evaluar el sesgo en modelos de anonimización de registros médicos electrónicos.
