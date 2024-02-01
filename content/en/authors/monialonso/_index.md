@@ -21,7 +21,7 @@ organizations:
 - name: 
   url: 
 weight: 2
-role: Governance Team
+role: Community Guidelines and Governance Teams
 social:
 - icon: envelope
   icon_pack: fas
@@ -39,6 +39,7 @@ superuser: false
 user_groups:
 - Contributors
 ---
+**Experience and Track Record**
 
 Mónica has been part of the MetaDocencia team since 2022.  She works as a Systems Analyst at Banco Ciudad (since 2015).
 She has been a co-organizer of R-Ladies Buenos Aires since 2018, and is also a Certified Software Carpentries Instructor. 

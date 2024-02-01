@@ -43,6 +43,7 @@ superuser: false
 user_groups:
 - Contributors
 ---
+**Experience and Track Record**
 
 Mariela Rajngewerc is a postdoctoral researcher at the National Council for Scientific Research of Argentina (CONICET) and FAMAF (National University of Córdoba). 
 Her research interest is bias analysis in machine learning models. Specifically, fairness metrics to evaluate bias in anonymization models of electronic medical records. 

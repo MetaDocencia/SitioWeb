@@ -39,6 +39,7 @@ superuser: false
 user_groups:
 -  Contributors
 ---
+**Experience and Track Record**
 
 Jesica is a CONICET Assistant Researcher at the Interdisciplinary Center for Research in Mathematical and Experimental Psychology "Dr. Horacio J. A. Rimoldi" (CIIPME). Her research is oriented to study the development of cognitive skills in children. She is co-author of numerous scientific articles. She is also one of the organizers of the Buenos Aires chapter of RLadies. 
 

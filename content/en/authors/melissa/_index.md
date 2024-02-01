@@ -20,7 +20,7 @@ interests:
 - Translation
 name: Melissa Black
 weight: 4
-role: Infrastructure and Impact Measurement Manager
+role: Infrastructure and Impact Measurement Coordinator
 social:
 - icon: envelope
   icon_pack: fas
@@ -35,6 +35,7 @@ superuser: false
 user_groups:
 -  Contributors
 ---
+**Experience and Track Record**
 
 Melissa Black brings valuable research experience in connectivity, technology and society in Latin America. In her role as Impact Measurement Coordinator, she leads the evaluation and measurement of the impact of MetaDocencia's initiatives. Additionally, she represents MetaDocencia in the Catalyst project, strengthening the presence and participation in collaborative initiatives.
 Also, Melissa contributes as:

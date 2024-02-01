@@ -44,6 +44,7 @@ superuser: false
 user_groups:
 - Contributors
 ---
+**Experience and Track Record**
 
 Nicolás is an Adjunct Researcher at the National Research Council in Argentina (CONICET) and a member of the Structural Bioinformatics Group at the National University of Quilmes (UNQ, Buenos Aires, Argentina). His research is focused on understanding the functional nature of proteins, with special attention to their evolutionary relationships and interactions in biological systems. He is co-author of numerous scientific articles and two book chapters oriented to science communication.
 

@@ -35,6 +35,7 @@ superuser: false
 user_groups:
 - Contributors
 ---
+**Experience and Track Record**
 
 Irene has a degree in Library Science from UCSE-DABA. Since Irene joined MetaDocencia at the beginning, she has brought all her knowledge about academic libraries and her specialization in the area of technology. She has worked as a freelancer in several digital projects, fulfilling management roles and ensuring the quality of accessibility.
 

@@ -30,6 +30,8 @@ user_groups:
 - Contributors
 ---
 
+**Experience and Track Record**
+
 Romina Pendino is currently finishing her thesis to obtain a degree in Social Communication at the National University of Rosario. In her career, she has worked in various media in the city and has held the role of coordinator of communication spaces aimed at young people and adolescents.
 
 Currently, Romina works in the area of People Management and Community Guidelines, where she contributes her experience to ensure a healthy and respectful work environment. She also works actively in the Governance and Teaching teams.

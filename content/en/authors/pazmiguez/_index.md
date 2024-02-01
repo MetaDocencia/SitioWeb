@@ -39,7 +39,7 @@ superuser: false
 user_groups:
 -  Contributors
 ---
-
+**Experience and Track Record**
 Paz holds a Bachelor's degree in Political Science, a Master's degree in Educational Policy and a Professorate degree in University Education. With more than 15 years of experience, Paz excels in the design, management and monitoring of educational programs. Her solid experience ranges from the creation and implementation of Monitoring and Evaluation (M&E) tools to the systematization, analysis, reporting and visualization of data for international and local organizations.
 
 In addition to her teaching and research work, Paz is an active member of Fundación Éforo, a civil society organization committed to public oversight, transparency and citizen participation. Her advice to national deputies, civil servants and union leaders has left a significant mark in key areas such as education, gender equality and employment. She also contributes regularly to various media and journalistic portals.

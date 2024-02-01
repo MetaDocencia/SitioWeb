@@ -34,6 +34,7 @@ superuser: false
 user_groups:
 -  Contributors
 ---
+**Experience and Track Record**
 
 Julian's (aka Niño) experience is focused on strategic planning for social media channels. In the field of audiovisual production, he manages to identify and implement the opportunities that audiovisual language offers for each type of content.
 
