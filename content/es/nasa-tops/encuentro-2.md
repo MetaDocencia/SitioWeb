@@ -9,7 +9,7 @@ authors:
 type: eventos
 weight: 50
 tags:
-  - Próximos encuentros
+  - Encuentros anteriores
 <!--- featured_image: https://www.metadocencia.org/img/blabla.png --->
 ---
 
@@ -17,9 +17,9 @@ tags:
 
 ### Sobre el encuentro
 
-El segundo encuentro del Grupo de Estudio Pre NASA-TOPS se llevará a cabo el **miércoles 31 de enero de 17 a 18 (UTC-3)**. Estará coordinado por [Melissa Black](https://www.metadocencia.org/authors/melissa/) con el apoyo de [Jesica Formoso](https://www.metadocencia.org/authors/jformoso/) y [Patricia Loto](https://www.metadocencia.org/authors/patriloto/).
+El segundo encuentro del Grupo de Estudio Pre NASA-TOPS se llevó a cabo el **miércoles 31 de enero de 17 a 18 (UTC-3)**. Estuvo coordinado por [Melissa Black](https://www.metadocencia.org/authors/melissa/) con el apoyo de [Jesica Formoso](https://www.metadocencia.org/authors/jformoso/) y [Patricia Loto](https://www.metadocencia.org/authors/patriloto/).
 
-Retomaremos los puntos principales del encuentro 1 y haremos una introducción al rol de las herramientas, datos, código y resultados abiertos en el ciclo de la Ciencia Abierta.
+Retomaremos los puntos principales del encuentro 1 y hicimos una introducción al rol de las herramientas, datos, código y resultados abiertos en el ciclo de la Ciencia Abierta.
 
 <!--- ### Materiales del evento
 
