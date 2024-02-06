@@ -47,6 +47,7 @@ Recientemente, MetaDocencia tuvo la enorme suerte de vivir una experiencia de lu
 
 Todo empezó cuando Charlotte Payne, editora de Nature Human Behaviour, quien honra a MetaDocencia siendo coautora de esta publicación (¡es enorme nuestra emoción por su co-autoría!), estaba preparando “[Navegando la frontera de la IA](https://www.nature.com/nathumbehav/volumes/7/issues/11)”, el número de Nature Human Behaviour que se enfocó en inteligencia artificial. Charlotte buscaba contribuciones de todo el mundo en el tema y encontró el siguiente tweet:
 
+<img src="https://www.metadocencia.org/img/tweet-revistas.jpg" alt="Tweet de Laura Ación sobre impactos de la inteligencia artificial que captó la atención de la editora de Nature" width="600px"/>
 
 Charlotte fue una de las 15 personas que vieron este tweet que terminó en un artículo en Nature Human Behaviour sobre inteligencia artificial y ciencia abierta 🤯 Fuente: [https://twitter.com/_lacion_/status/1679214269496279040](https://twitter.com/_lacion_/status/1679214269496279040)
 
