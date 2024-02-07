@@ -22,8 +22,8 @@ subtitle = ""
   # filter_default = 0
    
    [[content.filter_button]]
-  name = "Proyectos"
-  tag = "Proyectos"
+     name = "Proyectos"
+     tag = "Proyectos"
     
   # [[content.filter_button]]
   # name = "Ediciones anteriores"
@@ -71,7 +71,7 @@ subtitle = ""
  css_class = ""
 +++
 
-[TEXTO A DESARROLLAR]
+TEXTO A DESARROLLAR
 
 Explora los proyectos que están desarrollándose desde la comunidad de MetaDocencia.  
 
