@@ -5,12 +5,12 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 55  # Order that this section will appear.
 
-title = "Cursos"
+title = "Proyectos"
 subtitle = ""
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "cursos"
+  page_type = "proyectos"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -22,12 +22,12 @@ subtitle = ""
   filter_default = 0
    
   [[content.filter_button]]
-    name = "Próximos cursos"
-    tag = "Próximos cursos"
+    name = "Proyectos"
+    tag = "Proyectos"
     
-  [[content.filter_button]]
-    name = "Ediciones anteriores"
-    tag = "Ediciones anteriores"
+ # [[content.filter_button]]
+  #  name = "Ediciones anteriores"
+  #  tag = "Ediciones anteriores"
 
 
 [design]
@@ -72,8 +72,8 @@ subtitle = ""
 +++
 
 
-Nuestra propuesta –remota y totalmente gratuita– se desarrolla a través de la plataforma Zoom. Es útil para todo tipo de intercambios que facilitan la formación e intercambio de conocimiento entre quienes asistan a nuestros talleres, charlas y seminarios, entre varios de los formatos que ofrecemos.
+[Texto en construcción]
 
-Para participar, completa el formulario de preinscripción dentro de cada propuesta. Una vez que realices la preinscripción, recibirás un email con todas las indicaciones para que puedas sumarte al curso online.
+Aquí mostramos los proyectos en los que estamos trabajando.
 
-Si tienes inquietudes adicionales sobre capacitación, escríbenos a info@metadocencia.org
+Si tienes inquietudes adicionales sobre los proyectos, escríbenos a info@metadocencia.org

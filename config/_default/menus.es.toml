@@ -74,6 +74,11 @@ url = ""
   url = "consultoria/"
   parent = "Qué hacemos"
     weight = 40
+    [[main]]
+  name = "Proyectos"
+  url = "proyectos/"
+  parent = "Qué hacemos"
+    weight = 50
  # [[main]]
  # name = "Inscripciones"
  # url = ""
