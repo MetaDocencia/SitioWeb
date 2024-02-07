@@ -76,7 +76,7 @@ url = ""
     weight = 40
   [[main]]
   name = "Proyectos"
-  url = ""
+  url = "proyectos/"
   parent = "Qué hacemos"
     weight = 50
   [[main]]

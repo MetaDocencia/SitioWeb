@@ -4,7 +4,7 @@ draft: true
 image:
   caption: 
   alt_text: "Personas trabajando en equipo de manera armoniosa"
-linktitle: Intro NASA TOPS
+linktitle: Mapeo de Comunidades
 summary: Repositorio colaborativo para América Latina que reúna información relevante y accesible sobre eventos, oportunidades de financiación, talleres, cursos, comunidades y organizaciones de ciencia abierta en español. 
 title: Mapeo de comunidades, organizaciones y eventos de Ciencia Abierta en Latinoamérica
 authors: 
