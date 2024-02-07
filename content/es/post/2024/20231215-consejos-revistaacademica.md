@@ -1,6 +1,6 @@
 ---
 date: "2023-12-15"
-draft: true
+draft: false
 type: page
 linktitle: Consejos revistas académicas
 summary: "En esta publicación te damos algunos consejos para llamar la atención de quienes se encargan de la edición de revistas académicas."
@@ -91,4 +91,6 @@ Esta publicación ha sido posible gracias a NASA Grants 80NSSC23K0854 (DOI: 10.5
 *¿Te gustó esta publicación? Puedes reutilizarla libremente bajo licencia CC by 4.0, solo tienes que citarla.* 
 
 Esta es la cita que te recomendamos usar para referenciarla:
+
+Rajngewerc, M., Millán, J., Ación, L., & Payne, C. (2024). Consejos para que te inviten a escribir en una revista académica. Zenodo. [https://doi.org/10.5281/zenodo.10627384](https://doi.org/10.5281/zenodo.10627384)https://doi.org/10.5281/zenodo.10627384
 
