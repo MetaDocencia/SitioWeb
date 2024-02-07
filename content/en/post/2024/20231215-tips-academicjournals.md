@@ -1,9 +1,10 @@
 ---
-date: "2023-12-15"
+date: "2024-02-05"
 draft: false
 type: page
 linktitle: Tips academic journals
 summary: "In this post, we give you some tips to get noticed by editors eager to publish your ideas."
+title: Tips for getting invited to write for an academic journal
 authors:
   - mrajngewerc
   - jmillan
