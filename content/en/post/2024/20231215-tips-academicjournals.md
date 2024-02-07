@@ -1,6 +1,6 @@
 ---
 date: "2023-12-15"
-draft: true
+draft: false
 type: page
 linktitle: Tips academic journals
 summary: "In this post, we give you some tips to get noticed by editors eager to publish your ideas."
@@ -86,7 +86,8 @@ This post has been made possible by NASA Grants 80NSSC23K0854 (DOI[10.5281/zenod
 
 ---
 
-*¿Te gustó esta publicación? Puedes reutilizarla libremente bajo licencia CC by 4.0, solo tienes que citarla.* 
+*Did you like this post? You can reuse it freely under CC by 4.0 license. Just cite it!*
 
-Esta es la cita que te recomendamos usar para referenciarla:
+Here is the citation we recommend you use: 
 
+Rajngewerc, M., Millán, J., Ación, L., & Payne, C. (2024). Tips for getting invited to write for an academic journal. Zenodo. https://doi.org/10.5281/zenodo.10630694
