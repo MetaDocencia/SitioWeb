@@ -79,11 +79,6 @@ url = ""
   url = "proyectos/"
   parent = "Qué hacemos"
     weight = 50
-  [[main]]
-  name = "Mapeo de comunidades"
-  url = ""
-  parent = "Proyectos"
-    weight = 10
  # [[main]]
  # name = "Inscripciones"
  # url = ""
