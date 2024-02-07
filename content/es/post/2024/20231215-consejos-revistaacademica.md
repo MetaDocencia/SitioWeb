@@ -93,5 +93,5 @@ Esta publicación ha sido posible gracias a NASA Grants 80NSSC23K0854 (DOI: 10.5
 
 Esta es la cita que te recomendamos usar para referenciarla:
 
-Rajngewerc, M., Millán, J., Ación, L., & Payne, C. (2024). Consejos para que te inviten a escribir en una revista académica. Zenodo. [https://doi.org/10.5281/zenodo.10627384](https://doi.org/10.5281/zenodo.10627384)https://doi.org/10.5281/zenodo.10627384
+Rajngewerc, M., Millán, J., Ación, L., & Payne, C. (2024). Consejos para que te inviten a escribir en una revista académica. Zenodo. [https://doi.org/10.5281/zenodo.10627384](https://doi.org/10.5281/zenodo.10627384)
 
