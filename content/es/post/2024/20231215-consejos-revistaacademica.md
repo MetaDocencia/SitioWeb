@@ -1,9 +1,10 @@
 ---
-date: "2023-12-15"
+date: "2024-02-05"
 draft: false
 type: page
 linktitle: Consejos revistas académicas
 summary: "En esta publicación te damos algunos consejos para llamar la atención de quienes se encargan de la edición de revistas académicas."
+title: Consejos para que te inviten a escribir en una revista académica
 authors:
   - mrajngewerc
   - jmillan
