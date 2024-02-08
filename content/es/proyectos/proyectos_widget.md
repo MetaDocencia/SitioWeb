@@ -69,6 +69,6 @@ subtitle = ""
 
 [Texto en construcción]
 
-Aquí mostramos los proyectos en los que estamos trabajando.
+Explora nuestros proyectos en curso y descubre cómo estamos trabajando en pos de nuestra misión y valores.
 
 Si tienes inquietudes adicionales sobre los proyectos, escríbenos a info@metadocencia.org
