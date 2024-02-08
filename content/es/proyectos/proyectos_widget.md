@@ -24,11 +24,6 @@ subtitle = ""
   [[content.filter_button]]
     name = "Proyectos"
     tag = "Proyectos"
-    
-  [[content.filter_button]]
-    name = "Ediciones anteriores"
-    tag = "Ediciones anteriores"
-
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
