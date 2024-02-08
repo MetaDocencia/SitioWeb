@@ -1,11 +1,11 @@
 ---
-date: "2020-03-09"
+date: "2024-02-08"
 draft: false
 image:
-  caption: "[Photo por Liana Mikah en Unsplash](https://unsplash.com/photos/2t4Ji-nARqA)"
+  caption: "[Ilustración de personas trabajando en equipo de manera armoniosa](https://storyset.com/people)"
   alt_text: "Una manzana roja y un libro abierto sobre una canasta de picnic  Foto de Liana Mikah."
 linktitle: Mapeo de Comunidades, Organizaciones y Eventos de Ciencia Abierta en Latinoamérica
-summary: Repositorio colaborativo para América Latina que reúna información relevante y accesible sobre eventos, oportunidades de financiación, talleres, cursos, comunidades y organizaciones de ciencia abierta en español.. 
+summary: Repositorio colaborativo para América Latina que reúna información relevante y accesible sobre eventos, oportunidades de financiación, talleres, cursos, comunidades y organizaciones de ciencia abierta en español. 
 title: Mapeo de Comunidades, Organizaciones y Eventos de Ciencia Abierta en Latinoamérica
 spellcheck: true
 authors: 
@@ -15,44 +15,42 @@ authors:
 type: cursos
 weight: 10
 tags:
-  - Proyectos
+  - proyectos
 ---
 
 
+<p align="center">
+<img src="href="https://storyset.com/people" alt="Ilustración de personas trabajando en equipo de manera armoniosa"/>
+</p>
+{{% toc %}} 
 
-{{% toc %}}
+Este proyecto nació a comienzos del año 2023 a partir de nuestro deseo de orientar nuestra práctica hacia la ciencia abierta con una mirada local. Nos propusimos crear un repositorio colaborativo que reuniera información sobre recursos, eventos y comunidades relacionadas con la ciencia abierta en la región. Este repositorio estará abierto a cualquier persona interesada en acceder a recursos sobre ciencia abierta, conectar con otros actores regionales y locales, o incluso participar en la promoción de prácticas abiertas. Nuestra visión es desarrollar un repositorio accesible y útil que fomente la colaboración y el intercambio de conocimientos en el ámbito de la ciencia abierta, apoyando así el crecimiento de esta práctica en la región.
 
-### Objetivos 
+### VISIÓN
 
-Encontrarnos en un club de lectura es poder analizar cada capítulo, realizar los ejercicios propuestos y generar nuevos aprendizajes y construcciones en comunidad.
+Nos proponemos hacer disponible información relevante sobre recursos, eventos y comunidades de ciencia abierta en América Latina a través de un repositorio colaborativo. Este repositorio estará al alcance de cualquier persona interesada en recursos sobre ciencia abierta y en conectar con otros actores regionales y locales en América Latina, así como para aquellos que deseen promover prácticas abiertas. De esta manera, buscamos visibilizar la diversidad de iniciativas y crear redes de contacto que enriquezcan el ejercicio de la ciencia abierta en América Latina.
 
-### ¿Para quién?
+### MOTIVACIÓN
 
-La convocatoria está abierta a todas las personas que quieran participar y, como siempre, será gratuita. Si no leíste los capítulos que discutiremos en un encuentro y querés acercarte a escuchar y participar de las dinámicas, también te damos la bienvenida. Cada encuentro será autocontenido, así que no es obligatorio participar de todos los encuentros. Si te perdiste alguno, igual podés participar en los siguientes.
+#### Promover la Colaboración y el Networking
+
+El repositorio como punto de encuentro virtual para investigadores, instituciones y organizaciones ofrece un directorio completo de comunidades de ciencia abierta. facilitando el networking, promoviendo colaboraciones interdisciplinarias y el intercambio de mejores prácticas, eliminando barreras geográficas y fomentando la difusión del conocimiento.
+
+#### Mostrar las Contribuciones Científicas de América Latina
+
+Será una plataforma para destacar contribuciones significativas realizadas en la región, haciendo que sea fácilmente accesible para la comunidad científica en general. Al centralizar información sobre comunidades, recursos, eventos y oportunidades de financiamiento, el repositorio aumentará la visibilidad y el reconocimiento de los logros científicos de la región.
+
+#### Facilitar el Acceso a los Recursos
+
+El repositorio abordará desafíos como acceso limitado a financiamiento, infraestructura y oportunidades de capacitación al proporcionar una colección curada de recursos, incluidas bases de datos de financiamiento, revistas de acceso abierto, repositorios de datos y materiales educativos, sirviendo como fuente de información para investigadores e instituciones para adoptar prácticas de ciencia abierta de manera más efectiva.
+
+#### Empoderar a los Investigadores en Etapa Inicial
+
+Reconocemos la importancia de apoyar a la próxima generación de científicos, proporcionando recursos y programas de mentoría dedicados para respaldar su desarrollo. Al conectarlos con investigadores establecidos y brindar orientación sobre metodologías de ciencia abierta, el repositorio disminuirá la brecha entre científicos experimentados y emergentes, promoviendo así el crecimiento de la ciencia abierta en la región.
+
+### RECURSOS
+[Formulario](https://bit.ly/formulario_ciencia_abierta "formulario")
+La aplicación fue desarrollada con el paquete [shiny](https://jformoso.shinyapps.io/Mapeo_de_comunidades/ "shinyapp"). *Por el momento en la app se pueden realizar búsquedas por país, por tipo de organización y área temática. A futuro, queremos mejorar las funcionalidades de la app como también incrementar la cantidad de información disponible. Respecto a las mejoras de la app, tenemos la intención de mostrar estadísticas sobre los datos recolectados tales como la cantidad de comunidades de prácticas por país o el porcentaje  de recursos disponibles por tipo o categoría. Y en cuanto a incrementar los datos de nuestra base, tenemos disponible un formulario mediante el cual se pueden sumar o sugerir recursos.*   
 
 
-### Duración
-
-La organización será con encuentros semanales (de una hora de duración) donde discutiremos dos o tres capítulos relacionados. 
-
-Una o varias personas presentarán los capítulos y otra persona moderadora se encargará de llevar adelante cada encuentro de manera organizada para desarrollar el contenido y trabajar en los ejercicios. Como cierre, tendremos un encuentro con el autor, Greg Wilson (con intérprete en español), para que puedas hacerle todas las preguntas que quieras. Un aprendizaje que estará potenciado por los encuentros del club de lectura y las producciones que construimos en ellos.
-
-
-### Cronograma 
-
-
-|  Fecha |  Capítulos  | Presenta | Modera | Materiales |
-| ---:  | :----------- | :----------- | :----------- | :----------- |
-|15 de Marzo - 18:00 UTC-3 |Modelos mentales y evaluación formativa. Tipos de Ejercicios | Yani Bellini Saibene| Paola Corrales | [Slides](https://docs.google.com/presentation/d/12_vkEBWM57yRy86Nd3hLqqDEr_jqhYjgTuDPyuvNOM8/edit?usp=sharing) - [Blog post](https://www.metadocencia.org/post/club_de_lectura_t3_dia1/) |
-|22 de Marzo - 18:00 UTC-3|Pericia y memoria. Ejemplos de mapas conceptuales | Yani Bellini Saibene | Paola Corrales |[Slides](https://docs.google.com/presentation/d/1hQwa8SXLH1iYzY06pTvh7oit1rOUmUB_wzB__O8DhrU/edit?usp=sharing) - [Blog post](https://www.metadocencia.org/post/club_de_lectura_t3_dia2/)|
-|29 de Marzo - 18:00 UTC-3|Arquitectura cognitiva. Aprendizaje Individual | Elio Campitelli | Yani Bellini Saibene |[Blog post](https://www.metadocencia.org/post/club_de_lectura_t3_dia3/)|
-|5 de Abril - 18:00 UTC-3|Conocimiento de la pedagogía del contenido. Enseñar como un arte performativo| Paola Corrales | Jesica Formoso |[Slides](https://docs.google.com/presentation/d/1aeTj5DcjaOIh7WF1VqD5dmiiPuucadvB3bxRQCP7zR0/edit?usp=sharing) - [Blog post](https://www.metadocencia.org/post/club_de_lectura_t3_dia4/)|
-|12 de Abril - 18:00 UTC-3| Un proceso para diseñar lecciones. Motivación y desmotivación | Jesica Formoso | Mónica Alonso |[Blog y Slides](https://www.metadocencia.org/post/club_de_lectura_t3_dia5/)|
-|19 de Abril - 18:00 UTC-3| En el salón de clase. Enseñar en línea |Ernesto Mirt Alvarado | Yani Bellini Saibene | [Blog](https://www.metadocencia.org/post/club_de_lectura_t3_dia6/)|
-|26 de Abril - 18:00 UTC-3| Construyendo una comunidad de práctica. Difusión y vinculación. Reuniones, reuniones, reuniones | Alejandra Bellini | Elio Campitelli |[Blog y Slides](https://www.metadocencia.org/post/club_de_lectura_t3_dia7/)|
-|3 de Mayo - 18:00 UTC-3| Las Reglas. Introducción. ¿Por qué enseño? | Greg Wilson | Yani Bellini Saibene |[Blog](https://www.metadocencia.org/post/club_de_lectura_t3_dia8/)|
-
-### Materiales del club de lectura
-
-* [Sitio web del libro en español](https://teachtogether.tech/es/index.html)
 
