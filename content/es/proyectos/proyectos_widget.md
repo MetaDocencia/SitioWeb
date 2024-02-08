@@ -25,9 +25,9 @@ subtitle = ""
     name = "Proyectos"
     tag = "Proyectos"
     
- # [[content.filter_button]]
-  #  name = "Ediciones anteriores"
-  #  tag = "Ediciones anteriores"
+  [[content.filter_button]]
+    name = "Ediciones anteriores"
+    tag = "Ediciones anteriores"
 
 
 [design]

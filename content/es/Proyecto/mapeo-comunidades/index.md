@@ -15,7 +15,7 @@ authors:
 type: cursos
 weight: 10
 tags:
-  - proyectos
+  - Proyectos
 ---
 
 
