@@ -1,8 +1,6 @@
 ---
 date: "2024-02-08"
 draft: false
-image:
-  alt_text: "Ilustración de personas trabajando en equipo de manera armoniosa"
 linktitle: Mapeo de Comunidades, Organizaciones y Eventos de Ciencia Abierta en Latinoamérica
 summary: Repositorio colaborativo para América Latina que reúna información relevante y accesible sobre eventos, oportunidades de financiación, talleres, cursos, comunidades y organizaciones de ciencia abierta en español. 
 title: Mapeo de Comunidades, Organizaciones y Eventos de Ciencia Abierta en Latinoamérica
