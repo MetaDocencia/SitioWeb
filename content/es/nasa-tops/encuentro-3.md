@@ -9,7 +9,7 @@ authors:
 type: eventos
 weight: 50
 tags:
-  - Próximos encuentros
+  - Encuentros anteriores
 <!--- featured_image: https://www.metadocencia.org/img/blabla.png --->
 ---
 
@@ -17,9 +17,9 @@ tags:
 
 ### Sobre el encuentro
 
-El tercer encuentro del Grupo de Estudio Pre NASA-TOPS se llevará a cabo el **miércoles 7 de febrero de 17 a 18 (UTC-3)**. Estará coordinado por [Melissa Black](https://www.metadocencia.org/authors/melissa/) con el apoyo de [Patricia Loto](https://www.metadocencia.org/authors/patriloto/) y [Romina Pendino](https://www.metadocencia.org/authors/rominapendino/).
+El tercer encuentro del Grupo de Estudio Pre NASA-TOPS se llevó a cabo el **miércoles 7 de febrero de 17 a 18 (UTC-3)**. Estuvo coordinado por [Melissa Black](https://www.metadocencia.org/authors/melissa/) con el apoyo de [Patricia Loto](https://www.metadocencia.org/authors/patriloto/) y [Romina Pendino](https://www.metadocencia.org/authors/rominapendino/).
 
-Retomaremos los puntos principales del encuentro 2 y charlaremos sobre los datos abiertos, teniendo en cuenta ejemplos de América Latina.
+Retomamos los puntos principales del encuentro 2 y charlamos sobre los datos abiertos, teniendo en cuenta ejemplos de América Latina.
 
 <!--- ### Materiales del evento
 
