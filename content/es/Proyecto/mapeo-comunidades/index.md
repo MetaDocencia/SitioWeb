@@ -15,10 +15,7 @@ tags:
   - Proyectos
 ---
 
-
-<p align="center">
-<img src="href="https://storyset.com/people" alt="Ilustración de personas trabajando en equipo de manera armoniosa"/>
-</p>
+[Ilustración de personas trabajando en equipo de manera armoniosa](/Proyecto/mapeo-comunidades/featured.png)
 
 Este proyecto nació a comienzos del año 2023 a partir de nuestro deseo de orientar nuestra práctica hacia la ciencia abierta con una mirada local. Nos propusimos crear un repositorio colaborativo que reuniera información sobre recursos, eventos y comunidades relacionadas con la ciencia abierta en la región. Este repositorio estará abierto a cualquier persona interesada en acceder a recursos sobre ciencia abierta, conectar con otros actores regionales y locales, o incluso participar en la promoción de prácticas abiertas. Nuestra visión es desarrollar un repositorio accesible y útil que fomente la colaboración y el intercambio de conocimientos en el ámbito de la ciencia abierta, apoyando así el crecimiento de esta práctica en la región.
 
