@@ -1,6 +1,9 @@
 ---
 date: "2024-02-08"
 draft: false
+image:
+  caption: 
+  alt_text: "Ilustración de personas trabajando en equipo de manera armoniosa"
 linktitle: Mapeo de Comunidades, Organizaciones y Eventos de Ciencia Abierta en Latinoamérica
 summary: Repositorio colaborativo para América Latina que reúna información relevante y accesible sobre eventos, oportunidades de financiación, talleres, cursos, comunidades y organizaciones de ciencia abierta en español. 
 title: Mapeo de Comunidades, Organizaciones y Eventos de Ciencia Abierta en Latinoamérica
@@ -15,7 +18,7 @@ tags:
   - Proyectos
 ---
 
-![Ilustración de personas trabajando en equipo de manera armoniosa](/Proyecto/mapeo-comunidades/featured.png)
+
 
 Este proyecto nació a comienzos del año 2023 a partir de nuestro deseo de orientar nuestra práctica hacia la ciencia abierta con una mirada local. Nos propusimos crear un repositorio colaborativo que reuniera información sobre recursos, eventos y comunidades relacionadas con la ciencia abierta en la región. Este repositorio estará abierto a cualquier persona interesada en acceder a recursos sobre ciencia abierta, conectar con otros actores regionales y locales, o incluso participar en la promoción de prácticas abiertas. Nuestra visión es desarrollar un repositorio accesible y útil que fomente la colaboración y el intercambio de conocimientos en el ámbito de la ciencia abierta, apoyando así el crecimiento de esta práctica en la región.
 
