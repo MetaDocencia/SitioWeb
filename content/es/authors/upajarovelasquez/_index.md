@@ -31,7 +31,7 @@ social:
   link: https://www.linkedin.com/in/umutpajaro/
 
 user_groups:
-- Outside Contributors
+- Colaboradores externos
 ---
 
 **Experience and Track Record:** 
