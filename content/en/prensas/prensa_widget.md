@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 55  # Order that this section will appear.
 
 title = "Press"
-subtitle = ""
+subtitle = "Please note these news are presented in Spanish, the original language of publication."
 
 [content]
   # Page type to display. E.g. project.
