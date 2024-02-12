@@ -17,7 +17,7 @@ weight: 15
 organizations:
 - name: 
   url: 
-role: Equipos de Accesibilidad y Enseñanza
+role: Pautas de Convivencia
 social:
 - icon: envelope
   icon_pack: fas
