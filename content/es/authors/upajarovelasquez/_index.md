@@ -19,7 +19,7 @@ social:
   link: https://twitter.com/umutpajaro
 - icon: mastodon
   icon_pack: fab
-  link: @umutpajaro@tech.lgbt
+  link: umutpajaro@tech.lgbt
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-5564-3615
