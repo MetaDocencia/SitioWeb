@@ -24,7 +24,7 @@ weight = 10
 #  parent = "About Us"
 #    weight = 30
   [[main]]
-  name = "Code of Conduct"
+  name = "Community Guidelines"
   url = "en/pdc/"
   parent = "About Us"
     weight = 40
