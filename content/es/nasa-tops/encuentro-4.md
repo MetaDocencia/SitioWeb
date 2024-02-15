@@ -9,7 +9,7 @@ authors:
 type: eventos
 weight: 50
 tags:
-  - Próximos encuentros
+  - Encuentros anteriores
 <!--- featured_image: https://www.metadocencia.org/img/blabla.png --->
 ---
 
@@ -17,9 +17,9 @@ tags:
 
 ### Sobre el encuentro
 
-El cuarto encuentro del Grupo de Estudio Pre NASA-TOPS se llevará a cabo el **miércoles 14 de febrero de 17 a 18 (UTC-3)**. Estará coordinado por Melissa Black con el apoyo de Romina Pendino y Umut Pajaro Velasquez.
+El cuarto encuentro del Grupo de Estudio Pre NASA-TOPS se llevó a cabo el **miércoles 14 de febrero de 17 a 18 (UTC-3)**. Estuvo coordinado por Melissa Black con el apoyo de Romina Pendino y Jesica Formoso.
 
-Además de resumir los contenidos del módulo 4, iremos reflexionar sobre la organización del movimiento del software libre en América Latina y las prácticas de propiedad intelectual de los códigos.
+Además de resumir los contenidos del módulo 4, reflexionamos sobre la organización del movimiento del software libre en América Latina y las prácticas de propiedad intelectual de los códigos.
 
 <!--- ### Materiales del evento
 
@@ -36,7 +36,7 @@ Además de resumir los contenidos del módulo 4, iremos reflexionar sobre la org
 - También recomendamos el artículo [“Cooperación sin mando: una introducción al software libre”](https://biblioweb.sindominio.net/telematica/softlibre/sl.pdf) y el video ["Códigos Cooperativos"](https://www.economiasolidaria.org/recursos/codigos-cooperativos/), de la cooperativa gcoop.
 
 
-Este tema tiene un histórico de debate y construcción muy ricos en América Latina. Por eso, compartimos recursos adicionales:
+Este tema tiene una historia de debate y construcción muy rica en América Latina. Por eso, compartimos recursos adicionales:
 - [Contribuciones del software libre a la soberanía tecnológica y los desafíos futuros](https://vocesenelfenix.economicas.uba.ar/contribuciones-del-software-libre-a-la-soberania-tecnologica-y-los-desafios-futuros/), por Verónica Xhardez.
 - [Artículos de Tania Pérez-Bustos](https://www.taniaperezbustos.co/category/publicaciones/etnografia-del-software-libre/) sobre etnografías de mujeres en el software libre.
 - [Software libre y software privativo](https://www.vialibre.org.ar/mabi/4-software-libre-software-privativo.htm), por Federico Heinz.
