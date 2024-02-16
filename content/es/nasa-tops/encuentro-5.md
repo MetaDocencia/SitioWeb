@@ -19,7 +19,7 @@ tags:
 
 El quinto encuentro del Grupo de Estudio Pre NASA-TOPS se llevará a cabo el **miércoles 21 de febrero de 17 a 18 (UTC-3)**. Estará coordinado por Jesica Formoso con el apoyo de Paola Lefer y Umut Pajaro Velasquez.
 
-<!--- Además de resumir los contenidos del módulo 4, iremos reflexionar sobre la organización del movimiento del software libre en América Latina y las prácticas de propiedad intelectual de los códigos. --->
+Además de repasar conceptos y herramientas relacionadas a los resultados científicos abiertos, discutiremos las dimensiones del acceso abierto en América Latina.
 
 <!--- ### Materiales del evento
 
@@ -33,7 +33,11 @@ El quinto encuentro del Grupo de Estudio Pre NASA-TOPS se llevará a cabo el **m
 
 - Toma notas de los temas que más te llaman la atención, que te generan cuestiones, o que te gustaría escuchar otras opiniones al respecto. Al leer el módulo, ¿te acuerdas de situaciones en tu vida personal o profesional? ¡Compártelas con nosotros en el encuentro!
 
-- También recomendamos [...] .
+- También recomendamos el texto [“Confines históricos del acceso abierto latinoamericano”](https://www.clacso.org/wp-content/uploads/2022/01/Conocimiento-abierto.pdf#V6_Conocimiento%20abierto%20en%20Am%E9rica%20Latina.indd%3A.115367%3A191974) (páginas 79-115 del libro en PDF).
+
+Y algunos recursos adicionales, para quienes se animen a leer más sobre la producción científica abierta:
+- El artículo [OLIVA: La Producción Científica Indexada en América Latina. Diversidad Disciplinar, Colaboración Institucional y Multilingüismo en SciELO y Redalyc (1995-2018)](https://www.scielo.br/j/dados/a/XxLf5wmZBw97k8yGdbvGDvh/?lang=es#)
+- El capítulo ["Revisión por pares abierta, métricas y evaluación"](https://open-science-training-handbook.github.io/Open-Science-Training-Handbook_ES//02OpenScienceBasics/08OpenPeerReviewMetricsAndEvaluation.html) del libro "Manual de Capacitación sobre Ciencia Abierta".
 
 
 ### ¡Sírvete sin culpa!
