@@ -16,11 +16,6 @@ type: proyectos
 weight: 10
 tags:
   - Proyectos
-
-[content]
-  # Choose which groups/teams of users to display.
-  #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-  user_groups = ["Comunidades amigas"]
 ---
 En la csv,conf,7 presentamos el Panal de Comunidades Amigas, un desarrollo colaborativo en el que buscamos presentar y vincular esfuerzos para confirmar, una vez más, que la ciencia es un trabajo colectivo. 
 
