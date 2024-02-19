@@ -3,7 +3,7 @@ date: "2024-02-08"
 draft: false
 image:
   caption: 
-  alt_text: "NASA TOPS"
+  alt_text: "NASA Earthdata Cloud"
 linktitle: MD-2i2c Análisis reproducible del riesgo de incendios forestales, sequías e inundaciones con NASA Earthdata Cloud
 summary: Análisis reproducible del riesgo de incendios forestales, sequías e inundaciones con NASA Earthdata Cloud. 
 title: Análisis reproducible del riesgo de incendios forestales, sequías e inundaciones con NASA Earthdata Cloud
@@ -31,7 +31,7 @@ La propuesta se enmcarca como una extensión de OpenCore, el currículo sobre ci
 
 ### Más Información
 [Para saber más sobre la Propuesta](https://zenodo.org/records/8212073 "Propuesta")
-[Para saber más de 2i2c](https://2i2c.org/ "https://2i2c.org/")
+[Para saber más de 2i2c](https://2i2c.org/ "web 2i2c")
 [NASA EarthData Cloud Cookbook](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/ "NASA EarthData Cloud Cookbook")
 
 

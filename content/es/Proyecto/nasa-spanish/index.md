@@ -6,7 +6,7 @@ image:
   alt_text: "NASA Spanish"
 linktitle: Ciencia Abierta Accesible
 summary: Formarción de personas de ciencia y técnica hispanohablantes en NASA TOPS. 
-title: Ciencia Abierta Accesible: Formarción de personas de ciencia y técnica hispanohablantes en NASA TOPS
+title: Ciencia Abierta Accesible. Formarción de personas de ciencia y técnica hispanohablantes en NASA TOPS
 spellcheck: true
 authors: 
     - 
