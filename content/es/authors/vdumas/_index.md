@@ -19,7 +19,7 @@ interests:
  - Impactos socioambientales de la IA
  - Adaptación al cambio climático
 name: Victoria Gisel Dumas
-role: Colaboradora Externo
+role: Colaboradora Externa
 weight: 1
 organizations:
 - name: 
