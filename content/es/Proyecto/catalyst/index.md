@@ -4,9 +4,9 @@ draft: false
 image:
   caption: 
   alt_text: "Mapa conceptual proyecto Catalyst"
-linktitle: Mapeo de Comunidades, Organizaciones y Eventos de Ciencia Abierta en Latinoamérica
-summary: Repositorio colaborativo para América Latina que reúna información relevante y accesible sobre eventos, oportunidades de financiación, talleres, cursos, comunidades y organizaciones de ciencia abierta en español. 
-title: Mapeo de Comunidades, Organizaciones y Eventos de Ciencia Abierta en Latinoamérica
+linktitle: Proyecto Catalyst
+summary: Servicio comunitario de infraestructura en la nube. 
+title: Proyecto Catalyst. Servicio comunitario de infraestructura en la nube 
 spellcheck: true
 authors: 
     - 

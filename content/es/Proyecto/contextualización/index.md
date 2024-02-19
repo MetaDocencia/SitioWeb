@@ -3,10 +3,10 @@ date: "2024-02-08"
 draft: false
 image:
   caption: 
-  alt_text: "Ilustración de personas trabajando en equipo de manera armoniosa"
-linktitle: Mapeo de Comunidades, Organizaciones y Eventos de Ciencia Abierta en Latinoamérica
-summary: Repositorio colaborativo para América Latina que reúna información relevante y accesible sobre eventos, oportunidades de financiación, talleres, cursos, comunidades y organizaciones de ciencia abierta en español. 
-title: Mapeo de Comunidades, Organizaciones y Eventos de Ciencia Abierta en Latinoamérica
+  alt_text: "NASA TOPS"
+linktitle: Contextualización
+summary: Contextualización. 
+title: Contextualización
 spellcheck: true
 authors: 
     - 
