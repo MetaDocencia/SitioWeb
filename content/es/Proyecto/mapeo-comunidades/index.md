@@ -18,13 +18,13 @@ tags:
   - Proyectos
 ---
 
+Esta propuesta, ideada por Patricia Loto, Jesica Formoso e Irene Vazano, consiste en una aplicación interactiva desarrollada con el paquete Shiny del lenguaje de programación R para disponibilizar información relacionada con recursos, eventos, talleres, oportunidades de financiamiento y comunidades de ciencia abierta en América Latina. Este proyecto nació a comienzos del año 2023 a partir de nuestro deseo de orientar nuestra práctica hacia la ciencia abierta con una mirada local, estará abierto a cualquier persona interesada en acceder a recursos sobre ciencia abierta, conectar con otros actores regionales y locales, o incluso participar en la promoción de prácticas abiertas.
 
+Resultados esperados:
 
-Este proyecto nació a comienzos del año 2023 a partir de nuestro deseo de orientar nuestra práctica hacia la ciencia abierta con una mirada local. Nos propusimos crear un repositorio colaborativo que reuniera información sobre recursos, eventos y comunidades relacionadas con la ciencia abierta en la región. Este repositorio estará abierto a cualquier persona interesada en acceder a recursos sobre ciencia abierta, conectar con otros actores regionales y locales, o incluso participar en la promoción de prácticas abiertas. Nuestra visión es desarrollar un repositorio accesible y útil que fomente la colaboración y el intercambio de conocimientos en el ámbito de la ciencia abierta, apoyando así el crecimiento de esta práctica en la región.
-
-### VISIÓN
-
-Nos proponemos hacer disponible información relevante sobre recursos, eventos y comunidades de ciencia abierta en América Latina a través de un repositorio colaborativo. Este repositorio estará al alcance de cualquier persona interesada en recursos sobre ciencia abierta y en conectar con otros actores regionales y locales en América Latina, así como para aquellos que deseen promover prácticas abiertas. De esta manera, buscamos visibilizar la diversidad de iniciativas y crear redes de contacto que enriquezcan el ejercicio de la ciencia abierta en América Latina.
+* Disponibilizar información relacionada con recursos, eventos y comunidades de ciencia abierta en América Latina
+* Almacenar y centralizar información actualizada y curada que sea de fácil acceso a cualquier persona interesada en la temática
+* Visibilizar la diversidad de iniciativas e incluso generar redes de contacto que enriquezcan el ejercicio de la ciencia abierta en la región
 
 ### MOTIVACIÓN
 
@@ -46,7 +46,7 @@ Reconocemos la importancia de apoyar a la próxima generación de científicos, 
 
 ### RECURSOS
 [Formulario](https://bit.ly/formulario_ciencia_abierta "formulario")
-La aplicación fue desarrollada con el paquete [shiny](https://jformoso.shinyapps.io/Mapeo_de_comunidades/ "shinyapp"). *Por el momento en la app se pueden realizar búsquedas por país, por tipo de organización y área temática. A futuro, queremos mejorar las funcionalidades de la app como también incrementar la cantidad de información disponible. Respecto a las mejoras de la app, tenemos la intención de mostrar estadísticas sobre los datos recolectados tales como la cantidad de comunidades de prácticas por país o el porcentaje  de recursos disponibles por tipo o categoría. Y en cuanto a incrementar los datos de nuestra base, tenemos disponible un formulario mediante el cual se pueden sumar o sugerir recursos.*   
+La aplicación fue desarrollada con el paquete [shiny](https://jformoso.shinyapps.io/Mapeo_de_comunidades/ "shinyapp"). 
 
 
 
