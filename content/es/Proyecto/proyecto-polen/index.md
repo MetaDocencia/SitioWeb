@@ -5,7 +5,7 @@ image:
   caption: 
   alt_text: ""
 linktitle: Proyecto Polen
-summary: Proyecto Polen
+summary: Caminos comunitarios para formar representantes de MetaDocencia en distintas comunidades, redes y eventos
 title: Proyecto Polen
 spellcheck: true
 authors: 
@@ -13,7 +13,7 @@ authors:
     - 
     - 
 type: proyectos
-weight: 40
+weight: 60
 tags:
   - Proyectos
 ---

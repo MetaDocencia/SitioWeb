@@ -5,8 +5,8 @@ image:
   caption: 
   alt_text: "NASA Spanish"
 linktitle: Ciencia Abierta Accesible
-summary: Formarción de personas de ciencia y técnica hispanohablantes en NASA TOPS. 
-title: Ciencia Abierta Accesible. Formarción de personas de ciencia y técnica hispanohablantes en NASA TOPS
+summary: Formación de personas de ciencia y técnica hispanohablantes en NASA TOPS. 
+title: Ciencia Abierta Accesible
 spellcheck: true
 authors: 
     - 
@@ -32,7 +32,8 @@ Nuestra propuesta incluye la formación en ciencia abierta por cohortes virtuale
 ### Más Información
 [Para saber más sobre la Propuesta](https://zenodo.org/records/8215456 "Propuesta")
 
-*Si te interesa participar de las cohortes de formación en ciencia abierta de NASA-TOPS en idioma inglés, por favor contacta a nuestra comunidad amiga OLS (link a OLS).*
+*Si te interesa participar de las cohortes de formación en ciencia abierta de NASA-TOPS en idioma inglés, por favor contacta a nuestra comunidad amiga [OLS] (https://openlifesci.org/ "OLS").*
+*If you're interested in participating in the NASA-TOPS Open Science 101 virtual cohorts in English, please contact our friend community [OLS] (https://openlifesci.org/ "OLS").*
 
 
 

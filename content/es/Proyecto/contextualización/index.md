@@ -13,7 +13,7 @@ authors:
     - 
     - 
 type: proyectos
-weight: 80
+weight: 30
 tags:
   - Proyectos
 ---
