@@ -4,9 +4,9 @@ draft: false
 image:
   caption: 
   alt_text: "Ilustración de personas trabajando en equipo de manera armoniosa"
-linktitle: Mapeo de Comunidades, Organizaciones y Eventos de Ciencia Abierta en Latinoamérica
-summary: Repositorio colaborativo para América Latina que reúna información relevante y accesible sobre eventos, oportunidades de financiación, talleres, cursos, comunidades y organizaciones de ciencia abierta en español. 
-title: Mapeo de Comunidades, Organizaciones y Eventos de Ciencia Abierta en Latinoamérica
+linktitle: Formación en Ciencia Abierta en ingles NASA TOPS OLS
+summary: Formación en Ciencia Abierta en ingles NASA TOPS OLS. 
+title: Formación en Ciencia Abierta en ingles NASA TOPS OLS
 spellcheck: true
 authors: 
     - 
@@ -18,35 +18,13 @@ tags:
   - Proyectos
 ---
 
+MetaDocencia colaboró con la comunidad amiga OLS (https://openlifesci.org/) en la formulación de la propuesta Open Science Accesible: Teaching TOPS OpenCore in English. Se trata de una iniciativa hermanada con nuestra propuesta "", ambas financiadas por la NASA en el marco del programa Transform to Open Science (TOPS) para apoyar el avance de la ciencia hacia la apertura.
 
+Esta formación busca impulsar que la cultura académica vea a la ciencia abierta como un elemento esencial, en vez de un "extra" que suele omitirse porque demanda tiempo y ofrece pocas recompensas. Al integrar las prácticas de la ciencia abierta en el trabajo diario de los científicos, el objetivo de la propuesta es que avancen hacia un intercambio abierto y responsable como el mínimo esperable, de forma similar a como la ciencia considera los artículos y la revisión por pares: una parte esencial del proceso científico.
 
-Este proyecto nació a comienzos del año 2023 a partir de nuestro deseo de orientar nuestra práctica hacia la ciencia abierta con una mirada local. Nos propusimos crear un repositorio colaborativo que reuniera información sobre recursos, eventos y comunidades relacionadas con la ciencia abierta en la región. Este repositorio estará abierto a cualquier persona interesada en acceder a recursos sobre ciencia abierta, conectar con otros actores regionales y locales, o incluso participar en la promoción de prácticas abiertas. Nuestra visión es desarrollar un repositorio accesible y útil que fomente la colaboración y el intercambio de conocimientos en el ámbito de la ciencia abierta, apoyando así el crecimiento de esta práctica en la región.
+La propuesta incluye la formación en ciencia abierta por cohortes virtuales de 6 semanas, ofrecidas en inglés y articuladas a partir de los cinco módulos de Open Science 101. Puede leer el documento de la propuesta en nuestra comunidad en Zenodo: https://zenodo.org/doi/10.5281/zenodo.8250978.
 
-### VISIÓN
-
-Nos proponemos hacer disponible información relevante sobre recursos, eventos y comunidades de ciencia abierta en América Latina a través de un repositorio colaborativo. Este repositorio estará al alcance de cualquier persona interesada en recursos sobre ciencia abierta y en conectar con otros actores regionales y locales en América Latina, así como para aquellos que deseen promover prácticas abiertas. De esta manera, buscamos visibilizar la diversidad de iniciativas y crear redes de contacto que enriquezcan el ejercicio de la ciencia abierta en América Latina.
-
-### MOTIVACIÓN
-
-#### Promover la Colaboración y el Networking
-
-El repositorio como punto de encuentro virtual para investigadores, instituciones y organizaciones ofrece un directorio completo de comunidades de ciencia abierta. facilitando el networking, promoviendo colaboraciones interdisciplinarias y el intercambio de mejores prácticas, eliminando barreras geográficas y fomentando la difusión del conocimiento.
-
-#### Mostrar las Contribuciones Científicas de América Latina
-
-Será una plataforma para destacar contribuciones significativas realizadas en la región, haciendo que sea fácilmente accesible para la comunidad científica en general. Al centralizar información sobre comunidades, recursos, eventos y oportunidades de financiamiento, el repositorio aumentará la visibilidad y el reconocimiento de los logros científicos de la región.
-
-#### Facilitar el Acceso a los Recursos
-
-El repositorio abordará desafíos como acceso limitado a financiamiento, infraestructura y oportunidades de capacitación al proporcionar una colección curada de recursos, incluidas bases de datos de financiamiento, revistas de acceso abierto, repositorios de datos y materiales educativos, sirviendo como fuente de información para investigadores e instituciones para adoptar prácticas de ciencia abierta de manera más efectiva.
-
-#### Empoderar a los Investigadores en Etapa Inicial
-
-Reconocemos la importancia de apoyar a la próxima generación de científicos, proporcionando recursos y programas de mentoría dedicados para respaldar su desarrollo. Al conectarlos con investigadores establecidos y brindar orientación sobre metodologías de ciencia abierta, el repositorio disminuirá la brecha entre científicos experimentados y emergentes, promoviendo así el crecimiento de la ciencia abierta en la región.
-
-### RECURSOS
-[Formulario](https://bit.ly/formulario_ciencia_abierta "formulario")
-La aplicación fue desarrollada con el paquete [shiny](https://jformoso.shinyapps.io/Mapeo_de_comunidades/ "shinyapp"). *Por el momento en la app se pueden realizar búsquedas por país, por tipo de organización y área temática. A futuro, queremos mejorar las funcionalidades de la app como también incrementar la cantidad de información disponible. Respecto a las mejoras de la app, tenemos la intención de mostrar estadísticas sobre los datos recolectados tales como la cantidad de comunidades de prácticas por país o el porcentaje  de recursos disponibles por tipo o categoría. Y en cuanto a incrementar los datos de nuestra base, tenemos disponible un formulario mediante el cual se pueden sumar o sugerir recursos.*   
+Para inscripciones y más información, visite la página del proyecto en la web de OLS: https://openlifesci.org/nasa/ 
 
 
 

@@ -32,6 +32,9 @@ La propuesta se enmcarca como una extensión de OpenCore, el currículo sobre ci
 ### Más Información
 [Para saber más sobre la Propuesta](https://zenodo.org/records/8212073 "Propuesta")
 [Para saber más de 2i2c](https://2i2c.org/ "https://2i2c.org/")
-[NASA EarthData Cloud Cookbook](https://zenodo.org/records/7786711 "NASA EarthData Cloud Cookbook")
+[NASA EarthData Cloud Cookbook](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/ "NASA EarthData Cloud Cookbook")
+
+
+
 
 
