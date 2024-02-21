@@ -3,7 +3,7 @@ date: "2024-02-21"
 draft: false
 type: page
 title: Explorando NASA-TOPS en comunidad el “ethos” de la Ciencia Abierta
-summary: Como te contamos algunos meses atrás, en 2024 MetaDocencia empezará a enseñar principios de Ciencia Abierta en español y a través de cohortes virtuales de varias semanas. Para prepararnos, invitamos a todas las personas de la comunidad de MetaDocencia a que estudiemos juntas los contenidos originales en inglés del curso Open Science 101, parte de la iniciativa TOPS (Transform to Open Science) organizada por la NASA. Preparamos una serie de artículos que resumen nuestro aprendizaje en grupo sobre estos contenidos. En esta primera edición compartimos algunas reflexiones que expanden lo aprendido sobre el “Ethos” de la Ciencia Abierta.
+summary: Reflexiones que expanden lo aprendido sobre el “Ethos” de la Ciencia Abierta.
 authors:
 - Melissa
 - lacion
