@@ -58,11 +58,6 @@ url = ""
   name = "Cursos"
   url = "cursos/"
   parent = "Qué hacemos"
-    weight = 10
-  [[main]]
-  name = "Cursos"
-  url = "cursos/"
-  parent = "Qué hacemos"
     weight = 20
   [[main]]
   name = "Eventos"
@@ -78,8 +73,8 @@ url = ""
   name = "Proyectos"
   url = "proyectos/"
   parent = "Qué hacemos"
-    weight = 50
- # [[main]]
+    weight = 10
+ # [[main]] 
  # name = "Inscripciones"
  # url = ""
  # parent = "Qué hacemos"
