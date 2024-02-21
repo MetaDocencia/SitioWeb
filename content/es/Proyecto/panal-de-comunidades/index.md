@@ -8,7 +8,7 @@ linktitle: Panal de Comunidades Amigas
 summary: Desarrollo colaborativo en el que buscamos presentar y vincular esfuerzos para confirmar, una vez más, que la ciencia es un trabajo colectivo.
 title: Panal de Comunidades Amigas
 spellcheck: true
-type: proyectos
+type: widget_page
 weight: 70
 tags:
   - Proyectos
