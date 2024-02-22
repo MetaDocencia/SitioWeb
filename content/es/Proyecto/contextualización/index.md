@@ -5,7 +5,7 @@ image:
   caption: 
   alt_text: "NASA TOPS"
 linktitle: Contextualización
-summary: Contextualización. 
+summary: Proyecto de contextualización de recursos accesibles para comunidades hispanohablantes. 
 title: Contextualización
 spellcheck: true
 authors: 

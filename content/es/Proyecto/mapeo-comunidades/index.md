@@ -42,7 +42,6 @@ El repositorio abordará desafíos como acceso limitado a financiamiento, infrae
 Reconocemos la importancia de apoyar a la próxima generación de científicos, proporcionando recursos y programas de mentoría dedicados para respaldar su desarrollo. Al conectarlos con investigadores establecidos y brindar orientación sobre metodologías de ciencia abierta, el repositorio disminuirá la brecha entre científicos experimentados y emergentes, promoviendo así el crecimiento de la ciencia abierta en la región.
 
 ### Más información
-[Formulario](https://bit.ly/formulario_ciencia_abierta "formulario")
 Puedes leer más acerca de este proyecto en este [blogpost de OLS](https://openlifesci.org/posts/2023/07/17/ols-7-mapping-open-science-communities-LATAM/ "Blogpost sobre el proyecto"). 
 
 
