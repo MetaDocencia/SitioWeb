@@ -9,9 +9,6 @@ summary: Contextualización.
 title: Contextualización
 spellcheck: true
 authors: 
-    - 
-    - 
-    - 
 type: proyectos
 weight: 30
 tags:

@@ -9,9 +9,6 @@ summary: Formación de personas de ciencia y técnica hispanohablantes en NASA T
 title: Ciencia Abierta Accesible
 spellcheck: true
 authors: 
-    - 
-    - 
-    - 
 type: proyectos
 weight: 10
 tags:

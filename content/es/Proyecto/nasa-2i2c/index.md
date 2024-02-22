@@ -9,9 +9,6 @@ summary: Análisis reproducible del riesgo de incendios forestales, sequías e i
 title: NASA Earthdata Cloud
 spellcheck: true
 authors: 
-    - 
-    - 
-    - 
 type: proyectos
 weight: 50
 tags:
@@ -30,9 +27,9 @@ Resultados esperados
 La propuesta se enmcarca como una extensión de OpenCore, el currículo sobre ciencia abierta de la NASA. Todos los materiales del curso permanecerán abiertos, disponibles en inglés y español, y con contenidos accesibles en distintas dimensiones. La propuesta se ofrece como una colección de Jupyter notebooks en GitHub, con material de apoyo para impartir el curso usando la nube ya sea de forma presencial o presencial. Después de completar este módulo, los alumnos podrán adaptar y reutilizar los escenarios para sus propios objetivos de ciencia abierta referidos a riesgos ambientales como incendios forestales, sequías e inundaciones, que son comunes en todo el mundo pero requieren ser analizados a nivel regional.
 
 ### Más Información
-[Para saber más sobre la Propuesta](https://zenodo.org/records/8212073 "Propuesta")
-[Para saber más de 2i2c](https://2i2c.org/ "web 2i2c")
-[NASA EarthData Cloud Cookbook](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/ "NASA EarthData Cloud Cookbook")
+* [Para saber más sobre la Propuesta](https://zenodo.org/records/8212073 "Propuesta")
+* [Para saber más de 2i2c](https://2i2c.org/ "web 2i2c")
+* [NASA EarthData Cloud Cookbook](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/ "NASA EarthData Cloud Cookbook")
 
 
 

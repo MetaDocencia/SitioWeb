@@ -9,9 +9,6 @@ summary: Proceso de aprendizaje colectivo y colaborativo para elaborar un modelo
 title: Diseño colaborativo de nuestra Gobernanza
 spellcheck: true
 authors: 
-    - 
-    - 
-    - 
 type: proyectos
 weight: 90
 tags:

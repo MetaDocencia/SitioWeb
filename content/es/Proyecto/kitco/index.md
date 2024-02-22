@@ -9,9 +9,6 @@ summary: Instrucciones y pautas para usar y adaptar modelos y plantillas útiles
 title: Kit para Cohortes
 spellcheck: true
 authors: 
-    - 
-    - 
-    - 
 type: proyectos
 weight: 80
 tags:

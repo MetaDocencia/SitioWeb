@@ -9,9 +9,6 @@ summary: Repositorio colaborativo para América Latina que reúna información r
 title: Mapeo de Comunidades, Organizaciones y Eventos de Ciencia Abierta en Latinoamérica
 spellcheck: true
 authors: 
-    - 
-    - 
-    - 
 type: proyectos
 weight: 20
 tags:
