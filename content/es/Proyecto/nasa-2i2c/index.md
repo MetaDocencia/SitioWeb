@@ -3,7 +3,7 @@ date: "2024-02-08"
 draft: false
 image:
   caption: 
-  alt_text: "NASA Earthdata Cloud"
+  alt_text: "NASA Openscapes"
 linktitle: MD-2i2c Análisis reproducible del riesgo de incendios forestales, sequías e inundaciones con NASA Earthdata Cloud
 summary: Análisis reproducible del riesgo de incendios forestales, sequías e inundaciones con NASA Earthdata Cloud. 
 title: NASA Earthdata Cloud
