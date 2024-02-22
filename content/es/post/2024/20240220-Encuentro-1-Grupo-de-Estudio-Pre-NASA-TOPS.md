@@ -2,7 +2,7 @@
 date: "2024-02-21"
 draft: false
 type: page
-title: Explorando NASA-TOPS en comunidad el “ethos” de la Ciencia Abierta
+title: Explorando NASA-TOPS en comunidad. El “ethos” de la Ciencia Abierta
 summary: Reflexiones que expanden lo aprendido sobre el “Ethos” de la Ciencia Abierta.
 authors:
 - Melissa
