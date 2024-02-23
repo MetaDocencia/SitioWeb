@@ -29,7 +29,7 @@ Esperamos que este Kit de Cohortes (KitCo) contribuya a que otras comunidades pu
 
 
 ### RECURSOS
-[doc](https://openlifesci.org/openseeds/ "formulario")
+[Kit para Cohortes](https://zenodo.org/records/10689695)
 
 
 
