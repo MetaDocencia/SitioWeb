@@ -2,7 +2,7 @@
 date: "2024-02-23"
 draft: false
 linktitle: Encuentro 6
-summary: Encuentro 6 - 14-02 17 hs. (UTC-3). 
+summary: Encuentro 6 - 06-03 17 hs. (UTC-3). 
 title: "Encuentro final: qué aprendimos y qué se viene"
 authors:
   - MetaDocencia
