@@ -31,6 +31,7 @@ Melissa Black aporta una valiosa experiencia en investigación sobre conectivida
 En su rol como Coordinadora de Proyectos, organiza la "Misión Exploración" de Open Science 101, un grupo de estudio de los contenidos de NASA-TOPS con mirada local.
 
 Además, Melissa aporta como:
+
 - Co-líder del equipo de traducción de Turing Way.
 - Experta en la elaboración del currículo de NASA TOPS Open Science 101.
 - Mentoría y participación como mentora en OLS y Outreachy.
