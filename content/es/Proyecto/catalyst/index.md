@@ -32,9 +32,9 @@ Al unirse al Proyecto Catalyst, usted y su comunidad de usuarios tendrán acceso
 Desde MetaDocencia tenemos el rol clave de identificar y contactar comunidades latinoamericanas que puedan beneficiarse de participar de esta prueba piloto. En los últimos meses estuvimos trabajando en contactar más participantes para el proyecto y tuvimos la posibilidad de conocer un poco más sobre su trabajo y tender puentes. Esto es clave para otro proyecto MetaDocente, el mapeo de comunidades.
 
 ### Más información
-[Página web de Catalyst](https://catalystproject.cloud/index.html "Página web del proyecto Catalyst")
-[Formulario de registro al proyecto Catalyst](https://catalystproject.cloud/register.html "Formulario de registro")
-[Blogpost sobre proyecto Catalyst](https://www.metadocencia.org/post/20231215-comunidadescatalyst/ "MetaDocencia le da la bienvenida a las primeras comunidades latinoamericanas que participan en el proyecto Catalyst")
+* [Página web de Catalyst](https://catalystproject.cloud/index.html "Página web del proyecto Catalyst")
+* [Formulario de registro al proyecto Catalyst](https://catalystproject.cloud/register.html "Formulario de registro")
+* [Blogpost sobre proyecto Catalyst](https://www.metadocencia.org/post/20231215-comunidadescatalyst/ "MetaDocencia le da la bienvenida a las primeras comunidades latinoamericanas que participan en el proyecto Catalyst")
 
 
 
