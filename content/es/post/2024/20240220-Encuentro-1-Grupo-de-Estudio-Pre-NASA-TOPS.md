@@ -2,7 +2,7 @@
 date: "2024-02-21"
 draft: false
 type: page
-title: Explorando NASA-TOPS en comunidad. El “ethos” de la Ciencia Abierta
+title: Explorando NASA-TOPS en comunidad: el “ethos” de la Ciencia Abierta
 summary: Reflexiones que expanden lo aprendido sobre el “Ethos” de la Ciencia Abierta.
 authors:
 - Melissa
@@ -23,7 +23,7 @@ Como te [contamos](https://www.metadocencia.org/post/nasatops10puntos/) algunos 
 
 Entre enero y marzo de 2024 organizamos un [grupo de estudio](https://www.metadocencia.org/eventos/) con cinco encuentros correspondientes a los cinco módulos de Open Science 101 y un encuentro de cierre. En cada uno de estos encuentros estamos revisando distintos temas que componen el mundo de la Ciencia Abierta: sus ideas centrales, las herramientas más utilizadas, cómo manejar datos y código abiertos, y mucho más.
 
-Siempre lo hacemos con una mirada local, pensando en situaciones y ejemplos de nuestra propia vivencia en América Latina. Además, seleccionamos cuidadosamente materiales de apoyo (textos, repositorios, mapas, videos etc.) para enriquecer la participación y hacer dialogar la perspectiva regional con los principios presentados en el curso. Felizmente, nuestra comunidad se interesa muchísimo por el asunto y sigue conversando activamente en nuestro [Slack](https://w3id.org/metadocencia/slack) (¡sumate a nuestro canal #nasa-tops abierto a todas las personas!), planteando preguntas y compartiendo sus insignias al completar cada módulo.
+Siempre lo hacemos con una mirada local, pensando en situaciones y ejemplos de nuestra propia vivencia en América Latina. Además, seleccionamos cuidadosamente materiales de apoyo (textos, repositorios, mapas, videos etc.) para enriquecer la participación y hacer dialogar la perspectiva regional con los principios presentados en el curso. Felizmente, nuestra comunidad se interesa muchísimo por el asunto y sigue conversando activamente en nuestro [Slack](https://w3id.org/metadocencia/slack) (¡súmate a nuestro canal #nasa-tops abierto a todas las personas!), planteando preguntas y compartiendo sus insignias al completar cada módulo.
 
 Nos alegramos mucho por haber creado este espacio de intercambio tan rico y por estar atrayendo personas de distintas geografías y especialidades – muchas, inclusive, ya con extensa experiencia en Ciencia Abierta. A continuación, compartimos qué aprendimos del primer encuentro.
 
