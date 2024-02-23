@@ -9,7 +9,7 @@ authors:
 type: eventos
 weight: 50
 tags:
-  - Próximos encuentros
+  - Encuentros anteriores
 <!--- featured_image: https://www.metadocencia.org/img/blabla.png --->
 ---
 
@@ -17,9 +17,9 @@ tags:
 
 ### Sobre el encuentro
 
-El quinto encuentro del Grupo de Estudio Pre NASA-TOPS se llevará a cabo el **miércoles 21 de febrero de 17 a 18 (UTC-3)**. Estará coordinado por Jesica Formoso con el apoyo de Paola Lefer y Umut Pajaro Velasquez.
+El quinto encuentro del Grupo de Estudio Pre NASA-TOPS se llevó a cabo el **miércoles 21 de febrero de 17 a 18 (UTC-3)**. Estuvo coordinado por Jesica Formoso con el apoyo de Paola Lefer y Umut Pajaro Velasquez.
 
-Además de repasar conceptos y herramientas relacionadas a los resultados científicos abiertos, discutiremos las dimensiones del acceso abierto en América Latina.
+Además de repasar conceptos y herramientas relacionadas a los resultados científicos abiertos, discutimos las dimensiones del acceso abierto en América Latina.
 
 <!--- ### Materiales del evento
 
