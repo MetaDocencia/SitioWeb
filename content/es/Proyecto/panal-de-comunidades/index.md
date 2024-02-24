@@ -11,7 +11,7 @@ spellcheck: true
 type: proyectos
 weight: 70
 tags:
-  - Proyectos
+  - proyectos
   - proyectos de metadocencia
 ---
 En la csv,conf,7 presentamos el Panal de Comunidades Amigas, un desarrollo colaborativo en el que buscamos presentar y vincular esfuerzos para confirmar, una vez más, que la ciencia es un trabajo colectivo. 

@@ -12,7 +12,7 @@ authors:
 type: proyectos
 weight: 80
 tags:
-  - Proyectos
+  - proyectos
   - proyectos de metadocencia
 ---
 
