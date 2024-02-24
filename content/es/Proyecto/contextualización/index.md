@@ -13,6 +13,7 @@ type: proyectos
 weight: 30
 tags:
   - Proyectos
+  - Proyectos de MetaDocencia
 ---
 
 Como parte de nuestro trabajo para que la producción, la comunicación y la aplicación de saberes científicos y técnicos sean globalmente equitativas, es fundamental poder compartir recursos accesibles para comunidades hispanohablantes.

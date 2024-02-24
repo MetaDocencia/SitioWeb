@@ -13,6 +13,7 @@ type: proyectos
 weight: 90
 tags:
   - Proyectos
+  - Proyectos de MetaDocencia
 ---
 
 ###  Diseño colaborativo de nuestra Gobernanza

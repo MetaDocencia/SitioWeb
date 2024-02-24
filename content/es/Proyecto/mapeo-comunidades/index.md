@@ -13,6 +13,7 @@ type: proyectos
 weight: 20
 tags:
   - Proyectos
+  - Proyectos de MetaDocencia
 ---
 
 Esta propuesta, ideada por Patricia Loto, Jesica Formoso e Irene Vazano, consiste en una aplicación interactiva desarrollada con el paquete Shiny del lenguaje de programación R para disponibilizar información relacionada con recursos, eventos, talleres, oportunidades de financiamiento y comunidades de ciencia abierta en América Latina. Este proyecto nació a comienzos del año 2023 a partir de nuestro deseo de orientar nuestra práctica hacia la ciencia abierta con una mirada local, estará abierto a cualquier persona interesada en acceder a recursos sobre ciencia abierta, conectar con otros actores regionales y locales, o incluso participar en la promoción de prácticas abiertas. Fue desarrollada en el contexto de la [cohorte 7 de OLS] (https://openlifesci.org/openseeds/ols-7/projects-participants.html#projects "Proyectos de la cohorte 7 de OLS").
