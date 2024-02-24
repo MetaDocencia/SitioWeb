@@ -22,8 +22,16 @@ subtitle = ""
   filter_default = 0
    
   [[content.filter_button]]
-    name = "Proyectos"
-    tag = "Proyectos"
+    name = "Ver todos los proyectos"
+    tag = "proyectos"
+
+  [[content.filter_button]]
+    name = "Proyectos creados por MetaDocencia"
+    tag = "proyectos de metadocencia"
+
+  [[content.filter_button]]
+    name = "Proyectos en colaboracion con otras organizaciones"
+    tag = "proyectos extra metadocencia"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
