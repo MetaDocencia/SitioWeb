@@ -26,11 +26,11 @@ subtitle = ""
     tag = "proyectos"
 
   [[content.filter_button]]
-    name = "Proyectos creados por MetaDocencia"
+    name = "Creados por MetaDocencia"
     tag = "proyectos de metadocencia"
 
   [[content.filter_button]]
-    name = "Proyectos en colaboracion con otras organizaciones"
+    name = "En colaboración con otras organizaciones"
     tag = "proyectos extra metadocencia"
 
 [design]

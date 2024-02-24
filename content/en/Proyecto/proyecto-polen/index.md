@@ -12,7 +12,8 @@ authors:
 type: proyectos
 weight: 60
 tags:
-  - Proyectos
+  - projects
+  - metadocencia projects
 ---
 
 This project was born at the beginning of 2023 from our desire to pave community paths to train representatives of MetaDocencia in different communities, networks, and events; offer community tours to broaden participation in Open Science communities, and recognize those who participate in the project for their contribution to the growth of our community.

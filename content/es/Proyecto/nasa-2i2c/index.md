@@ -12,8 +12,8 @@ authors:
 type: proyectos
 weight: 50
 tags:
-  - Proyectos
-  - Proyectos extra MetaDocencia
+  - proyectos
+  - proyectos extra metadocencia
 ---
 
 En el marco de la iniciativa Transform to Open Science (TOPS), un programa integral de actividades de la NASA para apoyar el avance de la ciencia hacia la apertura, MetaDocencia en conjunto con la comunidad amiga 2i2c se comprometió a desarrollar contenidos educativos específicos para TOPS ScienceCore. Esta propuesta reúne módulos curriculares asociados a distintas disciplinas específicas, con el objetivo de aumentar el conocimiento y las habilidades necesarios para aprovechar las herramientas y tecnologías abiertas de NASA para la investigación de la Tierra y el espacio. Nuestro módulo formativo se orienta al análisis de datos satelitales abiertos y útiles para entender y predecir inundaciones, incendios forestales y sequías.

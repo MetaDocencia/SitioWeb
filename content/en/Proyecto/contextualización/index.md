@@ -12,7 +12,8 @@ authors:
 type: proyectos
 weight: 30
 tags:
-  - Proyectos
+  - projects
+  - metadocencia projects
 ---
 
 As part of our efforts to ensure that the production, communication, and application of scientific and technical knowledge are globally equitable, it is essential to be able to share accessible resources for Spanish-speaking communities.

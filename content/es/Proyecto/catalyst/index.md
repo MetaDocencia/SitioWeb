@@ -12,8 +12,8 @@ authors:
 type: proyectos
 weight: 40
 tags:
-  - Proyectos
-  - Proyectos extra MetaDocencia
+  - proyectos
+  - proyectos extra metadocencia
 ---
 
 Nuestro objetivo es crear un servicio comunitario de infraestructura en la nube y ofrecer flujos de trabajo en biociencias. Promoveremos como valores prácticas comunitarias abiertas e inclusivas, la infraestructura que permita estas prácticas y un enfoque de “formación de formadores”, que capacite a líderes de comunidades locales para compartir su experiencia en infraestructura en la nube con otras personas de sus comunidades. Nos centraremos en comunidades de América Latina y África, y esperamos aprender cómo este modelo podría extenderse a otras comunidades globales históricamente marginadas de los proyectos de infraestructura científica a gran escala.

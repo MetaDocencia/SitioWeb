@@ -12,7 +12,8 @@ authors:
 type: proyectos
 weight: 90
 tags:
-  - Proyectos
+  - projects
+  - metadocencia projects
 ---
 
 In 2022, MetaDocencia embarked on a process of collective and collaborative learning to design our governance. The goal was to develop a transparent model for strategic decision-making, designed from and for our cultural and regional context.

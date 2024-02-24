@@ -13,7 +13,7 @@ type: proyectos
 weight: 60
 tags:
   - Proyectos
-  - Proyectos de MetaDocencia
+  - proyectos de metadocencia
 ---
 
 Este proyecto nació a comienzos del año 2023 a partir de nuestro deseo de abrir caminos comunitarios para formar representantes de MetaDocencia en distintas comunidades, redes y eventos; ofrecer recorridos comunitarios para ampliar la participación en comunidades de Ciencia Abierta y dar reconocimiento a quienes participen del proyecto por su contribución al crecimiento de nuestra comunidad 

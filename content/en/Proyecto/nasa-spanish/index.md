@@ -12,7 +12,8 @@ authors:
 type: proyectos
 weight: 10
 tags:
-  - Proyectos
+  - projects
+  - metadocencia projects
 ---
 
 As part of the Transform to Open Science (TOPS) initiative, a comprehensive program of activities by NASA to support the advancement of science towards openness, MetaDocencia will train Spanish-speaking science and technical personnel to transform their daily work into open science.

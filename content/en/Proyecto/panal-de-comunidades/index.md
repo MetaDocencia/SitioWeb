@@ -11,10 +11,8 @@ spellcheck: true
 type: proyectos
 weight: 70
 tags:
-  - Proyectos
-content:
-  user_groups:
-    - Comunidades amigas
+  - projects
+  - metadocencia projects
 ---
 At csv,conf,7, we presented the "Panal de Comunidades Amigas" (Friendly Communities Hive), a collaborative effort in which we aim to showcase and connect efforts to reaffirm, once again, that science is collective work.
 
