@@ -4,7 +4,7 @@ draft: false
 image:
   caption: 
   alt_text: "NASA Openscapes"
-linktitle: ScienceCore climaterisk. Determining Climate Risks with NASA Earthdata Cloud
+linktitle: ScienceCore climaterisk
 summary: Determining Climate Risks with NASA Earthdata Cloud. 
 title: ScienceCore climaterisk
 spellcheck: true
