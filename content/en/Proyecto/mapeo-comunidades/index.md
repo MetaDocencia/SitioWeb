@@ -42,7 +42,7 @@ The repository will address challenges such as limited access to funding, infras
 We recognize the importance of supporting the next generation of scientists by providing dedicated resources and mentoring programs to support their development. By connecting them with established researchers and providing guidance on open science methodologies, the repository will bridge the gap between experienced and emerging scientists, thus promoting the growth of open science in the region.
 
 ### More Information
-You can read more about this project in this [OLS blog post](https://openlifesci.org/posts/2023/07/17/ols-7-mapping-open-science-communities-LATAM/ "Blogpost about the project").
+* You can read more about this project in this [OLS blog post](https://openlifesci.org/posts/2023/07/17/ols-7-mapping-open-science-communities-LATAM/ "Blogpost about the project").
 
 
 

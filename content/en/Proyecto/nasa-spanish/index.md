@@ -18,7 +18,7 @@ tags:
 
 As part of the Transform to Open Science (TOPS) initiative, a comprehensive program of activities by NASA to support the advancement of science towards openness, MetaDocencia will train Spanish-speaking science and technical personnel to transform their daily work into open science.
 
-Our proposal includes open science training through virtual cohorts for Spanish speakers. It will cover the five modules of Open Science 101, and each participant will work with a mentor to discuss the real-world application of knowledge over 6 weeks.
+Our proposal includes Open Science training through virtual cohorts for Spanish speakers. It will cover the five modules of Open Science 101, and each participant will work with a mentor to discuss the real-world application of knowledge over 6 weeks.
 
 ### Objectives
 * Develop contextualized and accessible versions of NASA TOPS' Open Science 101 modules for Spanish-speaking audiences.
