@@ -4,9 +4,9 @@ draft: false
 image:
   caption: 
   alt_text: "NASA Openscapes"
-linktitle: MD-2i2c Reproducible Analysis of Forest Fire Risk, Droughts, and Floods with NASA Earthdata Cloud
-summary: Reproducible Analysis of Forest Fire, Drought, and Flood Risk with NASA Earthdata Cloud. 
-title: NASA Earthdata Cloud
+linktitle: ScienceCore climaterisk. Determining Climate Risks with NASA Earthdata Cloud
+summary: Determining Climate Risks with NASA Earthdata Cloud. 
+title: ScienceCore climaterisk
 spellcheck: true
 authors: 
 type: proyectos

@@ -4,9 +4,9 @@ draft: false
 image:
   caption: 
   alt_text: "NASA ScienceCore
-linktitle: ScienceCore:climaterisk Determinación de riesgos climáticos con la nube de datos terrestres de la NASA 
+linktitle: ScienceCore climaterisk. Determinación de riesgos climáticos con la nube de datos terrestres de la NASA 
 summary: Determinación de riesgos climáticos con la nube de datos terrestres de la NASA 
-title: ScienceCore:climaterisk
+title: ScienceCore climaterisk
 spellcheck: true
 authors: 
 type: proyectos
