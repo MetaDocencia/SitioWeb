@@ -5,8 +5,8 @@ image:
   caption: 
   alt_text: "NASA Openscapes"
 linktitle: ScienceCore climaterisk
-summary: Determining Climate Risks with NASA Earthdata Cloud. 
-title: ScienceCore:climaterisk
+summary: Development of educational content for the determination of climate risks using NASA's terrestrial data cloud.. 
+title: NASA TOPS ScienceCore:climaterisk
 spellcheck: true
 authors: 
 type: proyectos
