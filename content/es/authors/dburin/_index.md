@@ -4,7 +4,6 @@ authors:
 bio: ""
 education: 
  courses:
-  - course: 
 email: ""
 interests:
  - Psicología cognitiva
