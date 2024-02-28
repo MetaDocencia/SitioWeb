@@ -5,9 +5,9 @@ bio: ""
 education: ""
 email: ""
 interests:
- - Psicología cognitiva
- - Neuropsicología
- - Ciencia abierta
+ - Cognitive Psychology
+ - Neuropsychology
+ - Open Science
 name: Débora I. Burin
 role: Outside Contributor
 weight: 1
