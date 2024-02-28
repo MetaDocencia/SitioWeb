@@ -4,14 +4,21 @@ authors:
 bio: ""
 education:
   courses:
+  - course: Diplomada en Ciencia de Datos, Aprendizaje Automático y sus Aplicaciones.
+    institution: FAMAF 
+    year: 2020
   - course: Licenciada en Sistemas de Información.
     institution: Universidad Nacional del Nordeste 
-    year: 
+    year: 2015
 email: "patricialoto@metadocencia.org"
 interests:
-name: Patricia A. Loto
+- Ciencia de Datos
+- Ciencia Abierta
+- Ingeniería de Software
+- Accesibilidad
+name: Patricia Andrea Loto
 weight: 8
-role: Equipo de Accesibilidad
+role: Colaboradora en el proyecto de Mapeo de Recursos de Ciencia Abierta en Latinoamérica y en el proyecto Nasa - 2i2c.
 social:
 - icon: envelope
   icon_pack: fas
@@ -19,9 +26,15 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/patriloto
+- icon: globe
+  icon_pack: fas
+  link: https://patricia-loto.netlify.app/
 - icon: github
   icon_pack: fab
   link: https://github.com/PatriLoto
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/patricia-loto/
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0003-1849-6916
