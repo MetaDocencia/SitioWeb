@@ -2,8 +2,7 @@
 authors:
 - dburin
 bio: ""
-education: 
- courses:
+education: ""
 email: ""
 interests:
  - Psicología cognitiva
