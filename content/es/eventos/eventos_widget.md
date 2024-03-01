@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 55  # Order that this section will appear.
 
-title = "Misión de Exploración hacia la Ciencia Abierta"
-subtitle = "Grupo de Estudio Pre NASA-TOPS"
+title = "Conversatorio sobre Ciencia Abierta"
+subtitle = "Profundizamos el debate"
 
 [content]
   # Page type to display. E.g. project.
@@ -71,28 +71,21 @@ subtitle = "Grupo de Estudio Pre NASA-TOPS"
  css_class = ""
 +++
 <p align="center">
-<img src="https://www.metadocencia.org/img/grupo-estudio-pre-nasa-tops-2024.jpg" alt="Banner Grupo de Estudio Pre NASA-TOPS"/>
+<img src="https://www.metadocencia.org/img/Conversatorios-CA-032024.jpg" alt="Banner Conversatorio sobre Ciencia Abierta" width="600px"/>
 </p>
 
-#### Comenzamos 2024 con la misión de aprender en comunidad. ¡Ven a explorar junto a MetaDocencia los  contenidos sobre Ciencia Abierta que comparte la NASA!
-<!---[https://www.metadocencia.org/post/nasatops10puntos/]--->
+#### Completada la Misión Exploración, ¡les invitamos a seguir profundizando el debate sobre Ciencia Abierta con mirada latinoamericana!
 
-Este año empezaremos a enseñar principios de Ciencia Abierta en español y a través de cohortes virtuales de varias semanas. Para prepararnos, invitamos a todas las personas de la comunidad MetaDocente a que estudiemos juntas los contenidos originales en inglés del curso [Open Science 101](https://openscience101.org/), parte de la iniciativa TOPS (Transform to Open Science) organizada por la NASA.
+Este año empezaremos a enseñar principios de Ciencia Abierta en español y a través de cohortes virtuales de varias semanas. Para prepararnos, durante el mes de febrero completamos colectivamente los contenidos originales en inglés del curso [Open Science 101](https://openscience101.org/), parte de la iniciativa TOPS (Transform to Open Science) organizada por la NASA.
 
-Serán cinco encuentros correspondientes a los cinco módulos y un encuentro de cierre. En cada uno, revisaremos distintos temas que componen el mundo de la Ciencia Abierta: sus ideas centrales, las herramientas más utilizadas, cómo manejar datos y código abiertos, y mucho más. Siempre lo haremos con una mirada local, pensando en situaciones y ejemplos de nuestra propia vivencia en América Latina.
+En respuesta a las ganas de nuestra comunidad de profundizar las discusiones, preparamos un **nuevo ciclo de conversatorios sobre Ciencia Abierta**! En esta serie de encuentros conversaremos sobre distintos temas que rodean a la Ciencia Abierta para intentar comprender colectivamente cómo la aprendemos, como la aplicamos y qué significa para nuestra región. Queremos reconocer sus ventajas y su potencia a través de debatir sobre su alcance y posibilidades.
 
-
-### Qué Sí es este ciclo de encuentros 
-Estos encuentros serán un espacio semanal de aproximadamente una hora, via Zoom, destinado a conversar junto a otras personas acerca del material de los cinco módulos de NASA-TOPS OpenScience 101. Una persona del equipo de MetaDocencia facilitará la conversación. Para sacar mayor provecho, te recomendamos con énfasis que leas el material de cada módulo antes del encuentro y que te unas con ganas de interactuar.
-
-### Qué NO es este ciclo de encuentros
-Este ciclo de encuentros no será un curso ni tendrá una evaluación, ni te acompañará en la certificación en ciencia abierta de la NASA (para eso ofreceremos nuestras cohortes virtuales de formación en ciencia abierta, en español y más adelante en este año!).
 
 ### Horarios e inscripción
-Nuestros encuentros serán los **miércoles de 17 a 18h (UTC-3, hora de Argentina)**.
+Nuestros encuentros serán **todos los miércoles de marzo, de 17 a 18h (UTC-3, hora de Argentina), en español y vía Zoom**. No importa si participaste en nuestras llamadas previas o si te sumarás por primera vez. Todas las personas son bienvenidas en este nuevo ciclo!
 
 
-**> [Formulario de registro para asistir a los eventos](https://docs.google.com/forms/d/e/1FAIpQLSeNC5FAkHDNwvqJr0419ddccLsru7c38EttgbjOw6ar-x84-Q/viewform)**
+**> [Formulario de registro para asistir a los eventos](https://docs.google.com/forms/d/e/1FAIpQLSe2_d08ZLEComUlsUwzHKPhiGcEuN2u1oq1gdvRcAXLfWz8ww/viewform)**
 
 *Todos los datos se manejarán en forma confidencial, sólo podrán ser publicados de forma agregada y anonimizada en reportes sobre el alcance de MetaDocencia.*
 
@@ -101,9 +94,7 @@ Nuestros encuentros serán los **miércoles de 17 a 18h (UTC-3, hora de Argentin
 
 |  Día/hora (UTC-3) | Tema |
 | ---:  | :----------- |
-|Mié 24-01 - 17 a 18 | *Módulo 1: El “Ethos” de la Ciencia Abierta* | 
-|Mié 31-01 - 17 a 18 | *Módulo 2: Herramientas y recursos abiertos* | 
-|Mié 07-02 - 17 a 18 | *Módulo 3: Datos abiertos* |
-|Mié 14-02 - 17 a 18 | *Módulo 4: Código abierto* |
-|Mié 21-02 - 17 a 18 | *Módulo 5: Resultados de investigación abiertos* |
-|Mié 06-03 - 17 a 18 | *Encuentro final: qué aprendimos?/qué nos llevamos?* |
+|Mié 06-03 - 17 a 18 | *Reflexiones finales de los 5 módulos NASA y desafíos de su aplicación en América Latina* | 
+|Mié 13-03 - 17 a 18 | *Acceso Abierto en América Latina, ventajas e implicaciones* | 
+|Mié 20-03 - 17 a 18 | *Datos Abiertos de la investigación científica en América Latina y el nuevo extractivismo* |
+|Mié 27-03 - 17 a 18 | *Aplicación de la Ciencia Abierta en América Latina atendiendo a la justicia epistémica* |
