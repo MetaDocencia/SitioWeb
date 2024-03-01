@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 55  # Order that this section will appear.
 
-title = "Conversatorio sobre Ciencia Abierta"
+title = "Conversatorio de Ciencia Abierta"
 subtitle = "Profundizamos el debate"
 
 [content]
@@ -71,7 +71,7 @@ subtitle = "Profundizamos el debate"
  css_class = ""
 +++
 <p align="center">
-<img src="https://www.metadocencia.org/img/Conversatorios-CA-032024.jpg" alt="Banner Conversatorio sobre Ciencia Abierta" width="700px"/>
+<img src="https://www.metadocencia.org/img/Conversatorio-CA-032024.jpg" alt="Banner Conversatorio sobre Ciencia Abierta" width="800px"/>
 </p>
 
 #### Completada la Misión Exploración, ¡les invitamos a seguir profundizando el debate sobre Ciencia Abierta con mirada latinoamericana!
