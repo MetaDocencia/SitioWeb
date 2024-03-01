@@ -1,9 +1,9 @@
 ---
 date: "2024-02-23"
 draft: false
-linktitle: Encuentro 6
-summary: Encuentro 6 - 06-03 17 hs. (UTC-3). 
-title: "Encuentro final: qué aprendimos y qué se viene"
+linktitle: Encuentro 6 / Conversatorios Ciencia Abierta
+summary: 06-03 17 hs. (UTC-3). 
+title: "Reflexiones finales de los 5 módulos NASA y desafíos de su aplicación en América Latina"
 authors:
   - MetaDocencia
 type: eventos
@@ -21,17 +21,13 @@ El sexto encuentro del Grupo de Estudio Pre NASA-TOPS se llevará a cabo el **mi
 
 Recordaremos los principales puntos del Open Science 101 que inspiraron nuestros encuentros anteriores y... En respuesta a las ganas de nuestra comunidad de profundizar las discusiones, empezaremos un ciclo de conversatorios sobre Ciencia Abierta!
 
+Iremos reflexionar sobre distintos temas que rodean a la Ciencia Abierta para intentar comprender colectivamente cómo la aprendemos, como la aplicamos y qué significa para nuestra región. Queremos reconocer sus ventajas y su potencia a través de debatir sobre su alcance y posibilidades.
+
 <!--- ### Materiales del evento
 
 - [Presentación](https://docs.google.com/presentation/d/blabla/edit?usp=sharing)
 
 - [Video del encuentro](https://youtu.be/SotP_QwBDj8)--->
-
-### Preparación para el encuentro
-
-- Para mejor aprovechar la llamada, te recomendamos ...
-
-- También recomendamos el texto [“...”](...).
 
 
 ### ¡Sírvete sin culpa!
@@ -40,12 +36,12 @@ Nuestros materiales están disponibles en forma gratuita bajo esta [licencia](ht
 
 ### Sobre los encuentros
 
-Entre enero y marzo de 2024 se desarrollarán 6 encuentros para explorar los contenidos del curso Open Science 101, que forma parte de la iniciativa NASA TOPS. 
+En marzo de 2024 se desarrollarán 4 encuentros para profundizar nuestros debates sobre Ciencia Abierta desde América Latina. 
 
 **[Ver los próximos eventos](https://www.metadocencia.org/eventos)**
 
 Estos encuentros ofrecen una oportunidad de intercambio y aprendizaje, para nutrirnos entre personas y comunidades con nuestras experiencias.
 
-**[Formulario de registro para asistir a los eventos](https://docs.google.com/forms/d/e/1FAIpQLSeNC5FAkHDNwvqJr0419ddccLsru7c38EttgbjOw6ar-x84-Q/viewform)**
+**[Formulario de registro para asistir a los eventos](https://docs.google.com/forms/d/e/1FAIpQLSe2_d08ZLEComUlsUwzHKPhiGcEuN2u1oq1gdvRcAXLfWz8ww/viewform)**
 
 *Todos los datos se manejarán en forma confidencial, sólo podrán ser publicados de forma agregada y anonimizada en reportes sobre el alcance de MetaDocencia.*
