@@ -71,7 +71,7 @@ subtitle = "Profundizamos el debate"
  css_class = ""
 +++
 <p align="center">
-<img src="https://www.metadocencia.org/img/Conversatorios-CA-032024.jpg" alt="Banner Conversatorio sobre Ciencia Abierta" width="600px"/>
+<img src="https://www.metadocencia.org/img/Conversatorios-CA-032024.jpg" alt="Banner Conversatorio sobre Ciencia Abierta" width="700px"/>
 </p>
 
 #### Completada la Misión Exploración, ¡les invitamos a seguir profundizando el debate sobre Ciencia Abierta con mirada latinoamericana!
