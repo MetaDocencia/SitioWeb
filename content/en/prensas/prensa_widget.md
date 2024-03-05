@@ -33,9 +33,9 @@ subtitle = "Please note these news are presented in Spanish, the original langua
   #   name = "Other"
   #   tag = "Demo"
 
-  [[content.filter_button]]
-    name = "2024"
-    tag = "2024"
+  # [[content.filter_button]]
+  #   name = "2024"
+  #   tag = "2024"
 
   [[content.filter_button]]
     name = "2023"
