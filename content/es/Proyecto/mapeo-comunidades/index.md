@@ -14,6 +14,7 @@ weight: 20
 tags:
   - proyectos
   - proyectos de metadocencia
+output: html_document
 ---
 
 Esta propuesta, ideada por Patricia Loto, Jesica Formoso e Irene Vazano, consiste en una aplicación interactiva desarrollada con el paquete Shiny del lenguaje de programación R para disponibilizar información relacionada con recursos, eventos, talleres, oportunidades de financiamiento y comunidades de ciencia abierta en América Latina. Este proyecto nació a comienzos del año 2023 a partir de nuestro deseo de orientar nuestra práctica hacia la ciencia abierta con una mirada local, estará abierto a cualquier persona interesada en acceder a recursos sobre ciencia abierta, conectar con otros actores regionales y locales, o incluso participar en la promoción de prácticas abiertas. Fue desarrollada en el contexto de la [cohorte 7 de OLS](https://openlifesci.org/openseeds/ols-7/projects-participants.html#projects "Proyectos de la cohorte 7 de OLS").
@@ -43,8 +44,10 @@ El repositorio abordará desafíos como acceso limitado a financiamiento, infrae
 Reconocemos la importancia de apoyar a la próxima generación de científicos, proporcionando recursos y programas de mentoría dedicados para respaldar su desarrollo. Al conectarlos con investigadores establecidos y brindar orientación sobre metodologías de ciencia abierta, el repositorio disminuirá la brecha entre científicos experimentados y emergentes, promoviendo así el crecimiento de la ciencia abierta en la región.
 
 ### Más información
-* Para ver un adelanto de este mapeo, podes acceder a la [Shiny App](https://metadocencia.shinyapps.io/mapeo_comunidades/) que estamos trabajando para pulir su visualización final (Es un trabajo en progreso, puede diferir de su versión final)
 * Puedes leer algo más acerca de este proyecto en este [blogpost de OLS](https://openlifesci.org/posts/2023/07/17/ols-7-mapping-open-science-communities-LATAM/ "Blogpost sobre el proyecto"). 
+* Para ver un adelanto de este mapeo, podes acceder a la [Shiny App](https://metadocencia.shinyapps.io/mapeo_comunidades/) que estamos trabajando para pulir su visualización final (es un trabajo en progreso, puede diferir de su versión final) o consultarla a continuación:
+
+<iframe height="600" width="100%" frameborder="no" src="https://metadocencia.shinyapps.io/mapeo_comunidades/"> </iframe>
 
 
 
