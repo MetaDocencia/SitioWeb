@@ -1,9 +1,9 @@
 ---
 authors:
-- ffort
+- forrt
 bio: ""
 email: ""
-name: FFORT
+name: FORRT
 weight: 1
 role: 
 social:
