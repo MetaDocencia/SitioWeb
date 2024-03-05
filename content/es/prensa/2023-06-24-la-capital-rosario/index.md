@@ -6,5 +6,6 @@ image:
 summary: "En diálogo con Micaela Pereyra del periódico La Capital (Rosario, Argentina), Romina Pendino y Nicolás Palopoli compartieron la trayectoria y presente de MetaDocencia."
 tags:
   - prensa
+  - 2023
 title: "La Capital - MetaDocencia crece con cursos para la comunidad"
 ---

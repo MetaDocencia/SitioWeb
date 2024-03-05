@@ -33,6 +33,26 @@ subtitle = "Please note these news are presented in Spanish, the original langua
   #   name = "Other"
   #   tag = "Demo"
 
+  [[content.filter_button]]
+    name = "2024"
+    tag = "2024"
+
+  [[content.filter_button]]
+    name = "2023"
+    tag = "2023"
+
+  [[content.filter_button]]
+   name = "2022"
+   tag = "2022"
+
+  [[content.filter_button]]
+   name = "2021"
+   tag = "2021"
+
+  [[content.filter_button]]
+   name = "2020"
+   tag = "2020"
+
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"

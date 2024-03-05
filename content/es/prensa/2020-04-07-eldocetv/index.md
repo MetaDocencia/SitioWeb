@@ -6,5 +6,6 @@ image:
 summary: La felicidad compartida se multiplica, la pena compartida disminuye
 tags:
   - prensa
+  - 2020
 title: eldoce.tv 
 ---

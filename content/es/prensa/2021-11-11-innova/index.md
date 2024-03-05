@@ -6,5 +6,6 @@ image:
 summary: "Laura Ación: “Con el tiempo vamos a aprovechar lo mejor de lo virtual y lo presencial”"
 tags:
   - prensa
+  - 2021
 title: Innova 
 ---
