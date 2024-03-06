@@ -30,7 +30,7 @@ No es tarea simple cumplir con los estándares y protocolos de la Ciencia Abiert
 
 En este módulo también revisamos cómo encontrar, evaluar y citar un conjunto de datos abiertos, el uso de repositorios, la revisión de documentación y licencias y cómo citar correctamente. De nuevo, las redes y comunidades pueden servir como conexión para llegar a las fuentes confiables y accesibles de los datos requeridos. Una persona nos compartió sus experiencias participando en un proyecto que promueve la reutilización de microbiotas ecológicas, una iniciativa que beneficia a investigadores de cualquier parte del mundo al facilitarles el acceso a datos valiosos y promover la colaboración como estrategia para abordar problemas complejos en el campo de la ecología y la microbiología.
 
-<img src="https://www.metadocencia.org/img/Datos_Publicos_Abiertos.png" alt="Los datos abiertos sirven de apoyo a las políticas públicas. Fuente de la imagen: Manual de tecnologías para innovar el sector público: Datos Abiertos"/>
+<img src="https://www.metadocencia.org/img/Datos_Publicos_Abiertos.png" alt="Los datos abiertos sirven de apoyo a las políticas públicas. Fuente de la imagen: Manual de tecnologías para innovar el sector público: Datos Abiertos"/ width="350px">
 
 
 ## Compartir con responsabilidad en entornos públicos y académicos
