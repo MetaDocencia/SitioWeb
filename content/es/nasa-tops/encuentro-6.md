@@ -23,6 +23,13 @@ Recordaremos los principales puntos del Open Science 101 que inspiraron nuestros
 
 Iremos reflexionar sobre distintos temas que rodean a la Ciencia Abierta para intentar comprender colectivamente cómo la aprendemos, como la aplicamos y qué significa para nuestra región. Queremos reconocer sus ventajas y su potencia a través de debatir sobre su alcance y posibilidades.
 
+### Lecturas sugeridas
+
+Recomendamos algunos textos que sirven de apoyo a la propuesta del encuentro:
+
+- [El proyecto de ciencia abierta en un mundo desigual](https://revistas.uam.es/relacionesinternacionales/article/view/15331/15022), de Fernanda Beigel.
+- [Ciência Aberta na América Latina: duas perspectivas em disputa](https://www.scielo.br/j/tinf/a/pPH6wwxN6rGhyVJM83pGSnp/), de Anne Clinio.
+
 <!--- ### Materiales del evento
 
 - [Presentación](https://docs.google.com/presentation/d/blabla/edit?usp=sharing)
