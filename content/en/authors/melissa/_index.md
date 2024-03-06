@@ -2,25 +2,14 @@
 authors:
 - melissa
 bio: ""
-education:
-  courses:
-  - course: PhD in Human Geography
-    institution: University of São Paulo, Brazil
-    year: 2021
-  - course: Master's Degree in Geography
-    institution: State University of Campinas, Brazil
-    year: 2015
-  - course: Licenciate in Geography
-    institution: State University of Campinas, Brazil
-    year: 2012
 email: "mblack@metadocencia.org"
 interests:
 - Open science
-- Building communities
+- Community building
 - Translation
 name: Melissa Black
 weight: 4
-role: Infrastructure and Impact Measurement Coordinator
+role: Project Coordinator
 social:
 - icon: envelope
   icon_pack: fas
@@ -37,13 +26,13 @@ user_groups:
 ---
 **Experience and Track Record**
 
-Melissa Black brings valuable research experience in connectivity, technology and society in Latin America. In her role as Impact Measurement Coordinator, she leads the evaluation and measurement of the impact of MetaDocencia's initiatives. Additionally, she represents MetaDocencia in the Catalyst project, strengthening the presence and participation in collaborative initiatives.
-Also, Melissa contributes as:
-- Co-leader of the Turing Way Portuguese translation team.
-- Expert in the development of the NASA TOPS Open Science 101 curriculum.
-- Mentoring and participation as a mentor in OLS and Outreachy.
-- Certified instructor by The Carpentries.
+Melissa Black brings valuable research experience in connectivity, technology and society in Latin America. In her role as Project Coordinator, she currently leads the Open Science 101 "Exploration Mission", a study group on the NASA-TOPS content from a local perspective.
+
+Melissa also contributes as:
+- Co-lead of the Turing Way translation team.
+- NASA TOPS Open Science 101 Subject Matter Expert.
+- Former mentor and mentee in OLS and Outreachy.
+- Certified Carpentries instructor.
 - Software Sustainability Institute Fellow (2023 cohort, SSI/OLS fellow).
 
-
-In our "Manzanita 2023 Internal Gala Awards" that vindicate the enormous value of the contributions of each person on the team, Meli has won the All Terrain Award, since she speaks several languages perfectly, represents us masterfully in external communities, elevates discussions and always invites us to think outside the box.
+In our "2023 Manzanita Internal Gala Awards" that shows the great value brought by each person to the team, Meli has won the All-Terrain Award, since she can speak several languages perfectly, represents us masterfully in external communities, elevates discussions, and always invites us to think outside the box.
