@@ -15,7 +15,7 @@ social:
   link: https://github.com/malvikasharan
 superuser: false
 user_groups:
-- "Integrantes"
+- Colaboradores externos
 ---
 
 **Experiencia y trayectoria**
