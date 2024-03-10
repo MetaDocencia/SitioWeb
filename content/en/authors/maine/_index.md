@@ -34,7 +34,7 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/mfariello
-- icon: LinkedIn
+- icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/maria-in%C3%A9s-fariello-rico-94050943/
 superuser: false
