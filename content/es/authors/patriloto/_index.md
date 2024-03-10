@@ -18,7 +18,7 @@ interests:
 - Accesibilidad
 name: Patricia Andrea Loto
 weight: 8
-role: Colaboradora en el proyecto de Mapeo de Recursos de Ciencia Abierta en Latinoamérica y en el proyecto Nasa - 2i2c.
+role: NASA TOPS Sciencecore:Climaterisk
 social:
 - icon: envelope
   icon_pack: fas
