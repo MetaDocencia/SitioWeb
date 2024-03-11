@@ -45,8 +45,8 @@ hero_media = "MD_original.png"
  icon = "Súmate a nuestras propuestas de formación gratuitas y online"
 
 [cta_alt] 
-url = "https://www.metadocencia.org/en/post/2024/20241701-2023report/"
-label = "2023 Report"
+url = "https://www.metadocencia.org/post/2024/20240115-reporte2023/"
+label = "Reporte 2023"
 
 
 # Note. An optional note to show underneath the links.
