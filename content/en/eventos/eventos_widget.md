@@ -19,15 +19,15 @@ subtitle = "Deepening the Debate"
   # To remove toolbar, delete/comment all instances of `[[content.filter_button]]` below.
   
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
-  filter_default = 0
+  # filter_default = 0
    
   # [[content.filter_button]]
-    name = "Upcoming events"
-    tag = "Upcoming events"
+  # name = "Upcoming events"
+  # tag = "Upcoming events"
     
   # [[content.filter_button]]
-    name = "Previous events"
-    tag = "Previous events"
+  # name = "Previous events"
+  # tag = "Previous events"
 
 
 [design]
@@ -73,7 +73,7 @@ subtitle = "Deepening the Debate"
 
 #### After completing the Exploration Mission, we invite you to continue deepening the debate on Open Science with a Latin American perspective!
 
-This year we will begin teaching principles of Open Science in Spanish and through virtual cohorts lasting several weeks. To prepare, throughout February, we collectively completed the original content in English of the [Open Science 101](https://openscience101.org/) course, part of the TOPS (Transform to Open Science) initiative organized by NASA.
+This year we will begin teaching principles of Open Science in Spanish and through virtual cohorts lasting several weeks. To prepare for this, throughout February, we collectively completed the original content in English of the [Open Science 101](https://openscience101.org/) course, part of the TOPS (Transform to Open Science) initiative organized by NASA.
 
 In response to our community's desire to deepen discussions in spanish, we have prepared a **new series of Open Science conversations**! In these meetings, we will discuss various topics surrounding Open Science to collectively understand how we learn it, how we apply it, and what it means for our region. We aim to recognize its advantages and potential through debating its scope and possibilities.
 
