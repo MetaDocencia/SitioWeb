@@ -21,11 +21,11 @@ subtitle = "Deepening the Debate"
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
    
-  [[content.filter_button]]
+  # [[content.filter_button]]
     name = "Upcoming events"
     tag = "Upcoming events"
     
-  [[content.filter_button]]
+  # [[content.filter_button]]
     name = "Previous events"
     tag = "Previous events"
 
