@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 55  # Order that this section will appear.
 
-title = "MetaDocencia Governance Meetings"
-subtitle = ""
+title = "Open Science Conversations"
+subtitle = "Deepening the Debate"
 
 [content]
   # Page type to display. E.g. project.
@@ -21,13 +21,13 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
    
-#  [[content.filter_button]]
-#    name = "Next events"
-#    tag = "Next events"
+  [[content.filter_button]]
+    name = "Upcoming events"
+    tag = "Upcoming events"
     
-#  [[content.filter_button]]
-#    name = "previous events"
-#    tag = "previous events"
+  [[content.filter_button]]
+    name = "Previous events"
+    tag = "Previous events"
 
 
 [design]
@@ -71,24 +71,21 @@ subtitle = ""
  css_class = ""
 +++
 
+#### After completing the Exploration Mission, we invite you to continue deepening the debate on Open Science with a Latin American perspective!
 
-Between July and October 2022 we will hold **eight talks** that aim to facilitate the development of collaborative governance. In these meetings we will speak with specialists in governance and leaders of organizations and projects in the fields of education and open knowledge. These sessions will help foment an organizational model for MetaDocencia, designed for and shaped by our cultural and regional context.
+This year we will begin teaching principles of Open Science in Spanish and through virtual cohorts lasting several weeks. To prepare, throughout February, we collectively completed the original content in English of the [Open Science 101](https://openscience101.org/) course, part of the TOPS (Transform to Open Science) initiative organized by NASA.
 
-We invite you to join us and take part in the conversations, discussions, and reflections that will guide this learning process. Your participation will help us form our governance model and reach another milestone in our community-centered journey.
+In response to our community's desire to deepen discussions in spanish, we have prepared a **new series of Open Science conversations**! In these meetings, we will discuss various topics surrounding Open Science to collectively understand how we learn it, how we apply it, and what it means for our region. We aim to recognize its advantages and potential through debating its scope and possibilities.
 
-**> [Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSfUHrL4F10zWwOuRKW0I8y-_7YT1p8PslzIk7jLBuoR41Hs-Q/viewform)**
+**> [Information to attend the events](https://www.metadocencia.org/eventos/) (The meetings will be conducted in Spanish)**
 
-*All data will be handled confidentially and may only be published in an aggregated and anonymized fashion in reports on the scope of MetaDocencia.*
 
-Agenda of scheduled meetings:
+**Series of meetings and scheduled topics:**
 
-|  Day/Time (UTC-3) | Topic |
+|  Day/time (UTC-3) | Topic |
 | ---:  | :----------- |
-|Wed 20-07 - 17 a 18 | *MetaDocencia: How to Think Collaboratively About Our Governance* | 
-|Wed 03-08 - 17 a 18 | *Beatriz Busaniche - Governance in Action: The Experience of Fundación Vía Libre* | 
-|Wed 17-08 - 17 a 18 | *Fabrizio Scrollini - Governance and Open Data: The ILDA Experience* |
-|Wed 31-08 - 17 a 18 | *Malvika Sharan & Andrea Sánchez-Tapia - Community Governance: Intersectionality and Representation* (in English with simultaneous interpreting) |
-|Wed 14-09 - 17 a 18 | *Andrés Piazza - The Normative Aspects of Governance* |
-|Wed 28-09 - 17 a 18 | *Mayra Botta - Governance and Educational Innovation* |
-|Wed 12-10 - 17 a 18 | *Diego Pando - How to Govern in Complex, Flexible, and Changing Environments* |
-|Wed 26-10 - 17 a 18 | *MetaDocencia's Governance in Progress* |
+|Wed 03-06 - 5 to 6 | *Final reflections on the 5 NASA modules and challenges of their application in Latin America* | 
+|Wed 03-13 - 5 to 6 | *Open Access in Latin America, advantages and implications* | 
+|Wed 03-20 - 5 to 6 | *Open Data from scientific research in Latin America and new extractivism* |
+|Wed 03-27 - 5 to 6 | *Application of Open Science in Latin America addressing epistemic justice* |
+```
