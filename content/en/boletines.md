@@ -1,6 +1,7 @@
 ---
 title: Newsletters
 ---
+- [Moving Forward With Open Science Cohorts 🗺️ | Notes From MetaDocencia N° 13](https://mailchi.mp/51663b744a06/construyendo-en-comunidad-newsletter-n-15931205?e=43da552e22)
 - [We began the year exploring Open Science 🌟 | Notes From MetaDocencia N° 12](https://mailchi.mp/a50fc585ceef/construyendo-en-comunidad-newsletter-n-15926925)
 - [2023 Community Report 🤩 + Open Science 101 Study Group 🤓](https://mailchi.mp/4bdde1a007af/construyendo-en-comunidad-newsletter-n-15924613?e=43da552e22)
 - [Wrapping Up A New Year of Building in Community 🙌 | Notes from MetaDocencia N° 11](https://mailchi.mp/516cbb87068d/construyendo-en-comunidad-newsletter-n-15919541?e=[UNIQID])
