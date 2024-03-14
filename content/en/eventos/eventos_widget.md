@@ -75,7 +75,7 @@ subtitle = "Deepening the Debate"
 
 This year we will begin teaching principles of Open Science in Spanish and through virtual cohorts lasting several weeks. To prepare for this, throughout February, we collectively completed the original content in English of the [Open Science 101](https://openscience101.org/) course, part of the TOPS (Transform to Open Science) initiative organized by NASA.
 
-In response to our community's desire to deepen discussions in spanish, we have prepared a **new series of Open Science conversations**! In these meetings, we will discuss various topics surrounding Open Science to collectively understand how we learn it, how we apply it, and what it means for our region. We aim to recognize its advantages and potential through debating its scope and possibilities.
+In response to our community's desire to deepen discussions in spanish, we have prepared a **new series of Open Science conversations**! In these meetings, we will discuss various topics surrounding Open Science to collectively understand how we learn it, how we apply it, and what it means for our region. We aim to recognize its advantages and potential through debating its scope and possibilities. In the last half hour of each call, we will think about how to understand the Open Science experiences that arise in other regions from our Latin American reality, with a view to contextualizing resources such as the contents of NASA-TOPS Open Science 101.
 
 **> [Information to attend the events](https://www.metadocencia.org/eventos/) (The meetings will be conducted in Spanish)**
 
@@ -84,8 +84,8 @@ In response to our community's desire to deepen discussions in spanish, we have 
 
 |  Day/time (UTC-3) | Topic |
 | ---:  | :----------- |
-|Wed 03-06 - 5 to 6 | *Final reflections on the 5 NASA modules and challenges of their application in Latin America* | 
-|Wed 03-13 - 5 to 6 | *Open Access in Latin America, advantages and implications* | 
-|Wed 03-20 - 5 to 6 | *Open Data from scientific research in Latin America and new extractivism* |
-|Wed 03-27 - 5 to 6 | *Application of Open Science in Latin America addressing epistemic justice* |
+|Wed 03-06 - 5 to 6:00 pm | *Final reflections on the 5 NASA modules and challenges of their application in Latin America* | 
+|Wed 03-13 - 5 to 6:30 pm | *Open Access in Latin America, advantages and implications* | 
+|Wed 03-20 - 5 to 6:30 pm | *Open Data from scientific research in Latin America and new extractivism* |
+|Wed 03-27 - 5 to 6:30 pm | *Application of Open Science in Latin America addressing epistemic justice* |
 ```
