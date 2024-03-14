@@ -50,7 +50,7 @@ A medida que se abren más caminos potenciales para transformar industrias y cam
 
 ## ¡Sírvete sin culpa!
 
-Estos fueron los materiales que usamos en el encuentro 2 de nuestro grupo de estudio:
+Estos son los registros del encuentro 3 de nuestro grupo de estudio:
 
 * [Presentación](http://tiny.cc/Pre-TOPS-Encuentro-3)
 * [Documento compartido](http://tiny.cc/Pre-TOPS-DC-Encuentro-3)
