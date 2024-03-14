@@ -81,3 +81,4 @@ Esta publicación ha sido posible gracias a NASA Grants 80NSSC23K0854 (DOI: 10.5
 *¿Te gustó esta publicación? Puedes reutilizarla libremente bajo licencia CC by 4.0, solo tienes que citarla.* 
 
 Esta es la cita que te recomendamos usar para referenciarla:
+Pendino, R., Ascenzi, L., Buede, J., Ación, L., & Palopoli, N. (2024). Cómo generar encuentro genuino y cultura del bienestar en los eventos del equipo, tanto presenciales como virtuales. Zenodo. https://doi.org/10.5281/zenodo.10818072
