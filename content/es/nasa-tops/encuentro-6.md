@@ -9,7 +9,7 @@ authors:
 type: eventos
 weight: 50
 tags:
-  - Próximos encuentros
+  - Encuentros anteriores
 <!--- featured_image: https://www.metadocencia.org/img/blabla.png --->
 ---
 
@@ -17,11 +17,11 @@ tags:
 
 ### Sobre el encuentro
 
-El sexto encuentro del Grupo de Estudio Pre NASA-TOPS se llevará a cabo el **miércoles 6 de marzo de 17 a 18 (UTC-3)**. Estará coordinado por Veronica Xhardez con el apoyo de Melissa Black.
+El sexto encuentro del Grupo de Estudio Pre NASA-TOPS se llevó a cabo el **miércoles 6 de marzo de 17 a 18 (UTC-3)**. Estuvo coordinado por Veronica Xhardez con el apoyo de Melissa Black.
 
-Recordaremos los principales puntos del Open Science 101 que inspiraron nuestros encuentros anteriores y... En respuesta a las ganas de nuestra comunidad de profundizar las discusiones, empezaremos un ciclo de conversatorios sobre Ciencia Abierta!
+Recordamos los principales puntos del Open Science 101 que inspiraron nuestros encuentros anteriores y... En respuesta a las ganas de nuestra comunidad de profundizar las discusiones, empezamos un ciclo de conversatorios sobre Ciencia Abierta!
 
-Iremos reflexionar sobre distintos temas que rodean a la Ciencia Abierta para intentar comprender colectivamente cómo la aprendemos, como la aplicamos y qué significa para nuestra región. Queremos reconocer sus ventajas y su potencia a través de debatir sobre su alcance y posibilidades.
+Reflexionamos sobre distintos temas que rodean a la Ciencia Abierta para intentar comprender colectivamente cómo la aprendemos, como la aplicamos y qué significa para nuestra región. La idea fue reconocer sus ventajas y su potencia a través de debatir sobre su alcance y posibilidades.
 
 ### Lecturas sugeridas
 
@@ -43,11 +43,11 @@ Nuestros materiales están disponibles en forma gratuita bajo esta [licencia](ht
 
 ### Sobre los encuentros
 
-En marzo de 2024 se desarrollarán 4 encuentros para profundizar nuestros debates sobre Ciencia Abierta desde América Latina. 
+En marzo de 2024 se desarrollaron 4 encuentros para profundizar nuestros debates sobre Ciencia Abierta desde América Latina. 
 
 **[Ver los próximos eventos](https://www.metadocencia.org/eventos)**
 
-Estos encuentros ofrecen una oportunidad de intercambio y aprendizaje, para nutrirnos entre personas y comunidades con nuestras experiencias.
+Estos encuentros ofrecieron una oportunidad de intercambio y aprendizaje, para nutrirnos entre personas y comunidades con nuestras experiencias.
 
 **[Formulario de registro para asistir a los eventos](https://docs.google.com/forms/d/e/1FAIpQLSe2_d08ZLEComUlsUwzHKPhiGcEuN2u1oq1gdvRcAXLfWz8ww/viewform)**
 
