@@ -17,7 +17,7 @@ tags:
 
 ### Sobre el encuentro
 
-El segundo encuentro del Conversatorio de Ciencia Abierta se llevó a cabo el **miércoles 13 de marzo de 17 a 18 (UTC-3)**. Estuvo coordinado por Veronica Xhardez con el apoyo de Umut Pajaro Velasquez y Paola Lefer.
+El segundo encuentro del Conversatorio de Ciencia Abierta se llevó a cabo el **miércoles 13 de marzo de 17 a 18:30 (UTC-3)**. Estuvo coordinado por Veronica Xhardez con el apoyo de Umut Pajaro Velasquez y Paola Lefer.
 
 En respuesta a las ganas de nuestra comunidad de profundizar las discusiones, empezamos un ciclo de conversatorios sobre Ciencia Abierta. Esta vez conversaremos sobre las ventajas e implicaciones del acceso abierto en América Latina.
 
