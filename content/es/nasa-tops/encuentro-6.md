@@ -43,12 +43,12 @@ Nuestros materiales están disponibles en forma gratuita bajo esta [licencia](ht
 
 ### Sobre los encuentros
 
-En marzo de 2024 se desarrollaron 4 encuentros para profundizar nuestros debates sobre Ciencia Abierta desde América Latina. 
+En marzo de 2024 se están desarrollando 4 encuentros para profundizar nuestros debates sobre Ciencia Abierta desde América Latina. 
 
 **[Ver los próximos eventos](https://www.metadocencia.org/eventos)**
 
 Estos encuentros ofrecieron una oportunidad de intercambio y aprendizaje, para nutrirnos entre personas y comunidades con nuestras experiencias.
 
-**[Formulario de registro para asistir a los eventos](https://docs.google.com/forms/d/e/1FAIpQLSe2_d08ZLEComUlsUwzHKPhiGcEuN2u1oq1gdvRcAXLfWz8ww/viewform)**
+**[Formulario de registro para asistir al conversatorio](https://docs.google.com/forms/d/e/1FAIpQLSe2_d08ZLEComUlsUwzHKPhiGcEuN2u1oq1gdvRcAXLfWz8ww/viewform)**
 
 *Todos los datos se manejarán en forma confidencial, sólo podrán ser publicados de forma agregada y anonimizada en reportes sobre el alcance de MetaDocencia.*
