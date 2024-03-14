@@ -78,11 +78,11 @@ subtitle = "Profundizamos el debate"
 
 Este año empezaremos a enseñar principios de Ciencia Abierta en español y a través de cohortes virtuales de varias semanas. Para prepararnos, durante el mes de febrero completamos colectivamente los contenidos originales en inglés del curso [Open Science 101](https://openscience101.org/), parte de la iniciativa TOPS (Transform to Open Science) organizada por la NASA.
 
-En respuesta a las ganas de nuestra comunidad de profundizar las discusiones, preparamos un **nuevo ciclo de conversatorios sobre Ciencia Abierta**! En esta serie de encuentros conversaremos sobre distintos temas que rodean a la Ciencia Abierta para intentar comprender colectivamente cómo la aprendemos, como la aplicamos y qué significa para nuestra región. Queremos reconocer sus ventajas y su potencia a través de debatir sobre su alcance y posibilidades.
+En respuesta a las ganas de nuestra comunidad de profundizar las discusiones, preparamos un **nuevo ciclo de conversatorios sobre Ciencia Abierta**! En esta serie de encuentros conversaremos sobre distintos temas que rodean a la Ciencia Abierta para intentar comprender colectivamente cómo la aprendemos, como la aplicamos y qué significa para nuestra región. Queremos reconocer sus ventajas y su potencia a través de debatir sobre su alcance y posibilidades. En la última media hora de cada llamada, pensaremos cómo entender las experiencias de Ciencia Abierta que surgen en otras regiones desde nuestra realidad latinoamericana, con la mirada puesta en contextualizar recursos tales como los contenidos de NASA-TOPS Open Science 101. 
 
 
 ### Horarios e inscripción
-Nuestros encuentros serán **todos los miércoles de marzo, de 17 a 18h (UTC-3, hora de Argentina), en español y vía Zoom**. No importa si participaste en nuestras llamadas previas o si te sumarás por primera vez. Todas las personas son bienvenidas en este nuevo ciclo!
+Nuestros encuentros serán **todos los miércoles de marzo, de 17 a 18h30 (UTC-3, hora de Argentina), en español y vía Zoom**. No importa si participaste en nuestras llamadas previas o si te sumarás por primera vez. Todas las personas son bienvenidas en este nuevo ciclo!
 
 
 **> [Formulario de registro para asistir a los eventos](https://docs.google.com/forms/d/e/1FAIpQLSe2_d08ZLEComUlsUwzHKPhiGcEuN2u1oq1gdvRcAXLfWz8ww/viewform)**
@@ -95,6 +95,6 @@ Nuestros encuentros serán **todos los miércoles de marzo, de 17 a 18h (UTC-3, 
 |  Día/hora (UTC-3) | Tema |
 | ---:  | :----------- |
 |Mié 06-03 - 17 a 18 | *Reflexiones finales de los 5 módulos NASA y desafíos de su aplicación en América Latina* | 
-|Mié 13-03 - 17 a 18 | *Acceso Abierto en América Latina, ventajas e implicaciones* | 
-|Mié 20-03 - 17 a 18 | *Datos Abiertos de la investigación científica en América Latina y el nuevo extractivismo* |
-|Mié 27-03 - 17 a 18 | *Aplicación de la Ciencia Abierta en América Latina atendiendo a la justicia epistémica* |
+|Mié 13-03 - 17 a 18:30 | *Acceso Abierto en América Latina, ventajas e implicaciones* | 
+|Mié 20-03 - 17 a 18:30 | *Datos Abiertos de la investigación científica en América Latina y el nuevo extractivismo* |
+|Mié 27-03 - 17 a 18:30 | *Aplicación de la Ciencia Abierta en América Latina atendiendo a la justicia epistémica* |
