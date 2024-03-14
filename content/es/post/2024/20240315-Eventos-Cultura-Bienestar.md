@@ -1,6 +1,6 @@
 ---
 date: "2024-03-13"
-draft: true
+draft: false
 type: page
 linktitle: Eventos y cultura del bienestar
 summary: "En MetaDocencia trabajamos activamente para que la gestión de los equipos de trabajo asegure nuestro valor de bienestar. En esta publicación te contamos cómo."
