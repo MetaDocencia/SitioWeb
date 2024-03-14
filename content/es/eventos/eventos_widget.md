@@ -94,7 +94,7 @@ Nuestros encuentros serán **todos los miércoles de marzo, de 17 a 18h30 (UTC-3
 
 |  Día/hora (UTC-3) | Tema |
 | ---:  | :----------- |
-|Mié 06-03 - 17 a 18 | *Reflexiones finales de los 5 módulos NASA y desafíos de su aplicación en América Latina* | 
+|Mié 06-03 - 17 a 18:00 | *Reflexiones finales de los 5 módulos NASA y desafíos de su aplicación en América Latina* | 
 |Mié 13-03 - 17 a 18:30 | *Acceso Abierto en América Latina, ventajas e implicaciones* | 
 |Mié 20-03 - 17 a 18:30 | *Datos Abiertos de la investigación científica en América Latina y el nuevo extractivismo* |
 |Mié 27-03 - 17 a 18:30 | *Aplicación de la Ciencia Abierta en América Latina atendiendo a la justicia epistémica* |
