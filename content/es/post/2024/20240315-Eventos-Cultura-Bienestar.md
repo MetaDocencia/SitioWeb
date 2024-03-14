@@ -46,7 +46,7 @@ En 2023 por primera vez nos encontramos presencialmente y pudimos abrazarnos, co
 ## Premios Manzanita: crear cultura del bienestar
 El evento de cierre de 2023, un año complejo en lo social a nivel local e internacional, necesitaba un motivo fuerte para sostener al bienestar como uno de los valores fundamentales de nuestra comunidad y así lograr darle prioridad a la construcción de espacios de trabajo solidarios y empáticos, a la vez que motivadores. Nos preguntamos ¿cómo podemos hacer que las personas se sientan parte de este proyecto colectivo, valoren su contribución y reconozcan la de las demás personas? 
 
-<img src="https://www.metadocencia.org/img/eventos-cultura-bienestar4.jpg" alt="Captura de pantalla de la reunión virtual en la que entregamos los Premios Manzanita. Se ve al equipo vestido de manera elegante, brindando y sonrientes" width="600px"/>
+<img src="https://www.metadocencia.org/img/eventos-cultura-bienestar4.png" alt="Captura de pantalla de la reunión virtual en la que entregamos los Premios Manzanita. Se ve al equipo vestido de manera elegante, brindando y sonrientes" width="600px"/>
 
 Los Premios Manzanita se propusieron hacer explícitas las contribuciones singulares, especiales y únicas de las personas que integran MetaDocencia para promover el bienestar, motivar y abrazar las individualidades que empujan el colectivo diariamente hacia un mismo objetivo. ¿Cómo lo hicimos?
 
@@ -54,7 +54,7 @@ Los Premios Manzanita se propusieron hacer explícitas las contribuciones singul
 - **Organizamos el evento** con un fondo de pantalla de una alfombra roja, les pedimos a todo el equipo que se engalanaran para asistir y que tuvieran una copita para brindar con lo que más les gustara tomar. También incluimos un voucher para “copetín y canapé” en la facturación de ese mes para que la invitación fuera completa. Desde un punto de las operaciones de MetaDocencia, esto simplificó enormemente los envíos postales a 17 personas distribuidas geográficamente, sin descuidar que cada persona pudiera recibir un pequeño presente para la ocasión. Un ejemplo más de cómo en MetaDocencia practicamos el valor de bienestar, con decisiones concretas para reducir la sobrecarga de  quienes organizan estos eventos.
 - **Entregamos insignias** a cada integrante del equipo reconociendo sus aportes a través de conceptos tan variados como los Premios:  “Planificatona”, “Polisemia”, “Arquitecta de la Palabra”, “Gurú” o “Camiseta”. Cada uno destaca la virtud, la generosidad y el sentido de pertenencia a la comunidad metadocente. Con un párrafo de descripción por cada premio, cada persona escuchaba y tenía la oportunidad de brindar y agradecer su estatuilla virtual. Las emociones no tardaron en aflorar y empezamos a jugar a adivinar quién era la persona nominada para cada premio a medida que la descripción avanzaba, porque conocernos es parte de querernos y de reconocernos. 
 
-<img src="https://www.metadocencia.org/img/eventos-cultura-bienestar5.jpg" alt="Captura de pantalla de la insignia del Premio Manzanita que recibió Patri, compartido por ella en su cuenta personal de Twitter." width="600px"/>
+<img src="https://www.metadocencia.org/img/eventos-cultura-bienestar5.jpeg" alt="Captura de pantalla de la insignia del Premio Manzanita que recibió Patri, compartido por ella en su cuenta personal de Twitter." width="600px"/>
 *Los Premios Manzanita 2023 buscan seguir sosteniendo y creando cultura del bienestar comunitaria a través del reconocimiento individual y colectivo.*
 
 ## En conclusión
