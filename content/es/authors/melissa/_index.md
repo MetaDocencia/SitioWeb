@@ -9,7 +9,7 @@ interests:
 - Traducción
 name: Melissa Black
 weight: 4
-role: Coordinadora de Proyectos
+role: Coordinación de proyectos
 social:
 - icon: envelope
   icon_pack: fas
@@ -22,15 +22,15 @@ social:
   link: https://orcid.org/0000-0002-5406-2982
 superuser: false
 user_groups:
--  Integrantes
+-  Colaboraron con MetaDocencia
 ---
 
 **Experiencia y Trayectoria:**
 
-Melissa Black aporta una valiosa experiencia en investigación sobre conectividad, tecnología y sociedad en América Latina. 
-En su rol como Coordinadora de Proyectos, organiza la "Misión Exploración" de Open Science 101, un grupo de estudio de los contenidos de NASA-TOPS con mirada local.
+Melissa Black aportó una valiosa experiencia en investigación sobre conectividad, tecnología y sociedad en América Latina. 
+En su rol como Coordinadora de Proyectos, organizó la "Misión Exploración" de Open Science 101, un grupo de estudio de los contenidos de NASA-TOPS con mirada local.
 
-Además, Melissa aporta como:
+Además, Melissa aportó como:
 
 - Co-líder del equipo de traducción de Turing Way.
 - Experta en la elaboración del currículo de NASA TOPS Open Science 101.

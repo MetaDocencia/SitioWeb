@@ -22,13 +22,13 @@ social:
   link: https://orcid.org/0000-0002-5406-2982
 superuser: false
 user_groups:
--  Contributors
+-  Former Contributors
 ---
 **Experience and Track Record**
 
-Melissa Black brings valuable research experience in connectivity, technology and society in Latin America. In her role as Project Coordinator, she currently leads the Open Science 101 "Exploration Mission", a study group on the NASA-TOPS content from a local perspective.
+Melissa Black brought valuable research experience in connectivity, technology and society in Latin America. In her role as Project Coordinator, she led the Open Science 101 "Exploration Mission", a study group on the NASA-TOPS content from a local perspective.
 
-Melissa also contributes as:
+Melissa also contributed as:
 - Co-lead of the Turing Way translation team.
 - NASA TOPS Open Science 101 Subject Matter Expert.
 - Former mentor and mentee in OLS and Outreachy.
