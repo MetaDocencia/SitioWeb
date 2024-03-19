@@ -24,15 +24,15 @@ En respuesta a las ganas de nuestra comunidad de profundizar las discusiones, em
 
 ### Lecturas sugeridas
 
-<!--- Recomendamos algunos textos que sirven de apoyo a la propuesta del encuentro:
+Recomendamos algunos textos que sirven de apoyo a la propuesta del encuentro:
 
-- [Confines históricos del acceso abierto latinoamericano](https://zenodo.org/records/4385309)
-- [Capítulo 6, "Cobrar por publicar en revistas académicas. Una amenaza al ecositema latinoamericano no comercial"](https://www.clacso.org/wp-content/uploads/2022/01/Conocimiento-abierto.pdf)
-- [La comunicación científica en América Latina es abierta, colaborativa y no comercial. Desafíos para las revistas](https://www.palabraclave.fahce.unlp.edu.ar/article/view/PCe065)--->
+- [Biblioguía de CEPAL sobre Gestión de Datos de Investigación](https://biblioguias.cepal.org/gestion-de-datos-de-investigacion)
+- [Artículo de Paola Ricaurte “Epistemologias de dados, colonialidades do poder e resistencia”](https://periodicos.pucminas.br/index.php/dispositiva/article/download/32017/21658)
+- [nota en La Vanguardia “El extractivismo de datos es el nuevo colonialismo”. de Ulises A. Mejías](https://www.lavanguardia.com/internacional/vanguardia-dossier/revista/20240229/9509092/extractivismo-datos-nuevo-colonialismo.html#:~:text=Es%20un%20fen%C3%B3meno%20que%20llamamos,sin%20cesar%20datos%20de%20ellas.)
 
 <!--- ### Materiales del evento
 
-- [Presentación](https://docs.google.com/presentation/d/blabla/edit?usp=sharing)
+- [Presentación](https://docs.google.com/presentation/d/1fgZaD7aUL41CxemqH_KAG2m9alCM2TLGmRiD8zjkIZ4/edit#slide=id.g1f3a0007783_0_0)
 
 - [Video del encuentro](https://youtu.be/SotP_QwBDj8)--->
 
