@@ -38,7 +38,7 @@ user_groups:
 
 Emmanuel Iarussi es Investigador Adjunto de CONICET en el área de Computación Gráfica y miembro del Laboratorio de Inteligencia Artificial de la Universidad Torcuato Di Tella (UTDT) en Buenos Aires, Argentina. 
 Obtuvo su título de Ingeniero de Sistemas en la UNICEN en 2011 y completó su Doctorado en Ciencias de la Computación en la Université Nice Sophia Antipolis y el INRIA en Francia en 2015. 
-Realizó estudios posdoctorales en el Institute of Science and Technology en Austria, centrándose en el desarrollo de nuevas técnicas computacionales para el modelado digital interactivo.
+Realizó estudios posdoctorales en el Institute of Science and Technology en Austria, en los que se centró en el desarrollo de nuevas técnicas computacionales para el modelado digital interactivo.
 
 **Enseñanza y Contribuciones Académicas**
 

@@ -40,7 +40,7 @@ user_groups:
 La experiencia de Julián (alias Niño) se centra en la planificación estratégica para canales de redes sociales. 
 En el ámbito de la producción audiovisual, logra identificar y poner en práctica las oportunidades que el lenguaje audiovisual ofrece para cada tipo de contenido.
 
-Actualmente, Julián se dedica a la investigación de nuevas posibilidades y formatos para contenidos audiovisuales educativos, especialmente en el ámbito de tutoriales y clases asincrónicas, con el objetivo de explorar formas creativas de presentar información 
+Actualmente, Julián se dedica a la investigación de nuevas posibilidades y formatos para contenidos audiovisuales educativos, especialmente en el ámbito de tutoriales y clases asincrónicas, con el objetivo de explorar formas creativas de presentar información. 
 
 En nuestra entrega de los “Premios Internos de Gala Manzanita 2023” que reivindican el enorme valor de las contribuciones de cada persona del equipo, Niño ha ganado el premio Rayo porque a su paso unifica, embellece y cohesiona nuestras producciones, aportando armonía a todo lo que hacemos.
 
