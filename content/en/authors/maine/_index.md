@@ -20,7 +20,7 @@ interests:
 - Science Communication
 - Democratization of Artificial Intelligence
 name: María Inés Fariello
-weight: 7
+weight: 6
 organizations:
 - name: Universidad de la República
 role: Advisory Committee

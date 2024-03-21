@@ -16,8 +16,8 @@ interests:
 - Ética en Inteligencia Artificial
 
 name: Mariela Rajngewerc
-weight: 16
-role: Equipo de Accesibilidad
+weight: 17
+role: Comunidad
 organizations:
 - name: 
   url: 

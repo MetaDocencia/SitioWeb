@@ -20,12 +20,12 @@ interests:
  - Public Health
  - Education 
 name: Sabrina López 
-weight: 1
+weight: 10
 organizations:
 - name: 
   url: ""
 
-role: Contextualization Team
+role: Contextualization 
 social:
 - icon: envelope
   icon_pack: fas

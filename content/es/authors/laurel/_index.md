@@ -17,10 +17,10 @@ interests:
 - Ciencia abierta
 - Género
 name: Laura Ascenzi
-weight: 3
+weight: 4
 organizations:
 - name: Universidad Nacional de Córdoba
-role: Equipos de Comunicación y Comunidades
+role: Comunicación y Comunidades
 social:
 - icon: envelope
   icon_pack: fas

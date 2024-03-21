@@ -17,8 +17,8 @@ interests:
 - Ingeniería de Software
 - Accesibilidad
 name: Patricia Andrea Loto
-weight: 8
-role: Equipo de Accesibilidad
+weight: 11
+role: NASA Earth Data Cloud
 social:
 - icon: envelope
   icon_pack: fas

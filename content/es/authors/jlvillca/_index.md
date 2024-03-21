@@ -14,12 +14,12 @@ interests:
  - Salud
  - Inferencia causal 
 name: José Luis Villca Villegas 
-weight: 1
+weight: 19
 organizations:
 - name: 
   url: ""
 
-role: Equipo de Medición de Impacto
+role: Medición de Impacto
 social:
 - icon: envelope
   icon_pack: fas

@@ -14,12 +14,12 @@ interests:
  - Health
  - Causal inference 
 name: José Luis Villca Villegas 
-weight: 1
+weight: 19
 organizations:
 - name: 
   url: ""
 
-role: Impact Measurement Team
+role: Impact Measurement
 social:
 - icon: envelope
   icon_pack: fas

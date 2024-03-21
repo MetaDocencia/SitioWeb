@@ -15,11 +15,11 @@ interests:
 - Open Science
 - Ethics in AI
 name: Mariela Rajngewerc
-weight: 16
+weight: 17
 organizations:
 - name: 
   url: 
-role: Accessibility Team
+role: Community
 social:
 - icon: envelope
   icon_pack: fas

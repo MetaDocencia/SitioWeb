@@ -18,7 +18,7 @@ interests:
 - Comunicación de la Ciencia
 - Educación
 name: Emmanuel Iarussi
-weight: 1
+weight: 8
 organizations:
 - name: CONICET / UTDT
 role: Consejo Asesor

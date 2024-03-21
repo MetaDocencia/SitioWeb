@@ -16,7 +16,7 @@ interests:
 - Diversity, equity and inclusion in science
 - Community building. 
 name: Eunice Mercado-Lara
-weight: 1
+weight: 12
 organizations:
 role: Advisory Committee
 social:

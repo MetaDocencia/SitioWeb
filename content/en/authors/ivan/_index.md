@@ -10,7 +10,7 @@ education:
 email: ""
 interests:
 name: Iván Gabriel Poggio
-weight: 15
+weight: 16
 organizations:
 - name: 
   url: 
@@ -19,7 +19,7 @@ interests:
 - Rights
 - Inclusion
 - Technology
-role: Community Guidelines and Accessibility Teams
+role: Community
 social:
 - icon: envelope
   icon_pack: fas

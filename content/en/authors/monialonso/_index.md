@@ -20,8 +20,8 @@ name: Mónica Alonso
 organizations:
 - name: 
   url: 
-weight: 2
-role: Community Guidelines and Governance Teams
+weight: 3
+role: Community
 social:
 - icon: envelope
   icon_pack: fas

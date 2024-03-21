@@ -14,12 +14,12 @@ interests:
 - Procesamiento del Lenguaje Natural (NLP)
 - Inteligencia Artificial en el Sector Público
 name: María Cristina Nanton 
-weight: 1
+weight: 14
 organizations:
 - name: 
   url: ""
 
-role: Equipo de Infraestructura
+role: Infraestructura
 social:
 - icon: envelope
   icon_pack: fas

@@ -13,11 +13,11 @@ interests:
 - Derecho
 - Discapacidad
 name: Iván Gabriel Poggio
-weight: 15
+weight: 16
 organizations:
 - name: 
   url: 
-role: Equipos de Pautas de Convivencia y Accesibilidad
+role: Comunidad
 social:
 - icon: envelope
   icon_pack: fas

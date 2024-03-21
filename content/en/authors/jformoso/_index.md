@@ -21,7 +21,7 @@ interests:
 - Open Science
 name: Jesica Formoso
 weight: 7
-role: Impact Measurement Team 
+role: Impact Measurement 
 social:
 - icon: envelope
   icon_pack: fas

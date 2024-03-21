@@ -20,7 +20,7 @@ interests:
 - Comunicación de la ciencia 
 - Democratización de la Inteligencia Artificial
 name: María Inés Fariello
-weight: 7
+weight: 6
 organizations:
 - name: Universidad de la República
 role: Consejo Asesor

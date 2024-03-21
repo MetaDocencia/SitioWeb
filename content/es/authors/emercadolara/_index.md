@@ -16,7 +16,7 @@ interests:
 - Diversidad, equidad e inclusión en la ciencia
 - Creación de comunidad 
 name: Eunice Mercado-Lara
-weight: 1
+weight: 12
 organizations:
 
 role: Consejo Asesor

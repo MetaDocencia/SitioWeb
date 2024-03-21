@@ -17,9 +17,9 @@ interests:
 - Education and Science
 - Gender
 name: Paola Andrea Lefer
-weight: 15
+weight: 9
 organizations:
-role: Administration and Community Guidelines Teams
+role: Administration and Community Guidelines 
 social:
 - icon: envelope
   icon_pack: fas
