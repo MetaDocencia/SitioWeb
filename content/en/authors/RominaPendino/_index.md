@@ -11,7 +11,7 @@ interests:
 - Communication
 name: Romina Pendino
 weight: 14
-role: Community Guidelines | People Management | Advisory Committee
+role: Community Guidelines and People Management Teams and Advisory Committee
 social:
 - icon: envelope
   icon_pack: fas

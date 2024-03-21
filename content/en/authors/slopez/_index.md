@@ -25,7 +25,7 @@ organizations:
 - name: 
   url: ""
 
-role: Project Coordinator
+role: Contextualization Team
 social:
 - icon: envelope
   icon_pack: fas

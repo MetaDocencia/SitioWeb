@@ -16,7 +16,7 @@ name: Julián Buede
 weight: 5
 organizations:
 
-role: Comunicación y Comunidades
+role: Equipo de Comunicación
 social:
 - icon: envelope
   icon_pack: fas

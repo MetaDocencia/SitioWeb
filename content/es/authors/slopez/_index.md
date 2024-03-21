@@ -25,7 +25,7 @@ organizations:
 - name: 
   url: ""
 
-role: Desarrollo de proyectos
+role: Equipo de Contextualización
 social:
 - icon: envelope
   icon_pack: fas

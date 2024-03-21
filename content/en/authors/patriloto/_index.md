@@ -18,7 +18,7 @@ interests:
 - Accessibility
 name: Patricia Andrea Loto
 weight: 8
-role: NASA TOPS Sciencecore:Climaterisk
+role: Accessibility Team
 social:
 - icon: envelope
   icon_pack: fas

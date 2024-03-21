@@ -19,7 +19,7 @@ organizations:
 - name: 
   url: ""
 
-role: 
+role: Equipo de Medición de Impacto
 social:
 - icon: envelope
   icon_pack: fas

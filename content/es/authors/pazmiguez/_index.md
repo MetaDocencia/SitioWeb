@@ -21,7 +21,7 @@ interests:
 - Género
 name: Paz Míguez
 weight: 9
-role: Proyectos y Desarrollo de Cursos
+role: Equipos Institucional y de Enseñanza
 social:
 - icon: envelope
   icon_pack: fas

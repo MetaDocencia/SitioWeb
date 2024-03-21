@@ -19,7 +19,7 @@ interests:
 - Rights
 - Inclusion
 - Technology
-role: Community Guidelines
+role: Community Guidelines and Accessibility Teams
 social:
 - icon: envelope
   icon_pack: fas

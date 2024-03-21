@@ -20,7 +20,7 @@ name: Laura Ascenzi
 weight: 3
 organizations:
 - name: Universidad Nacional de Córdoba
-role: Comunicación y Comunidades
+role: Equipos de Comunicación y Comunidades
 social:
 - icon: envelope
   icon_pack: fas

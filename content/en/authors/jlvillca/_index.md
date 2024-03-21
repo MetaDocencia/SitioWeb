@@ -19,7 +19,7 @@ organizations:
 - name: 
   url: ""
 
-role: Trainee
+role: Impact Measurement Team
 social:
 - icon: envelope
   icon_pack: fas

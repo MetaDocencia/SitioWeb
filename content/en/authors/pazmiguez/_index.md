@@ -21,7 +21,7 @@ interests:
 - Gender
 name: Paz Míguez
 weight: 9
-role: Project and Course Development
+role: Institutional and Course Development Teams
 social:
 - icon: envelope
   icon_pack: fas

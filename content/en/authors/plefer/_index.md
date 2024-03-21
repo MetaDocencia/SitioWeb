@@ -19,7 +19,7 @@ interests:
 name: Paola Andrea Lefer
 weight: 15
 organizations:
-role: Administration Team
+role: Administration and Community Guidelines Teams
 social:
 - icon: envelope
   icon_pack: fas

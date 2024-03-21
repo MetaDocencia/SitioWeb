@@ -17,7 +17,7 @@ weight: 15
 organizations:
 - name: 
   url: 
-role: Pautas de Convivencia
+role: Equipos de Pautas de Convivencia y Accesibilidad
 social:
 - icon: envelope
   icon_pack: fas
