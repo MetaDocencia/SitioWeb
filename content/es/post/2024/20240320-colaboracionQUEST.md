@@ -1,6 +1,6 @@
 ---
 date: "2024-03-20"
-draft: true
+draft: false
 type: page
 linktitle: Colaboración Quest
 summary: "Este post busca resumir la colaboración con el QUEST Center for Responsible Research."
@@ -63,3 +63,5 @@ El desarrollo de este documento fue posible gracias al apoyo del Berlin Institut
 ---
 
 *¿Te gustó esta publicación? Puedes reutilizarla libremente bajo licencia CC by 4.0, solo tienes que citarla.* 
+Esta es la cita que te recomendamos para referenciarla: 
+Sabrina López, Jesica Formoso, Laura Ación. (2024). Aportando a la discusión sobre la decolonización de la investigación en salud. Zenodo. https://doi.org/10.5281/zenodo.10854781
