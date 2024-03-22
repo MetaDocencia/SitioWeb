@@ -1,6 +1,6 @@
 ---
 date: "2024-03-20"
-draft: true
+draft: false
 type: page
 linktitle: Quest collaboration
 summary: "This post seeks to summarize the collaboration with the QUEST Center for Responsible Research."
@@ -64,3 +64,4 @@ The development of this document was possible thanks to the support of the Berli
 *Did you like this post? You can freely reuse it under the license CC by 4.0; you just have to cite it.* 
 
 This is the quote that we recommend you use to reference it:
+Sabrina López, Jesica Formoso, Laura Ación. (2024). Contributing to the discussion on the decolonization of health research. Zenodo. https://doi.org/10.5281/zenodo.10854790
