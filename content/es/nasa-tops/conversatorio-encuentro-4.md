@@ -19,13 +19,16 @@ tags:
 
 ¡Cuarto encuentro del Conversatorio de Ciencia Abierta! El **miércoles 27 de marzo de 17 a 18:30 (UTC-3)** nos encontramos una vez mas para profundizar las discusiones sobre la aplicación de la Ciencia Abierta en América Latina. Esta vez conversaremos sobre Aplicación de la Ciencia Abierta en América Latina atendiendo a la justicia epistémica. Este encuentro estará coordinado por Veronica Xhardez.
 
-<!--- ### Lecturas sugeridas
+Lecturas sugeridas
 
 Recomendamos algunos textos que sirven de apoyo a la propuesta del encuentro:
 
- - [Biblioguía de CEPAL sobre Gestión de Datos de Investigación](https://biblioguias.cepal.org/gestion-de-datos-de-investigacion)
-- [Artículo de Paola Ricaurte “Epistemologias de dados, colonialidades do poder e resistencia”](https://periodicos.pucminas.br/index.php/dispositiva/article/download/32017/21658)
-- [nota en La Vanguardia “El extractivismo de datos es el nuevo colonialismo”. de Ulises A. Mejías](https://www.lavanguardia.com/internacional/vanguardia-dossier/revista/20240229/9509092/extractivismo-datos-nuevo-colonialismo.html#:~:text=Es%20un%20fen%C3%B3meno%20que%20llamamos,sin%20cesar%20datos%20de%20ellas.) --->
+ - [Artículo de Blas Radi y Moira Pérez “Injusticia epistémica en el ámbito de la salud”](http://revistas.filo.uba.ar/index.php/avatares/article/viewFile/3419/2314)
+- [“Conceptos de injusticia epistémica en evolución” de Miranda Fricker](https://dialnet.unirioja.es/servlet/articulo?codigo=8022184)
+- [Video con algunas reflexiones sobre la Ciencia Abierta y Responsable, del ISS (Rotterdam).](https://www.youtube.com/watch?v=mAurbQq8WsU)
+- Libro de Miranda Fricker “Injusticia epistémica. El poder y la ética del conocimiento.” (Disponible en algunos portales universitarios).
+
+
 
 <!--- ### Materiales del evento
 
