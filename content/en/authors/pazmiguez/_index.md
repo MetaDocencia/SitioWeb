@@ -20,8 +20,8 @@ interests:
 - Future of work
 - Gender
 name: Paz Míguez
-weight: 9
-role: Project and Course Development
+weight: 13
+role: Institutional 
 social:
 - icon: envelope
   icon_pack: fas

@@ -17,9 +17,9 @@ interests:
 - Educación y Ciencia
 - Género
 name: Paola Andrea Lefer
-weight: 15
+weight: 9
 organizations:
-role: Equipo de Administración y Pagos
+role: Institucional
 social:
 - icon: envelope
   icon_pack: fas

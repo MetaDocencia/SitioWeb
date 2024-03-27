@@ -17,7 +17,7 @@ weight: 18
 organizations:
 - name: 
   url: 
-role: Infrastructure Team
+role: Infrastructure
 social:
 - icon: envelope
   icon_pack: fas

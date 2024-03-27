@@ -10,8 +10,8 @@ interests:
 - Gestión de personas y relaciones laborales
 - Comunicación
 name: Romina Pendino
-weight: 14
-role: Equipo de Pautas de Convivencia | Gestión de Personas | Consejo asesor
+weight: 15
+role: Institucional y Consejo Asesor
 social:
 - icon: envelope
   icon_pack: fas

@@ -20,7 +20,7 @@ interests:
 - Psicología cognitiva y experimental
 name: Jesica Formoso
 weight: 7
-role: Equipo de Medición de Impacto
+role: Medición de Impacto
 social:
 - icon: envelope
   icon_pack: fas
@@ -41,10 +41,10 @@ user_groups:
 
 **Experiencia y Trayectoria:**
 
-Jesica es Licenciada en Psicología de la Universidad de Buenos Aires. Se dedica a la docencia y la investigación, destacándose como organizadora del capítulo de Buenos Aires de RLadies. Además, es instructora certificada de RStudio y The Carpentries.
+Jesica es Licenciada en Psicología de la Universidad de Buenos Aires. Se dedica a la docencia y la investigación, destacándose como organizadora del capítulo de Buenos Aires de R-Ladies. Además, es instructora certificada de RStudio y The Carpentries.
 
-Participa activamente en la comunidad como organizadora del capítulo de Buenos Aires de RLadies, promoviendo la diversidad y participación de mujeres en el ámbito de la ciencia de datos. 
-Su certificación como instructora de RStudio y The Carpentries refleja su compromiso con la educación y la difusión de habilidades en ciencia de datos.
+Como organizadora de la comunidad en R-Ladies, Jesica promueve la diversidad y participación de mujeres en el ámbito de la ciencia de datos. 
+Su certificación como instructora refleja su compromiso con la educación y la difusión de habilidades en ciencia de datos.
 
 En nuestra entrega de los “Premios Internos de Gala Manzanita 2023” que reivindican el enorme valor de las contribuciones de cada persona del equipo, Jesi ha ganado el premio Generosidad por compartir su enfoque meticuloso, sus grandes habilidades analíticas, su alegría y una dimensión única que aporta desde su perspectiva psi.
 

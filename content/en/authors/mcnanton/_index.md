@@ -14,12 +14,12 @@ interests:
   - NLP
   - AI in the public sector
 name: Maria Cristina Nanton 
-weight: 1
+weight: 14
 organizations:
 - name: 
   url: ""
 
-role: Infrastructure Team
+role: Infrastructure
 social:
 - icon: envelope
   icon_pack: fas

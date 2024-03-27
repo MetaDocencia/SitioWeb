@@ -16,7 +16,7 @@ interests:
 name: Julián Buede
 weight: 5
 organizations:
-role: Social media management and audiovisual production
+role: Communication
 social:
 - icon: envelope
   icon_pack: fas

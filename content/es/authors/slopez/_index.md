@@ -20,12 +20,12 @@ interests:
  - Salud púbica
  - Educación 
 name: Sabrina López 
-weight: 1
+weight: 10
 organizations:
 - name: 
   url: ""
 
-role: Desarrollo de proyectos
+role: Contextualización
 social:
 - icon: envelope
   icon_pack: fas

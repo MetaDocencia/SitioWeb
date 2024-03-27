@@ -20,8 +20,8 @@ interests:
 - Futuro del Trabajo
 - Género
 name: Paz Míguez
-weight: 9
-role: Proyectos y Desarrollo de Cursos
+weight: 13
+role: Institucional 
 social:
 - icon: envelope
   icon_pack: fas

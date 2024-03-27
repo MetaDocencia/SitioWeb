@@ -18,7 +18,7 @@ interests:
 - Science Communication
 - Education
 name: Emmanuel Iarussi
-weight: 1
+weight: 8
 organizations:
 - name: CONICET / UTDT
 role: Advisory Committee

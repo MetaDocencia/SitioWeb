@@ -20,8 +20,8 @@ name: Mónica Alonso
 organizations:
 - name: 
   url: 
-weight: 2
-role: Equipos de PdC y Gobernanza
+weight: 3
+role: Comunidad y Enseñanza
 social:
 - icon: envelope
   icon_pack: fas
