@@ -23,7 +23,7 @@ weight: 2
 organizations: 
 - name: Grupo de Bioinformática Estructural - UNQ
   url: "http://ufq.unq.edu.ar/sbg/"
-role: General Coordination and Advisory Committee
+role: Co-Executive Director and Advisory Committee
 social:
 - icon: envelope
   icon_pack: fas

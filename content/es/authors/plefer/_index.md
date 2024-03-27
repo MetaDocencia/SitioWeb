@@ -19,7 +19,7 @@ interests:
 name: Paola Andrea Lefer
 weight: 9
 organizations:
-role: Administración y Pagos y Pautas de Convivencia
+role: Institucional
 social:
 - icon: envelope
   icon_pack: fas

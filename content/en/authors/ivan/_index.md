@@ -19,7 +19,7 @@ interests:
 - Rights
 - Inclusion
 - Technology
-role: Community
+role: Institutional
 social:
 - icon: envelope
   icon_pack: fas

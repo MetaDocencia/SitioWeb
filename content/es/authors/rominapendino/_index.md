@@ -11,7 +11,7 @@ interests:
 - Comunicación
 name: Romina Pendino
 weight: 15
-role: Pautas de Convivencia, Gestión de Personas y Consejo Asesor
+role: Institucional y Consejo Asesor
 social:
 - icon: envelope
   icon_pack: fas

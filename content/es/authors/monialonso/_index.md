@@ -21,7 +21,7 @@ organizations:
 - name: 
   url: 
 weight: 3
-role: Comunidad
+role: Comunidad y Enseñanza
 social:
 - icon: envelope
   icon_pack: fas
