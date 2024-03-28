@@ -18,7 +18,7 @@ interests:
 - Accessibility
 name: Patricia Andrea Loto
 weight: 11
-role: Comunidad y Enseñanza
+role: Community and Teaching
 social:
 - icon: envelope
   icon_pack: fas
