@@ -18,7 +18,7 @@ interests:
 - Accessibility
 name: Patricia Andrea Loto
 weight: 11
-role: NASA Earth Data Cloud
+role: Comunidad y Enseñanza
 social:
 - icon: envelope
   icon_pack: fas

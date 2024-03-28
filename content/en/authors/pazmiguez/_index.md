@@ -21,7 +21,7 @@ interests:
 - Gender
 name: Paz Míguez
 weight: 13
-role: Institutional 
+role: Institutional and Teaching
 social:
 - icon: envelope
   icon_pack: fas
