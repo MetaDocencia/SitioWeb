@@ -3,7 +3,7 @@ date: "2024-02-08"
 draft: false
 image:
   caption: 
-  alt_text: "Bees around a beehive. Illustration by Yusuf Demirci"
+  alt_text: "Bees around a beehive representing the Friendly Communities Hive. Illustration by Yusuf Demirci"
 linktitle: Hive of Friendly Communities
 summary: Collaborative development where we aim to showcase and link efforts to reaffirm, once again, that science is collective work.
 title: Hive of Friendly Communities

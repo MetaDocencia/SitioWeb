@@ -3,7 +3,7 @@ date: "2024-02-08"
 draft: false
 image:
   caption: 
-  alt_text: "Abejas alrededor de un panal. Ilustración de Yusuf Demirci"
+  alt_text: "Abejas alrededor de un panal que representan al Panal de Comunidades Amigas. Ilustración de Yusuf Demirci"
 linktitle: Panal de Comunidades Amigas
 summary: Desarrollo colaborativo en el que buscamos presentar y vincular esfuerzos para confirmar, una vez más, que la ciencia es un trabajo colectivo.
 title: Panal de Comunidades Amigas

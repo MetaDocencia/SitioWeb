@@ -3,7 +3,7 @@ date: "2024-02-08"
 draft: false
 image:
   caption: 
-  alt_text: "NASA TOPS"
+  alt_text: "Contextualization project logo"
 linktitle: Contextualization
 summary: Project for contextualizing accessible resources for Spanish-speaking communities. 
 title: Contextualization

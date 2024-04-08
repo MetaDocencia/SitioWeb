@@ -3,7 +3,7 @@ date: "2024-02-08"
 draft: false
 image:
   caption: 
-  alt_text: "Proyecto Catalyst"
+  alt_text: "Logo del proyecto Catalyst"
 linktitle: Proyecto Catalyst
 summary: Servicio comunitario de infraestructura en la nube. 
 title: Proyecto Catalyst 

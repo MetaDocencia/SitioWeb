@@ -47,4 +47,4 @@ Las personas que forman parte del equipo de Pautas de Convivencia se comprometen
 ## Atribución
 
 Estas Pautas de Convivencia son una adaptación del [Contributor Covenant](https://www.contributor-covenant.org), versión 2.0,
-disponible en https://www.contributor-covenant.org/es/version/2/0/code_of_conduct.html y [el código de conducta desarrollado para useR!2021](https://user2021.r-project.org/participation/coc/).
+disponible en [la sección Código de Conducta del sitio de Contributor Covenant]( https://www.contributor-covenant.org/es/version/2/0/code_of_conduct.html) y [el código de conducta desarrollado para useR!2021](https://user2021.r-project.org/participation/coc/).

@@ -3,7 +3,7 @@ date: "2024-02-08"
 draft: false
 image:
   caption: 
-  alt_text: "NASA ScienceCore"
+  alt_text: "Logo del proyecto de transformación hacia la ciencia abierta de NASA"
 linktitle: ScienceCore climaterisk. Determinación de riesgos climáticos con la nube de datos terrestres de la NASA 
 summary: Desarrollo de contenidos educativos para la determinación de riesgos climáticos con la nube de datos terrestres de la NASA
 title: NASA TOPS ScienceCore:climaterisk

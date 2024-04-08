@@ -3,7 +3,7 @@ date: "2024-02-08"
 draft: false
 image:
   caption: 
-  alt_text: "Catalyst project"
+  alt_text: "Catalyst project's logo"
 linktitle: Catalyst project
 summary: Community cloud infrastructure service.
 title: Catalyst project
