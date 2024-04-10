@@ -15,7 +15,7 @@ categories:
   - Temas
 ---
 
-La comunidad MetaDocente continuó su [recorrido](https://www.metadocencia.org/post/2024/20240305-encuentro-3-grupo-de-estudio-pre-nasa-tops/) colectivo por Open Science 101 con mucho entusiasmo, centrando el debate esta vez en el código abierto. Además de discutir la complejidad de las licencias abiertas para compartir código, vimos cómo el abrir el acceso a los datos, a los resultados y a otros productos de una investigación en la que se usa código abierto es una buena práctica, que sin embargo no deja de estar relacionada con el extractivismo en sus distintas manifestaciones contemporáneas. Acá te contamos todo sobre el encuentro 4.
+La comunidad MetaDocente continuó su [recorrido](https://www.metadocencia.org/post/2024/20240305-encuentro-3-grupo-de-estudio-pre-nasa-tops/) colectivo por Open Science 101 con mucho entusiasmo, centrando el debate esta vez en el código abierto. Además de discutir la complejidad de las licencias abiertas para compartir código, vimos cómo el abrir el acceso a los datos, a los resultados y a otros productos de una investigación en la que se usa código abierto es una buena práctica, que sin embargo no deja de estar relacionada con el extractivismo en sus distintas manifestaciones contemporáneas. Acá te contamos todo sobre el encuentro 4 de la Misión Exploración.
 
 <img src="https://www.metadocencia.org/img/Modulo4_PreNASATOPS.png" alt="Módulo 4: código abierto" width="600px"/>
 
@@ -24,7 +24,7 @@ La comunidad MetaDocente continuó su [recorrido](https://www.metadocencia.org/p
 
 Del módulo 4 de Open Science 101 nos llevamos muy buenas recomendaciones sobre cómo considerar al código abierto en el contexto de un plan de investigación, conectado también al plan de manejo de datos. Compartimos algunas buenas prácticas, que revisamos juntos:
 
-- Para que el código abierto sea utilizado por más personas, seguir principios como los FAIR ayuda a que el código sea localizable. 
+- Para que el código abierto sea utilizado por más personas, seguir principios como los FAIR ayuda a que sea localizable. 
 - Al momento de buscar código útil, prestar atención a la terminología usada por personas que trabajan en áreas similares a la tuya ayuda en la revisión de la literatura científica y la exploración de repositorios públicos de código como los disponibles en GitHub.
 - Si prefieres avanzar con un proyecto propio de código abierto, es importante que te tomes un tiempo durante la planificación para elegir elementos como el lenguaje de programación, el lugar donde se almacenarán el código, los datos y los productos de su análisis y la capacidad de cómputo necesaria, así como las personas que podrán colaborar en cada una de esas tareas.
 - Al encontrar software de interés, es interesante evaluar sus funcionalidades, la interoperabilidad que ofrece, su seguridad y restricciones de uso. Esta información suele estar disponible en plataformas como GitHub, cuyos repositorios permiten verificar el estado del proyecto y de su mantenimiento.
