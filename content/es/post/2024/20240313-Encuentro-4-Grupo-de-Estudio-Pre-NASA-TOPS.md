@@ -91,4 +91,4 @@ Esta publicación fue posible gracias a un subsidio de Chan Zuckerberg Initiativ
 
 ¿Te gustó esta publicación? Puedes reutilizarla libremente bajo licencia CC by 4.0, solo tienes que citarla.
 
-Esta es la cita que te recomendamos usar para referenciarla: Melissa Black, Nicolás Palopoli (2024). Explorando NASA-TOPS en comunidad: código abierto. Zenodo. https://zenodo.org/records/...
+Esta es la cita que te recomendamos usar para referenciarla: Melissa Black, Nicolás Palopoli (2024). Explorando NASA-TOPS en comunidad: código abierto. Zenodo. https://doi.org/10.5281/zenodo.10818513
