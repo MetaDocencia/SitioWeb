@@ -1,6 +1,7 @@
 ---
 title: Boletines
 ---
+- [Contextualizando saberes para construir Ciencia Abierta regional 🌐 | Apuntes MetaDocentes N° 14](https://mailchi.mp/5923b8a30328/construyendo-en-comunidad-newsletter-n-15956853)
 - [Continúan las cohortes sobre Ciencia Abierta en español 🚀 | Apuntes MetaDocentes N° 13](https://mailchi.mp/9d800ef21af8/construyendo-en-comunidad-newsletter-n-15930493)
 - [Comenzamos el año explorando la Ciencia Abierta 🌟 | Apuntes MetaDocentes N° 12](https://mailchi.mp/90e25bbaa95b/construyendo-en-comunidad-newsletter-n-15926821?e=158b6b2f8f) - [English version](https://mailchi.mp/a50fc585ceef/construyendo-en-comunidad-newsletter-n-15926925)
 - [Reporte 2023 🤩 + Invitación a explorar la Ciencia Abierta 🤓](https://mailchi.mp/4c50af9400ca/construyendo-en-comunidad-newsletter-n-15716393?e=158b6b2f8f)
