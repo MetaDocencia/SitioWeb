@@ -16,7 +16,7 @@ tags:
   - proyectos de metadocencia
 ---
 
-En el marco de la iniciativa Transform to Open Science (TOPS), un programa integral de actividades de la NASA para apoyar el avance de la ciencia hacia la apertura, MetaDocencia formará personas de ciencia y técnica hispanohablantes para transformar su trabajo diario a la ciencia abierta.
+En el marco de la iniciativa Transform to Open Science (TOPS), un programa integral de actividades de la NASA para apoyar el avance de la ciencia hacia la apertura, MetaDocencia formará personas de ciencia y técnica hispanohablantes para transformar su trabajo diario a la Ciencia Abierta.
 
 Nuestra propuesta incluye la formación en Ciencia Abierta por cohortes virtuales para hispanohablantes. Abarcará los cinco módulos de Open Science 101 y cada participante trabajará con una persona mentora para debatir la aplicación en el mundo real de los conocimientos a lo largo de 6 semanas.
 
@@ -30,8 +30,8 @@ Nuestra propuesta incluye la formación en Ciencia Abierta por cohortes virtuale
 ### Más Información
 [Para saber más sobre la Propuesta](https://zenodo.org/records/8215456 "Propuesta")
 
-*Si te interesa participar de las cohortes de formación en Ciencia Abierta de NASA-TOPS en idioma inglés, por favor contacta a nuestra comunidad amiga [OLS] (https://openlifesci.org/ "OLS").*
-*If you're interested in participating in the NASA-TOPS Open Science 101 virtual cohorts in English, please contact our friend community [OLS] (https://openlifesci.org/ "OLS").*
+*Si te interesa participar de las cohortes de formación en Ciencia Abierta de NASA-TOPS en idioma inglés, por favor contacta [OLS] (https://openlifesci.org/ "OLS").*
+*If you're interested in participating in the NASA-TOPS Open Science 101 virtual cohorts in English, please contact [OLS] (https://openlifesci.org/ "OLS").*
 
 
 
