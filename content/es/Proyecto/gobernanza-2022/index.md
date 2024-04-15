@@ -20,17 +20,11 @@ tags:
 En 2022, desde MetaDocencia nos propusimos encarar un proceso de aprendizaje colectivo y colaborativo para diseñar nuestra gobernanza. El objetivo fue elaborar un modelo transparente para la toma de decisiones estratégicas, pensado desde y para nuestro contexto cultural y regional. 
 
 Después de 
-
 - 32 actividades internas,
-
 - 8 encuentros abiertos,
-
 - 7 referentes y especialistas que se sumaron a participar,
-
 - 10 personas involucradas activamente,
-
 - +55 horas de trabajo sincrónico,
-
 - +4 meses de intercambio…
 
 … consensuamos y definimos una forma de trabajo interna, órganos de funcionamiento y pautas de colaboración. 
@@ -41,15 +35,9 @@ Después de
 
 La puesta en práctica de nuestra nueva gobernanza comenzó en diciembre de 2022, con la conformación de un nuevo Consejo Asesor (CA) y la convocatoria a una primera reunión de acuerdo a los principios de funcionamiento actualizados. El CA junto al Equipo Directivo, de Coordinación y otros equipos de trabajo, articulan para que la toma de decisiones y el desarrollo de actividades permitan potenciar el trabajo y la misión de MetaDocencia.
 
-Planeamos revisar la gobernanza luego del primer año de su puesta en práctica, por lo que también será un reto mantener la perspectiva abierta y permitirnos cuestionar aquello que no funcione.
+En 2024, en el marco de [nuestra colaboración con OLS](https://www.metadocencia.org/post/ols8/), trabajamos específicamente en la Gobernanza 2.0 de MetaDocencia, ya que repensamos, enriquecimos, actualizamos y formalizamos documentación relativa al proceso 
 
-En 2023, publicaremos y pondremos a disposición las bases de funcionamiento de nuestra gobernanza.
-
-¡Gracias a todas las personas y comunidades que participaron y apoyaron el desarrollo de este gran proceso de aprendizaje colectivo! 💪
-
-**Disertantes de encuentros abiertos:** Beatriz Busaniche, Fabrizio Scrollini, Malvika Sharan y Andrea Sánchez-Tapia (con interpretación simultánea español-inglés), Andrés Piazza, Mayra Botta, Diego Pando. 
-
-**Equipo de Gobernanza de MetaDocencia:** Irene Vazano, Iván Poggio, Jesica Formoso, Laura Ación, Laura Ascenzi, Melissa Black, Mónica Alonso, Nicolás Palopoli, Paz Míguez, Romina Pendino.
+🔗 Gobernanza 2.0: https://doi.org/10.5281/zenodo.1079064
 
 🔗 [Leer más sobre el avance del proceso de gobernanza](https://zenodo.org/record/7392334#.Y7gW6XaZNPY).
 
