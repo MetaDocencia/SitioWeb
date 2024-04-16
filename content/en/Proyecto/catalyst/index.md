@@ -30,7 +30,7 @@ Improving the accessibility and usefulness of cloud infrastructure for global co
 * Translation and contextualization of resources into Spanish for Latin American communities
 * Shaping our governance model to help us maintain, scale, and maximize impact
 
-At MetaDocencia, we have the key role of identifying and reaching out to Latin American communities that could benefit from participating in this pilot project. Over the past few months, we have been working on contacting more participants for the project and have had the opportunity to learn more about your work and build bridges. This is crucial for another MetaDocencia project, community mapping.
+At MetaDocencia, we have the key role of identifying and reaching out to Latin American communities that could benefit from participating in this pilot project. Over the past few months, we have been working on contacting more participants for the project and have had the opportunity to learn more about your work and build bridges. This is crucial for another MetaDocencia project, [Community Mapping](https://www.metadocencia.org/en/proyecto/mapeo-comunidades/).
 
 ### More Information
 * [Catalyst Project Website](https://catalystproject.cloud/index.html)
