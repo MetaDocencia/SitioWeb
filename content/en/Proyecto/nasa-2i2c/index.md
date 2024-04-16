@@ -5,8 +5,8 @@ image:
   caption: 
   alt_text: "NASA Openscapes"
 linktitle: ScienceCore climaterisk
-summary: Development of educational content for the determination of climate risks using NASA's terrestrial data cloud.. 
-title: NASA TOPS ScienceCore:climaterisk
+summary: Development of educational content for the determination of climate risks using NASA's terrestrial data cloud. 
+title: "NASA TOPS ScienceCore: climaterisk"
 spellcheck: true
 authors: 
 type: proyectos
@@ -16,7 +16,7 @@ tags:
   - extra-metadocencia projects
 ---
 
-In the framework of the Transform to Open Science (TOPS) initiative, a comprehensive program of activities by NASA to support the advancement of science towards openness, MetaDocencia in collaboration with the friendly community 2i2c committed to developing specific educational content for TOPS ScienceCore. This proposal brings together curriculum modules associated with different specific disciplines, with the aim of increasing the knowledge and skills necessary to leverage NASA's open tools and technologies for Earth and space research. Our training module focuses on the analysis of open satellite data useful for understanding and predicting floods, forest fires, and droughts.
+In the framework of the Transform to Open Science (TOPS) initiative, a comprehensive program of activities by NASA to support the advancement of science towards openness, MetaDocencia in collaboration with the fellow community 2i2c committed to developing specific educational content for TOPS ScienceCore. This proposal brings together curriculum modules associated with different specific disciplines, with the aim of increasing the knowledge and skills necessary to leverage NASA's open tools and technologies for Earth and space research. Our training module focuses on the analysis of open satellite data useful for understanding and predicting floods, forest fires, and droughts.
 
 ### Context
 
