@@ -33,6 +33,6 @@ During late 2023 and 2024, we will carry out the pilot stage of the Polen Projec
 
 ### Presentation
 [Initial project presentation](https://docs.google.com/presentation/d/1nkfA4GI29CW1mAK6hA4BC-jZb0CmkUOwjERpH5qP02k/edit#slide=id.g1ec323887ac_2_58 "Polen project presentation")
-More info about the project (in Spanish)
+[More info about the project](https://docs.google.com/document/d/e/2PACX-1vSBbvIch1DN5Jbi4iWgF2PqvYyEG507R-9q55ipzt68cKwHDWOheSwV-vksDnPFOQm9OcVMN62l5P5x/pub) (in Spanish)
 
 
