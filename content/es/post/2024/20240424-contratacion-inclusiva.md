@@ -1,6 +1,6 @@
 ---
 date: "2024-04-24"
-draft: true
+draft: false
 type: page
 linktitle: Contrataciones inclusivas
 summary: "En esta publicación compartimos algunas lecciones aprendidas y una serie de recomendaciones para favorecer procesos de búsquedas laborales más justos e inclusivos"
@@ -68,3 +68,4 @@ El desarrollo de este documento fue posible gracias al Grant otorgado por la Cha
 *¿Te gustó esta publicación? Puedes reutilizarla libremente bajo licencia CC by 4.0, solo tienes que citarla.* 
 
 Esta es la cita que te recomendamos usar para referenciarla:
+Míguez, M. P., Palopoli, N., & Ación, L. (2024). Aprendizajes y recomendaciones para convocatorias laborales más inclusivas. Zenodo. https://doi.org/10.5281/zenodo.11073339
