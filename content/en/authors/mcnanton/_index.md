@@ -43,4 +43,4 @@ María studied Social Communication at the University of Buenos Aires (UBA). She
 In recent years, she has worked as a teacher in multiple undergraduate and graduate courses and as a data analyst in both the public and private sectors. 
 She currently leads an information and statistics management team at the Ministry of Health of the City of Buenos Aires and is currently pursuing a Master's degree in Data Exploitation and Knowledge Discovery at the Faculty of Exact and Natural Sciences of the University of Buenos Aires (UBA).
 
-In our presentation of the "Manzanita 2023 Internal Gala Awards" that vindicate the enormous value of the contributions of each person in the team, Maria has won the Polysemy Award, for her remarkable ability to move from one topic to another with amphibious fluency, thanks to her capacity to understand any topic, details, signifiers and dimensions.
+Inside the team, Maria has won the Polysemy Award for her remarkable ability to move from one topic to another with great fluency and command of language, thanks to her capacity to understand many topics, details and dimensions.
