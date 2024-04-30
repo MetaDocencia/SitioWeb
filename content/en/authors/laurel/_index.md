@@ -40,8 +40,10 @@ user_groups:
 ---
 **Experience and Track Record**
 
-Laura (aka Laurel) has experience working as an institutional communicator. Since 2008, she has been in charge of the analysis and planning of comprehensive institutional communication strategies combining digital communication, information systems, and organizations’ voices. 
+Laura (aka Laurel) has experience working as an institutional communicator. Since 2008, she has been in charge of the analysis and planning of comprehensive institutional communication strategies combining digital communication, information systems, and organizations’ voices. She is pursuing a Master's degree in International Management of Technology and Innovation.
 
 She is also a professor at the National University of Córdoba, Argentina.
 
 Research and expertise areas: Information and communication technology adoption in organizations. Coordination of content management systems and interfaces for internal and external communication. Diagnosis and planning of institutional communication processes, digital communication strategy, and branding. Information architecture, content management, and their users.
+
+Inside the team, Laurel has won the Architect of Words Award for her exceptional ability to build bridges within and outside our team and to keep the team together and strong, bringing a great deal of communicational beauty to everything she does and shares with us.
