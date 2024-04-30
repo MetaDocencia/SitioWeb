@@ -4,6 +4,9 @@ authors:
 bio: ""
 education:
   courses:
+  - course: Doctorado en Ciencias Aplicadas y de la Ing.
+    institution: Universidad Nacional de San Martín
+    year: 2022
   - course: Licenciada en Ciencias Matemáticas
     institution:  Universidad de Buenos Aires
     year: 2016
