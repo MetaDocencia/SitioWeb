@@ -4,9 +4,12 @@ authors:
 bio: ""
 education:
   courses:
-  - course: Masters in Applied Mathematics
+  - course: Ph.D. in Applied and Engineering Sciences
+    institution: Universidad Nacional de San Martín
+    year: 2022
+  - course: Licenciate in Mathematical Sciences
     institution:  Universidad de Buenos Aires
-    year: 
+    year: 2016
 email: ""
 interests:
 - Education
