@@ -37,5 +37,4 @@ user_groups:
 **Experience and Track Record:**
 Eunice is a member of the Civic Science Fellows Network and has extensive experience in science and technology policy formulation. She has collaborated with government agencies such as Innovation Science and Economic Development Canada and the Quebec Ministry of Science and Innovation, contributing to the development and implementation of inclusive open innovation policies by design. In addition, she served as deputy director of science and technology policy at the National Council for Science and Technology in Mexico, where she designed and implemented the country's Open Science Policy.
 
-**Contributions to the Scientific Community:**
 Eunice has participated in several advisory committees and boards in international initiatives that advocate for greater openness and collaboration in scientific practice. Her commitment is reflected in her participation in CERN's SCOAP3 initiative, the International Open Access Week and OpenCon LATAM.
