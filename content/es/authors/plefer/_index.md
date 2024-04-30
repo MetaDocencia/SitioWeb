@@ -34,9 +34,10 @@ user_groups:
 
 **Experiencia y trayectoria**
 
-
 Paola es Profesora en Historia y Técnica Museógrafa. Enfocó su formación en la historia contemporánea latinoamericana y las modalidades de enseñanza en el nivel secundario. Participa y trabaja en ámbitos relacionados con la educación (como museos e instituciones de educación media) desde hace 20 años.
 
 Se formó en herramientas alternativas para la enseñanza de la historia como la fotografía, la literatura y la música. 
 
 Actualmente sumó su formación como ceramista y utiliza esos recursos como camino alternativo para la enseñanza de diversas materias en el ámbito educativo.
+
+Hacia adentro del equipo, ha ganado el Premio Motivación, que reconoce su habilidad para generar entusiasmo y elevar los ánimos a todo el grupo con su empatía y buen humor.
