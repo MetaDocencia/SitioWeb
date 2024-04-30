@@ -51,4 +51,4 @@ Her passion for learning and collaborating in various fields has led her to be a
 
 Her credentials include a certification as an Instructor by The Carpentries and as a tidyverse Instructor by Rstudio, reflecting Patricia's commitment to education and empowerment through technology. In addition, I am an active member in communities such as R-Ladies, the Carpentries, Latin-R and The Turing Way, where I contribute to and benefit from community learning.
 
-In our presentation of the "Manzanita 2023 Internal Gala Awards" that vindicate the enormous value of the contributions of each person in the team, Pato has won the Rocket Award because she is not afraid of challenges and she os always open to new things, and thanks to her space power and her dedication to the projects she is part of and in which she represents us, she dazzles.
+Inside the team, she has won the Rocket Award because she is not afraid of challenges thanks to her power and dedication to the projects in which she represents us.
