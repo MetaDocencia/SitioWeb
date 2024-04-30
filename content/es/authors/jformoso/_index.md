@@ -16,7 +16,7 @@ education:
 email: "jesica.formoso@metadocencia.org"
 interests:
 - Ciencia de datos
-- Ciencia abierta
+- Ciencia Abierta
 - Psicología cognitiva y experimental
 name: Jesica Formoso
 weight: 7
@@ -46,5 +46,4 @@ Jesica es Licenciada en Psicología de la Universidad de Buenos Aires. Se dedica
 Como organizadora de la comunidad en R-Ladies, Jesica promueve la diversidad y participación de mujeres en el ámbito de la ciencia de datos. 
 Su certificación como instructora refleja su compromiso con la educación y la difusión de habilidades en ciencia de datos.
 
-En nuestra entrega de los “Premios Internos de Gala Manzanita 2023” que reivindican el enorme valor de las contribuciones de cada persona del equipo, Jesi ha ganado el premio Generosidad por compartir su enfoque meticuloso, sus grandes habilidades analíticas, su alegría y una dimensión única que aporta desde su perspectiva psi.
-
+Hacia adentro del equipo, Jesi ha ganado el Premio Generosidad por compartir su enfoque meticuloso, sus grandes habilidades analíticas, su alegría y una dimensión única que aporta desde su perspectiva psi.
