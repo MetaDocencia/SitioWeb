@@ -38,6 +38,6 @@ user_groups:
 
 Julian's (aka Niño) experience is focused on strategic planning for social media channels. In the field of audiovisual production, he manages to identify and implement the opportunities that audiovisual language offers for each type of content.
 
-Currently, Julian is dedicated to researching new possibilities and formats for educational audiovisual content, especially in the area of tutorials and asynchronous classes, with the goal of exploring creative ways of presenting information. 
+Currently, Julian is dedicated to explore new possibilities and formats for educational audiovisual content, especially in the area of tutorials and asynchronous classes, with the goal of exploring creative ways of presenting information. 
 
-In our "Manzanita 2023 Internal Gala Awards" that vindicate the enormous value of the contributions of each person in the team, Niño has won the Lightning Bolt Award because he unifies, embellishes and cohesively unifies our productions, bringing harmony to everything we do.
+Inside the team, Niño has won the Rayo Award because he unifies, embellishes and cohesively unifies our productions, bringing harmony to everything we do.
