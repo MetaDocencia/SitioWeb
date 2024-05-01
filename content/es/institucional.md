@@ -1,38 +1,3 @@
----
-authors:
-- MetaDocencia
-bio: 
-email: ""
-name: 
-social:
-- icon: envelope
-  icon_pack: fas
-  link: 'contact'
-- icon: facebook
-  icon_pack: fab
-  link: https://facebook.com/metadocencia
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/metadocencia
-- icon: youtube
-  icon_pack: fab
-  link: https://www.youtube.com/metadocencia
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/company/metadocencia/
-- icon: instagram
-  icon_pack: fab
-  link:  https://www.instagram.com/metadocencia/
-- icon: github
-  icon_pack: fab
-  link: https://github.com/MetaDocencia
-- icon: slack
-  icon_pack: fab
-  link: https://w3id.org/metadocencia/slack
-superuser: true
-user_groups:
----
-
 # Institucional
 
 ## Nuestra visión 
@@ -71,3 +36,36 @@ Actuar con responsabilidad y según el criterio individual, colectivo o regional
 
 #### Versatilidad
 Adaptar las acciones a las situaciones que se presentan.
+
+## Nuestro organigrama
+Ejemplo de imagen centrada con link a Equipo
+<a href="https://www.metadocencia.org/equipo/">
+  <img src="/img/organigrama.png" alt="Organigrama" width="600px"/>
+</a>
+
+
+## Accesibilidad
+Ejemplo de título + ícono
+<a href="https://www.metadocencia.org/post/perfiles_accesibilidad/">
+  <img src="/img/organigrama.png" alt="Organigrama" width="200px"/>
+</a>
+
+## Ejemplo de fila de íconos con texto
+
+Test 3
+<div style="text-align: center;">
+<div style="display: inline-block; text-align: center;">
+  <div style="display: inline-block; margin-right: 20px;">
+    <a href="http://website.com">
+      <img src="/img/organigrama.png" alt="Organigrama" width="200px"/>
+    </a>
+    <div>Text 1</div>
+  </div>
+  <div style="display: inline-block;">
+    <a href="http://website.com">
+      <img src="/img/organigrama.png" alt="Another Image" width="200px"/>
+    </a>
+    <div>Text 2</div>
+  </div>
+</div>
+</div>

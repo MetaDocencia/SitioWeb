@@ -12,9 +12,14 @@ url = ""
 #  url = ""
 #  parent = "Quiénes somos"
 #    weight = 10
+#  [[main]]
+#  name = "Institucional"
+#  url = "authors/metadocencia/"
+#  parent = "Quiénes somos"
+#    weight = 20
   [[main]]
-  name = "Misión y visión"
-  url = "authors/metadocencia/"
+  name = "Institucional2"
+  url = "institucional/"
   parent = "Quiénes somos"
     weight = 20
 #  [[main]]
@@ -27,16 +32,16 @@ url = ""
   url = "pdc/"
   parent = "Quiénes somos"
     weight = 40
-  [[main]]
-  name = "Accesibilidad"
-  url = "/post/perfiles_accesibilidad/"
-  parent = "Quiénes somos"
-    weight = 50
-  [[main]]
-  name = "Equipo"
-  url = "equipo/"
-  parent = "Quiénes somos"
-    weight = 60
+#  [[main]]
+#  name = "Accesibilidad"
+#  url = "/post/perfiles_accesibilidad/"
+#  parent = "Quiénes somos"
+#    weight = 50
+#  [[main]]
+#  name = "Equipo"
+#  url = "equipo/"
+#  parent = "Quiénes somos"
+#    weight = 60
     [[main]]
   name = "Comunidades amigas"
   url = "panal/"
