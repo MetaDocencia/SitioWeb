@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 55  # Order that this section will appear.
 
-title = "Cursos"
+title = "Formación"
 subtitle = ""
 
 [content]
@@ -22,8 +22,8 @@ subtitle = ""
   filter_default = 1
    
   [[content.filter_button]]
-    name = "Próximos cursos"
-    tag = "Próximos cursos"
+    name = "Próximos encuentros"
+    tag = "Próximos encuentros"
     
   [[content.filter_button]]
     name = "Ediciones anteriores"
