@@ -11,6 +11,8 @@
   {{ block "main" . }}{{ end }}
 
   {{ partial "site_js" . }}
+  
+  {{ partial "carousel.html" (dict "context" . "items" "1" "height" "50" "unit" "%" "duration" "7000") }}
 
   {{/* Docs and Updates layouts include the site footer in a different location. */}}
   {{ if not (in (slice "docs" "updates") .Type) }}
@@ -21,5 +23,7 @@
 
   {{ partial "citation" . }}
 
+<script type="text/javascript" src="/js/carousel.js"></script>
+<link rel="stylesheet" href="/css/carousel.css">
 </body>
 </html>
