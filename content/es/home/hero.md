@@ -55,3 +55,5 @@ label = "Reporte 2023"
 +++
 
 Introducción grupal a los contenidos de NASA TOPS
+
+{{< carousel items="1" height="500" unit="px" duration="7000" >}}
