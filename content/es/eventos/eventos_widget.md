@@ -69,6 +69,9 @@ subtitle = "América Latina se Transforma a la Ciencia Abierta"
  # CSS class.
  css_class = ""
 +++
+<p align="center">
+<img src="https://www.metadocencia.org/img/ALTaCiencia Abierta-01.jpg" alt="Flyer de las cohortes virtuales ALTa Ciencia Abierta: América Latina se Transforma a la Ciencia Abierta" width="800px"/>
+</p>
 
 ## Misión ALTa CA
 
@@ -77,10 +80,6 @@ Junto a la NASA, MetaDocencia invita a todas las personas de comunidades hispano
 Además de enseñar en comunidad los contenidos del curso de la NASA de Introducción a la Ciencia Abierta, la misión ALTa CA se enfocará en contextualizar estos saberes, para identificar y conocer experiencias innovadoras y prácticas de Ciencia Abierta propias de los espacios y regiones de las personas que participen de las cohortes. 
 
 La **inscripción es gratuita y abierta**, y las cohortes tendrán certificado de asistencia emitido por MetaDocencia, con la opción de certificar los conocimientos de Ciencia Abierta adquiridos durante la cohorte a través de NASA. Tanto las cohortes como las certificaciones serán en formato **virtual y 100% en español**.
-
-<p align="center">
-<img src="https://www.metadocencia.org/img/ALTaCiencia Abierta-01.jpg" alt="Flyer de las cohortes virtuales ALTa Ciencia Abierta: América Latina se Transforma a la Ciencia Abierta" width="800px"/>
-</p>
 
 ### Perfiles de interés
 
