@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 55  # Order that this section will appear.
 
-title = "Conversatorio de Ciencia Abierta"
-subtitle = "Profundizamos el debate"
+title = "ALTa Ciencia Abierta "
+subtitle = "América Latina se Transforma a la Ciencia Abierta"
 
 [content]
   # Page type to display. E.g. project.
@@ -22,13 +22,12 @@ subtitle = "Profundizamos el debate"
   filter_default = 0
    
   [[content.filter_button]]
-    name = "Próximos encuentros"
-    tag = "Próximos encuentros"
+    name = "Módulo 1"
+    tag = "Mod1"
     
   [[content.filter_button]]
-    name = "Encuentros anteriores"
-    tag = "Encuentros anteriores"
-
+    name = "Módulo 2"
+    tag = "Mod2"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -70,31 +69,44 @@ subtitle = "Profundizamos el debate"
  # CSS class.
  css_class = ""
 +++
+
+## Misión ALTa CA
+
+Junto a la NASA, MetaDocencia invita a todas las personas de comunidades hispanohablantes que quieran sumarse a **cohortes virtuales de formación de 6 semanas** para extender los principios de la Ciencia Abierta en América Latina y más allá. 
+
+Además de enseñar en comunidad los contenidos del curso de la NASA de Introducción a la Ciencia Abierta, la misión ALTa CA se enfocará en contextualizar estos saberes, para identificar y conocer experiencias innovadoras y prácticas de Ciencia Abierta propias de los espacios y regiones de las personas que participen de las cohortes. 
+
+La **inscripción es gratuita y abierta**, y las cohortes tendrán certificado de asistencia emitido por MetaDocencia, con la opción de certificar los conocimientos de Ciencia Abierta adquiridos durante la cohorte a través de NASA. Tanto las cohortes como las certificaciones serán en formato **virtual y 100% en español**.
+
 <p align="center">
-<img src="https://www.metadocencia.org/img/Conversatorio-CA-032024.jpg" alt="Banner Conversatorio sobre Ciencia Abierta" width="800px"/>
+<img src="https://www.metadocencia.org/img/ALTaCiencia Abierta-01.jpg" alt="Flyer de las cohortes virtuales ALTa Ciencia Abierta: América Latina se Transforma a la Ciencia Abierta" width="800px"/>
 </p>
 
-#### Completada la Misión Exploración, ¡les invitamos a seguir profundizando el debate sobre Ciencia Abierta con mirada latinoamericana!
+### Perfiles de interés
 
-Este año empezaremos a enseñar principios de Ciencia Abierta en español y a través de cohortes virtuales de varias semanas. Para prepararnos, durante el mes de febrero completamos colectivamente los contenidos originales en inglés del curso [Open Science 101](https://openscience101.org/), parte de la iniciativa TOPS (Transform to Open Science) organizada por la NASA.
+A partir de la [Misión Exploración y los Conversatorios de Ciencia Abierta](https://www.youtube.com/playlist?list=PLNsHbWOM6tUfzes2v5mSk6kY90ZpcoIgc) sabemos que las personas que participan de estos espacios tienen *diferentes grados de acercamiento a los principios y prácticas que propone la Ciencia Abierta*.
 
-En respuesta a las ganas de nuestra comunidad de profundizar las discusiones, preparamos un **nuevo ciclo de conversatorios sobre Ciencia Abierta**! En esta serie de encuentros conversaremos sobre distintos temas que rodean a la Ciencia Abierta para intentar comprender colectivamente cómo la aprendemos, como la aplicamos y qué significa para nuestra región. Queremos reconocer sus ventajas y su potencia a través de debatir sobre su alcance y posibilidades. En la última media hora de cada llamada, pensaremos cómo entender las experiencias de Ciencia Abierta que surgen en otras regiones desde nuestra realidad latinoamericana, con la mirada puesta en contextualizar recursos tales como los contenidos de NASA-TOPS Open Science 101. 
+MetaDocencia cree en la importancia de convocar a perfiles de disciplinas diversas para enriquecer las conversaciones y promover la Ciencia Abierta generando espacios de intercambio también transversales y abiertos, que aporten a la justicia epistémica y promuevan colaboraciones entre diversas áreas de conocimiento.
+En este sentido, apuntamos a un público amplio y esperamos que puedan sumarse personas hispanohablantes relacionadas a la ciencia y a la técnica en un sentido amplio que:
 
+- Estén interesadas en aproximarse a,les de curiosidad debatir o construir conocimiento  sobre  Ciencia Abierta en contextos hispanohablantes. Si esta es tuprimera aproximación a la Ciencia Abierta, ¡ será un honor contarte entre quienes participan del curso!;
+- Hayan participado en Ciencia Ciudadana, redes, eventos, o comunidades asociados a estos temas;
+- Tengan alguna experiencia trabajando en  iniciativas abiertas como por ejemplo publicaciones, datos, investigación, bibliotecas, o repositorios, entre otras;
+- Enseñen o difundan la ciencia y la técnica, ya sea desde un rol docente o de comunicación.
 
-### Horarios e inscripción
-Nuestros encuentros serán **todos los miércoles de marzo, de 17 a 18h30 (UTC-3, hora de Argentina), en español y vía Zoom**. No importa si participaste en nuestras llamadas previas o si te sumarás por primera vez. Todas las personas son bienvenidas en este nuevo ciclo!
+### Motivaciones para participar
+- Tener una primera aproximación a técnicas y principios que propone la Ciencia Abierta.
+- Participar de un espacio de formación e intercambio en español sobre Ciencia Abierta.
+- Ser parte de una experiencia que favorezca el encuentro con otras personas hispanohablantes interesadas en la Ciencia Abierta.
+- Integrar un espacio amigable y seguro en el que poder dar a conocer iniciativas y proyectos propios sobre Ciencia Abierta.
+- Fortalecer y actualizar conocimientos en Ciencia Abierta, a partir del intercambio colaborativo, con el fin de robustecer sus propios proyectos y prácticas.
+- Acceder a una certificación avalada por la NASA.
 
+## Modalidad de cursado
+Cada cohorte tendrá **6 encuentros sincrónicos online**, con frecuencia semanal y con una duración de 3 horas cada uno, con pausas lejos de la pantalla cada aproximadamente 50 minutos. El objetivo de estos espacios será hacer dialogar la teoría que proponen los contenidos de la NASA con casos, experiencias o iniciativas de América Latina que materialicen los principios o buenas prácticas de la Ciencia Abierta. 
 
-**> [Formulario de registro para asistir a los eventos](https://docs.google.com/forms/d/e/1FAIpQLSe2_d08ZLEComUlsUwzHKPhiGcEuN2u1oq1gdvRcAXLfWz8ww/viewform)**
+Los primeros 5 encuentros estarán destinados a  reflexionar sobre cada uno de los cinco módulos del currículo que plantea el curso de Introducción a la Ciencia Abierta de la NASA. Incluirán actividades destinadas a promover el intercambio y discusión entre pares en salas de trabajo, presentar y difundir iniciativas o proyectos de quienes asistan.
 
-*Todos los datos se manejarán en forma confidencial, sólo podrán ser publicados de forma agregada y anonimizada en reportes sobre el alcance de MetaDocencia.*
+El último encuentro se plantea como un espacio de devoluciones, intercambio, repaso, discusión y apoyo para obtener la certificación.
 
-
-**Ciclo de encuentros y temas programados:**
-
-|  Día/hora (UTC-3) | Tema |
-| ---:  | :----------- |
-|Mié 06-03 - 17 a 18:00 | *Reflexiones finales de los 5 módulos NASA y desafíos de su aplicación en América Latina* | 
-|Mié 13-03 - 17 a 18:30 | *Acceso Abierto en América Latina, ventajas e implicaciones* | 
-|Mié 20-03 - 17 a 18:30 | *Datos Abiertos de la investigación científica en América Latina y el nuevo extractivismo* |
-|Mié 27-03 - 17 a 18:30 | *Aplicación de la Ciencia Abierta en América Latina atendiendo a la justicia epistémica* |
+### *Pronto más información*
