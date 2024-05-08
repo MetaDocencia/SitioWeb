@@ -54,4 +54,4 @@ label = "Reporte 2023"
 #   label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-Junto a la NASA, invitamos a personas hispanohablantes a sumarse a cohortes virtuales de formación de 6 semanas para transformarnos a la Ciencia Abierta.
+Junto a la NASA, invitamos a personas hispanohablantes a sumarse a cohortes virtuales para transformarnos a la Ciencia Abierta.
