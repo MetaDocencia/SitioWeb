@@ -7,7 +7,7 @@ weight = 5  # Order that this section will appear.
 
 # title = "Co-creando y enseñando ciencia abierta"
 
-title = "ALTa Ciencia Abierta: América Latina se Transforma a la Ciencia Abierta"
+title = "ALTa Ciencia Abierta"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "MD_original.png"
@@ -54,4 +54,4 @@ label = "Reporte 2023"
 #   label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-Junto a la NASA, MetaDocencia invita a personas de comunidades hispanohablantes que quieran sumarse a cohortes virtuales de formación de 6 semanas.
+Junto a la NASA, invitamos a personas hispanohablantes a sumarse a cohortes virtuales de formación de 6 semanas para transformarnos a la Ciencia Abierta.
