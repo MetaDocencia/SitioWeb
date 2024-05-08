@@ -86,9 +86,10 @@ La **inscripción es gratuita y abierta**, y las cohortes tendrán certificado d
 A partir de la [Misión Exploración y los Conversatorios de Ciencia Abierta](https://www.youtube.com/playlist?list=PLNsHbWOM6tUfzes2v5mSk6kY90ZpcoIgc) sabemos que las personas que participan de estos espacios tienen *diferentes grados de acercamiento a los principios y prácticas que propone la Ciencia Abierta*.
 
 MetaDocencia cree en la importancia de convocar a perfiles de disciplinas diversas para enriquecer las conversaciones y promover la Ciencia Abierta generando espacios de intercambio también transversales y abiertos, que aporten a la justicia epistémica y promuevan colaboraciones entre diversas áreas de conocimiento.
-En este sentido, apuntamos a un público amplio y esperamos que puedan sumarse personas hispanohablantes relacionadas a la ciencia y a la técnica en un sentido amplio que:
 
-- Estén interesadas en aproximarse a,les de curiosidad debatir o construir conocimiento  sobre  Ciencia Abierta en contextos hispanohablantes. Si esta es tuprimera aproximación a la Ciencia Abierta, ¡ será un honor contarte entre quienes participan del curso!;
+En este sentido, esperamos que puedan sumarse personas hispanohablantes relacionadas a la ciencia y a la técnica en un sentido amplio que:
+
+- Estén interesadas en aproximarse a, les dé curiosidad debatir o construir conocimiento sobre Ciencia Abierta en contextos hispanohablantes. Si esta es tu primera aproximación a la Ciencia Abierta, ¡será un honor contarte entre quienes participan del curso!;
 - Hayan participado en Ciencia Ciudadana, redes, eventos, o comunidades asociados a estos temas;
 - Tengan alguna experiencia trabajando en  iniciativas abiertas como por ejemplo publicaciones, datos, investigación, bibliotecas, o repositorios, entre otras;
 - Enseñen o difundan la ciencia y la técnica, ya sea desde un rol docente o de comunicación.
@@ -108,4 +109,6 @@ Los primeros 5 encuentros estarán destinados a  reflexionar sobre cada uno de l
 
 El último encuentro se plantea como un espacio de devoluciones, intercambio, repaso, discusión y apoyo para obtener la certificación.
 
-### *Pronto más información*
+
+### *Pronto más información y registro*
+
