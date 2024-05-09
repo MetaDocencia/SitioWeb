@@ -14,27 +14,86 @@ author = "MetaDocencia"
 +++
 
 <div class="container">
-  <div class="row align-items-start">
-    <div class="col-12 col-lg-4">
-      <h1>Nuestra visión</h1>
-    </div>
-    <div class="col-12 col-lg-8">
-      Trabajamos para que la producción, la comunicación y la aplicación de saberes científicos y técnicos sean globalmente equitativas.
+<div style="text-align: center;">
+
+<div style="display: inline-block; text-align: center;">
+
+  <div style="display: inline-block; margin-right: 30px;">
+    <a href="https://www.metadocencia.org/">
+      <img src="/img/organigrama.png" alt="Organigrama" width="100px"/>
+    </a>
+    <div style="padding-top: 5px;">
+    <a href="https://www.metadocencia.org/">
+    <div>Sección 1</div>
+    </a>
     </div>
   </div>
+  
+  <div style="display: inline-block;margin-right: 30px;">
+    <a href="https://www.metadocencia.org/">
+      <img src="/img/organigrama.png" alt="Another Image" width="100px"/>
+    </a>
+    <div style="padding-top: 5px;">
+    <a href="https://www.metadocencia.org/">
+    <div>Sección 2</div>
+    </a>
+    </div>
+  </div>
+  
+  <div style="display: inline-block;margin-right: 30px;">
+    <a href="https://www.metadocencia.org/">
+      <img src="/img/organigrama.png" alt="Another Image" width="100px"/>
+    </a>
+    <div style="padding-top: 5px;">
+    <a href="https://www.metadocencia.org/">
+    <div>Sección 3</div>
+    </a>
+    </div>
+  </div>  
+
+  <div style="display: inline-block;">
+    <a href="https://www.metadocencia.org/">
+      <img src="/img/organigrama.png" alt="Another Image" width="100px"/>
+    </a>
+    <a href="https://www.metadocencia.org/">
+    <div>Sección 4</div>
+    </a>
+  </div>  
+  
 </div>
 
-<p>&nbsp;</p>
+</div>
+
+</div>
 
 <div class="container">
-  <div class="row align-items-start">
-    <div class="col-12 col-lg-4">
-      <h1>Nuestra misión</h1>
-    </div>
-    <div class="col-12 col-lg-8">
-      Construir capacidades científicas y técnicas en forma responsable y con mirada local, a través de la co-creación de redes, espacios de aprendizaje y recursos accesibles para comunidades hispanohablantes.
-    </div>
+<div style="text-align: center;">
+
+<div style="display: inline-block; text-align: center;">
+
+  <div style="display: inline-block; margin-right: 20px;">
+    <a href="http://website.com">
+      <img src="/img/organigrama.png" alt="Organigrama" width="200px"/>
+    </a>
+    <div>Sección 1</div>
   </div>
+  
+  <div style="display: inline-block;margin-right: 20px;">
+    <a href="http://website.com">
+      <img src="/img/organigrama.png" alt="Another Image" width="200px"/>
+    </a>
+    <div>Sección 2</div>
+  </div>
+  
+  <div style="display: inline-block;">
+    <a href="http://website.com">
+      <img src="/img/organigrama.png" alt="Another Image" width="200px"/>
+    </a>
+    <div>Sección 3</div>
+  </div>  
+  
 </div>
 
 
+</div>
+</div>
