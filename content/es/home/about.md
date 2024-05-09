@@ -14,6 +14,7 @@ author = "MetaDocencia"
 +++
 
 <div class="container">
+<div class="row align-items-start">
 <div style="text-align: center;">
 
 <div style="display: inline-block; text-align: center;">
@@ -68,7 +69,10 @@ author = "MetaDocencia"
 
 </div>
 
+</div>
+
 <div class="container">
+<div class="row align-items-start">
 <div style="text-align: center;">
 
 <div style="display: inline-block; text-align: center;">
@@ -97,5 +101,6 @@ author = "MetaDocencia"
 </div>
 
 
+</div>
 </div>
 </div>
