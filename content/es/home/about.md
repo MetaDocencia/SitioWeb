@@ -55,9 +55,11 @@ author = "MetaDocencia"
     <a href="https://www.metadocencia.org/">
       <img src="/img/organigrama.png" alt="Another Image" width="100px"/>
     </a>
+    <div style="padding-top: 5px;">
     <a href="https://www.metadocencia.org/">
     <div>Sección 4</div>
     </a>
+    </div>
   </div>  
   
 </div>
