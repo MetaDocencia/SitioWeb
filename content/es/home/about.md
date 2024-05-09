@@ -14,9 +14,9 @@ author = "MetaDocencia"
 +++
 
 <div style="text-align: center;">
-<div style="display: inline-block; text-align: center;">
+<div style="display: flex; justify-content: center;">
 
-  <div style="display: inline-block; margin-right: 30px;">
+  <div style="margin-right: 30px;">
     <a href="https://www.metadocencia.org/">
       <img src="/img/organigrama.png" alt="Organigrama" width="100px"/>
     </a>
