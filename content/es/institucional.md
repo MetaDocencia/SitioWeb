@@ -43,29 +43,3 @@ Ejemplo de imagen centrada con link a Equipo
   <img src="/img/organigrama.png" alt="Organigrama" width="600px"/>
 </a>
 
-
-## Accesibilidad
-Ejemplo de título + ícono
-<a href="https://www.metadocencia.org/post/perfiles_accesibilidad/">
-  <img src="/img/organigrama.png" alt="Organigrama" width="200px"/>
-</a>
-
-## Ejemplo de fila de íconos con texto
-
-Test 3
-<div style="text-align: center;">
-<div style="display: inline-block; text-align: center;">
-  <div style="display: inline-block; margin-right: 20px;">
-    <a href="http://website.com">
-      <img src="/img/organigrama.png" alt="Organigrama" width="200px"/>
-    </a>
-    <div>Text 1</div>
-  </div>
-  <div style="display: inline-block;">
-    <a href="http://website.com">
-      <img src="/img/organigrama.png" alt="Another Image" width="200px"/>
-    </a>
-    <div>Text 2</div>
-  </div>
-</div>
-</div>

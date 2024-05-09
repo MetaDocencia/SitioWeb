@@ -13,6 +13,9 @@ weight = 20  # Order that this section will appear in.
 author = "MetaDocencia"
 +++
 
+## Ejemplo de título básico
+El título puede espaciarse más respecto a los íconos. También podemos modificar la tipografía.
+
 <div style="text-align: center;">
 <div style="display: flex; justify-content: center;">
 
@@ -22,7 +25,7 @@ author = "MetaDocencia"
     </a>
     <div style="padding-top: 5px;">
     <a href="https://www.metadocencia.org/">
-    <div>Text 1</div>
+    <div>Sección 1</div>
     </a>
     </div>
   </div>
@@ -33,9 +36,32 @@ author = "MetaDocencia"
     </a>
     <div style="padding-top: 5px;">
     <a href="https://www.metadocencia.org/">
-    <div>Text 2</div>
+    <div>Sección 2</div>
     </a>
     </div>
   </div>
+  
+  <div style="margin-right: 30px;">
+    <a href="https://www.metadocencia.org/">
+      <img src="/img/organigrama.png" alt="Another Image" width="100px"/>
+    </a>
+    <div style="padding-top: 5px;">
+    <a href="https://www.metadocencia.org/">
+    <div>Sección 3</div>
+    </a>
+    </div>
+  </div>  
+
+  <div style="margin-right: 30px;">
+    <a href="https://www.metadocencia.org/">
+      <img src="/img/organigrama.png" alt="Another Image" width="100px"/>
+    </a>
+    <div style="padding-top: 5px;">
+    <a href="https://www.metadocencia.org/">
+    <div>Sección 4</div>
+    </a>
+    </div>
+  </div>  
+  
 </div>
 </div>
