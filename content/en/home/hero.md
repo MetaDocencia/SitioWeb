@@ -7,7 +7,7 @@ weight = 10  # Order that this section will appear.
 
 # title = "Co-creating and Teaching Open Science"
 
-title = "Latin America Transforms to Open Science"
+title = "Transform to Open Science"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "MD_original.png"
