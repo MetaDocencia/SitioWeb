@@ -14,10 +14,7 @@ author = "MetaDocencia"
 +++
 
 <div class="container">
-<div class="row align-items-start">
 <div style="text-align: center;">
-
-<div style="display: inline-block; text-align: center;">
 
   <div style="display: inline-block; margin-right: 30px;">
     <a href="https://www.metadocencia.org/">
@@ -67,15 +64,9 @@ author = "MetaDocencia"
 
 </div>
 
-</div>
-
-</div>
 
 <div class="container">
-<div class="row align-items-start">
 <div style="text-align: center;">
-
-<div style="display: inline-block; text-align: center;">
 
   <div style="display: inline-block; margin-right: 20px;">
     <a href="http://website.com">
@@ -100,7 +91,4 @@ author = "MetaDocencia"
   
 </div>
 
-
-</div>
-</div>
 </div>
