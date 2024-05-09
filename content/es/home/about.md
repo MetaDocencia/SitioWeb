@@ -27,7 +27,7 @@ author = "MetaDocencia"
     </div>
   </div>
   
-  <div style="display: inline-block;">
+  <div style="margin-right: 30px;">
     <a href="https://www.metadocencia.org/">
       <img src="/img/organigrama.png" alt="Another Image" width="100px"/>
     </a>
