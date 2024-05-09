@@ -64,31 +64,3 @@ author = "MetaDocencia"
 
 </div>
 
-
-<div class="container">
-<div style="text-align: center;">
-
-  <div style="display: inline-block; margin-right: 20px;">
-    <a href="http://website.com">
-      <img src="/img/organigrama.png" alt="Organigrama" width="200px"/>
-    </a>
-    <div>Sección 1</div>
-  </div>
-  
-  <div style="display: inline-block;margin-right: 20px;">
-    <a href="http://website.com">
-      <img src="/img/organigrama.png" alt="Another Image" width="200px"/>
-    </a>
-    <div>Sección 2</div>
-  </div>
-  
-  <div style="display: inline-block;">
-    <a href="http://website.com">
-      <img src="/img/organigrama.png" alt="Another Image" width="200px"/>
-    </a>
-    <div>Sección 3</div>
-  </div>  
-  
-</div>
-
-</div>
