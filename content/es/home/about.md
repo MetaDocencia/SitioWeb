@@ -13,7 +13,7 @@ weight = 20  # Order that this section will appear in.
 author = "MetaDocencia"
 +++
 
-<div class="container">
+<div class="container" style="display: flex; justify-content: center;">
 <div style="text-align: center;">
 
   <div style="display: inline-block; margin-right: 30px;">
