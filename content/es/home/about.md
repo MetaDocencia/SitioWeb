@@ -13,8 +13,8 @@ weight = 20  # Order that this section will appear in.
 author = "MetaDocencia"
 +++
 
-<div class="container" style="display: flex; justify-content: center;">
 <div style="text-align: center;">
+<div style="display: inline-block; text-align: center;">
 
   <div style="display: inline-block; margin-right: 30px;">
     <a href="https://www.metadocencia.org/">
@@ -22,64 +22,20 @@ author = "MetaDocencia"
     </a>
     <div style="padding-top: 5px;">
     <a href="https://www.metadocencia.org/">
-    <div>Sección 1</div>
-    </a>
-    </div>
-  </div>
-  
-  <div style="display: inline-block;margin-right: 30px;">
-    <a href="https://www.metadocencia.org/">
-      <img src="/img/organigrama.png" alt="Another Image" width="100px"/>
-    </a>
-    <div style="padding-top: 5px;">
-    <a href="https://www.metadocencia.org/">
-    <div>Sección 2</div>
-    </a>
-    </div>
-  </div>
-  
-  <div style="display: inline-block;margin-right: 30px;">
-    <a href="https://www.metadocencia.org/">
-      <img src="/img/organigrama.png" alt="Another Image" width="100px"/>
-    </a>
-    <div style="padding-top: 5px;">
-    <a href="https://www.metadocencia.org/">
-    <div>Sección 3</div>
-    </a>
-    </div>
-  </div>  
-
-  <div style="display: inline-block;">
-    <a href="https://www.metadocencia.org/">
-      <img src="/img/organigrama.png" alt="Another Image" width="100px"/>
-    </a>
-    <div style="padding-top: 5px;">
-    <a href="https://www.metadocencia.org/">
-    <div>Sección 4</div>
-    </a>
-    </div>
-  </div>  
-  
-</div>
-
-</div>
-
-## Ejemplo de fila de íconos con texto
-
-Test 3
-<div style="text-align: center;">
-<div style="display: inline-block; text-align: center;">
-  <div style="display: inline-block; margin-right: 20px;">
-    <a href="http://website.com">
-      <img src="/img/organigrama.png" alt="Organigrama" width="200px"/>
-    </a>
     <div>Text 1</div>
-  </div>
-  <div style="display: inline-block;">
-    <a href="http://website.com">
-      <img src="/img/organigrama.png" alt="Another Image" width="200px"/>
     </a>
+    </div>
+  </div>
+  
+  <div style="display: inline-block;">
+    <a href="https://www.metadocencia.org/">
+      <img src="/img/organigrama.png" alt="Another Image" width="100px"/>
+    </a>
+    <div style="padding-top: 5px;">
+    <a href="https://www.metadocencia.org/">
     <div>Text 2</div>
+    </a>
+    </div>
   </div>
 </div>
 </div>
