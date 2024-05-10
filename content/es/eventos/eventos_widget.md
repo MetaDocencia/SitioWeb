@@ -73,6 +73,8 @@ subtitle = "América Latina se Transforma a la Ciencia Abierta"
 <img src="https://www.metadocencia.org/img/ALTaCiencia Abierta-01.jpg" alt="Flyer de las cohortes virtuales ALTa Ciencia Abierta: América Latina se Transforma a la Ciencia Abierta" width="800px"/>
 </p>
 
+{{% toc %}}
+
 # Misión ALTa CA
 
 Junto a la NASA, MetaDocencia invita a todas las personas de comunidades hispanohablantes que quieran sumarse a **cohortes virtuales de formación de 6 semanas** para extender los principios de la Ciencia Abierta en América Latina y más allá. 
