@@ -73,7 +73,7 @@ subtitle = "América Latina se Transforma a la Ciencia Abierta"
 <img src="https://www.metadocencia.org/img/ALTaCiencia Abierta-01.jpg" alt="Flyer de las cohortes virtuales ALTa Ciencia Abierta: América Latina se Transforma a la Ciencia Abierta" width="800px"/>
 </p>
 
-## Misión ALTa CA
+# Misión ALTa CA
 
 Junto a la NASA, MetaDocencia invita a todas las personas de comunidades hispanohablantes que quieran sumarse a **cohortes virtuales de formación de 6 semanas** para extender los principios de la Ciencia Abierta en América Latina y más allá. 
 
@@ -81,7 +81,7 @@ Además de enseñar en comunidad los contenidos del curso de la NASA de Introduc
 
 La **inscripción es gratuita y abierta**, y las cohortes tendrán certificado de asistencia emitido por MetaDocencia, con la opción de certificar los conocimientos de Ciencia Abierta adquiridos durante la cohorte a través de NASA. Tanto las cohortes como las certificaciones serán en formato **virtual y 100% en español**.
 
-### Motivaciones para participar
+## Motivaciones para participar
 
 El objetivo de esta formación será hacer dialogar la teoría que proponen los contenidos de la NASA con casos, experiencias o iniciativas de América Latina que materialicen los principios o buenas prácticas de la Ciencia Abierta. 
 
@@ -122,7 +122,7 @@ Quienes participen del curso podrán acceder a una doble certificación:
 ### Certificación NASA TOPS
 Para obtener el certificado de conocimiento de los contenidos del Curso de Introducción a la Ciencia Abierta de la NASA será necesario contestar correctamente el 70% de las preguntas de cada uno de los 5 cuestionarios administrados al final de cada encuentro. Los formularios estarán disponibles en español y se dedicará la última parte de los encuentros sincrónicos 1 a 5 para responderlos. Se ofrecerá la posibilidad de completarlos de forma asincrónica (hasta 7 días corridos luego de la fecha del último encuentro) y de rehacerlos durante el encuentro 6 en el caso de que no obtenerse el 70% de preguntas correctas.
 
-### Certificación MetaDocenciaç
+### Certificación MetaDocencia
 Además, entregaremos un certificado de asistencia de MD a quienes participen activamente, ya sea asistiendo sincrónicamente a 4 de los 6 encuentros, o habiendo completado 4 de los 5 cuestionarios detallados en el párrafo anterior al menos 7 días corridos después de la fecha del último encuentro sincrónico.
 
 ## Materiales
