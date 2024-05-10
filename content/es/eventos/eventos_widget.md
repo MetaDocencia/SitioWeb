@@ -105,7 +105,7 @@ Esperamos que puedan sumarse personas hispanohablantes relacionadas a la ciencia
 - Tengan alguna, en un rango amplio entre poca y muchísima, experiencia trabajando en  iniciativas abiertas como por ejemplo publicaciones, datos, investigación, bibliotecas, o repositorios, entre otras;
 - Enseñen o difundan la ciencia y la técnica, ya sea desde un rol docente o de comunicación.
 
-## ¿Qué *no* incluye esta formación?
+### ¿Qué *no* incluye esta formación?
 - Desarrollo en profundidad y práctica extensiva de los principios de Ciencia Abierta.
 - Teoría de la ciencia o la epistemología.
 - Uso de Ciencia Abierta enfocado en disciplinas específicas.
