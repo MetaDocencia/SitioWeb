@@ -81,20 +81,11 @@ Además de enseñar en comunidad los contenidos del curso de la NASA de Introduc
 
 La **inscripción es gratuita y abierta**, y las cohortes tendrán certificado de asistencia emitido por MetaDocencia, con la opción de certificar los conocimientos de Ciencia Abierta adquiridos durante la cohorte a través de NASA. Tanto las cohortes como las certificaciones serán en formato **virtual y 100% en español**.
 
-### Perfiles de interés
-
-A partir de la [Misión Exploración y los Conversatorios de Ciencia Abierta](https://www.youtube.com/playlist?list=PLNsHbWOM6tUfzes2v5mSk6kY90ZpcoIgc) sabemos que las personas que participan de estos espacios tienen *diferentes grados de acercamiento a los principios y prácticas que propone la Ciencia Abierta*.
-
-MetaDocencia cree en la importancia de convocar a perfiles de disciplinas diversas para enriquecer las conversaciones y promover la Ciencia Abierta generando espacios de intercambio también transversales y abiertos, que aporten a la justicia epistémica y promuevan colaboraciones entre diversas áreas de conocimiento.
-
-En este sentido, esperamos que puedan sumarse personas hispanohablantes relacionadas a la ciencia y a la técnica en un sentido amplio que:
-
-- Estén interesadas en aproximarse a, les dé curiosidad debatir o construir conocimiento sobre Ciencia Abierta en contextos hispanohablantes. Si esta es tu primera aproximación a la Ciencia Abierta, ¡será un honor contarte entre quienes participan del curso!;
-- Hayan participado en Ciencia Ciudadana, redes, eventos, o comunidades asociados a estos temas;
-- Tengan alguna experiencia trabajando en  iniciativas abiertas como por ejemplo publicaciones, datos, investigación, bibliotecas, o repositorios, entre otras;
-- Enseñen o difundan la ciencia y la técnica, ya sea desde un rol docente o de comunicación.
-
 ### Motivaciones para participar
+
+El objetivo de esta formación será hacer dialogar la teoría que proponen los contenidos de la NASA con casos, experiencias o iniciativas de América Latina que materialicen los principios o buenas prácticas de la Ciencia Abierta. 
+
+Quienes completen esta formación podrán:
 - Tener una primera aproximación a técnicas y principios que propone la Ciencia Abierta.
 - Participar de un espacio de formación e intercambio en español sobre Ciencia Abierta.
 - Ser parte de una experiencia que favorezca el encuentro con otras personas hispanohablantes interesadas en la Ciencia Abierta.
@@ -102,12 +93,43 @@ En este sentido, esperamos que puedan sumarse personas hispanohablantes relacion
 - Fortalecer y actualizar conocimientos en Ciencia Abierta, a partir del intercambio colaborativo, con el fin de robustecer sus propios proyectos y prácticas.
 - Acceder a una certificación avalada por la NASA.
 
-## Modalidad de cursado
-Cada cohorte tendrá **6 encuentros sincrónicos online**, con frecuencia semanal y con una duración de 3 horas cada uno, con pausas lejos de la pantalla cada aproximadamente 50 minutos. El objetivo de estos espacios será hacer dialogar la teoría que proponen los contenidos de la NASA con casos, experiencias o iniciativas de América Latina que materialicen los principios o buenas prácticas de la Ciencia Abierta. 
+### ¿Para quién?
+MetaDocencia cree en la importancia de convocar a perfiles de disciplinas diversas para enriquecer las conversaciones y promover la Ciencia Abierta generando espacios de intercambio también transversales y abiertos, que aporten a la [justicia epistémica](https://dialnet.unirioja.es/servlet/articulo?codigo=8022184) y promuevan colaboraciones entre diversas áreas de conocimiento.
 
-Los primeros 5 encuentros estarán destinados a  reflexionar sobre cada uno de los cinco módulos del currículo que plantea el curso de Introducción a la Ciencia Abierta de la NASA. Incluirán actividades destinadas a promover el intercambio y discusión entre pares en salas de trabajo, presentar y difundir iniciativas o proyectos de quienes asistan.
+Esperamos que puedan sumarse personas hispanohablantes relacionadas a la ciencia y a la técnica en un sentido amplio que:
 
-El último encuentro se plantea como un espacio de devoluciones, intercambio, repaso, discusión y apoyo para obtener la certificación.
+- Estén interesadas en aproximarse a, les dé curiosidad debatir o construir conocimiento sobre Ciencia Abierta en contextos hispanohablantes. Si esta es tu primera aproximación a la Ciencia Abierta, ¡será un honor contarte entre quienes participan en el curso!;
+- Hayan participado en Ciencia Ciudadana, redes, eventos, o comunidades asociados a estos temas;
+- Tengan alguna, en un rango amplio entre poca y muchísima, experiencia trabajando en  iniciativas abiertas como por ejemplo publicaciones, datos, investigación, bibliotecas, o repositorios, entre otras;
+- Enseñen o difundan la ciencia y la técnica, ya sea desde un rol docente o de comunicación.
+
+## ¿Qué *no* incluye esta formación?
+- Desarrollo en profundidad y práctica extensiva de los principios de Ciencia Abierta.
+- Teoría de la ciencia o la epistemología.
+- Uso de Ciencia Abierta enfocado en disciplinas específicas.
+
+## Duración
+Cada cohorte tendrá 6 encuentros sincrónicos online, con frecuencia semanal y con una duración de 3 horas cada uno, con pausas lejos de la pantalla cada aproximadamente 50 minutos.
+
+Durante los primeros 5 encuentros reflexionaremos sobre cada uno de los cinco módulos del curso de Introducción a la Ciencia Abierta de la NASA. Incluirán actividades destinadas a promover el intercambio, discutir entre pares en salas de trabajo, y presentar iniciativas o proyectos de quienes asistan.
+
+## Cronograma
+En el primer encuentro se presentarán los conceptos claves del módulo, definiciones de términos y la importancia de la contextualización. También se define la modalidad de los encuentros, canales de comunicación y colaboración. En los módulos 2 a 5 se presentará un caso o proyecto con perspectiva latinoamericana para ilustrar las recomendaciones sobre el tema con buenas prácticas contextualizadas. El sexto encuentro es de repaso y cierre: devoluciones, intercambio, discusión y apoyo para obtener la certificación.
+
+## Certificación
+Quienes participen del curso podrán acceder a una doble certificación: 
+
+### Certificación NASA TOPS
+Para obtener el certificado de conocimiento de los contenidos del Curso de Introducción a la Ciencia Abierta de la NASA será necesario contestar correctamente el 70% de las preguntas de cada uno de los 5 cuestionarios administrados al final de cada encuentro. Los formularios estarán disponibles en español y se dedicará la última parte de los encuentros sincrónicos 1 a 5 para responderlos. Se ofrecerá la posibilidad de completarlos de forma asincrónica (hasta 7 días corridos luego de la fecha del último encuentro) y de rehacerlos durante el encuentro 6 en el caso de que no obtenerse el 70% de preguntas correctas.
+
+### Certificación MetaDocenciaç
+Además, entregaremos un certificado de asistencia de MD a quienes participen activamente, ya sea asistiendo sincrónicamente a 4 de los 6 encuentros, o habiendo completado 4 de los 5 cuestionarios detallados en el párrafo anterior al menos 7 días corridos después de la fecha del último encuentro sincrónico.
+
+## Materiales
+En esta sección compartiremos las presentaciones, notas y videos de cada día de curso próximamente.
+
+## ¡Sírvete sin culpa!
+¿Te vienen bien cualquiera de nuestros contenidos? ¡Sírvete sin culpa! Nuestros materiales están disponibles en forma gratuita bajo [licencia CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es) Es decir, puedes reusar o editar cualquier material que aparece encima de estas líneas, lo único que pedimos a cambio es que incluyas una referencia a esta página web. Para más información, escríbenos a formacion@metadocencia.org.
 
 
 ### *Pronto más información y registro*
