@@ -113,7 +113,7 @@ Esperamos que puedan sumarse personas hispanohablantes relacionadas a la ciencia
 ## Duración
 Cada cohorte tendrá **6 encuentros sincrónicos online, con frecuencia semanal y con una duración de 3 horas cada uno**, con pausas lejos de la pantalla cada aproximadamente 50 minutos.
 
-Durante los primeros 5 encuentros reflexionaremos sobre cada uno de los cinco módulos del curso de Introducción a la Ciencia Abierta de la NASA. Incluirán actividades destinadas a promover el intercambio, discutir entre pares en salas de trabajo, y presentar iniciativas o proyectos de quienes asistan.
+Durante los encuentros reflexionaremos sobre cada uno de los cinco módulos del curso de Introducción a la Ciencia Abierta de la NASA. Incluirán actividades destinadas a promover el intercambio, discutir entre pares en salas de trabajo, y presentar iniciativas o proyectos de quienes asistan.
 
 ## Cronograma
 En el primer encuentro se presentarán los conceptos claves del módulo, definiciones de términos y la importancia de la contextualización. También se define la modalidad de los encuentros, canales de comunicación y colaboración. En los módulos 2 a 5 se presentará un caso o proyecto con perspectiva latinoamericana para ilustrar las recomendaciones sobre el tema con buenas prácticas contextualizadas. El sexto encuentro es de repaso y cierre: devoluciones, intercambio, discusión y apoyo para obtener la certificación.
