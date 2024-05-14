@@ -118,6 +118,17 @@ Durante los encuentros reflexionaremos sobre cada uno de los cinco módulos del 
 ## Cronograma
 En el primer encuentro se presentarán los conceptos claves del módulo, definiciones de términos y la importancia de la contextualización. También se define la modalidad de los encuentros, canales de comunicación y colaboración. En los módulos 2 a 5 se presentará un caso o proyecto con perspectiva latinoamericana para ilustrar las recomendaciones sobre el tema con buenas prácticas contextualizadas. El sexto encuentro es de repaso y cierre: devoluciones, intercambio, discusión y apoyo para obtener la certificación.
 
+|  Día/hora (UTC-3) | Tema |
+| ---:  | :----------- |
+|Mié 26-06 - 16 a 19 | *El Ethos de la Ciencia Abierta* | 
+|Mié 03-07 - 16 a 19 | *Herramientas y recursos abiertos* | 
+|Mié 10-07 - 16 a 19 | *Datos Abiertos* |
+|Mié 17-07 - 16 a 19 | *Código Abierto* |
+|Mié 24-07 - 16 a 19 | *Resultados abiertos* |
+|Mié 31-07 - 16 a 19 | *Encuentro de repaso y cierre* |
+
+Para aumentar la accesibilidad de esta formación, grabaremos cada encuentro y compartiremos su grabación al día siguiente. 
+
 ## Certificación
 Quienes participen del curso podrán acceder a una **doble certificación**: 
 
@@ -133,6 +144,8 @@ En esta sección compartiremos las presentaciones, notas y videos de cada día d
 ## ¡Sírvete sin culpa!
 ¿Te vienen bien cualquiera de nuestros contenidos? ¡Sírvete sin culpa! Nuestros materiales están disponibles en forma gratuita bajo [licencia CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es) Es decir, puedes reusar o editar cualquier material que aparece encima de estas líneas, lo único que pedimos a cambio es que incluyas una referencia a esta página web. Para más información, escríbenos a formacion@metadocencia.org.
 
+# Cómo participar
 
-### *Pronto más información y registro*
+**[FORMULARIO DE INSCRIPCIÓN](https://docs.google.com/forms/d/e/1FAIpQLSeXRTWjBfiKKMCYZzDRaIWQaU21Kf1eqlmnyK8UzmV6lASM8w/viewform)**
 
+*Todos los datos se manejarán en forma confidencial, sólo podrán ser publicados de forma agregada y anonimizada en reportes sobre el alcance de MetaDocencia.*
