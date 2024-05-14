@@ -146,4 +146,4 @@ In this section, we will soon share presentations, notes, and videos from each c
 Our materials are available for free under this [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/deed.es). You can reuse or edit any material that appears here. We only ask that you include a reference to this website or the material citation when available. For further information, please contact us at formacion@metadocencia.org
 
 # How to participate
-This training will be offered in Spanish. **[Registration form (in Spanish)]**(https://docs.google.com/forms/d/e/1FAIpQLSeXRTWjBfiKKMCYZzDRaIWQaU21Kf1eqlmnyK8UzmV6lASM8w/viewform)
+This training will be offered in Spanish. **[REGISTRATION FORM (in Spanish)](https://docs.google.com/forms/d/e/1FAIpQLSeXRTWjBfiKKMCYZzDRaIWQaU21Kf1eqlmnyK8UzmV6lASM8w/viewform)**
