@@ -119,6 +119,17 @@ During the meetings, we will reflect on the five NASA TOPS Open Science 101 cour
 ## Schedule
 The first meeting will introduce the key concepts of the module, term definitions, and the importance of contextualization. We will also explain the modality of the meetings and the communication channels. In modules 2 to 5, we will present a case or project with a Latin American perspective to illustrate the recommendations on the subject with contextualized good practices. The sixth meeting is for review and closing: feedback, exchange, discussion, and support to obtain certification.
 
+|  Day/time (UTC-3) | Topic |
+| ---:  | :----------- |
+|Mié 26-06 - 16 to 19 | *The Ethos of Open Science* | 
+|Mié 03-07 - 16 to 19 | *Open Tool and Resources* | 
+|Mié 10-07 - 16 to 19 | *Open Data* |
+|Mié 17-07 - 16 to 19 | *Open Code* |
+|Mié 24-07 - 16 to 19 | *Open Results* |
+|Mié 31-07 - 16 to 19 | *Review and closing meeting* |
+
+To increase the accessibility of this training, we will record each meeting and share the recording the following day. 
+
 ## Certification
 Those who participate in the course will have access to a **dual certification**:
 
@@ -134,5 +145,5 @@ In this section, we will soon share presentations, notes, and videos from each c
 ## Do you want to reuse any of our content? Please, be our guest!
 Our materials are available for free under this [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/deed.es). You can reuse or edit any material that appears here. We only ask that you include a reference to this website or the material citation when available. For further information, please contact us at formacion@metadocencia.org
 
-
-### *Soon more information and registration*
+# How to participate
+This training will be offered in Spanish. **[Registration form (in Spanish)]**(https://docs.google.com/forms/d/e/1FAIpQLSeXRTWjBfiKKMCYZzDRaIWQaU21Kf1eqlmnyK8UzmV6lASM8w/viewform)
