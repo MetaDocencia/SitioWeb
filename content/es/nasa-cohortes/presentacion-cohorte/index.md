@@ -10,12 +10,7 @@ type: cursos
 weight: 50
 tags:
   - Cohortes vigentes
-<!--- featured_image: https://www.metadocencia.org/img/blabla.png --->
 ---
-
-<p align="center">
-<img src="https://www.metadocencia.org/img/ALTaCiencia Abierta-01.jpg" alt="Flyer de las cohortes virtuales ALTa Ciencia Abierta: América Latina se Transforma a la Ciencia Abierta" width="800px"/>
-</p>
 
 {{% toc %}}
 
@@ -88,7 +83,7 @@ En esta sección compartiremos las presentaciones, notas y videos de cada día d
 ## ¡Sírvete sin culpa!
 ¿Te vienen bien cualquiera de nuestros contenidos? ¡Sírvete sin culpa! Nuestros materiales están disponibles en forma gratuita bajo [licencia CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es) Es decir, puedes reusar o editar cualquier material que aparece encima de estas líneas, lo único que pedimos a cambio es que incluyas una referencia a esta página web. Para más información, escríbenos a formacion@metadocencia.org.
 
-# Cómo participar
+## Cómo participar
 
 **[FORMULARIO DE INSCRIPCIÓN](https://docs.google.com/forms/d/e/1FAIpQLSeXRTWjBfiKKMCYZzDRaIWQaU21Kf1eqlmnyK8UzmV6lASM8w/viewform)**
 
