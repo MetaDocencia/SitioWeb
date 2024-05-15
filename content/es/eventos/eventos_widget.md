@@ -70,7 +70,7 @@ subtitle = "América Latina se Transforma a la Ciencia Abierta"
  css_class = ""
 +++
 <p align="center">
-<img src="https://www.metadocencia.org/img/ALTaCiencia Abierta-01.jpg" alt="Flyer de las cohortes virtuales ALTa Ciencia Abierta: América Latina se Transforma a la Ciencia Abierta" width="800px"/>
+<img src="[https://www.metadocencia.org/img/ALTaCiencia Abierta-01.jpg](https://docs.google.com/forms/d/e/1FAIpQLSeXRTWjBfiKKMCYZzDRaIWQaU21Kf1eqlmnyK8UzmV6lASM8w/viewform)" alt="Flyer de las cohortes virtuales ALTa Ciencia Abierta: América Latina se Transforma a la Ciencia Abierta" width="800px"/>
 </p>
 
 {{% toc %}}
