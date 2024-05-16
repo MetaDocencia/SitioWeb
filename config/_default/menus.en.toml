@@ -57,7 +57,7 @@ url = ""
 weight = 20
   [[main]]
   name = "Training"
-  url = "cursos/"
+  url = "formacion/"
   parent = "What We Do"
   weight = 20
 #  [[main]]
