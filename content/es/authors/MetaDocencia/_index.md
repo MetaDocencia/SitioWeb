@@ -33,6 +33,8 @@ superuser: true
 user_groups:
 ---
 
+# Institucional
+
 ## Nuestra visión 
 
 Trabajamos para que la producción, la comunicación y la aplicación de saberes científicos y técnicos sean globalmente equitativas.

@@ -7,7 +7,7 @@ weight = 10  # Order that this section will appear.
 
 # title = "Co-creating and Teaching Open Science"
 
-title = "Exploration Mission towards Open Science"
+title = "Transform to Open Science"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "MD_original.png"
@@ -41,7 +41,7 @@ hero_media = "MD_original.png"
 
 [cta]
  url = "https://www.metadocencia.org/en/alta-ca/1-2024/"
- label = "Notes from MetaDocencia N° 12"
+ label = "Info and registration"
  icon_pack = "fab"
  icon = "Read more"
 
@@ -56,4 +56,4 @@ label = "2023 Report"
 +++
 
 ## 
-Group introduction to the NASA TOPS contents.
+Together with NASA, MetaDocencia invites Spanish-speaking communities to join 6-week online training cohorts.
