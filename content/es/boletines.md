@@ -1,6 +1,7 @@
 ---
 title: Boletines
 ---
+- [ALTa Ciencia Abierta 🔝 | Apuntes MetaDocentes N° 15](https://mailchi.mp/ace35bc2b9d6/construyendo-en-comunidad-newsletter-n-16943673?e=[UNIQID])
 - [Contextualizando saberes para construir Ciencia Abierta regional 🌐 | Apuntes MetaDocentes N° 14](https://mailchi.mp/5923b8a30328/construyendo-en-comunidad-newsletter-n-15956853)
 - [Continúan las cohortes sobre Ciencia Abierta en español 🚀 | Apuntes MetaDocentes N° 13](https://mailchi.mp/9d800ef21af8/construyendo-en-comunidad-newsletter-n-15930493)
 - [Comenzamos el año explorando la Ciencia Abierta 🌟 | Apuntes MetaDocentes N° 12](https://mailchi.mp/90e25bbaa95b/construyendo-en-comunidad-newsletter-n-15926821?e=158b6b2f8f) - [English version](https://mailchi.mp/a50fc585ceef/construyendo-en-comunidad-newsletter-n-15926925)
@@ -17,4 +18,8 @@ title: Boletines
 - [Boletín N° 2 - Apuntes MetaDocentes](https://mailchi.mp/d385ac096450/construyendo-en-comunidad-newsletter-n-15534269?e=[UNIQID]) - [English version](https://us19.campaign-archive.com/?e=__test_email__&u=92fb89ce82f9689a3b083bb35&id=124f999862)
 - [Boletín N° 1 - Construyendo en comunidad](https://mailchi.mp/90070af3dfd3/construyendo-en-comunidad-newsletter-n-1) - [English version](https://us19.campaign-archive.com/?e=__test_email__&u=92fb89ce82f9689a3b083bb35&id=a9cc2ef2f2)
 
+<<<<<<< fix_suscripcion_newsletter_add_tags
 #### [Suscribirse para recibir el boletín de MetaDocencia](https://www.metadocencia.org/suscripcion/)
+=======
+#### [Suscribirse para recibir el boletín de MetaDocencia](https://metadocencia.us19.list-manage.com/subscribe?u=92fb89ce82f9689a3b083bb35&id=d8187ceaf7)
+>>>>>>> master

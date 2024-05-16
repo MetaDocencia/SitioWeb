@@ -12,9 +12,14 @@ url = ""
 #  url = ""
 #  parent = "Quiénes somos"
 #    weight = 10
+#  [[main]]
+#  name = "Institucional"
+#  url = "authors/metadocencia/"
+#  parent = "Quiénes somos"
+#    weight = 20
   [[main]]
-  name = "Misión y visión"
-  url = "authors/metadocencia/"
+  name = "Institucional"
+  url = "institucional/"
   parent = "Quiénes somos"
     weight = 20
 #  [[main]]
@@ -36,7 +41,7 @@ url = ""
   name = "Equipo"
   url = "equipo/"
   parent = "Quiénes somos"
-    weight = 60
+#    weight = 60
     [[main]]
   name = "Comunidades amigas"
   url = "panal/"
@@ -55,15 +60,15 @@ name = "Qué hacemos"
 url = ""
   weight = 20
   [[main]]
-  name = "Cursos"
-  url = "cursos/"
+  name = "Formación"
+  url = "formacion/"
   parent = "Qué hacemos"
     weight = 20
   [[main]]
-  name = "Eventos"
-  url = "eventos/"
-  parent = "Qué hacemos"
-    weight = 30
+#  name = "Eventos"
+#  url = "eventos/"
+#  parent = "Qué hacemos"
+#    weight = 30
   [[main]]
   name = "Consultoría"
   url = "consultoria/"
