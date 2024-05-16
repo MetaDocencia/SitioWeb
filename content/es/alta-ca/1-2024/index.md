@@ -3,13 +3,13 @@ date: "2024-01-16"
 draft: false
 linktitle: ALTa Ciencia Abierta
 summary: América Latina se Transforma a la Ciencia Abierta. 
-title: "ALTa Ciencia Abierta"
+title: "ALTa Ciencia Abierta 1 2024"
 authors:
   - MetaDocencia
 type: cursos
 weight: 50
 tags:
-  - Cohortes vigentes
+  - Formación vigente
 ---
 
 {{% toc %}}
@@ -77,8 +77,6 @@ Para obtener el certificado de conocimiento de los contenidos del Curso de Intro
 ### Certificación MetaDocencia
 Además, entregaremos un certificado de asistencia de MetaDocencia a quienes participen activamente, ya sea asistiendo sincrónicamente a 4 de los 6 encuentros, o habiendo completado 4 de los 5 cuestionarios detallados en el párrafo anterior al menos 7 días corridos después de la fecha del último encuentro sincrónico.
 
-## Materiales
-En esta sección compartiremos las presentaciones, notas y videos de cada día de curso próximamente.
 
 ## ¡Sírvete sin culpa!
 ¿Te vienen bien cualquiera de nuestros contenidos? ¡Sírvete sin culpa! Nuestros materiales están disponibles en forma gratuita bajo [licencia CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es) Es decir, puedes reusar o editar cualquier material que aparece encima de estas líneas, lo único que pedimos a cambio es que incluyas una referencia a esta página web. Para más información, escríbenos a formacion@metadocencia.org.

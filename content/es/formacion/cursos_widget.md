@@ -22,12 +22,9 @@ subtitle = ""
   filter_default = 0
    
   [[content.filter_button]]
-    name = "Cohortes vigentes"
-    tag = "Cohortes vigentes"
+    name = "Formación vigente"
+    tag = "Formación vigente"
     
-  [[content.filter_button]]
-    name = "Cursos vigentes"
-    tag = "Cursos vigentes"
 
   [[content.filter_button]]
     name = "Ediciones anteriores"
