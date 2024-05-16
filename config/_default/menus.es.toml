@@ -18,7 +18,7 @@ url = ""
 #  parent = "Quiénes somos"
 #    weight = 20
   [[main]]
-  name = "Institucional2"
+  name = "Institucional"
   url = "institucional/"
   parent = "Quiénes somos"
     weight = 20
@@ -32,15 +32,15 @@ url = ""
   url = "pdc/"
   parent = "Quiénes somos"
     weight = 40
-#  [[main]]
-#  name = "Accesibilidad"
-#  url = "/post/perfiles_accesibilidad/"
-#  parent = "Quiénes somos"
-#    weight = 50
-#  [[main]]
-#  name = "Equipo"
-#  url = "equipo/"
-#  parent = "Quiénes somos"
+  [[main]]
+  name = "Accesibilidad"
+  url = "/post/perfiles_accesibilidad/"
+  parent = "Quiénes somos"
+    weight = 50
+  [[main]]
+  name = "Equipo"
+  url = "equipo/"
+  parent = "Quiénes somos"
 #    weight = 60
     [[main]]
   name = "Comunidades amigas"

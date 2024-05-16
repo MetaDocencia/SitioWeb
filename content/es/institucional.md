@@ -36,17 +36,3 @@ Actuar con responsabilidad y según el criterio individual, colectivo o regional
 
 #### Versatilidad
 Adaptar las acciones a las situaciones que se presentan.
-
-## Nuestro organigrama
-Ejemplo de imagen centrada con link a Equipo
-<a href="https://www.metadocencia.org/equipo/">
-  <img src="/img/organigrama.png" alt="Organigrama" width="600px"/>
-</a>
-
-<button type="button" class="collapsible">Open Collapsible</button>
-<div class="content">
-  <p>Lorem ipsum...Lorem ipsum..Lorem ipsum...Lorem ipsum...Lorem ipsum...</p>
-</div>
-
-
-
