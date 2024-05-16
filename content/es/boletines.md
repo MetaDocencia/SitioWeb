@@ -18,8 +18,4 @@ title: Boletines
 - [Boletín N° 2 - Apuntes MetaDocentes](https://mailchi.mp/d385ac096450/construyendo-en-comunidad-newsletter-n-15534269?e=[UNIQID]) - [English version](https://us19.campaign-archive.com/?e=__test_email__&u=92fb89ce82f9689a3b083bb35&id=124f999862)
 - [Boletín N° 1 - Construyendo en comunidad](https://mailchi.mp/90070af3dfd3/construyendo-en-comunidad-newsletter-n-1) - [English version](https://us19.campaign-archive.com/?e=__test_email__&u=92fb89ce82f9689a3b083bb35&id=a9cc2ef2f2)
 
-<<<<<<< fix_suscripcion_newsletter_add_tags
-#### [Suscribirse para recibir el boletín de MetaDocencia](https://www.metadocencia.org/suscripcion/)
-=======
-#### [Suscribirse para recibir el boletín de MetaDocencia](https://metadocencia.us19.list-manage.com/subscribe?u=92fb89ce82f9689a3b083bb35&id=d8187ceaf7)
->>>>>>> master
+[Suscribirse para recibir el boletín de MetaDocencia](https://www.metadocencia.org/suscripcion/)
