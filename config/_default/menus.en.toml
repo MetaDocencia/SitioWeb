@@ -60,11 +60,11 @@ weight = 20
   url = "cursos/"
   parent = "What We Do"
   weight = 20
-  [[main]]
-  name = "Events"
-  url = "eventos/"
-  parent = "What We Do"
-  weight = 30
+#  [[main]]
+#  name = "Events"
+#  url = "eventos/"
+#  parent = "What We Do"
+#  weight = 30
   [[main]]
   name = "Consulting"
   url = "consultoria/"

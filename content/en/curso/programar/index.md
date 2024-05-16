@@ -12,7 +12,7 @@ authors:
 type: course
 weight: 15
 tags:
-  - Next courses
+  - Former trainings
 ---
 
 **This workshop will be offered in Spanish. [Dates and registration form (in Spanish)](https://www.metadocencia.org/curso/programar/)**

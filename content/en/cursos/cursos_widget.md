@@ -19,16 +19,16 @@ subtitle = ""
   # To remove toolbar, delete/comment all instances of `[[content.filter_button]]` below.
   
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
-  filter_default = 1
+  filter_default = 0
   
    
   [[content.filter_button]]
-    name = "Next courses"
-    tag = "Next courses"
+    name = "Upcoming trainings"
+    tag = "Upcoming trainings"
    
   [[content.filter_button]]
-    name = "Former courses"
-    tag = "Former courses"
+    name = "Former trainings"
+    tag = "Former trainings"
 
 
 [design]
