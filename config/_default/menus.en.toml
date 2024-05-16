@@ -14,8 +14,8 @@ weight = 10
 #  parent = "About Us"
 #    weight = 10
   [[main]]
-  name = "Mission and Vision"
-  url = "authors/metadocencia/"
+  name = "Institutional"
+  url = "en/institucional/"
   parent = "About Us"
     weight = 20
 #  [[main]]
