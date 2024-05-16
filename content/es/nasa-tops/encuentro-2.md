@@ -6,10 +6,10 @@ summary: Encuentro 2 - 31-01 17 hs. (UTC-3).
 title: "Módulo 2: Herramientas y recursos abiertos"
 authors:
   - MetaDocencia
-type: eventos
+type: cursos
 weight: 50
 tags:
-  - Encuentros anteriores
+  - Ediciones anteriores
 <!--- featured_image: https://www.metadocencia.org/img/blabla.png --->
 ---
 

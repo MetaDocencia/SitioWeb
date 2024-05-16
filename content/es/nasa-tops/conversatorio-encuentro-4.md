@@ -6,10 +6,10 @@ summary: 20-03 17 hs. (UTC-3).
 title: "Aplicación de la Ciencia Abierta en América Latina atendiendo a la justicia epistémica"
 authors:
   - MetaDocencia
-type: eventos
+type: cursos
 weight: 50
 tags:
-  - Próximos encuentros
+  - Ediciones anteriores
 <!--- featured_image: https://www.metadocencia.org/img/blabla.png --->
 ---
 
