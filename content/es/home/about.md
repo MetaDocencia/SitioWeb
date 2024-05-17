@@ -13,33 +13,10 @@ weight = 20  # Order that this section will appear in.
 author = "MetaDocencia"
 +++
 
-<div class="container">
-  <div class="row align-items-start">
-    <div class="col-12 col-lg-4">
-      <h1>Nuestra visión</h1>
-    </div>
-    <div class="col-12 col-lg-8">
-      Trabajamos para que la producción, la comunicación y la aplicación de saberes científicos y técnicos sean globalmente equitativas.
-    </div>
-  </div>
-</div>
-
-<p>&nbsp;</p>
-
-<div class="container">
-  <div class="row align-items-start">
-    <div class="col-12 col-lg-4">
-      <h1>Nuestra misión</h1>
-    </div>
-    <div class="col-12 col-lg-8">
-      Construir capacidades científicas y técnicas en forma responsable y con mirada local, a través de la co-creación de redes, espacios de aprendizaje y recursos accesibles para comunidades hispanohablantes.
-    </div>
-  </div>
-</div>
-
-<!---
 ## Ejemplo de título básico
-El título puede espaciarse más respecto a los íconos. También podemos modificar la tipografía.
+
+
+### El título puede espaciarse más respecto a los íconos. También podemos modificar la tipografía.
 
 <div style="text-align: center;">
 <div style="display: flex; justify-content: center;">
@@ -90,4 +67,3 @@ El título puede espaciarse más respecto a los íconos. También podemos modifi
   
 </div>
 </div>
--->
