@@ -30,7 +30,7 @@ social:
   link: https://github.com/data-datum
 superuser: false
 user_groups:
-- Outside Contributors
+- Former Contributors
 ---
 
 
