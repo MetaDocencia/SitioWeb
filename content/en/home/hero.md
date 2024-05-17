@@ -46,8 +46,8 @@ hero_media = "MD_original.png"
  icon = "Read more"
 
 [cta_alt] 
-url = "https://www.metadocencia.org/en/post/2024/20241701-2023report/" 
-label = "2023 Report"
+url = "https://www.metadocencia.org/en/proyectos/" 
+label = "Other Projects"
 
 
 # Note. An optional note to show underneath the links.
