@@ -15,7 +15,7 @@ social:
   link: https://github.com/saramortara
 superuser: fase
 user_groups:
-- Colaboradores externos
+- Colaboraron con MetaDocencia
 ---
 
 Soy una latina blanca que vive en territorio guaraní en Río de Janeiro, Brasil. Soy una científica y programadora que cree en la democratización de la ciencia, basada en una ciencia abierta, justa y feminista.
