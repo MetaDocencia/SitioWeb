@@ -24,7 +24,7 @@ social:
   link: https://github.com/gklocker1
 - icon: linkedin
   icon_pack: fab
-  link: www.linkedin.com/in/gastón-klocker-918923102
+  link: https://ar.linkedin.com/in/gast%C3%B3n-klocker-918923102
 superuser: false
 user_groups:
 - Outside Contributors
