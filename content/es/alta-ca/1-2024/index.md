@@ -3,7 +3,7 @@ date: "2024-01-16"
 draft: false
 linktitle: ALTa Ciencia Abierta
 summary: América Latina se Transforma a la Ciencia Abierta. 
-title: "ALTa Ciencia Abierta 1 2024"
+title: "ALTa Ciencia Abierta"
 authors:
   - MetaDocencia
 type: cursos
