@@ -82,6 +82,8 @@ Our materials are available for free under this [CC BY 4.0 license](https://crea
 ## How to participate
 This training will be offered in Spanish. **[REGISTRATION FORM (in Spanish)](https://docs.google.com/forms/d/e/1FAIpQLSeXRTWjBfiKKMCYZzDRaIWQaU21Kf1eqlmnyK8UzmV6lASM8w/viewform)**
 
+*Vacancies are limited for each edition, so we ask you to register **only if you will be able to participate**. In case the quota is full, we will set up a waiting list so that you can join the next cohort.*
+
 ---
 
 This training has been made possible by NASA Grants 80NSSC23K0854 (DOI: 10.5281/zenodo.8430889), and CZI grant DAF2021-239366 and grant DOI https://doi.org/10.37921/522107izqogv from the Chan Zuckerberg Initiative DAF, an advised fund of Silicon Valley Community Foundation (funder DOI 10.13039/100014989).
