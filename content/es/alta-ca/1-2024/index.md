@@ -83,6 +83,8 @@ Además, entregaremos un certificado de asistencia de MetaDocencia a quienes par
 
 ## Cómo participar
 
+*Las vacantes son limitadas por cada edición, por eso te pedimos que **te inscribas solo si podrás participar activamente**. En caso de que se complete el cupo, habilitaremos una lista de espera para que puedas sumarte a la próxima edición.*
+
 **[FORMULARIO DE INSCRIPCIÓN](https://docs.google.com/forms/d/e/1FAIpQLSeXRTWjBfiKKMCYZzDRaIWQaU21Kf1eqlmnyK8UzmV6lASM8w/viewform)**
 
 *Todos los datos se manejarán en forma confidencial, sólo podrán ser publicados de forma agregada y anonimizada en reportes sobre el alcance de MetaDocencia.*
