@@ -3,7 +3,7 @@ date: "2024-01-16"
 draft: false
 linktitle: ALTa Ciencia Abierta
 summary: Latin America Transforms to Open Science 
-title: "ALTa Ciencia Abierta"
+title: "ALTa Ciencia Abierta 1 2024"
 authors:
   - MetaDocencia
 type: course
@@ -14,7 +14,7 @@ tags:
 
 {{% toc %}}
 
-# ALTa Ciencia Abierta
+# ALTa Ciencia Abierta 1 2024
 
 Together with NASA, MetaDocencia invites people from **Spanish-speaking communities to join 6-week online training cohorts** to extend the principles of Open Science in Latin America and beyond. 
 
