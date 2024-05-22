@@ -40,7 +40,7 @@ hero_media = "MD_original.png"
 #   Remove a link/note by deleting a cta/note block.
 
 [cta]
- url = "https://www.metadocencia.org/en/alta-ca/1-2024/"
+ url = "https://www.metadocencia.org/en/formacion/"
  label = "Info and registration"
  icon_pack = "fab"
  icon = "Read more"
