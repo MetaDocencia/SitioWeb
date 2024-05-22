@@ -14,7 +14,7 @@ tags:
 
 {{% toc %}}
 
-# Misión ALTa CA
+# Misión ALTa CA 1 2024
 
 Junto a la NASA, MetaDocencia invita a todas las personas de comunidades hispanohablantes que quieran sumarse a **cohortes virtuales de formación de 6 semanas** para extender los principios de la Ciencia Abierta en América Latina y más allá. 
 
