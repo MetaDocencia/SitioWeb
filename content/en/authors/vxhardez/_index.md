@@ -10,7 +10,7 @@ interests:
 - Free Software
 - Responsible data use
 name: Verónica Xhardez
-role: Outside Contributor | Pollen Project
+role: External Contributor | Pollen Project
 weight: 1
 organizations:
 - name: 
@@ -27,5 +27,5 @@ social:
   link: https://www.linkedin.com/in/ver%C3%B3nica-xhardez-33b12924/
 superuser: false
 user_groups:
-- Outside Contributors
+- External Contributors
 ---

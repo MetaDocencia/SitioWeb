@@ -28,5 +28,5 @@ social:
   link: https://github.com/kformoso
 superuser: false
 user_groups:
-- Outside Contributors
+- External Contributors
 ---
