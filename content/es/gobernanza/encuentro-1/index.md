@@ -6,10 +6,10 @@ summary: Conversatorio 1 - 20/07 17 hs. (UTC-3).
 title: "MetaDocencia: pensar colaborativamente nuestra Gobernanza - Laura Ación y Nicolás Palopoli"
 authors:
   - MetaDocencia
-type: eventos
+type: cursos
 weight: 50
 tags:
-  - Conversatorios anteriores
+  - Ediciones anteriores
 featured_image: https://www.metadocencia.org/img/GobernanzaMD1.png
 ---
 

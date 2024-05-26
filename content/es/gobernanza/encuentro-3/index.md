@@ -9,7 +9,7 @@ summary: Conversatorio 3 - 17/08 17 hs. (UTC-3)
 title: "Gobernanza y datos abiertos: la experiencia ILDA - Fabrizio Scrollini"
 authors:
   - MetaDocencia
-type: eventos
+type: cursos
 weight: 50
 tags:
   - Conversatorios anteriores

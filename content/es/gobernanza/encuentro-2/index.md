@@ -9,10 +9,10 @@ summary: Conversatorio 2 - 03/08 17 hs. (UTC-3)
 title: "La experiencia de la Fundación Vía Libre - Beatriz Busaniche"
 authors:
   - MetaDocencia
-type: eventos
+type: cursos
 weight: 50
 tags:
-  - Conversatorios anteriores
+  - Ediciones anteriores
 thumbnail: "img/GobernanzaMD2-BeaBusaniche.png"
 ---
 
