@@ -23,7 +23,7 @@ organizations:
 - name: 
   url: ""
 
-role: Outside Contributor
+role: External Contributor
 social:
 - icon: envelope
   icon_pack: fas
@@ -42,7 +42,7 @@ social:
   link: https://www.linkedin.com/in/diego-onna/
 
 user_groups:
-- Outside Contributors
+- External Contributors
 ---
 
 **Experience and Track Record:** 

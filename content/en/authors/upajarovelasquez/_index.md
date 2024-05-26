@@ -12,7 +12,7 @@ weight: 1
 organizations:
 - name: 
   url: ""
-role: Outside Contributor
+role: External Contributor
 social:
 - icon: twitter
   icon_pack: fab
@@ -31,7 +31,7 @@ social:
   link: https://www.linkedin.com/in/umutpajaro/
 
 user_groups:
-- Outside Contributors
+- External Contributors
 ---
 
 **Experience and Track Record:** 

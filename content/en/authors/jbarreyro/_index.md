@@ -19,5 +19,5 @@ social:
   link: https://github.com/jpbarreyro
 superuser: false
 user_groups:
-- Outside Contributors
+- External Contributors
 ---

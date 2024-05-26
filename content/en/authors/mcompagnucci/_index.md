@@ -19,5 +19,5 @@ social:
   link: https://www.linkedin.com/in/marina-valeria-compagnucci
 superuser: false
 user_groups:
-- Outside Contributors
+- External Contributors
 ---

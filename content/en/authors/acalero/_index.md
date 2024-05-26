@@ -22,5 +22,5 @@ social:
   link: https://github.com/adacapsy
 superuser: false
 user_groups:
-- Outside Contributors
+- External Contributors
 ---

@@ -24,5 +24,5 @@ social:
   link: https://www.linkedin.com/in/jerem%C3%ADas-fabiano-84208a1a2/
 superuser: false
 user_groups:
-- Outside Contributors
+- External Contributors
 ---
