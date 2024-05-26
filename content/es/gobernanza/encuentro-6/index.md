@@ -9,10 +9,10 @@ summary: Conversatorio 6 - 28/09 17 hs. (UTC-3)
 title: "Gobernanza e innovación educativa - Mayra Botta"
 authors:
   - MetaDocencia
-type: eventos
+type: cursos
 weight: 50
 tags:
-  - Conversatorios anteriores
+  - Ediciones anteriores
 thumbnail:
 ---
 

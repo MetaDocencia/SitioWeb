@@ -9,10 +9,10 @@ summary: Conversatorio 4 - 31/08 17 hs. (UTC-3)
 title: "Gobernanza en comunidad: interseccionalidad y representatividad - Malvika Sharan y Andrea Sánchez-Tapia"
 authors:
   - MetaDocencia
-type: eventos
+type: cursos
 weight: 50
 tags:
-  - Conversatorios anteriores
+  - Ediciones anteriores
 thumbnail:
 ---
 

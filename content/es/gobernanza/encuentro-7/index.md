@@ -9,10 +9,10 @@ summary: Conversatorio 7 - 12/10 17 hs. (UTC-3)
 title: "Gobernar en entornos complejos, flexibles y cambiantes - Diego Pando"
 authors:
   - MetaDocencia
-type: eventos
+type: cursos
 weight: 50
 tags:
-  - Conversatorios anteriores
+  - Ediciones anteriores
 thumbnail:
 ---
 
