@@ -12,7 +12,7 @@ social:
   link: https://openlifesci.org/
 superuser: false
 user_groups:
--  Fellow Communities
+-  Former Fellow Communities
 ---
 
 ### Learn more in this video
