@@ -12,7 +12,7 @@ social:
   link: https://conectorial.netlify.app/
 superuser: false
 user_groups:
--  Comunidades amigas
+-  Formaron parte del Panal
 ---
 
 ### Conócela en este video
