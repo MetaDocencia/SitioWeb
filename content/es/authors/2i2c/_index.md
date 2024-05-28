@@ -21,4 +21,4 @@ user_groups:
 
 ### Sobre 2i2c
 
-**[2i2c](https://2i2c.org/)** diseña, desarrolla y opera JupyterHubs en la nube para comunidades de práctica en investigación y educación. Construye y da soporte a la infraestructura de código abierto que sirve a estas comunidades.
+**[2i2c](https://2i2c.org/)** gestiona una red global de centros comunitarios para el aprendizaje interactivo y el descubrimiento con datos. Su plataforma informática interactiva ofrece a cada comunidad un hogar digital para crear y compartir conocimientos, y una red de comunidades de las que aprender. También contribuye en gran medida al ecosistema Jupyter de herramientas de código abierto y a la comunidad de código abierto en general.
