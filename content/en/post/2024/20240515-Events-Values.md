@@ -1,10 +1,10 @@
 ---
 date: "2024-03-13"
-draft: true
+draft: false
 type: page
-linktitle: Eventos y cultura del bienestar
-summary: "En MetaDocencia trabajamos activamente para que la gestión de los equipos de trabajo asegure nuestro valor de bienestar. En esta publicación te contamos cómo."
-title: Cómo generar encuentro genuino y cultura del bienestar en los eventos del equipo, tanto presenciales como virtuales
+linktitle: Events and values
+summary: "At MetaDocencia we actively work to ensure that the management of work teams secures our well-being value. We seek to make well-being guide personnel management.  In this post, we are going to share how we accomplish this."
+title: Creating Genuine Connections and Cultivating a Culture of Well-being in Team Events, Both In-Person and Virtual
 authors:
   - rominapendino
   - laurel
@@ -17,69 +17,71 @@ weight: 1
 tags: 
   - MetaDocencia 
 categories:
-  - Institucional
+  - Institutional
 ---
 
-En MetaDocencia trabajamos activamente para que la gestión de los equipos de trabajo asegure nuestro valor de bienestar. Buscamos lograr que el bienestar guíe la gestión de las personas.
+At MetaDocencia we actively work to ensure that the management of work teams secures our well-being value. We seek to make well-being guide personnel management.
 
-Además de la atención cotidiana a través de intercambios descontracturados en nuestro canal de Slack o Whatsapp, compartir música, memes y novedades personales que nos acercan, la comunicación interna es esencial. Todas nuestras agendas de trabajo empiezan  con un “¿Cómo estamos? ¿Algo para cambiar?”, preguntas que invitan a la reflexión y a la escucha activa y nos preparan para hacer los ajustes que cada persona necesite en los distintos momentos y circunstancias que pueda estar atravesando, ya sean laborales o personales. Además y como compartimos en [esta publicación](https://www.metadocencia.org/post/mec/), la **encuesta MEC** es una de nuestras herramientas más enriquecedoras para dar y recibir devoluciones positivas. 
+In addition to daily attention through relaxed exchanges on our Slack or Whatsapp channels, sharing music, memes and personal news that bring us closer, internal communication is essential. All our work agendas begin with “How are we? Anything to change?” These questions encourage reflection and active listening, preparing us to make the adjustments that each individual needs in the various moments and circumstances they may be going through, whether professional or personal. Additionally, as we share in this post, the MEC survey is one of our most enriching tools for giving and receiving positive feedback.
 
-Hoy queremos hacer foco en algunos **principios que implementamos en nuestros eventos del equipo**, para generar encuentro y vincularnos genuinamente. Tanto en la virtualidad (somos una organización que trabaja mayormente en forma remota y distribuida geográficamente) como en la presencialidad, ponemos especial atención para lograr acercar intereses, disfrutar nuestra diversidad y hacer que cada persona integrante del equipo se sienta incluida. En esta publicación te contamos cómo.
+Today, we want to focus on some **principles that we implement in our team events** to foster genuine connections and truly bond. Both in virtual settings (as we are an organization that primarily works remotely and is geographically distributed) and in-person gatherings, we pay special attention to bridging interests, enjoying our diversity, and ensuring that every team member feels included. In this post, we are going to share how we accomplish this.
 
-## Nuestra juntada presencial cada abril
+## Our in-person retreat every April
 
-En 2023 por primera vez nos encontramos presencialmente y pudimos abrazarnos, compartir y ¡comer compartiendo una mesa! como nos gusta. Para que el encuentro fuera representativo de todas las personas, seguimos algunas pautas que pueden servir como sugerencias para otras comunidades o espacios: 
+In 2023, for the first time, we met in person and were able to hug, share, and eat together at the same table! Just the way we like. To ensure the gathering was representative of everyone, we followed some guidelines that can serve as suggestions for other communities or spaces:
 
-- Implementamos un **formulario de preferencias** previo a la juntada, en el que preguntamos tanto por alternativas de transporte y alojamiento, como opciones alimentarias y de uso del tiempo en equipo. ¡También si alguien tiene algún talento para compartir!
+- We implemented a **preferences form** previous to the get together, where we asked about transportation and accommodation alternatives, dietary preferences, team time using options, and even if anyone had any talents to share!
 
-<img src="https://www.metadocencia.org/img/eventos-cultura-bienestar1.jpg" alt="Imagen de la primera juntada presencial de MetaDocencia, en 2023. En la imagen se ve al equipo en el jardín de una casa, con ropa informal y sonrientes" width="600px"/>
+<img src="https://www.metadocencia.org/img/eventos-cultura-bienestar1.jpg" alt="Image of MetaDocencia's face-to-face meeting, in 2023. The image shows the team in the garden of a house, in casual clothes and smiling." width="600px"/>
   
-- Como sede del encuentro elegimos un **espacio amplio**, con jardín, que permitiera estar al aire libre, hacer el mate cuantas veces fuera necesario y convivir una jornada y media como si fuera una casa de vacaciones. En 2024 nos tenemos prometido un buen asado a cargo de un subequipo que se postuló para prender el fuego.
+- As the venue for the gathering, we chose a **large location** with a garden that allowed us to be outdoors, have mate as many times as needed, and spend a day and a half together as if it were a vacation home. In 2024, we have promised ourselves a good barbecue, with a sub-team volunteering to light the fire.
 
-- **Nos escuchamos**. Tanto en actividades de consolidación del equipo y agilización del trabajo, como en espacios libres, prestamos atención a qué le gusta, moviliza y conmueve a cada persona. Esto fue fundamental para tejer la conversación en las instancias virtuales del resto del año. En 2023 nos preguntamos cuál es la película preferida  de  todas las personas presentes, sabiendo que tenemos distintos intereses, áreas de formación, lengua materna y aptitudes. ¿La elegida?: Volver al Futuro. Ya sabemos que la ciencia ficción reúne la vocación por la ciencia con la pasión por contar historias. Y después de esa peli, ¡también descubrimos varias otras!
+- **We listen to each other**. Both in team-building activities and streamlining work processes, as well as during free time, we pay attention to what each person enjoys, motivates, and moves them. This was crucial for weaving conversation during the virtual sessions throughout the rest of the year. In 2023, we asked about everyone's favourite movie, knowing that we have different interests, backgrounds, native languages, and skills. The chosen one? "Back to the Future." We already know that science fiction brings together the vocation for science with the passion for storytelling. And after that movie, we also discovered several others!
 
-<img src="https://www.metadocencia.org/img/eventos-cultura-bienestar2.jpg" alt="Imagen de la primera juntada presencial de MetaDocencia, en 2023. En la imagen se ve al equipo en frente de una casa, con ropa informal y sonrientes" width="600px"/>
+<img src="https://www.metadocencia.org/img/eventos-cultura-bienestar2.jpg" alt="Image of MetaDocencia's first face-to-face meeting, in 2023. The image shows the team in front of a house, casually dressed and smiling." width="600px"/>
 
-- Nos regalamos. Pensamos en **recuerdos significativos** que cada persona pudiera llevarse a su casa como souvenir. En 2023 fue una maceta hecha a mano por Pao con el logo de MetaDocencia y una plantita para cada escritorio. También compartimos stickers, prendedores, pads para el mouse que hizo Romi con nuestro logo, nueces confitadas que Pao trajo del norte, manzanitas de cerámica hechas por Julián, golosinas brasileñas que trajo Meli, paltas del árbol de la casa de Laura, alfajores que trajo Laurel de Córdoba, entre muchos otros gestos de generosidad y cariño.
+- We exchanged gifts. We thought of **meaningful presents** that each person could take home as souvenirs. In 2023, it was a handcrafted pot made by Pao with MetaDocencia logo and a little plant for each desk. We also shared stickers, pins, mouse pads that Romi made with our logo, candied nuts that Pao brought from the north, ceramic apples made by Julián, Brazilian sweets brought by Meli, avocados from Laura's house tree, alfajores brought by Laurel from Córdoba, among many other gestures of generosity and affection.
 
-<img src="https://www.metadocencia.org/img/eventos-cultura-bienestar3.jpg" alt="Macetas de cerámica hechas por Pao con el logo de MetaDocencia en cajitas de regalo, junto a manzanitas de cerámica hechas por Julián y pines institucionales para cada persona del equipo." width="600px"/>
+<img src="https://www.metadocencia.org/img/eventos-cultura-bienestar3.jpg" alt="Ceramic pots made by Pao with the MetaDocencia logo in gift boxes, along with ceramic manzanitas made by Julian and institutional pins for each member of the team." width="600px"/>
 
-## Premios Manzanita: crear cultura del bienestar
-El evento de cierre de 2023, un año complejo en lo social a nivel local e internacional, necesitaba un motivo fuerte para sostener al bienestar como uno de los valores fundamentales de nuestra comunidad y así lograr darle prioridad a la construcción de espacios de trabajo solidarios y empáticos, a la vez que motivadores. Nos preguntamos ¿cómo podemos hacer que las personas se sientan parte de este proyecto colectivo, valoren su contribución y reconozcan la de las demás personas? 
+## Manzanita Awards: Creating a Culture of Well-being
+The closing event of 2023, a complex year socially both locally and internationally, needed a strong reason to uphold well-being as one of the fundamental values of our community and thus prioritize the creation of supportive, empathetic, and motivating workspaces. We asked ourselves, "How can we make people feel part of this collective project, appreciate their contribution, and recognize the contributions of others?”
 
-<img src="https://www.metadocencia.org/img/eventos-cultura-bienestar5.jpeg" alt="Captura de pantalla de la reunión virtual en la que entregamos los Premios Manzanita. Se ve al equipo vestido de manera elegante, brindando y sonrientes." width="600px"/>
-*Los Premios Manzanita 2023 buscan seguir sosteniendo y creando cultura del bienestar comunitaria a través del reconocimiento individual y colectivo.*
+<img src="https://www.metadocencia.org/img/eventos-cultura-bienestar5.jpeg" alt="Screenshot of the virtual meeting where we presented the Manzanita Awards. The team is seen dressed up, toasting and smiling." width="600px"/>
+*The Manzanita 2023 Awards seek to continue sustaining and creating a culture of community well-being through individual and collective recognition.*
 
-Los Premios Manzanita se propusieron hacer explícitas las contribuciones singulares, especiales y únicas de las personas que integran MetaDocencia para promover el bienestar, motivar y abrazar las individualidades que empujan el colectivo diariamente hacia un mismo objetivo. ¿Cómo lo hicimos?
+The Manzanita Awards were created to make explicit the unique, special, and singular contributions of the people who are part of MetaDocencia, to promote well-being, motivate, and embrace the individualities that push the group daily towards a common goal. How did we do it?
 
-- Planificamos el **guión y conducción** del evento replicando el tono de una entrega de premios como los Oscars, con cortina musical, agradecimientos y explicaciones del comité de los premios. Con una cuota de humor, porque queríamos que estuvieran a gusto para recibir cada premio, que era sorpresa.
-- **Organizamos el evento** con un fondo de pantalla de una alfombra roja, les pedimos a todo el equipo que se engalanaran para asistir y que tuvieran una copita para brindar con lo que más les gustara tomar. También incluimos un voucher para “copetín y canapé” en la facturación de ese mes para que la invitación fuera completa. Desde un punto de las operaciones de MetaDocencia, esto simplificó enormemente los envíos postales a 17 personas distribuidas geográficamente, sin descuidar que cada persona pudiera recibir un pequeño presente para la ocasión. Un ejemplo más de cómo en MetaDocencia practicamos el valor de bienestar, con decisiones concretas para reducir la sobrecarga de  quienes organizan estos eventos.
-- **Entregamos insignias** a cada integrante del equipo reconociendo sus aportes a través de conceptos tan variados como los Premios:  “Planificatona”, “Polisemia”, “Arquitecta de la Palabra”, “Gurú” o “Camiseta”. Cada uno destaca la virtud, la generosidad y el sentido de pertenencia a la comunidad metadocente. Con un párrafo de descripción por cada premio, cada persona escuchaba y tenía la oportunidad de brindar y agradecer su estatuilla virtual. Las emociones no tardaron en aflorar y empezamos a jugar a adivinar quién era la persona nominada para cada premio a medida que la descripción avanzaba, porque conocernos es parte de querernos y de reconocernos. 
+- We planned the **script and hosting** of the event to replicate the tone of an awards ceremony like the Oscars, with musical interludes, acknowledgments, and explanations from the awards committee. We included a dose of humour because we wanted everyone to feel comfortable receiving each award, which was a surprise.
+- We **organized the event** with a red-carpet wallpaper, we asked the entire team to dress up for the occasion and have a glass to toast with their drink of choice. We also included a voucher for "appetizers and canapés" in that month's billing to make the invitation complete. From an operations standpoint at MetaDocencia, this greatly simplified postal shipments to 17 geographically dispersed people, without neglecting the chance of each person to receive a small gift for the occasion. This is another example of how at MetaDocencia, we practice the value of well-being, making concrete decisions to reduce the burden on those organizing these events.
+- We **awarded badges** to each team member recognizing their contributions through concepts as diverse as the awards themselves: "Planner Extraordinaire," "Polysemy," "Word Architect," "Guru," or "Team Player." Each badge highlights virtue, generosity, and a sense of belonging to the MetaDocencia community. With a paragraph of description for each award, each person listened and had the opportunity to toast and thank for their virtual statuette. Emotions quickly surfaced, and we began to guess who was nominated for each award as the description unfolded, because getting to know each other is part of caring for and recognizing each other.
+- 
+<img src="https://www.metadocencia.org/img/eventos-cultura-bienestar4.png" alt="Screenshot of the Manzanita Award badge received by Patri, shared by her on her personal Twitter account." width="600px"/>
 
-<img src="https://www.metadocencia.org/img/eventos-cultura-bienestar4.png" alt="Captura de pantalla de la insignia del Premio Manzanita que recibió Patri, compartido por ella en su cuenta personal de Twitter." width="600px"/>
+*The 2023 Manzanita Awards aim to continue sustaining and creating a community culture of well-being through individual and collective recognition.*
 
-## En conclusión
-Trazamos tres acciones fundamentales para generar encuentro en los eventos: **cuidarnos**, **reconocernos** y **valorarnos**.
+## In conclusion
+We outlined three fundamental actions to foster connection in our events: **taking care**, **recognizing**, and **valuing each other**.
 
-Siendo personas que venimos mayormente del ámbito académico, cada Premio Manzanita fue altamente significativo ya que premió la colaboración en lugar de la competencia, un valor que consideramos esencial para nuestra misión y visión.
+Being individuals mostly from an academic background, each Manzanita Award was highly significant as it rewarded collaboration instead of competition, a value that we consider essential to our mission and vision.
 
-**Cuidar** para quienes hacemos MetaDocencia representa atender y responder a las necesidades, expectativas y emociones de cada integrante de la comunidad, creando un entorno de trabajo seguro, amigable y respetuoso. Es esencial crear una cultura del cuidado, en la que se haga hincapié en la promoción del bienestar, la construcción colectiva y el trabajo grupal. 
+**Caring** for those of us who make up MetaDocencia means attending to and responding to the needs, expectations, and emotions of each member of the community, creating a safe, friendly, and respectful work environment. It is essential to create a culture of care, emphasizing the promotion of well-being, collective construction, and teamwork.
 
-**Reconocer** es dar visibilidad y crédito a las contribuciones de cada integrante del equipo, respetando su autoría, diversidad y singularidad. Es crear una cultura de colaboración en la que se fomente la confianza, la construcción y el aprendizaje compartido.
+**Recognition** involves giving visibility and credit to the contributions of each team member, respecting their authorship, diversity, and uniqueness. It is about creating a culture of collaboration that fosters trust, construction, and shared learning.
 
-**Valorar** para MetaDocencia representa celebrar las contribuciones de cada persona que forma parte de la comunidad, ofreciendo incentivos y beneficios que reconozcan su esfuerzo, calidad e impacto. También implica compartir, disfrutar y divertirse con las demás personas, creando espacios para el ocio, el humor y la creatividad. Es decir, nos ocupamos de fomentar una cultura de gratificación que estimule la pasión, la alegría y la innovación. 
+**Valuing**, for MetaDocencia, means celebrating the contributions of each person who is part of the community, offering incentives and benefits that recognize their effort, quality, and impact. It also involves sharing, enjoying, and having fun with others, creating spaces for leisure, humour, and creativity. In other words, we strive to foster a culture of appreciation that stimulates passion, joy, and innovation.
 
-Al ser un equipo distribuido en distintas ciudades y países, es importante generar encuentros significativos, emotivos, que conecten a las personas y nos dejen esa sensación de transformación interna y de conexión humana tan valiosa para que un equipo trabaje armoniosamente. Nos esperan grandes desafíos porque el entusiasmo del equipo se incrementa encuentro a encuentro.
+As a team distributed across different cities and countries, it is important to create meaningful, emotional encounters that connect people and leave us with that valuable sense of internal transformation and human connection necessary for a team to work harmoniously. Great challenges await us because the team's enthusiasm increases with each encounter.
 
-Nos gustaría conocer qué prácticas llevan adelante en su comunidad para generar cercanía. Los esperamos en nuestro [Slack](https://w3id.org/metadocencia/slack) para leer sus experiencias. ¡Hasta la próxima!
+We would like to know what practices you carry out in your community to foster closeness. We look forward to reading about your experiences on our [Slack channel](https://w3id.org/metadocencia/slack). Until next time!
 
 
-## Agradecimientos
-Esta publicación ha sido posible gracias a NASA Grants 80NSSC23K0854 (DOI: 10.5281/zenodo.8215455), 80NSSC23K0857 (DOI: 10.5281/zenodo.8250978) y 80NSSC23K0861 (DOI: 10.5281/zenodo.8212072), el subsidio CZ DAF2021-239366 y el subsidio DOI https://doi.org/10.37921/522107izqogv de la Chan Zuckerberg Initiative DAF, un fondo asesorado de la Silicon Valley Community Foundation (fondo DOI 10.13039/100014989).
+## Acknowledgments
+This publication was made possible thanks to grants from NASA 80NSSC23K0854 (DOI: 10.5281/zenodo.8215455), 80NSSC23K0857 (DOI: 10.5281/zenodo.8250978), and 80NSSC23K0861 (DOI: 10.5281/zenodo.8212072).
 
 ---
 
-*¿Te gustó esta publicación? Puedes reutilizarla libremente bajo licencia CC by 4.0, solo tienes que citarla.* 
+*Did you like this post? You can freely reuse it under CC by 4.0 license, you just have to cite it.* 
 
-Esta es la cita que te recomendamos usar para referenciarla:
-Pendino, R., Ascenzi, L., Buede, J., Ación, L., & Palopoli, N. (2024). Cómo generar encuentro genuino y cultura del bienestar en los eventos del equipo, tanto presenciales como virtuales. Zenodo. https://doi.org/10.5281/zenodo.10818072
+This is the citation we recommend using to reference it: 
+Romina Pendino, Laurel Ascenzi, Julián Buede, Laura Ación, Nicolás Palopoli. (2023). Creating genuine connections and cultivating a culture of well-being in team events, both in-person and virtual. Zenodo. https://doi.org/10.5281/zenodo.10818071
