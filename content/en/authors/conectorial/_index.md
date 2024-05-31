@@ -12,7 +12,7 @@ social:
   link: https://conectorial.netlify.app/
 superuser: false
 user_groups:
--  Former Fellow Communities
+-  This Hive was also built by
 ---
 
 ### Learn more in this video
