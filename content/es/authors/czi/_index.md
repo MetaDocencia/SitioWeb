@@ -12,7 +12,7 @@ social:
   link: https://chanzuckerberg.com/science/programs-resources/open-science/
 superuser: false
 user_groups:
--  Formaron parte del Panal
+-  También construyeron este Panal
 ---
 
 ### Conócela en este video
