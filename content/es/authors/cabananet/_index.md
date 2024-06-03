@@ -12,7 +12,7 @@ social:
   link: https://cabana.network/
 superuser: false
 user_groups:
--  También construyeron este Panal
+-  También construyen este Panal
 ---
 
 ### Conócela en este video
