@@ -12,7 +12,7 @@ social:
   link: https://the-turing-way.netlify.app/index.html
 superuser: false
 user_groups:
--  También construyeron este Panal
+-  También construyen este Panal
 ---
 
 ### Conócela en este video
