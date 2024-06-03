@@ -12,7 +12,7 @@ social:
   link: https://openlifesci.org/
 superuser: false
 user_groups:
--  This Hive was also built by
+-  Also build this hive
 ---
 
 ### Learn more in this video
