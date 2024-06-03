@@ -13,7 +13,7 @@ subtitle = "The contents of this section may be out of date. If you have questio
 [content]
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-  user_groups = ["This Hive was also built by"]
+  user_groups = ["Also build this hive"]
 
 [design]
   # Show user's social networking links? (true/false)
