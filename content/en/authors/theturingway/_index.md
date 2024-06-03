@@ -12,7 +12,7 @@ social:
   link: https://the-turing-way.netlify.app/index.html
 superuser: false
 user_groups:
--  This Hive was also built by
+-  Also build this hive
 ---
 
 ### Learn more in this video
