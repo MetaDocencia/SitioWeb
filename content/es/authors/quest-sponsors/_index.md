@@ -1,17 +1,17 @@
 ---
 authors:
-- AreciboC3
+- Quest
 bio: ""
 email: ""
-name: AreciboC3
+name: QUEST Center for Responsible Research, Berlin Institute of Health @Charité
 weight: 3
 role: 
 social:
 - icon: globe
   icon_pack: fas 
-  link: https://www.areciboc3.org/
+  link: https://www.bihealth.org/en/translation/innovation-enabler/quest-center
 superuser: false
 user_groups:
--  Actuales
+-  Anteriores
 ---
 
