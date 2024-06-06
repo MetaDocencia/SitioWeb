@@ -4,7 +4,7 @@ draft: true
 type: page
 linktitle: Reflexiones conversatorio CA
 summary: "En respuesta al interés de nuestra comunidad de profundizar las discusiones, en marzo de 2024 preparamos un ciclo de conversatorios en el que reflexionamos sobre distintos temas vinculados a la Ciencia Abierta"
-title: Conversatorios sobre Ciencia Abierta: reflexiones colectivas en comunidad
+title: "Conversatorios sobre Ciencia Abierta: reflexiones colectivas en comunidad"
 authors:
   - vxhardez
   - lacion
