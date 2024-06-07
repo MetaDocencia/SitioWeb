@@ -22,7 +22,7 @@ Consequently, inclusive and well-intentioned funders, although willing to work w
 
 Furthermore, grant writing training is rarely available in Spanish, and it does not address cultural and mindset differences essential to successfully navigating the international funding scene. Moreover, we know of no grant writing training provided mainly by researchers working collectively from Latin America and with a record of successfully obtaining international funding, who can become role models for the trainees.
 
-The purpose of this project is to democratize access to the expertise, including the implicit knowledge and organizational infrastructure needed to submit high quality proposals to funders, which traditionally does not exist outside of high-income country networks. This proposal was conceived by researchers and experts in data science, health research and capacity building in Open Science, gathered in international non-profit organizations and projects such as OLS (formerly Open Life Science), which participated in the initial idea.
+The purpose of this project is to democratize access to the expertise, including the implicit knowledge and organizational infrastructure needed to submit high quality proposals to funders, which traditionally does not exist outside of high-income country networks.
 
 ### Vision to Address the Problem
 Our vision is that any researcher in Spanish-speaking Latin America has access to a friendly and collaborative community of peers who freely share high-quality knowledge, contacts, and advice, allowing these researchers to increase their participation in international funding.  
