@@ -48,4 +48,4 @@ Lista no exhaustiva de líneas de trabajo para avanzar esta visión:
 9. Colaboración con financiadores inclusivos para adaptar las actividades mencionadas a necesidades específicas antes, durante o después de una convocatoria de financiamiento;
 10. Diseño y ejecución de un estudio longitudinal de seguimiento que mida la tasa de éxito en la recaudación de fondos de los investigadores después de participar en este proyecto para medir su impacto a cinco años.
 
-MetaDocencia está trabajando actualmente con [CZI](https://chanzuckerberg.com/) para financiar las líneas de trabajo 1 a 3 durante 2024-2025 y nos seguiremos co-creando este proyecto con todas las partes interesadas. Si tienes interés en participar, contacta con laura.acion@metadocencia.org.
+MetaDocencia está trabajando actualmente con [CZI](https://chanzuckerberg.com/) para financiar las líneas de trabajo 1 a 3 durante 2024-2025 y seguiremos co-creando este proyecto con todas las partes interesadas. Si tienes interés en participar, contacta con laura.acion@metadocencia.org.
