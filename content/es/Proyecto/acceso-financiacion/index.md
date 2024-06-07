@@ -17,16 +17,17 @@ tags:
 output: html_document
 ---
 
+### Problema
 Las personas que hacen investigación en países de ingresos bajos a medios, como la mayoría de los países de América Latina, a menudo enfrentamos más desafíos para recaudar fondos internacionales que las de países de ingresos altos. Las barreras lingüísticas y las diferencias culturales aumentan la distancia entre la mayoría de quienes hacemos investigación en América Latina y las entidades financiadoras en países de ingresos altos.
 
-En consecuencia, organizaciones que financian investigación en forma inclusiva y bien intencionada, aunque están dispuestas a trabajar con diversas comunidades de investigación, no financian tantas propuestas de países de ingresos bajos a medios como les gustaría. 
+En consecuencia, organizaciones que financian investigación en forma inclusiva y bien intencionada, aunque están dispuestas a trabajar con comunidades de investigación diversas, no financian tantas propuestas de países de ingresos bajos a medios como les gustaría. 
 
-Además, la capacitación para crear las solicitudes de financiación rara vez está disponible en español y no aborda las diferencias culturales y de mentalidad esenciales para navegar con éxito los territorios de la financiación internacional. Además, no conocemos ninguna capacitación para escribir pedidos de financiación enseñada principalmente por personas que hacen investigación y que trabajan colectivamente desde América Latina, que hayan obtenido financiación internacional y estén dispuestas a convertirse en modelos a seguir para quienes participan de la capacitación.
+Además, la capacitación para crear las solicitudes de financiación rara vez está disponible en español y no aborda las diferencias culturales y de mentalidad esenciales para navegar con éxito los territorios de la financiación internacional. Por otra parte, no conocemos capacitaciones para escribir pedidos de financiación enseñada principalmente por personas que hacen investigación y que trabajan colectivamente desde América Latina, que hayan obtenido financiación internacional y dispuestas a convertirse en modelos a seguir para quienes participan de la capacitación.
 
-El propósito de este proyecto es democratizar el acceso a las competencias especializadas, incluidos los conocimientos implícitos y la infraestructura organizativa necesaria para presentar propuestas de alta calidad a los financiadores, que tradicionalmente no existen fuera de las redes de los países de altos ingresos. Esta propuesta fue pensada por investigadores/as y expertos/as en ciencia de datos, investigación sanitaria y desarrollo de capacidades en Ciencia Abierta, nucleados en organizaciones y proyectos internacionales sin ánimo de lucro como OLS (anteriormente Open Life Science), que participó de la idea inicial.
+El propósito de este proyecto es democratizar el acceso a las competencias especializadas, incluidos los conocimientos implícitos y la infraestructura organizativa necesaria para presentar propuestas de alta calidad a entidades que financian proyectos de ciencia y técnica, que tradicionalmente no existen fuera de las redes de los países de altos ingresos. 
 
 ### Visión para enfrentar el problema
-Nuestra visión es que cualquier persona que se dedique a la investigación en español desde América Latina debe tener acceso a una comunidad amistosa y colaborativa de pares que compartan libremente conocimientos, contactos y consejos de alta calidad, permitiéndoles aumentar su participación en la financiación internacional. 
+Nuestra visión es que cualquier persona que se dedique a la investigación en español desde América Latina debe tener acceso a una comunidad segura  y colaborativa de pares que compartan libremente conocimientos, contactos y consejos de alta calidad, permitiéndoles aumentar su participación en la financiación internacional. 
 
 #### Objetivos
 - Aumentar el acceso a habilidades especializadas en recaudación de fondos (incluyendo el conocimiento implícito) mediante el desarrollo de un plan de estudios que se adapte a investigadores latinoamericanos de habla hispana donde se encuentren;
@@ -47,4 +48,4 @@ Lista no exhaustiva de líneas de trabajo para avanzar esta visión:
 9. Colaboración con financiadores inclusivos para adaptar las actividades mencionadas a necesidades específicas antes, durante o después de una convocatoria de financiamiento;
 10. Diseño y ejecución de un estudio longitudinal de seguimiento que mida la tasa de éxito en la recaudación de fondos de los investigadores después de participar en este proyecto para medir su impacto a cinco años.
 
-MetaDocencia está trabajando actualmente con [CZI](https://chanzuckerberg.com/) para financiar esta propuesta durante 2024-2025 con apertura a seguir co-creando este proyecto con todas las partes interesadas. Si tienes interés en participar, contacta con laura.acion@metadocencia.org. 
+MetaDocencia está trabajando actualmente con [CZI](https://chanzuckerberg.com/) para financiar las líneas de trabajo 1 a 3 durante 2024-2025 y nos seguiremos co-creando este proyecto con todas las partes interesadas. Si tienes interés en participar, contacta con laura.acion@metadocencia.org.
