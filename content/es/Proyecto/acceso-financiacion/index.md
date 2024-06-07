@@ -47,11 +47,4 @@ Lista no exhaustiva de líneas de trabajo para avanzar esta visión:
 9. Colaboración con financiadores inclusivos para adaptar las actividades mencionadas a necesidades específicas antes, durante o después de una convocatoria de financiamiento;
 10. Diseño y ejecución de un estudio longitudinal de seguimiento que mida la tasa de éxito en la recaudación de fondos de los investigadores después de participar en este proyecto para medir su impacto a cinco años.
 
-### Resultados esperados
-- Colaboración entre expertos locales e internacionales como formadores, mentores y socios en esta propuesta, incluidos investigadores del mundo académico, profesionales, consultores, responsables políticos y financiadores.
-- Formación basada en cohortes en competencias y habilidades especializadas/personalizadas que apoyen el desarrollo de propuestas de investigación de alta calidad.
-- Acompañamiento 1:1 continuado y enfoques de compromiso con la comunidad para apoyar a los participantes con asesoramiento oportuno y en la creación de nuevas conexiones con socios clave.
-- Guía y recursos de acceso abierto y basados en la investigación, incluidos materiales de formación, ejemplos de solicitudes de subvención, plantillas, reflexiones de los becarios y otros para un uso más amplio.
-- Fomento de una red de todos los becarios y expertos como Comunidad de Práctica de apoyo de la que los participantes puedan obtener tutoría y aprendizaje prolongados. 
-
 MetaDocencia está trabajando actualmente con [CZI](https://chanzuckerberg.com/) para financiar esta propuesta durante 2024-2025 con apertura a seguir co-creando este proyecto con todas las partes interesadas. Si tienes interés en participar, contacta con laura.acion@metadocencia.org. 
