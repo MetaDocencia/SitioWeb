@@ -18,9 +18,11 @@ tags:
 
 Researchers from low-to-middle-income Countries (LMIC), such as most countries in Latin America, often face more challenges in raising international funding than those from High-Income Countries (HIC). Language barriers and cultural differences increase the distance between most Latin American researchers and funders in HIC.
 
-Consequently, inclusive and well-intentioned funders, such as CZI or Wellcome Trust, although willing to work with diverse research communities, do not fund as many proposals from LMICs as they would like. Often, applications submitted by researchers at LMICs are not seen as competitive enough per the funders’ requirements, even when the contents are fully aligned with the funding goals.
+Consequently, inclusive and well-intentioned funders, although willing to work with diverse research communities, do not fund as many proposals from LMICs as they would like. Often, applications submitted by researchers at LMICs are not seen as competitive enough per the funders’ requirements, even when the contents are fully aligned with the funding goals.
 
 Furthermore, grant writing training is rarely available in Spanish, and it does not address cultural and mindset differences essential to successfully navigating the international funding scene. Moreover, we know of no grant writing training provided mainly by researchers working collectively from Latin America and with a record of successfully obtaining international funding, who can become role models for the trainees.
+
+The purpose of this project is to democratize access to the expertise, including the implicit knowledge and organizational infrastructure needed to submit high quality proposals to funders, which traditionally does not exist outside of high-income country networks. This proposal was conceived by researchers and experts in data science, health research and capacity building in Open Science, gathered in international non-profit organizations and projects such as OLS (formerly Open Life Science), which participated in the initial idea.
 
 ### Vision to Address the Problem
 Our vision is that any researcher in Spanish-speaking Latin America has access to a friendly and collaborative community of peers who freely share high-quality knowledge, contacts, and advice, allowing these researchers to increase their participation in international funding.  
@@ -35,7 +37,7 @@ Our vision is that any researcher in Spanish-speaking Latin America has access t
 Non-exhaustive list of action lines to advance this vision:
 1. Iteratively develop a curriculum to teach a mix of traditional and implicit knowledge required to raise funds for research successfully;
 2. Develop an inclusive community of practice where researchers feel safe sharing funding information and helping each other with fundraising and teaching effectively what they know;
-3. Develop and teach an abridged version of the WP1 curriculum twice in person for dissemination and preliminary testing of the entire curriculum while growing the community of practice.
+3. Develop and teach an abridged version of the curriculum twice in person for dissemination and preliminary testing of the entire curriculum while growing the community of practice.
 4. Teach the full curriculum developed online. The first training will consist of one pilot cohort of Spanish-speaking researchers from Latin America willing to give feedback on the first version of the curriculum and become multipliers for this knowledge. Subsequent cohorts will follow, including continuous curriculum improvement iterations.
 5. Develop additional research-driven curriculum modules that effectively teach new topics or serve other learner personas, including administrators and research officers at Latin American academic institutions, non-profit and grassroots organizations, and others.
 6. Develop guidelines for effective and non-extractive HIC-LMIC international research collaborations that complement the Work Package 1 curriculum.
