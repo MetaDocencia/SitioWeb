@@ -28,7 +28,7 @@ Además, la **formación en redacción de solicitudes de financiamiento rara vez
 **Nuestra visión es que cualquier persona que se dedique a la investigación en español desde América Latina debe tener acceso a una comunidad segura  y colaborativa de pares que compartan libremente conocimientos, contactos y consejos de alta calidad, permitiéndoles aumentar su participación en la financiación internacional.**  
 
 #### Objetivos
-- **Aumentar el acceso a habilidades especializadas en recaudación de fondos** (incluyendo el conocimiento implícito) mediante el **desarrollo de un plan de estudios** que se adapte a personas hispanoablantes que realizan investigación en Latinoamérica donde se encuentren;
+- **Aumentar el acceso a habilidades especializadas en recaudación de fondos** (incluyendo el conocimiento implícito) mediante el **desarrollo de un plan de estudios** que se adapte a personas hispanohablantes que realizan investigación en Latinoamérica donde se encuentren;
 - **Enseñar este plan de estudios de manera gratuita**, ya que las matrículas para acceder a formación, aunque sean mínimas, pueden ser barreras económicas para personas de América Latina;
 - **Enseñar cómo enseñar este plan de estudios**, multiplicando su velocidad de difusión;
 - **Construir y liderar una comunidad de práctica segura e inclusiva** para personas que realizan investigación en América Latina, generando un ambiente seguro que les permita trabajar en una mentalidad de colaboración y abundancia en lugar de una mentalidad competitiva y de escasez.
