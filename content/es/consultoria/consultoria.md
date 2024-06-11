@@ -81,4 +81,4 @@ Contamos con un equipo con experiencia extensa en distintas disciplinas y ámbit
 - Gobernanza y sostenibilidad de proyectos de ciencia abierta
 - Organización de grupos focales
 
-Lee más sobre nuestra experiencia en [nuestro prospecto](https://zenodo.org/record/7093618) y contáctanos en [info@metadocencia.org](info@metadocencia.org).
+Lee más sobre nuestra experiencia en [nuestro prospecto](https://zenodo.org/records/11583125) y contáctanos en [info@metadocencia.org](info@metadocencia.org).
