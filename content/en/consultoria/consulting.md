@@ -81,4 +81,4 @@ Our team has extensive experience and expertise in different disciplines and are
 - Governance and sustainability of open science projects
 - Organizing focus groups
   
-Read more about our experience in [our prospectus](https://zenodo.org/record/7093618) and contact us at [info@metadocencia.org](info@metadocencia.org).
+Read more about our experience in [our prospectus](https://zenodo.org/records/11583125) and contact us at [info@metadocencia.org](info@metadocencia.org).
