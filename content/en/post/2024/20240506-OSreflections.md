@@ -4,6 +4,7 @@ draft: false
 type: page
 linktitle: OS collective reflections
 summary: "In response to our community’s interest, in March 2024 we prepared a series of conversations to reflect on various topics related to Open Science. The aim was to collectively understand how we learn, apply, and what implications Open Science has for our region."
+title: Open Science Conversations Collective Reflections
 authors:
   - vxhardez
   - lacion
