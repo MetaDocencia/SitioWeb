@@ -83,3 +83,4 @@ This publication was made possible thanks to a grant from the Chan Zuckerberg In
 *Did you like this publication? You can reuse it freely under CC BY 4.0 license, just remember to cite it.* 
 
 Here is the citation we recommend using to reference it:
+Xhardez, V., Ación, L., Míguez, M. P., & Ascenzi, L. (2024). Open Science Conversations Collective Reflections. Zenodo. https://doi.org/10.5281/zenodo.11582471
