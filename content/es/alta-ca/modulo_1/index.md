@@ -30,17 +30,17 @@ Los objetivos del encuentro serán:
 |00:00 | Bienvenida e información general | 5 mins |
 |00:05 | **Ejercicio 1.** Presentación de las personas | 5 mins |
 |00:10 | Presentación de contenidos: Ethos de la Ciencia Abierta (1era parte)  | 10 mins |
-|00:20 | **Ejercicio 2.** Breve encuesta | 5 mins |
+|00:20 | **Ejercicio 2.** Breve encuesta | 8 mins |
 |00:25 | Presentación de contenidos: Ethos de la Ciencia Abierta (2da parte)  | 10 mins |
-|00:35 | **Ejercicio 3.** Actividad en grupos | 15 mins |
+|00:35 | **Ejercicio 3.** Actividad en grupos | 12 mins |
 |00:50 | *Pausa* | 5 mins |
 |00:55 | Presentación de contenidos: Beneficios y ventajas de la ciencia abierta | 15 mins |
 |01:10 | **Ejercicio 4.** Breve encuesta | 5 mins |
 |01:15 | Presentación de contenidos: Desafíos de la Ciencia Abierta | 15 mins |
 |01:30 | **Ejercicio 5.** Reflexión (Chat y micrófono abierto) | 15 mins |
 |01:45 | *Pausa* | 5 mins |
-|01:50 | Presentación de contenidos: preocupaciones y formas de mitigarlas | 15 mins |
-|02:05 | **Ejercicio 6.** Actividad en Grupos | 15 mins |
+|01:50 | Presentación de contenidos: preocupaciones y formas de mitigarlas | 10 mins |
+|02:05 | **Ejercicio 6.** Actividad en Grupos | 10 mins |
 |02:20 | Cierre | 5 mins |
 |02:25 | **Actividad de cierre** Acreditación | 35 mins |
 
