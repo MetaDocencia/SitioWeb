@@ -32,11 +32,11 @@ url = ""
   url = "pdc/"
   parent = "Quiénes somos"
     weight = 40
-  [[main]]
-  name = "Accesibilidad"
-  url = "/post/perfiles_accesibilidad/"
-  parent = "Quiénes somos"
-    weight = 50
+#  [[main]]
+#  name = "Accesibilidad"
+#  url = "/post/perfiles_accesibilidad/"
+#  parent = "Quiénes somos"
+#    weight = 50
   [[main]]
   name = "Equipo"
   url = "equipo/"
