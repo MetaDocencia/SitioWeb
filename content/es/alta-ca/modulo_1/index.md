@@ -9,7 +9,6 @@ authors:
 
 ---
 
-# Misión ALTa CA encuentro 1: el Ethos de la Ciencia Abierta
 El encuentro 1 tiene carácter introductorio, de modo que además de presentar los conceptos claves del módulo, se plantea como propósito adicional romper el hielo entre participantes, establecer reglas de juego, presentar y acordar definiciones de términos (glosario).
 A partir de los contenidos que plantea el [MOOC de NASA TOPS](https://github.com/nasa/Transform-to-Open-Science/tree/open-science-101), te proponemos desarrollar una clase virtual de 3 horas de duración, trabajando de forma colaborativa para seleccionar, priorizar y ajustar en base a nuestra experiencia y nuestra mirada latinoamericana los contenidos del primer módulo de NASA TOPS.
 
