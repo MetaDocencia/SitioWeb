@@ -3,7 +3,7 @@ date: "2024-03-12"
 draft: false
 linktitle: Encuentro 2 - Conversatorios Ciencia Abierta
 summary: 13-03 17 hs. (UTC-3). 
-title: "Acceso Abierto en América Latina, ventajas e implicaciones"
+title: "Conversatorio: Acceso Abierto en América Latina, ventajas e implicaciones"
 authors:
   - MetaDocencia
 type: cursos

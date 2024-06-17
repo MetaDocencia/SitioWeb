@@ -3,7 +3,7 @@ date: "2024-02-02"
 draft: false
 linktitle: Encuentro 3
 summary: Encuentro 3 - 07-02 17 hs. (UTC-3). 
-title: "Módulo 3: Datos abiertos"
+title: "Misión exploración: Datos abiertos"
 authors:
   - MetaDocencia
 type: cursos

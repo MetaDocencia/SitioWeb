@@ -3,7 +3,7 @@ date: "2024-01-16"
 draft: false
 linktitle: Encuentro 1
 summary: Encuentro 1 - 24-01 17 hs. (UTC-3). 
-title: "Módulo 1: El 'Ethos' de la Ciencia Abierta"
+title: "Misión exploración: El 'Ethos' de la Ciencia Abierta"
 authors:
   - MetaDocencia
 type: cursos

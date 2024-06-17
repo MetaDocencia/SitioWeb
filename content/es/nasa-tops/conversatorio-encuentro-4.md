@@ -3,7 +3,7 @@ date: "2024-03-13"
 draft: false
 linktitle: Encuentro 4 - Conversatorios Ciencia Abierta
 summary: 20-03 17 hs. (UTC-3). 
-title: "Aplicación de la Ciencia Abierta en América Latina atendiendo a la justicia epistémica"
+title: "Conversatorio: Aplicación de la Ciencia Abierta en América Latina atendiendo a la justicia epistémica"
 authors:
   - MetaDocencia
 type: cursos
