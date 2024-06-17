@@ -13,3 +13,5 @@ A través de la implementación de esta política de accesibilidad, MetaDocencia
 - Que los integrantes del equipo de MetaDocencia conozcan la presente política de accesibilidad y reciban capacitación en buenas prácticas de accesibilidad para así garantizar y fomentar la participación de todas las personas.
 
 - Que los servicios que ofrece MetaDocencia sean antidiscriminatorios e inclusivos, independientemente de la edad, género, religión, etnia, idioma, identidad, afiliación política o cualquier otra característica individual de los integrantes de la comunidad.
+
+Te invitamos a leer nuestro blogpost sobre perfiles de accesibilidad en [este link](https://www.metadocencia.org/post/perfiles_accesibilidad/). 
