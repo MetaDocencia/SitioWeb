@@ -3,7 +3,7 @@ date: "2024-02-15"
 draft: false
 linktitle: Encuentro 5
 summary: Encuentro 5 - 21-02 17 hs. (UTC-3). 
-title: "Módulo 5: Resultados abiertos"
+title: "Misión exploración: Resultados abiertos"
 authors:
   - MetaDocencia
 type: cursos
