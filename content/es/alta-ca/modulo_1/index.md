@@ -19,8 +19,6 @@ A partir de los contenidos que plantea el [MOOC de NASA TOPS](https://github.com
 4. Reconocer los desafíos que implican las prácticas de Ciencia Abierta en el marco de su aplicación en nuestro contexto.
 5. Reflexionar sobre los miedos que suscita la aplicación de las prácticas de Ciencia Abierta y construir colaborativamente estrategias para su mitigación. 
 
-## Preparación para el encuentro
-
 ## Cronograma
 |  Hora | Actividad | Duración |
 | ---:  | :----------- | :----------- |
