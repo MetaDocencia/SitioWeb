@@ -57,7 +57,7 @@ Durante los encuentros reflexionaremos sobre cada uno de los cinco módulos del 
 ## Cronograma
 En el primer encuentro se presentarán los conceptos claves del módulo, definiciones de términos y la importancia de la contextualización. También se define la modalidad de los encuentros, canales de comunicación y colaboración. En los módulos 2 a 5 se presentará un caso o proyecto con perspectiva latinoamericana para ilustrar las recomendaciones sobre el tema con buenas prácticas contextualizadas. El sexto encuentro es de repaso y cierre: devoluciones, intercambio, discusión y apoyo para obtener la certificación.
 
-|  Día/hora (UTC-3) | Tema (click en cada uno para ver contenidos y cronograma por módulo) |
+|  Día/hora (UTC-3) | Tema (click en cada uno para ver la Hoja de Ruta con contenidos y cronograma por módulo) |
 | ---:  | :----------- |
 |Mié 26-06 - 16 a 19 | [*El Ethos de la Ciencia Abierta*](https://www.metadocencia.org/alta-ca/modulo_1/) | 
 |Mié 03-07 - 16 a 19 | *Herramientas y recursos abiertos* | 
