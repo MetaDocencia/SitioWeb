@@ -7,7 +7,7 @@
 </style>
 <div id="mc_embed_signup">
     <form action="https://metadocencia.us19.list-manage.com/subscribe/post?u=92fb89ce82f9689a3b083bb35&amp;id=d8187ceaf7&amp;f_id=00f682e4f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
-        <div id="mc_embed_signup_scroll"><h2>Sign up to receive our newsletter in Spanish</h2>
+        <div id="mc_embed_signup_scroll"><h2>Sign up to receive our newsletter</h2>
             <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
             <div class="mc-field-group"><label for="mce-EMAIL">Correo electrónico <span class="asterisk">*</span></label><input type="email" name="EMAIL" class="required email" id="mce-EMAIL" required="" value=""><span id="mce-EMAIL-HELPERTEXT" class="helper_text">E-mail</span></div><div class="mc-field-group"><label for="mce-FNAME">Name </label><input type="text" name="FNAME" class=" text" id="mce-FNAME" value=""></div><div class="mc-field-group"><label for="mce-LNAME">Last name </label><input type="text" name="LNAME" class=" text" id="mce-LNAME" value=""></div><div class="mc-field-group"><label for="mce-MMERGE7">Country </label><input type="text" name="MMERGE7" class=" text" id="mce-MMERGE7" value=""></div><div class="mc-field-group"><label for="mce-MMERGE8">Gender </label><input type="text" name="MMERGE8" class=" text" id="mce-MMERGE8" value=""></div><div class="mc-field-group"><label for="mce-MMERGE9">Community </label><input type="text" name="MMERGE9" class=" text" id="mce-MMERGE9" value=""></div>
 <div hidden=""><input type="hidden" name="tags" value="6238401,6541797,6397245"></div>
