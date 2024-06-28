@@ -15,14 +15,13 @@ categories:
   - Temas
 ---
 
-En el marco del Grupo de Estudio Pre-NASA TOPS, nos juntamos una vez más para revisar lo que aprendimos sobre los datos abiertos y compartir experiencias previas. Nuestra comunidad se animó a discutir el tema desde perspectivas contemporáneas y muy complejas. Continuando la serie de [artículos](https://www.metadocencia.org/post/2024/20240228-encuentro-2-grupo-de-estudio-pre-nasa-tops/) sobre nuestro aprendizaje compartido en el Grupo de Estudio, a continuación compartimos un resumen del encuentro 3.
+En el marco del grupo de estudio pre-NASA TOPS, nos reunimos una vez más para revisar lo que aprendimos sobre los datos abiertos y compartir experiencias previas. Nuestra comunidad se animó a discutir el tema desde perspectivas contemporáneas y muy complejas. Continuando la serie de [artículos](https://www.metadocencia.org/post/2024/20240228-encuentro-2-grupo-de-estudio-pre-nasa-tops/) sobre nuestro aprendizaje compartido, a continuación compartimos un resumen del encuentro 3.
 
 <img src="https://www.metadocencia.org/img/Modulo3_PreNASATOPS.jpg" alt="Módulo 3: datos abiertos" width="600px"/>
 
-
 ## La colaboración nos hace ir más lejos
 
-A medida que avanzamos en los módulos de Open Science 101 nos damos cuenta de las relaciones que existen entre los temas presentados. Por ejemplo, al tratar de datos abiertos, necesitamos recordar sobre las licencias con las que podemos compartirlos y la importancia de planificar el tratamiento de los datos en un proyecto de investigación – asuntos que aparecen en módulos anteriores y posteriores. Recursos como los identificadores persistentes, las licencias, los metadatos y los protocolos reproducibles dan base a la existencia de los datos abiertos.
+A medida que avanzamos en los módulos de Open Science 101 nos damos cuenta de las relaciones que existen entre los temas presentados. Por ejemplo, al tratar de datos abiertos, necesitamos recordar las licencias con las que podemos compartirlos y la importancia de planificar el tratamiento de los datos en un proyecto de investigación, asuntos que aparecen en módulos anteriores y posteriores. Recursos como los identificadores persistentes, las licencias, los metadatos y los protocolos reproducibles dan base a la existencia de los datos abiertos.
 
 Todo esto se presenta siempre en el marco de los [principios FAIR](https://www.idecor.gob.ar/principios-fair-como-hacer-tus-datos-accesibles-e-interoperables/) y discutiendo cómo los distintos actores producen, usan y comparten datos. En el encuentro 3, nuestra comunidad consideró también fundamental basarnos en los [principios CREA](https://evalparticipativa.net/wp-content/uploads/2021/09/PrincipiosCREA.pdf) cuando se trata del uso responsable y de la gobernanza de datos en América Latina. Esto amplía el acceso a los datos y su potencial de uso, de especial importancia en un contexto de escasez socioeconómica y profundas desigualdades de poder.
 
@@ -43,9 +42,11 @@ Uno de los recursos complementarios a nuestro encuentro, el [Barómetro Regional
 
 Por tratarse de un módulo sobre datos abiertos, encontramos información relevante sobre la legislación y regulaciones asociadas con la protección de datos personales y sensibles. Podemos tener así un panorama de los recursos y herramientas prácticas para comprender mejor y cumplir con estos estándares, promoviendo una cultura de ética y responsabilidad en la investigación científica y la práctica profesional.
 
-Sin embargo, con los avances de las inteligencias artificiales (IA) en sus distintas formas, se deben actualizar los estándares éticos y legales frente a estos emergentes, siempre incluyendo la mirada de comunidades locales y los cambios que viven con la llegada de nuevas tecnologías en su cotidiano. En el ámbito de la IA se debe garantizar un acceso justo y equitativo a los recursos y datos disponibles para todas las personas e instituciones involucradas, promoviendo así la igualdad de oportunidades y la colaboración inclusiva en la comunidad científica y tecnológica.
+Sin embargo, con los avances de la inteligencia artificial (IA) en sus distintas formas, se deben actualizar los estándares éticos y legales frente a estos emergentes, siempre incluyendo la mirada de comunidades locales y los cambios que viven con la llegada de nuevas tecnologías en su cotidiano. En el ámbito de la IA se debe garantizar un acceso justo y equitativo a los recursos y datos disponibles para todas las personas e instituciones involucradas, promoviendo así la igualdad de oportunidades y la colaboración inclusiva en la comunidad científica y tecnológica.
 
-A medida que se abren más caminos potenciales para transformar industrias y campos de estudio, al mismo tiempo se plantean desafíos éticos y sociales que deben ser abordados de manera colaborativa y responsable. El manejo adecuado de datos masivos requiere una cuidadosa consideración de los riesgos y beneficios involucrados, así como el cumplimiento de los estándares éticos y legales en la práctica profesional. Como practicantes de una Ciencia Abierta responsable y accesible, esperamos contribuir con estos delicados temas orientándonos hacia el beneficio de nuestras comunidades.
+Al mismo tiempo que se abren más caminos potenciales para transformar industrias y campos de estudio, se plantean desafíos éticos y sociales que deben ser abordados de manera colaborativa y responsable. El manejo adecuado de datos masivos requiere una cuidadosa consideración de los riesgos y beneficios involucrados, así como el cumplimiento de los estándares éticos y legales en la práctica profesional. 
+
+**Como practicantes de una Ciencia Abierta responsable y accesible, esperamos contribuir con estos delicados temas orientándonos hacia el beneficio de nuestras comunidades.**
 
 
 ## ¡Sírvete sin culpa!

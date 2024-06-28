@@ -48,5 +48,4 @@ Su sólida experiencia abarca desde la creación e implementación de herramient
 Además de su labor docente e investigadora, Paz es parte activa de Fundación Éforo, una organización de la sociedad civil comprometida con el control público, la transparencia y la participación ciudadana. 
 Su asesoramiento a diputados/as nacionales, funcionarios/as y referentes sindicales ha dejado una huella significativa en áreas clave como educación, igualdad de género y empleo. También contribuye regularmente con diversos medios y portales periodísticos.
 
-En nuestra entrega de los “Premios Internos de Gala Manzanita 2023” que reivindican el enorme valor de las contribuciones de cada persona del equipo, Paz ha ganado el premio Planificatona por ser precisa, dedicada, proyectiva, atenta,una verdadera maestra de la planificación estratégica.
-
+Hacia adentro del equipo, Paz ha ganado el Premio Planificatona por ser precisa, dedicada, proyectiva y atenta, una verdadera maestra de la planificación estratégica.

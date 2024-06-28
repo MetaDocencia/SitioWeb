@@ -3,13 +3,13 @@ date: "2024-03-13"
 draft: false
 linktitle: Encuentro 3 - Conversatorios Ciencia Abierta
 summary: 20-03 17 hs. (UTC-3). 
-title: "Datos Abiertos de la investigación científica en América Latina y el nuevo extractivismo"
+title: "Conversatorio: Datos Abiertos de la investigación científica en América Latina y el nuevo extractivismo"
 authors:
   - MetaDocencia
-type: eventos
+type: cursos
 weight: 50
 tags:
-  - Encuentros anteriores
+  - Ediciones anteriores
 <!--- featured_image: https://www.metadocencia.org/img/blabla.png --->
 ---
 

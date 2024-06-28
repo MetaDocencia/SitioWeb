@@ -4,9 +4,12 @@ authors:
 bio: ""
 education:
   courses:
-  - course: Masters in Applied Mathematics
+  - course: Ph.D. in Applied and Engineering Sciences
+    institution: Universidad Nacional de San Martín
+    year: 2022
+  - course: Licenciate in Mathematical Sciences
     institution:  Universidad de Buenos Aires
-    year: 
+    year: 2016
 email: ""
 interests:
 - Education
@@ -51,4 +54,4 @@ She holds a degree in Mathematics from the University of Buenos Aires. During he
 
 Since 2020 she is part of MetaDocencia and since 2023 of Open Life Science (OLS).
 
-
+Inside the team she has won the Illumination Award for her participation in new spaces and roles and her contribution of lucidity to all the projects she is part of.

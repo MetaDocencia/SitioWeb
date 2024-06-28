@@ -3,13 +3,13 @@ date: "2024-02-09"
 draft: false
 linktitle: Encuentro 4
 summary: Encuentro 4 - 14-02 17 hs. (UTC-3). 
-title: "Módulo 4: Código abierto"
+title: "Misión exploración: Código abierto"
 authors:
   - MetaDocencia
-type: eventos
+type: cursos
 weight: 50
 tags:
-  - Encuentros anteriores
+  - Ediciones anteriores
 <!--- featured_image: https://www.metadocencia.org/img/blabla.png --->
 ---
 

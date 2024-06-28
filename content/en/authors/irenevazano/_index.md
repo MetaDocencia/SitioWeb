@@ -41,4 +41,4 @@ Irene has a degree in Library Science from UCSE-DABA. Since Irene joined MetaDoc
 
 Irene is a certified instructor for The Carpentries, which underscores her commitment to teaching and disseminating digital skills. She is also an active participant in MetaDocencia, contributing to the strengthening of the community.
 
-In our "Manzanita 2023 Internal Gala Awards" that vindicate the enormous value of the contributions of each person in the team, Ire has won the Transformation Award for her performance in charge of the infrastructure area, and for her great ability to document and transform our tutorials into a coveted and beautiful digital library.
+Inside the team, Ire has won the Transformation Award for her performance in charge of the infrastructure area with great ability to document and transform our tutorials into a valuable and beautiful digital library.

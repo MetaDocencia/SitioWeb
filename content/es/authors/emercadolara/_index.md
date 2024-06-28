@@ -39,10 +39,8 @@ user_groups:
 
 Eunice forma parte de la Civic Science Fellows Network y cuenta con una amplia experiencia en la formulación de políticas de ciencia y tecnología. 
 Ha colaborado con agencias gubernamentales como Innovation Science and Economic Development Canada y el Quebec Ministry of Science and Innovation, contribuyendo al desarrollo e implementación de políticas de innovación abierta inclusivas por diseño. 
+
 Además, ocupó el cargo de subdirectora de política de ciencia y tecnología en el National Council for Science and Technology en México, donde diseñó e implementó la Política de Ciencia Abierta en el país.
 
-**Contribuciones a la Comunidad Científica**
-
-Eunice ha participado en diversas comisiones asesoras y consejos en iniciativas internacionales que abogan por una mayor apertura y colaboración en la práctica científica. 
-Su compromiso se refleja en su participación en la iniciativa SCOAP3 de CERN, la International Open Access Week y OpenCon LATAM.
+Eunice ha participado en diversas comisiones asesoras y consejos en iniciativas internacionales que abogan por una mayor apertura y colaboración en la práctica científica. Su compromiso se refleja en su participación en la iniciativa SCOAP3 de CERN, la International Open Access Week y OpenCon LATAM.
 

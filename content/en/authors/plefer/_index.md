@@ -39,3 +39,5 @@ Paola is a History Professor and Museum Technician. She focused her training on 
 She was trained in alternative tools for teaching history such as photography, literature and music. 
 
 Currently she has added her training as a ceramist and uses these resources as an alternative way to teach.
+
+Inside the team, he has won the Motivation Award, which recognizes his ability to generate enthusiasm and lift the spirits of the entire group with his empathy and good humor.

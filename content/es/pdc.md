@@ -42,7 +42,7 @@ Las personas que forman parte del equipo de Pautas de Convivencia se comprometen
 
 * [Romina Pendino](https://www.metadocencia.org/authors/rominapedino/)
 * [Ivan Poggio](https://www.metadocencia.org/authors/ivan/)
-* [Mónica Alonso](https://www.metadocencia.org/authors/monialonso/)
+* [Paola Lefer](https://www.metadocencia.org/authors/plefer/)
 
 ## Atribución
 

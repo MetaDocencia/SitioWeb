@@ -46,4 +46,4 @@ Jesica has a Bachelor's degree in Psychology from the University of Buenos Aires
 As a community organizer at R-Ladies, Jesica promotes diversity and participation of women in the field of data science. 
 Her certification as an instructor reflects her commitment to education and dissemination of data science skills.
 
-In our presentation of the "Manzanita 2023 Internal Gala Awards" that vindicate the enormous value of the contributions of each person in the team, Jesi has won the Generosity award for sharing her meticulous approach, her great analytical skills, her joy and a unique dimension that she brings from her psi perspective.
+Inside the team, Jesi has won the Generosity Award for sharing her meticulous approach, her strong analytical skills, her joy and the unique dimension she brings from her psi perspective.

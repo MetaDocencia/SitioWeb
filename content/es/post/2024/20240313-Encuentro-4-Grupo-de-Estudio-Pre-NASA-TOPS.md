@@ -15,7 +15,7 @@ categories:
   - Temas
 ---
 
-La comunidad MetaDocente continuó su [recorrido](https://www.metadocencia.org/post/2024/20240305-encuentro-3-grupo-de-estudio-pre-nasa-tops/) colectivo por Open Science 101 con mucho entusiasmo, centrando el debate esta vez en el código abierto. Además de discutir la complejidad de las licencias abiertas para compartir código, vimos cómo el abrir el acceso a los datos, a los resultados y a otros productos de una investigación en la que se usa código abierto es una buena práctica, que sin embargo no deja de estar relacionada con el extractivismo en sus distintas manifestaciones contemporáneas. Acá te contamos todo sobre el encuentro 4.
+La comunidad MetaDocente continuó su [recorrido](https://www.metadocencia.org/post/2024/20240305-encuentro-3-grupo-de-estudio-pre-nasa-tops/) colectivo por Open Science 101 con mucho entusiasmo, centrando el debate esta vez en el código abierto. Además de discutir la complejidad de las licencias abiertas para compartir código, vimos cómo el abrir el acceso a los datos, a los resultados y a otros productos de una investigación en la que se usa código abierto es una buena práctica, que sin embargo no deja de estar relacionada con el extractivismo en sus distintas manifestaciones contemporáneas. Acá te contamos todo sobre el encuentro 4 de la Misión Exploración.
 
 <img src="https://www.metadocencia.org/img/Modulo4_PreNASATOPS.png" alt="Módulo 4: código abierto" width="600px"/>
 
@@ -24,7 +24,7 @@ La comunidad MetaDocente continuó su [recorrido](https://www.metadocencia.org/p
 
 Del módulo 4 de Open Science 101 nos llevamos muy buenas recomendaciones sobre cómo considerar al código abierto en el contexto de un plan de investigación, conectado también al plan de manejo de datos. Compartimos algunas buenas prácticas, que revisamos juntos:
 
-- Para que el código abierto sea utilizado por más personas, seguir principios como los FAIR ayuda a que el código sea localizable. 
+- Para que el código abierto sea utilizado por más personas, seguir principios como los FAIR ayuda a que sea localizable. 
 - Al momento de buscar código útil, prestar atención a la terminología usada por personas que trabajan en áreas similares a la tuya ayuda en la revisión de la literatura científica y la exploración de repositorios públicos de código como los disponibles en GitHub.
 - Si prefieres avanzar con un proyecto propio de código abierto, es importante que te tomes un tiempo durante la planificación para elegir elementos como el lenguaje de programación, el lugar donde se almacenarán el código, los datos y los productos de su análisis y la capacidad de cómputo necesaria, así como las personas que podrán colaborar en cada una de esas tareas.
 - Al encontrar software de interés, es interesante evaluar sus funcionalidades, la interoperabilidad que ofrece, su seguridad y restricciones de uso. Esta información suele estar disponible en plataformas como GitHub, cuyos repositorios permiten verificar el estado del proyecto y de su mantenimiento.
@@ -34,7 +34,7 @@ Del módulo 4 de Open Science 101 nos llevamos muy buenas recomendaciones sobre 
 
 Una parte de nuestro encuentro fue dedicada al tema de las licencias, que en el código abierto pueden ser más o menos restrictivas. Se trata de una vía doble: describen los derechos tanto de la persona desarrolladora como de la persona usuaria del código. Una licencia es de código abierto si permite que cualquier persona inspeccione, use, cambie y distribuya el código fuente para cualquier fin.
 
-Las licencias permisiva y protectiva nos ayudan a planificar el futuro de los trabajos derivados de un proyecto abierto. La licencia protectiva requiere que futuros cambios en el software o trabajos derivados sean compartidos bajo la misma licencia que el proyecto original. En el software propietario (también llamado privativo​ o no libre), solo las personas autoras tienen esos permisos - los usuarios de software prioritario no tienen acceso al código. Aunque tengamos acceso al código fuente del software que nos interesa, es necesario que esté acompañado de una licencia permisiva para poder modificar o adaptar ese código. Si el software no hace referencia a ninguna licencia, deberemos asumir que el software no tiene permisos para ser compartido libremente. 
+Las licencias permisiva y privativa nos ayudan a planificar el futuro de los trabajos derivados de un proyecto abierto. La licencia privativa requiere que futuros cambios en el software o trabajos derivados sean compartidos bajo la misma licencia que el proyecto original. En el software propietario (también llamado privativo​ o no libre), solo las personas autoras tienen esos permisos - los usuarios de software prioritario no tienen acceso al código. Aunque tengamos acceso al código fuente del software que nos interesa, es necesario que esté acompañado de una licencia permisiva para poder modificar o adaptar ese código. Si el software no hace referencia a ninguna licencia, deberemos asumir que el software no tiene permisos para ser compartido libremente. 
 
 El módulo explica las diferencias entre compartir el código para desarrollo y para archivarlo a largo plazo - en ambos casos, se usan prácticas que promueven la Ciencia Abierta y la participación comunitaria. Distintas personas en la comunidad pueden contribuir en las varias etapas de publicación y mantenimiento del código, y es importante reconocer estos esfuerzos.
 
@@ -91,4 +91,4 @@ Esta publicación fue posible gracias a un subsidio de Chan Zuckerberg Initiativ
 
 ¿Te gustó esta publicación? Puedes reutilizarla libremente bajo licencia CC by 4.0, solo tienes que citarla.
 
-Esta es la cita que te recomendamos usar para referenciarla: Melissa Black, Nicolás Palopoli (2024). Explorando NASA-TOPS en comunidad: código abierto. Zenodo. https://zenodo.org/records/...
+Esta es la cita que te recomendamos usar para referenciarla: Melissa Black, Nicolás Palopoli (2024). Explorando NASA-TOPS en comunidad: código abierto. Zenodo. https://doi.org/10.5281/zenodo.10818513

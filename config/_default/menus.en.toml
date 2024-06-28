@@ -14,8 +14,8 @@ weight = 10
 #  parent = "About Us"
 #    weight = 10
   [[main]]
-  name = "Mission and Vision"
-  url = "authors/metadocencia/"
+  name = "Institutional"
+  url = "en/institucional/"
   parent = "About Us"
     weight = 20
 #  [[main]]
@@ -28,11 +28,11 @@ weight = 10
   url = "en/pdc/"
   parent = "About Us"
     weight = 40
-  [[main]]
-  name = "Accessibility Policy"
-  url = "en/post/perfiles_accesibilidad/"
-  parent = "About Us"
-    weight = 50
+#  [[main]]
+#  name = "Accessibility"
+#  url = "en/post/perfiles_accesibilidad/"
+#  parent = "About Us"
+#    weight = 50
   [[main]]
   name = "Team"
   url = "equipo/"
@@ -57,14 +57,9 @@ url = ""
 weight = 20
   [[main]]
   name = "Training"
-  url = "cursos/"
+  url = "formacion/"
   parent = "What We Do"
   weight = 20
-  [[main]]
-  name = "Events"
-  url = "eventos/"
-  parent = "What We Do"
-  weight = 30
   [[main]]
   name = "Consulting"
   url = "consultoria/"
@@ -145,6 +140,6 @@ weight = 50
 #  weight = 20    
   [[main]]
   name = "Newsletter"
-  url = "https://netlify.us19.list-manage.com/subscribe/post?u=92fb89ce82f9689a3b083bb35&amp;id=d8187ceaf7"
+  url = "suscripcion"
   parent = "Contact Us"
   weight = 30

@@ -12,7 +12,7 @@ social:
   link: https://chanzuckerberg.com/science/programs-resources/open-science/
 superuser: false
 user_groups:
--  Fellow Communities
+-  Also build this hive
 ---
 
 ### Learn more in this video

@@ -7,7 +7,7 @@ weight = 5  # Order that this section will appear.
 
 # title = "Co-creando y enseñando ciencia abierta"
 
-title = "Misión de Exploración hacia la Ciencia Abierta"
+title = "ALTa Ciencia Abierta"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "MD_original.png"
@@ -39,14 +39,14 @@ hero_media = "MD_original.png"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
  [cta]
- url = "https://www.metadocencia.org/eventos/"
+ url = "https://www.metadocencia.org/alta-ca/2-2024/"
  label = "Más información y registro"
  icon_pack = "fab"
  icon = "Súmate a nuestras propuestas de formación gratuitas y online"
 
 [cta_alt] 
-url = "https://www.metadocencia.org/post/2024/20240115-reporte2023/"
-label = "Reporte 2023"
+url = "https://www.metadocencia.org/proyectos/"
+label = "Otros proyectos"
 
 
 # Note. An optional note to show underneath the links.
@@ -54,4 +54,4 @@ label = "Reporte 2023"
 #   label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-Introducción grupal a los contenidos de NASA TOPS
+Junto a la NASA, invitamos a personas hispanohablantes a sumarse a cohortes virtuales para transformarnos a la Ciencia Abierta.

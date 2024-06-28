@@ -3,13 +3,13 @@ date: "2024-01-26"
 draft: false
 linktitle: Encuentro 2
 summary: Encuentro 2 - 31-01 17 hs. (UTC-3). 
-title: "Módulo 2: Herramientas y recursos abiertos"
+title: "Misión exploración: Herramientas y recursos abiertos"
 authors:
   - MetaDocencia
-type: eventos
+type: cursos
 weight: 50
 tags:
-  - Encuentros anteriores
+  - Ediciones anteriores
 <!--- featured_image: https://www.metadocencia.org/img/blabla.png --->
 ---
 

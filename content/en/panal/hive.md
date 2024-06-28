@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 01 # Order that this section will appear.
 
 title = " "
-subtitle = "We would be glad to see this hive grow bigger. For further information, contact us at [info@metadocencia.org](mailto:info@metadocencia.org)."
+subtitle = "We would be glad to see this hive grow bigger. For further information, contact us at [comunidad@metadocencia.org](mailto:comunidad@metadocencia.org)."
 
 [content]
   # Choose which groups/teams of users to display.

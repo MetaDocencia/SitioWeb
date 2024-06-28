@@ -40,12 +40,11 @@ user_groups:
 
 **Experiencia y Trayectoria:**
 
-Su compromiso con la ciencia abierta y la programación R la ha llevado a ser una participante activa en comunidades de práctica en Latinoamérica. 
+Su compromiso con la Ciencia Abierta y la programación R la ha llevado a ser una participante activa en comunidades de práctica en Latinoamérica. 
 Además, es organizadora de R-Ladies Buenos Aires y LatinR, y cuenta con la certificación de instructora por The Carpentries.
 
-En los últimos años, María ha desempeñado roles tanto en el sector público como privado. 
-Ha sido docente en múltiples cursos de grado y posgrado, compartiendo su conocimiento en ciencia de datos. 
+En los últimos años, María ha desempeñado roles tanto en el sector público como privado. Ha sido docente en múltiples cursos de grado y posgrado, compartiendo su conocimiento en ciencia de datos. 
 Actualmente, lidera un equipo de gestión de información y estadísticas en el Ministerio de Salud de la Ciudad de Buenos Aires. 
 
-En nuestra entrega de los “Premios Internos de Gala Manzanita 2023” que reivindican el enorme valor de las contribuciones de cada persona del equipo, María ha ganado el premio Polisemia, por su notable habilidad para pasar de un tema a otro con fluidez anfibia, gracias a su capacidad de comprensión de cualquier tema, detalles, significantes y dimensiones. 
+Hacia adentro del equipo, María ha ganado el Premio Polisemia por su notable habilidad para pasar de un tema a otro con gran fluidez y manejo del lenguaje, gracias a su capacidad de comprensión de muchos temas, detalles y dimensiones. 
 

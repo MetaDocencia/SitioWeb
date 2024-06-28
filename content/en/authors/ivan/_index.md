@@ -43,4 +43,4 @@ Since 2015, Ivan has served as Provincial Disability Director, under the Ministr
 
 Iván does not limit his contribution to his area of work, but also demonstrates a strong commitment to the community. His approach focuses on upholding a philosophy of inclusive coexistence guidelines, seeking to raise awareness and foster a respectful and accessible environment for all.
 
-In our "Manzanita 2023 Internal Gala Awards" that vindicate the enormous value of the contributions of each person in the team, Ivan has won the Positive Impact award for what he generates in the lives of others through his people skills, generosity with his knowledge, predisposition and his witty sense of humor.
+Within the team, Ivan has won the Positive Impact Award for what he generates in the lives of others through his gift of good people, generosity with his knowledge, predisposition and great sense of humor.

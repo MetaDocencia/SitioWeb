@@ -42,10 +42,8 @@ user_groups:
 
 **Experiencia y Trayectoria:**
 
-Analista en la actividad privada, Mónica nos aporta toda su experiencia en análisis de datos y gobernanza desde su rol en el sector privado.
-
-Desde 2018, Mónica es co-organizadora de Rladies_BA y Instructora Certificada de Software Carpentries. 
+Analista en la actividad privada, desde 2018 Mónica es co-organizadora de Rladies_BA y Instructora Certificada de Software Carpentries. 
 Ha colaborado en la traducción al español de numerosos materiales en The Carpentries y la traducción y revisión de libros como "R for Data Science" y "Teaching Tech Together". 
 Formó parte del Comité Organizador de LatinR en 2018 y 2020 y del Comité Científico del Congreso Argentino de Agroinformática (CAI) en 2018 y 2020.
 
-En nuestra entrega de los “Premios Internos de Gala Manzanita 2023” que reivindican el enorme valor de las contribuciones de cada persona del equipo, Moni ha ganado el premio Motor por sus ganas incansables, su entusiasmo y su perseverancia, que actúan como combustible para asumir desafíos de toda índole. 
+Hacia adentro del equipo, Moni ha ganado el Premio Motor por sus ganas incansables, su entusiasmo y su perseverancia, que actúan como combustible para asumir desafíos de toda índole. 

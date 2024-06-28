@@ -38,9 +38,9 @@ user_groups:
 
 **Experiencia y Trayectoria**
 
-Irene es Licenciada en  Bibliotecología en la UCSE-DABA. Desde que Irene se sumo en los inicios de MetaDocencia, aporta todo su conocimiento sobre bibliotecas académicas  y su especialización en el área de tecnología. 
+Irene es Licenciada en  Bibliotecología en la UCSE-DABA. Desde que Irene se sumo en los inicios de MetaDocencia, aporta todo su conocimiento sobre bibliotecas académicas y su especialización en el área de tecnología. 
 Ha trabajado como profesional independiente en diversos proyectos digitales, desempeñando roles de administración y garantizando la calidad de accesibilidad.
 
 Irene es instructora certificada por The Carpentries, lo que subraya su compromiso con la enseñanza y la difusión de habilidades en el ámbito digital. Además, participa activamente en MetaDocencia contribuyendo al fortalecimiento de la comunidad.
 
-En nuestra entrega de los “Premios Internos de Gala Manzanita 2023” que reivindican el enorme valor de las contribuciones de cada persona del equipo, Ire ha ganado el premio Transformación por su desempeño a cargo del área infraestructura, y por su gran capacidad para documentar y transformar nuestros tutoriales en una biblioteca digital codiciada y hermosa.
+Hacia adentro del equipo, Ire ha ganado el Premio Transformación por su desempeño a cargo del área infraestructura con gran capacidad para documentar y transformar nuestros tutoriales en una biblioteca digital codiciada y hermosa.

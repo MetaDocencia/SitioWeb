@@ -54,4 +54,4 @@ Since 2008 he has been teaching undergraduate, postgraduate and extension course
 
 Nicolás joined MetaDocencia since its first week in March 2020. He currently participates in the general coordination and is chair of the advisory committee. 
 
-In our presentation of the "Manzanita 2023 Internal Gala Awards" that vindicate the enormous value of the contributions of each person in the team, Nico has won the Zen Award because with his calm wisdom he can cope even with complexity, maintaining focus, good humor and cordiality in any situation and circumstance. He is noble, friendly and serene.
+Inside the team, Nico has won the Zen Award because with his calm wisdom he can cope even with complexity, maintaining the axis, good mood and cordiality in any situation and circumstance.

@@ -38,6 +38,4 @@ Currently, Romina works in the area of People Management and Community Guideline
 
 Romina is a certified instructor for The Carpentries, part of her commitment to teaching and promoting open science. Her active and prolific participation in the areas of Community Guidelines and People Management reflects her interest in contributing to the smooth functioning and development of collaborative initiatives.
 
-
-In our "Manzanita 2023 Internal Gala Awards" that vindicate the enormous value of the contributions of each person in the team, Romi has won the Community Guru Award because her initiatives contribute to generate an increasingly welcoming, caring and safe environment. Her sensitivity is complemented by dedication, commitment and a lot of conviction.
-
+Inside the team, Romi has won the Community Guru Award because she contributes with initiatives generating an increasingly welcoming, caring and safe environment. Her sensitivity is complemented by dedication, commitment and a lot of conviction.

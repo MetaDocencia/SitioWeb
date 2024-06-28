@@ -12,9 +12,14 @@ url = ""
 #  url = ""
 #  parent = "Quiénes somos"
 #    weight = 10
+#  [[main]]
+#  name = "Institucional"
+#  url = "authors/metadocencia/"
+#  parent = "Quiénes somos"
+#    weight = 20
   [[main]]
-  name = "Misión y visión"
-  url = "authors/metadocencia/"
+  name = "Institucional"
+  url = "institucional/"
   parent = "Quiénes somos"
     weight = 20
 #  [[main]]
@@ -27,16 +32,16 @@ url = ""
   url = "pdc/"
   parent = "Quiénes somos"
     weight = 40
-  [[main]]
-  name = "Política de accesibilidad"
-  url = "/post/perfiles_accesibilidad/"
-  parent = "Quiénes somos"
-    weight = 50
+#  [[main]]
+#  name = "Accesibilidad"
+#  url = "/post/perfiles_accesibilidad/"
+#  parent = "Quiénes somos"
+#    weight = 50
   [[main]]
   name = "Equipo"
   url = "equipo/"
   parent = "Quiénes somos"
-    weight = 60
+#    weight = 60
     [[main]]
   name = "Comunidades amigas"
   url = "panal/"
@@ -55,15 +60,10 @@ name = "Qué hacemos"
 url = ""
   weight = 20
   [[main]]
-  name = "Cursos"
-  url = "cursos/"
+  name = "Formación"
+  url = "formacion/"
   parent = "Qué hacemos"
     weight = 20
-  [[main]]
-  name = "Eventos"
-  url = "eventos/"
-  parent = "Qué hacemos"
-    weight = 30
   [[main]]
   name = "Consultoría"
   url = "consultoria/"
@@ -139,7 +139,7 @@ url = ""
 #     weight = 20    
   [[main]]
   name = "Newsletter"
-  url = "https://netlify.us19.list-manage.com/subscribe/post?u=92fb89ce82f9689a3b083bb35&amp;id=d8187ceaf7"
+  url = "suscripcion"
   parent = "Contacto"
     weight = 30
 

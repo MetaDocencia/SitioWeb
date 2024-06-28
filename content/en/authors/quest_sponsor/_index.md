@@ -12,6 +12,6 @@ social:
   link: https://www.bihealth.org/en/translation/innovation-enabler/quest-center
 superuser: false
 user_groups:
--  Current
+-  Previous
 ---
 

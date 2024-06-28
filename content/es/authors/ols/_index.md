@@ -12,7 +12,7 @@ social:
   link: https://openlifesci.org/
 superuser: false
 user_groups:
--  Comunidades amigas
+-  También construyen este Panal
 ---
 
 ### Conócela en este video

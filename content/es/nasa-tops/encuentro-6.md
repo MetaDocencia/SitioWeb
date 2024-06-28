@@ -3,13 +3,13 @@ date: "2024-02-23"
 draft: false
 linktitle: Encuentro 6 / Conversatorios Ciencia Abierta
 summary: 06-03 17 hs. (UTC-3). 
-title: "Reflexiones finales de los 5 módulos NASA y desafíos de su aplicación en América Latina"
+title: "Misión exploración: Reflexiones finales de los 5 módulos NASA y desafíos de su aplicación en América Latina"
 authors:
   - MetaDocencia
-type: eventos
+type: cursos
 weight: 50
 tags:
-  - Encuentros anteriores
+  - Ediciones anteriores
 <!--- featured_image: https://www.metadocencia.org/img/blabla.png --->
 ---
 

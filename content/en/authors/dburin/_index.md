@@ -9,7 +9,7 @@ interests:
  - Neuropsychology
  - Open Science
 name: Débora I. Burin
-role: Outside Contributor
+role: External Contributor
 weight: 1
 organizations:
 - name: 
@@ -20,5 +20,5 @@ social:
   link: https://orcid.org/0000-0002-2515-719X
 superuser: false
 user_groups:
-- Outside Contributors
+- External Contributors
 ---

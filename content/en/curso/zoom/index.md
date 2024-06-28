@@ -12,7 +12,7 @@ authors:
     - "MetaDocencia"
 type: course
 tags:
- - Next courses
+ - Former trainings
 weight: 40
 ---
 

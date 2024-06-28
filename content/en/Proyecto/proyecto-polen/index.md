@@ -31,14 +31,8 @@ During late 2023 and 2024, we will carry out the pilot stage of the Polen Projec
 * Offer community journeys to expand participation in Open Science communities.
 * Recognize those who participate in the project for their contribution to the growth of our community.
 
-## Who is the Polen Project for?
-In this pilot stage, the project will explicitly invite people who approached MetaDocencia through the job calls of 2022 and 2023, who have trajectories and profiles of interest compatible with the following requirements.
-
 ### Presentation
-[Initial project presentation](https://docs.google.com/presentation/d/1nkfA4GI29CW1mAK6hA4BC-jZb0CmkUOwjERpH5qP02k/edit#slide=id.g1ec323887ac_2_58 "Polen project presentation")
-
-
-
-
+- [Initial project presentation](https://docs.google.com/presentation/d/1nkfA4GI29CW1mAK6hA4BC-jZb0CmkUOwjERpH5qP02k/edit#slide=id.g1ec323887ac_2_58 "Polen project presentation")
+- [More info about the project](https://docs.google.com/document/d/e/2PACX-1vSBbvIch1DN5Jbi4iWgF2PqvYyEG507R-9q55ipzt68cKwHDWOheSwV-vksDnPFOQm9OcVMN62l5P5x/pub) (in Spanish)
 
 
