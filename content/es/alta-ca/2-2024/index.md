@@ -83,9 +83,8 @@ Además, entregaremos un certificado de asistencia de MetaDocencia a quienes par
 
 ## Cómo participar
 
-*Las vacantes son limitadas por cada edición, por eso te pedimos que **te inscribas solo si podrás participar activamente**. En caso de que se complete el cupo, habilitaremos una lista de espera para que puedas sumarte a la próxima edición.*
-
-**[FORMULARIO DE INSCRIPCIÓN](https://docs.google.com/forms/d/e/1FAIpQLSey9EUhXR6LLei1rjACpBGUkohrFc1AjJj1UK3qwm0mI-UhlA/viewform)**
+**Muchas gracias por tu interés en inscribirte. ¡Los lugares para esta formación se han agotado! Estamos planeando abrir una nueva durante el último trimestre de 2024 (fecha y hora a definir) 📅🔜
+Si no quieres perderte esta oportunidad, por favor, déjanos tus datos en este formulario: [http://tiny.cc/ALTa_CA_3](http://tiny.cc/ALTa_CA_3)**. 
 
 *Todos los datos se manejarán en forma confidencial, sólo podrán ser publicados de forma agregada y anonimizada en reportes sobre el alcance de MetaDocencia.*
 
