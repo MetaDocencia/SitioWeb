@@ -3,7 +3,7 @@ date: "2024-02-16"
 draft: false
 image:
   caption: 
-  alt_text: ""
+  alt_text: "Polen Project's logo"
 linktitle: Polen project
 summary: Community paths to train representatives of MetaDocencia in different communities, networks, and events.
 title: Polen project

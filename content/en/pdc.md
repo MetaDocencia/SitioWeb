@@ -47,4 +47,4 @@ Individuals who are part of the Community Guidelines team agree to recuse themse
 ## Attribution
 
 This Community Guidelines is adapted from [Contributor Covenant](https://www.contributor-covenant.org), version 2.0,
-available at https://www.contributor-covenant.org/es/version/2/0/code_of_conduct.html and [the code of conduct developed for useR!2021](https://user2021.r-project.org/participation/coc/).
+available at [the Code of Conduct section of Contributor Covenant's site]( https://www.contributor-covenant.org/es/version/2/0/code_of_conduct.html) and [the code of conduct developed for useR!2021](https://user2021.r-project.org/participation/coc/).

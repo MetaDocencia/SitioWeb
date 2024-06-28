@@ -3,7 +3,7 @@ date: "2024-02-16"
 draft: false
 image:
   caption: 
-  alt_text: ""
+  alt_text: "Logo del proyecto Polen"
 linktitle: Proyecto Polen
 summary: Caminos comunitarios para formar representantes de MetaDocencia en distintas comunidades, redes y eventos.
 title: Proyecto Polen

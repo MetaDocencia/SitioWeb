@@ -70,3 +70,6 @@ Accessibility team email: [accesibilidad@metadocencia.org](mailto:accesibilidad@
 * [Web Accessibility 1: Profiling of people with Disabilities](https://www.metsuke.com/accesibilidad-web-1-perfilado-de-personas-con-discapacidad/)
 * [Olga Carreras website on accessibility](https://olgacarreras.blogspot.com/) 
 
+## Accessibility Repository 2022-2023
+
+Visit this [repository published in Zenodo](https://zenodo.org/records/10514982), written by the accessibility team, for more contents related to digital accessibility shared by MetaDocencia between 2022 and 2023.
