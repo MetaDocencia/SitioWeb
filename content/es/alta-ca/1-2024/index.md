@@ -60,7 +60,7 @@ En el primer encuentro se presentarán los conceptos claves del módulo, definic
 |  Día/hora (UTC-3) | Tema (click para ver la Hoja de Ruta con contenidos y cronograma por módulo) |
 | ---:  | :----------- |
 |Mié 26-06 - 16 a 19 | [*El Ethos de la Ciencia Abierta*](https://www.metadocencia.org/alta-ca/modulo_1/) | 
-|Mié 03-07 - 16 a 19 | *Herramientas y recursos abiertos* | 
+|Mié 03-07 - 16 a 19 | [*Herramientas y recursos abiertos*](https://www.metadocencia.org/alta-ca/modulo_2/) | 
 |Mié 10-07 - 16 a 19 | *Datos Abiertos* |
 |Mié 17-07 - 16 a 19 | *Código Abierto* |
 |Mié 24-07 - 16 a 19 | *Resultados abiertos* |
