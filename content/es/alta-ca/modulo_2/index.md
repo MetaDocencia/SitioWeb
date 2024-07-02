@@ -44,7 +44,7 @@ El encuentro 2 busca cubrir, revisar y reflexionar sobre el módulo 2 del [MOOC 
 
 ## Materiales
 
-- Presentación:
+- Presentación: https://zenodo.org/records/12627069
 - Video de una edición sincrónica:
 - Formulario de certificación:
   
