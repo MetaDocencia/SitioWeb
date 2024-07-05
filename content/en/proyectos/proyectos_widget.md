@@ -75,8 +75,6 @@ subtitle = ""
 +++
 
 
-In MetaDocencia, we work to ensure that the production, communication, and application of scientific and technical knowledge are globally equitable. Our mission is to build scientific and technical capabilities responsibly and with a local perspective, through the co-creation of networks, learning spaces, and accessible resources for Spanish-speaking communities.
-
 Explore our ongoing projects and discover how we are working towards our mission and values.
 
-If you have additional questions about the projects, write to us at info@metadocencia.org
+If you have additional questions about the projects, write to [info@metadocencia.org](mailto: info@metadocencia.org)
