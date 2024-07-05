@@ -74,8 +74,6 @@ subtitle = ""
  css_class = ""
 +++
 
-En MetaDocencia trabajamos para que la producción, la comunicación y la aplicación de saberes científicos y técnicos sean globalmente equitativas. Nuestra misión es construir capacidades científicas y técnicas en forma responsable y con mirada local, a través de la co-creación de redes, espacios de aprendizaje y recursos accesibles para comunidades hispanohablantes.
+Explora nuestros proyectos en curso y descubre cómo estamos trabajando en pos de nuestra misión y valores.
 
-Explora nuestros proyectos en curso y descubre como estamos trabajando en pos de nuestra misión y valores.
-
-Si tienes inquietudes adicionales sobre los proyectos, escríbenos a info@metadocencia.org
+Si tienes inquietudes adicionales sobre los proyectos, escríbenos a [info@metadocencia.org](mailto:info@metadocencia.org)
