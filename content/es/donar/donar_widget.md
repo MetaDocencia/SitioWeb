@@ -9,7 +9,7 @@
   weight = 60  # Order that this section will appear.
   
   title = "Donar"
-  subtitle = "El texto puede ir en el subtítulo"
+  subtitle = ""
   
   [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -52,6 +52,7 @@
   # CSS class.
   css_class = ""
 +++
+</br> </br> 
 
 Aquí también puede ir texto
 
