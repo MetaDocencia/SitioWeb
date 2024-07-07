@@ -9,7 +9,7 @@
   weight = 60  # Order that this section will appear.
   
   title = "Donar"
-  subtitle = ""
+  subtitle = "El texto puede ir en el subtítulo"
   
   [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -52,6 +52,9 @@
   # CSS class.
   css_class = ""
 +++
+
+Aquí también puede ir texto
+
 </br> </br> 
 <style>
   .iframe-donar {
