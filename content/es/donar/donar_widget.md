@@ -52,8 +52,8 @@
   # CSS class.
   css_class = ""
 +++
-</br> </br> 
 
+</br> </br> 
 Aquí también puede ir texto
 
 </br> </br> 
