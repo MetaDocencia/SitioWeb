@@ -75,7 +75,7 @@ Thinking of strategies that allow us to value our voice (and obtain recognition 
 - Monti, C. and Unzurrunzaga, C. (2020) Access to scientific literature from Sci-Hub: Analysis and reflection of downloads in Argentina. Hipertextos Journal, 8 (14), pp. 111-136. DOI: [https://doi.org/10.24215/23143924e022 ](https://doi.org/10.24215/23143924e022)
 - [https://opensciencestudies.eu/](https://opensciencestudies.eu/)
 
-## Agradecimientos
+## Acknowledgments
 This publication was made possible thanks to a grant from the Chan Zuckerberg Initiative (DOI: 10.5281/zenodo.7386372) NASA grants 80NSSC23K0854 (DOI: 10.5281/zenodo.8215455), 80NSSC23K0857 (DOI: 10.5281/zenodo.8250978), and 80NSSC23K0861 (DOI: 10.5281/zenodo.8212072), and grant DAF2021-239366 and grant DOI https://doi.org/10.37921/522107izqogv from the Chan Zuckerberg Initiative DAF, a fund advised by the Silicon Valley Community Foundation (Funder DOI 10.13039/100014989).
 
 ---
