@@ -53,7 +53,7 @@ El encuentro 3 busca cubrir, revisar y reflexionar sobre el módulo 3 planteado 
 
 ## Materiales
 
-- Presentación: 
+- Presentación: https://doi.org/10.5281/zenodo.12702352
 - Video de una edición sincrónica:
 - Formulario de certificación:
   
