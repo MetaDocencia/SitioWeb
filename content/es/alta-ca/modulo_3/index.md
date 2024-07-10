@@ -3,7 +3,7 @@ date: "2024-07-02"
 draft: false
 linktitle: Encuentro 3 ALTa CA
 summary: Materiales del módulo 3 de ALTa CA 1 2024 
-title: "Hoja de ruta. Encuentro 2 ALTa CA: Datos Abiertos"
+title: "Hoja de ruta. Encuentro 3 ALTa CA: Datos Abiertos"
 authors:
   - MetaDocencia
 
