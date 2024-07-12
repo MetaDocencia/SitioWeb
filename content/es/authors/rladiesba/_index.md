@@ -12,7 +12,7 @@ social:
   link: https://rladiesba.netlify.app/
 superuser: false
 user_groups:
--  También construyen este Panal
+-  Comunidades amigas
 ---
 
 ### Conócela en este video
