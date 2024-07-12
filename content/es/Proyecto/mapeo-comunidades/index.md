@@ -5,7 +5,7 @@ image:
   caption: 
   alt_text: "Ilustración de personas trabajando en equipo de manera armoniosa"
 linktitle: Mapeo de Comunidades
-summary: Repositorio colaborativo para América Latina que reúna información relevante y accesible sobre eventos, oportunidades de financiación, talleres, cursos, comunidades y organizaciones de ciencia abierta en español. 
+summary: Repositorio colaborativo de información relevante y accesible sobre eventos, oportunidades, cursos, comunidades y organizaciones de Ciencia Abierta en español. 
 title: Mapeo de Comunidades, Organizaciones y Eventos de Ciencia Abierta en Latinoamérica
 spellcheck: true
 authors: 
