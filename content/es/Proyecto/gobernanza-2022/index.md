@@ -5,7 +5,7 @@ image:
   caption: 
   alt_text: "Logo de MetaDocencia"
 linktitle: Diseño colaborativo de nuestra Gobernanza
-summary: Proceso de aprendizaje colectivo y colaborativo para elaborar un modelo transparente para la toma de decisiones estratégicas, pensado desde y para nuestro contexto cultural y regional. 
+summary: Cómo elaboramos un modelo transparente para la toma de decisiones estratégicas, pensado desde y para nuestro contexto cultural y regional. 
 title: Diseño colaborativo de nuestra Gobernanza
 spellcheck: true
 authors: 
