@@ -5,8 +5,8 @@ image:
   caption: 
   alt_text: 
 linktitle: acceso financiacion
-summary: En el marco de la Ciencia Abierta, MetaDocencia tiene la convicción de que cualquier persona que se dedique a la investigación en español desde América Latina debe tener acceso a una comunidad amistosa y colaborativa de pares que compartan libremente conocimientos, contactos y consejos de alta calidad, permitiéndoles aumentar su participación en la financiación internacional.  
-title: Nivelando el terreno para mejorar el acceso a la financiación de iniciativas de investigación latinoamericana
+summary: Nivelar el terreno para que las personas que se dedican a la investigación en español desde América Latina puedan aumentar su participación en la financiación internacional.  
+title: Mejorando el acceso a la financiación de iniciativas latinoamericanas
 spellcheck: true
 authors: 
 type: proyectos
