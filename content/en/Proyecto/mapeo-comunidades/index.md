@@ -5,7 +5,7 @@ image:
   caption: 
   alt_text: "group of people collaborating and working together in an office, representing harmony and cooperation in a work environment"
 linktitle: Mapping of Open Science Communities, Organizations, and Events in Latin America
-summary: Collaborative Repository for Latin America gathering relevant and accessible information about events, funding opportunities, workshops, courses, communities, and organizations of open science in Spanish.
+summary: Collaborative repository gathering information about events, funding opportunities, training, communities, and organizations of open science in Spanish.
 title: Mapping of Open Science Communities, Organizations, and Events in Latin America
 spellcheck: true
 authors: 
