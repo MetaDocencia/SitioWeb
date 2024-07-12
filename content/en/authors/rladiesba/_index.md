@@ -12,7 +12,7 @@ social:
   link: https://rladiesba.netlify.app/
 superuser: false
 user_groups:
--  Also build this hive
+-  Fellow Communities
 ---
 
 ### Learn more in this video
