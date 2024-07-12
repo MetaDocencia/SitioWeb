@@ -5,8 +5,8 @@ image:
   caption: 
   alt_text: 
 linktitle: funding access
-summary: Our vision is that any researcher in Spanish-speaking Latin America has access to a friendly and collaborative community of peers who freely share high-quality knowledge, contacts, and advice, allowing these researchers to increase their participation in international funding.  
-title: Leveling the Funding Field for Researchers from Spanish-Speaking Latin America
+summary: Improving access for Spanish-speaking Latin America researchers to increase their participation in international funding.  
+title: Leveling the Funding Field for Researchers from Latin America
 spellcheck: true
 authors: 
 type: proyectos
