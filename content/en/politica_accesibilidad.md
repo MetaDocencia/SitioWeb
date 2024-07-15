@@ -14,3 +14,7 @@ Acquiring goods and contracting services are done taking into consideration acce
 - The services offered by MetaDocencia are anti-discriminatory and inclusive, regardless of age, gender, religion, ethnicity, language, identity, political affiliation, or any other individual characteristic of its community members.
 
 We invite you to read our blogpost on [accessibility profiles](https://www.metadocencia.org/en/post/perfiles_accesibilidad/). 
+
+## Accessibility Repository 2022-2023
+
+Visit this [repository published in Zenodo](https://zenodo.org/records/10514982), written by the accessibility team, for more contents related to digital accessibility shared by MetaDocencia between 2022 and 2023.

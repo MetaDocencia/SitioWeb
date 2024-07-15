@@ -15,3 +15,7 @@ A través de la implementación de esta política de accesibilidad, MetaDocencia
 - Que los servicios que ofrece MetaDocencia sean antidiscriminatorios e inclusivos, independientemente de la edad, género, religión, etnia, idioma, identidad, afiliación política o cualquier otra característica individual de los integrantes de la comunidad.
 
 Te invitamos a leer nuestro blogpost sobre [perfiles de accesibilidad](https://www.metadocencia.org/post/perfiles_accesibilidad/). 
+
+## Repositorio de Accesibilidad 2022-2023
+
+Consulta este [repositorio disponibilizado en Zenodo](https://zenodo.org/records/10514982), confeccionado por el equipo de accesibilidad, para acceder a contenidos relativos a accesibilidad digital compartidos por MetaDocencia entre 2022 y 2023.

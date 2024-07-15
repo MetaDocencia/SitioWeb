@@ -70,6 +70,3 @@ Fuentes:
 * [Accesibilidad Web 1: Perfilado de personas con Discapacidad](https://www.metsuke.com/accesibilidad-web-1-perfilado-de-personas-con-discapacidad/)
 * [Web de Olga Carreras sobre accesibilidad](https://olgacarreras.blogspot.com/) 
 
-## Repositorio de Accesibilidad 2022-2023
-
-Consulta este [repositorio disponibilizado en Zenodo](https://zenodo.org/records/10514982), confeccionado por el equipo de accesibilidad, para acceder a contenidos relativos a accesibilidad digital compartidos por MetaDocencia entre 2022 y 2023.
