@@ -50,7 +50,7 @@ El encuentro 4 busca cubrir, revisar y reflexionar sobre el módulo 4 planteado 
 
 ## Materiales
 
-- Presentación:
+- Presentación: https://doi.org/10.5281/zenodo.12752353
 - Video de una edición sincrónica:
 - Formulario de certificación:
   
