@@ -37,6 +37,10 @@ Actuar con responsabilidad y según el criterio individual, colectivo o regional
 #### Versatilidad
 Adaptar las acciones a las situaciones que se presentan.
 
+Si quieres conocer más sobre nuestra gobernanza, consulta estas publicaciones:
+- [Gobernanza de MetaDocencia (2022)](https://zenodo.org/records/7398893)
+- [Gobernanza 2.0 (2024)](https://zenodo.org/records/12522913)
+
 ## Nuestra organización
 En vistas a la diversificación y al crecimiento que tuvimos en el último año, en MetaDocencia diseñamos este mapa conceptual, un nuevo organigrama que institucionaliza nuestra forma de trabajo. Lo hicimos pensando en una estructura organizacional eficiente y versátil a la altura de los desafíos que tenemos por delante. Así, este esquema permite identificar grados de responsabilidad pero a la vez, busca ser lo suficientemente dinámico para promover el trabajo colaborativo y el compromiso, la confianza, el reconocimiento y las oportunidades de crecimiento de las personas que hacemos MetaDocencia. 
 
