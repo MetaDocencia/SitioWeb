@@ -37,7 +37,7 @@ Actuar con responsabilidad y según el criterio individual, colectivo o regional
 #### Versatilidad
 Adaptar las acciones a las situaciones que se presentan.
 
-Si quieres conocer más sobre nuestra gobernanza, consulta estas publicaciones:
+*Si quieres conocer más sobre nuestra gobernanza, consulta estas publicaciones:*
 - [Gobernanza de MetaDocencia (2022)](https://zenodo.org/records/7398893)
 - [Gobernanza 2.0 (2024)](https://zenodo.org/records/12522913)
 
