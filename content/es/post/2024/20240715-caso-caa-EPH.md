@@ -48,5 +48,6 @@ Esta publicación fue posible gracias a un subsidio de Chan Zuckerberg Initiativ
 ---
 
 *¿Te gustó esta publicación? Puedes reutilizarla libremente bajo licencia CC by 4.0, solo tienes que citarla.* 
+Burin, D. I., Xhardez, V., & Trogliero, C. (2024). Ciencia Abierta en acción: el caso de la Encuesta Permanente de Hogares. Zenodo. https://doi.org/10.5281/zenodo.12752837
 
 Esta es la cita que te recomendamos usar para referenciarla:
