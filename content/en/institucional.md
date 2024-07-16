@@ -37,6 +37,11 @@ To act responsibly and according to individual, collective, or regional criteria
 #### Versatility
 To adapt our actions to the different situations that may arise.
 
+*If you are interested in our governance, we suggest these links:*
+- [MetaDocencia's Governance (2022)](https://zenodo.org/records/7399003)
+- [Governance 2.0 (2024)](https://zenodo.org/records/12522913)
+
+
 ## How We Are Organized
 In light of the diversification and growth we experienced over the past year, at MetaDocencia we designed this concept map, a new organizational chart that institutionalizes our way of working. We did it with an efficient and versatile organizational structure in mind, capable of meeting the challenges ahead. This scheme allows us to identify levels of responsibility, while also aiming to be dynamic enough to promote collaborative work and foster commitment, trust, recognition, and growth opportunities for the people who make up MetaDocencia.
 
