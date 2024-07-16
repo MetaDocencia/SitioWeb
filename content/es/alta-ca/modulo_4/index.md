@@ -11,11 +11,10 @@ authors:
 
 El encuentro 4 busca cubrir, revisar y reflexionar sobre el módulo 4 planteado en el [MOOC de NASA TOPS](https://github.com/nasa/Transform-to-Open-Science/tree/open-science-101) en español y con perspectiva latinoamericana. Se presentará un caso o proyecto para ilustrar las recomendaciones sobre el tema con buenas prácticas. La última media hora de este encuentro estará dedicada a promover el intercambio y discusión entre pares, y presentar y difundir iniciativas o proyectos de quienes asistan.
 
-## Objetivos del Encuentro 3
+## Objetivos del Encuentro 4
 1. Explicar qué significa el software de Código Abierto, enumerar sus beneficios y desafíos
 2. Explorar los componentes de un Plan de Gestión de Software de Código Abierto
 3. Compartir recomendaciones y buenas prácticas para trabajar con Código Abierto
-
  
 
 ## Cronograma
