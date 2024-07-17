@@ -2,8 +2,8 @@
 date: "2020-03-05"
 draft: false
 image:
-  caption: "[Photo by Louis Hansel on Unsplash](https://unsplash.com/photos/bPMyJzKhCyA)"
-  alt_text: "Two halves of a red apple, on the right you can see the skin, on the left you can see the inside of the apple.  Photo by Louis Hansel."
+  caption: 
+  alt_text: 
 linktitle: From Spreadsheet to R
 summary: Introductory online synchronous workshop for go from using Spreadsheet to using R. 
 title: From Spreadsheet to R
