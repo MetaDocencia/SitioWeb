@@ -5,7 +5,7 @@ image:
   caption: "caption"
   alt_text: ""
 linktitle: Misión Exploración
-summary: Comenzamos 2024 con la misión de prepararnos para enseñar principios de Ciencia Abierta en español-
+summary: Comenzamos 2024 preparándonos para enseñar principios de Ciencia Abierta en español-
 title: Misión de Exploración hacia la Ciencia Abierta
 authors: 
 
