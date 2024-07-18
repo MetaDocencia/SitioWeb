@@ -5,7 +5,7 @@ image:
   caption: "caption"
   alt_text: ""
 linktitle: Conversatorios de Gobernanza
-summary: Nos propusimos diseñar colaborativamente un modelo transparente para la toma de decisiones estratégicas que nos permita fortalecer nuestra misión institucional sobre la base de la construcción en comunidad.
+summary: Nos propusimos diseñar colaborativamente un modelo transparente para la toma de decisiones estratégicas.
 title: Ciclo de Encuentros de Gobernanza
 authors: 
 type: cursos
