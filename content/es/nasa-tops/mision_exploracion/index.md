@@ -1,121 +1,54 @@
 ---
-date: "2020-10-03"
+date: "2024-02-10"
 draft: false
 image:
   caption: "caption"
   alt_text: ""
-linktitle: Generando tutoriales interactivos con el paquete {learnr}
-summary: Aprende como usar {learnr} para construir tutoriales interactivos con R.  Curso en desarrollo.
+linktitle: Misión Exploración
+summary: Comenzamos 2024 con la misión de prepararnos para enseñar principios de Ciencia Abierta en español-
 title: Misión de Exploración hacia la Ciencia Abierta
 authors: 
-    - yabellini
-    - paocorrales
+
 type: cursos
 weight: 30
 tags:
   - Ediciones anteriores
 ---
 
-**Actualización:** Este es un curso no activo que dimos anteriormente y no está planeado reeditarlo por el momento, aquí dispones de todos los materiales por si quieres enseñarlo. 
+# Misión Exploración: Grupo de Estudio de Open Science 101 (NASA-TOPS)
+Comenzamos 2024 con la misión de prepararnos para enseñar principios de Ciencia Abierta en español y a través de cohortes virtuales de varias semanas, como te contamos en [esta publicación](https://www.metadocencia.org/post/nasatops10puntos/).
 
-------
+Para eso, invitamos a todas las personas de la comunidad MetaDocente a que estudiemos juntas los contenidos originales en inglés del curso Open Science 101, parte de la iniciativa TOPS (Transform to Open Science) organizada por la NASA.
 
-### Objetivos
+Se organizaron seis encuentros correspondientes a los cinco módulos. En cada uno, se trabajaron distintos temas que componen el mundo de la Ciencia Abierta: sus ideas centrales, las herramientas más utilizadas, cómo manejar datos y código abiertos, y mucho más. Siempre lo haremos con una mirada local, pensando en situaciones y ejemplos de nuestra propia vivencia en América Latina.
 
-El **objetivo** de este curso es introducir a las personas que participan al paquete {learnr} de R y como utilizarlo para generar tutoriales interactivos que permitan a los y las estudiantes escribir y ejecutar código R directamente desde el tutorial, contestar preguntas y recibir feedback inmediato.
+## Qué SI es este ciclo de encuentros 
+Estos encuentros generaron un espacio semanal de aproximadamente una hora, via Zoom, destinado a conversar junto a otras personas acerca del material de los cinco módulos de NASA-TOPS OpenScience 101 facilitado por una persona del equipo de MetaDocencia. 
 
-### ¿Para quién está pensado este taller?
+## Qué NO es este ciclo de encuentros
+Este ciclo de encuentros no fueron un curso ni tuvieron evaluación, ya que para eso ofrecemos nuestras cohortes virtuales de formación en Ciencia Abierta.
 
-Cada lección debe ser pensada, organizada y generada para una audiencia en particular, estas son las [personas tipo](/personas/) en la que pensamos cuando preparamos este taller:
-
-* Josefina: conoce y enseña R en su cátedra en la universidad.  Está interesada en proporcionar feedback automatizados a la respuesta de los ejercicios de programación con R que dan en su materia. Más detalles sobre Josefina [aquí](/persona/josefina).
-
-* Francisco: es desarrollador de paquetes, quiere explorar la opción de generar tutoriales interactivos como parte de la ayuda. Más detalles sobre Francisco [aquí](/persona/francisco). 
-
-* Alex quiere desarrollar tutoriales para publicarlos como aplicaciones shiny con la idea de que sus estudiantes puedan empezar a trabajar enseguida con R sin sufrir con la instalación de herramientas. Más detalles sobre Alex [aquí](/persona/alex).
-
-### Qué *no* incluye este taller
-
-Si bien realizaremos actividades en RStudio, este taller NO es un curso de programación (es un taller sobre cómo enseñar programación).
-
-Entre otras cosas, quedan fuera del alcance del taller:
-
-* Entrenamiento en técnicas de programación
-* Desarrollo en profundidad y práctica extensiva de las técnicas mencionadas
-* Contenidos teóricos sobre pedagogía
-
-### Duración
-
-El taller tiene una duración de 2 horas con intervalos (idealmente lejos de cualquier pantalla) de aproximadamente 5 minutos cada 50 minutos de contenidos.
-
-
-### Cronograma tentativo  
-
-
-|  Duración (min)  |  Actividad  |
-| :------:|:----------- |
-| 5 <img width="200"/> | Tiempo previo para conectarse y asegurarse que anda bien tu conexión de audio y video (si no tienes camara no importa) |
-| 10 | Introducción de las docentes y del curso y repaso de las opciones comunes de las herramientas que vamos a usar. |
-| 15 | Episodio 1: ¿Qué es un tutorial interactivo? | 
-| 20 | Episodio 2:  ¿Cómo agrego preguntas a mi tutorial? | 
-| 10 | Pausa |
-| 15 | Episodio 3: ¿Cómo puedo realizar ejercicios con código en mis tutoriales? |
-| 15 | Episodio 4: ¿Cómo comparto mis tutoriales? |
-| 10 | Episodio 5: ¿Dónde aprendo más? |
-| 10 | Cierre del taller: resumen y devolución |
-
-
-#### Episodio 1 
-
-* Pregunta: ¿Qué es un tutorial interactivo?
-* Objetivos: 
-  - Entender los beneficios de un tutorial interactivo 
-  - Entender los componentes básicos de un tutorial interactivo
-* Práctica: analizar la plantilla de learnr y reconocer las partes del tutorial, cambiar alguna opción en el YAML y analizar el cambio de comportamiento.
-
-#### Episodio 2 
-
-* Pregunta: ¿Cómo agrego preguntas a mi tutorial?
-* Objetivos:
-  - Entender los tipos de preguntas que existen en un tutorial learnr
-  - Entender los componentes básicos de las preguntas multiple choice
-  - Entender los componentes básicos de las preguntas de texto 
-* Práctica: modificar una serie de preguntas en un tutorial de ejemplo armado para este taller.
-
-#### Episodio 3 
-
-* Pregunta: ¿Cómo puedo realizar ejercicios con código en mis tutoriales?
-* Objetivos:
-  - Entender los componentes básicos de los ejercicios
-  - Entender el chunk exercise
-  - Entender el chunk hint
-  - Entender el chunk solution
-  - Entender el setup previo de los chunks
-* Practica: modificar un chunk de ejercicio previamente generado en el ejemplo y modificarlo para que entregue un hint y muestre una solución
-
-#### Episodio 4
-
-* Pregunta: ¿Cómo comparto mis tutoriales?
-* Objetivos: 
-  - Entender las diferentes maneras de publicar/compartir un tutorial con learnr
-  - Entender las ventajas y desventajas de cada una
-* Práctica: publicar el tutorial como una shiny app.
-
-#### Episodio 5 
-
-* Pregunta: ¿Dónde aprendo más?
-* Objetivos:
-  - Detalles de lugares donde aprender más sobre learnr
-  - Detalle de paquetes que se pueden usar con learnr
-  - Detalle de repositorios con código fuente de diferentes tipos de tutoriales.
-
+## Calendario
+5 encuentros, 1 para cada módulo del OpenScience101, más un encuentro de cierre.
+Temas: 
+- Módulo 1: El “Ethos” de la Ciencia Abierta
+- Módulo 2: Herramientas y recursos abiertos
+- Módulo 3: Datos abiertos
+- Módulo 4: Código abierto
+- Módulo 5: Resultados de investigación abiertos
+- Encuentro final: ¿qué aprendimos? / ¿qué nos llevamos?
 
 ### Materiales
+- [Grabaciones de encuentros](https://youtube.com/playlist?list=PLNsHbWOM6tUfzes2v5mSk6kY90ZpcoIgc&feature=shared)
+- [Documentos compartidos y presentaciones del grupo de estudio](https://drive.google.com/drive/folders/1aweRDzQEdW7bSRO7kgB8PL-U9U1kgmTE?usp=drive_link)
+- [Biblioteca de Zotero "Ciencia Abierta en Comunidad"](https://www.zotero.org/groups/5442154/ciencia_abierta_en_comunidad/library)
 
-* [Presentación que usamos en el curso](https://docs.google.com/presentation/d/1QLRUbERgEk85s8qK6mzmMJn7avQ_bEmTn_NzFYgqwkc/edit?usp=sharing) con notas ampliando el contenido para quienes dan la clase
-
-* [Video del curso](https://youtu.be/d7eXzRzEdC8)
-
+Después de cada encuentro pensamos, reflexionamos y escribimos sobre todo lo que pasó. Compartimos publicaciones de nuestro blog relativas a los encuentros:
+- [Explorando NASA-TOPS en comunidad: el “ethos” de la Ciencia Abierta](https://www.metadocencia.org/post/2024/20240220-encuentro-1-grupo-de-estudio-pre-nasa-tops/)
+- [Explorando NASA-TOPS en comunidad: herramientas y recursos abiertos](https://www.metadocencia.org/post/2024/20240228-encuentro-2-grupo-de-estudio-pre-nasa-tops/)
+- [Explorando NASA-TOPS en comunidad: datos abiertos](https://www.metadocencia.org/post/2024/20240305-encuentro-3-grupo-de-estudio-pre-nasa-tops/)
+- [Explorando NASA-TOPS en comunidad: código abierto]( https://www.metadocencia.org/post/2024/20240313-encuentro-4-grupo-de-estudio-pre-nasa-tops/)
+- [Explorando NASA-TOPS en comunidad: resultados abiertos](https://www.metadocencia.org/post/2024/20240318-encuentro-5-grupo-de-estudio-pre-nasa-tops/)
 
 ### ¿Te vienen bien cualquiera de nuestros contenidos? ¡Servite sin culpa!
 
