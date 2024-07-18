@@ -2,11 +2,11 @@
 date: "2020-10-03"
 draft: false
 image:
-  caption: "[Foto de Benjamin Wong en Unsplash](https://unsplash.com/photos/qVywyNo9_-E)"
-  alt_text: "1 manzana roja y 2 manzanas verdes sobre una mesa, foto tomada por Benjamin Wong"
+  caption: "caption"
+  alt_text: ""
 linktitle: Generando tutoriales interactivos con el paquete {learnr}
 summary: Aprende como usar {learnr} para construir tutoriales interactivos con R.  Curso en desarrollo.
-title: Generando tutoriales interactivos con el paquete {learnr} [No vigente]
+title: Misión de Exploración hacia la Ciencia Abierta
 authors: 
     - yabellini
     - paocorrales
