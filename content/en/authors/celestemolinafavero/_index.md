@@ -22,7 +22,7 @@ organizations:
   url: 
 - name: Universidad Nacional de Mar del Plata
   url: 
-role: Teaching
+role: Training
 social:
 superuser: false
 user_groups:
