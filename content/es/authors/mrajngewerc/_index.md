@@ -20,7 +20,7 @@ interests:
 
 name: Mariela Rajngewerc
 weight: 17
-role: Comunidad y Enseñanza
+role: Comunidad y Formación
 organizations:
 - name: 
   url: 

@@ -22,7 +22,7 @@ weight: 17
 organizations:
 - name: 
   url: 
-role: Community and Teaching
+role: Community and Training
 social:
 - icon: envelope
   icon_pack: fas
