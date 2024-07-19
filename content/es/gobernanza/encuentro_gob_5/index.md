@@ -6,7 +6,6 @@ summary: Conversatorio 5 - 14/09 17 hs. (UTC-3)
 title: "Los aspectos normativos de la gobernanza - Andrés Piazza"
 authors:
   - MetaDocencia
-featured_image: https://www.metadocencia.org/img/GobernanzaMD5.jpg
 ---
 
 ![Ciclo de Encuentros de Gobernanza, Conversatorio 5. Andrés Piazza - Los aspectos normativos de la gobernanza. Miércoles 14/09 a las 17 hs. (UTC-3)](https://www.metadocencia.org/img/GobernanzaMD5.jpg)

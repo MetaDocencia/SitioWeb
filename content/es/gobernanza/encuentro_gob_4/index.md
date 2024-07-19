@@ -6,7 +6,6 @@ summary: Conversatorio 4 - 31/08 17 hs. (UTC-3)
 title: "Gobernanza en comunidad: interseccionalidad y representatividad - Malvika Sharan y Andrea Sánchez-Tapia"
 authors:
   - MetaDocencia
-featured_image: https://www.metadocencia.org/img/GobernanzaMD4.jpg
 ---
 
 ![Ciclo de Encuentros de Gobernanza, Conversatorio 4. Malvika Sharan y Andrea Sánchez Tapia - Gobernanza en comunidad: interseccionalidad y representatividad. Miércoles 31/08 a las 17 hs. (UTC-3). Coordinan Melissa Black y Nicolás Palopoli](https://www.metadocencia.org/img/GobernanzaMD4.jpg)
