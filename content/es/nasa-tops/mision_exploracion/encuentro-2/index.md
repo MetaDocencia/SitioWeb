@@ -6,10 +6,6 @@ summary: Encuentro 2 - 31-01 17 hs. (UTC-3).
 title: "Misión exploración: Herramientas y recursos abiertos"
 authors:
   - MetaDocencia
-type: cursos
-weight: 50
-tags:
-  - Ediciones anteriores
 <!--- featured_image: https://www.metadocencia.org/img/blabla.png --->
 ---
 

@@ -6,10 +6,6 @@ summary: Encuentro 4 - 14-02 17 hs. (UTC-3).
 title: "Misión exploración: Código abierto"
 authors:
   - MetaDocencia
-type: cursos
-weight: 50
-tags:
-  - Ediciones anteriores
 <!--- featured_image: https://www.metadocencia.org/img/blabla.png --->
 ---
 
