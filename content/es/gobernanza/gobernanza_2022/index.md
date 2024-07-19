@@ -21,14 +21,14 @@ Con este propósito, entre julio y octubre de 2022 realizamos ocho conversatorio
 
 ### Materiales
 Ciclo de encuentros, temas y materiales abordados (click en cada uno para acceder a los registros):
-- Laura Ación y Nicolás Palopoli - MetaDocencia: pensar colaborativamente nuestra gobernanza
-- Beatriz Busaniche - La experiencia de la Fundación Vía Libre
-- Fabrizio Scrollini - Gobernanza y datos abiertos: la experiencia ILDA
-- Malvika Sharan y Andrea Sánchez Tapia - Gobernanza en comunidad: interseccionalidad y representatividad
-- Andrés Piazza -	Los aspectos normativos de la gobernanza
-- Mayra Botta - Gobernanza e innovación educativa
-- Diego Pando - Gobernar en entornos complejos, flexibles y cambiantes
-- Laura Ación y Nicolás Palopoli	- La gobernanza de MetaDocencia en proceso
+- Laura Ación y Nicolás Palopoli - [MetaDocencia: pensar colaborativamente nuestra gobernanza](https://www.metadocencia.org/gobernanza/encuentro_gob_1/)
+- Beatriz Busaniche - [La experiencia de la Fundación Vía Libre](https://www.metadocencia.org/gobernanza/encuentro_gob_2/)
+- Fabrizio Scrollini - [Gobernanza y datos abiertos: la experiencia ILDA](https://www.metadocencia.org/gobernanza/encuentro_gob_3/)
+- Malvika Sharan y Andrea Sánchez Tapia - [Gobernanza en comunidad: interseccionalidad y representatividad](https://www.metadocencia.org/gobernanza/encuentro_gob_4/)
+- Andrés Piazza -	[Los aspectos normativos de la gobernanza](https://www.metadocencia.org/gobernanza/encuentro_gob_5/)
+- Mayra Botta - [Gobernanza e innovación educativa](https://www.metadocencia.org/gobernanza/encuentro_gob_6/)
+- Diego Pando - [Gobernar en entornos complejos, flexibles y cambiantes](https://www.metadocencia.org/gobernanza/encuentro_gob_7/)
+- Laura Ación y Nicolás Palopoli	- [La gobernanza de MetaDocencia en proceso](https://www.metadocencia.org/gobernanza/encuentro_gob_8/)
 
 ### ¿Te vienen bien cualquiera de nuestros contenidos? ¡Servite sin culpa!
 
