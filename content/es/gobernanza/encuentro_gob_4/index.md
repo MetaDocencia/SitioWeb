@@ -1,19 +1,12 @@
 ---
 date: "2022-08-31"
 draft: false
-image:
-  caption: "[Malvika Sharan]()"
-  alt_text: "Malvika Sharan, Senior Researcher en The Turing Way y Co-directora en Open Life Science"
 linktitle: 31/08 17 (UTC-3) Conversatorio 4
 summary: Conversatorio 4 - 31/08 17 hs. (UTC-3)
 title: "Gobernanza en comunidad: interseccionalidad y representatividad - Malvika Sharan y Andrea Sánchez-Tapia"
 authors:
   - MetaDocencia
-type: cursos
-weight: 50
-tags:
-  - Ediciones anteriores
-thumbnail:
+featured_image: https://www.metadocencia.org/img/GobernanzaMD4.jpg
 ---
 
 ![Ciclo de Encuentros de Gobernanza, Conversatorio 4. Malvika Sharan y Andrea Sánchez Tapia - Gobernanza en comunidad: interseccionalidad y representatividad. Miércoles 31/08 a las 17 hs. (UTC-3). Coordinan Melissa Black y Nicolás Palopoli](https://www.metadocencia.org/img/GobernanzaMD4.jpg)

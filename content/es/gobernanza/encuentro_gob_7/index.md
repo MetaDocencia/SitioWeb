@@ -1,19 +1,12 @@
 ---
 date: "2022-10-12"
 draft: false
-image:
-  caption: "[Diego Pando]()"
-  alt_text: "Diego Pando, presidente de la AAEAP y Director del Núcleo de Estudios sobre Gestión Pública de la UMET"
 linktitle: 12/10 17 (UTC-3) Conversatorio 7
 summary: Conversatorio 7 - 12/10 17 hs. (UTC-3)
 title: "Gobernar en entornos complejos, flexibles y cambiantes - Diego Pando"
 authors:
   - MetaDocencia
-type: cursos
-weight: 50
-tags:
-  - Ediciones anteriores
-thumbnail:
+featured_image: https://www.metadocencia.org/img/GobernanzaMD-07.jpg
 ---
 
 ![Ciclo de Encuentros de Gobernanza, Conversatorio 7. Diego Pando - Gobernar en entornos complejos, flexibles y cambiantes. Miércoles 12/10 a las 17 hs. (UTC-3)](https://www.metadocencia.org/img/GobernanzaMD-07.jpg)

@@ -1,19 +1,12 @@
 ---
 date: "2022-09-14"
 draft: false
-image:
-  caption: "[Andrés Piazza]()"
-  alt_text: "Andrés Piazza, Director del Instituto de Desarrollo Digital de América Latina y el Caribe"
 linktitle: 14/09 17 (UTC-3) Conversatorio 5
 summary: Conversatorio 5 - 14/09 17 hs. (UTC-3)
 title: "Los aspectos normativos de la gobernanza - Andrés Piazza"
 authors:
   - MetaDocencia
-type: cursos
-weight: 50
-tags:
-  - Ediciones anteriores
-thumbnail:
+featured_image: https://www.metadocencia.org/img/GobernanzaMD5.jpg
 ---
 
 ![Ciclo de Encuentros de Gobernanza, Conversatorio 5. Andrés Piazza - Los aspectos normativos de la gobernanza. Miércoles 14/09 a las 17 hs. (UTC-3)](https://www.metadocencia.org/img/GobernanzaMD5.jpg)

@@ -1,19 +1,12 @@
 ---
 date: "2022-09-28"
 draft: false
-image:
-  caption: "[Mayra Botta]()"
-  alt_text: "Mayra Botta, Learning & Diversity, Equity and Inclusion Manager en Globant"
 linktitle: 28/09 17 (UTC-3) Conversatorio 6
 summary: Conversatorio 6 - 28/09 17 hs. (UTC-3)
 title: "Gobernanza e innovación educativa - Mayra Botta"
 authors:
   - MetaDocencia
-type: cursos
-weight: 50
-tags:
-  - Ediciones anteriores
-thumbnail:
+featured_image: https://www.metadocencia.org/img/GobernanzaMD6.png
 ---
 
 ![Ciclo de Encuentros de Gobernanza, Conversatorio 6. Mayra Botta - Gobernanza e innovación educativa. Miércoles 28/09 a las 17 hs. (UTC-3)](https://www.metadocencia.org/img/GobernanzaMD6.png)

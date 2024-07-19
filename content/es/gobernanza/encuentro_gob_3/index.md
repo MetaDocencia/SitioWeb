@@ -1,19 +1,12 @@
 ---
 date: "2022-08-17"
 draft: false
-image:
-  caption: "[Fabrizio Scrollini](https://www.metadocencia.org/img/GobernanzaMD3-FabrizioScrollini.png)"
-  alt_text: "Fabrizio Scrollini, Director de ILDA"
 linktitle: 17/08 17 (UTC-3) Conversatorio 3
 summary: Conversatorio 3 - 17/08 17 hs. (UTC-3)
 title: "Gobernanza y datos abiertos: la experiencia ILDA - Fabrizio Scrollini"
 authors:
   - MetaDocencia
-type: cursos
-weight: 50
-tags:
-  - Conversatorios anteriores
-thumbnail:
+featured_image: https://www.metadocencia.org/img/GobernanzaMD3-FabrizioScrollini.png
 ---
 
 ![Ciclo de Encuentros de Gobernanza, Conversatorio 3. Fabrizio Scrollini - Gobernanza y datos abiertos: la experiencia ILDA. Miércoles 17/08 a las 17 hs. (UTC-3). Coordinan Laura Ación y Melissa Black](https://www.metadocencia.org/img/GobernanzaMD3-FabrizioScrollini.png)

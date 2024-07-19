@@ -6,10 +6,6 @@ summary: Conversatorio 8 - 26/10 17 hs. (UTC-3).
 title: "La gobernanza de MetaDocencia en proceso - Laura Ación y Nicolás Palopoli"
 authors:
   - MetaDocencia
-type: cursos
-weight: 50
-tags:
-  - Ediciones anteriores
 featured_image: https://www.metadocencia.org/img/GobernanzaMD-08.jpg
 ---
 
