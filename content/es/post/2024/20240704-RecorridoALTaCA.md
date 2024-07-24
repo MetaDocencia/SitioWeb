@@ -43,7 +43,7 @@ Desde MetaDocencia definimos, desde el diseño, involucrar a un conjunto diverso
 
 <p align="center">
 <img src="https://www.metadocencia.org/img/workflow-infra-ALTa.jpg" alt="Flujo de trabajo transversal a todas las áreas usado para planificar la infraestructura de las cohortes." width="600px"/>
-<i><font size="-0.6">lujo de trabajo transversal a todas las áreas usado para planificar la infraestructura de las cohortes.</font></i>
+<i><font size="-0.6">Flujo de trabajo transversal a todas las áreas usado para planificar la infraestructura de las cohortes.</font></i>
 </p>
 
 - Además, se comenzó a pensar la **estructura documental de la información**, cuáles serían y dónde vivirían los archivos necesarios y los permisos que asegurarían el cuidado de la información de  las personas participantes. Una vez definidos los criterios, comenzamos a generar la estructura de carpetas en nuestra infraestructura en la nube, las modificaciones en la página web y configuramos  las herramientas para el dictado, como los eventos del calendario y de videollamadas. Se trabajó de forma articulada para lograr automatizar lo más  eficazmente  el flujo de información evitando así errores manuales en el movimiento de asistencias y aprobaciones.
