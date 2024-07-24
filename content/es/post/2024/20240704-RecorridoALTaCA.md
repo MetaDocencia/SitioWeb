@@ -42,6 +42,8 @@ Desde MetaDocencia definimos, desde el diseño, involucrar a un conjunto diverso
 
 - Este desarrollo implicó también diseñar un flujo de trabajo que asegurara la infraestructura y la comunicación para todas las personas participantes. Una vez diseñada nuestra hoja de ruta por el equipo de formación, desde el área de Infraestructura comenzamos a pensar cómo articular las herramientas que tenemos a disposición para ejecutar las acciones necesarias de cara a las cohortes. **Se diseñó un flujo de trabajo** que pasó por 3 versiones hasta llegar a la  definitiva, para cada aspecto de la cohorte, desde la inscripción hasta la certificación definiendo el flujo y la interacción entre áreas; cómo desde la inscripción se dispararían las comunicaciones y mediante qué acciones las diferentes áreas recibirían la información necesaria para llevarlas adelante con éxito incentivando la participación a través de la cohorte para alentar la certificación.
 
+<img src="https://www.metadocencia.org/img/workflow-infra-ALTa.jpg" alt="Flujo de trabajo transversal a todas las áreas usado para planificar la infraestructura de las cohortes." width="600px"/>
+
 - Además, se comenzó a pensar la **estructura documental de la información**, cuáles serían y dónde vivirían los archivos necesarios y los permisos que asegurarían el cuidado de la información de  las personas participantes. Una vez definidos los criterios, comenzamos a generar la estructura de carpetas en nuestra infraestructura en la nube, las modificaciones en la página web y configuramos  las herramientas para el dictado, como los eventos del calendario y de videollamadas. Se trabajó de forma articulada para lograr automatizar lo más  eficazmente  el flujo de información evitando así errores manuales en el movimiento de asistencias y aprobaciones.
   
 - Mantuvimos **articulación permanente con el equipo de NASA TOPS** para asegurar la fiabilidad de los contenidos y la certificación, pero a la vez, permitirnos una versión propia, representativa, contextualizada y que proyecte globalmente todo el esfuerzo, experiencia y aprendizajes sobre Ciencia Abierta ya presentes en América Latina y otras regiones que hacen investigación con bajos recursos y primariamente en idiomas distintos al inglés. 
@@ -50,6 +52,8 @@ Desde MetaDocencia definimos, desde el diseño, involucrar a un conjunto diverso
 El miércoles 26 de junio pasado comenzó la primera cohorte, piloto, a la que se inscribieron más de 100 personas, desbordando el interés hacia una segunda edición que comienza el sábado 24 de agosto a las 9 am (UTC -3) y ya se completó, lo que nos proyecta a dictar una tercera cohorte en 2024. 
 
 **Cada edición de nuestra misión ALTa Ciencia Abierta recuperará la increíble experiencia de reunirnos, dialogar y enriquecer los saberes en comunidad. ¡Y esto recién empieza!**
+
+<img src="https://www.metadocencia.org/img/captura_ALTaCA1.jpg" alt="Captura de pantalla del primer encuentro de la primera edición de ALTa CA." width="600px"/>
 
 Si quieres leer, intercambiar más sobre estos temas o tienes interés en participar, te invitamos a sumarte a nuestro [canal #alta-ciencia-abierta en Slack](https://w3id.org/metadocencia/slack).
 
