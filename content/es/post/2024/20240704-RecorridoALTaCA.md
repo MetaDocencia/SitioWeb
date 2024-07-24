@@ -41,7 +41,10 @@ Desde MetaDocencia definimos, desde el diseño, involucrar a un conjunto diverso
 
 - Este desarrollo implicó también diseñar un flujo de trabajo que asegurara la infraestructura y la comunicación para todas las personas participantes. Una vez diseñada nuestra hoja de ruta por el equipo de formación, desde el área de Infraestructura comenzamos a pensar cómo articular las herramientas que tenemos a disposición para ejecutar las acciones necesarias de cara a las cohortes. **Se diseñó un flujo de trabajo** que pasó por 3 versiones hasta llegar a la  definitiva, para cada aspecto de la cohorte, desde la inscripción hasta la certificación definiendo el flujo y la interacción entre áreas; cómo desde la inscripción se dispararían las comunicaciones y mediante qué acciones las diferentes áreas recibirían la información necesaria para llevarlas adelante con éxito incentivando la participación a través de la cohorte para alentar la certificación.
 
+<p align="center">
 <img src="https://www.metadocencia.org/img/workflow-infra-ALTa.jpg" alt="Flujo de trabajo transversal a todas las áreas usado para planificar la infraestructura de las cohortes." width="600px"/>
+<i><font size="-0.6">lujo de trabajo transversal a todas las áreas usado para planificar la infraestructura de las cohortes.</font></i>
+</p>
 
 - Además, se comenzó a pensar la **estructura documental de la información**, cuáles serían y dónde vivirían los archivos necesarios y los permisos que asegurarían el cuidado de la información de  las personas participantes. Una vez definidos los criterios, comenzamos a generar la estructura de carpetas en nuestra infraestructura en la nube, las modificaciones en la página web y configuramos  las herramientas para el dictado, como los eventos del calendario y de videollamadas. Se trabajó de forma articulada para lograr automatizar lo más  eficazmente  el flujo de información evitando así errores manuales en el movimiento de asistencias y aprobaciones.
   
@@ -52,7 +55,10 @@ El miércoles 26 de junio pasado comenzó la primera cohorte, piloto, a la que s
 
 **Cada edición de nuestra misión ALTa Ciencia Abierta recuperará la increíble experiencia de reunirnos, dialogar y enriquecer los saberes en comunidad. ¡Y esto recién empieza!**
 
+<p align="center">
 <img src="https://www.metadocencia.org/img/captura_ALTaCA1.jpg" alt="Captura de pantalla del primer encuentro de la primera edición de ALTa CA." width="600px"/>
+<i><font size="-0.6">Captura de pantalla del primer encuentro de la primera edición de ALTa CA.</font></i>
+</p>
 
 Si quieres leer, intercambiar más sobre estos temas o tienes interés en participar, te invitamos a sumarte a nuestro [canal #alta-ciencia-abierta en Slack](https://w3id.org/metadocencia/slack).
 
