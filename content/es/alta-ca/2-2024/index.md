@@ -83,8 +83,7 @@ Además, entregaremos un certificado de asistencia de MetaDocencia a quienes par
 
 ## Cómo participar
 
-**Muchas gracias por tu interés en inscribirte. ¡Los lugares para esta formación se han agotado! Estamos planeando abrir una nueva durante el último trimestre de 2024 (fecha y hora a definir) 📅🔜
-Si no quieres perderte esta oportunidad, por favor, déjanos tus datos en este formulario: [http://tiny.cc/ALTa_CA_3](http://tiny.cc/ALTa_CA_3)**. 
+**[FORMULARIO DE INSCRIPCIÓN](https://docs.google.com/forms/d/e/1FAIpQLSey9EUhXR6LLei1rjACpBGUkohrFc1AjJj1UK3qwm0mI-UhlA/viewform)** 
 
 *Todos los datos se manejarán en forma confidencial, sólo podrán ser publicados de forma agregada y anonimizada en reportes sobre el alcance de MetaDocencia.*
 
