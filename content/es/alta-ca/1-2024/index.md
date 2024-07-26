@@ -64,7 +64,7 @@ En el primer encuentro se presentarán los conceptos claves del módulo, definic
 |Mié 10-07 - 16 a 19 | [*Datos Abiertos*](https://www.metadocencia.org/alta-ca/modulo_3/) |
 |Mié 17-07 - 16 a 19 | [*Código Abierto*](https://www.metadocencia.org/alta-ca/modulo_4/) |
 |Mié 24-07 - 16 a 19 | [*Resultados abiertos*](https://www.metadocencia.org/alta-ca/modulo_5/) |
-|Mié 31-07 - 16 a 19 | *Encuentro de repaso y cierre* |
+|Mié 31-07 - 16 a 19 | [*Encuentro de repaso y cierre*](https://www.metadocencia.org/alta-ca/modulo_6/) |
 
 Para aumentar la accesibilidad de esta formación, grabaremos cada encuentro y compartiremos su grabación al día siguiente. 
 
