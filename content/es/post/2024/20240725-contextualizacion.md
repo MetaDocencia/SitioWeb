@@ -9,8 +9,8 @@ authors:
   - irevazano
   - slopez
   - jformoso
-  - laurel
   - lacion
+  - vxhardez
 type: post
 weight: 1
 tags: 
