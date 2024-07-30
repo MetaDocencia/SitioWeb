@@ -8,7 +8,7 @@
 Para poder registrarte al MOOC es necesario contar con usuario en ORCID:
 
 ###Cómo crear tu perfil en ORCID
-[Tutorial en video] (https://www.google.com/search?q=crear+perfil+orcid+espa%C3%B1ol&oq=crear+perfil+orcid+espa&gs_lcrp=EgZjaHJvbWUqBwgCECEYoAEyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigAdIBCDc4MjBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:ac9dac1f,vid:D9P-TEzaFG0,st:0)
+[Tutorial en video](https://www.google.com/search?q=crear+perfil+orcid+espa%C3%B1ol&oq=crear+perfil+orcid+espa&gs_lcrp=EgZjaHJvbWUqBwgCECEYoAEyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigAdIBCDc4MjBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:ac9dac1f,vid:D9P-TEzaFG0,st:0)
 
 1. Ingresar a https://orcid.org/register
 2. Completar la información en “Datos personales”:
