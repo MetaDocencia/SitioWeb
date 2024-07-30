@@ -1,4 +1,5 @@
-# Open Science 101. Guía de registro para obtener certificación oficial
+# Open Science 101. 
+## Guía de registro para obtener certificación oficial
 
 **El presente material tiene por finalidad guiar en el proceso de registro al MOOC Open Science 101 de NASA TOPS.**
 
