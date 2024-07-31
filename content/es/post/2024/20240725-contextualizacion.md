@@ -70,3 +70,4 @@ Esta publicación fue posible gracias a un subsidio de Chan Zuckerberg Initiativ
 *¿Te gustó esta publicación? Puedes reutilizarla libremente bajo licencia CC by 4.0, solo tienes que citarla.* 
 
 Esta es la cita que te recomendamos usar para referenciarla:
+Irene Vazano, Sabrina López, Jesica Formoso, Laura Ación, Verónica Xhardez (2024). ¿De qué hablamos cuando hablamos de Contextualización?. Zenodo. https://doi.org/10.5281/zenodo.13126750
