@@ -77,4 +77,4 @@ subtitle = ""
 
 Explore our ongoing projects and discover how we are working towards our mission and values.
 
-If you have additional questions about the projects, write to [info@metadocencia.org](mailto: info@metadocencia.org)
+If you have additional questions about the projects, write to [info@metadocencia.org](mailto:info@metadocencia.org).

@@ -76,4 +76,4 @@ subtitle = ""
 
 Explora nuestros proyectos en curso y descubre cómo estamos trabajando en pos de nuestra misión y valores.
 
-Si tienes inquietudes adicionales sobre los proyectos, escríbenos a [info@metadocencia.org](mailto:info@metadocencia.org)
+Si tienes inquietudes adicionales sobre los proyectos, escríbenos a [info@metadocencia.org](mailto:info@metadocencia.org).
