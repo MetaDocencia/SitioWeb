@@ -13,10 +13,10 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://x.com/ABRIR_Psy
-- icon: globe
+- icon: bluesky
   icon_pack: fas
   link: https://bsky.app/profile/abrir.bsky.social
-- icon: globe
+- icon: youtube
   icon_pack: fas
   link: https://www.youtube.com/@abrir-big-teamandopenscien4045/playlists
 superuser: false
