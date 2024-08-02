@@ -42,7 +42,7 @@ A partir de los contenidos que plantea el [MOOC de NASA TOPS](https://github.com
 
 ## Materiales
 
-- [Presentación](https://zenodo.org/records/12585941)
+- Presentación: https://zenodo.org/records/12585941
 - [Video de una edición sincrónica](https://us02web.zoom.us/rec/share/2qDjiLtq5l6jt7NwQVXCikhJvdGOo7yTq3XH_SL4N5SveIgiEQ73lVo6W-bi3L8M.mknajnA8KBSKTVMd)
   
 ### ¡Sírvete sin culpa!
