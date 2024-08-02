@@ -44,9 +44,8 @@ El encuentro 2 busca cubrir, revisar y reflexionar sobre el módulo 2 del [MOOC 
 
 ## Materiales
 
-- Presentación: https://zenodo.org/records/12627069
-- Video de una edición sincrónica:
-- Formulario de certificación:
+- Presentación: https://zenodo.org/records/12627069 
+- [Video de una edición sincrónica](https://us02web.zoom.us/rec/share/dwvH3KUwlK9eBJn-26K6iGGx6QpHjElW1ouOjJjVpVPTLSiaLTnUCUSJI4vatMWZ.NUoXQO3e32IgkNCe)
   
 ### ¡Sírvete sin culpa!
 Nuestros materiales están disponibles en forma gratuita bajo esta [licencia](https://creativecommons.org/licenses/by/4.0/deed.es). Es decir, puedes reusar o editar cualquier material que aparece acá, lo único que pedimos a cambio es que cuando tomes material de acá incluyas una referencia a esta página web.
