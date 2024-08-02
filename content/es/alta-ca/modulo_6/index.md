@@ -36,9 +36,8 @@ En este encuentro también culmina la experiencia ALTa Ciencia Abierta, dando de
 
 ## Materiales
 
-- Presentación: 
-- Video de una edición sincrónica:
-- Formulario de certificación:
+- Presentación: https://doi.org/10.5281/zenodo.13145527
+- [Video de una edición sincrónica](https://drive.google.com/file/d/15ciyjf7Rw3udNHd9dETXP7pAOjKZ_8wZ/view?usp=drive_link)
   
 ### ¡Sírvete sin culpa!
 Nuestros materiales están disponibles en forma gratuita bajo esta [licencia](https://creativecommons.org/licenses/by/4.0/deed.es). Es decir, puedes reusar o editar cualquier material que aparece acá, lo único que pedimos a cambio es que cuando tomes material de acá incluyas una referencia a esta página web.
