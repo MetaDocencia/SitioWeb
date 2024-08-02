@@ -54,8 +54,7 @@ El encuentro 3 busca cubrir, revisar y reflexionar sobre el módulo 3 planteado 
 ## Materiales
 
 - Presentación: https://doi.org/10.5281/zenodo.12702352
-- Video de una edición sincrónica:
-- Formulario de certificación:
+- [Video de una edición sincrónica](https://us02web.zoom.us/rec/play/v30ZHQqS249z09eLSPFzMBxX7ooJzAP1lBbOcxWtVGmiyjISkzC60DhxuSH3WQ28iiODzcSa56uuHUM.Cmk75v5pmcsyIWvC?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus02web.zoom.us%2Frec%2Fshare%2FKtG9EQsmnKLnulfdlncj95eXPkRd_8yHUSeamZ5TRdErb90ooRjUUHQANeg0g9Ri.Il7n84NrH1h7_pyk)
   
 ### ¡Sírvete sin culpa!
 Nuestros materiales están disponibles en forma gratuita bajo esta [licencia](https://creativecommons.org/licenses/by/4.0/deed.es). Es decir, puedes reusar o editar cualquier material que aparece acá, lo único que pedimos a cambio es que cuando tomes material de acá incluyas una referencia a esta página web.
