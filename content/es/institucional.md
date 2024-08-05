@@ -41,6 +41,16 @@ Adaptar las acciones a las situaciones que se presentan.
 - [Gobernanza de MetaDocencia (2022)](https://zenodo.org/records/7398893)
 - [Gobernanza 2.0 (2024)](https://zenodo.org/records/12522913)
 
+## Nuestros pilares
+### Formación
+Se nutre de nuestros valores educación, ciencia e investigación. Este pilar es la base de todos los proyectos con los que construimos capacidades científicas y técnicas en forma responsable y accesible.
+
+### Comunidad
+Nuestro valor comunidad comparte nombre con este pilar que también nos permite poner en práctica nuestros valores integridad, bienestar, inclusión y diversidad. En él se apoyan los proyectos que tejen lazos con otras comunidades y generan redes para que la producción, la comunicación y la aplicación de saberes científicos y técnicos sean globalmente equitativas.
+
+### Contextualización
+Basado en nuestros valores diversidad, autonomía y versatilidad, este pilar promueve el desarrollo de una mirada latinoamericana sobre todos los proyectos en los que trabajamos co-creando redes, espacios de aprendizaje y recursos para comunidades hispanohablantes.
+
 ## Nuestra organización
 En vistas a la diversificación y al crecimiento que tuvimos en el último año, en MetaDocencia diseñamos este mapa conceptual, un nuevo organigrama que institucionaliza nuestra forma de trabajo. Lo hicimos pensando en una estructura organizacional eficiente y versátil a la altura de los desafíos que tenemos por delante. Así, este esquema permite identificar grados de responsabilidad pero a la vez, busca ser lo suficientemente dinámico para promover el trabajo colaborativo y el compromiso, la confianza, el reconocimiento y las oportunidades de crecimiento de las personas que hacemos MetaDocencia. 
 
