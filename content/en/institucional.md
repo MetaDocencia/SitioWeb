@@ -41,6 +41,15 @@ To adapt our actions to the different situations that may arise.
 - [MetaDocencia's Governance (2022)](https://zenodo.org/records/7399003)
 - [Governance 2.0 (2024)](https://zenodo.org/records/12522913)
 
+## Our Pillars
+### Training
+Our education, science, and research values nurture this pillar, which is the basis of all the projects that build scientific and technical capacities in a responsible and accessible way.
+
+### Community
+Our community value shares its name with this pillar, which also allows us to put into practice our integrity, wellbeing, inclusion, and diversity values. This pillar supports projects that liaise with different communities and generate networks so that the production, communication, and application of scientific and technical knowledge are globally equitable.
+
+### Contextualization
+Based on our values of diversity, autonomy, and versatility, this pillar promotes the development of a Latin American perspective in all the projects where we co-create networks, learning spaces, and resources for Spanish-speaking communities.
 
 ## How We Are Organized
 In light of the diversification and growth we experienced over the past year, at MetaDocencia we designed this concept map, a new organizational chart that institutionalizes our way of working. We did it with an efficient and versatile organizational structure in mind, capable of meeting the challenges ahead. This scheme allows us to identify levels of responsibility, while also aiming to be dynamic enough to promote collaborative work and foster commitment, trust, recognition, and growth opportunities for the people who make up MetaDocencia.
