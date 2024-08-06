@@ -30,4 +30,4 @@ user_groups:
 
 ### Sobre ABRIR
 
-**[ABRIR](https://abrirpsy.org/)** (avance de la ciencia reproducible de grandes equipos a través de una mayor representación, por sus siglas en inglés), nació del deseo de amplificar voces de investigadoras e investigadores en grupos subrepresentados. La idea comenzó a través de un hackathon durante el PSACON en 2021, con el objetivo de diagnosticar barreras y encontrar soluciones desde nuestra perspectiva y con la ayuda de investigadores de todo el mundo para mejorar las ciencias psicológicas.
+Avance de la Ciencia Reproducible de Grandes Equipos a través de una Mayor Representación - **[ABRIR](https://abrirpsy.org/)** (por sus siglas en inglés), nació del deseo de amplificar voces de investigadoras e investigadores en grupos subrepresentados. La idea comenzó a través de un hackathon durante el PSACON en 2021, con el objetivo de diagnosticar barreras y encontrar soluciones desde nuestra perspectiva y con la ayuda de investigadores de todo el mundo para mejorar la investigación en psicología.
