@@ -6,7 +6,7 @@ linktitle: Recorrido para contextualizar CA
 summary: "Cómo trabajamos para diseñar, desarrollar, contextualizar e implementar cohortes virtuales de formación para hispanohablantes abarcando los cinco módulos de Open Science 101"
 title: "¿De qué hablamos cuando hablamos de Contextualización?"
 authors:
-  - irevazano
+  - irenevazano
   - slopez
   - jformoso
   - lacion
