@@ -2,8 +2,8 @@
 date: "2024-07-25"
 draft: false
 type: page
-linktitle: Recorrido para contextualizar CA
-summary: "Cómo trabajamos para diseñar, desarrollar, contextualizar e implementar cohortes virtuales de formación para hispanohablantes abarcando los cinco módulos de Open Science 101"
+linktitle: Contextualización CA
+summary: "Debatimos de forma comunitaria cómo era la mejor manera de nombrarla tarea, pensando en la complejidad de adecuar los contenidos para que representen la identidad de la Ciencia Abierta en Latinoamérica."
 title: "¿De qué hablamos cuando hablamos de Contextualización?"
 authors:
   - irenevazano
