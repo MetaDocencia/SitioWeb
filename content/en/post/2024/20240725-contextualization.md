@@ -54,7 +54,7 @@ Lastly, a form was presented for voting on the term that best represented MetaDo
 **"Contextualization"** was defined as the **ideal term** by the community, **with 54% of the votes**.
 
 <p align="center">
-<img src="https://www.metadocencia.org/img/vot-context-dona.jpg" alt="Donut chart showing the voting options for selecting the term that defined the work to be done: 54% Contextualization, 23% Located translation, 15% Transcultural Adaptation y 8% Localization" width="600px"/>
+<img src="https://www.metadocencia.org/img/vot-context-dona-en.png" alt="Donut chart showing the voting options for selecting the term that defined the work to be done: 54% Contextualization, 23% Located translation, 15% Transcultural Adaptation y 8% Localization" width="600px"/>
 <i><font size="-0.6">Donut chart showing the voting options for selecting the term that defined the work to be done.</font></i>
 </p>
 
