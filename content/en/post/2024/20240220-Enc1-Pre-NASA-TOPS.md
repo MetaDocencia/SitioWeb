@@ -13,7 +13,7 @@ weight: 1
 tags: 
   - MetaDocencia
 categories:
-  - Temas
+  - Topics
 ---
 
 As we [mentioned a few months ago](https://www.metadocencia.org/en/post/nasatops/), in 2024 MetaDocencia will begin teaching principles of Open Science in Spanish through virtual cohorts lasting several weeks. To prepare, we invite everyone in the MetaDocencia community to study the original English content of the [Open Science 101 course](https://openscience101.org/) together, part of the TOPS (Transform to Open Science) initiative organized by NASA. We have prepared a series of articles summarizing our group learning on these topics. In this first edition, we share some **reflections that expand on what we have learned about the “Ethos” of Open Science.**
