@@ -49,3 +49,4 @@ This publication was made possible by a grant from the Chan Zuckerberg Initiativ
 
 *Did you like this post? You can freely reuse it under the license CC by 4.0; you just have to cite it.* 
 This is the quote that we recommend you use to reference it:
+Débora Inés, B., Xhardez, V., & Trogliero, C. (2024). Open Science in Action: Permanent Household Survey Case. Zenodo. https://doi.org/10.5281/zenodo.13256234
