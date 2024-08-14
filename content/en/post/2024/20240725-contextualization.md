@@ -70,3 +70,4 @@ This publication was made possible thanks to a grant from the Chan Zuckerberg In
 *Did you like this post? You can freely reuse it under the license CC by 4.0; you just have to cite it.* 
 
 This is the quote that we recommend you use to reference it: 
+Vazano, I., López, S., Formoso, J., Ación, L., & Xhardez, V. (2024). What do we mean when we talk about Contextualization?. Zenodo. https://doi.org/10.5281/zenodo.13321114
