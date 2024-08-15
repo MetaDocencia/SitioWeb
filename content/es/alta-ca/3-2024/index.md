@@ -1,6 +1,6 @@
 ---
 date: "2024-05-22"
-draft: true
+draft: false
 linktitle: ALTa Ciencia Abierta
 summary: América Latina se Transforma a la Ciencia Abierta. 
 title: "ALTa Ciencia Abierta 3 2024"
