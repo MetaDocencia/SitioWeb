@@ -81,3 +81,4 @@ This publication was made possible thanks to a grant from the Chan Zuckerberg In
 Did you like this publication? You can freely reuse it under a CC BY 4.0 license, just remember to cite it.
 
 Here is the citation we recommend for reference:
+Melissa Black, Nicolás Palopoli (2024). “Exploring NASA-TOPS in Community: Open Source Code”. Zenodo. https://doi.org/10.5281/zenodo.13327595
