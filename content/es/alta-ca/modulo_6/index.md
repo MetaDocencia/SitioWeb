@@ -3,7 +3,7 @@ date: "2024-07-26"
 draft: false
 linktitle: Encuentro 6 ALTa CA
 summary: Materiales del módulo 6 de ALTa CA 2024 
-title: "Hoja de ruta. Encuentro 6 ALTa CA: Plenario de Iniciativas de Ciencia Abierta"
+title: "Hoja de ruta. Encuentro 6: Plenario de Iniciativas de Ciencia Abierta"
 authors:
   - MetaDocencia
 
