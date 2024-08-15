@@ -77,3 +77,4 @@ The development of this document was made possible thanks to a grant awarded by 
 *Did you like this publication? You can freely reuse it under a CC BY 4.0 license, just remember to cite it.* 
 
 Here is the citation we recommend for reference:
+Paz Míguez, Nicolás Palopoli, Laura Ación. (2023). “Learnings and Recommendations for More Inclusive Job Calls”. Zenodo. https://doi.org/10.5281/zenodo.13327107
