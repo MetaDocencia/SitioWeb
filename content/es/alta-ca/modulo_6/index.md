@@ -3,13 +3,13 @@ date: "2024-07-26"
 draft: false
 linktitle: Encuentro 6 ALTa CA
 summary: Materiales del módulo 6 de ALTa CA 2024 
-title: "Hoja de ruta. Encuentro 6 ALTa CA: cierre y plenario"
+title: "Hoja de ruta. Encuentro 6 ALTa CA: Plenario de Iniciativas de Ciencia Abierta"
 authors:
   - MetaDocencia
 
 ---
 
-El encuentro 6 promueve la discusión, el intercambio y el apoyo para obtener la certificación de la NASA, facilitando que quienes no hayan podido completar alguna de las evaluaciones intermedias puedan hacerlo. Además, genera un espacio para el Plenario de Iniciativas de Ciencia Abierta en español, en el que se expondrán, en pocos minutos, iniciativas regionales vinculadas a la Ciencia Abierta.
+Durante el sexto encuentro se desarrolla un Plenario de Iniciativas de Ciencia Abierta en el que quienes participan de la cohorte, como referentes de iniciativas regionales, compartirán sus experiencias y tendrán la posibilidad de intercambiar aprendizajes y quedar en contacto para crear comunidad en torno a intereses comunes. Además, se ofrece un espacio de apoyo para obtener la certificación.
 En este encuentro también culmina la experiencia ALTa Ciencia Abierta, dando detalles a quienes participan sobre cómo serán las próximas comunicaciones y cómo y cuándo recibirán las certificaciones, además de continuar participando de la comunidad metadocente. 
 
 
