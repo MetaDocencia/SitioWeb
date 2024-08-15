@@ -7,7 +7,7 @@ title: "ALTa Ciencia Abierta 2 2024"
 authors:
   - MetaDocencia
 type: cursos
-weight: 50
+weight: 20
 tags:
   - Formación vigente
 ---
