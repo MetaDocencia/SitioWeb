@@ -56,14 +56,14 @@ During the meetings, we will reflect on the five NASA TOPS Open Science 101 cour
 ## Schedule
 The first meeting will introduce the key concepts of the module, term definitions, and the importance of contextualization. We will also explain the modality of the meetings and the communication channels. In modules 2 to 5, we will present a case or project with a Latin American perspective to illustrate the recommendations on the subject with contextualized good practices. The sixth meeting is for review and closing: feedback, exchange, discussion, and support to obtain certification.
 
-|  Day/time (UTC-3) | Topic |
+|  Day/time (UTC-3) | Topic (access the Spanish roadmap of each encounter by clicking)|
 | ---:  | :----------- |
-|Sat 08-24 - 9 to 12 | *The Ethos of Open Science* | 
-|Sat 08-31 - 9 to 12 | *Open Tool and Resources* | 
-|Sat 09-07 - 9 to 12 | *Open Data* |
-|Sat 09-14 - 9 to 12 | *Open Code* |
-|Sat 09-21 - 9 to 12 | *Open Results* |
-|Sat 09-28 - 9 to 12 | *Review and closing meeting* |
+|Sat 08-24 - 9 to 12 | *[The Ethos of Open Science](https://www.metadocencia.org/alta-ca/modulo_1/)* | 
+|Sat 08-31 - 9 to 12 | *[Open Tool and Resources](https://www.metadocencia.org/alta-ca/modulo_2/)* | 
+|Sat 09-07 - 9 to 12 | *[Open Data](https://www.metadocencia.org/alta-ca/modulo_3/)* |
+|Sat 09-14 - 9 to 12 | *[Open Code](https://www.metadocencia.org/alta-ca/modulo_4/)* |
+|Sat 09-21 - 9 to 12 | *[Open Results](https://www.metadocencia.org/alta-ca/modulo_5/)* |
+|Sat 09-28 - 9 to 12 | *[Review and closing meeting](https://www.metadocencia.org/alta-ca/modulo_6/)* |
 
 To increase the accessibility of this training, we will record each meeting and share the recording the following day. 
 
