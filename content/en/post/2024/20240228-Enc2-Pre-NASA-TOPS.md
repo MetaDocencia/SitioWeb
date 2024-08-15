@@ -65,6 +65,8 @@ Between January and March 2024, 6 meetings are being held to explore the content
 This publication was made possible thanks to a grant from the Chan Zuckerberg Initiative (DOI: 10.5281/zenodo.7386372) grants from NASA 80NSSC23K0854 (DOI: 10.5281/zenodo.8215455), 80NSSC23K0857 (DOI: 10.5281/zenodo.8250978), and 80NSSC23K0861 (DOI: 10.5281/zenodo.8212072), and the DAF2021-239366 grant and grant DOI https://doi.org/10.37921/522107izqogv from the Chan Zuckerberg Initiative DAF, a fund advised by the Silicon Valley Community Foundation (Funder DOI 10.13039/100014989) and the "Open Cloud Collaborative Project for Latin America and Africa (the Catalyst Project)" grant from the same funder (DOI: https://doi.org/10.5281/zenodo.8431422).
 
 
-Did you like this publication? You can freely reuse it under a CC BY 4.0 license, just remember to cite it.
+*Did you like this publication? You can freely reuse it under a CC BY 4.0 license, just remember to cite it.*
 
 Here is the citation we recommend for reference:
+
+Melissa Black, Nicolás Palopoli (2024). “Exploring NASA-TOPS in community: Open Tools and Resources”. Zenodo. https://doi.org/10.5281/zenodo.13328485
