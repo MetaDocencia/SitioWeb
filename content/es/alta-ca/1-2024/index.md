@@ -55,7 +55,7 @@ Cada cohorte tendrá **6 encuentros sincrónicos online, con frecuencia semanal 
 Durante los encuentros reflexionaremos sobre cada uno de los cinco módulos del curso de Introducción a la Ciencia Abierta de la NASA. Incluirán actividades destinadas a promover el intercambio, discutir entre pares en salas de trabajo, y presentar iniciativas o proyectos de quienes asistan.
 
 ## Cronograma
-En el primer encuentro se presentarán los conceptos claves del módulo, definiciones de términos y la importancia de la contextualización. También se define la modalidad de los encuentros, canales de comunicación y colaboración. En los módulos 2 a 5 se presentará un caso o proyecto con perspectiva latinoamericana para ilustrar las recomendaciones sobre el tema con buenas prácticas contextualizadas. El sexto encuentro es de repaso y cierre: devoluciones, intercambio, discusión y apoyo para obtener la certificación.
+En el primer encuentro se presentarán los conceptos claves del módulo, definiciones de términos y la importancia de la contextualización. También se define la modalidad de los encuentros, canales de comunicación y colaboración. En los módulos 2 a 5 se presentará un caso o proyecto con perspectiva latinoamericana para ilustrar las recomendaciones sobre el tema con buenas prácticas contextualizadas. El sexto encuentro se desarrolla un Plenario de Iniciativas de Ciencia Abierta  en el que quienes participan de la cohorte, como referentes de iniciativas regionales, compartirán sus experiencias y tendrán la posibilidad de intercambiar aprendizajes y quedar en contacto para crear comunidad en torno a intereses comunes. Además, se ofrece un espacio de apoyo para obtener la certificación.
 
 |  Día/hora (UTC-3) | Tema (click para ver la Hoja de Ruta con contenidos y cronograma por módulo) |
 | ---:  | :----------- |
@@ -64,7 +64,7 @@ En el primer encuentro se presentarán los conceptos claves del módulo, definic
 |Mié 10-07 - 16 a 19 | [*Datos Abiertos*](https://www.metadocencia.org/alta-ca/modulo_3/) |
 |Mié 17-07 - 16 a 19 | [*Código Abierto*](https://www.metadocencia.org/alta-ca/modulo_4/) |
 |Mié 24-07 - 16 a 19 | [*Resultados abiertos*](https://www.metadocencia.org/alta-ca/modulo_5/) |
-|Mié 31-07 - 16 a 19 | [*Encuentro de repaso y cierre*](https://www.metadocencia.org/alta-ca/modulo_6/) |
+|Mié 31-07 - 16 a 19 | [*Plenario de Iniciativas de Ciencia Abierta*](https://www.metadocencia.org/alta-ca/modulo_6/) |
 
 Para aumentar la accesibilidad de esta formación, grabaremos cada encuentro y compartiremos su grabación al día siguiente. 
 
