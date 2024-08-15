@@ -54,7 +54,7 @@ Each cohort will have **one 3-hour-long synchronous online meeting per week duri
 During the meetings, we will reflect on the five NASA TOPS Open Science 101 course modules. They will include activities to promote exchange, discussion among peers in breakout rooms, and presentation of initiatives or projects of those who attend.
 
 ## Schedule
-The first meeting will introduce the key concepts of the module, term definitions, and the importance of contextualization. We will also explain the modality of the meetings and the communication channels. In modules 2 to 5, we will present a case or project with a Latin American perspective to illustrate the recommendations on the subject with contextualized good practices. The sixth meeting is for review and closing: feedback, exchange, discussion, and support to obtain certification.
+The first meeting will introduce the key concepts of the module, term definitions, and the importance of contextualization. We will also explain the modality of the meetings and the communication channels. In modules 2 to 5, we will present a case or project with a Latin American perspective to illustrate the recommendations on the subject with contextualized good practices. The sixth meeting is a Plenary of Open Science Initiatives in which the participants of the cohort, as leaders of regional initiatives, will share their experiences and will have the opportunity to exchange ideas and learnings and get in touch with each other to create a community around common interests. In addition, a support space is offered to obtain certification.
 
 |  Day/time (UTC-3) | Topic (access the Spanish roadmap of each encounter by clicking)|
 | ---:  | :----------- |
