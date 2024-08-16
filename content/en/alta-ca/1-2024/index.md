@@ -63,7 +63,7 @@ The first meeting will introduce the key concepts of the module, term definition
 |Mié 10-07 - 16 to 19 | *Open Data* |
 |Mié 17-07 - 16 to 19 | *Open Code* |
 |Mié 24-07 - 16 to 19 | *Open Results* |
-|Mié 31-07 - 16 to 19 | *Review and closing meeting* |
+|Mié 31-07 - 16 to 19 | *Plenary of Open Science Initiatives* |
 
 To increase the accessibility of this training, we will record each meeting and share the recording the following day. 
 
