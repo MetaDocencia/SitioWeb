@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 5  # Order that this section will appear.
 
-# title = "Co-creando y enseñando ciencia abierta"
+# title = "Co-creando y enseñando Ciencia Abierta"
 
 title = "ALTa Ciencia Abierta"
 
@@ -39,7 +39,7 @@ hero_media = "MD_original.png"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
  [cta]
- url = "https://www.metadocencia.org/alta-ca/2-2024/"
+ url = "https://www.metadocencia.org/alta-ca/3-2024/"
  label = "Más información y registro"
  icon_pack = "fab"
  icon = "Súmate a nuestras propuestas de formación gratuitas y online"
