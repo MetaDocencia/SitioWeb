@@ -86,7 +86,7 @@ Además, entregaremos un certificado de asistencia de MetaDocencia a quienes par
 
 Pero tenemos buenas noticias: puedes inscribirte en la próxima edición que será los jueves 17, 24, 31 de octubre y 7, 14 y 21 de noviembre de 14 a 17(UTC-3) en este formulario:
 
-**[FORMULARIO DE INSCRIPCIÓN](http://tiny.cc/ALTa_CA3_Inscripciones)** 
+**[FORMULARIO DE INSCRIPCIÓN](https://docs.google.com/forms/d/e/1FAIpQLSdVAaIsWEBinh7v-lptjON6G9XlEOZULp3wwfmXHYAfK7U5_w/viewform)** 
 
 *Todos los datos se manejarán en forma confidencial, sólo podrán ser publicados de forma agregada y anonimizada en reportes sobre el alcance de MetaDocencia.*
 
