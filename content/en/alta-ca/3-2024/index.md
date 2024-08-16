@@ -63,7 +63,7 @@ The first meeting will introduce the key concepts of the module, term definition
 |Thursday 10-31 - 14 to 17 | *[Open Data](https://www.metadocencia.org/alta-ca/modulo_3/)* |
 |Thursday 11-07 - 14 to 17 | *[Open Code](https://www.metadocencia.org/alta-ca/modulo_4/)* |
 |Thursday 11-14 - 14 to 17 | *[Open Results](https://www.metadocencia.org/alta-ca/modulo_5/)* |
-|Thursday 11-21 - 14 to 17 | *[Review and closing meeting](https://www.metadocencia.org/alta-ca/modulo_6/)* |
+|Thursday 11-21 - 14 to 17 | *[Plenary of Open Science Initiatives](https://www.metadocencia.org/alta-ca/modulo_6/)* |
 
 To increase the accessibility of this training, we will record each meeting and share the recording the following day. 
 
