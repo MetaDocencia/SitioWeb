@@ -82,8 +82,11 @@ Además, entregaremos un certificado de asistencia de MetaDocencia a quienes par
 ¿Te vienen bien cualquiera de nuestros contenidos? ¡Sírvete sin culpa! Nuestros materiales están disponibles en forma gratuita bajo [licencia CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es) Es decir, puedes reusar o editar cualquier material que aparece encima de estas líneas, lo único que pedimos a cambio es que incluyas una referencia a esta página web. Para más información, escríbenos a formacion@metadocencia.org.
 
 ## Cómo participar
+¡Los lugares para esta formación se han agotado!
 
-**[FORMULARIO DE INSCRIPCIÓN](https://docs.google.com/forms/d/e/1FAIpQLSey9EUhXR6LLei1rjACpBGUkohrFc1AjJj1UK3qwm0mI-UhlA/viewform)** 
+Pero tenemos buenas noticias: puedes inscribirte en la próxima edición que será los jueves 17, 24, 31 de octubre y 7, 14 y 21 de noviembre de 14 a 17(UTC-3) en este formulario:
+
+**[FORMULARIO DE INSCRIPCIÓN](http://tiny.cc/ALTa_CA3_Inscripciones)** 
 
 *Todos los datos se manejarán en forma confidencial, sólo podrán ser publicados de forma agregada y anonimizada en reportes sobre el alcance de MetaDocencia.*
 
