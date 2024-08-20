@@ -3,7 +3,7 @@ date: "2024-01-16"
 draft: false
 linktitle: Encuentro 1 ALTa CA
 summary: Materiales del módulo 1 de ALTa CA 1 2024 
-title: "Hoja de ruta. Encuentro 1 ALTa CA: el Ethos de la Ciencia Abierta"
+title: "Hoja de ruta. Encuentro 1 ALTa CA: Principios de la Ciencia Abierta"
 authors:
   - MetaDocencia
 
@@ -19,26 +19,27 @@ A partir de los contenidos que plantea el [MOOC de NASA TOPS](https://github.com
 4. Reconocer los desafíos que implican las prácticas de Ciencia Abierta en el marco de su aplicación en nuestro contexto.
 5. Reflexionar sobre los miedos que suscita la aplicación de las prácticas de Ciencia Abierta y construir colaborativamente estrategias para su mitigación. 
 
+
 ## Cronograma
 |  Hora | Actividad | Duración |
 | ---:  | :----------- | :----------- |
 |-00:15 | Tiempo previo para conectarse | 
 |00:00 | Bienvenida e información general | 5 mins |
-|00:05 | **Ejercicio 1.** Presentación de las personas | 5 mins |
-|00:10 | Presentación de contenidos: Ethos de la Ciencia Abierta (1era parte)  | 10 mins |
-|00:20 | **Ejercicio 2.** Breve encuesta | 8 mins |
-|00:25 | Presentación de contenidos: Ethos de la Ciencia Abierta (2da parte)  | 10 mins |
-|00:35 | **Ejercicio 3.** Actividad en grupos | 12 mins |
+|00:05 | **Ejercicio 1.** Presentación de las personas | 10 mins |
+|00:15 | Bloque 1. Principios de la Ciencia Abierta   | 20 mins |
+|00:35 | **Ejercicio 2.** Actividad en grupos | 15 mins |
 |00:50 | *Pausa* | 5 mins |
-|00:55 | Presentación de contenidos: Beneficios y ventajas de la ciencia abierta | 15 mins |
-|01:10 | **Ejercicio 4.** Breve encuesta | 5 mins |
-|01:15 | Presentación de contenidos: Desafíos de la Ciencia Abierta | 15 mins |
-|01:30 | **Ejercicio 5.** Reflexión (Chat y micrófono abierto) | 15 mins |
-|01:45 | *Pausa* | 5 mins |
-|01:50 | Presentación de contenidos: preocupaciones y formas de mitigarlas | 10 mins |
-|02:05 | **Ejercicio 6.** Actividad en Grupos | 10 mins |
-|02:20 | Cierre | 5 mins |
-|02:25 | **Actividad de cierre** Certificación | 35 mins |
+|00:55 | Bloque 2. Beneficios y ventajas de la Ciencia Abierta  | 15 mins |
+|01:10 | **Ejercicio 3.** Breve encuesta | 5 mins |
+|01:15 | Desafíos de la Ciencia Abierta | 15 mins |
+|01:30 | **Ejercicio 4.** Reflexión | 10 mins |
+|01:40 | *Pausa* | 5 mins |
+|01:55 | Bloque 3. Preocupaciones y formas de mitigarlas | 15 mins |
+|02:10 | **Ejercicio 5.** Breve encuesta | 5 mins |
+|02:15 | Preocupaciones y formas de mitigarlas  (2da parte) | 15 mins |
+|02:40 | Próximos pasos | 5 mins |
+|02:45 | Encuesta anónima | 5 mins |
+|02:40 | Evaluación de contenidos para la certificación | 15 mins |
 
 ## Materiales
 
