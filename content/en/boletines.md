@@ -1,6 +1,7 @@
 ---
 title: Newsletters
 ---
+- [ALTa Ciencia Abierta ¡2! 🎬 | Notes from MetaDocencia N° 18](https://mailchi.mp/16cb6458db00/construyendo-en-comunidad-newsletter-n-17443204)
 - [ALTa community 🤗 | Notes from MetaDocencia N° 17](https://mailchi.mp/34a86eebea9f/construyendo-en-comunidad-newsletter-n-17412848)
 - [Open Science in Action 🌠 | Notes From MetaDocencia N° 16](https://mailchi.mp/9ff5e5d243ab/construyendo-en-comunidad-newsletter-n-17297684)
 - [ALTa Ciencia Abierta 🔝 | Notes from MetaDocencia N° 15](https://us19.campaign-archive.com/?e=__test_email__&u=92fb89ce82f9689a3b083bb35&id=8136580226)
