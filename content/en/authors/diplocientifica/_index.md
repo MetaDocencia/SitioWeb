@@ -15,7 +15,7 @@ social:
   link: https://twitter.com/DiploCientifica
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/diplo-cient%C3%ADfica-7883b71b5?challengeId=AQHQH0GY-LiTRgAAAXRKJpTUAeVdf9ZayW3wgMO2QE97268pj6ysTP9E3AmcT_RZkL164D9TthnVePIPnTvUT4_8oTJMHG-Bbw&submissionId=837a5628-73b0-3016-4435-8bba0b29bd2c
+  link: https://www.linkedin.com/in/diplo-cient%C3%ADfica-7883b71b5/
 - icon: globe
   icon_pack: fas
   link: https://www.instagram.com/diplocientifica/
@@ -29,7 +29,7 @@ user_groups:
 
 ### Learn more
 
-{{< youtube XhqqjPWBrFU?si=J_7svauNANke5Ca6 >}} 
+{{< youtube XhqqjPWBrFU >}} 
 
 ### About DiploCientifica
 

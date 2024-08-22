@@ -26,7 +26,7 @@ user_groups:
 
 ### Conócela en este video
 
-{{< youtube XhqqjPWBrFU?si=J_7svauNANke5Ca6 >}} 
+{{< youtube XhqqjPWBrFU >}} 
 
 ### Sobre DiploCientifica
 
