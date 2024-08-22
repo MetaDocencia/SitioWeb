@@ -13,6 +13,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/DiploCientifica
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/diplo-cient%C3%ADfica-7883b71b5/
 - icon: globe
   icon_pack: fas
   link: https://www.instagram.com/diplocientifica/
