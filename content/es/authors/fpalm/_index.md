@@ -1,0 +1,33 @@
+---
+authors:
+- fpalm
+bio: ""
+email: "fpalm@qu4nt.com"
+interests:
+- Datos Abiertos
+- Información geoespacial
+- Ciencia de Datos
+- Simulación de Sistemas
+- Management Science
+name: Francisco Javier Palm Rojas
+weight: 6
+organizations:
+- name: Consejo Nacional de Humanidades, Ciencias y Tecnologías: Guadalajara, Jalisco, MX
+role: 
+social:
+- icon: envelope
+  icon_pack: fas
+  link: "fpalm@qu4nt.com"
+- icon: twitter
+  icon_pack: fab
+  link: https://x.com/mapologo
+- icon: github
+  icon_pack: fab
+  link: https://github.com/map0logo
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/fpalm
+superuser: false
+user_groups:
+- Colaboradores externos
+---
