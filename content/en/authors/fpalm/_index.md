@@ -17,7 +17,7 @@ role:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "fpalm@qu4nt.com"
+  link: "mailto:fpalm@qu4nt.com"
 - icon: twitter
   icon_pack: fab
   link: https://x.com/mapologo
