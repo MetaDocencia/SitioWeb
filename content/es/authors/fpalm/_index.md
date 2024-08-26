@@ -12,7 +12,7 @@ interests:
 name: Francisco Javier Palm Rojas
 weight: 6
 organizations:
-- name: Consejo Nacional de Humanidades, Ciencias y Tecnologías: Guadalajara, Jalisco, MX
+- name: University of The Andes - Mérida, VE
 role: 
 social:
 - icon: envelope
