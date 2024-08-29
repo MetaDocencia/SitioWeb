@@ -43,7 +43,7 @@ A partir de los contenidos que plantea el [MOOC de NASA TOPS](https://github.com
 
 ## Materiales
 
-- Presentación: https://doi.org/10.5281/zenodo.12533245
+- Presentación: http://tiny.cc/presentacionPrincipios
 - [Video de una edición sincrónica](https://us02web.zoom.us/rec/share/2qDjiLtq5l6jt7NwQVXCikhJvdGOo7yTq3XH_SL4N5SveIgiEQ73lVo6W-bi3L8M.mknajnA8KBSKTVMd)
   
 ### ¡Sírvete sin culpa!
