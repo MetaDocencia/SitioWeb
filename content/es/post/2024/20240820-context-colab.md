@@ -110,3 +110,4 @@ Esta publicación fue posible gracias a un subsidio de Chan Zuckerberg Initiativ
 *¿Te gustó esta publicación? Puedes reutilizarla libremente bajo licencia CC by 4.0, solo tienes que citarla.* 
 
 Esta es la cita que te recomendamos usar para referenciarla:
+Alejandra Daniela Calero, Irene Vazano, Laura Ación, Laurel Ascenzi, María Jimena Vera, Nicolás Palopoli, Pablo Vázquez, Sabrina López, Vanesa Romina Ruiz, Verónica Xhardez (2024). La experiencia colaborativa de la primera contextualización al español del curso introductorio a la Ciencia Abierta desarrollado por la NASA. Zenodo. https://doi.org/10.5281/zenodo.13614593
