@@ -56,7 +56,7 @@ Además, se les facilitó un glosario inicial (una planilla en nuestro almacenam
 Las preguntas que surgieron durante el proceso las canalizamos [vía Slack](https://w3id.org/metadocencia/slack) para que todo el equipo pudiera participar y estuviera al tanto de las últimas decisiones. Con el uso de esta herramienta se buscó lograr consenso para relevar y definir el uso de términos específicos y evitar ambigüedades. Estos consensos se fueron plasmando en el glosario para su consulta y documentación posterior.
 
 <p align="center">
-<img src="https://www.metadocencia.org/img,jpgcontext-colab1.jpg" alt="Ejemplo de mensaje en el Slack de MetaDocencia, durante el proceso de contextualización." width="600px"/>
+<img src="https://www.metadocencia.org/img/context-colab1.jpg" alt="Ejemplo de mensaje en el Slack de MetaDocencia, durante el proceso de contextualización." width="600px"/>
 <i><font size="-0.6">Ejemplo de mensaje en el Slack de MetaDocencia, durante el proceso de contextualización.</font></i>
 </p>
 
@@ -65,7 +65,7 @@ Dentro de los acuerdos que logramos se encuentran formatos de traducción de nom
 El trabajo de revisión consistió en aprobar las traducciones realizadas por otros miembros del equipo o hacer las correcciones necesarias y aprobarlas en la plataforma Crowdin. Además incluyó la verificación de los enlaces a sitios de internet en el texto, corregirlos en caso de detectar el error o sugerir otros más adecuados al contexto hispanoparlante. 
 
 <p align="center">
-<img src="https://www.metadocencia.org/img,jpgcontext-colab2.jpg" alt="Otro ejemplo de uso de Slack para construir acuerdos de traducción concernientes al uso del español con género neutro." width="600px"/>
+<img src="https://www.metadocencia.org/context-colab2.jpg" alt="Otro ejemplo de uso de Slack para construir acuerdos de traducción concernientes al uso del español con género neutro." width="600px"/>
 <i><font size="-0.6">Otro ejemplo de uso de Slack para construir acuerdos de traducción concernientes al uso del español con género neutro.</font></i>
 </p>
 
