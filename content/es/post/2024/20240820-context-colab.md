@@ -56,7 +56,7 @@ Además, se les facilitó un glosario inicial (una planilla en nuestro almacenam
 Las preguntas que surgieron durante el proceso las canalizamos [vía Slack](https://w3id.org/metadocencia/slack) para que todo el equipo pudiera participar y estuviera al tanto de las últimas decisiones. Con el uso de esta herramienta se buscó lograr consenso para relevar y definir el uso de términos específicos y evitar ambigüedades. Estos consensos se fueron plasmando en el glosario para su consulta y documentación posterior.
 
 <p align="center">
-<img src="https://www.metadocencia.org/img/context-colab1.jpg" alt="Ejemplo de mensaje en el Slack de MetaDocencia, durante el proceso de contextualización." width="600px"/>
+<img src="https://www.metadocencia.org/context-colab1.jpg" alt="Ejemplo de mensaje en el Slack de MetaDocencia, durante el proceso de contextualización." width="600px"/>
 <i><font size="-0.6">Ejemplo de mensaje en el Slack de MetaDocencia, durante el proceso de contextualización.</font></i>
 </p>
 
