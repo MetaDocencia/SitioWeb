@@ -50,7 +50,7 @@ El encuentro 4 busca cubrir, revisar y reflexionar sobre el módulo 4 planteado 
 
 ## Materiales
 
-- Presentación: https://doi.org/10.5281/zenodo.12752353
+- Presentación: [http://tiny.cc/presentacionCodigo](http://tiny.cc/presentacionCodigo)
 - [Video de una edición sincrónica](https://us02web.zoom.us/rec/play/HvHwMGGpv9ElqkJI80kWy7wzqFs6O0ETXCVuly1uF7LQnrm0-xqenekK-LOIhQyoTFKp47R8bJsWfedW.GD_HKMds6srKlhlv?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus02web.zoom.us%2Frec%2Fshare%2FmIhrDdoj0ddXflffqNafhmOk3XzBoK5UJnemC3_dTpBhADuA5JTgL6UivP_7qZvz.LDa7aIakCGW15LEG)
   
 ### ¡Sírvete sin culpa!
