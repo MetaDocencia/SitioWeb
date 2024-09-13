@@ -21,32 +21,29 @@ El encuentro 4 busca cubrir, revisar y reflexionar sobre el módulo 4 planteado 
 |  Hora | Actividad | Duración |
 | ---:  | :----------- | :----------- |
 |-00:15 | Tiempo previo para conectarse | 
-|00:05 | Bienvenida e información general | 5 mins |
-|00:10 | Nos presentamos | 5 mins |
-|00:15 | Breve repaso encuentro anterior | 5 mins |
-|00:20 | Bloque 1. ¿Qué es el software de Código Abierto? | 5 mins |
-|00:25 | Principios del Código Abierto | 5 mins |
-|00:30 | Beneficios y desafíos  | 5 mins |
-|00:35 | Ejercicio 1 - Actividad en grupos | 15 mins |
-|00:50 | Recapitulando | 2 mins |
-|00:52 | *Pausa* | 5 mins |
-|00:57 | Bloque 2. Componentes del Plan de Gestión de Software | 15 mins |
-|01:12 | Ejercicio 2 - Encuesta de Zoom | 5 mins |
-|01:17 | Demostración: GitHub y Zenodo | 10 mins |
-|01:27 | ¿Cómo compartir? | 5 mins |
-|01:32 | ¿Quiénes participan y cómo? | 5 mins |
-|01:37 | Ejercicio 3 - Encuesta de Zoom | 5 mins |
-|01:42 | Recapitulando | 2 mins |
-|01:44 | *Pausa* | 5 mins |
-|01:49 | Bloque 3. Buenas prácticas | 15 mins |
-|02:04 | Ejercicio 4 - Encuesta por chat | 3 mins |
-|02:07 | Comunidades | 10 mins |
-|02:17 | Ejemplo de Proyecto de Código Abierto | 5 mins |
-|02:22 | Ejercicio 5 - Actividad en grupos | 15 mins |
-|02:37 | Recapitulando | 2 mins |
-|02:39 | Encuesta de valoración | 5 mins |
-|02:44 | Evaluación de contenidos | 10 mins |
-|02:54 | Cierre | 6 mins |
+|00:00 | Bienvenida e información general | 10 mins |
+|00:10 | **Bloque 1.** ¿Qué es el software de Código Abierto? | 5 mins |
+|00:15 | Principios del Código Abierto | 5 mins |
+|00:20 | Ejercicio 1. Encuesta de Zoom | 5 mins |
+|00:25 | Beneficios y desafíos | 10 mins |
+|00:35 | Ejercicio 2. Actividad en grupo  | 15 mins |
+|00:50 | Recapitulando | 5 mins |
+|00:55 | *Pausa* | 5 mins |
+|01:00 | **Bloque 2.** Plan de Gestión de Software | 5 mins |
+|01:15 | Demostración: GitHub y Zenodo | 10 mins |
+|01:25 | Ejercicio 3. Encuesta de Zoom | 5 mins |
+|01:30 | ¿Cómo compartir? ¿Quiénes participan? - Ejemplo | 5 mins |
+|01:35 | Ejercicio 4. Encuesta de Zoom | 5 mins |
+|01:40 | Recapitulando | 5 mins |
+|01:45 | *Pausa* | 5 mins |
+|01:50 | **Bloque 3.** Buenas prácticas | 15 mins |
+|02:05 | Ejercicio 5. Actividad pot chat | 5 mins |
+|02:10 | Comunidades | 10 mins |
+|02:20 | Ejemplo de Proyecto de Código Abierto | 5 mins |
+|02:25 | Ejercicio 6. Actividad en grupos | 15 mins |
+|02:40 | Recapitulando | 3 mins |
+|02:43 | Encuesta anónima de valoración | 5 mins |
+|02:50 | Evaluación de contenidos para la certificación | 10 mins |
 
 ## Materiales
 
