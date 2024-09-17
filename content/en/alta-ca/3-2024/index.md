@@ -58,7 +58,7 @@ The first meeting will introduce the key concepts of the module, term definition
 
 |  Day/time (UTC-3) | Topic (access the Spanish roadmap of each encounter by clicking)|
 | ---:  | :----------- |
-|Thursday 10-17 - 14 to 17 | *[The Ethos of Open Science](https://www.metadocencia.org/alta-ca/modulo_1/)* | 
+|Thursday 10-17 - 14 to 17 | *[Principles of Open Science](https://www.metadocencia.org/alta-ca/modulo_1/)* | 
 |Thursday 10-24 - 14 to 17 | *[Open Tool and Resources](https://www.metadocencia.org/alta-ca/modulo_2/)* | 
 |Thursday 10-31 - 14 to 17 | *[Open Data](https://www.metadocencia.org/alta-ca/modulo_3/)* |
 |Thursday 11-07 - 14 to 17 | *[Open Code](https://www.metadocencia.org/alta-ca/modulo_4/)* |
