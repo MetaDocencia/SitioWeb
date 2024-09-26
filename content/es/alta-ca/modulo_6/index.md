@@ -24,7 +24,7 @@ En este encuentro también culmina la experiencia ALTa Ciencia Abierta, dando de
 | ---:  | :----------- | :----------- |
 |-00:15 | Tiempo previo para conectarse | 
 |00:00 | Bloque 1. Bienvenida y explicación de la dinámica del día | 15 mins |
-|00:15 | Sala 1. Plenario de Iniciativas de Ciencia Abierta. Exposición e Intercambio alrededor de experiencias. | Sala 2. Apoyo para la certificación. Espacio de apoyo adicional para responder los 5 cuestionarios de evaluación. | 45 mins |
+|00:15 | Plenario de Iniciativas de Ciencia Abierta. Exposición e Intercambio alrededor de experiencias | 45 mins |
 |01:00 | Pausa | 5 mins |
 |01:05 | Bloque 2. Continúan las actividades | 45 mins |
 |01:50 | Pausa | 5 mins |
@@ -36,7 +36,7 @@ En este encuentro también culmina la experiencia ALTa Ciencia Abierta, dando de
 
 ## Materiales
 
-- Presentación: https://doi.org/10.5281/zenodo.13145527
+- Presentación: 
 - [Video de una edición sincrónica](https://drive.google.com/file/d/15ciyjf7Rw3udNHd9dETXP7pAOjKZ_8wZ/view?usp=drive_link)
   
 ### ¡Sírvete sin culpa!
