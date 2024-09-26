@@ -36,7 +36,7 @@ En este encuentro también culmina la experiencia ALTa Ciencia Abierta, dando de
 
 ## Materiales
 
-- Presentación: 
+- Presentación: [http://tiny.cc/presentacionPlenario-2](http://tiny.cc/presentacionPlenario-2)
 - [Video de una edición sincrónica](https://drive.google.com/file/d/15ciyjf7Rw3udNHd9dETXP7pAOjKZ_8wZ/view?usp=drive_link)
   
 ### ¡Sírvete sin culpa!
