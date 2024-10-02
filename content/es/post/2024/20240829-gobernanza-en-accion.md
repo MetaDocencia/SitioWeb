@@ -3,7 +3,7 @@ date: "2024-08-29"
 draft: false
 type: page
 linktitle: Gobernanza en Acción
-summary: "Por causas de fuerza mayor, tuvimos la necesidad imperiosa y repentina de crear mecanismos para ocupar en forma temporal el puesto de CCA, una figura central en la toma de decisiones y la orientación de la comunidad."
+summary: "Por causas de fuerza mayor, tuvimos la necesidad imperiosa y repentina de crear mecanismos para ocupar en forma temporal el puesto de Chair del Consejo Asesor, una figura central en la toma de decisiones y la orientación de la comunidad."
 title: "Gobernanza en acción"
 authors:
   - rominapendino
