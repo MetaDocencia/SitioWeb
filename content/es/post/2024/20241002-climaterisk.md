@@ -7,7 +7,7 @@ summary: "Determinación de riesgos climáticos utilizando la nube Earthdata de 
 title: "Climaterisk en SciPy 2024"
 authors:
   - patriloto
-  - mrajnewerc
+  - mrajngewerc
   - jformoso
 type: post
 weight: 1
