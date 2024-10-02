@@ -83,9 +83,10 @@ Además, entregaremos un certificado de asistencia de MetaDocencia a quienes par
 
 ## Cómo participar
 
-**[FORMULARIO DE INSCRIPCIÓN](https://docs.google.com/forms/d/e/1FAIpQLSdVAaIsWEBinh7v-lptjON6G9XlEOZULp3wwfmXHYAfK7U5_w/viewform)** 
+*¡Muchas gracias por tu interés en inscribirte a la Cohorte 3 de ALTa Ciencia Abierta!*
 
-*Todos los datos se manejarán en forma confidencial, sólo podrán ser publicados de forma agregada y anonimizada en reportes sobre el alcance de MetaDocencia.*
+**Los lugares para esta formación se han agotado, pero se abrirán nuevas cohortes durante el 2025.
+Te invitamos a [suscribirte al newsletter](https://www.metadocencia.org/suscripcion/) para enterarte de las próximas ediciones.**
 
 ---
 
