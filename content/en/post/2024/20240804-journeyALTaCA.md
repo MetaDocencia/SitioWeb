@@ -6,7 +6,7 @@ linktitle: Journey ALTa CA
 summary: "We share part of the process of designing, developing, contextualizing, and implementing virtual training cohorts for Spanish speakers, covering the five modules of Open Science 101, initially designed for English speakers."
 title: "Our Journey to Contextualize Knowledge and Teach Open Science in Spanish"
 authors:
-  - irevazano
+  - irenevazano
   - jformoso
   - jbuede
   - lacion
