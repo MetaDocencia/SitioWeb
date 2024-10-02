@@ -4,6 +4,7 @@ draft: false
 type: page
 linktitle: climaterisk
 summary: "Determinación de riesgos climáticos utilizando la nube Earthdata de la NASA"
+title: Determinación de riesgos climáticos utilizando la nube Earthdata de la NASA en SciPy 2024
 authors:
   - patriloto
   - mrajnewerc
