@@ -3,8 +3,8 @@ date: "2024-10-02"
 draft: false
 type: page
 linktitle: climaterisk
-summary: "Climaterisk en SciPy 2024"
-title: Determinación de riesgos climáticos utilizando la nube Earthdata de la NASA en SciPy 2024
+summary: "Determinación de riesgos climáticos utilizando la nube Earthdata de la NASA en SciPy 2024"
+title: "Climaterisk en SciPy 2024"
 authors:
   - patriloto
   - mrajnewerc
