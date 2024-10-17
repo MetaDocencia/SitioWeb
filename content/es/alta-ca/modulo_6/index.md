@@ -10,14 +10,14 @@ authors:
 ---
 
 Durante el sexto encuentro se desarrolla un Plenario de Iniciativas de Ciencia Abierta en el que quienes participan de la cohorte, como referentes de iniciativas regionales, compartirán sus experiencias y tendrán la posibilidad de intercambiar aprendizajes y quedar en contacto para crear comunidad en torno a intereses comunes. Además, se ofrece un espacio de apoyo para obtener la certificación.
+
 En este encuentro también culmina la experiencia ALTa Ciencia Abierta, dando detalles a quienes participan sobre cómo serán las próximas comunicaciones y cómo y cuándo recibirán las certificaciones, además de continuar participando de la comunidad metadocente. 
 
+* En la semana siguiente al último encuentro se prevé la realización de 2 horas de oficina optativas en distintos horarios, para acompañar a participantes a completar los pasos necesarios para obtener su certificación final.
 
 ## Objetivos del Encuentro 6
-1. Acompañar a participantes y pasos necesarios para obtener su certificación final.
-2. Fomentar el intercambio y el diálogo alrededor de experiencias e iniciativas sobre Ciencia Abierta a nivel regional, presentadas por quienes participan de la cohorte.
-3. Compartir la misión, los proyectos en marcha y la experiencia de MetaDocencia, a fin de estrechar nuevos lazos y explorar colaboraciones futuras. 
- 
+1. Fomentar el intercambio y el diálogo alrededor de experiencias e iniciativas sobre Ciencia Abierta a nivel regional, presentadas por quienes participan de la cohorte.
+2. Compartir la misión, los proyectos en marcha y la experiencia de MetaDocencia, a fin de estrechar nuevos lazos y explorar colaboraciones futuras.  
 
 ## Cronograma
 |  Hora | Actividad | Duración |
