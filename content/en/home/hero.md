@@ -41,7 +41,7 @@ hero_media = "MD_original.png"
 
 [cta]
  url = "https://www.metadocencia.org/en/formacion/"
- label = "Info and registration"
+ label = "Information"
  icon_pack = "fab"
  icon = "Read more"
 
