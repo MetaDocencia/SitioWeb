@@ -73,7 +73,8 @@ subtitle = ""
 +++
 
 
-Our (remote and free) courses are intended for Spanish-speaking teachers. Our courses are also useful for other knowledge exchanges such as talks, seminars, or conferences. To take part, please enter the section of each course and check the dates and registration form.
+With our open, free and Spanish-language trainings we build scientific and technical capacities in a responsible and accessible way.
 
-We will use the [Zoom](https://zoom.us/) platform. If you are not familiar with it, do not worry, part of what we will do is to help you familiarise with it. You will receive all the instructions you will need in our initial contact email.
+To participate, please complete the registration form within each proposal. Once you register, you will receive an email with all the instructions for you to join the course.
 
+If you have additional questions about training, please write to formacion@metadocencia.org.
