@@ -33,6 +33,8 @@ Para que todas las personas se sientan cómodas y sepan cómo contribuir al inte
 
 **Guía para la participación en el Slack de MetaDocencia: [https://zenodo.org/records/10028137](https://zenodo.org/records/10028137).**
 
+{{< youtube uLOFKXXx >}}
+
 ## Nuevos canales
 
 Con la intención de mejorar la experiencia de toda la comunidad, en 2023 reestructuramos nuestro espacio de Slack incorporando nuevos canales temáticos pensados para facilitar un intercambio más específico y dinámico de recursos, experiencias y discusiones sobre temas que nos interesan.
@@ -46,7 +48,7 @@ Listado de canales con sus descripciones:
 
 🤔 #Preguntero: Canal para acercar dudas y consultas al resto de la comunidad. Sabemos que la mejor manera de aprender, ¡es preguntándole al cerebro colectivo!
 
-🚀 #Oportunidades: Aquí encontrarás ofertas laborales, convocatorias a publicaciones, financiaciones, proyectos colaborativos, etc. ¿Estás organizando o participarás de alguna de estas oportunidades? Compártelo aquí.
+💰 #Oportunidades: Aquí encontrarás ofertas laborales, convocatorias a publicaciones, financiaciones, proyectos colaborativos, etc. ¿Estás organizando o participarás de alguna de estas oportunidades? Compártelo aquí.
 
 🌈 #Accesibilidad: Recursos, ideas y consultas específicas sobre cómo hacer los materiales y experiencias más accesibles para todas las personas.
 
@@ -55,6 +57,8 @@ Listado de canales con sus descripciones:
 🧩 #Eventos: En este canal compartimos información sobre eventos, capacitaciones y workshops en los que te puede interesar participar o encontrarte con colegas de todo el mundo. ¿Estás organizando o participarás de un evento? Compártelo aquí.
 
 🌺 #Proyecto-Polen: Canal para compartir información, recursos y preguntas del Proyecto Polen.
+
+🚀 #alta-ciencia-abierta: Aquí compartimos comentarios, dudas y reflexiones sobre los contenidos de Ciencia Abierta en español de MetaDocencia y NASA-TOPS.
 
 ## Súmate
 
