@@ -34,7 +34,7 @@ Para que todas las personas se sientan cómodas y sepan cómo contribuir al inte
 **Guía para la participación en el Slack de MetaDocencia: [https://zenodo.org/records/10028137](https://zenodo.org/records/10028137).**
 
 **Video tutorial: ¿Cómo sumarte al Slack de MetaDocencia?**
-{{< youtube uLOFKXXx >}}
+{{< youtube uLOFKXXxMec >}}
 
 ## Nuevos canales
 
