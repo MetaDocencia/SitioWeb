@@ -39,8 +39,8 @@ hero_media = "MD_original.png"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
  [cta]
- url = "https://www.metadocencia.org/alta-ca/3-2024/"
- label = "Más información y registro"
+ url = "https://www.metadocencia.org/formacion/"
+ label = "Más información"
  icon_pack = "fab"
  icon = "Súmate a nuestras propuestas de formación gratuitas y online"
 
