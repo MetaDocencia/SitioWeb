@@ -41,7 +41,7 @@ user_groups:
 ---
 **Experience and Track Record**
 
-Jesica has a Bachelor's degree in Psychology from the University of Buenos Aires. She is dedicated to teaching and research, standing out as an organizer of the Buenos Aires chapter of R-Ladies. She is also a certified instructor for RStudio and The Carpentries.
+Jesica is a cognitive psychologist from the University of Buenos Aires and a tenured Research Assistant at CONICET. She is dedicated to teaching and research, standing out as an organizer of the Buenos Aires chapter of R-Ladies. She is also a certified instructor for RStudio and The Carpentries.
 
 As a community organizer at R-Ladies, Jesica promotes diversity and participation of women in the field of data science. 
 Her certification as an instructor reflects her commitment to education and dissemination of data science skills.
