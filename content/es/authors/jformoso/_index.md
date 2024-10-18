@@ -41,7 +41,7 @@ user_groups:
 
 **Experiencia y Trayectoria:**
 
-Jesica es Licenciada en Psicología de la Universidad de Buenos Aires. Se dedica a la docencia y la investigación, destacándose como organizadora del capítulo de Buenos Aires de R-Ladies. Además, es instructora certificada de RStudio y The Carpentries.
+Jesica es Psicóloga cognitiva de la Universidad de Buenos Aires e investigadora asistente de CONICET. Se dedica a la docencia y la investigación, destacándose como organizadora del capítulo de Buenos Aires de R-Ladies. Además, es instructora certificada de RStudio y The Carpentries.
 
 Como organizadora de la comunidad en R-Ladies, Jesica promueve la diversidad y participación de mujeres en el ámbito de la ciencia de datos. 
 Su certificación como instructora refleja su compromiso con la educación y la difusión de habilidades en ciencia de datos.
