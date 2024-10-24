@@ -69,3 +69,4 @@ This publication was made possible by a grant from the Chan Zuckerberg Initiativ
 *Did you like this post? You can freely reuse it under the license CC by 4.0; you just have to cite it.* 
 
 This is the quote that we recommend you use to reference it:
+Vazano, I., Formoso, J., Buede, J., Ación, L., Ascenzi, L., Míguez, M. P., Pendino, R., López, S., & Xhardez, V. (2024). Our Journey to Contextualize Knowledge and Teach Open Science in Spanish. Zenodo. https://doi.org/10.5281/zenodo.13367857
