@@ -11,9 +11,6 @@ name: Melissa Black
 weight: 4
 role: Project Coordinator
 social:
-- icon: envelope
-  icon_pack: fas
-  link: "mailto:mblack@metadocencia.org"
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/melissablck/
