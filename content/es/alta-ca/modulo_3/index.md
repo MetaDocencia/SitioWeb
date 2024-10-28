@@ -29,20 +29,22 @@ El encuentro 3 busca cubrir, revisar y reflexionar sobre el módulo 3 planteado 
 |00:45 | Recapitulando | 5 mins |
 |00:50 | *Pausa* | 5 mins |
 |00:55 | **Bloque 2** Plan de Gestión de Datos (PGD) | 15 mins |
-|01:10 | ¿Qué compartir? - Formatos | 15 mins |
-|01:25 | Ejercicio 2 - Encuesta Zoom | 5 mins |
-|01:30 | Descubrir Datos Abiertos | 5 mins |
-|01:35 | ¿Cuándo compartir datos? | 10 mins |
-|01:45 | Ejercicio 3. Actividad en grupos | 10 mins |
+|01:10 | Ejemplos de aplicaciones y PGD | 5 mins |
+|01:15 | Inspeccionamos DMPonline | 5 mins |
+|01:20 | Ejercicio 2. Actividad en grupos | 10 mins |
+|01:30 | ¿Qué formatos y estándares?  | 10 mins |
+|01:40 | Descubrir Datos Abiertos | 5 mins |
+|01:45 | ¿Cuándo compartir datos? | 10 mins |
+|01:50 | Ejercicio 3. Encuesta Zoom. | 10 mins |
 |01:55 | Recapitulando | 5 mins |
 |02:00 | *Pausa* | 5 mins |
 |02:05 | **Bloque 3**. ¿Dónde compartir los datos? - Repositorios | 5 mins |
-|02:10 | ¿Cómo compartir Datos? Licencias, citas, Metadatos y documentos de acompañamiento | 3 mins |
+|02:10 | ¿Dónde compartir Datos? | 3 mins |
 |02:13 | Inspeccionando un repositorio | 2 mins |
-|02:15 | Metadatos | 3 mins |
-|02:18 | Documentación | 2 mins |
+|02:15 | ¿Cómo compartir Datos? Licencias, citas, Metadatos y documentos de acompañamiento | 2 mins |
+|02:17 | Metadatos | 3 mins |
 |02:20 | ¿Quiénes? - Roles de las personas  responsables de compartir los Datos | 2 mins |
-|02:22 | Ejercicio 4 - Actividad en grupos | 13 mins |
+|02:24 | Ejercicio 4 - Actividad en grupos | 11 mins |
 |02:35 | Recapitulando | 2 mins |
 |02:37 | Próximos pasos | 3 mins |
 |02:40 | Encuesta anónima de valoración | 5 mins |
