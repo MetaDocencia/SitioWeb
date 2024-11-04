@@ -51,7 +51,7 @@ These activities seek findings and methodologies from different groups, ensuring
 - Marcelo Casa Chicata - ORCID: [https://orcid.org/0009-0009-1076-5094](https://orcid.org/0009-0009-1076-5094)
 
 ## Acknowledgments
-This publication was made possible thanks to a grant from the Chan Zuckerberg Initiative (DOI: 10.5281/zenodo.7386372), NASA grants 80NSSC23K0854 (DOI: 10.5281/zenodo.8215455), 80NSSC23K0857 (DOI: 10.5281/zenodo.8250978), and 80NSSC23K0861 (DOI: 10.5281/zenodo.8212072), and grant DAF2021-239366 and subsidy DOI https://doi.org/10.37921/522107izqogv from the Chan Zuckerberg Initiative DAF, an advised fund of the Silicon Valley Community Foundation (Funder DOI 10.13039/100014989), and the grant "Open Cloud Collaborative Project for Latin America and Africa (the Catalyst Project)" from the same funder (DOI: https://doi.org/10.5281/zenodo.8431422).
+This publication was made possible by a grant from the Chan Zuckerberg Initiative (DOI: 10.5281/zenodo.7386372), NASA grants 80NSSC23K0854 (DOI: 10.5281/zenodo.8215455), 80NSSC23K0857 (DOI: 10.5281/zenodo.8250978), and 80NSSC23K0861 (DOI: 10.5281/zenodo.8212072), and grant DAF2021-239366 with DOI https://doi.org/10.37921/522107izqogv from the Chan Zuckerberg Initiative DAF, an advised fund of the Silicon Valley Community Foundation (Funder DOI 10.13039/100014989).
 
 ---
 
