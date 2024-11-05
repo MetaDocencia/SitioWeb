@@ -16,7 +16,7 @@ weight: 1
 tags: 
   - MetaDocencia 
 categories:
-  - Topics
+  - storiesos
 ---
 
 *This is an Open Science in Action Story written by its participants to share the initiative in MetaDocencia channels and beyond. To submit your story, please, [complete the form](https://docs.google.com/forms/d/e/1FAIpQLSfC9eZfIn_rOf4Ist21AHOySWsZ-v4lCn1oN-xW3mJL6kWIeg/viewform) (in Spanish)*
