@@ -6,7 +6,11 @@ linktitle: PsiNet LAB
 summary: "Transforming Psychology with Advanced Science for a Deeper Understanding of Human Behavior"
 title: "Open Science in Action Stories: PsiNet LAB"
 authors:
-  - MetaDocencia
+  - angelgarcia
+  - gleniquispe
+  - alvarozumaran
+  - jefrijusto
+  - marcelocasa
 type: post
 weight: 1
 tags: 
@@ -42,13 +46,7 @@ These activities seek findings and methodologies from different groups, ensuring
 - YouTube: https://www.youtube.com/@PsiNetLAB
 - TikTok: https://www.tiktok.com/@psinet.lab
 - Página Web: https://psinetlab.wordpress.com/
-
-## Authorship:
-- Angel García O’Diana - ORCID: [https://orcid.org/0000-0002-1533-7760](https://orcid.org/0000-0002-1533-7760)
-- Gleni Quispe Callo - ORCID: [https://orcid.org/0000-0003-3994-9523](https://orcid.org/0000-0003-3994-9523)
-- Álvaro Zumarán Baldeón - ORCID: [https://orcid.org/0009-0008-9755-3387](https://orcid.org/0009-0008-9755-3387)
-- Jefri Justo Mamani - ORCID: [https://orcid.org/0009-0008-4122-6715](https://orcid.org/0009-0008-4122-6715)
-- Marcelo Casa Chicata - ORCID: [https://orcid.org/0009-0009-1076-5094](https://orcid.org/0009-0009-1076-5094)
+  
 
 ## Acknowledgments
 This publication was made possible by a grant from the Chan Zuckerberg Initiative (DOI: 10.5281/zenodo.7386372), NASA grants 80NSSC23K0854 (DOI: 10.5281/zenodo.8215455), 80NSSC23K0857 (DOI: 10.5281/zenodo.8250978), and 80NSSC23K0861 (DOI: 10.5281/zenodo.8212072), and grant DAF2021-239366 with DOI https://doi.org/10.37921/522107izqogv from the Chan Zuckerberg Initiative DAF, an advised fund of the Silicon Valley Community Foundation (Funder DOI 10.13039/100014989).
