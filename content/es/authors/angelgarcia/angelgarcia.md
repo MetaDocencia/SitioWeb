@@ -1,11 +1,11 @@
 ---
 authors:
-- autor1
+- Angel García O’Diana
 bio: ""
 email: ""
 interests:
 name: Angel García O’Diana
-role: 
+role: Historias de Ciencia Abierta
 weight: 1
 organizations:
 - name: 
