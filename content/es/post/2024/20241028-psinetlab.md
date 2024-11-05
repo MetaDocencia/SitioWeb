@@ -6,7 +6,7 @@ linktitle: PsiNet LAB
 summary: "Transformando la psicología con ciencia avanzada para una comprensión más profunda del comportamiento humano"
 title: "Historias de Ciencia Abierta en Acción: PsiNet LAB"
 authors:
-  - MetaDocencia
+  - autor1
 type: post
 weight: 1
 tags: 
