@@ -7,6 +7,10 @@ summary: "Transformando la psicología con ciencia avanzada para una comprensió
 title: "Historias de Ciencia Abierta en Acción: PsiNet LAB"
 authors:
   - angelgarcia
+  - gleniquispe
+  - alvarozumaran
+  - jefrijusto
+  - marcelocasa
 type: post
 weight: 1
 tags: 
