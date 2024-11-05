@@ -12,7 +12,7 @@ weight: 1
 tags: 
   - 
 categories:
-  - Temas
+  - Historias de Ciencia Abierta en acción
 ---
 
 ### Autorías

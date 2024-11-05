@@ -1,6 +1,6 @@
 ---
 authors:
-- Angel García O’Diana
+- angelgarcia
 bio: ""
 email: ""
 interests:
