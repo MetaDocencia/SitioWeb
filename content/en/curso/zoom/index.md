@@ -13,7 +13,7 @@ authors:
 type: course
 tags:
  - Former trainings
-weight: 40
+weight: 50
 ---
 
 **This workshop will be offered in Spanish. [Dates and registration form (in Spanish)](https://www.metadocencia.org/curso/zoom/)**

@@ -7,7 +7,7 @@ title: "ALTa Ciencia Abierta 3 2024"
 authors:
   - MetaDocencia
 type: course
-weight: 50
+weight: 30
 tags:
   - Upcoming trainings
 ---

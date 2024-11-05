@@ -10,7 +10,7 @@ title: Present! Resources for Active Meetings
 authors: 
     - "MetaDocencia"
 type: course
-weight: 1
+weight: 10
 tags:
   - Former trainings
 ---

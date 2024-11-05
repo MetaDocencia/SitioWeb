@@ -10,7 +10,7 @@ title: Social Impacts of Artificial Intelligence
 authors: 
     - "Laura Ación, Laura Alonso Alemany, Luciana Benotti"
 type: course
-weight: 1
+weight: 35
 tags:
   - Former trainings
 ---
