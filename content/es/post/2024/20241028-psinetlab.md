@@ -15,7 +15,13 @@ categories:
   - Temas
 ---
 
-*Esta es una Historia de Ciencia Abierta en Acción escrita por sus representantes para  compartir la iniciativa en canales de MetaDocencia y más allá. Si quieres enviar tu historia, [completa el formulario](https://docs.google.com/forms/d/e/1FAIpQLSfC9eZfIn_rOf4Ist21AHOySWsZ-v4lCn1oN-xW3mJL6kWIeg/viewform).*
+### Autorías
+- Angel García O’Diana - ORCID: [https://orcid.org/0000-0002-1533-7760](https://orcid.org/0000-0002-1533-7760)
+- Gleni Quispe Callo - ORCID: [https://orcid.org/0000-0003-3994-9523](https://orcid.org/0000-0003-3994-9523)
+- Álvaro Zumarán Baldeón - ORCID: [https://orcid.org/0009-0008-9755-3387](https://orcid.org/0009-0008-9755-3387)
+- Jefri Justo Mamani - ORCID: [https://orcid.org/0009-0008-4122-6715](https://orcid.org/0009-0008-4122-6715)
+- Marcelo Casa Chicata - ORCID: [https://orcid.org/0009-0009-1076-5094](https://orcid.org/0009-0009-1076-5094)
+
 
 ## ¿De qué se trata PsiNet LAB?
 PsiNet LAB es una organización de investigación psicológica que se dedica a generar conocimiento científico de vanguardia en el campo de la psicología, con el compromiso de aplicar este conocimiento de manera práctica para mejorar la salud mental y el bienestar de la sociedad. A través de un enfoque interdisciplinario y colaborativo, integra diversas perspectivas para abordar problemas urgentes y emergentes. El trabajo abarca desde la investigación básica hasta la implementación de intervenciones que buscan promover el bienestar humano y un desarrollo sostenible. Para ello, utiliza los últimos avances metodológicos, como el análisis de redes, análisis de multiversos, marcos bayesianos, machine learning e IA, para responder a preguntas fundamentales sobre el comportamiento humano basados en la teoría de la complejidad. Además, mantiene un firme compromiso con la accesibilidad y la transparencia en la ciencia, compartiendo abiertamente sus hallazgos para contribuir al avance colectivo del conocimiento.
@@ -43,14 +49,8 @@ Estas actividades buscan acercar los hallazgos y metodologías a diferentes grup
 - YouTube: https://www.youtube.com/@PsiNetLAB
 - TikTok: https://www.tiktok.com/@psinet.lab
 - Página Web: https://psinetlab.wordpress.com/
- 
 
-## Autorías
-- Angel García O’Diana - ORCID: [https://orcid.org/0000-0002-1533-7760](https://orcid.org/0000-0002-1533-7760)
-- Gleni Quispe Callo - ORCID: [https://orcid.org/0000-0003-3994-9523](https://orcid.org/0000-0003-3994-9523)
-- Álvaro Zumarán Baldeón - ORCID: [https://orcid.org/0009-0008-9755-3387](https://orcid.org/0009-0008-9755-3387)
-- Jefri Justo Mamani - ORCID: [https://orcid.org/0009-0008-4122-6715](https://orcid.org/0009-0008-4122-6715)
-- Marcelo Casa Chicata - ORCID: [https://orcid.org/0009-0009-1076-5094](https://orcid.org/0009-0009-1076-5094)
+*Esta es una Historia de Ciencia Abierta en Acción escrita por sus representantes para  compartir la iniciativa en canales de MetaDocencia y más allá. Si quieres enviar tu historia, [completa el formulario](https://docs.google.com/forms/d/e/1FAIpQLSfC9eZfIn_rOf4Ist21AHOySWsZ-v4lCn1oN-xW3mJL6kWIeg/viewform).*
 
 ## Agradecimientos
 Esta publicación fue posible gracias a un subsidio de Chan Zuckerberg Initiative (DOI: https://zenodo.org/doi/10.5281/zenodo.7386372), los subsidios de la NASA 80NSSC23K0854 (DOI: https://zenodo.org/doi/10.5281/zenodo.8215455), 80NSSC23K0857 (DOI: https://zenodo.org/doi/10.5281/zenodo.8250978) y 80NSSC23K0861 (DOI: https://zenodo.org/doi/10.5281/zenodo.8212072) y el grant DAF2021-239366 y DOI de subsidio https://doi.org/10.37921/522107izqogv de la Chan Zuckerberg Initiative DAF, un fondo aconsejado por la Silicon Valley Community Foundation (DOI de financiador 10.13039/100014989).
