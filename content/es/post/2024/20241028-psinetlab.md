@@ -19,14 +19,6 @@ categories:
   - Historias de Ciencia Abierta en acción
 ---
 
-### Autorías
-- Angel García O’Diana - ORCID: [https://orcid.org/0000-0002-1533-7760](https://orcid.org/0000-0002-1533-7760)
-- Gleni Quispe Callo - ORCID: [https://orcid.org/0000-0003-3994-9523](https://orcid.org/0000-0003-3994-9523)
-- Álvaro Zumarán Baldeón - ORCID: [https://orcid.org/0009-0008-9755-3387](https://orcid.org/0009-0008-9755-3387)
-- Jefri Justo Mamani - ORCID: [https://orcid.org/0009-0008-4122-6715](https://orcid.org/0009-0008-4122-6715)
-- Marcelo Casa Chicata - ORCID: [https://orcid.org/0009-0009-1076-5094](https://orcid.org/0009-0009-1076-5094)
-
-
 ## ¿De qué se trata PsiNet LAB?
 PsiNet LAB es una organización de investigación psicológica que se dedica a generar conocimiento científico de vanguardia en el campo de la psicología, con el compromiso de aplicar este conocimiento de manera práctica para mejorar la salud mental y el bienestar de la sociedad. A través de un enfoque interdisciplinario y colaborativo, integra diversas perspectivas para abordar problemas urgentes y emergentes. El trabajo abarca desde la investigación básica hasta la implementación de intervenciones que buscan promover el bienestar humano y un desarrollo sostenible. Para ello, utiliza los últimos avances metodológicos, como el análisis de redes, análisis de multiversos, marcos bayesianos, machine learning e IA, para responder a preguntas fundamentales sobre el comportamiento humano basados en la teoría de la complejidad. Además, mantiene un firme compromiso con la accesibilidad y la transparencia en la ciencia, compartiendo abiertamente sus hallazgos para contribuir al avance colectivo del conocimiento.
 
