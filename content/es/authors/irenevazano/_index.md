@@ -43,4 +43,4 @@ Ha trabajado como profesional independiente en diversos proyectos digitales, des
 
 Irene es instructora certificada por The Carpentries, lo que subraya su compromiso con la enseñanza y la difusión de habilidades en el ámbito digital. Además, participa activamente en MetaDocencia contribuyendo al fortalecimiento de la comunidad.
 
-Hacia adentro del equipo, Ire ha ganado el Premio Transformación por su desempeño a cargo del área infraestructura con gran capacidad para documentar y transformar nuestros tutoriales en una biblioteca digital codiciada y hermosa.
+Hacia adentro del equipo, Ire ha ganado el Premio Transformación por su desempeño a cargo del área infraestructura con gran capacidad para documentar y transformar nuestros tutoriales en una biblioteca digital codiciada y hermosa..
