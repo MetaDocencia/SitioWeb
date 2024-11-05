@@ -14,7 +14,6 @@ weight: 10
 tags:
   - proyectos
   - proyectos de metadocencia
-  - Contextualización
 ---
 
 En el marco de la iniciativa Transform to Open Science (TOPS), un programa integral de actividades de la NASA para apoyar el avance de la ciencia hacia la apertura, MetaDocencia formará personas de ciencia y técnica hispanohablantes para transformar su trabajo diario a la Ciencia Abierta.
