@@ -54,3 +54,4 @@ This publication was made possible by a grant from the Chan Zuckerberg Initiativ
 *Did you like this post? You can freely reuse it under the license CC by 4.0; you just have to cite it.* 
 
 This is the quote that we recommend you use to reference it:
+García O'Diana, A., Quispe Callo, G., Zumarán Baldeón, Á., Mamani, J. J., & Casa Chicata, M. (2024). PsiNet LAB: Transforming Psychology with Advanced Science for a Deeper Understanding of Human Behavior. Zenodo. https://doi.org/10.5281/zenodo.14042988
