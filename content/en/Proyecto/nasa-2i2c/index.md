@@ -5,8 +5,8 @@ image:
   caption: 
   alt_text: "NASA's Transform to Open Science Project logo"
 linktitle: ScienceCore climaterisk
-summary: Development of educational content for the determination of climate risks using NASA's terrestrial data cloud. 
-title: "NASA TOPS ScienceCore: climaterisk"
+summary: Educational content development for climate risk using NASA's terrestrial data cloud. 
+title: "Climaterisk"
 spellcheck: true
 authors: 
 type: proyectos
