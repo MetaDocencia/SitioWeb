@@ -5,7 +5,7 @@ image:
   caption: 
   alt_text: "Logo del proyecto de transformación hacia la ciencia abierta de NASA y logo de MetaDocencia"
 linktitle: Ciencia Abierta Accesible
-summary: Formación de personas de ciencia y técnica hispanohablantes en NASA TOPS. 
+summary: Formación de personas de ciencia y técnica hispanohablantes. 
 title: América Latina se Transforma a la Ciencia Abierta
 spellcheck: true
 authors: 
