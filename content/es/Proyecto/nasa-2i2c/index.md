@@ -5,8 +5,8 @@ image:
   caption: 
   alt_text: "NASA ScienceCore"
 linktitle: ScienceCore climaterisk 
-summary: Contenidos educativos para la determinación de riesgos climáticos con la nube de datos terrestres de la NASA
-title: "NASA TOPS ScienceCore: climaterisk"
+summary: Contenidos educativos sobre riesgos climáticos usando datos de la NASA.
+title: "Climaterisk"
 spellcheck: true
 authors: 
 type: proyectos
