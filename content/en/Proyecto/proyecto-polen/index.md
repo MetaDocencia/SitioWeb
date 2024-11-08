@@ -4,9 +4,9 @@ draft: false
 image:
   caption: 
   alt_text: "Polen Project's logo"
-linktitle: Polen project
-summary: Community paths to train representatives of MetaDocencia in different communities, networks, and events.
-title: Polen project
+linktitle: Pollen Project
+summary: Community pathways to represent MetaDocencia in communities, networks and events.
+title: Pollen Project
 spellcheck: true
 authors: 
 type: proyectos
