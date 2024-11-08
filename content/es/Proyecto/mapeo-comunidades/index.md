@@ -5,8 +5,8 @@ image:
   caption: 
   alt_text: "Ilustración de personas trabajando en equipo de manera armoniosa"
 linktitle: Mapeo de Comunidades
-summary: Repositorio colaborativo de información relevante y accesible sobre eventos, oportunidades, cursos, comunidades y organizaciones de Ciencia Abierta en español. 
-title: Mapeo de Comunidades, Organizaciones y Eventos de Ciencia Abierta en Latinoamérica
+summary: Repositorio colaborativo de información sobre Ciencia Abierta en español.
+title: Mapeo de Ciencia Abierta en Latinoamérica
 spellcheck: true
 authors: 
 type: proyectos
@@ -50,6 +50,3 @@ Reconocemos la importancia de apoyar a la próxima generación de científicos, 
 * Para ver un adelanto de este mapeo acceder a la [Shiny App](https://metadocencia.shinyapps.io/mapeo_comunidades/) que estamos trabajando para pulir su visualización final (es un trabajo en progreso, puede diferir de su versión final) o consultarla a continuación:
 
 <iframe height="600" width="100%" frameborder="no" src="https://metadocencia.shinyapps.io/mapeo_comunidades/"> </iframe>
-
-
-
