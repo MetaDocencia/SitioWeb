@@ -5,8 +5,8 @@ image:
   caption: 
   alt_text: 
 linktitle: funding access
-summary: Improving access for Spanish-speaking Latin America researchers to increase their participation in international funding.  
-title: Leveling the Funding Field for Researchers from Latin America
+summary: Training that boosts international financing for Latin America.  
+title: Funding Access for Latin American Initiatives
 spellcheck: true
 authors: 
 type: proyectos
