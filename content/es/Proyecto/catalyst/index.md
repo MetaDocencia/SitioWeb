@@ -2,7 +2,7 @@
 date: "2024-02-08"
 draft: false
 linktitle: Proyecto Catalyst
-summary: Servicio comunitario de infraestructura en la nube. 
+summary: Servicio comunitario de infraestructura en la nube para América Latina y África. 
 title: Proyecto Catalyst 
 spellcheck: true
 authors: 
