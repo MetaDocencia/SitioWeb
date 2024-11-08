@@ -5,7 +5,7 @@ image:
   caption: 
   alt_text: "Bees around a beehive. Illustration by Yusuf Demirci"
 linktitle: Hive of Fellow Communities
-summary: Collaborative development where we aim to showcase and link efforts to reaffirm, once again, that science is collective work.
+summary: Collaborative network of communities that contribute to science as a collective work.
 title: Hive of Fellow Communities
 spellcheck: true
 type: proyectos
