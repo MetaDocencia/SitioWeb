@@ -5,7 +5,7 @@ image:
   caption: 
   alt_text: "Illustration of a person with an astronaut helmet peeking out of a box"
 linktitle: Cohort Kit
-summary: Instructions and guidelines for using and adapting useful models and templates for the development of the structure and infrastructure of training cohorts in Open Science. 
+summary: Instructions and resources for developing training cohorts in Open Science. 
 title: Cohort Kit
 spellcheck: true
 authors: 
