@@ -5,7 +5,7 @@ image:
   caption: 
   alt_text: "Catalyst project's logo"
 linktitle: Catalyst project
-summary: Community cloud infrastructure service.
+summary: Community cloud infrastructure service for Latin America and Africa.
 title: Catalyst project
 spellcheck: true
 authors: 
