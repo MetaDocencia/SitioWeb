@@ -4,8 +4,8 @@ draft: false
 image:
   caption: 
   alt_text: "MetaDocencia's logo"
-linktitle: Collaborative design of our Governance
-summary: Process of collective learning to develop a transparent model for strategic decision-making, designed from and for our cultural and regional context. 
+linktitle: Collaborative Governance
+summary: How we elaborate a model designed from and for our cultural and regional context.
 title: Collaborative design of our Governance
 spellcheck: true
 authors: 
