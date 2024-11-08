@@ -1,3 +1,4 @@
+{{ with $page.Params.image.focal_point }}
 {{ $page := . }}
 {{ $featured := (.Resources.ByType "image").GetMatch "*featured*" }}
 {{ $anchor := $page.Params.image.focal_point | default "Smart" }}
@@ -91,3 +92,4 @@
   {{end}}
 </div>
 {{end}}
+{{ end }}
