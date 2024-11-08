@@ -5,7 +5,7 @@ image:
   caption: 
   alt_text: "Ilustración de persona con casco de astronauta asomándose en una caja"
 linktitle: Kit para Cohortes
-summary: Instrucciones y pautas para usar y adaptar modelos y plantillas útiles para el desarrollo de la estructura e infraestructura de cohortes de formación en Ciencia Abierta. 
+summary: Instrucciones y recursos para el desarrollo de formación en Ciencia Abierta.
 title: Kit para Cohortes
 spellcheck: true
 authors: 
