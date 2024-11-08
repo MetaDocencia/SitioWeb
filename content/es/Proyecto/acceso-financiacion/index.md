@@ -5,8 +5,8 @@ image:
   caption: 
   alt_text: 
 linktitle: acceso financiacion
-summary: Nivelar el terreno para que las personas que se dedican a la investigación en español desde América Latina puedan aumentar su participación en la financiación internacional.  
-title: Mejorando el acceso a la financiación de iniciativas latinoamericanas
+summary: Formación que impulsa la financiación internacional para América Latina  
+title: Acceso a financiación para iniciativas latinoamericanas
 spellcheck: true
 authors: 
 type: proyectos
@@ -25,7 +25,7 @@ En consecuencia, **organizaciones que financian investigación en forma inclusiv
 Además, la **formación en redacción de solicitudes de financiamiento rara vez está disponible en español y no aborda las diferencias culturales y de mentalidad esenciales** para desenvolverse con éxito en el escenario de la financiación internacional. Por otra parte, **no conocemos propuestas de formación sobre formulación de proyectos de financiamiento desarrolladas por personas que trabajan colectivamente en investigación en América Latina** y tengan un historial de éxito en la obtención de financiación internacional, para que puedan convertirse en **referentes para otras personas interesadas**.
 
 ### Visión para enfrentar el problema
-**Nuestra visión es que cualquier persona que se dedique a la investigación en español desde América Latina debe tener acceso a una comunidad segura  y colaborativa de pares que compartan libremente conocimientos, contactos y consejos de alta calidad, permitiéndoles aumentar su participación en la financiación internacional.**  
+**Nuestra visión es que cualquier persona que se dedique a la investigación en español desde América Latina debe tener acceso a una comunidad segura y colaborativa de pares que compartan libremente conocimientos, contactos y consejos de alta calidad, permitiéndoles aumentar su participación en la financiación internacional.**  
 
 #### Objetivos
 - **Aumentar el acceso a habilidades especializadas en recaudación de fondos** (incluyendo el conocimiento implícito) mediante el **desarrollo de un plan de estudios** que se adapte a personas hispanohablantes que realizan investigación en Latinoamérica donde se encuentren;
