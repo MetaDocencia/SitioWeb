@@ -4,9 +4,9 @@ draft: false
 image:
   caption: 
   alt_text: "NASA's Transform to Open Science Project logo and MetaDocencia logo"
-linktitle: Latin America Transforms to Open Science
+linktitle: Accesible Open Science
 summary: Training of Spanish-speaking science and technical personnel in NASA TOPS. 
-title: Accessible Open Science
+title: Latin America Transforms to Open Science
 spellcheck: true
 authors: 
 type: proyectos
