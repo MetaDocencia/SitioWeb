@@ -4,8 +4,8 @@ draft: false
 image:
   caption: 
   alt_text: "Logo de MetaDocencia"
-linktitle: Diseño colaborativo de nuestra Gobernanza
-summary: Cómo elaboramos un modelo transparente para la toma de decisiones estratégicas, pensado desde y para nuestro contexto cultural y regional. 
+linktitle: Gobernanza colaborativa
+summary: Cómo elaboramos un modelo pensado desde y para nuestro contexto cultural y regional. 
 title: Diseño colaborativo de nuestra Gobernanza
 spellcheck: true
 authors: 
