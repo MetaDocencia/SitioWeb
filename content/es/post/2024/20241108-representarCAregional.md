@@ -73,10 +73,11 @@ En MetaDocencia desarrollamos recursos educativos abiertos, reutilizables y acce
 
 
 ## Agradecimientos
-Esta publicación fue posible gracias a un subsidio de Chan Zuckerberg Initiative (DOI: 10.5281/zenodo.7386372), los subsidios de la NASA 80NSSC23K0854 (DOI: 10.5281/zenodo.8215455), 80NSSC23K0857 (DOI: 10.5281/zenodo.8250978) y 80NSSC23K0861 (DOI: 10.5281/zenodo.8212072) y el grant DAF2021-239366 y DOI de subsidio https://doi.org/10.37921/522107izqogv de la Chan Zuckerberg Initiative DAF, un fondo aconsejado por la Silicon Valley Community Foundation (DOI de financiador 10.13039/100014989) y el subsidio “Open Cloud Collaborative Project for Latin America and Africa (the Catalyst Project)” del mismo financiador (DOI: https://doi.org/10.5281/zenodo.8431422).
+Esta publicación fue posible gracias a un subsidio de Chan Zuckerberg Initiative (DOI: 10.5281/zenodo.7386372), los subsidios de la NASA 80NSSC23K0854 (DOI: 10.5281/zenodo.8215455), 80NSSC23K0857 (DOI: 10.5281/zenodo.8250978) y 80NSSC23K0861 (DOI: 10.5281/zenodo.8212072) y el grant DAF2021-239366 y DOI de subsidio https://doi.org/10.37921/522107izqogv de la Chan Zuckerberg Initiative DAF, un fondo aconsejado por la Silicon Valley Community Foundation (DOI de financiador 10.13039/100014989).
 
 ---
 
 *¿Te gustó esta publicación? Puedes reutilizarla libremente bajo licencia CC by 4.0, solo tienes que citarla.* 
 
 Esta es la cita que te recomendamos usar para referenciarla:
+Formoso, J., Rajngewerc, M., Ascenzi, L., & Ación, L. (2024). Cómo promovemos y representamos a la Ciencia Abierta regional en eventos globales. Zenodo. https://doi.org/10.5281/zenodo.14069673
