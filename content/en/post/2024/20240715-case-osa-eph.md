@@ -14,7 +14,7 @@ weight: 1
 tags: 
   - MetaDocencia 
 categories:
-  - Open Science in Action Stories
+  - Topics
 ---
 
 **Open Science is an umbrella term for a set of practices that make research products and processes transparent and available to everyone.**. There is no single way to conduct Open Science, as it will depend on each project’s scope and limitations, stakeholders, available resources, and other factors.
