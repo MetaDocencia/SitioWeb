@@ -14,7 +14,7 @@ weight: 1
 tags: 
   - MetaDocencia 
 categories:
-  - Historias de Ciencia Abierta en acción
+  - Temas
 ---
 
 La **Ciencia Abierta puede definirse como prácticas que permiten que los productos y procesos de una investigación estén disponibles para todas las personas por igual**. No obstante, no hay una única forma de hacer Ciencia Abierta ya que dependerá de cada proyecto, su alcance y limitaciones, las partes interesadas, los recursos disponibles, entre otras.  
