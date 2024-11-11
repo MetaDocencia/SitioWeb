@@ -6,11 +6,11 @@ We, as contributors of MetaDocencia, are committed to fostering an open, safe, a
 
 All individuals participating in MetaDocencia, including team members, advisory board members, and participants, must accept and adhere to the following community guidelines.
 
-If you witness a situation where these community guidelines are not being respected, please report it to [pdc@metadocencia.org](mailto:pdc@metadocencia.org). You may also individually contact any member of the Community Guidelines team (CG).
+If you witness a situation where these community guidelines are not being respected, please report it to [the Community Guidelines team's e-mail](mailto:pdc@metadocencia.org). You may also individually contact any member of the Community Guidelines team (CG).
 
 We encourage the community to embrace and participate in these guidelines, so they represent everyone. We are committed to building a friendly and respectful community, and while we may sometimes fail, our goal is for everyone to be treated fairly, inclusively, and as equitably as possible. We believe that when someone feels hurt or offended, it is the responsibility of the person who caused those feelings to apologize for the impact of their actions and to listen attentively and respectfully.
 
-To report a problem involving a member of the CG team, send an email to [direccion@metadocencia.org](mailto:direccion@metadocencia.org). The emails that arrive at this address will be received by the direction team of MetaDocencia.
+To report a problem involving a member of the CG team, send an email to [the direction team's e-mail](mailto:direccion@metadocencia.org). The emails that arrive at this address will be received by the direction team of MetaDocencia.
 
 If you witness a situation that violates this Community Guidelines, please report it to [pdc@metadocencia.org](mailto:pdc@metadocencia.org) or any [Community Guidelines team member](#pdc_members).
 
