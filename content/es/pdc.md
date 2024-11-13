@@ -2,9 +2,9 @@
 title: Pautas de Convivencia
 ---
 
-Quienes organizamos MetaDocencia nos comprometemos a fomentar un ambiente abierto, seguro y amigable y garantizar la participación de todas las personas en nuestras actividades y espacios virtuales, independientemente de su edad, género, orientación sexual, discapacidad, apariencia física, nacionalidad, raza, etnia, religión (o la falta de ella), ideología u opciones tecnológicas. 
+Quienes organizamos MetaDocencia nos comprometemos a fomentar un ambiente abierto, seguro y amigable y garantizar la participación de todas las personas en nuestras actividades y espacios virtuales independientemente de su edad, género, orientación sexual, discapacidad, apariencia física, nacionalidad, etnia, creencias, ideología, o acceso a recursos.
 
-Todas las personas que participen en MetaDocencia, incluyendo integrantes del equipo coordinador, colaboradores, equipo asesor y participantes deberán aceptar y respetar las siguientes Pautas de Convivencia. 
+Todas las personas colaboradoras que participen en MetaDocencia, incluyendo integrantes del equipo coordinador, equipo asesor y participantes deberán aceptar y respetar las siguientes pautas de convivencia.
 
 Si presencias una situación en la que no se respeten estas pautas, por favor comunícalo a [el correo del equipo de Pautas de Convivencia](mailto:pdc@metadocencia.org) o al [equipo de Pautas de Convivencia](#miembros_pdc).
 
@@ -21,8 +21,7 @@ Para informar un problema que involucre a una persona integrante del equipo PdC,
 * Centrarse en lo que sea mejor no sólo para nosotros como personas, sino para la comunidad en general
 * Identificarnos correctamente con nuestros datos personales cuando participemos de manera sincrónica en eventos o reuniones del ámbito de MetaDocencia
 * Tratar de comprender por qué no estamos de acuerdo: los desacuerdos, tanto sociales como técnicos, ocurren todo el tiempo. Es importante que resolvamos los
- desacuerdos y las opiniones divergentes de manera constructiva. Recuerda que somos diferentes. La diversidad contribuye a la fortaleza de nuestra comunidad,
- que está compuesta por personas de una amplia gama de orígenes
+ desacuerdos y las opiniones divergentes de manera constructiva. Recuerda que somos diferentes. La diversidad contribuye a la fortaleza de nuestra comunidad, que está compuesta por personas de una amplia gama de orígenes
 
 #### Ejemplos de comportamiento inaceptable:
 
