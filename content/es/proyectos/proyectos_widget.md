@@ -30,7 +30,7 @@ subtitle = ""
     tag = "proyectos de metadocencia"
 
   [[content.filter_button]]
-    name = "En colaboración con otras organizaciones"
+    name = "En colaboración"
     tag = "proyectos extra metadocencia"
 
   [[content.filter_button]]
