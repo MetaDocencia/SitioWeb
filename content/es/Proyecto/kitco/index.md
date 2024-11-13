@@ -14,6 +14,7 @@ weight: 80
 tags:
   - proyectos
   - proyectos de metadocencia
+  - proyectos finalizados
 ---
 
 

@@ -14,6 +14,7 @@ weight: 60
 tags:
   - proyectos
   - proyectos de metadocencia
+  - proyectos vigentes
 ---
 
 Este proyecto nació a comienzos del año 2023 y busca ofrecer recorridos comunitarios para ampliar la participación en comunidades de Ciencia Abierta y dar reconocimiento a quienes participen del proyecto por su contribución al crecimiento de nuestra comunidad.

@@ -14,6 +14,7 @@ weight: 90
 tags:
   - proyectos
   - proyectos de metadocencia
+  - proyectos finalizados
 ---
 
 ###  Diseño colaborativo de nuestra Gobernanza

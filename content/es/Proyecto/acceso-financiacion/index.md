@@ -14,6 +14,7 @@ weight: 20
 tags:
   - proyectos
   - proyectos de metadocencia
+  - proyectos vigentes
 output: html_document
 ---
 

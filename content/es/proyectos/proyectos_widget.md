@@ -33,6 +33,14 @@ subtitle = ""
     name = "En colaboración con otras organizaciones"
     tag = "proyectos extra metadocencia"
 
+  [[content.filter_button]]
+    name = "Proyectos vigentes"
+    tag = "proyectos vigentes"
+
+  [[content.filter_button]]
+    name = "Proyectos finalizados"
+    tag = "proyectos finalizados"
+
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
