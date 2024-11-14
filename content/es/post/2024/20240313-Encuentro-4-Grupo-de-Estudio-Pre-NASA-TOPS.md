@@ -75,13 +75,9 @@ Entre enero y marzo de 2024 se desarrollaron 6 encuentros para explorar los cont
 
 En respuesta a las ganas de nuestra comunidad de profundizar las discusiones, preparamos un ciclo de conversatorios sobre Ciencia Abierta. En esta serie de encuentros conversaremos sobre distintos temas que rodean a la Ciencia Abierta para intentar comprender colectivamente cómo la aprendemos, como la aplicamos y qué significa para nuestra región. Queremos reconocer sus ventajas y su potencia a través de debatir sobre su alcance y posibilidades.
 
-[Ver detalles de los encuentros](https://www.metadocencia.org/eventos)
+[Ver detalles de los encuentros](https://www.metadocencia.org/nasa-tops/mision_exploracion/mision-exploracion-2024/)
 
 Estos encuentros ofrecen una oportunidad de intercambio y aprendizaje, para nutrirnos entre personas y comunidades con nuestras experiencias.
-
-[Formulario de registro para asistir al conversatorio](https://docs.google.com/forms/d/e/1FAIpQLSe2_d08ZLEComUlsUwzHKPhiGcEuN2u1oq1gdvRcAXLfWz8ww/viewform)
-
-*Todos los datos se manejarán en forma confidencial, sólo podrán ser publicados de forma agregada y anonimizada en reportes sobre el alcance de MetaDocencia.*
 
 
 ## Agradecimientos

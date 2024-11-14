@@ -64,13 +64,9 @@ Nuestros materiales están disponibles en forma gratuita bajo esta [licencia](ht
 
 Entre enero y marzo de 2024 se están desarrollando 6 encuentros para explorar los contenidos del curso Open Science 101, que forma parte de la iniciativa NASA TOPS.
 
-[Ver detalles de los encuentros](https://www.metadocencia.org/eventos)
+[Ver detalles de los encuentros](https://www.metadocencia.org/nasa-tops/mision_exploracion/mision-exploracion-2024/)
 
 Estos encuentros ofrecen una oportunidad de intercambio y aprendizaje, para nutrirnos entre personas y comunidades con nuestras experiencias.
-
-[Formulario de registro para asistir a los encuentros](https://docs.google.com/forms/d/e/1FAIpQLSeNC5FAkHDNwvqJr0419ddccLsru7c38EttgbjOw6ar-x84-Q/viewform)
-
-*Todos los datos se manejarán en forma confidencial, sólo podrán ser publicados de forma agregada y anonimizada en reportes sobre el alcance de MetaDocencia.*
 
 
 ## Agradecimientos
