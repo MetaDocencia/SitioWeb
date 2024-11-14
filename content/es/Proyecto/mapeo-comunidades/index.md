@@ -48,6 +48,6 @@ Reconocemos la importancia de apoyar a la próxima generación de científicos, 
 
 ### Más información
 * Más acerca de este proyecto en este [blogpost de OLS](https://openlifesci.org/posts/2023/07/17/ols-7-mapping-open-science-communities-LATAM/ "Blogpost sobre el proyecto"). 
-* Para ver un adelanto de este mapeo acceder a la [Shiny App](https://metadocencia.shinyapps.io/mapeo_comunidades/) que estamos trabajando para pulir su visualización final (es un trabajo en progreso, puede diferir de su versión final) o consultarla a continuación:
+* Para ver un adelanto de este mapeo puedes acceder a la [Shiny App](https://metadocencia.shinyapps.io/mapeo_comunidades/) o consultarla a continuación. Ten en cuenta que es un trabajo en progreso por lo que puede diferir de su versión final.
 
 <iframe height="600" width="100%" frameborder="no" src="https://metadocencia.shinyapps.io/mapeo_comunidades/"> </iframe>
