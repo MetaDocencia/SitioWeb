@@ -1,5 +1,5 @@
 ---
-date: "2024-10-20"
+date: "2024-11-19"
 draft: false
 type: page
 linktitle: Consultoría LABI
