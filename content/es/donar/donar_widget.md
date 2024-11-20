@@ -9,7 +9,7 @@
   weight = 60  # Order that this section will appear.
   
   title = "Donar"
-  subtitle = ""
+  subtitle = "texttexttexttext texttexttexttexttexttexttexttext texttexttexttexttexttexttexttext texttexttexttexttexttexttexttext texttexttexttexttexttexttexttext"
   
   [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -52,6 +52,12 @@
   # CSS class.
   css_class = ""
 +++
+
+</br> </br> 
+<div style="display: flex; justify-content: center; margin-top: 50px;">
+  Aquí también puede ir texto
+</div>
+
 </br> </br> 
 <style>
   .iframe-donar {
