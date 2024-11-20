@@ -16,8 +16,8 @@ social:
 - icon: globe
   icon_pack: fas
   link: https://bsky.app/profile/abrir.bsky.social
-- icon: globe
-  icon_pack: fas
+- icon: youtube
+  icon_pack: fab
   link: https://www.youtube.com/@abrir-big-teamandopenscien4045/playlists
 superuser: false
 user_groups:
