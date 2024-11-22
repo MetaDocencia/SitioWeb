@@ -34,7 +34,7 @@ Thus, we began 2024 by [defining the concept that would best represent the work 
 This publication describes how we implemented a community-driven, systematic, and high-quality process that went beyond mere automatic translation or minimal human intervention.
 
 ## Preliminary Technical Preparation for Contextualization
-Primero definimos un flujo de trabajo para planificar la tarea de contextualización, desde la primera versión de los contenidos en inglés del curso de NASA. Se establecieron las diferentes vías posibles para lograr el objetivo con el resultado propuesto en el plazo esperado, identificando necesidades y riesgos para llegar al proceso que nos permitiría comenzar a implementar cada paso del flujo de trabajo.
+First, we defined a workflow to plan the contextualization task, from the first version of the English contents of the NASA course. We established the different possible ways to achieve the objective with the proposed result in the expected timeframe, identifying needs and risks to arrive at the process that would allow us to start implementing each step of the workflow.
 
 This workflow included **selecting the tool to work with the content hosted in a GitHub repository from NASA TOPS**. After analyzing experiences from fellow communities (The Carpentries, rOpenSci, and The Turing Way), we determined the convenience of using a localization management platform called [Crowdin](https://crowdin.com/). This tool provides translation features that the collaborative team can revise and store as suggestions for future translations of the same text.
 
