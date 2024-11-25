@@ -1,6 +1,6 @@
 ---
 authors:
-- palomarojas
+- projassaunero
 bio: ""
 email: ""
 interests:
