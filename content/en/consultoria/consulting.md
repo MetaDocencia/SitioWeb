@@ -71,14 +71,29 @@ subtitle = ""
  css_class = ""
 +++
 
-Our team has extensive experience and expertise in different disciplines and areas. We advise and guide processes for both people and organizations in English and Spanish. Some of the topics we specialize in are:
+[Our team](https://www.metadocencia.org/en/equipo/) is integrated by professionals with experience in different disciplines and fields. **We provide consulting services in Spanish and English for individuals and organizations.** 
 
-- Teaching and organization of active events
-- Capacity building for open science (e.g., train-the-trainer)
-- Open science in Latin America
-- Responsible use of data for data science and artificial intelligence
-- Building diverse and inclusive communities of practice
-- Governance and sustainability of open science projects
-- Organizing focus groups
-  
-Read more about our experience in [our prospectus](https://zenodo.org/records/13988619) and contact us at [info@metadocencia.org](info@metadocencia.org).
+This is a non-exhaustive list of services and areas of intervention organized around our [pillars of work](https://www.metadocencia.org/en/institucional/): 
+
+### Contextualization
+- Capacity building for Open Science: project writing, situation diagnosis, and improvement proposals.
+- Contextualization of useful resources for Spanish-speaking communities: academic, scientific, or outreach content.
+- Advice on responsible use of data for Data Science and Artificial Intelligence.
+- Governance and sustainability of Open Science projects.
+### Community
+- Building diverse and inclusive communities of practice.
+- Design of participatory surveys.
+- Organization of focus groups.
+- Accessibility guidelines and guidelines for community events and activities.
+### Training
+- Teaching and organization of active, virtual, and face-to-face events.
+- Custom-designed training courses.
+- Training to teach.
+- Research projects, essays, and studies related to Open Science in Latin America with a global perspective.
+
+## Experiences
+- Intercommunity work: LABI's experience in strengthening community governance.
+
+Read more about our experience at [our prospectus](https://zenodo.org/records/13988619)! 
+
+**To request our services, please contact us at [info@metadocencia.org](info@metadocencia.org).**
