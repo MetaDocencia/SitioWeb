@@ -71,14 +71,30 @@ subtitle = ""
  css_class = ""
 +++
 
-Contamos con un equipo con experiencia extensa en distintas disciplinas y ámbitos. Asesoramos y guiamos procesos tanto para personas como para organizaciones en español e inglés. Algunos de los temas en los que nos especializamos son:
+[Nuestro equipo](https://www.metadocencia.org/equipo/) está formado por profesionales con experiencia en disciplinas y ámbitos diversos. **Proveemos servicios de consultoría tanto para personas como para organizaciones, en español e inglés.** 
 
-- Enseñanza y organización de eventos activos
-- Construcción de capacidades para ciencia abierta (por ej., entrenamiento de entrenadores)
-- Ciencia abierta en América Latina
-- Uso responsable de datos para ciencia de datos e inteligencia artificial
-- Construcción de comunidades de práctica diversas e inclusivas
-- Gobernanza y sostenibilidad de proyectos de ciencia abierta
-- Organización de grupos focales
+Esta es una lista no exhaustiva de servicios y áreas de intervención organizadas en torno a nuestros [pilares de trabajo](https://www.metadocencia.org/institucional/): 
 
-Lee más sobre nuestra experiencia en [nuestro prospecto](https://zenodo.org/records/13988619) y contáctanos en [info@metadocencia.org](info@metadocencia.org).
+## Contextualización
+- Construcción de capacidades para Ciencia Abierta: escritura de proyectos, diagnósticos de situación y propuestas de mejora.
+- Contextualización de recursos útiles para comunidades hispanohablantes: contenidos académicos, científicos o de divulgación.
+- Asesoramiento en uso responsable de datos para Ciencia de Datos e Inteligencia Artificial.
+- Gobernanza y sostenibilidad de proyectos de Ciencia Abierta.
+## Comunidad
+- Construcción de comunidades de práctica diversas e inclusivas.
+- Diseño de relevamientos participativos.
+- Organización de grupos focales.
+- Guías y pautas de Accesibilidad para eventos y actividades comunitarias.
+## Formación
+- Enseñanza y organización de eventos activos, virtuales y presenciales.
+- Cursos de capacitación diseñados a medida.
+- Entrenamiento para enseñar.
+- Proyectos de investigación, ensayos, estudios relativos a Ciencia Abierta en América Latina con mirada global.
+
+# Experiencias
+- [Trabajo intercomunidades: la experiencia de apoyo al fortalecimiento de la gobernanza comunitaria de LABI
+](https://www.metadocencia.org/post/2024/20241020-consultoria-labi/)
+
+¡Lee más sobre nuestra experiencia en [nuestro prospecto](https://zenodo.org/records/13988619! 
+
+**Para solicitar nuestros servicios, contáctanos a [info@metadocencia.org](info@metadocencia.org).**
