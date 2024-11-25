@@ -1,6 +1,6 @@
 ---
 authors:
-- lisannapaladin
+- lpaladin
 bio: ""
 email: ""
 interests:
