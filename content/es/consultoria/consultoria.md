@@ -95,6 +95,6 @@ Esta es una lista no exhaustiva de servicios y áreas de intervención organizad
 - [Trabajo intercomunidades: la experiencia de apoyo al fortalecimiento de la gobernanza comunitaria de LABI
 ](https://www.metadocencia.org/post/2024/20241020-consultoria-labi/)
 
-¡Lee más sobre nuestra experiencia en [nuestro prospecto](https://zenodo.org/records/13988619! 
+¡Lee más sobre nuestra experiencia en [nuestro prospecto](https://zenodo.org/records/13988619)! 
 
 **Para solicitar nuestros servicios, contáctanos a [info@metadocencia.org](info@metadocencia.org).**
