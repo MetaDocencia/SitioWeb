@@ -77,3 +77,4 @@ This publication was made possible thanks to a grant from the Chan Zuckerberg In
 ---
 
 *Did you like this publication? You can reuse it freely under CC BY 4.0 license, just remember to cite it.* 
+Formoso, J., Rajngewerc, M., Ascenzi, L., & Ación, L. (2024). How We Promote and Represent Regional Open Science at Global Events. Zenodo. https://doi.org/10.5281/zenodo.14188392
