@@ -26,10 +26,6 @@ subtitle = ""
     tag = "proyectos"
 
   [[content.filter_button]]
-    name = "Creados por MetaDocencia"
-    tag = "proyectos de metadocencia"
-
-  [[content.filter_button]]
     name = "En colaboración"
     tag = "proyectos extra metadocencia"
 
