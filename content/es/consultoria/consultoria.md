@@ -75,23 +75,23 @@ subtitle = ""
 
 Esta es una lista no exhaustiva de servicios y áreas de intervención organizadas en torno a nuestros [pilares de trabajo](https://www.metadocencia.org/institucional/): 
 
-## Contextualización
+### Contextualización
 - Construcción de capacidades para Ciencia Abierta: escritura de proyectos, diagnósticos de situación y propuestas de mejora.
 - Contextualización de recursos útiles para comunidades hispanohablantes: contenidos académicos, científicos o de divulgación.
 - Asesoramiento en uso responsable de datos para Ciencia de Datos e Inteligencia Artificial.
 - Gobernanza y sostenibilidad de proyectos de Ciencia Abierta.
-## Comunidad
+### Comunidad
 - Construcción de comunidades de práctica diversas e inclusivas.
 - Diseño de relevamientos participativos.
 - Organización de grupos focales.
 - Guías y pautas de Accesibilidad para eventos y actividades comunitarias.
-## Formación
+### Formación
 - Enseñanza y organización de eventos activos, virtuales y presenciales.
 - Cursos de capacitación diseñados a medida.
 - Entrenamiento para enseñar.
 - Proyectos de investigación, ensayos, estudios relativos a Ciencia Abierta en América Latina con mirada global.
 
-# Experiencias
+## Experiencias
 - [Trabajo intercomunidades: la experiencia de apoyo al fortalecimiento de la gobernanza comunitaria de LABI
 ](https://www.metadocencia.org/post/2024/20241020-consultoria-labi/)
 
