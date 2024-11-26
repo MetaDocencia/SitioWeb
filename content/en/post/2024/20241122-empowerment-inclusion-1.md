@@ -1,6 +1,6 @@
 ---
 date: "2024-11-22"
-draft: false
+draft: true
 type: page
 linktitle: Empowerment Through Inclusion
 summary: "This is the first of a 2-part blogpost series that we hope will make individuals representing minorities in your group or project feel valued."
