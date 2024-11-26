@@ -65,6 +65,8 @@ But if including someone seems impossible and they do not participate much or al
 
 Below, we share some actionable approaches to active care that you can take to help marginalized persons build trust, value their individuality, protect their identity, and promote their participation as key actions to foster empowerment through inclusion. Follow the link below to part 2 in this series for actionables to win at this inclusion bingo: 
 
+![Screenshot of a bingo card including the options: "listen as a peer", "avoid silence as response", "support those who speak up", "trust the lived experience", "avoid being condescending", "make up for lost opportunities", "take responsibility and apologize", "budget adequately for minorities", "be transparent in recruitment and promotions", "have a trained code of conduct committee", "acknowledge all contributions", including MetaDocencia's logo.](https://www.metadocencia.org/img/bingo-inclusion.jpg) 
+
 *A bingo card of some suggested actionable approaches to active care for empowerment through inclusion. How many of them do you practice?* 
 
 **What do you think of these ideas? Do you have others to share? Are you part of a minoritized group and want to share your experience? Are you part of a project that seeks to include or retain minorities and want to know more?  Join our community in [Slack](https://w3id.org/metadocencia/slack) (in Spanish, with English also welcome in the #english channel) and tell us your story!**
