@@ -18,6 +18,7 @@ authors:
   - rmosbergen
   - selgebali
   - vvarni
+*Authors are listed in alphabetical order of first name.*
 type: post
 weight: 1
 tags: 
@@ -27,7 +28,6 @@ categories:
   - Institutional
 ---
 
-*Authors are listed in alphabetical order of first name.*
 
 ## Our Motivation
 **If you are committed to improving diversity, equity, and inclusion, are you conscious of interpersonal, institutional, and structural discrimination? If you plan to be an ally, do you reflect on your own position of privilege and power?** 
