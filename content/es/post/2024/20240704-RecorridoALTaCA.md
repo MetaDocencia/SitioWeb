@@ -6,7 +6,7 @@ linktitle: Recorrido para contextualizar CA
 summary: "Cómo trabajamos para diseñar, desarrollar, contextualizar e implementar cohortes virtuales de formación para hispanohablantes abarcando los cinco módulos de Open Science 101"
 title: "Nuestro recorrido para contextualizar saberes y enseñar Ciencia Abierta en español"
 authors:
-  - irevazano
+  - irenevazano
   - jformoso
   - jbuede
   - lacion
