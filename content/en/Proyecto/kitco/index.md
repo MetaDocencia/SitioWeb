@@ -13,7 +13,7 @@ type: proyectos
 weight: 80
 tags:
   - projects
-  - metadocencia projects
+  - completed
 ---
 The project "Structure and infrastructure for pedagogical training through virtual cohorts" begins as a need for MetaDocencia to transform ourselves by directing our courses and workshops from a few hours to cohorts of several weeks.
 
