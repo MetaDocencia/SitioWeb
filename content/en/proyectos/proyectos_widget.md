@@ -30,11 +30,11 @@ subtitle = ""
     tag = "extra-metadocencia projects"
 
   [[content.filter_button]]
-    name = "Current"
+    name = "Current Projects"
     tag = "current"
 
   [[content.filter_button]]
-    name = "Completed"
+    name = "Completed Projects"
     tag = "completed"
     
 [design]
