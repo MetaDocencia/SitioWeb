@@ -26,13 +26,17 @@ subtitle = ""
     tag = "projects"
 
   [[content.filter_button]]
-    name = "Created by MetaDocencia"
-    tag = "metadocencia projects"
-
-  [[content.filter_button]]
     name = "In collaboration with other organizations"
     tag = "extra-metadocencia projects"
 
+  [[content.filter_button]]
+    name = "Current"
+    tag = "current"
+
+  [[content.filter_button]]
+    name = "Completed"
+    tag = "completed"
+    
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
