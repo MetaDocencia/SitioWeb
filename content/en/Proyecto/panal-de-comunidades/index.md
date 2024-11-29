@@ -13,6 +13,7 @@ weight: 70
 tags:
   - projects
   - metadocencia projects
+  - current
 ---
 At csv,conf,7, we presented the "Panal de Comunidades Amigas" (Fellow Communities Hive), a collaborative effort in which we aim to showcase and connect efforts to reaffirm, once again, that science is collective work. When Open Science recommendations are followed, as they are in these communities, a hive like this is sustained and multiplied. Each person with their life experience, accent, emotions, dedication to science, and teaching.
 
