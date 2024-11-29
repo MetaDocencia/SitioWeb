@@ -13,7 +13,7 @@ type: proyectos
 weight: 20
 tags:
   - projects
-  - metadocencia projects
+  - current
 ---
 This proposal, conceived by Patricia Loto, Jesica Formoso, and Irene Vazano, consists of an interactive application developed using the Shiny package in the R programming language to provide information related to resources, events, workshops, funding opportunities, and open science communities in Latin America. This project was born at the beginning of 2023 from our desire to orient our practice towards open science with a local perspective and will be open to anyone interested in accessing resources on open science, connecting with other regional and local actors, or even participating in the promotion of open practices. It was developed in the context of the [OLS Cohort 7](https://openlifesci.org/openseeds/ols-7/projects-participants.html#projects "OLS Cohort 7 Projects").
 
