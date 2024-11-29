@@ -13,7 +13,7 @@ type: proyectos
 weight: 20
 tags:
   - projects
-  - metadocencia projects
+  - current
 ---
 
 ### The Problem
