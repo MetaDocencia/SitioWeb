@@ -9,7 +9,7 @@ authors:
 type: course
 weight: 30
 tags:
-  - Upcoming trainings
+  - Former trainings
 ---
 
 {{% toc %}}
