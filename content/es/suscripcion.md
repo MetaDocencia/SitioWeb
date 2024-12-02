@@ -25,7 +25,7 @@ title: Suscripcion
     </div>
         <div class="optionalParent">
             <div class="clear foot">
-                <input type="submit" name="subscribe" id="mc-embedded-subscribe" class="button" value="Subscribe">
+                <input type="submit" name="subscribe" id="mc-embedded-subscribe" class="button" value="Suscribirme">
                 <p style="margin: 0px auto;"><a href="http://eepurl.com/iLxRl2" title="Mailchimp - email marketing made easy and fun"><span style="display: inline-block; background-color: transparent; border-radius: 4px;"><img class="refferal_badge" src="https://digitalasset.intuit.com/render/content/dam/intuit/mc-fe/en_us/images/intuit-mc-rewards-text-dark.svg" alt="Intuit Mailchimp" style="width: 220px; height: 40px; display: flex; padding: 2px 0px; justify-content: center; align-items: center;"></span></a></p>
             </div>
         </div>
