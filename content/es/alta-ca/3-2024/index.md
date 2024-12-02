@@ -9,7 +9,7 @@ authors:
 type: cursos
 weight: 50
 tags:
-  - Formación vigente
+  - Ediciones anteriores
 ---
 
 {{% toc %}}
