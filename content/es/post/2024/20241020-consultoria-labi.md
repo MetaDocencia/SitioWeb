@@ -27,7 +27,7 @@ En 2024, establecimos un acuerdo de colaboración entre el Latin American Bioima
 
 **c) revisión de acuerdos** para acompañar el análisis y apoyar la implementación del modelo de gobernanza y proponer aspectos de mejora en términos legales y operativos.
 
-La primera etapa nos motivó a conocer más en profundidad los espacios de crecimiento y posibilidad de esta Red, que se ha consolidado como referente en nuestra región. Para ello, entrevistamos a integrantes y elaboramos una encuesta abierta para su comunidad, además de analizar documentación en torno a 2 dimensiones de interés: institucional y comunitaria, con variables y descriptores asociados a cada una.  
+La primera etapa nos motivó a conocer más en profundidad los espacios de crecimiento y posibilidad de esta red, que se ha consolidado como referente en nuestra región. Para ello, entrevistamos a integrantes y elaboramos una encuesta abierta para su comunidad, además de analizar documentación en torno a 2 dimensiones de interés: institucional y comunitaria, con variables y descriptores asociados a cada una.  
 
 En la dimensión institucional se exploró el proceso de incorporación de las personas a la organización para fin de sondear experiencias, sensaciones, información disponible, acompañamiento y claridad en relación al proceso de incorporación así como también la gobernanza, es decir, cómo es el proceso de toma de decisiones, así como los niveles de participación y conocimiento por parte de sus integrantes de este proceso. 
 
