@@ -22,7 +22,9 @@ En 2022, cuando [MetaDocencia avanzaba en su proceso colaborativo de gobernanza]
 En 2024, establecimos un acuerdo de colaboración entre el Latin American Bioimaging Network (LABI) y MetaDocencia, en cuyo marco desarrollamos una propuesta de asistencia técnica para desarrollar un plan de trabajo en 3 etapas: 
 
 **a) diagnóstico-exploración** para identificar en términos institucionales y comunitarios las fortalezas, los desafíos, las áreas de vacancia y las oportunidades en la gobernanza de LABI. 
+
 **b) planificación** del diseño comunitario de la gobernanza con el objetivo de acompañar el diseño de una herramienta y un flujo de trabajo que permita planificar la implementación de un modelo de gobernanza comunitario de acuerdo a las necesidades y expectativas de LABI.
+
 **c) revisión de acuerdos** para acompañar el análisis y apoyar la implementación del modelo de gobernanza y proponer aspectos de mejora en términos legales y operativos.
 
 La primera etapa nos motivó a conocer más en profundidad los espacios de crecimiento y posibilidad de esta Red, que se ha consolidado como referente en nuestra región. Para ello, entrevistamos a integrantes y elaboramos una encuesta abierta para su comunidad, además de analizar documentación en torno a 2 dimensiones de interés: institucional y comunitaria, con variables y descriptores asociados a cada una.  
