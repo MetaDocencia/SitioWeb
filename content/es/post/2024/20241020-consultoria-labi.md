@@ -3,7 +3,7 @@ date: "2024-11-19"
 draft: false
 type: page
 linktitle: Consultoría LABI
-summary: "En 2024, establecimos un acuerdo de colaboración entre LABI y MetaDocencia, en cuyo marco desarrollamos una propuesta de asistencia técnica que comentamos en esta publicación"
+summary: "En 2024, establecimos un acuerdo de colaboración entre LABI y MetaDocencia, en cuyo marco desarrollamos una propuesta de asistencia técnica que comentamos en esta publicación."
 title: "Trabajo intercomunidades: la experiencia de apoyo al fortalecimiento de la gobernanza comunitaria de LABI"
 authors:
   - laurel
@@ -50,11 +50,11 @@ El trabajo continuará desde el [Panal de Comunidades](https://www.metadocencia.
 Si quieres ver más sobre nuestros servicios de Consultoría, ingresa a [https://www.metadocencia.org/consultoria/](https://www.metadocencia.org/consultoria/) 
 
 ## Agradecimientos
-Esta publicación fue posible gracias a un subsidio de Chan Zuckerberg Initiative (DOI: 10.5281/zenodo.7386372), los subsidios de la NASA 80NSSC23K0854 (DOI: 10.5281/zenodo.8215455), 80NSSC23K0857 (DOI: 10.5281/zenodo.8250978) y 80NSSC23K0861 (DOI: 10.5281/zenodo.8212072) y el grant DAF2021-239366 y DOI de subsidio https://doi.org/10.37921/522107izqogv de la Chan Zuckerberg Initiative DAF, un fondo aconsejado por la Silicon Valley Community Foundation (DOI de financiador 10.13039/100014989).
+Esta publicación fue posible gracias a un subsidio de Chan Zuckerberg Initiative (DOI: [https://zenodo.org/doi/10.5281/zenodo.7386372](https://zenodo.org/doi/10.5281/zenodo.7386372)), los subsidios de la NASA 80NSSC23K0854 (DOI: [https://zenodo.org/doi/10.5281/zenodo.8215455](https://zenodo.org/doi/10.5281/zenodo.8215455)), 80NSSC23K0857 (DOI: [https://zenodo.org/doi/10.5281/zenodo.8250978](https://zenodo.org/doi/10.5281/zenodo.8250978)) y 80NSSC23K0861 (DOI: [https://zenodo.org/doi/10.5281/zenodo.8212072](https://zenodo.org/doi/10.5281/zenodo.8212072)) y el grant DAF2021-239366 y DOI de subsidio [https://doi.org/10.37921/522107izqogv](https://doi.org/10.37921/522107izqogv) de la Chan Zuckerberg Initiative DAF, un fondo aconsejado por la Silicon Valley Community Foundation (DOI de financiador 10.13039/100014989).
 
 ---
 
 *¿Te gustó esta publicación? Puedes reutilizarla libremente bajo licencia CC by 4.0, solo tienes que citarla.* 
 
 Esta es la cita que te recomendamos usar para referenciarla:
-Esta es la cita que te recomendamos usar para referenciarla: Laurel Ascenzi, Paz Míguez, Jesica Formoso (2024). Trabajo intercomunidades: la experiencia de apoyo al fortalecimiento de la gobernanza comunitaria de LABI. Zenodo. https://doi.org/10.5281/zenodo.14186070
+Laurel Ascenzi, Paz Míguez, Jesica Formoso (2024). Trabajo intercomunidades: la experiencia de apoyo al fortalecimiento de la gobernanza comunitaria de LABI. Zenodo. [https://doi.org/10.5281/zenodo.14186070](https://doi.org/10.5281/zenodo.14186070)
