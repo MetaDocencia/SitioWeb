@@ -72,7 +72,7 @@ At MetaDocencia, we develop open, reusable, and accessible educational resources
 
 
 ## Acknowledgments
-This publication was made possible thanks to a grant from the Chan Zuckerberg Initiative (DOI: 10.5281/zenodo.7386372) NASA grants 80NSSC23K0854 (DOI: 10.5281/zenodo.8215455), 80NSSC23K0857 (DOI: 10.5281/zenodo.8250978), and 80NSSC23K0861 (DOI: 10.5281/zenodo.8212072), and grant DAF2021-239366 and grant DOI https://doi.org/10.37921/522107izqogv from the Chan Zuckerberg Initiative DAF, a fund advised by the Silicon Valley Community Foundation (Funder DOI 10.13039/100014989).
+This post has been made possible by Chan Zuckerberg Initiative (CZI) grant (DOI: [https://zenodo.org/doi/10.5281/zenodo.7386372](https://zenodo.org/doi/10.5281/zenodo.7386372)), NASA Grants 80NSSC23K0854 (DOI: https://zenodo.org/doi/10.5281/zenodo.8215455), 80NSSC23K0857 (DOI: https://zenodo.org/doi/10.5281/zenodo.8250978), and 80NSSC23K0861 (DOI: [https://zenodo.org/doi/10.5281/zenodo.8212072](https://zenodo.org/doi/10.5281/zenodo.8212072)), and CZI grant DAF2021-239366 and grant DOI [https://doi.org/10.37921/522107izqogv](https://doi.org/10.37921/522107izqogv) from the Chan Zuckerberg Initiative DAF, an advised fund of Silicon Valley Community Foundation (funder DOI 10.13039/100014989).
 
 ---
 
