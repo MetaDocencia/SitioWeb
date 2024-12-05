@@ -1,6 +1,7 @@
 ---
 title: Boletines
 ---
+- [Más metas: ¡allá vamos! 🎇 | Apuntes MetaDocentes N° 22](https://mailchi.mp/185abf8783d3/construyendo-en-comunidad-newsletter-n-19399555?e=1a7d1369ce)
 - [¡1, 2, yyy... 3! Cerrando el primer año de certificaciones ALTa 🏅 | Apuntes MetaDocentes N° 21](https://mailchi.mp/28bd30968894/construyendo-en-comunidad-newsletter-n-19398499)
 - [Plenarios de Ciencia Abierta 🌐 | Apuntes MetaDocentes N° 20](https://mailchi.mp/c509a699f636/construyendo-en-comunidad-newsletter-n-19397448?e=[UNIQID])
 - [ALTa Ciencia Abierta 3 ✨ | Apuntes MetaDocentes N° 19](https://mailchi.mp/68fdf87ee5e9/construyendo-en-comunidad-newsletter-n-17446876)
