@@ -56,3 +56,4 @@ This post has been made possible by Chan Zuckerberg Initiative (CZI) grant (DOI:
 ---
 
 *Did you like this post? You can reuse it freely under CC by 4.0 license. Just cite it!* 
+Ascenzi, L., Míguez, M. P., & Formoso, J. (2024). Intercommunity Work: The Experience of Supporting LABI's Community Governance Strengthening. Zenodo. https://doi.org/10.5281/zenodo.14288105
