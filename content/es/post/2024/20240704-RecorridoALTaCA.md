@@ -27,7 +27,7 @@ categories:
 
 Desde que nos sumamos a trabajar en la transformación hacia la Ciencia Abierta impulsada por la NASA, como te comentamos en [esta publicación](https://www.metadocencia.org/post/nasatops10puntos/), encaramos el recorrido de diseñar, desarrollar, contextualizar e implementar [cohortes virtuales de formación para hispanohablantes](https://zenodo.org/record/8215456) abarcando los cinco módulos de [Open Science 101](https://nasa.github.io/Transform-to-Open-Science/open-science-101/), diseñados inicialmente para personas anglo parlantes y con un alto sesgo hacia ambientes de investigación con recursos altos.
 
-Esto representó un semestre de planificación en nuestros pilares de Formación, Contextualización y Comunidad y de las áreas transversales de Infraestructura, Medición de Impacto y Comunicación. El propósito era combinar nuestra experiencia como docentes en modalidad virtual con el trabajo colaborativo de contextualización de los saberes desde y para las regiones de nuestra comunidad hispanohablante, para luego invitarla a las **cohortes de América Latina se Transforma a la (ALTa) Ciencia Abierta**.
+Esto representó un semestre de planificación en nuestros pilares de Formación, Contextualización y Comunidad y de las áreas transversales de Infraestructura, Medición de Impacto y Comunicación. El propósito era combinar nuestra experiencia como docentes en modalidad virtual con el trabajo colaborativo de la contextualización de los saberes desde y para las regiones de nuestra comunidad hispanohablante, para luego invitarla a las **cohortes de América Latina se Transforma a la (ALTa) Ciencia Abierta**.
 
 ## ¿Cómo lo hicimos? 
 Te compartimos parte del proceso: 
