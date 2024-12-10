@@ -48,7 +48,7 @@ Nos encontramos transitando este proceso sabiendo que aún nos queda camino por 
 
 
 ## Agradecimientos
-Esta publicación fue posible gracias a un subsidio de Chan Zuckerberg Initiative (DOI: 10.5281/zenodo.7386372), los subsidios de la NASA 80NSSC23K0854 (DOI: 10.5281/zenodo.8215455), 80NSSC23K0857 (DOI: 10.5281/zenodo.8250978) y 80NSSC23K0861 (DOI: 10.5281/zenodo.8212072) y el grant DAF2021-239366 y DOI de subsidio https://doi.org/10.37921/522107izqogv de la Chan Zuckerberg Initiative DAF, un fondo aconsejado por la Silicon Valley Community Foundation (DOI de financiador 10.13039/100014989) y el subsidio “Open Cloud Collaborative Project for Latin America and Africa (the Catalyst Project)” del mismo financiador (DOI: https://doi.org/10.5281/zenodo.8431422).
+Esta publicación fue posible gracias a un subsidio de Chan Zuckerberg Initiative (DOI: [https://zenodo.org/doi/10.5281/zenodo.7386372](https://zenodo.org/doi/10.5281/zenodo.7386372)), los subsidios de la NASA 80NSSC23K0854 (DOI: [https://zenodo.org/doi/10.5281/zenodo.8215455](https://zenodo.org/doi/10.5281/zenodo.8215455)), 80NSSC23K0857 (DOI: [https://zenodo.org/doi/10.5281/zenodo.8250978](https://zenodo.org/doi/10.5281/zenodo.8250978)) y 80NSSC23K0861 (DOI: [https://zenodo.org/doi/10.5281/zenodo.8212072](https://zenodo.org/doi/10.5281/zenodo.8212072)) y el grant DAF2021-239366 y DOI de subsidio https://doi.org/10.37921/522107izqogv de la Chan Zuckerberg Initiative DAF, un fondo aconsejado por la Silicon Valley Community Foundation (DOI: [http://dx.doi.org/10.13039/100014989](http://dx.doi.org/10.13039/100014989)) y el subsidio “Open Cloud Collaborative Project for Latin America and Africa (the Catalyst Project)” del mismo financiador (DOI: https://doi.org/10.5281/zenodo.8431422).
 
 ---
 

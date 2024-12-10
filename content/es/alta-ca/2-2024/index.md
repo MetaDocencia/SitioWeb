@@ -92,4 +92,4 @@ Pero tenemos buenas noticias: puedes inscribirte en la próxima edición que ser
 
 ---
 
-Esta formación es posible gracias al subsidio de la NASA 80NSSC23K0854 (DOI: 10.5281/zenodo.8430889) y al subsidio DAF2021-239366 y DOI de subsidio https://doi.org/10.37921/522107izqogv de la Chan Zuckerberg Initiative DAF, un fondo aconsejado por la Silicon Valley Community Foundation (DOI de financiador 10.13039/100014989).
+Esta formación es posible gracias al subsidio de la NASA 80NSSC23K0854 (DOI: 10.5281/zenodo.8430889) y al subsidio DAF2021-239366 y DOI de subsidio https://doi.org/10.37921/522107izqogv de la Chan Zuckerberg Initiative DAF, un fondo aconsejado por la Silicon Valley Community Foundation (DOI: [http://dx.doi.org/10.13039/100014989](http://dx.doi.org/10.13039/100014989)).

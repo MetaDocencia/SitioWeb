@@ -77,7 +77,7 @@ We would like to know what practices you carry out in your community to foster c
 
 
 ## Acknowledgments
-This publication was made possible thanks to grants from NASA 80NSSC23K0854 (DOI: 10.5281/zenodo.8215455), 80NSSC23K0857 (DOI: 10.5281/zenodo.8250978), and 80NSSC23K0861 (DOI: 10.5281/zenodo.8212072).
+This publication was made possible thanks to grants from NASA 80NSSC23K0854 (DOI: [https://zenodo.org/doi/10.5281/zenodo.8215455](https://zenodo.org/doi/10.5281/zenodo.8215455)), 80NSSC23K0857 (DOI: [https://zenodo.org/doi/10.5281/zenodo.8250978](https://zenodo.org/doi/10.5281/zenodo.8250978)), and 80NSSC23K0861 (DOI: [https://zenodo.org/doi/10.5281/zenodo.8212072](https://zenodo.org/doi/10.5281/zenodo.8212072)).
 
 ---
 
