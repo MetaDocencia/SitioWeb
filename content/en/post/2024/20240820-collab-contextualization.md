@@ -110,7 +110,7 @@ We would like to **especially recognize and thank our Contextualization team**, 
 - [Verónica Xhardez](https://www.metadocencia.org/en/authors/vxhardez/)
 
 ## Acknowledgments
-This publication was made possible by a grant from the Chan Zuckerberg Initiative (DOI: 10.5281/zenodo.7386372), NASA grants 80NSSC23K0854 (DOI: 10.5281/zenodo.8215455), 80NSSC23K0857 (DOI: 10.5281/zenodo.8250978), and 80NSSC23K0861 (DOI: 10.5281/zenodo.8212072), as well as grant DAF2021-239366 and grant DOI https://doi.org/10.37921/522107izqogv from the Chan Zuckerberg Initiative DAF, a donor-advised fund of Silicon Valley Community Foundation (Funder DOI 10.13039/100014989), and the grant “Open Cloud Collaborative Project for Latin America and Africa (the Catalyst Project)” from the same funder (DOI: https://doi.org/10.5281/zenodo.8431422).
+This publication was made possible by a grant from the Chan Zuckerberg Initiative (DOI: [https://zenodo.org/doi/10.5281/zenodo.7386372](https://zenodo.org/doi/10.5281/zenodo.7386372)), NASA grants 80NSSC23K0854 (DOI: [https://zenodo.org/doi/10.5281/zenodo.8215455](https://zenodo.org/doi/10.5281/zenodo.8215455)), 80NSSC23K0857 (DOI: [https://zenodo.org/doi/10.5281/zenodo.8250978](https://zenodo.org/doi/10.5281/zenodo.8250978)), and 80NSSC23K0861 (DOI: [https://zenodo.org/doi/10.5281/zenodo.8212072](https://zenodo.org/doi/10.5281/zenodo.8212072)), as well as grant DAF2021-239366 and grant DOI https://doi.org/10.37921/522107izqogv from the Chan Zuckerberg Initiative DAF, a donor-advised fund of Silicon Valley Community Foundation (Funder DOI 10.13039/100014989), and the grant “Open Cloud Collaborative Project for Latin America and Africa (the Catalyst Project)” from the same funder (DOI: https://doi.org/10.5281/zenodo.8431422).
 
 ---
 

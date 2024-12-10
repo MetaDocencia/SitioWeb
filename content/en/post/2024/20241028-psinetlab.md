@@ -47,7 +47,7 @@ These activities seek findings and methodologies from different groups, ensuring
 *This is an Open Science in Action Story written by its participants to share the initiative in MetaDocencia channels and beyond. To submit your story, please, [complete the form](https://docs.google.com/forms/d/e/1FAIpQLSfC9eZfIn_rOf4Ist21AHOySWsZ-v4lCn1oN-xW3mJL6kWIeg/viewform) (in Spanish)*
 
 ## Acknowledgments
-This publication was made possible by a grant from the Chan Zuckerberg Initiative (DOI: 10.5281/zenodo.7386372), NASA grants 80NSSC23K0854 (DOI: 10.5281/zenodo.8215455), 80NSSC23K0857 (DOI: 10.5281/zenodo.8250978), and 80NSSC23K0861 (DOI: 10.5281/zenodo.8212072), and grant DAF2021-239366 with DOI https://doi.org/10.37921/522107izqogv from the Chan Zuckerberg Initiative DAF, an advised fund of the Silicon Valley Community Foundation (Funder DOI 10.13039/100014989).
+This publication was made possible by a grant from the Chan Zuckerberg Initiative (DOI: [https://zenodo.org/doi/10.5281/zenodo.7386372](https://zenodo.org/doi/10.5281/zenodo.7386372)), NASA grants 80NSSC23K0854 (DOI: [https://zenodo.org/doi/10.5281/zenodo.8215455](https://zenodo.org/doi/10.5281/zenodo.8215455)), 80NSSC23K0857 (DOI: [https://zenodo.org/doi/10.5281/zenodo.8250978](https://zenodo.org/doi/10.5281/zenodo.8250978)), and 80NSSC23K0861 (DOI: [https://zenodo.org/doi/10.5281/zenodo.8212072](https://zenodo.org/doi/10.5281/zenodo.8212072)), and grant DAF2021-239366 with DOI https://doi.org/10.37921/522107izqogv from the Chan Zuckerberg Initiative DAF, an advised fund of the Silicon Valley Community Foundation (Funder DOI 10.13039/100014989).
 
 ---
 

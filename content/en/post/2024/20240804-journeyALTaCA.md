@@ -62,7 +62,7 @@ The first pilot cohort began on Wednesday, June 26th, with more than 100 people 
 If you want to read more, exchange ideas on these topics, or you are interested in participating, we invite you to join our [#alta-ciencia-abierta channel on Slack](https://w3id.org/metadocencia/slack) (English also welcome in the #english channel). 
 
 ## Acknowledgements
-This publication was made possible by a grant from the Chan Zuckerberg Initiative (DOI: 10.5281/zenodo.7386372), NASA grants 80NSSC23K0854 (DOI: 10.5281/zenodo.8215455), 80NSSC23K0857 (DOI: 10.5281/zenodo.8250978), and 80NSSC23K0861 (DOI: 10.5281/zenodo.8212072), and grant DAF2021-239366 with DOI https://doi.org/10.37921/522107izqogv from the Chan Zuckerberg Initiative DAF, an advised fund of the Silicon Valley Community Foundation (Funder DOI 10.13039/100014989).
+This publication was made possible by a grant from the Chan Zuckerberg Initiative (DOI: [https://zenodo.org/doi/10.5281/zenodo.7386372](https://zenodo.org/doi/10.5281/zenodo.7386372)), NASA grants 80NSSC23K0854 (DOI: [https://zenodo.org/doi/10.5281/zenodo.8215455](https://zenodo.org/doi/10.5281/zenodo.8215455)), 80NSSC23K0857 (DOI: [https://zenodo.org/doi/10.5281/zenodo.8250978](https://zenodo.org/doi/10.5281/zenodo.8250978)), and 80NSSC23K0861 (DOI: [https://zenodo.org/doi/10.5281/zenodo.8212072](https://zenodo.org/doi/10.5281/zenodo.8212072)), and grant DAF2021-239366 with DOI https://doi.org/10.37921/522107izqogv from the Chan Zuckerberg Initiative DAF, an advised fund of the Silicon Valley Community Foundation (Funder DOI 10.13039/100014989).
 
 ---
 

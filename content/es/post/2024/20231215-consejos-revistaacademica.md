@@ -85,7 +85,7 @@ Nos enteramos de que Nature Human Behaviour está interesada en aumentar la dive
 
 ¿Alguna vez te encargaron un artículo por invitación? ¿Trabajas en el cuerpo editorial de alguna revista académica y tienes más consejos para agregar? ¿Te gustaría seguir charlando sobre este tema? ¡Únete a nuestro espacio de trabajo de [Slack](https://w3id.org/metadocencia/slack) y cuéntanoslo todo!
 
-Esta publicación ha sido posible gracias a NASA Grants 80NSSC23K0854 (DOI: 10.5281/zenodo.8215455), 80NSSC23K0857 (DOI: 10.5281/zenodo.8250978) y 80NSSC23K0861 (DOI: 10.5281/zenodo.8212072), el subsidio CZ DAF2021-239366 y el subsidio DOI https://doi.org/10.37921/522107izqogv de la Chan Zuckerberg Initiative DAF, un fondo asesorado de la Silicon Valley Community Foundation (fondo DOI 10.13039/100014989).
+Esta publicación ha sido posible gracias a NASA Grants 80NSSC23K0854 (DOI: [https://zenodo.org/doi/10.5281/zenodo.8215455](https://zenodo.org/doi/10.5281/zenodo.8215455)), 80NSSC23K0857 (DOI: [https://zenodo.org/doi/10.5281/zenodo.8250978](https://zenodo.org/doi/10.5281/zenodo.8250978)) y 80NSSC23K0861 (DOI: [https://zenodo.org/doi/10.5281/zenodo.8212072](https://zenodo.org/doi/10.5281/zenodo.8212072)), el subsidio CZ DAF2021-239366 y el subsidio DOI https://doi.org/10.37921/522107izqogv de la Chan Zuckerberg Initiative DAF, un fondo asesorado de la Silicon Valley Community Foundation (fondo DOI 10.13039/100014989).
 
 ---
 
