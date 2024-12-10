@@ -48,6 +48,7 @@ En 2023 por primera vez nos encontramos presencialmente y pudimos abrazarnos, co
 El evento de cierre de 2023, un año complejo en lo social a nivel local e internacional, necesitaba un motivo fuerte para sostener al bienestar como uno de los valores fundamentales de nuestra comunidad y así lograr darle prioridad a la construcción de espacios de trabajo solidarios y empáticos, a la vez que motivadores. Nos preguntamos ¿cómo podemos hacer que las personas se sientan parte de este proyecto colectivo, valoren su contribución y reconozcan la de las demás personas? 
 
 <img src="https://www.metadocencia.org/img/eventos-cultura-bienestar5.jpeg" alt="Captura de pantalla de la reunión virtual en la que entregamos los Premios Manzanita. Se ve al equipo vestido de manera elegante, brindando y sonrientes." width="600px"/>
+
 *Los Premios Manzanita 2023 buscan seguir sosteniendo y creando cultura del bienestar comunitaria a través del reconocimiento individual y colectivo.*
 
 Los Premios Manzanita se propusieron hacer explícitas las contribuciones singulares, especiales y únicas de las personas que integran MetaDocencia para promover el bienestar, motivar y abrazar las individualidades que empujan el colectivo diariamente hacia un mismo objetivo. ¿Cómo lo hicimos?
