@@ -2,7 +2,7 @@
 date: "2024-12-16"
 draft: false
 linktitle: ALTa Ciencia Abierta
-summary: América Latina se Transforma a la Ciencia Abierta. 
+summary: Las inscripciones abrirán la última semana de enero de 2025. 
 title: "ALTa Ciencia Abierta 4 2025"
 authors:
   - MetaDocencia
@@ -18,7 +18,7 @@ tags:
 
 **Junto a la NASA, MetaDocencia invita a todas las personas de comunidades hispanohablantes que quieran sumarse a cohortes virtuales de formación de 6 semanas para explorar los principios de la Ciencia Abierta en América Latina.**
 
-La misión ALTa CA se enfoca en construir conocimiento alrededor de distintos temas que componen el mundo de la Ciencia Abierta con mirada local, pensando en situaciones y ejemplos de nuestra propia vivencia en América Latina.
+La misión América Latina se Transforma a la Ciencia Abierta (ALTa CA) se enfoca en construir conocimiento alrededor de distintos temas que componen el mundo de la Ciencia Abierta con mirada local, pensando en situaciones y ejemplos de nuestra propia vivencia en América Latina.
 
 **Tanto las cohortes como las certificaciones serán en formato virtual y 100% en español.**
 
