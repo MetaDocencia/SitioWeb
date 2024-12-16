@@ -60,10 +60,10 @@ Puedes usar [https://www.horamundial.com/](https://www.horamundial.com/) o [http
 |  Día/hora (UTC-3) | Tema (click para ver la Hoja de Ruta con contenidos y cronograma por módulo) |
 | ---:  | :----------- |
 |Mié 05-02 - 10 a 13 | [*Principios de la Ciencia Abierta*](https://www.metadocencia.org/alta-ca/modulo_1/) | 
-|Mié 12-02 - 10 a 13 | [*Herramientas y recursos abiertos*](https://www.metadocencia.org/alta-ca/modulo_2/) | 
+|Mié 12-02 - 10 a 13 | [*Herramientas y Recursos Abiertos*](https://www.metadocencia.org/alta-ca/modulo_2/) | 
 |Mié 19-02 - 10 a 13 | [*Datos Abiertos*](https://www.metadocencia.org/alta-ca/modulo_3/) |
 |Mié 26-02 - 10 a 13 | [*Código Abierto*](https://www.metadocencia.org/alta-ca/modulo_4/) |
-|Mié 05-03 - 10 a 13 | [*Resultados abiertos*](https://www.metadocencia.org/alta-ca/modulo_5/) |
+|Mié 05-03 - 10 a 13 | [*Resultados Abiertos*](https://www.metadocencia.org/alta-ca/modulo_5/) |
 |Mié 12-03 - 10 a 13 | [*Plenario de Iniciativas de Ciencia Abierta*](https://www.metadocencia.org/alta-ca/modulo_6/) |
 
 Para aumentar la accesibilidad de esta formación, cada encuentro será grabado y compartiremos su registro al día siguiente.
