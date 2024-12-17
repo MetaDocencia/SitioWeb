@@ -2,7 +2,7 @@
 date: "2024-12-16"
 draft: false
 linktitle: ALTa Ciencia Abierta
-summary: Las inscripciones abrirán la última semana de enero de 2025. 
+summary: Las inscripciones abrirán el 23 de enero de 2025. 
 title: "ALTa Ciencia Abierta 4 2025"
 authors:
   - MetaDocencia
@@ -82,7 +82,7 @@ Además, entregaremos un certificado de asistencia de MetaDocencia a quienes par
 **Esta capacitación tiene un valor económico y está subsidiada por nuestros [auspiciantes](https://www.metadocencia.org/sponsors/), por lo que la inscripción, el cursado y la certificación son gratuitas.**
 Las vacantes son limitadas por cada edición, por eso **te pedimos que te inscribas solo si podrás participar activamente**. En caso de que se complete el cupo, habilitaremos una lista de espera para que puedas sumarte a la próxima edición.
 
-*Las inscripciones abrirán la última semana de enero de 2025.*
+*Las inscripciones abrirán el 23 de enero de 2025.*
 
 
 ## ¡Sírvete sin culpa!
