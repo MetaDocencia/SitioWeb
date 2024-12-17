@@ -80,7 +80,7 @@ MetaDocencia will issue an attendance certificate to those who actively particip
 Our materials are available for free under this [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/deed.es). You can reuse or edit any material that appears here. We only ask that you include a reference to this website or the material citation when available. For further information, please contact us at formacion@metadocencia.org
 
 ## How to participate
-This training will be offered in Spanish.*
+This training will be offered in Spanish.
 
 *Vacancies are limited for each edition, so we ask you to register **only if you will be able to participate**. In case the quota is full, we will set up a waiting list so that you can join the next cohort.*
 
