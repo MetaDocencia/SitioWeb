@@ -1,6 +1,6 @@
 ---
 date: "2024-12-16"
-draft: true
+draft: false
 linktitle: ALTa Ciencia Abierta
 summary: Las inscripciones abrirán el 17 de marzo.
 title: "ALTa Ciencia Abierta 5 2025"
