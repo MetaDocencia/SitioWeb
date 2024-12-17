@@ -2,7 +2,7 @@
 date: "2024-12-17"
 draft: false
 linktitle: ALTa Ciencia Abierta
-summary: Registration opens on January 23rd., 2025.  
+summary: Registration opens on January 23, 2025.  
 title: "ALTa Ciencia Abierta 4 2025"
 authors:
   - MetaDocencia
