@@ -18,7 +18,7 @@ tags:
 
 **Together with NASA, MetaDocencia invites people from Spanish-speaking communities to join 6-week online training cohorts to extend the principles of Open Science in Latin America and beyond.** 
 
-Latin America Transforms to Open Science (ALTa CA, by its Spanish acronym) mission focuses on building contextualized knowledge around different topics with a local perspective, thinking about situations and examples from our experience in Latin America.
+ALTa Ciencia Abierta (Latin America Transforms to Open Science, by its Spanish acronym) mission focuses on building contextualized knowledge around different topics with a local perspective, thinking about situations and examples from our experience in Latin America.
 
 **Both cohorts and certifications will be online and 100% in Spanish**.
 
