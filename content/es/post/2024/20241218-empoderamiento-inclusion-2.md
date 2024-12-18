@@ -79,7 +79,7 @@ La falta de oportunidades a lo largo del tiempo afecta acumulativamente las pers
 **Es probable que cometas errores al trabajar con personas que pertenecen a minorías con las que no te identificas personalmente**, incluso cuando actúes con las mejores intenciones. Si te ha pasado, no te preocupes: somos humanos y cometemos errores. 
 **Asume la responsabilidad de tus errores lo antes posible, pide disculpas a las personas afectadas** (idealmente por el mismo medio por el que cometiste el error, para llegar a las mismas personas), **corrige cualquier acción que pueda enmendarse y comprométete a aprender de la situación y a no repetir el error.**
 
-## 8. Asegúrate de que una parte sustancial del presupuesto se destina a las minorías que pretendes incluir.
+### 8. Asegúrate de que una parte sustancial del presupuesto se destina a las minorías que pretendes incluir.
 Quienes representan a minorías y participan activamente en tu proyecto ansían cambios tangibles. **Oír hablar del valor de la diversidad, la equidad y la inclusión sin ver esas palabras reflejadas en acciones concretas es agotador, y una razón para dejar de invertir tiempo y esfuerzo en un proyecto. Para lograr cambios:**
 - Es necesario que alguien con poder significativo en el proyecto lidere y apoye firmemente las iniciativas de diversidad, equidad e inclusión, y no alguien que sólo se base en el entusiasmo y las buenas intenciones.
 - Para que las buenas intenciones vayan más allá de las palabras bonitas, es necesario que tu organización destine una parte sustancial de su presupuesto a garantizar que se produzca el cambio, y que esta parte del presupuesto llegue a manos de las minorías a las que se pretende incluir.
