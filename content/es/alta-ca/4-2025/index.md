@@ -20,7 +20,7 @@ tags:
 
 La misión América Latina se Transforma a la Ciencia Abierta (ALTa CA) se enfoca en construir conocimiento alrededor de distintos temas que componen el mundo de la Ciencia Abierta con mirada local, pensando en situaciones y ejemplos de nuestra propia vivencia en América Latina.
 
-**Tanto las cohortes como las certificaciones serán en formato virtual y 100% en español.**
+**La formación será en formato virtual y 100% en español.**
 
 ## Motivaciones para participar
 Quienes completen esta formación podrán:
@@ -51,7 +51,7 @@ Cada cohorte tendrá **6 encuentros sincrónicos virtuales, con frecuencia seman
 Durante los encuentros reflexionaremos sobre cada uno de los cinco módulos del curso de Introducción a la Ciencia Abierta de la NASA. Incluirán actividades destinadas a promover el intercambio, discutir entre pares en salas de trabajo, y presentar iniciativas o proyectos de quienes asistan.
 
 ## Cronograma
-En cada encuentro se presentan los conceptos claves del módulo, definiciones de términos y casos o proyectos con perspectiva latinoamericana para ilustrar las recomendaciones sobre el tema con buenas prácticas contextualizadas (puedes acceder a la hoja de ruta con los contenidos de cada módulo desde el cronograma).
+En cada encuentro se presentan los conceptos claves del módulo, definiciones de términos y casos o proyectos con perspectiva latinoamericana para ilustrar las recomendaciones sobre el tema con buenas prácticas contextualizadas (puedes acceder a la hoja de ruta con los contenidos desde el cronograma).
 En el sexto encuentro se desarrolla un Plenario de Iniciativas de Ciencia Abierta en español, en el que participantes podrán compartir sus experiencias y tendrán la posibilidad de intercambiar aprendizajes. 
 
 *Los días y horarios se indican en UTC-3, hora de Argentina. Ejemplo de cambios por zona horaria latinoamericana: 11 am hora de Argentina/9 am hora de Colombia/8 am hora de Mexico. 
