@@ -36,7 +36,7 @@ categories:
 
 At MetaDocencia, we understand inclusion implies listening to, respecting, and valuing all persons as peers, with power over decisions and budgets. We know this is not a universal definition of inclusion. However, when this does not happen, those of us minoritized tend to become exhausted and feel undervalued, potentially leading to disengagement. In this post, we share our experiences over decades of being part of different minorities in diverse international projects. Sadly, many of these projects lost the value of what we could contribute because the number of pyrrhic battles in a lifetime is finite.
 
-***This is the first of a 2-part blog post series that we hope will make individuals representing minorities in your group or project feel valued.** Read part 2 in this link or access the complete article on our Zenodo page here: [https://doi.org/10.5281/zenodo.14509713](https://doi.org/10.5281/zenodo.14509713)* 
+***This is the first of a 2-part blog post series that we hope will make individuals representing minorities in your group or project feel valued.** Read [part 2 in this link](https://www.metadocencia.org/en/post/2024/20241122-empowerment-inclusion-2/) or access the complete article on our Zenodo page here: [https://doi.org/10.5281/zenodo.14509713](https://doi.org/10.5281/zenodo.14509713)* 
 
 ## Who will Find this Publication Most Useful?
 This could be of interest if you:
