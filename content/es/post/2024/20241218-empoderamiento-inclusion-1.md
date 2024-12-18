@@ -36,7 +36,7 @@ categories:
 
 En MetaDocencia entendemos que la inclusión implica escuchar, respetar y valorar a todas las personas como iguales, con poder sobre las decisiones y los presupuestos. Sabemos que esta no es una definición universal de inclusión. Sin embargo, cuando esto no ocurre, quienes estamos en minoría tendemos a agotarnos y a sentir subestimación, lo que puede llevar a la desvinculación. En esta publicación compartimos nuestras experiencias a lo largo de décadas de formar parte de diferentes minorías en diversos proyectos internacionales. Lamentablemente, muchos de estos proyectos se perdieron el valor de lo que podíamos aportar porque el número de batallas pírricas en una vida es finito.
 
-***Esta es la primera de una serie de 2 entradas de blog que esperamos que hagan que las personas que representan a minorías en su grupo o proyecto se sientan valoradas.** Lee [la segunda parte en este enlace]() o accede al artículo completo en nuestra página de Zenodo aquí: 
+**Esta es la primera de una serie de 2 entradas de blog que esperamos que hagan que las personas que representan a minorías en su grupo o proyecto se sientan valoradas.** Lee [la segunda parte en este enlace](https://www.metadocencia.org/post/2024/20241218-empoderamiento-inclusion-2/) o accede al artículo completo en nuestra página de Zenodo aquí: 
 [https://doi.org/10.5281/zenodo.14510588](https://doi.org/10.5281/zenodo.14510588)
 
 ##  ¿A quién le resultará útil esta publicación?
