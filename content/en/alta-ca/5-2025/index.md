@@ -20,7 +20,7 @@ tags:
 
 ALTa Ciencia Abierta (Latin America Transforms to Open Science, by its Spanish acronym) mission focuses on building contextualized knowledge around different topics with a local perspective, thinking about situations and examples from our experience in Latin America.
 
-**Both cohorts and certifications will be online and 100% in Spanish**.
+**The training will be online and 100% in Spanish**.
 
 ## Why participate?
 
@@ -52,7 +52,7 @@ Each cohort will have **one 3-hour-long synchronous online meeting per week duri
 During the meetings, we will reflect on the five NASA TOPS Open Science 101 course modules. They will include activities to promote exchange, discussion among peers in breakout rooms, and presentation of initiatives or projects of those who attend.
 
 ## Schedule
-At each meeting, the key concepts of the module, definitions of terms and cases, or projects with a Latin American perspective are presented to illustrate the recommendations on the subject with contextualized good practices (you can access the roadmap with the contents of each module from the schedule). In the sixth meeting, a Plenary of Open Science Initiatives will be held in Spanish, in which participants will be able to share their experiences and will have the opportunity to exchange learning.
+At each meeting, the key concepts of the module, definitions of terms and cases, or projects with a Latin American perspective are presented to illustrate the recommendations on the subject with contextualized good practices (you can access the roadmap with the contents from the schedule). In the sixth meeting, a Plenary of Open Science Initiatives will be held in Spanish, in which participants will be able to share their experiences and will have the opportunity to exchange learning.
 
 *Days and times are indicated in UTC-3, Argentina time. Example of changes by Latin American time zone: 11 AM Argentina time/9 AM Colombia time/8 AM Mexico time. You can use [https://www.horamundial.com/](https://www.horamundial.com/) or [https://dateful.com/time-zone-converter](https://dateful.com/time-zone-converter) to check the time zone where you are.*
 
