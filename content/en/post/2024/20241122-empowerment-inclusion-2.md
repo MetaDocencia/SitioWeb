@@ -1,6 +1,6 @@
 ---
 date: "2024-11-22"
-draft: true
+draft: false
 type: page
 linktitle: Empowerment Through Inclusion
 summary: "This is the second of a 2-part blog post series that we hope will make individuals representing minorities in your group or project feel valued."
@@ -15,6 +15,8 @@ authors:
   - mgranados
   - mrasheed
   - npalopoli
+  - patriloto
+  - plefer
   - rmosbergen
   - selgebali
   - vvarni
@@ -32,7 +34,7 @@ categories:
 ## Our Motivation
 **Here we detail some actionable approaches to active care that you can take to help marginalized persons build trust, value their individuality, protect their identity, and promote their participation as key actions to foster empowerment through inclusion.** 
 
-*This is the second of a 2-part blog post series that we hope will make individuals representing minorities in your group or project feel valued. Read part 1 in this link or access the complete article in our Zenodo page here:* 
+*This is the second of a 2-part blog post series that we hope will make individuals representing minorities in your group or project feel valued. Read part 1 in [this link](https://www.metadocencia.org/en/post/2024/20241122-empowerment-inclusion-1/) or access the complete article in our Zenodo page here: [https://doi.org/10.5281/zenodo.14509713](https://doi.org/10.5281/zenodo.14509713)* 
 
 ![Screenshot of a bingo card including the options: "listen as a peer", "avoid silence as response", "support those who speak up", "trust the lived experience", "avoid being condescending", "make up for lost opportunities", "take responsibility and apologize", "budget adequately for minorities", "be transparent in recruitment and promotions", "have a trained code of conduct committee", "acknowledge all contributions", including MetaDocencia's logo.](https://www.metadocencia.org/img/bingo-inclusion.jpg) 
 
@@ -45,31 +47,30 @@ categories:
 The Intersectionality Spectrum [[4](https://www.practicaldiversity.org/accessible/2022-02_Diversity_in_Leadership/#intersectionality)] indicates the most marginalized minority should be centered throughout the team. We agree that this is the ideal approach. In the real world, the bare minimum is to **treat marginalized persons as peers**: 
 - When someone from a minority points out something they disagree with, try to listen to them with an open mind rather than defensiveness.
 - Explaining things to your peers should not be necessary unless they ask for an explanation, especially if the person comes from a different context, exposed to different situations.
-- Interact with them the same way you would with an expert you already know, and value their opinion as you would that of any other expert.
-The more minorities someone belongs to, the richer the experience they can offer. At the same time, if someone represents many intersectionalities they will try to bring attention to more complex problems. This, without proper attention, might even increase their defensiveness.
+- Interact with them the same way you would with an expert you already know, and value their opinion as you would that of any other expert. The more minorities someone belongs to, the richer the experience they can offer. At the same time, if someone represents many intersectionalities they will try to bring attention to more complex problems. This, without proper attention, might even increase their defensiveness.
 
 ### 2. Avoid silence as response to messages in professional settings, especially when the response involves less-heard voices
 **Keep in mind that expressing oneself, particularly for a minoritized person, may involve a lot of extra work. Not responding, not even with a “thank you” or an emoji, can be a microaggression.** 
 There are cases in which a lack of answers can be particularly severe. For instance, when the minoritized person asks to act on behalf of their minoritized group in decisions that affect them. We have experienced it and we learned that when we are ignored, this shows how little that environment values us.
 
 ### 3. Ease the path for minoritized persons who speak up 
-It is also important to pay special attention to the ones who, while minoritized, are brave enough to speak and actively participate, as they must be going through a huge emotional effort and exposing themselves personally and professionally. **Protect them and make them feel safe:** 
+It is also important to pay special attention to the ones who, while minoritized, are brave enough to speak and actively participate, as they must be going through a huge emotional effort and exposing themselves personally and professionally. **Protect them and make them feel safe**: 
 - It is crucial to ease the path for these individuals.
 - Pay attention to not adding extra layers and tasks.
 - Provide spaces for their perspectives, suggestions, and work to be visible and thus give them more opportunities.
-- Make efforts not to have them labeled as ‘difficult’ or ‘divisive’ for doing or saying things that people in the majority can get away with. 
+- Make efforts not to have them labeled as "difficult" or "divisive" for doing or saying things that people in the majority can get away with. 
 
 Despite being minoritized, individuals who dare to participate will only continue to engage if they feel their voice is accepted on equal terms as the rest of the voices.
 
 ### 4. If the discussed topic affects a minoritized group, trust the lived experience of the marginalized person from that minoritized group 
 We know that being aware of our biases is challenging. However, **in spaces where we are working to include minorities, it is key to strive to identify biases against minorities and minimize them as much as possible**. Going against our internal biases to promote minorities' rights may also seem biased, but it is only a result of our initial bias. 
-
+ 
 ### 5. If you want to support a minoritized group, avoid being condescending 
 It is an excellent initiative if you are willing to help a minoritized group. To truly act as an ally, **remember that fruitful alliances closely follow what minorities need rather than what well-intentioned allies may think is best.** 
-When a minoritized person proposes changes to your actions or suggests different actions, prioritize their requests even if you do not fully understand them. Even if the minoritized individual cannot articulate their reasons in the way the status quo demands, it would be difficult to find someone else in your group who likely understands better what is necessary for their community than someone committed to representing that minoritized community. **The most powerful words you can say to a minoritized person is: “What do we need to do as a team to ensure you can work comfortably, without limitations?”**
+When a minoritized person proposes changes to your actions or suggests different actions, prioritize their requests even if you do not fully understand them. Even if the minoritized individual cannot articulate their reasons in the way the *status quo* demands, it would be difficult to find someone else in your group who likely understands better what is necessary for their community than someone committed to representing that minoritized community. **The most powerful words you can say to a minoritized person is: “What do we need to do as a team to ensure you can work comfortably, without limitations?”**
 
 ### 6. Ensure that you give minorities more opportunities to make up for the ones they have lost 
-**You should use a contextualized Intersectionality Spectrum [[4](https://www.practicaldiversity.org/accessible/2022-02_Diversity_in_Leadership/#intersectionality)] to weigh those opportunities**. You can also recognise that different people have different degrees of difficulty that they go through. 
+**You should use a contextualized Intersectionality Spectrum [[4](https://www.practicaldiversity.org/accessible/2022-02_Diversity_in_Leadership/#intersectionality)] to weigh those opportunities**. You can also recognize that different people have different degrees of difficulty that they go through. 
 The lack of opportunities over time cumulatively affects their employment prospects as they get older [[4](https://www.practicaldiversity.org/accessible/2022-02_Diversity_in_Leadership/#intersectionality)]. Make training available to familiarize minorities with skills that are "common" or relevant to the organization, like talking in public, academic writing, networking, etc. At the same time note that people from marginalized groups might not need mentoring or a new skill set: they may simply need an opportunity. When in doubt of what a person's needs are, do not assume, ask.
 
 ### 7. Accept your responsibility for mistakes and apologize 
@@ -82,8 +83,8 @@ Individuals representing minorities who actively participate in your project cra
 - It is necessary that someone with significant power in the project leads and strongly supports the diversity, equity, and inclusion initiatives, not someone who only relies on enthusiasm and good intentions.
 - In order for good intentions to go beyond pretty words, it is necessary that your organization commits a substantial part of its budget to ensuring change takes place, and that this part of the budget reaches the hands of the minorities intended to be included.
 - The burden of effort often ends up on the shoulders of minority groups, and those in charge must find a way to ensure that minorities are not contributing their work and knowledge for free.
-- Beyond an "Equal pay for equal work" policy, equity also touches on benefits and other perks like the equipment needed to do the job. 
-If the necessary funds are not available, then the more prestigious and visible roles should be reserved for the most marginalized individuals, while persons with greater historical privilege will take on the less visible tasks.
+- Beyond an "Equal pay for equal work" policy, equity also touches on benefits and other perks like the equipment needed to do the job.
+- If the necessary funds are not available, then the more prestigious and visible roles should be reserved for the most marginalized individuals, while persons with greater historical privilege will take on the less visible tasks.
 
 ### 9. Be transparent in recruitment and promotions 
 **Often minorities feel less comfortable applying for a job, especially for higher positions. To help marginalized persons build trust and increase confidence:**
@@ -115,13 +116,18 @@ Value and enhance everyone’s expertise. Minorities usually have diverse (thus 
 - At the core, to enhance diversity and empower the marginalized, you need a generous heart.
 - Do not exploit minoritized individuals and tie them down to your project in return. Give them the freedom to fly.
 
-We know all this because we have been lucky to take part in projects where, as minorities, we have participated as peers. We have also participated in other projects where, after a while, and maybe though we were tempted to keep going ‘to please the power’ or ‘not to lose an opportunity’, we had to put strict boundaries (as in the ‘Living BIG’ lesson by Brené Brown [[8](https://quietconnections.co.uk/blog/boundaries/)]) or even chose to stop contributing because life taught us not to accept less than what we deserve. 
+We know all this because we have been lucky to take part in projects where, as minorities, we have participated as peers. We have also participated in other projects where, after a while, and maybe though we were tempted to keep going ‘to please the power’ or ‘not to lose an opportunity’, we had to put strict boundaries (as in the "Living BIG" lesson by Brené Brown [[8](https://quietconnections.co.uk/blog/boundaries/)]) or even chose to stop contributing because life taught us not to accept less than what we deserve. 
 
 **What do you think of these ideas? Do you have others to share? Are you part of a minoritized group and want to share your experience? Are you part of a project that seeks to include or retain minorities and want to know more?  Join our community in [Slack](https://w3id.org/metadocencia/slack) (in Spanish, with English also welcome in the #english channel) and tell us your story!**
 
+
 ## Acknowledgments
-This publication was made possible by NASA grants 80NSSC23K0854 (DOI: 10.5281/zenodo.8215455), 80NSSC23K0857 (DOI: 10.5281/zenodo.8250978), and 80NSSC23K0861 (DOI: 10.5281/zenodo.8212072), grant DAF2021-239366 and grant DOI https://doi.org/10.37921/522107izqogv from the Chan Zuckerberg Initiative DAF, a fund advised by the Silicon Valley Community Foundation (Funder DOI 10.13039/100014989), and the Digital Europe Programme under Grant No. 101100604 (BioNT).
+This report was made possible by NASA grants 80NSSC23K0854 (DOI: [10.5281/zenodo.8215455](https://zenodo.org/doi/10.5281/zenodo.8215455)), 80NSSC23K0857 (DOI: [10.5281/zenodo.8250978](https://zenodo.org/doi/10.5281/zenodo.8250978)), and 80NSSC23K0861 (DOI: [10.5281/zenodo.8212072](https://zenodo.org/doi/10.5281/zenodo.8212072)), grant DAF2021-239366 and grant DOI [10.37921/522107izqogv](https://doi.org/10.37921/522107izqogv) from the Chan Zuckerberg Initiative DAF, a fund advised by the Silicon Valley Community Foundation (Funder DOI 10.13039/100014989), and the Digital Europe Programme under Grant No. 101100604 (BioNT).
 
 ---
 
 *Did you like this publication? You can reuse it freely under CC BY 4.0 license, just remember to cite it.* 
+
+This is the recommended citation to use for reference:
+
+Eunice Mercado-Lara, Julián Buede, Laura Ación, L. Paloma Rojas-Saunero, Lisanna Paladin, Luciana Benotti, Monica Granados, Muneera A. Rasheed, Nicolás Palopoli,  Patricia Loto, Paola Lefer, Rowland Mosbergen, Sara El-Gebali, Vanina Varni. (2024). Empowerment through Inclusion: Strengthening Project Engagement with Minoritized Voices. Zenodo. [https://doi.org/10.5281/zenodo.14509713](https://doi.org/10.5281/zenodo.14509713)
