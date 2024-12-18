@@ -74,6 +74,7 @@ But if including someone seems impossible and they do not participate much or al
 
 **What do you think of these ideas? Do you have others to share? Are you part of a minoritized group and want to share your experience? Are you part of a project that seeks to include or retain minorities and want to know more?  Join our community in [Slack](https://w3id.org/metadocencia/slack) (in Spanish, with English also welcome in the #english channel) and tell us your story!**
 
+
 ## Acknowledgments
 This report was made possible by NASA grants 80NSSC23K0854 (DOI: [10.5281/zenodo.8215455](https://zenodo.org/doi/10.5281/zenodo.8215455)), 80NSSC23K0857 (DOI: [10.5281/zenodo.8250978](https://zenodo.org/doi/10.5281/zenodo.8250978)), and 80NSSC23K0861 (DOI: [10.5281/zenodo.8212072](https://zenodo.org/doi/10.5281/zenodo.8212072)), grant DAF2021-239366 and grant DOI [10.37921/522107izqogv](https://doi.org/10.37921/522107izqogv) from the Chan Zuckerberg Initiative DAF, a fund advised by the Silicon Valley Community Foundation (Funder DOI 10.13039/100014989), and the Digital Europe Programme under Grant No. 101100604 (BioNT).
 
