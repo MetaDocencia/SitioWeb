@@ -1,6 +1,8 @@
 ---
 title: Boletines
 ---
+**[Suscribirse para recibir el boletín de MetaDocencia](https://www.metadocencia.org/suscripcion/)**
+
 - [Más metas: ¡allá vamos! 🎇 | Apuntes MetaDocentes N° 22](https://mailchi.mp/185abf8783d3/construyendo-en-comunidad-newsletter-n-19399555?e=1a7d1369ce)
 - [¡1, 2, yyy... 3! Cerrando el primer año de certificaciones ALTa 🏅 | Apuntes MetaDocentes N° 21](https://mailchi.mp/28bd30968894/construyendo-en-comunidad-newsletter-n-19398499)
 - [Plenarios de Ciencia Abierta 🌐 | Apuntes MetaDocentes N° 20](https://mailchi.mp/c509a699f636/construyendo-en-comunidad-newsletter-n-19397448?e=[UNIQID])
@@ -24,5 +26,3 @@ title: Boletines
 - [Boletín N° 3 - Apuntes MetaDocentes](https://mailchi.mp/4e671eb9fa06/construyendo-en-comunidad-newsletter-n-15611825?e=[UNIQID]) - [English version](https://us19.campaign-archive.com/?e=__test_email__&u=92fb89ce82f9689a3b083bb35&id=a2b1f787c6)
 - [Boletín N° 2 - Apuntes MetaDocentes](https://mailchi.mp/d385ac096450/construyendo-en-comunidad-newsletter-n-15534269?e=[UNIQID]) - [English version](https://us19.campaign-archive.com/?e=__test_email__&u=92fb89ce82f9689a3b083bb35&id=124f999862)
 - [Boletín N° 1 - Construyendo en comunidad](https://mailchi.mp/90070af3dfd3/construyendo-en-comunidad-newsletter-n-1) - [English version](https://us19.campaign-archive.com/?e=__test_email__&u=92fb89ce82f9689a3b083bb35&id=a9cc2ef2f2)
-
-[Suscribirse para recibir el boletín de MetaDocencia](https://www.metadocencia.org/suscripcion/)
