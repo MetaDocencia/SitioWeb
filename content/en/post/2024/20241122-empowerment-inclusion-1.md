@@ -80,5 +80,7 @@ This report was made possible by NASA grants 80NSSC23K0854 (DOI: [10.5281/zenodo
 ---
 
 *Did you like this publication? You can reuse it freely under CC BY 4.0 license, just remember to cite it.* 
+
 This is the recommended citation to use for reference:
+
 Eunice Mercado-Lara, Julián Buede, Laura Ación, L. Paloma Rojas-Saunero, Lisanna Paladin, Luciana Benotti, Monica Granados, Muneera A. Rasheed, Nicolás Palopoli,  Patricia Loto, Paola Lefer, Rowland Mosbergen, Sara El-Gebali, Vanina Varni. (2024). Empowerment through Inclusion: Strengthening Project Engagement with Minoritized Voices. Zenodo. [https://doi.org/10.5281/zenodo.14509713](https://doi.org/10.5281/zenodo.14509713)
