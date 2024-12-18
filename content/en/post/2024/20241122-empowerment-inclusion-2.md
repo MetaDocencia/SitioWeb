@@ -34,7 +34,7 @@ categories:
 ## Our Motivation
 **Here we detail some actionable approaches to active care that you can take to help marginalized persons build trust, value their individuality, protect their identity, and promote their participation as key actions to foster empowerment through inclusion.** 
 
-*This is the second of a 2-part blog post series that we hope will make individuals representing minorities in your group or project feel valued. Read part 1 in [this link](https://www.metadocencia.org/en/post/2024/20241122-empowerment-inclusion-1/) or access the complete article in our Zenodo page here: [https://doi.org/10.5281/zenodo.14509713](https://doi.org/10.5281/zenodo.14509713)* 
+*This is the second of a 2-part blog post series that we hope will make individuals representing minorities in your group or project feel valued. Read [part 1 in this link](https://www.metadocencia.org/en/post/2024/20241122-empowerment-inclusion-1/) or access the complete article in our Zenodo page here: [https://doi.org/10.5281/zenodo.14509713](https://doi.org/10.5281/zenodo.14509713)* 
 
 ![Screenshot of a bingo card including the options: "listen as a peer", "avoid silence as response", "support those who speak up", "trust the lived experience", "avoid being condescending", "make up for lost opportunities", "take responsibility and apologize", "budget adequately for minorities", "be transparent in recruitment and promotions", "have a trained code of conduct committee", "acknowledge all contributions", including MetaDocencia's logo.](https://www.metadocencia.org/img/bingo-inclusion.jpg) 
 
