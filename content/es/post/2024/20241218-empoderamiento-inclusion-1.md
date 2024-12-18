@@ -70,7 +70,7 @@ Pero si incluir a alguien parece imposible y no participa mucho o sigue siempre 
 
 **A continuación, compartimos algunos estrategias prácticas que puedes adoptar para ayudar a las personas marginadas a ganar confianza, valorar su individualidad, proteger su identidad y promover su participación como acciones clave para fomentar el empoderamiento a través de la inclusión.** 
 
-![Screenshot of a bingo card including the options: "Escuchar como pares", "Evitar el silencio como respuesta", "Apoyar a quienes hablan", "Confiar en la experiencia vivida", "Evitar ser condescendiente", "Recuperar las oportunidades perdidas", "Asumir la responsabilidad y disculparse", "Presupuestar adecuadamente a las minorías", "Ser transparente en la contratación y los ascensos", "Disponer de un Comité de Código de Conducta", "Reconocer todas las contribuciones", junto al logo de MetaDocencia.](https://www.metadocencia.org/img/bingo-inclusion.jpg) 
+![Captura de pantalla de una tarjeta de bingo que incluye las opciones: "Escuchar como pares", "Evitar el silencio como respuesta", "Apoyar a quienes hablan", "Confiar en la experiencia vivida", "Evitar ser condescendiente", "Recuperar las oportunidades perdidas", "Asumir la responsabilidad y disculparse", "Presupuestar adecuadamente a las minorías", "Ser transparente en la contratación y los ascensos", "Disponer de un Comité de Código de Conducta", "Reconocer todas las contribuciones", junto al logo de MetaDocencia.](https://www.metadocencia.org/img/bingo-inclusion-ES.jpg) 
 
 *Un bingo con algunas sugerencias de estrategias prácticas de atención activa para la capacitación a través de la inclusión. ¿Cuántos de ellas practicas?* 
 
