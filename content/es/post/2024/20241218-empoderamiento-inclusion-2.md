@@ -36,7 +36,7 @@ categories:
 
 **Esta es la segunda de una serie de 2 publicaciones de blog que esperamos que hagan que las personas que representan a minorías en su grupo o proyecto se sientan valoradas.** Lee la [parte 1 en este enlace](https://www.metadocencia.org/post/2024/20241218-empoderamiento-inclusion-1/) o accede al artículo completo en nuestra página de Zenodo aquí: [https://doi.org/10.5281/zenodo.14510588](https://doi.org/10.5281/zenodo.14510588)
 
-![Captura de pantalla de una tarjeta de bingo que incluye las opciones: "Escuchar como pares", "Evitar el silencio como respuesta", "Apoyar a quienes hablan", "Confiar en la experiencia vivida", "Evitar ser condescendiente", "Recuperar las oportunidades perdidas", "Asumir la responsabilidad y disculparse", "Presupuestar adecuadamente a las minorías", "Ser transparente en la contratación y los ascensos", "Disponer de un Comité de Código de Conducta", "Reconocer todas las contribuciones", junto al logo de MetaDocencia.](https://www.metadocencia.org/img/bingo-inclusion.jpg) 
+![Captura de pantalla de una tarjeta de bingo que incluye las opciones: "Escuchar como pares", "Evitar el silencio como respuesta", "Apoyar a quienes hablan", "Confiar en la experiencia vivida", "Evitar ser condescendiente", "Recuperar las oportunidades perdidas", "Asumir la responsabilidad y disculparse", "Presupuestar adecuadamente a las minorías", "Ser transparente en la contratación y los ascensos", "Disponer de un Comité de Código de Conducta", "Reconocer todas las contribuciones", junto al logo de MetaDocencia.](https://www.metadocencia.org/img/bingo-inclusion-ES.jpg) 
 
 *Un bingo con algunas sugerencias de estrategias prácticas de atención activa para la capacitación a través de la inclusión. ¿Cuántos de ellas practicas?* 
 
