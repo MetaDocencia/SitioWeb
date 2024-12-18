@@ -110,6 +110,7 @@ Value and enhance everyone’s expertise. Minorities usually have diverse (thus 
 
 **For further reading and more practical tips on active care, please see Improving Diversity and Inclusion in the RSE Community [[7](https://doi.org/10.6084/m9.figshare.22214551)].** 
 
+
 **The sum of details leads minoritized people to choose silence in certain settings, to abandon projects and groups, or not to join new projects if they perceive certain characteristics. It is like a death by a thousand paper cuts, even occurring in projects and organizations that highlight values such as inclusion and diversity, at least in their rhetoric.** If you represent one of these organizations:
 - Check how your values are put into practice in the small day-to-day actions that add up to the minoritized person feeling confident of belonging.
 - Transparently disclose what percentage of your organization's budget is invested in diversity and inclusion and the types of expenses involved.
