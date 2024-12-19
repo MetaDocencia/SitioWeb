@@ -1,5 +1,5 @@
 ---
-date: "2024-11-22"
+date: "2024-12-18"
 draft: false
 type: page
 linktitle: Empoderamiento a través de la inclusión
