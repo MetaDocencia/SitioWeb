@@ -1,6 +1,8 @@
 ---
 title: Newsletters
 ---
+**[Subscribe to receive the newsletter](https://www.metadocencia.org/en/suscripcion/)**
+
 - [More Metas: Let's Go! 🎇 | Notes From MetaDocencia N° 22](https://mailchi.mp/e2f0464df79a/construyendo-en-comunidad-newsletter-n-19399708)
 - [1, 2... 3! Closing the first year of ALTa certifications 🏅 | Notes From MetaDocencia N° 21](https://mailchi.mp/4d8d2a69f842/construyendo-en-comunidad-newsletter-n-19398650)
 - [Open Science Plenaries 🌐 | Notes from MetaDocencia N° 20](https://mailchi.mp/5ee3cee7b474/construyendo-en-comunidad-newsletter-n-19397681?e=2b0de13655)
@@ -22,6 +24,3 @@ title: Newsletters
 - [Notes from MetaDocencia | N° 3](https://us19.campaign-archive.com/?e=__test_email__&u=92fb89ce82f9689a3b083bb35&id=a2b1f787c6)
 - [Notes from MetaDocencia | N° 2](https://us19.campaign-archive.com/?e=__test_email__&u=92fb89ce82f9689a3b083bb35&id=124f999862)
 - [Building (in) community | Newsletter N° 1](https://us19.campaign-archive.com/?e=__test_email__&u=92fb89ce82f9689a3b083bb35&id=a9cc2ef2f2)
-
-
-#### [Subscribe to receive the newsletter (in Spanish)](https://www.metadocencia.org/en/suscripcion/)
