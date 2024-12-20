@@ -41,7 +41,7 @@ user_groups:
 **Experiencia y Trayectoria:**
 
 Su compromiso con la Ciencia Abierta y la programación R la ha llevado a ser una participante activa en comunidades de práctica en Latinoamérica. 
-Además, es organizadora de R-Ladies Buenos Aires y LatinR, y cuenta con la certificación de instructora por The Carpentries.
+Además, es organizadora de R-Ladies Buenos Aires y LatinR, y cuenta con la certificación de instructora por The Carpentries. 
 
 En los últimos años, María ha desempeñado roles tanto en el sector público como privado. Ha sido docente en múltiples cursos de grado y posgrado, compartiendo su conocimiento en ciencia de datos. 
 Actualmente, lidera un equipo de gestión de información y estadísticas en el Ministerio de Salud de la Ciudad de Buenos Aires. 
