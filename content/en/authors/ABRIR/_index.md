@@ -13,8 +13,8 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://x.com/ABRIR_Psy
-- icon: globe
-  icon_pack: fas
+- icon: bluesky
+  icon_pack: fab
   link: https://bsky.app/profile/abrir.bsky.social
 - icon: youtube
   icon_pack: fab
