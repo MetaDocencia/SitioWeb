@@ -55,7 +55,7 @@ En cada encuentro se presentan los conceptos claves del módulo, definiciones de
 En el sexto encuentro se desarrolla un Plenario de Iniciativas de Ciencia Abierta en español, en el que participantes podrán compartir sus experiencias y tendrán la posibilidad de intercambiar aprendizajes. 
 
 *Los días y horarios se indican en UTC-3, hora de Argentina. Ejemplo de cambios por zona horaria latinoamericana: 11 am hora de Argentina/9 am hora de Colombia/8 am hora de Mexico. 
-Puedes usar [https://www.horamundial.com/](https://www.horamundial.com/) o [revisar en este sitio la conversión a tu hora local](https://dateful.com/convert/argentina?t=10am) para revisar el horario del lugar donde estés donde estés.*
+Puedes usar [https://www.horamundial.com/](https://www.horamundial.com/) o [conocer en este sitio la conversión a tu hora local](https://dateful.com/convert/argentina?t=10am) para revisar el horario del lugar donde estés donde estés.*
 
 |  Día/hora (UTC-3) | Tema (click para ver la Hoja de Ruta con contenidos y cronograma por módulo) |
 | ---:  | :----------- |
