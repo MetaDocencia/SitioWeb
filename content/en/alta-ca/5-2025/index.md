@@ -54,7 +54,7 @@ During the meetings, we will reflect on the five NASA TOPS Open Science 101 cour
 ## Schedule
 At each meeting, the key concepts of the module, definitions of terms and cases, or projects with a Latin American perspective are presented to illustrate the recommendations on the subject with contextualized good practices (you can access the roadmap with the contents from the schedule). In the sixth meeting, a Plenary of Open Science Initiatives will be held in Spanish, in which participants will be able to share their experiences and will have the opportunity to exchange learning.
 
-*Days and times are indicated in UTC-3, Argentina time. Example of changes by Latin American time zone: 11 AM Argentina time/9 AM Colombia time/8 AM Mexico time. You can use [https://www.horamundial.com/](https://www.horamundial.com/) or [https://dateful.com/time-zone-converter](https://dateful.com/time-zone-converter) to check the time zone where you are.*
+*Days and times are indicated in UTC-3, Argentina time. Example of changes by Latin American time zone: 11 AM Argentina time/9 AM Colombia time/8 AM Mexico time. You can use [https://www.horamundial.com/](https://www.horamundial.com/) or [check on this site the conversion to your local time](https://dateful.com/convert/argentina?t=5pm) to check the time zone where you are.*
 
 |  Day/time (UTC-3) | Topic (access the Spanish roadmap of each encounter by clicking)|
 | ---:  | :----------- |
