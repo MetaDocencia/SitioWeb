@@ -22,8 +22,8 @@ subtitle = ""
   filter_default = 0
    
   [[content.filter_button]]
-    name = "Formación vigente"
-    tag = "Formación vigente"
+    name = "Próximos cursos"
+    tag = "Próximos cursos"
     
 
   [[content.filter_button]]
