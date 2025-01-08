@@ -6,6 +6,5 @@ image:
 summary: "In an interview with iProfesional, Nicolás Palopoli shared the details of NASA's support to democratize access to scientific knowledge."
 tags:
   - prensa
-  - 2023
 title: "iProfesional - Free and virtual science training: the Argentine venture supported by NASA"
 ---

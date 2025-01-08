@@ -6,6 +6,5 @@ image:
 summary: "Laura Ación in #AgendaAcadémica: “The problem occurs when artificial intelligence interferes with democracy, health or justice.”"
 tags:
   - prensa
-  - 2022
 title: Diario Perfil
 ---

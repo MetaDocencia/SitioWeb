@@ -6,6 +6,5 @@ image:
 summary: "Laura Ación: “Over time we will take advantage of the best the virtual and the on-site have to offer.”"
 tags:
   - prensa
-  - 2021
 title: Innova 
 ---

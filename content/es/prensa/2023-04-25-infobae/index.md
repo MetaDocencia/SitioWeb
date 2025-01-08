@@ -6,6 +6,5 @@ image:
 summary: "Laura Ación comentó la misión, recorrido y siguientes pasos de MetaDocencia, y el impulso que tuvimos gracias al apoyo y la libertad de trabajo que nos dio CZI Science."
 tags:
   - prensa
-  - 2023
 title: Infobae
 ---

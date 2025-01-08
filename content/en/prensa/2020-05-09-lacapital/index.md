@@ -6,6 +6,5 @@ image:
 summary: Teacher training on e-learning
 tags:
   - prensa
-  - 2020
 title: La Capital 
 ---

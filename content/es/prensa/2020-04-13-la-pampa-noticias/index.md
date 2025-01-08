@@ -6,6 +6,5 @@ image:
 summary: "MetaDocencia: Cómo virtualizar la educación"
 tags:
   - prensa
-  - 2020
 title: La Pampa Noticias
 ---
