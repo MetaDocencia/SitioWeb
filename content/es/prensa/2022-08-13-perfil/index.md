@@ -6,6 +6,5 @@ image:
 summary: "Laura Ación en #AgendaAcadémica: “El problema surge cuando la inteligencia artificial se mete con la democracia, la salud o la justicia”"
 tags:
   - prensa
-  - 2022
 title: Diario Perfil
 ---

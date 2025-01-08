@@ -6,6 +6,5 @@ image:
 summary: Investigadora de INTA Anguil participa de Metadociencia, un proyecto para capacitar a docentes en educación virtual 
 tags:
   - prensa
-  - 2020
 title: INTA Anguil 
 ---

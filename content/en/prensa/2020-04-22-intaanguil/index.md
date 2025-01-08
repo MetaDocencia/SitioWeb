@@ -6,6 +6,5 @@ image:
 summary: Researcher from INTA Anguil participates in Metadociencia, a project to train teachers in virtual education.
 tags:
   - prensa
-  - 2020
 title: INTA Anguil 
 ---

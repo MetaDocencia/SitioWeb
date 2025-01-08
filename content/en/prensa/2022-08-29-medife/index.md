@@ -6,6 +6,5 @@ image:
 summary: "Laura Ación in La Ciencia y la Salud, Fundación Medifé: “Myths and truths about AI and big data”"
 tags:
   - prensa
-  - 2022
 title: La Ciencia y la Salud, Fundación Medifé
 ---
