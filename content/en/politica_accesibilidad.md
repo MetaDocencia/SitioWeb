@@ -1,20 +1,22 @@
-# MetaDocencia Accesibility Policy
+# MetaDocencia Accessibility Policy
 
-The main premise of this accessibility policy is to ensure and promote, within the framework of MetaDocencia, a non-profit organization, the creation of accessible environments that favor the participation of all people under equal conditions in our community.
+This accessibility policy aims to ensure and promote the creation of accessible environments that enable all members of our community to participate on equal terms.
 
-This policy proposes criteria and good practices of accessibility that configure a working framework for all persons in the MetaDocencia community so that anyone can participate and carry out their activities without being hindered or interrupted due to barriers in the work environment.
+To achieve this, it outlines criteria and best practices to ensure everyone can participate and carry out their activities without being hindered by barriers in the work environment.
 
-Through the implementation of this accessibility policy, MetaDocencia is committed to working responsibly toward ensuring compliance with the following:
+Through the implementation of this policy, from MetaDocencia we commit to working responsibly on the following points:
 
-- All communication carried out from MetaDocencia’s different means or channels of communication, whether the institutional website, social media, or any other means of communication, is accessible to all target audiences.
-Acquiring goods and contracting services are done taking into consideration accessibility standards and criteria.
+- Ensuring that all communications made through our different channels are accessible to all target audiences.
 
-- The members of the MetaDocencia team are aware of this accessibility policy and receive training on good accessibility practices in order to guarantee and encourage the participation of all people.
+- Taking accessibility standards and criteria into consideration when contracting and acquiring goods and services.
 
-- The services offered by MetaDocencia are anti-discriminatory and inclusive, regardless of age, gender, religion, ethnicity, language, identity, political affiliation, or any other individual characteristic of its community members.
+- Training the MetaDocencia members in good accessibility practices to guarantee and encourage the participation of all people.
+
+- Providing inclusive and non-discriminatory services, regardless of age, gender, religion, ethnicity, language, identity, political affiliation, or any individual characteristics of our community members.
+
 
 We invite you to read our blogpost on [accessibility profiles](https://www.metadocencia.org/en/post/perfiles_accesibilidad/). 
 
 ## Accessibility Repository 2022-2023
 
-Visit this [repository published in Zenodo](https://zenodo.org/records/10514982), written by the accessibility team, for more contents related to digital accessibility shared by MetaDocencia between 2022 and 2023.
+Visit this [repository published in Zenodo](https://zenodo.org/records/10514981), written by the accessibility team, for more content related to digital accessibility shared by MetaDocencia between 2022 and 2023.
