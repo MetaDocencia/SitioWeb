@@ -82,7 +82,10 @@ Además, entregaremos un certificado de asistencia de MetaDocencia a quienes par
 **Esta capacitación tiene un valor económico y está subsidiada por nuestros [auspiciantes](https://www.metadocencia.org/sponsors/), por lo que la inscripción, el cursado y la certificación son gratuitas.**
 Las vacantes son limitadas por cada edición, por eso **te pedimos que te inscribas solo si podrás participar activamente**. En caso de que se complete el cupo, habilitaremos una lista de espera para que puedas sumarte a la próxima edición.
 
-*Las inscripciones abrirán el 23 de enero de 2025.*
+**[FORMULARIO DE INSCRIPCIÓN](https://docs.google.com/forms/d/e/1FAIpQLSfA8MlX1M1p94g7LtkxMuZfhcyLFypgpFDYGxIBDWzwxiFdiA/viewform)** 
+
+*Todos los datos se manejarán en forma confidencial, sólo podrán ser publicados de forma agregada y anonimizada en reportes sobre el alcance de MetaDocencia.*
+
 
 
 ## ¡Sírvete sin culpa!
