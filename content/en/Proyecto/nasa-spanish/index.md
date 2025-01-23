@@ -16,23 +16,21 @@ tags:
   - current
 ---
 
-As part of the Transform to Open Science (TOPS) initiative, a comprehensive program of activities by NASA to support the advancement of science towards openness, MetaDocencia will train Spanish-speaking science and technical personnel to transform their daily work into open science.
+As part of the Transform to Open Science (TOPS) initiative, a comprehensive program of activities by NASA to support the advancement of science towards openness, MetaDocencia trains Spanish-speaking science and technical personnel to transform their daily work into Open Science through training cohorts called Latin America Transforms to Open Science (ALTa, by its acronym in Spanish).
 
-Our proposal includes Open Science training through virtual cohorts for Spanish speakers. It will cover the five modules of Open Science 101, and each participant will work to discuss the real-world application of knowledge over 6 weeks.
+Each cohort includes Open Science training covering the five modules of Open Science 101, building contextualized knowledge around different topics with a local perspective, and thinking about situations and examples from our experience in Latin America.
 
 ### Objectives
-* Develop contextualized and accessible versions of NASA TOPS' Open Science 101 modules for Spanish-speaking audiences.
+* Develop contextualized and accessible versions of NASA TOPS’ Open Science 101 modules for Spanish-speaking audiences.
 * Annually update the Open Science 101 modules of NASA TOPS in their contextualization for Spanish-speaking audiences.
 * Promote NASA TOPS in low-resource research environments through conference presentations, publications, press releases, social media, and community activities.
-* Train virtual cohorts with these contents. Each cohort will receive 6 weeks of online training covering the complete modules of NASA TOPS' Open Science 101.
+* Train 6 weeks of virtual cohorts with these contents.
 * Foster an online community of Spanish speakers that is supportive and inclusive, around NASA TOPS training.
 
 ### More Information
-[To learn more about the Proposal](https://zenodo.org/records/8215456 "Proposal")
-[To participate in next cohorts](https://www.metadocencia.org/en/formacion/)
+[To learn more about the proposal](https://zenodo.org/records/8215456 "Proposal")
+[To participate in the next cohorts](https://www.metadocencia.org/en/formacion/)
 
 *If you're interested in participating in the NASA-TOPS Open Science 101 virtual cohorts in English, please contact our friend community [OLS](https://openlifesci.org/ "OLS").*
-
-
 
 
