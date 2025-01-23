@@ -31,6 +31,4 @@ Each cohort includes Open Science training covering the five modules of Open Sci
 [To learn more about the proposal](https://zenodo.org/records/8215456 "Proposal")
 [To participate in the next cohorts](https://www.metadocencia.org/en/formacion/)
 
-*If you're interested in participating in the NASA-TOPS Open Science 101 virtual cohorts in English, please contact our friend community [OLS](https://openlifesci.org/ "OLS").*
-
-
+*If you want to participate in the NASA-TOPS Open Science 101 virtual cohorts in English, please contact our fellow community [OLS](https://openlifesci.org/ "OLS").*
