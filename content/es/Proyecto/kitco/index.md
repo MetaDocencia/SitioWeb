@@ -17,18 +17,13 @@ tags:
   - proyectos finalizados
 ---
 
+El proyecto “Estructura e infraestructura para la formación pedagógica mediante cohortes virtuales” se propuso orientar nuestros cursos y talleres de pocas horas a cohortes de varias semanas.
 
-El proyecto “Estructura e infraestructura para la formación pedagógica mediante cohortes virtuales” se propone orientar nuestros cursos y talleres de pocas horas a cohortes de varias semanas. 
-
-En el marco de la [Cohorte 8 de Open Seeds](https://openlifesci.org/openseeds/ ""), decidimos documentar el procedimiento y generar un modelo que pueda replicarse y ser útil a distintas comunidades y propuestas de formación.
-
-Diseñamos este documento como una guía pública, compartible y reusable sobre cómo desarrollar cohortes con recursos adaptables para aplicar en nuevas y diferentes experiencias. El documento presenta una serie de herramientas, recursos y plantillas abiertas, gratuitas, colaborativas y adaptadas al contexto cultural y social de países hispanohablantes. 
+Diseñamos este documento como una guía pública, compartible y reusable sobre cómo desarrollar cohortes con recursos adaptables para aplicar en nuevas y diferentes experiencias. El documento presenta una serie de herramientas, recursos y plantillas abiertas, gratuitas, colaborativas y adaptadas al contexto cultural y social de países hispanohablantes.
 
 Cada herramienta viene acompañada de una introducción que explica su aplicación, un instructivo para saber cómo utilizarla y recursos adicionales para profundizar en el tema, incluyendo ejemplos prácticos.
 
 Esperamos que este Kit de Cohortes (KitCo) contribuya a que otras comunidades puedan desarrollar cohortes adaptadas a sus contextos, entornos y particularidades, fomentando así la colaboración y haciendo crecer el proyecto en beneficio de muchas más personas.
 
-
-### RECURSOS
+### Más información
 [Kit para Cohortes](https://zenodo.org/records/10689695)
-
