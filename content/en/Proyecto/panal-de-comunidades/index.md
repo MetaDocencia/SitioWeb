@@ -15,11 +15,10 @@ tags:
   - metadocencia projects
   - current
 ---
-At csv,conf,7, we presented the "Panal de Comunidades Amigas" (Fellow Communities Hive), a collaborative effort in which we aim to showcase and connect efforts to reaffirm, once again, that science is collective work. When Open Science recommendations are followed, as they are in these communities, a hive like this is sustained and multiplied. Each person with their life experience, accent, emotions, dedication to science, and teaching.
+At csv,conf,7, we presented this collaborative effort to showcase and connect efforts to reaffirm, once again, that science is collective work. 
+
+We aspire for the Hive to represent the network of our fellow communities and organizations, each with its own life experience, accent, emotions, and dedication to science and teaching. 
 
 ### More Information
 [Watch the video](https://www.youtube.com/watch?v=TjlvCvjiKmk) of the presentation at csv,conf,v7.
-Entre the [Hive of Fellow Communities](https://www.metadocencia.org/en/panal/)
-
-
-
+Enter the [Hive of Fellow Communities](https://www.metadocencia.org/en/panal/)
