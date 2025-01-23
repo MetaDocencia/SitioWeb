@@ -2,9 +2,9 @@
 date: "2024-12-16"
 draft: false
 linktitle: ALTa Ciencia Abierta
-summary: Las inscripciones abrirán el 23 de enero de 2025. 
+summary: Inscripciones abiertas. 
 title: "ALTa Ciencia Abierta 4 2025"
-authors:
+authors: 
   - MetaDocencia
 type: cursos
 weight: 50
