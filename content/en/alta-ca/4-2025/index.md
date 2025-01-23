@@ -2,7 +2,7 @@
 date: "2024-12-17"
 draft: false
 linktitle: ALTa Ciencia Abierta
-summary: Registration opens on January 23, 2025.  
+summary: Registration open.  
 title: "ALTa Ciencia Abierta 4 2025"
 authors:
   - MetaDocencia
@@ -80,9 +80,7 @@ MetaDocencia will issue an attendance certificate to those who actively particip
 **This training has an economic value and is supported by our [sponsors](https://www.metadocencia.org/en/sponsors/), so registration, course and certification are free of charge.** 
 Vacancies are limited for each edition, **so we ask you to register only if you will be able to actively participate**. In case the quota is full, we will set up a waiting list so that you can join the next edition.
 
-*Registration will open on January 23, 2025.*
-
-This training will be offered in Spanish.
+This training will be offered in Spanish. **[REGISTRATION FORM (in Spanish)](https://docs.google.com/forms/d/e/1FAIpQLSfA8MlX1M1p94g7LtkxMuZfhcyLFypgpFDYGxIBDWzwxiFdiA/viewform)**
 
 ---
 ## Do you want to reuse any of our content? Please, be our guest!
