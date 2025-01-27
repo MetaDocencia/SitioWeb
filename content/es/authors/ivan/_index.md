@@ -17,7 +17,7 @@ weight: 16
 organizations:
 - name: 
   url: 
-role: Institucional
+role: Infraestructura
 social:
 - icon: envelope
   icon_pack: fas
