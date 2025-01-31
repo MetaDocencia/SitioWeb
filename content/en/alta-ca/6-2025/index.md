@@ -2,7 +2,7 @@
 date: "2024-12-17"
 draft: false
 linktitle: ALTa Ciencia Abierta
-summary: Registration opens on May 12, 2025.  
+summary: Temporarily suspended.  
 title: "ALTa Ciencia Abierta 6 2025"
 authors:
   - MetaDocencia
