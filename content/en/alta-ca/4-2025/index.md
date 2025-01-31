@@ -2,7 +2,7 @@
 date: "2024-12-17"
 draft: false
 linktitle: ALTa Ciencia Abierta
-summary: Registration open.  
+summary: Temporarily suspended.  
 title: "ALTa Ciencia Abierta 4 2025"
 authors:
   - MetaDocencia
@@ -16,7 +16,9 @@ tags:
 
 # ALTa Ciencia Abierta 4 2025
 
-**Together with NASA, MetaDocencia invites people from Spanish-speaking communities to join 6-week online training cohorts to extend the principles of Open Science in Latin America and beyond.** 
+**Our ALTa Open Science training cohorts are temporarily suspended. We invite you to join our [Slack](https://w3id.org/metadocencia/slack) for more news.**
+
+Together with NASA, MetaDocencia invites people from Spanish-speaking communities to join 6-week online training cohorts to extend the principles of Open Science in Latin America and beyond.
 
 ALTa Ciencia Abierta (Latin America Transforms to Open Science, by its Spanish acronym) mission focuses on building contextualized knowledge around different topics with a local perspective, thinking about situations and examples from our experience in Latin America.
 
@@ -53,18 +55,6 @@ During the meetings, we will reflect on the five NASA TOPS Open Science 101 cour
 
 ## Schedule
 At each meeting, the key concepts of the module, definitions of terms and cases, or projects with a Latin American perspective are presented to illustrate the recommendations on the subject with contextualized good practices (you can access the roadmap with the contents from the schedule). In the sixth meeting, a Plenary of Open Science Initiatives will be held in Spanish, in which participants will be able to share their experiences and will have the opportunity to exchange learning.
-
-*Days and times are indicated in UTC-3, Argentina time. Example of changes by Latin American time zone: 11 AM Argentina time/9 AM Colombia time/8 AM Mexico time. You can use [https://www.horamundial.com/](https://www.horamundial.com/) or [check on this site the conversion to your local time](https://dateful.com/convert/argentina?t=10am) to know the time zone where you are.*
-
-|  Day/time (UTC-3) | Topic (access the Spanish roadmap of each encounter by clicking)|
-| ---:  | :----------- |
-|Wednesday 02-05 - 10 to 13 | *[Principles of Open Science](https://www.metadocencia.org/alta-ca/modulo_1/)* | 
-|Wednesday 02-12 - 10 to 13 | *[Open Tool and Resources](https://www.metadocencia.org/alta-ca/modulo_2/)* | 
-|Wednesday 02-19 - 10 to 13 | *[Open Data](https://www.metadocencia.org/alta-ca/modulo_3/)* |
-|Wednesday 02-26 - 10 to 13 | *[Open Code](https://www.metadocencia.org/alta-ca/modulo_4/)* |
-|Wednesday 03-05 - 10 to 13 | *[Open Results](https://www.metadocencia.org/alta-ca/modulo_5/)* |
-|Wednesday 03-12 - 10 to 13 | *[Plenary of Open Science Initiatives](https://www.metadocencia.org/alta-ca/modulo_6/)* |
-
 To increase the accessibility of this training, we will record each meeting and share the recording the following day. 
 
 ## Certification
@@ -77,10 +67,7 @@ For obtaining the certificate of the NASA TOPS Open Science 101, it will be nece
 MetaDocencia will issue an attendance certificate to those who actively participate, either by attending 4 of the 6 meetings synchronously or by having completed 4 of the 5 questionnaires detailed in the previous paragraph at least 7 calendar days after the date of the last synchronous meeting.
 
 ## How to participate
-**This training has an economic value and is supported by our [sponsors](https://www.metadocencia.org/en/sponsors/), so registration, course and certification are free of charge.** 
-Vacancies are limited for each edition, **so we ask you to register only if you will be able to actively participate**. In case the quota is full, we will set up a waiting list so that you can join the next edition.
-
-This training will be offered in Spanish. **[REGISTRATION FORM (in Spanish)](https://docs.google.com/forms/d/e/1FAIpQLSfA8MlX1M1p94g7LtkxMuZfhcyLFypgpFDYGxIBDWzwxiFdiA/viewform)**
+**Our ALTa Open Science training cohorts are temporarily suspended. We invite you to join our [Slack](https://w3id.org/metadocencia/slack) for more news.**
 
 ---
 ## Do you want to reuse any of our content? Please, be our guest!
