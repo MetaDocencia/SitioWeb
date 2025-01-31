@@ -2,7 +2,7 @@
 date: "2024-12-16"
 draft: false
 linktitle: ALTa Ciencia Abierta
-summary: Inscripciones abiertas. 
+summary: Temporalmente suspendida. 
 title: "ALTa Ciencia Abierta 4 2025"
 authors: 
   - MetaDocencia
@@ -16,7 +16,9 @@ tags:
 
 # Misión ALTa CA 4 2025
 
-**Junto a la NASA, MetaDocencia invita a todas las personas de comunidades hispanohablantes que quieran sumarse a cohortes virtuales de formación de 6 semanas para explorar los principios de la Ciencia Abierta en América Latina.**
+**El dictado de nuestras cohortes de formación ALTa Ciencia Abierta está temporalmente suspendido. Te invitamos a formar parte de nuestro [Slack](https://w3id.org/metadocencia/slack) para más novedades.**
+
+Junto a la NASA, MetaDocencia invita a todas las personas de comunidades hispanohablantes que quieran sumarse a cohortes virtuales de formación de 6 semanas para explorar los principios de la Ciencia Abierta en América Latina.
 
 La misión América Latina se Transforma a la Ciencia Abierta (ALTa CA) se enfoca en construir conocimiento alrededor de distintos temas que componen el mundo de la Ciencia Abierta con mirada local, pensando en situaciones y ejemplos de nuestra propia vivencia en América Latina.
 
@@ -51,21 +53,7 @@ Cada cohorte tendrá **6 encuentros sincrónicos virtuales, con frecuencia seman
 Durante los encuentros reflexionaremos sobre cada uno de los cinco módulos del curso de Introducción a la Ciencia Abierta de la NASA. Incluirán actividades destinadas a promover el intercambio, discutir entre pares en salas de trabajo, y presentar iniciativas o proyectos de quienes asistan.
 
 ## Cronograma
-En cada encuentro se presentan los conceptos claves del módulo, definiciones de términos y casos o proyectos con perspectiva latinoamericana para ilustrar las recomendaciones sobre el tema con buenas prácticas contextualizadas (puedes acceder a la hoja de ruta con los contenidos desde el cronograma).
-En el sexto encuentro se desarrolla un Plenario de Iniciativas de Ciencia Abierta en español, en el que participantes podrán compartir sus experiencias y tendrán la posibilidad de intercambiar aprendizajes. 
-
-*Los días y horarios se indican en UTC-3, hora de Argentina. Ejemplo de cambios por zona horaria latinoamericana: 11 am hora de Argentina/9 am hora de Colombia/8 am hora de Mexico. 
-Puedes usar [https://www.horamundial.com/](https://www.horamundial.com/) o [conocer en este sitio la conversión a tu hora local](https://dateful.com/convert/argentina?t=10am) para revisar el horario del lugar donde estés donde estés.*
-
-|  Día/hora (UTC-3) | Tema (click para ver la Hoja de Ruta con contenidos y cronograma por módulo) |
-| ---:  | :----------- |
-|Mié 05-02 - 10 a 13 | [*Principios de la Ciencia Abierta*](https://www.metadocencia.org/alta-ca/modulo_1/) | 
-|Mié 12-02 - 10 a 13 | [*Herramientas y Recursos Abiertos*](https://www.metadocencia.org/alta-ca/modulo_2/) | 
-|Mié 19-02 - 10 a 13 | [*Datos Abiertos*](https://www.metadocencia.org/alta-ca/modulo_3/) |
-|Mié 26-02 - 10 a 13 | [*Código Abierto*](https://www.metadocencia.org/alta-ca/modulo_4/) |
-|Mié 05-03 - 10 a 13 | [*Resultados Abiertos*](https://www.metadocencia.org/alta-ca/modulo_5/) |
-|Mié 12-03 - 10 a 13 | [*Plenario de Iniciativas de Ciencia Abierta*](https://www.metadocencia.org/alta-ca/modulo_6/) |
-
+En cada encuentro se presentan los conceptos claves del módulo, definiciones de términos y casos o proyectos con perspectiva latinoamericana para ilustrar las recomendaciones sobre el tema con buenas prácticas contextualizadas (puedes acceder a la hoja de ruta con los contenidos desde el cronograma). En el sexto encuentro se desarrolla un Plenario de Iniciativas de Ciencia Abierta en español, en el que participantes podrán compartir sus experiencias y tendrán la posibilidad de intercambiar aprendizajes. 
 Para aumentar la accesibilidad de esta formación, cada encuentro será grabado y compartiremos su registro al día siguiente.
 
 ## Certificación
@@ -79,14 +67,7 @@ Además, entregaremos un certificado de asistencia de MetaDocencia a quienes par
 
 ## Cómo participar
 
-**Esta capacitación tiene un valor económico y está subsidiada por nuestros [auspiciantes](https://www.metadocencia.org/sponsors/), por lo que la inscripción, el cursado y la certificación son gratuitas.**
-Las vacantes son limitadas por cada edición, por eso **te pedimos que te inscribas solo si podrás participar activamente**. En caso de que se complete el cupo, habilitaremos una lista de espera para que puedas sumarte a la próxima edición.
-
-**[FORMULARIO DE INSCRIPCIÓN](https://docs.google.com/forms/d/e/1FAIpQLSfA8MlX1M1p94g7LtkxMuZfhcyLFypgpFDYGxIBDWzwxiFdiA/viewform)** 
-
-*Todos los datos se manejarán en forma confidencial, sólo podrán ser publicados de forma agregada y anonimizada en reportes sobre el alcance de MetaDocencia.*
-
-
+**El dictado de nuestras cohortes de formación ALTa Ciencia Abierta está temporalmente suspendido. Te invitamos a formar parte de nuestro [Slack](https://w3id.org/metadocencia/slack) para más novedades.**
 
 ## ¡Sírvete sin culpa!
 ¿Te vienen bien cualquiera de nuestros contenidos? ¡Sírvete sin culpa! Nuestros materiales están disponibles en forma gratuita bajo [licencia CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es) Es decir, puedes reusar o editar cualquier material que aparece encima de estas líneas, lo único que pedimos a cambio es que incluyas una referencia a esta página web. Para más información, escríbenos a formacion@metadocencia.org.
