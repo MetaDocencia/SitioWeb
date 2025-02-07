@@ -108,7 +108,7 @@ email = "xeqzpkjn" # No borrar o cambiar
 contact_links = [
    {icon = "twitter", icon_pack = "fab", name = "Twitter", link = "https://twitter.com/MetaDocencia"},
    {icon = "mastodon", icon_pack = "fab", name = "Mastodon", link = "https://floss.social/@MetaDocencia"},
-   {icon = "slack", icon_pack = "fab", name = "Slack", link = "https://w3id.org/metadocencia/slack"},
+   {icon = "slack", icon_pack = "fab", name = "Slack", link = "https://join.slack.com/t/metadocencia/shared_invite/zt-2sl6k8gmv-QDvYIEYJMy1owawkx_80dA"},
    {icon = "github", icon_pack = "fab", name = "GitHub", link = "https://github.com/MetaDocencia"},
    {icon = "facebook", icon_pack = "fab", name = "Facebook", link = "https://www.facebook.com/metadocencia"},
    {icon = "instagram", icon_pack = "fab", name = "Instagram", link = "https://www.instagram.com/metadocencia/"},
