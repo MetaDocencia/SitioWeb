@@ -3,8 +3,8 @@ date: "2025-01-03"
 draft: false
 type: page
 linktitle: PsiNet LAB
-summary: "Aplicaciones espaciales es una iniciativa del departamento de Ciencias de la Tierra de la NASA que permite la colaboración con las nuevas generaciones para resolver problemáticas que nos aquejan como raza humana tanto en la Tierra como en el espacio"
-title: "Historias de Ciencia Abierta en Acción: NASA International Space Apps Challenge Norte de Mexico
+summary: "Aplicaciones espaciales es una iniciativa del departamento de Ciencias de la Tierra de la NASA que permite la colaboración con las nuevas generaciones para resolver problemáticas que nos aquejan como especie humana tanto en la Tierra como en el espacio"
+title: "Historias de Ciencia Abierta en Acción: NASA International Space Apps Challenge Norte de México
 "
 authors:
   - jzavala
@@ -17,7 +17,7 @@ categories:
 ---
 
 ## ¿De qué se trata NASA International Space Apps Challenge?
-Aplicaciones espaciales es una iniciativa del departamento de Ciencias de la Tierra de la NASA que permite la colaboración con las nuevas generaciones para resolver problemáticas que nos aquejan como raza humana tanto en la Tierra como en el espacio mediante retos de baja, media y alta fidelidad, con la organización de la Agencia Espacial Estadounidense NASA y 15 agencias espaciales del mundo. Denominado “el hackatón más grande del mundo”, ya que tiene una duración de 48 horas continuas y se desarrolla en las diferentes zonas horarias en 380 localidades de los 5 continentes de manera asincrónica. Las agencias en unión ponen a disposición sus bases de datos sobre diversos temas mediante enlaces, artículos, investigaciones, reportes o bien un buscador de temas; todo esto, con el fin de facilitarle a los competidores un acceso rápido y fácil para su posterior resolución en tiempo récord.  
+Aplicaciones espaciales es una iniciativa del departamento de Ciencias de la Tierra de la NASA que permite la colaboración con las nuevas generaciones para resolver problemáticas que nos aquejan como especie humana tanto en la Tierra como en el espacio mediante retos de baja, media y alta fidelidad, con la organización de la Agencia Espacial Estadounidense NASA y 15 agencias espaciales del mundo. Denominado “el hackatón más grande del mundo”, ya que tiene una duración de 48 horas continuas y se desarrolla en las diferentes zonas horarias en 380 localidades de los 5 continentes de manera asincrónica. Las agencias en unión ponen a disposición sus bases de datos sobre diversos temas mediante enlaces, artículos, investigaciones, reportes o bien un buscador de temas; todo esto, con el fin de facilitarle a los competidores un acceso rápido y fácil para su posterior resolución en tiempo récord.  
 
 ## ¿Quiénes participaron?
 En la segunda edición de Space Apps, participaron jóvenes desde 8 años y adultos hasta 27 años en las diferentes categorías, en algunos casos con discapacidad, en colaboración con escuelas de robótica, secundarias, preparatorias, universidades y dependencias de gobierno que impulsan la participación de jóvenes en temas de Ciencia y Tecnología. 
@@ -45,4 +45,4 @@ Esta publicación fue posible gracias a un subsidio de Chan Zuckerberg Initiativ
 
 *¿Te gustó esta publicación? Puedes reutilizarla libremente bajo licencia CC by 4.0, solo tienes que citarla.* 
 
-Esta es la cita que te recomendamos usar para referenciarla: Zavala Villanueva, J.(2025).NASA International SpaceApps Challenge Norte de Mexico.Zenodo.[https://doi.org/10.5281/zenodo.14597519](https://doi.org/10.5281/zenodo.14597519)
+Esta es la cita que te recomendamos usar para referenciarla: Zavala Villanueva, J.(2025).NASA International SpaceApps Challenge Norte de México.Zenodo.[https://doi.org/10.5281/zenodo.14597519](https://doi.org/10.5281/zenodo.14597519)
