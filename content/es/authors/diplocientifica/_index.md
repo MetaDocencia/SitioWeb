@@ -17,10 +17,10 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/diplo-cient%C3%ADfica-7883b71b5/
 - icon: instagram
-  icon_pack: fas
+  icon_pack: fab
   link: https://www.instagram.com/diplocientifica/
 - icon: youtube
-  icon_pack: fas
+  icon_pack: fab
   link: https://youtube.com/@diplomaciacientifica
 superuser: false
 user_groups:
