@@ -9,7 +9,7 @@ role:
 social:
 - icon: globe
   icon_pack: fas
-  link: https:https://www.nasa.gov/
+  link: https://www.nasa.gov/
 superuser: false
 user_groups:
 - Current
