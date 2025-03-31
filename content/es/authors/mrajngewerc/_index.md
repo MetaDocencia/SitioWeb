@@ -45,7 +45,7 @@ social:
   link: https://orcid.org/0000-0001-8268-3260
 superuser: false
 user_groups:
-- Integrantes
+- Colaboradores externos
 ---
 
 **Experiencia y Trayectoria**

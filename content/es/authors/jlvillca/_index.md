@@ -38,7 +38,7 @@ social:
   link: https://jvillcavillegas.github.io/
 superuser: false
 user_groups:
--  Integrantes
+- Colaboradores externos
 ---
 
 **Experiencia y Trayectoria:**

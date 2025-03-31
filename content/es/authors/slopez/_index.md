@@ -41,7 +41,7 @@ social:
   link: https://slldec.github.io/
 superuser: false
 user_groups:
--  Integrantes
+- Colaboradores externos
 ---
 
 **Experiencia y Trayectoria:**

@@ -31,7 +31,7 @@ social:
   link: https://twitter.com/emmaiarussi
 superuser: false
 user_groups:
-- "Integrantes"
+- Colaboradores externos
 ---
 
 **Experiencia y Trayectoria**

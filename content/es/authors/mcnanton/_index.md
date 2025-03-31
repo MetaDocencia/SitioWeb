@@ -35,7 +35,7 @@ social:
   link: https://www.linkedin.com/in/maría-cristina-n-920170126/
 superuser: false
 user_groups:
--  Integrantes
+- Colaboradores externos
 ---
 
 **Experiencia y Trayectoria:**
