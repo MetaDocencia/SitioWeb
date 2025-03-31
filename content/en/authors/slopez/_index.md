@@ -41,7 +41,7 @@ social:
   link: https://slldec.github.io/
 superuser: false
 user_groups:
-- Contributors
+- External Contributors
 ---
 **Experience and Track Record**
 

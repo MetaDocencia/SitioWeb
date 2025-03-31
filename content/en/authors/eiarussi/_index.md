@@ -31,7 +31,7 @@ social:
   link: https://twitter.com/emmaiarussi
 superuser: false
 user_groups:
-- Contributors
+- External Contributors
 ---
 
 **Experience and Track Record**

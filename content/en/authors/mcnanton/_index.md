@@ -35,7 +35,7 @@ social:
   link: https://www.linkedin.com/in/maría-cristina-n-920170126/
 
 user_groups:
-- Contributors
+- External Contributors
 ---
 **Experience and Track Record**
 

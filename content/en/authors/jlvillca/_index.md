@@ -38,7 +38,7 @@ social:
   link: https://jvillcavillegas.github.io/
 superuser: false
 user_groups:
--  Contributors
+- External Contributors
 ---
 
 **Experience and Track Record**
