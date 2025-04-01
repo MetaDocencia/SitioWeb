@@ -7,11 +7,11 @@ title: Proyecto Catalyst
 spellcheck: true
 authors: 
 type: proyectos
-weight: 40
+weight: 80
 tags:
   - proyectos
   - proyectos extra metadocencia
-  - proyectos vigentes
+  - proyectos completados
 ---
 
 Catalyst tiene como objetivo crear un servicio comunitario de infraestructura en la nube y ofrecer flujos de trabajo en biociencias basados en prácticas comunitarias abiertas e inclusivas, la infraestructura que permita estas prácticas y un enfoque de “formación de formadores”, que capacite a líderes de comunidades locales para compartir su experiencia en infraestructura en la nube con otras personas de sus comunidades. 

@@ -14,7 +14,7 @@ weight: 80
 tags:
   - proyectos
   - proyectos de metadocencia
-  - proyectos finalizados
+  - proyectos completados
 ---
 
 El proyecto “Estructura e infraestructura para la formación pedagógica mediante cohortes virtuales” se propuso orientar nuestros cursos y talleres de pocas horas a cohortes de varias semanas.

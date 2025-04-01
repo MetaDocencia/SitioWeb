@@ -10,11 +10,11 @@ title: Catalyst project
 spellcheck: true
 authors: 
 type: proyectos
-weight: 40
+weight: 80
 tags:
   - projects
   - extra-metadocencia projects
-  - current
+  - completed
 ---
 
 Our goal is to create a community cloud infrastructure service and offer workflow solutions in the life sciences. We will promote open and inclusive community practices as values, the infrastructure enabling these practices, and a "train-the-trainer" approach that empowers leaders of local communities to share their cloud infrastructure expertise with others in their communities. We will focus on communities in Latin America and Africa, and we hope to learn how this model could be extended to other historically marginalized global communities from large-scale scientific infrastructure projects.

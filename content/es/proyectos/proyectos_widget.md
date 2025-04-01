@@ -34,8 +34,8 @@ subtitle = ""
     tag = "proyectos vigentes"
 
   [[content.filter_button]]
-    name = "Proyectos finalizados"
-    tag = "proyectos finalizados"
+    name = "Proyectos completados"
+    tag = "proyectos completados"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
