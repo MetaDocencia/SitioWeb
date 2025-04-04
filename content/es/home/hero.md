@@ -5,21 +5,23 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 5  # Order that this section will appear.
 
+{{< youtube en0-YQl5IT4 >}}
+
 # title = "Co-creando y enseñando Ciencia Abierta"
 
-title = "ALTa Ciencia Abierta"
+# title = "ALTa Ciencia Abierta"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "MD_original.png"
 
-[design.background]
+# [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
   #   Choose a light or dark text color by setting `text_color_light`.
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-   color = "#efefef"
+   # color = "#efefef"
   
   # Background gradient.
   # gradient_start = "#D9002F"
@@ -33,20 +35,20 @@ hero_media = "MD_original.png"
   # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
   
   # Text color (true=light or false=dark).
-  text_color_light = false
+  # text_color_light = false
 
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
- [cta]
- url = "https://www.metadocencia.org/formacion/"
- label = "Más información"
- icon_pack = "fab"
- icon = "Súmate a nuestras propuestas de formación gratuitas y online"
+#  [cta]
+#  url = "https://www.metadocencia.org/formacion/"
+#  label = "Más información"
+#  icon_pack = "fab"
+#  icon = "Súmate a nuestras propuestas de formación gratuitas y online"
 
-[cta_alt] 
-url = "https://www.metadocencia.org/proyectos/"
-label = "Otros proyectos"
+# [cta_alt] 
+# url = "https://www.metadocencia.org/proyectos/"
+# label = "Otros proyectos"
 
 
 # Note. An optional note to show underneath the links.
@@ -54,4 +56,4 @@ label = "Otros proyectos"
 #   label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-Junto a la NASA, invitamos a personas hispanohablantes a sumarse a cohortes virtuales para transformarnos a la Ciencia Abierta.
+# Junto a la NASA, invitamos a personas hispanohablantes a sumarse a cohortes virtuales para transformarnos a la Ciencia Abierta.
