@@ -35,7 +35,7 @@ user_groups:
 -  Integrantes
 ---
 
-**Experiencia y Trayectoria:**
+**Experiencias:**
 
 La experiencia de Julián (alias Niño) se centra en la planificación estratégica para canales de redes sociales y en el ámbito de la producción audiovisual, para  identificar y poner en práctica las oportunidades que el lenguaje audiovisual ofrece para cada tipo de contenido.
 
