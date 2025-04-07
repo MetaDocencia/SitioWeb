@@ -10,7 +10,7 @@ weight = 5  # Order that this section will appear.
 title = "5° aniversario"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "video5aniversario.jpg"
+hero_media = "video5aniversario.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
