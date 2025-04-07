@@ -16,10 +16,10 @@ author = "MetaDocencia"
 <div class="container">
   <div class="row align-items-start">
     <div class="col-12 col-lg-4">
-      <h1>Nuestra visión</h1>
+      <h1>Quiénes somos</h1>
     </div>
     <div class="col-12 col-lg-8">
-      Trabajamos para que la producción, la comunicación y la aplicación de saberes científicos y técnicos sean globalmente equitativas.
+      Somos una comunidad que construye capacidades científicas y técnicas, con perspectiva local y responsable. Lo hacemos de forma innovadora, co-creando redes, espacios de aprendizaje y recursos para comunidades hispanohablantes.
     </div>
   </div>
 </div>
@@ -29,10 +29,10 @@ author = "MetaDocencia"
 <div class="container">
   <div class="row align-items-start">
     <div class="col-12 col-lg-4">
-      <h1>Nuestra misión</h1>
+      <h1>Próximos 5 años</h1>
     </div>
     <div class="col-12 col-lg-8">
-      Construir capacidades científicas y técnicas en forma responsable y con mirada local, a través de la co-creación de redes, espacios de aprendizaje y recursos accesibles para comunidades hispanohablantes.
+      Nuestro objetivo es consolidar a América Latina en el mapa global de la investigación. Para ello, facilitaremos la conexión de 10000 profesionales en ciencia y técnica, promoviendo el intercambio de conocimientos y la colaboración.
     </div>
   </div>
 </div>

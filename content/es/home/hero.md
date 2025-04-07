@@ -7,10 +7,10 @@ weight = 5  # Order that this section will appear.
 
 # title = "Co-creando y enseñando Ciencia Abierta"
 
-title = "ALTa Ciencia Abierta"
+title = "5° aniversario"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "MD_original.png"
+hero_media = "video5aniversario.jpg"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -46,7 +46,7 @@ hero_media = "MD_original.png"
 
 [cta_alt] 
 url = "https://www.metadocencia.org/proyectos/"
-label = "Otros proyectos"
+label = "Nuestros proyectos"
 
 
 # Note. An optional note to show underneath the links.
@@ -54,4 +54,5 @@ label = "Otros proyectos"
 #   label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-Junto a la NASA, invitamos a personas hispanohablantes a sumarse a cohortes virtuales para transformarnos a la Ciencia Abierta.
+Gracias por estos primeros 5 años de aprendizaje, colaboración y crecimiento. ¡Vamos por 5 años más!
+
