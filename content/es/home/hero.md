@@ -11,7 +11,6 @@ title = "5° Aniversario"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "video5aniversariohome.png"
-url = "https://youtu.be/Mcq0-4cyGKQ"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -41,7 +40,7 @@ url = "https://youtu.be/Mcq0-4cyGKQ"
 #   Remove a link/note by deleting a cta/note block.
  [cta]
  url = "https://youtu.be/Mcq0-4cyGKQ"
- label = "Más información"
+ label = "Ver video"
  icon_pack = "fab"
  icon = "Súmate a nuestras propuestas de formación gratuitas y online"
 
