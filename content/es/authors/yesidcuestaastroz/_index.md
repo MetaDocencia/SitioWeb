@@ -10,7 +10,7 @@ interests:
 - Enfermedades infecciosas 
 - Single-cell genomics
 name: Yesid Cuesta Astroz
-role: Proyecto Polen
+role: 
 weight: 12
 organizations:
 - name: 

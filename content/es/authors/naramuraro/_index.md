@@ -10,7 +10,7 @@ interests:
 - Divulgación de la ciencia
 - Mentoreo
 name: Nara Muraro
-role: Proyecto Polen
+role: 
 weight: 1
 organizations:
 - name: 

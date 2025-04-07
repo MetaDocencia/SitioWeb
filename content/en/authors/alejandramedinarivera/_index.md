@@ -8,7 +8,7 @@ interests:
 - Genetic Regulation
 - Immunogenomics
 name: Alejandra Medina Rivera
-role: Pollen Project
+role: 
 weight: 6
 organizations:
 - name: 

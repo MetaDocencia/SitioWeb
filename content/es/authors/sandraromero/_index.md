@@ -8,7 +8,7 @@ interests:
 - Biología computacional
 - Envejecimiento
 name: Sandra Lorena Romero Cordoba
-role: Proyecto Polen
+role: 
 weight: 18
 organizations:
 - name: 

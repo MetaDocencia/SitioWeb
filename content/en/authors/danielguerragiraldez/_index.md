@@ -10,7 +10,7 @@ interests:
 - Biosensors
 - Cryo-EM
 name: Daniel Guerra Giraldez
-role: Pollen Project
+role: 
 weight: 2
 organizations:
 - name: 

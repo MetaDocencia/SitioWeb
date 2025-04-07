@@ -10,7 +10,7 @@ interests:
 - Science Communication
 - Mentoring
 name: Nara Muraro
-role: Pollen Project
+role: 
 weight: 1
 organizations:
 - name: 

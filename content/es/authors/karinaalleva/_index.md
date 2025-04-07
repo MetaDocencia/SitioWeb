@@ -9,7 +9,7 @@ interests:
 - Comunicación de la ciencia
 - Educación
 name: karina alleva
-role: Proyecto Polen
+role: 
 weight: 10
 organizations:
 - name: 

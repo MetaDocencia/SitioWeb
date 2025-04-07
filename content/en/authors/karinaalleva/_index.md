@@ -9,7 +9,7 @@ interests:
 - Science Communication
 - Education
 name: karina alleva
-role: Pollen Project
+role: 
 weight: 10
 organizations:
 - name: 

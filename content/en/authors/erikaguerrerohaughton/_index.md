@@ -8,7 +8,7 @@ interests:
 - Biomarkers
 - Genetics
 name: Erika Guerrero Haughton
-role: Pollen Project
+role: 
 weight: 9
 organizations:
 - name: 

@@ -10,7 +10,7 @@ interests:
 - Salud pública 
 - Sur global
 name: María Eugenia Dieterle
-role: Proyecto Polen
+role: 
 weight: 15
 organizations:
 - name: 

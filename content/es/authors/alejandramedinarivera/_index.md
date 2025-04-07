@@ -8,7 +8,7 @@ interests:
 - Regulación genética
 - Inmunogenómica
 name: Alejandra Medina Rivera
-role: Proyecto Polen
+role: 
 weight: 6
 organizations:
 - name: 

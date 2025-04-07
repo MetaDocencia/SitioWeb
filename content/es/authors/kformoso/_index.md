@@ -10,7 +10,7 @@ interests:
 - Ciencia abierta
 - Bioinformática
 name: Karina Formoso
-role: Proyecto Polen
+role:
 weight: 13
 organizations:
 - name: 

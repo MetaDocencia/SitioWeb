@@ -10,7 +10,7 @@ interests:
 - Biopolitics
 - Epistemology
 name: María Natalia Lisa
-role: Pollen Project
+role: 
 weight: 4
 organizations:
 - name: 

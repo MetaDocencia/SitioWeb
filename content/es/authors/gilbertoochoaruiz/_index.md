@@ -10,7 +10,7 @@ interests:
 - Mlops
 - Cirugía asistida por computadora
 name: Gilberto Ochoa-Ruiz
-role: Proyecto Polen
+role: 
 weight: 17
 organizations:
 - name: 

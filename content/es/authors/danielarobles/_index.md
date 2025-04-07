@@ -8,7 +8,7 @@ interests:
 - Cáncer
 - Bioinformática
 name: Carla Daniela Robles Espinoza
-role: Proyecto Polen
+role:
 weight: 11
 organizations:
 - name: 

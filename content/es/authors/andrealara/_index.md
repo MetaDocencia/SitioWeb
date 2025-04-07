@@ -9,7 +9,7 @@ interests:
 - Funding
 - Colaboraciones
 name: Andrea Lara
-role: Proyecto Polen
+role: 
 weight: 16
 organizations:
 - name: 

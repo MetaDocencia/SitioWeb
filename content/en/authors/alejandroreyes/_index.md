@@ -10,7 +10,7 @@ interests:
 - Bioinformatics
 - Human Microbiome
 name: Alejandro Reyes
-role: Pollen Project
+role: 
 weight: 8
 organizations:
 - name: 

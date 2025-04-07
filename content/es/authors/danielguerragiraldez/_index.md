@@ -10,7 +10,7 @@ interests:
 - Biosensores
 - Cryo-em
 name: Daniel Guerra Giraldez
-role: Proyecto Polen
+role: 
 weight: 2
 organizations:
 - name: 

@@ -9,7 +9,7 @@ interests:
 - Bioinformatics
 - Biological Sequence Modeling
 name: Leandro Bugnon
-role: Pollen Project
+role: 
 weight: 3
 organizations:
 - name: 

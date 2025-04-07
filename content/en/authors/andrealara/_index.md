@@ -9,7 +9,7 @@ interests:
 - Funding
 - Collaborations
 name: Andrea Lara
-role: Pollen Project
+role: 
 weight: 16
 organizations:
 - name: 

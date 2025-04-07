@@ -9,7 +9,7 @@ interests:
 - Epigenetics
 - Cell Differentiation
 name: Pablo Hernán Strobl-Mazzulla
-role: Pollen Project
+role: 
 weight: 7
 organizations:
 - name: 

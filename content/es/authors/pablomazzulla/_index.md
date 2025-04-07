@@ -9,7 +9,7 @@ interests:
 - Epigenética
 - Diferenciación celular
 name: Pablo Hernán Strobl-Mazzulla
-role: Proyecto Polen
+role: 
 weight: 7
 organizations:
 - name: 

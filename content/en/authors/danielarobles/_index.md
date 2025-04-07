@@ -8,7 +8,7 @@ interests:
 - Cancer
 - Bioinformatics
 name: Carla Daniela Robles Espinoza
-role: Pollen Project
+role: 
 weight: 11
 organizations:
 - name: 

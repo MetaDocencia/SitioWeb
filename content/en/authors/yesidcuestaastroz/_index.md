@@ -10,7 +10,7 @@ interests:
 - Infectious Diseases
 - Single-Cell Genomics
 name: Yesid Cuesta Astroz
-role: Pollen Project
+role: 
 weight: 12
 organizations:
 - name: 

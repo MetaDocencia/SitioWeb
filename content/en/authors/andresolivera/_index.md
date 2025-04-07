@@ -8,7 +8,7 @@ interests:
 - Project Management
 - Technology Transfer
 name: Andres Olivera
-role: Pollen Project
+role:
 weight: 14
 organizations:
 - name: 

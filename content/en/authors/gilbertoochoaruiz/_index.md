@@ -10,7 +10,7 @@ interests:
 - MLOps
 - Computer-Assisted Surgery
 name: Gilberto Ochoa-Ruiz
-role: Pollen Project
+role: 
 weight: 17
 organizations:
 - name: 

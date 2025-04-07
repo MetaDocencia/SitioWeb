@@ -8,7 +8,7 @@ interests:
 - Biomarcadores
 - Genética
 name: Erika Guerrero Haughton
-role: Proyecto Polen
+role: 
 weight: 9
 organizations:
 - name: 

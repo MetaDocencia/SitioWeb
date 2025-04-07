@@ -10,7 +10,7 @@ interests:
 - Open Science
 - Bioinformatics
 name: Karina Formoso
-role: Pollen Project
+role: 
 weight: 1
 organizations:
 - name: 

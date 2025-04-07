@@ -10,7 +10,7 @@ interests:
 - Biopolítica
 - Epistemología
 name: María Natalia Lisa
-role: Proyecto Polen
+role:
 weight: 4
 organizations:
 - name: 

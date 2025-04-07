@@ -9,7 +9,7 @@ interests:
 - Bioinformática
 - Modelado de secuencias biológicas
 name: Leandro Bugnon
-role: Proyecto Polen
+role: 
 weight: 3
 organizations:
 - name: 

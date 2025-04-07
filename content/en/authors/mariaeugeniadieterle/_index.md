@@ -10,7 +10,7 @@ interests:
 - Public Health
 - Global South
 name: María Eugenia Dieterle
-role: Pollen Project
+role:
 weight: 15
 organizations:
 - name: 

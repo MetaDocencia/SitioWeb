@@ -14,7 +14,7 @@ interests:
 - Molecular crowding
 - Metabolic imaging.
 name: Leonel Malacrida
-role: Proyecto Polen
+role: 
 weight: 5
 organizations:
 - name: 

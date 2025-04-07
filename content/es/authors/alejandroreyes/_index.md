@@ -10,7 +10,7 @@ interests:
 - Bioinformática
 - Microbioma humano
 name: Alejandro Reyes
-role: Proyecto Polen
+role: 
 weight: 8
 organizations:
 - name: 

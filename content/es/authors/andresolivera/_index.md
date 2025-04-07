@@ -8,7 +8,7 @@ interests:
 - Gestión de proyectos
 - Transferencia tecnológica
 name: Andres Olivera
-role: Proyecto Polen
+role: 
 weight: 14
 organizations:
 - name: 

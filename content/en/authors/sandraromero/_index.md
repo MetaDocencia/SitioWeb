@@ -8,7 +8,7 @@ interests:
 - Computational biology
 - Aging
 name: Sandra Lorena Romero Córdoba
-role: Pollen Project
+role: 
 weight: 18
 organizations:
 - name: 
