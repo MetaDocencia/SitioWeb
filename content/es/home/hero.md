@@ -7,10 +7,11 @@ weight = 5  # Order that this section will appear.
 
 # title = "Co-creando y enseñando Ciencia Abierta"
 
-title = "5° aniversario"
+title = "5° Aniversario"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "video5aniversariohome.png"
+url = "https://youtu.be/Mcq0-4cyGKQ"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -39,7 +40,7 @@ hero_media = "video5aniversariohome.png"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
  [cta]
- url = "https://www.metadocencia.org/formacion/"
+ url = "https://youtu.be/Mcq0-4cyGKQ"
  label = "Más información"
  icon_pack = "fab"
  icon = "Súmate a nuestras propuestas de formación gratuitas y online"
