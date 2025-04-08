@@ -2,14 +2,6 @@
 authors:
 - eiarussi
 bio: ""
-education:
-  courses:
-  - course: PhD. Computer Science
-    institution: Inria, France
-    year: 2015
-  - course: Systems Engineer
-    institution: UNICEN, Argentina
-    year: 2012
 email: "emmanuel.iarussi@utdt.edu"
 interests:
 - Education
