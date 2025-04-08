@@ -20,7 +20,7 @@ interests:
 - Future of work
 - Gender
 name: Paz Míguez
-weight: 13
+weight: 5
 role: Institutional and Training
 social:
 - icon: envelope

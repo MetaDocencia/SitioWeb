@@ -13,7 +13,7 @@ interests:
 - Education
 - Technology
 name: Irene Vazano
-weight: 18
+weight: 6
 organizations:
 - name: 
   url: 
