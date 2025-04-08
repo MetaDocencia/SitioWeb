@@ -8,7 +8,7 @@ interests:
 - Futures Thinking
 - Science Communication
 - Education
-name: karina alleva
+name: Karina Alleva
 role: 
 weight: 10
 organizations:

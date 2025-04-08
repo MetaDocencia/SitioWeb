@@ -8,7 +8,7 @@ interests:
 - Pensamiento futuro
 - Comunicación de la ciencia
 - Educación
-name: karina alleva
+name: Karina Alleva
 role: 
 weight: 10
 organizations:
