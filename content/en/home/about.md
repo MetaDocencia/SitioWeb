@@ -16,10 +16,10 @@ author = "MetaDocencia"
 <div class="container">
   <div class="row align-items-start">
     <div class="col-12 col-lg-4">
-      <h1>Our Vision</h1>
+      <h1>About us</h1>
     </div>
     <div class="col-12 col-lg-8">
-      We work to make the production, communication, and application of scientific and technical knowledge equitable globally.
+      We are a community that builds scientific and technical capacities with a local and responsible perspective. We do this in an innovative way, co-creating networks, learning spaces, and resources for Spanish-speaking communities.
     </div>
   </div>
 </div>
@@ -29,12 +29,10 @@ author = "MetaDocencia"
 <div class="container">
   <div class="row align-items-start">
     <div class="col-12 col-lg-4">
-      <h1>Our Mission</h1>
+      <h1>Next five years</h1>
     </div>
     <div class="col-12 col-lg-8">
-      To advance innovation with a local perspective that responsibly builds scientific and technical capacities through the co-creation of networks, learning spaces, and accessible resources for Spanish-speaking communities.
+      Our goal is to consolidate Latin America on the global research map. To achieve this goal, we will connect 10,000 researchers and technicians, promoting the exchange of knowledge and collaboration.
     </div>
   </div>
 </div>
-
-

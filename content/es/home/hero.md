@@ -7,10 +7,10 @@ weight = 5  # Order that this section will appear.
 
 # title = "Co-creando y enseñando Ciencia Abierta"
 
-title = "5° Aniversario"
+title = "5to Aniversario"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "video5aniversariohome.png"
+hero_media = "MD_original.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -45,8 +45,8 @@ hero_media = "video5aniversariohome.png"
  icon = "Súmate a nuestras propuestas de formación gratuitas y online"
 
 [cta_alt] 
-url = "https://www.metadocencia.org/proyectos/"
-label = "Nuestros proyectos"
+url = "https://www.metadocencia.org/post/2025/20250313-reporte2024/"
+label = "Reporte 2024"
 
 
 # Note. An optional note to show underneath the links.
@@ -54,5 +54,5 @@ label = "Nuestros proyectos"
 #   label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-Gracias por estos primeros 5 años de aprendizaje, colaboración y crecimiento. ¡Vamos por 5 años más!
+Thank you for these first 5 years. Join us for 5 more wonderful years!
 
