@@ -29,5 +29,5 @@ social:
   link: https://www.linkedin.com/in/fpalm
 superuser: false
 user_groups:
-- Colaboradores externos
+- Colaboradores
 ---
