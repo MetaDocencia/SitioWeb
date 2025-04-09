@@ -45,7 +45,7 @@ social:
   link: https://github.com/lauracion
 superuser: false
 user_groups:
-- Contributors
+- Team and Advisory Committee
 ---
 **Experience and Track Record**
 
