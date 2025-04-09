@@ -27,5 +27,5 @@ social:
   link: https://www.linkedin.com/in/vanina-varni/
 superuser: false
 user_groups:
-- External Contributors
+- Contributors
 ---

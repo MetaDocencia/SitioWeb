@@ -37,7 +37,7 @@ social:
   link: https://orcid.org/0009-0004-3690-9416
 superuser: false
 user_groups:
-- External Contributors
+- Contributors
 ---
 **Experience and Track Record**
 

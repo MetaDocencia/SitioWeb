@@ -27,5 +27,5 @@ social:
   link: https://www.linkedin.com/in/ver%C3%B3nica-xhardez-33b12924/
 superuser: false
 user_groups:
-- External Contributors
+- Contributors
 ---

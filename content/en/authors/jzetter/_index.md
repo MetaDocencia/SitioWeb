@@ -22,5 +22,5 @@ social:
   link: https://www.linkedin.com/in/julio-zetter-p-988a16ab/
 superuser: false
 user_groups:
-- External Contributors
+- Contributors
 ---

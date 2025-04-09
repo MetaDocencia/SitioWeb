@@ -22,5 +22,5 @@ social:
   link: Http://LinkedIn.com/in/petrizzo
 superuser: false
 user_groups:
-- External Contributors
+- Contributors
 ---
