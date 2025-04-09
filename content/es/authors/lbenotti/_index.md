@@ -28,5 +28,5 @@ social:
   link: https://www.linkedin.com/in/luciana-benotti/
 superuser: false
 user_groups:
-- Colaboradores externos
+- Colaboradores
 ---
