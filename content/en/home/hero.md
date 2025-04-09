@@ -56,4 +56,4 @@ label = "Report 2024"
 +++
 
 ## 
-Together with NASA, MetaDocencia invites Spanish-speaking communities to join 6-week online training cohorts.
+Thank you for these first 5 years. Join us for 5 more wonderful years!

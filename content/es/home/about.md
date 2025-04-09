@@ -32,7 +32,7 @@ author = "MetaDocencia"
       <h1>Próximos 5 años</h1>
     </div>
     <div class="col-12 col-lg-8">
-      Nuestro objetivo es consolidar a América Latina en el mapa global de la investigación. Para ello, facilitaremos la conexión de 10000 profesionales en ciencia y técnica, promoviendo el intercambio de conocimientos y la colaboración.
+      Nuestro objetivo es consolidar a América Latina en el mapa global de la investigación. Para ello, facilitaremos la conexión de 10.000 profesionales en ciencia y técnica, promoviendo el intercambio de conocimientos y la colaboración.
     </div>
   </div>
 </div>
@@ -87,7 +87,3 @@ El título puede espaciarse más respecto a los íconos. También podemos modifi
     </a>
     </div>
   </div>  
-  
-</div>
-</div>
--->

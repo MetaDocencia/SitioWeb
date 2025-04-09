@@ -54,5 +54,4 @@ label = "Reporte 2024"
 #   label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-Thank you for these first 5 years. Join us for 5 more wonderful years!
-
+Gracias por estos primeros 5 años de aprendizaje, colaboración y crecimiento. ¡Vamos por 5 años más!
