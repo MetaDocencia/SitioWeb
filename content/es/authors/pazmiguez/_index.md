@@ -37,7 +37,7 @@ social:
   link: https://orcid.org/0000-0003-1099-4347
 superuser: false
 user_groups:
--  Integrantes
+-  Equipo y Consejo Asesor
 ---
 
 **Experiencia y Trayectoria**
