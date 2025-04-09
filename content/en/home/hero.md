@@ -56,4 +56,4 @@ label = "Report 2024"
 +++
 
 ## 
-Thank you for these first 5 years. Join us for 5 more wonderful years!
+Thank you for these first 5 years. Here's to 5 more years!
