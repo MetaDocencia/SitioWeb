@@ -7,7 +7,7 @@ weight = 5  # Order that this section will appear.
 
 # title = "Co-creando y enseñando Ciencia Abierta"
 
-title = "ALTa Ciencia Abierta"
+title = "5to Aniversario"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "MD_original.png"
@@ -39,14 +39,14 @@ hero_media = "MD_original.png"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
  [cta]
- url = "https://www.metadocencia.org/formacion/"
- label = "Más información"
+ url = "https://youtu.be/Mcq0-4cyGKQ"
+ label = "Ver video"
  icon_pack = "fab"
  icon = "Súmate a nuestras propuestas de formación gratuitas y online"
 
 [cta_alt] 
-url = "https://www.metadocencia.org/proyectos/"
-label = "Otros proyectos"
+url = "https://www.metadocencia.org/post/2025/20250313-reporte2024/"
+label = "Reporte 2024"
 
 
 # Note. An optional note to show underneath the links.
@@ -54,4 +54,4 @@ label = "Otros proyectos"
 #   label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-Junto a la NASA, invitamos a personas hispanohablantes a sumarse a cohortes virtuales para transformarnos a la Ciencia Abierta.
+Gracias por estos primeros 5 años de aprendizaje, colaboración y crecimiento. ¡Vamos por 5 años más!

@@ -7,7 +7,7 @@ weight = 10  # Order that this section will appear.
 
 # title = "Co-creating and Teaching Open Science"
 
-title = "Transform to Open Science"
+title = "5th Anniversary"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "MD_original.png"
@@ -40,14 +40,14 @@ hero_media = "MD_original.png"
 #   Remove a link/note by deleting a cta/note block.
 
 [cta]
- url = "https://www.metadocencia.org/en/formacion/"
+ url = "https://youtu.be/bj59_0v2a1U"
  label = "Information"
  icon_pack = "fab"
- icon = "Read more"
+ icon = "Watch video"
 
 [cta_alt] 
-url = "https://www.metadocencia.org/en/proyectos/" 
-label = "Other Projects"
+url = "https://www.metadocencia.org/en/post/2025/20250313-reporte2024/" 
+label = "Report 2024"
 
 
 # Note. An optional note to show underneath the links.
@@ -56,4 +56,4 @@ label = "Other Projects"
 +++
 
 ## 
-Together with NASA, MetaDocencia invites Spanish-speaking communities to join 6-week online training cohorts.
+Thank you for these first 5 years. Join us for 5 more wonderful years!
