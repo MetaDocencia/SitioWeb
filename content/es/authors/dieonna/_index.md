@@ -3,15 +3,7 @@
 authors:
 
 - dieonna  
-bio: ""  
-education:  
-courses:
- - course: Doctor en Ciencias Químicas  
-institution: Universidad de Buenos Aires (UBA), Argentina.  
-year: 2017 
-  - course: Licenciado en Ciencias Químicas  
-institution: Universidad de Buenos Aires (UBA), Argentina.  
-year: 2012  
+bio: ""
 email: "[diego.onna@gmail.com](mailto:diego.onna@gmail.com)"  
 interests:
 - Ciencia de datos
