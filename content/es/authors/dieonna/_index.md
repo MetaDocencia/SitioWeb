@@ -2,48 +2,48 @@
 
 authors:
 
-* dieonna  
+- dieonna  
 bio: ""  
 education:  
 courses:
-  * course: Doctor en Ciencias Químicas  
+ - course: Doctor en Ciencias Químicas  
 institution: Universidad de Buenos Aires (UBA), Argentina.  
 year: 2017 
-  * course: Licenciado en Ciencias Químicas  
+  - course: Licenciado en Ciencias Químicas  
 institution: Universidad de Buenos Aires (UBA), Argentina.  
 year: 2012  
 email: "[diego.onna@gmail.com](mailto:diego.onna@gmail.com)"  
 interests:
-* Ciencia de datos
-* Inteligencia Artificial
-* Materiales
-* Nanotecnología
-* Educación  
+- Ciencia de datos
+- Inteligencia Artificial
+- Materiales
+- Nanotecnología
+- Educación  
 name: Diego Onna  
 role: Colaborador Externo  
 weight: 1  
 organizations:
-* name:  
+- name:  
 url: ""  
 social:
-* icon: envelope  
+- icon: envelope  
 icon\_pack: fas  
 link: "mailto:[diego.onna@gmail.com](mailto:diego.onna@gmail.com)"
-* icon: twitter  
+- icon: twitter  
 icon\_pack: fab  
 link: [https://twitter.com/DiegoOnna](https://twitter.com/DiegoOnna)
-* icon: orcid  
+- icon: orcid  
 icon\_pack: ai  
 link: [https://orcid.org/0000-0002-3158-1915](https://orcid.org/0000-0002-3158-1915)
-* icon: github  
+- icon: github  
 icon\_pack: fab  
 link: [https://github.com/diegoonna](https://github.com/diegoonna)
-* icon: linkedin  
+- icon: linkedin  
 icon\_pack: fab  
 link: [https://www.linkedin.com/in/diego-onna/](https://www.linkedin.com/in/diego-onna/)  
 superuser: false  
 user\_groups:
-* Colaboradores
+- Colaboradores
 
 ---
 
