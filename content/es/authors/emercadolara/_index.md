@@ -32,7 +32,7 @@ social:
   link: https://twitter.com/eunizeh
 superuser: false
 user_groups:
-- "Integrantes"
+- "Equipo y Consejo Asesor"
 ---
 
 **Experiencia y Trayectoria**

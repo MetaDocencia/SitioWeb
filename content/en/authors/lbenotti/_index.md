@@ -11,7 +11,7 @@ interests:
 - Multimodal models
 - Dialog systems
 name: Luciana Benotti
-role: External Contributor
+role: Contributor
 weight: 1
 organizations:
 - name: 

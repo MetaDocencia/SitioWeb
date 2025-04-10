@@ -39,7 +39,7 @@ social:
   link: https://www.linkedin.com/in/maria-in%C3%A9s-fariello-rico-94050943/
 superuser: false
 user_groups:
-- Contributors
+- Team and Advisory Committee
 ---
 
 **Experience and Background**

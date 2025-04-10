@@ -27,5 +27,5 @@ social:
   link: https://x.com/elpadrinortega
 superuser: false
 user_groups:
-- Colaboradores externos
+- Colaboradores
 ---

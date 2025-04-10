@@ -25,5 +25,5 @@ social:
 
 superuser: false
 user_groups:
-- Colaboradores externos
+- Colaboradores
 ---

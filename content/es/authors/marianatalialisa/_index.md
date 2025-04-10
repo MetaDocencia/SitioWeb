@@ -21,5 +21,5 @@ social:
   link: https://orcid.org/0000-0001-9630-8090
 superuser: false
 user_groups:
-- Colaboradores externos
+- Colaboradores
 ---

@@ -31,5 +31,5 @@ social:
   link: https://www.linkedin.com/in/umutpajaro/
 
 user_groups:
-- Colaboradores externos
+- Colaboradores
 ---

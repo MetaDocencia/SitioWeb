@@ -31,7 +31,7 @@ social:
   link: https://twitter.com/eunizeh
 superuser: false
 user_groups:
-- Contributors
+- Team and Advisory Committee
 ---
 
 **Experience and Track Record:**

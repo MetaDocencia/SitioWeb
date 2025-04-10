@@ -31,5 +31,5 @@ social:
   link: https://ecoevo.social/@flograttarola
 superuser: false
 user_groups:
-- Colaboradores externos
+- Colaboradores
 ---

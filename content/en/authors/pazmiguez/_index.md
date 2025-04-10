@@ -37,7 +37,7 @@ social:
   link: https://orcid.org/0000-0003-1099-4347
 superuser: false
 user_groups:
--  Contributors
+-  Team and Advisory Committee
 ---
 **Experience and Track Record**
 Paz holds a Bachelor's degree in Political Science, a Master's degree in Educational Policy and a Professorate degree in University Education. With more than 15 years of experience, Paz excels in the design, management and monitoring of educational programs. Her solid experience ranges from the creation and implementation of Monitoring and Evaluation (M&E) tools to the systematization, analysis, reporting and visualization of data for international and local organizations.

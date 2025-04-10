@@ -37,7 +37,7 @@ social:
   link: https://orcid.org/0000-0003-3062-4036
 superuser: false
 user_groups:
--  Contributors
+-  Team and Advisory Committee
 ---
 **Experience and Track Record**
 

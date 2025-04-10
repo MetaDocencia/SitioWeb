@@ -20,5 +20,5 @@ social:
   link: https://twitter.com/drispaty
 superuser: false
 user_groups:
-- Colaboradores externos
+- Colaboradores
 ---

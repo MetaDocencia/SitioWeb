@@ -23,5 +23,5 @@ social:
   link: https://www.linkedin.com/in/laura-martinez-quijano/
 superuser: false
 user_groups:
-- External Contributors
+- Contributors
 ---

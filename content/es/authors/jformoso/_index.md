@@ -36,7 +36,7 @@ social:
   link: https://orcid.org/0000-0003-3062-4036
 superuser: false
 user_groups:
--  Integrantes
+-  Equipo y Consejo Asesor
 ---
 
 **Experiencia y Trayectoria:**

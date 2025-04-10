@@ -21,5 +21,5 @@ social:
   link: https://www.linkedin.com/in/julieta-millan/
 superuser: false
 user_groups:
-- Colaboradores externos
+- Colaboradores
 ---

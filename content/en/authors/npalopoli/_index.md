@@ -42,7 +42,7 @@ social:
   link: https://github.com/npalopoli
 superuser: false
 user_groups:
-- Contributors
+- Team and Advisory Committee
 ---
 **Experience and Track Record**
 

@@ -20,5 +20,5 @@ social:
   link: https://twitter.com/emmaiarussi
 superuser: false
 user_groups:
-- External Contributors
+- Contributors
 ---

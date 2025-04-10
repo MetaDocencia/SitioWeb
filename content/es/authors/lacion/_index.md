@@ -45,7 +45,7 @@ social:
   link: https://github.com/lauracion
 superuser: false
 user_groups:
--  Integrantes
+-  Equipo y Consejo Asesor
 ---
 
 **Experiencia y trayectoria**

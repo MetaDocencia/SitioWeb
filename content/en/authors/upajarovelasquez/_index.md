@@ -31,5 +31,5 @@ social:
   link: https://www.linkedin.com/in/umutpajaro/
 
 user_groups:
-- External Contributors
+- Contributors
 ---

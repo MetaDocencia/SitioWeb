@@ -23,5 +23,5 @@ social:
   link: https://gloriayloor.com/
 superuser: false
 user_groups:
-- External Contributors
+- Contributors
 ---
