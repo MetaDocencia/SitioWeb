@@ -29,7 +29,7 @@ social:
   link: https://orcid.org/0009-0005-5869-5567
 superuser: false
 user_groups:
-- Colaboradores externos
+- Colaboradores
 ---
 
 **Experiencia y trayectoria**
