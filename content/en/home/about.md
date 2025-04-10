@@ -21,7 +21,7 @@ author = "MetaDocencia"
       <h1>About us</h1>
     </div>
     <div class="col-12 col-lg-8">
-      We are a community that builds scientific and technical capacities with a local and responsible perspective. We do this in an innovative way, co-creating networks, learning spaces, and resources for Spanish-speaking communities.
+      We are a community that builds scientific and technical capacities with a local and responsible perspective. We co-create networks, learning spaces, and resources for Spanish-speaking communities.
     </div>
   </div>
 </div>
@@ -34,7 +34,7 @@ author = "MetaDocencia"
       <h1>Next 5 years</h1>
     </div>
     <div class="col-12 col-lg-8">
-      Our goal is to consolidate Latin America on the global research map. To achieve this goal, we will connect 10,000 researchers and technicians, promoting the exchange of knowledge and collaboration.
+      We will consolidate Latin America on the global research map. To achieve this goal, we will connect 10,000 researchers and technicians, promoting the exchange of knowledge and collaboration.
     </div>
   </div>
 </div>
