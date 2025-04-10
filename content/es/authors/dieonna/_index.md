@@ -1,28 +1,20 @@
 ---
 authors:
-- dieonna
+- dieonna  
 bio: ""
-education: 
- courses:
-  - course: Doctor en Ciencias Químicas
-    institution: Universidad de Buenos Aires (UBA), Argentina.
-    year: 2017 
-  - course: Licenciado en Ciencias Químicas
-    institution: Universidad de Buenos Aires (UBA), Argentina.
-    year: 2012
-email: "diego.onna@gmail.com"
+email: "diego.onna@gmail.com"  
 interests:
- - Ciencia de datos
- - Inteligencia Artificial
- - Materiales
- - Nanotecnología
- - Educación
+  - Ciencia de datos
+  - Inteligencia Artificial
+  - Materiales
+  - Nanotecnología
+  - Educación  
 name: Diego Onna
-role: Colaborador Externo
-weight: 1
+weight: 1  
 organizations:
-- name: 
+- name:  
   url: ""
+role: Colaborador Externo  
 social:
 - icon: envelope
   icon_pack: fas
@@ -39,17 +31,8 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/diego-onna/
-superuser: false
+superuser: false  
 user_groups:
-- Colaboradores externos
+- Colaboradores
+
 ---
-
-**Experiencia y Trayectoria:**
-Diego Onna es investigador del CONICET con sede en la Facultad de Ciencias Exactas y Naturales de la Universidad de Buenos Aires. 
-Con una formación académica que abarca desde la Licenciatura hasta el Doctorado en Ciencias Químicas, su investigación se centra en el desarrollo de nuevos materiales utilizando inteligencia artificial y ciencia de datos. 
-Su objetivo es reducir la contaminación, los tiempos y los costos en la creación de materiales innovadores.
-
-Con más de 10 años de experiencia como docente universitario, Diego ha impartido clases en diferentes niveles y modalidades, incluyendo grado, posgrado y extensión, tanto en entornos presenciales como virtuales. 
-Siempre busca la innovación para mejorar la experiencia de aprendizaje e incorporar nuevas tecnologías.
-
-Diego participa activamente en proyectos de ciencia abierta, contribuyendo a iniciativas como The Carpentries, Open Life Science y Code for Science & Society.

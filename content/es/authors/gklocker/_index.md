@@ -27,5 +27,5 @@ social:
   link: https://ar.linkedin.com/in/gast%C3%B3n-klocker-918923102
 superuser: false
 user_groups:
-- Colaboradores externos
+- Colaboradores
 ---

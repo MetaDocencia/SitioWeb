@@ -29,5 +29,5 @@ social:
   link: https://twitter.com/arielsilvionr
 superuser: false
 user_groups:
-- Colaboradores externos
+- Colaboradores
 ---

@@ -31,5 +31,5 @@ social:
   link: https://www.linkedin.com/in/zulemma-b-60a8a811a/
 superuser: false
 user_groups:
-- External Contributors
+- Contributors
 ---
