@@ -28,5 +28,5 @@ social:
   link: https://www.linkedin.com/in/luciana-benotti/
 superuser: false
 user_groups:
-- External Contributors
+- Contributors
 ---
