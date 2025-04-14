@@ -10,7 +10,7 @@ interests:
 - Desarrollo
 - Innovación
 name: Gastón Klocker
-role: Proyecto Polen
+role:
 weight: 1
 organizations:
 - name: 
