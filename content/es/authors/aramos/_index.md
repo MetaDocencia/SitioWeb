@@ -12,7 +12,7 @@ interests:
 - Colaboración
 - Ambiente positivo
 name: Ariel Silvio Norberto Ramos
-role: Proyecto Polen
+role:
 weight: 1
 organizations:
 - name: 
