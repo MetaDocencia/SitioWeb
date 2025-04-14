@@ -13,7 +13,7 @@ education:
   - course: Licenciada en Ciencias Biológicas.
     institution: Universidad de Buenos Aires (UBA), Argentina.
     year: 2013
-email: "sabrina.lopez@metadocencia.org"
+email: "sabrina.lopez.ds@gmail.com"
 interests:
  - Ciencia de datos de salud
  - Ciencia abierta
@@ -25,11 +25,11 @@ organizations:
 - name: 
   url: ""
 
-role: Contextualización
+role:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "sabrina.lopez@metadocencia.org"
+  link: "mailto:sabrina.lopez.ds@gmail.com"
 - icon: github
   icon_pack: fab
   link: https://github.com/SLLDeC/
