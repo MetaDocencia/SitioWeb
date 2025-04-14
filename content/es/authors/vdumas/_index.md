@@ -19,7 +19,7 @@ interests:
  - Impactos socioambientales de la IA
  - Adaptación al cambio climático
 name: Victoria Gisel Dumas
-role: Colaboradora Externa
+role:
 weight: 1
 organizations:
 - name: 
@@ -41,9 +41,3 @@ superuser: false
 user_groups:
 - Colaboradores
 ---
-
-**Experiencia y Trayectoria:**
-Victoria Dumas es Licenciada en Bioinformática por la Universidad Nacional de Entre Ríos y Doctora por la Universidad de Buenos Aires. 
-Trabajó como científica de datos en empresas privadas en Argentina y Chile. 
-
-Actualmente se desempeña como coordinadora del Programa de Ciencia de Datos de la Fundación Sadosky y es docente de Visualización y Comunicación en la Maestría en Ciencia de Datos de la Universidad de San Andrés.
