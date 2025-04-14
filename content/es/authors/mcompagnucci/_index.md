@@ -8,7 +8,7 @@ interests:
 - Ambiente
 - Espacio
 name: Marina Compagnucci
-role: Proyecto Polen
+role:
 weight: 1
 organizations:
 - name: 
