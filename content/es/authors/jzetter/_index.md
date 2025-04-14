@@ -8,7 +8,7 @@ interests:
 - Buenas prácticas editoriales
 - Esquemas de metadatos
 name: Julio Zetter Patiño
-role: Proyecto Polen
+role:
 weight: 1
 organizations:
 - name: 
