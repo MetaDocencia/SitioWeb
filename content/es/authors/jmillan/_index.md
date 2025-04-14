@@ -10,7 +10,7 @@ interests:
 - Ciencias ambientales
 - Biología
 name: Julieta Millán
-role: Proyecto Polen
+role:
 weight: 1
 organizations:
 - name: 
