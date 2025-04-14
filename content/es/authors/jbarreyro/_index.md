@@ -8,7 +8,7 @@ interests:
 - Evaluación
 - Proyectos
 name: Juan Pablo Barreyro
-role: Proyecto Polen
+role:
 weight: 1
 organizations:
 - name: 
