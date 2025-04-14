@@ -12,7 +12,7 @@ weight: 1
 organizations:
 - name: 
   url: ""
-role: Colaborador externo
+role:
 social:
 - icon: twitter
   icon_pack: fab
