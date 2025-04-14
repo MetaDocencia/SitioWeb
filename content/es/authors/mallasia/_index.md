@@ -10,7 +10,7 @@ interests:
 - Programación en R
 - Investigación reproducible
 name: María Belén Allasia
-role: Proyecto Polen
+role:
 weight: 1
 organizations:
 - name: 
