@@ -24,10 +24,10 @@ social:
   icon_pack: fab
   link: https://github.com/bienflorencia
 - icon: globe
-  icon_pack: fab
+  icon_pack: fas
   link: https://flograttarola.com
 - icon: globe
-  icon_pack: fab
+  icon_pack: fas
   link: https://ecoevo.social/@flograttarola
 superuser: false
 user_groups:
