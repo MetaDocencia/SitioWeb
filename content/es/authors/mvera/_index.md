@@ -9,7 +9,7 @@ interests:
 - Open Source
 - Conocimiento
 name: María Jimena Vera
-role: Proyecto Polen
+role:
 weight: 1
 organizations:
 - name: 
