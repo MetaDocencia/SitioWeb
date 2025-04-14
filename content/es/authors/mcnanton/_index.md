@@ -7,7 +7,7 @@ education:
   - course: Lic. en Comunicación Social
     institution: Universidad de Buenos Aires (UBA), Argentina.
     year: 2019
-email: "mnanton@metadocencia.org"
+email: "mcnanton@gmail.com"
 interests:
 - Ciencia de Datos
 - Ciencia Abierta
@@ -19,11 +19,11 @@ organizations:
 - name: 
   url: ""
 
-role: Infraestructura
+role:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mnanton@metadocencia.org"
+  link: "mcnanton@gmail.com"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/bynans1
