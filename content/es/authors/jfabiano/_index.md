@@ -10,7 +10,7 @@ interests:
 - Arte en diversas formas (literatura, música, arquitectura, etc.)
 - Deportes
 name: Jeremías Fabiano
-role: Proyecto Polen
+role:
 weight: 1
 organizations:
 - name: 
