@@ -10,7 +10,7 @@ education:
   - course: Técnica Museógrafa
     institution: Universidad del Museo Social Argentino. Argentina.
     year: 2004
-email: "paola.lefer@metadocencia.org"
+email: "paolaandrealefer@gmail.com"
 interests:
 - Nuevas Herramientas Educativas
 - Historia y Literatura Latinoamericana
@@ -19,11 +19,11 @@ interests:
 name: Paola Andrea Lefer
 weight: 9
 organizations:
-role: Institucional
+role:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:paola.lefer@metadocencia.org"
+  link: "mailto:paolaandrealefer@gmail.com"
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0009-0005-5869-5567
