@@ -10,7 +10,7 @@ interests:
 - Acceso a vivienda adecuada
 - Metodologías participativas, horizontales e inclusivas
 name: Luis Adolfo Ortega Granados
-role: Proyecto Polen
+role:
 weight: 1
 organizations:
 - name: 
