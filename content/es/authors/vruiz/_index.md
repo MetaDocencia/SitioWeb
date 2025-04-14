@@ -8,7 +8,7 @@ interests:
 - Investigación
 - Docencia
 name: Vanesa Ruiz
-role: Proyecto Polen
+role:
 weight: 1
 organizations:
 - name: 
