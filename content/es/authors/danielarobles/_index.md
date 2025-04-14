@@ -17,6 +17,12 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0003-3277-7466
+- icon: envelope
+  icon_pack: fas
+  link: "mailto:drobles@liigh.unam.mx"
+- icon: bluesky
+  icon_pack: fab
+  link: https://bsky.app/profile/daniela-oaks.bsky.social
 superuser: false
 user_groups:
 - Colaboradores
