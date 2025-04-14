@@ -9,7 +9,7 @@ interests:
 - Optimización de consumos
 - Huella de carbono
 name: Laura Martínez Quijano
-role: Proyecto Polen
+role:
 weight: 1
 organizations:
 - name: 
