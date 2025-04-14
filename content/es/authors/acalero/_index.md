@@ -8,7 +8,7 @@ interests:
 - Psicología
 - Análisis de datos
 name: Alejandra Daniela Calero
-role: Proyecto Polen
+role:
 weight: 1
 organizations:
 - name: 
