@@ -2,14 +2,14 @@
 authors:
 - melissa
 bio: ""
-email: "mblack@metadocencia.org"
+email: "melissablack301@gmail.com"
 interests:
 - Ciencia Abierta
 - Construcción de Comunidades
 - Traducción
 name: Melissa Black
 weight: 4
-role: Coordinación de proyectos
+role:
 social:
 - icon: linkedin
   icon_pack: fab
