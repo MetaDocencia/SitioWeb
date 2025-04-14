@@ -10,7 +10,7 @@ interests:
 - Identificadores persistentes
 - Alfabetización digital y mediática
 name: Sergio Santamarina
-role: Proyecto Polen
+role:
 weight: 1
 organizations:
 - name: 
