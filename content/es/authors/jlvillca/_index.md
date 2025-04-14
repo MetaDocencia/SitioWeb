@@ -7,7 +7,7 @@ education:
   - course: Diplomado en Educación Superior en Salud
     institution: Escuela de posgrado y educación continua, Facultad de Medicina, Universidad Mayor de San Simón, Cochabamba, Bolivia.
     year: 2022
-email: "jvillcavillegas@metadocencia.org"
+email: "jvillcavillegas@gmail.com"
 interests:
  - Educación
  - Inequidades sociales
@@ -19,11 +19,11 @@ organizations:
 - name: 
   url: ""
 
-role: Medición de Impacto
+role:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:jvillcavillegas@metadocencia.org"
+  link: "mailto:jvillcavillegas@gmail.com"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/villca_villegas
