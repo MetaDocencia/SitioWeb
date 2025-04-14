@@ -9,7 +9,7 @@ interests:
 - Cultura
 - Estadística
 name: Driselda Sánchez Aguirre
-role: Proyecto Polen
+role:
 weight: 1
 organizations:
 - name: 
