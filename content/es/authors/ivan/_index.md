@@ -7,7 +7,7 @@ education:
   - course: Abogado.
     institution: Universidad Nacional de La Pampa.  
     year: 2007
-email: "ivanpoggio@metadocencia.org"
+email: "ivanpoggio@gmail.com"
 interests:
 - Accesibilidad
 - Derecho
@@ -21,7 +21,7 @@ role:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:ivanpoggio@metadocencia.org"
+  link: "mailto:ivanpoggio@gmail.com"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ivanpoggio/
