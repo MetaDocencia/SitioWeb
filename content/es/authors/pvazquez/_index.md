@@ -8,7 +8,7 @@ interests:
 - Desarrollo
 - Ciencia de datos
 name: Pablo Vázquez
-role: Proyecto Polen
+role:
 weight: 1
 organizations:
 - name: 
