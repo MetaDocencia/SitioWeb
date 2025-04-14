@@ -9,7 +9,7 @@ interests:
  - Neuropsicología
  - Ciencia abierta
 name: Débora I. Burin
-role: Colaboradora Externa
+role:
 weight: 1
 organizations:
 - name: 
