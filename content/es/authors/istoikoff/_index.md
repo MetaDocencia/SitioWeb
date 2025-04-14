@@ -9,7 +9,7 @@ interests:
 - Edición
 - Políticas públicas
 name: Iván Stoikoff
-role: Proyecto Polen
+role:
 weight: 1
 organizations:
 - name: 
