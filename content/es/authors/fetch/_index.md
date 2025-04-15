@@ -1,7 +1,7 @@
 ---
 authors:
   - fetch
-role: Diseño Gráfico
+role:
 bio: ""
 education:
   courses:
