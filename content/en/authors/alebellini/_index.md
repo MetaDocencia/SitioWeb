@@ -1,7 +1,7 @@
 ---
 authors:
   - alebellini
-role: Communication
+role:
 bio: ""
 education:
   courses:
