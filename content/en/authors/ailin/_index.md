@@ -9,7 +9,7 @@ email: ""
 # interests:
 
 name: Ailin Mandola
-role: Graphic Design
+role:
 social:
 - icon: twitter
   icon_pack: fab
