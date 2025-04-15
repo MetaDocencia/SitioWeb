@@ -10,7 +10,7 @@ interests:
 - Persistent identifiers
 - Digital and media literacy
 name: Sergio Santamarina
-role: Pollen Project
+role:
 weight: 1
 organizations:
 - name: 
