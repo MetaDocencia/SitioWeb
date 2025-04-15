@@ -11,7 +11,7 @@ education:
 email: ""
 interests:
 name: Alejandra Wrobel
-role: Comunicación
+role:
 organizations: 
 - name: Jefa del Departamento de Seguridad de la Información y Ciberseguridad (Subsecretaría de Modernización de la Provincia del Chaco)
   url: 
