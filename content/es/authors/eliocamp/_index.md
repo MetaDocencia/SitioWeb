@@ -20,7 +20,7 @@ name: Elio Campitelli
 organizations:
 - name: Centro de Investigaciones del Mar y la Atmósfera - UBA-CONICET
   url: "http://www.cima.fcen.uba.ar/"
-role: Coordinación
+role:
 social:
 - icon: twitter
   icon_pack: fab
