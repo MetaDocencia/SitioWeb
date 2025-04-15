@@ -8,7 +8,7 @@ interests:
 - Reproducibility
 - Lq-likelihood
 name: Zulemma Bazurto Blacio
-role: Pollen Project
+role:
 weight: 1
 organizations:
 - name: 
