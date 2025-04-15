@@ -19,7 +19,7 @@ interests:
  - Socio-environmental impacts of AI
  - Adaptation to climate change
 name: Victoria Gisel Dumas
-role: External Contributor
+role:
 weight: 1
 organizations:
 - name: 
