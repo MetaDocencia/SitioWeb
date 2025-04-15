@@ -14,7 +14,7 @@ weight: 1
 organizations:
 - name: 
   url: ""
-role: External Contributor
+role:
 social:
 - icon: envelope
   icon_pack: fas
