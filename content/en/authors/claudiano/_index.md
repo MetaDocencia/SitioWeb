@@ -16,7 +16,7 @@ organizations:
 - name: Federal University of Recôncavo da Bahia (Brazil)
   url: ""
 
-role: Portuguese Translation Team 
+role:
 social:
 - icon: twitter
   icon_pack: fab
