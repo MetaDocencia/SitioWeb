@@ -10,7 +10,7 @@ interests:
 - R Programming
 - Reproducible Research
 name: María Belén Allasia
-role: Pollen Project
+role:
 weight: 1
 organizations:
 - name: 
