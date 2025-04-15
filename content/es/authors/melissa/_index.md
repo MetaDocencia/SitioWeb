@@ -9,7 +9,7 @@ interests:
 - Traducción
 name: Melissa Black
 weight: 4
-role: Infraestructura
+role:
 social:
 - icon: linkedin
   icon_pack: fab
