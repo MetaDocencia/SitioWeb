@@ -5,7 +5,7 @@ bio: ""
 email: ""
 name: Malvika Sharan
 weight: 17
-role: Consejo Asesor
+role:
 social:
 - icon: globe
   icon_pack: fas
