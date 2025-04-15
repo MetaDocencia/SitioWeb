@@ -10,7 +10,7 @@ interests:
 - Development
 - Innovation
 name: Gastón Klocker
-role: Pollen Project
+role:
 weight: 1
 organizations:
 - name: 
