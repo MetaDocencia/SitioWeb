@@ -10,7 +10,7 @@ education:
   - course: Licenciate in Social Communication
     institution: National University of Cordoba
     year: 2010
-email: "laurel@metadocencia.org"
+email: "lauradascenzi@gmail.com"
 interests:
 - Education
 - Digital communication
@@ -20,11 +20,11 @@ name: Laura Ascenzi
 weight: 4
 organizations:
 - name: Universidad Nacional de Córdoba
-role: Communication and Community
+role:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:laurel@metadocencia.org"
+  link: "mailto:lauradascenzi@gmail.com"
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/lauradascenzi/
