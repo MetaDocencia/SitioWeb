@@ -9,7 +9,7 @@ interests:
 - Culture
 - Statistics
 name: Driselda Sánchez Aguirre
-role: Pollen Project
+role:
 weight: 1
 organizations:
 - name: 
