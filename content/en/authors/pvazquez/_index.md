@@ -8,7 +8,7 @@ interests:
 - Software Development
 - Data Science
 name: Pablo Vázquez
-role: Pollen Project
+role:
 weight: 1
 organizations:
 - name: 
