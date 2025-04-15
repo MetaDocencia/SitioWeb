@@ -12,7 +12,7 @@ interests:
 - Collaboration
 - Positive environment
 name: Ariel Silvio Norberto Ramos
-role: Pollen Project
+role:
 weight: 1
 organizations:
 - name: 
