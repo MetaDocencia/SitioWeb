@@ -7,7 +7,7 @@ education:
   - course: Diploma in Health Higher Education
     institution: Medicine School, Universidad Mayor de San Simón, Cochabamba, Bolivia.
     year: 2022
-email: "jvillcavillegas@metadocencia.org"
+email: "jvillcavillegas@gmail.com"
 interests:
  - Education
  - Social inequities
@@ -19,11 +19,11 @@ organizations:
 - name: 
   url: ""
 
-role: Impact Measurement
+role:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:jvillcavillegas@metadocencia.org"
+  link: "mailto:jvillcavillegas@gmail.com"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/villca_villegas
