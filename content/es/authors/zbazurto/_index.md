@@ -8,7 +8,7 @@ interests:
 - Reproducibilidad
 - Lq-verosimilitud
 name: Zulemma Bazurto Blacio
-role: Proyecto Polen
+role:
 weight: 1
 organizations:
 - name: 
