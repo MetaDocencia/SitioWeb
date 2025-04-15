@@ -10,7 +10,7 @@ interests:
 - Art in diverse forms (literature, music, architecture)
 - Sports
 name: Jeremías Fabiano
-role: Pollen Project
+role:
 weight: 1
 organizations:
 - name: 
