@@ -1,7 +1,7 @@
 ---
 authors:
   - lucho
-role: Communication
+role:
 bio: ""
 education:
   courses:
