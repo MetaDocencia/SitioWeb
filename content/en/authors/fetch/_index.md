@@ -1,7 +1,7 @@
 ---
 authors:
   - fetch
-role: Graphic Design
+role:
 bio: ""
 education:
   courses:
