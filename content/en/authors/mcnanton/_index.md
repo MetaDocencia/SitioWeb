@@ -19,11 +19,11 @@ organizations:
 - name: 
   url: ""
 
-role: Infrastructure
+role:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mnanton@metadocencia.org"
+  link: "mcnanton@gmail.com"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/bynans1
