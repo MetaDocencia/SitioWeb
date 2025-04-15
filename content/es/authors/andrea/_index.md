@@ -23,7 +23,7 @@ organizations:
   url: "http://www.sociales.uba.ar/"
 - name: R-Ladies
   url: "https://rladies.org"
-role: Diseño Gráfico 
+role: 
 social:
 - icon: twitter
   icon_pack: fab
