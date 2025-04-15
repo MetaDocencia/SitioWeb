@@ -2,7 +2,7 @@
 authors:
 - melissa
 bio: ""
-email: "mblack@metadocencia.org"
+email: "melissablack301@gmail.com"
 interests:
 - Open science
 - Community building
