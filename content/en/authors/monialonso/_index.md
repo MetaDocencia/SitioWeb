@@ -10,7 +10,7 @@ education:
   - course: Licenciate of Computer Science
     institution: University Buenos Aires 
     year: 1985
-email: "monica.alonso@metadocencia.org"
+email: "monialo2000@gmail.com"
 interests:
 - Computer Science
 - Data Science
@@ -21,11 +21,11 @@ organizations:
 - name: 
   url: 
 weight: 3
-role: Community and Training
+role:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:monica.alonso@metadocencia.org"
+  link: "mailto:monialo2000@gmail.com"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/MonicaLA2000
