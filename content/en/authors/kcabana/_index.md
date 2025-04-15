@@ -9,7 +9,7 @@ interests:
 - Literature
 - Anthropology
 name: Kevin Hernan Cabana Horqque
-role: External Contributor
+role:
 weight: 1
 organizations:
 - name: 
