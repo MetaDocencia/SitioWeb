@@ -8,7 +8,7 @@ interests:
 - Psychology
 - Data Analysis
 name: Alejandra Daniela Calero
-role: Pollen Project
+role:
 weight: 1
 organizations:
 - name: 
