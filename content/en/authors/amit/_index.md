@@ -16,7 +16,7 @@ interests:
 name: Amit Kohli
 organizations:
 
-role: Impact Measurement
+role:
 social:
 - icon: twitter
   icon_pack: fab
