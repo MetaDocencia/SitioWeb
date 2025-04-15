@@ -10,7 +10,7 @@ interests:
 - Access to adequate housing
 - Participative, horizontal and inclusive methodologies.
 name: Luis Adolfo Ortega Granados
-role: Pollen Project
+role:
 weight: 1
 organizations:
 - name: 
