@@ -5,7 +5,7 @@ bio: ""
 email: ""
 name: Sara Mortara
 weight: 11
-role: Code of Conduct Team and Adviser
+role:
 social:
 - icon: twitter
   icon_pack: fab
