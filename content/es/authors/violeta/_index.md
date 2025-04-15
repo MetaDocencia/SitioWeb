@@ -13,7 +13,7 @@ name: Violeta Roizman
 organizations:
 - name:
   url:
-role: Medición de Impacto
+role:
 social:
 - icon: twitter
   icon_pack: fab
