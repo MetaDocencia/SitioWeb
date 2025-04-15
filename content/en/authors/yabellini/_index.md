@@ -28,7 +28,7 @@ organizations:
   url: "https://rladies.org"
 - name: The Carpentries
   url: https://carpentries.org/
-role: Coordination
+role:
 social:
 - icon: twitter
   icon_pack: fab
