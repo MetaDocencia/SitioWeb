@@ -8,7 +8,7 @@ interests:
 - Assesment
 - Projects
 name: Juan Pablo Barreyro
-role: Pollen Project
+role:
 weight: 1
 organizations:
 - name: 
