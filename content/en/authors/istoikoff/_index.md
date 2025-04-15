@@ -9,7 +9,7 @@ interests:
 - Publishing
 - Public Policy
 name: Iván Stoikoff
-role: Pollen Project
+role:
 weight: 1
 organizations:
 - name: 
