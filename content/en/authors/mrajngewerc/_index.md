@@ -10,7 +10,7 @@ education:
   - course: Licenciate in Mathematical Sciences
     institution:  Universidad de Buenos Aires
     year: 2016
-email: ""
+email: "marielaraj@gmail.com"
 interests:
 - Education
 - Mathematics
@@ -22,11 +22,11 @@ weight: 17
 organizations:
 - name: 
   url: 
-role: Community and Training
+role:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:marielaraj@metadocencia.org"
+  link: "mailto:marielaraj@gmail.com"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/mariela_rajng
