@@ -10,7 +10,7 @@ email: ""
 
 name: Ailin Mandola
 
-role: Diseño Gráfico
+role:
 social:
 - icon: twitter
   icon_pack: fab
