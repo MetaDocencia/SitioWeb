@@ -12,7 +12,7 @@ weight: 1
 organizations:
 - name: 
   url: ""
-role: External Contributor
+role:
 social:
 - icon: twitter
   icon_pack: fab
