@@ -8,7 +8,7 @@ interests:
 - Good editorial practices
 - Metadata schemas
 name: Julio Zetter Patiño
-role: Pollen Project
+role:
 weight: 1
 organizations:
 - name: 
