@@ -15,7 +15,7 @@ email: ""
 # interests:
 
 name: Beatriz Milz
-role: Traducción al Portugués
+role:
 social:
 - icon: twitter
   icon_pack: fab
