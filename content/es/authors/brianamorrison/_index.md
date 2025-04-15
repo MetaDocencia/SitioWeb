@@ -4,7 +4,7 @@ authors:
 bio: ""
 email: ""
 name: Briana Morrison
-role: Asesora
+role:
 social:
 - icon: globe
   icon_pack: fas
