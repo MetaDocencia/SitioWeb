@@ -3,7 +3,7 @@ authors:
 - rominapendino
 bio: ""
 education:
-email: ""
+email: "romipendino@hotmail.com"
 interests:
 - Education
 - Gender and Human Rights
@@ -11,11 +11,11 @@ interests:
 - Communication
 name: Romina Pendino
 weight: 15
-role: Institutional and Advisory Committee
+role:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:romipendino@metadocencia.org"
+  link: "mailto:romipendino@hotmail.com"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/romipendinok/
