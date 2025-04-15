@@ -9,7 +9,7 @@ interests:
 - Open Source
 - Knowledge
 name: María Jimena Vera
-role: Pollen Project
+role:
 weight: 1
 organizations:
 - name: 
