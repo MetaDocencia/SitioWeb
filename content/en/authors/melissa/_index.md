@@ -9,7 +9,7 @@ interests:
 - Translation
 name: Melissa Black
 weight: 4
-role: Project Coordinator
+role:
 social:
 - icon: linkedin
   icon_pack: fab
