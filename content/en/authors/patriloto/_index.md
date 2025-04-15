@@ -10,7 +10,7 @@ education:
   - course: Bachelor in Information Systems
     institution: Universidad Nacional del Nordeste 
     year: 2015
-email: "patricialoto@metadocencia.org"
+email: "patricia.andrea.loto@gmail.com"
 interests:
 - Data Science
 - Open Science
@@ -18,11 +18,11 @@ interests:
 - Accessibility
 name: Patricia Andrea Loto
 weight: 11
-role: Community and Training
+role:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:patricialoto@metadocencia.org"
+  link: "mailto:patricia.andrea.loto@gmail.com"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/patriloto
