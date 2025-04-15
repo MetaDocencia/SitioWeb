@@ -8,7 +8,7 @@ interests:
 - Research
 - Teaching
 name: Vanesa Ruiz
-role: Pollen Project
+role:
 weight: 1
 organizations:
 - name: 
