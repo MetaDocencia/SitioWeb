@@ -3,6 +3,10 @@ authors:
 - rominapendino
 bio: ""
 education:
+  courses:
+  - course: Licenciatura en Comunicación Social
+    institution: Universidad Nacional de Rosario
+    year: 2025
 email: "romipendino@hotmail.com"
 interests:
 - Educación
@@ -32,7 +36,7 @@ user_groups:
 
 **Experiencia y Trayectoria**
 
-Romina Pendino se encuentra finalizando la tesina para obtener la Licenciatura en Comunicación Social en la Universidad Nacional de Rosario. 
+Romina Pendino es Licenciada en Comunicación Social por la Universidad Nacional de Rosario. 
 En su trayectoria, ha trabajado en diversos medios de comunicación en la ciudad y ha ocupado el rol de coordinadora de espacios de comunicación destinados a jóvenes y adolescentes.
 
 Actualmente, Romina se desempeña en el área de Gestión de Personas y Pautas de Convivencia, donde aporta su experiencia para asegurar un entorno de trabajo saludable y respetuoso gracias a su interés en contribuir al buen funcionamiento y desarrollo de iniciativas colaborativas.
