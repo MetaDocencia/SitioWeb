@@ -3,6 +3,10 @@ authors:
 - rominapendino
 bio: ""
 education:
+  courses:
+  - course: Licenciate in Social Communication
+    institution: National University of Rosario
+    year: 2025
 email: "romipendino@hotmail.com"
 interests:
 - Education
@@ -32,7 +36,7 @@ user_groups:
 
 **Experience and Track Record**
 
-Romina Pendino is currently finishing her thesis to obtain a degree in Social Communication at the National University of Rosario. In her career, she has worked in various media in the city and has held the role of coordinator of communication spaces aimed at young people and adolescents.
+Romina Pendino holds a degree in Social Communication from the National University of Rosario. In her career, she has worked in various media in the city and has held the role of coordinator of communication spaces aimed at young people and adolescents.
 
 Currently, Romina works in the area of People Management and Community Guidelines, where she contributes her experience to ensure a healthy and respectful work environment. She also works actively in the Governance and Teaching teams.
 
