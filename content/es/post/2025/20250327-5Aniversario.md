@@ -26,4 +26,5 @@ Nuestra meta para los próximos 5 años es consolidar a América Latina en el ma
 - Apoya nuestra misión, escribiéndonos a info@metadocencia.org para conversar sobre oportunidades de financiamiento
 - Haz una donación para compensar el trabajo de quienes colaboran con MetaDocencia, en forma segura y confiable a través de [este enlace](https://www.metadocencia.org/donar/)
 - Difunde, compartiendo esta nota, nuestras publicaciones en redes sociales (@metadocencia) o el enlace del video sobre nuestro aniversario.
+
 ¡Cada acción cuenta!
