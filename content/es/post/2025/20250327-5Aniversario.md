@@ -3,7 +3,7 @@ date: "2025-03-27"
 draft: false
 type: page
 linktitle: ¡Feliz 5° aniversario, comunidad de MetaDocencia!
-summary: En este informe compartimos el trabajo realizado, con la satisfacción de contribuir a un espacio significativo de construcción colectiva en el camino hacia un futuro sostenible.
+summary: Gracias por estos primeros 5 años de aprendizaje, colaboración y crecimiento. ¡Vamos por 5 años más!
 title: ¡Feliz 5° aniversario, comunidad de MetaDocencia!
 authors: 
 type: post
