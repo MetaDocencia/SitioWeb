@@ -54,7 +54,7 @@ Basado en nuestros valores diversidad, autonomía y versatilidad, este pilar pro
 ## Nuestra organización
 En vistas a la diversificación y al crecimiento que tuvimos en el último año, en MetaDocencia diseñamos este mapa conceptual, un nuevo organigrama que institucionaliza nuestra forma de trabajo. Lo hicimos pensando en una estructura organizacional eficiente y versátil a la altura de los desafíos que tenemos por delante. Así, este esquema permite identificar grados de responsabilidad pero a la vez, busca ser lo suficientemente dinámico para promover el trabajo colaborativo y el compromiso, la confianza, el reconocimiento y las oportunidades de crecimiento de las personas que hacemos MetaDocencia. 
 
-<img src="https://www.metadocencia.org/img/organigramaMD2024.jpg" alt="Organigrama de MetaDocencia." width="600px"/>
+<img src="https://www.metadocencia.org/img/organigramaES.png" alt="Organigrama de MetaDocencia." width="600px"/>
 
 Para conocer más sobre la organización de MetaDocencia, accede al documento completo sobre el [organigrama publicado en Zenodo](https://doi.org/10.5281/zenodo.11456152)
 
