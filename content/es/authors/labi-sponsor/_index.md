@@ -12,5 +12,5 @@ social:
   link: https://labi.lat/
 superuser: false
 user_groups:
-- Actuales
+- Anteriores
 ---

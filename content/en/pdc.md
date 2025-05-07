@@ -51,12 +51,6 @@ Members of the Community Guidelines Team commit to recusing themselves if they h
 
 These Community Guidelines are subject to continuous review.
 
-### Community Guidelines team members {#pdc_members}
-
-* [Romina Pendino](https://www.metadocencia.org/authors/rominapedino/)
-* [Ivan Poggio](https://www.metadocencia.org/authors/ivan/)
-* [Mónica Alonso](https://www.metadocencia.org/authors/monialonso/)
-
 ## Attribution
 
 This Community Guidelines is adapted from [Contributor Covenant](https://www.contributor-covenant.org), version 2.0,

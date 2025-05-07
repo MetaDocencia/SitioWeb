@@ -48,12 +48,6 @@ Las personas que forman parte del equipo de Pautas de Convivencia se comprometen
 
 Estas Pautas de Convivencia se encuentran en permanente revisión.
 
-### Integrantes del equipo de Pautas de Convivencia {#miembros_pdc}
-
-* [Romina Pendino](https://www.metadocencia.org/authors/rominapedino/)
-* [Ivan Poggio](https://www.metadocencia.org/authors/ivan/)
-* [Paola Lefer](https://www.metadocencia.org/authors/plefer/)
-
 Documento completo sobre las Pautas de Convivencia de MetaDocencia publicado en Zenodo: [https://zenodo.org/records/12534196](https://zenodo.org/records/12534196)
 
 ## Atribución
