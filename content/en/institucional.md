@@ -54,7 +54,7 @@ Based on our values of diversity, autonomy, and versatility, this pillar promote
 ## How We Are Organized
 In light of the diversification and growth we experienced over the past year, at MetaDocencia we designed this concept map, a new organizational chart that institutionalizes our way of working. We did it with an efficient and versatile organizational structure in mind, capable of meeting the challenges ahead. This scheme allows us to identify levels of responsibility, while also aiming to be dynamic enough to promote collaborative work and foster commitment, trust, recognition, and growth opportunities for the people who make up MetaDocencia.
 
-<img src="https://www.metadocencia.org/img/MD-organization2024.jpg" alt="MetaDocencia's Concept Map." width="600px"/>
+<img src="https://www.metadocencia.org/img/organigramaEN.png" alt="MetaDocencia's Concept Map." width="600px"/>
 
 To learn more about MetaDocencia's Concept Map, visit the [full document published in Zenodo](https://doi.org/10.5281/zenodo.13243363)
 
