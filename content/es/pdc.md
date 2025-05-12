@@ -46,6 +46,12 @@ Los casos de comportamiento inaceptable pueden ser informados enviando un correo
 
 Las personas que forman parte del equipo de Pautas de Convivencia se comprometen a recusarse en caso de haber conflicto de intereses asociados al seguimiento de un caso según la política de Conflicto de Interés de MetaDocencia.
 
+### Integrantes del equipo de Pautas de Convivencia {#miembros_pdc}
+
+* [Paz Miguez](https://www.metadocencia.org/authors/pazmiguez/)
+* [Jesica Formoso](https://www.metadocencia.org/authors/jformoso/)
+* [Irene Vazano](https://www.metadocencia.org/authors/irenevazano/)
+
 Estas Pautas de Convivencia se encuentran en permanente revisión.
 
 Documento completo sobre las Pautas de Convivencia de MetaDocencia publicado en Zenodo: [https://zenodo.org/records/12534196](https://zenodo.org/records/12534196)

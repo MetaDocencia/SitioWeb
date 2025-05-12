@@ -49,6 +49,12 @@ Reports of unacceptable behavior can be made by sending an email to [pdc@metadoc
 
 Members of the Community Guidelines Team commit to recusing themselves if they have a conflict of interest related to handling a case, in accordance with MetaDocencia’s Conflict of Interest policy.
 
+### Community Guidelines team members {#pdc_members}
+
+* [Paz Miguez](https://www.metadocencia.org/en/authors/pazmiguez/)
+* [Jesica Formoso](https://www.metadocencia.org/en/authors/jformoso/)
+* [Irene Vazano](https://www.metadocencia.org/en/authors/irenevazano/)
+
 These Community Guidelines are subject to continuous review.
 
 ## Attribution
