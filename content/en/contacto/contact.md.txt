@@ -10,4 +10,4 @@ subtitle = ""
 
 +++
 
-<p>También puedes escribirnos por mail o redes sociales:</p>
+<p>You can also reach out to us via email or social media:</p>
