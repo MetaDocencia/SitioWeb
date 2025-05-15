@@ -25,4 +25,8 @@ email_form = 2
   {{< button text="Enviar" >}}
 {{< /form-contact >}}
 
+---
+
+<div style="margin-top: 20px;">
 <p>También puedes escribirnos por mail o redes sociales:</p>
+</div>
