@@ -25,8 +25,16 @@ email_form = 2
   {{< button text="Enviar" >}}
 {{< /form-contact >}}
 
----
++++
+# Texto adicional debajo del formulario
+widget = "blank"
+headless = true
+active = true
+weight = 61
 
-<div style="margin-top: 20px;">
-<p>También puedes escribirnos por mail o redes sociales:</p>
-</div>
+title = ""
+subtitle = ""
+
++++
+
+<p style="margin-top: 20px;">También puedes escribirnos por mail o redes sociales:</p>
