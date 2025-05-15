@@ -25,4 +25,4 @@ email_form = 2
   {{< button text="Enviar" >}}
 {{< /form-contact >}}
 
-También puedes escribirnos por mail o redes sociales:
+<p>También puedes escribirnos por mail o redes sociales:</p>
