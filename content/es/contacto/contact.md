@@ -15,6 +15,14 @@ autolink = true
 #   0: Disable email form
 #   1: Netlify (requires that the site is hosted by Netlify)
 #   2: formspree.io
-email_form = 2 
+email_form = 2
 +++
 
+{{< form-contact action="https://formspree.io/f/xeqzpkjn" >}}
+  {{< input name="name" placeholder="Nombre" >}}
+  {{< input name="email" placeholder="Email" type="email" >}}
+  {{< textarea name="message" placeholder="Mensaje" >}}
+  {{< button text="Enviar" >}}
+{{< /form-contact >}}
+
+También puedes escribirnos por mail o redes sociales:
