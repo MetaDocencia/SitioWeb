@@ -18,3 +18,4 @@ autolink = true
 email_form = 2 
 +++
 
+También puedes escribirnos por mail o redes sociales:
