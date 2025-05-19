@@ -37,4 +37,3 @@ subtitle = ""
 
 +++
 
-<p style="margin-top: 20px;">También puedes escribirnos por mail o redes sociales:</p>
