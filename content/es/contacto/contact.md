@@ -18,22 +18,3 @@ autolink = true
 email_form = 2
 +++
 
-{{< form-contact action="https://formspree.io/f/xeqzpkjn" >}}
-  {{< input name="name" placeholder="Nombre" >}}
-  {{< input name="email" placeholder="Email" type="email" >}}
-  {{< textarea name="message" placeholder="Mensaje" >}}
-  {{< button text="Enviar" >}}
-{{< /form-contact >}}
-
-+++
-# Texto adicional debajo del formulario
-widget = "blank"
-headless = true
-active = true
-weight = 61
-
-title = ""
-subtitle = ""
-
-+++
-
