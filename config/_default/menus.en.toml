@@ -37,12 +37,12 @@ weight = 10
   name = "Fellow Communities"
   url = "panal/"
   parent = "About Us"
-    weight = 60
+    weight = 50
   [[main]]
   name = "Team"
   url = "equipo/"
   parent = "About Us"
-    weight = 70
+    weight = 60
 #  [[main]]
 #  name = "Former Contributors"
 #  url = "equipo/"
