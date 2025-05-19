@@ -42,7 +42,7 @@ weight = 10
   name = "Team"
   url = "equipo/"
   parent = "About Us"
-    weight = 60
+    weight = 80
 #  [[main]]
 #  name = "Former Contributors"
 #  url = "equipo/"
