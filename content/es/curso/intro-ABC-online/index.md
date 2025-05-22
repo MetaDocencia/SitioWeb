@@ -94,9 +94,9 @@ Este cronograma es un ejemplo, pero esto variará según la franja horaria que m
 ### Materiales
 Se disponibilizan una vez finalizada cada edición del curso.
 
-* [Presentación que usamos en el curso](http://tiny.cc/EncuentrosActivos) con notas ampliando el contenido para quienes dan la clase
+* [Presentación que usamos en el curso](https://zenodo.org/records/7387859) con notas ampliando el contenido para quienes dan la clase
 
-* [Plantilla de nuestro documento para notas compartidas](https://drive.google.com/file/d/1m2kjzw2JyhAvvMkcGeV2HJqXGCCVPvnT/view?usp=sharing)
+* [Plantilla de nuestro documento para notas compartidas](https://zenodo.org/records/7391035)
 
 * [Video del curso](https://youtu.be/P0kK6SsAImA)
 
