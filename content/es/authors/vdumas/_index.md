@@ -39,5 +39,5 @@ social:
   link: https://www.linkedin.com/in/victoriadumas/
 superuser: false
 user_groups:
-- Colaboradores
+- Colaboraron con MetaDocencia
 ---

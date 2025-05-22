@@ -39,7 +39,7 @@ social:
   link: https://www.linkedin.com/in/victoriadumas/
 superuser: false
 user_groups:
-- Contributors
+- Former Contributors
 ---
 
 **Experience and Track Record:** 

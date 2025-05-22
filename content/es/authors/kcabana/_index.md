@@ -16,5 +16,5 @@ organizations:
   url: ""
 superuser: false
 user_groups:
-- Colaboradores
+- Colaboraron con MetaDocencia
 ---

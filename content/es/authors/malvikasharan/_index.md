@@ -15,7 +15,7 @@ social:
   link: https://github.com/malvikasharan
 superuser: false
 user_groups:
-- Colaboradores
+- Colaboraron con MetaDocencia
 ---
 
 **Experiencia y trayectoria**

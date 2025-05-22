@@ -33,6 +33,6 @@ social:
   link: https://www.linkedin.com/in/diego-onna/
 superuser: false  
 user_groups:
-- Colaboradores
+- Colaboraron con MetaDocencia
 
 ---

@@ -33,5 +33,5 @@ social:
   link: https://www.linkedin.com/in/diego-onna/
 
 user_groups:
-- Contributors
+- Former Contributors
 ---
