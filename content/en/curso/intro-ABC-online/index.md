@@ -104,9 +104,9 @@ This schedule assumes the start of the course is 9 am, but this will vary accord
 
 ### Course materials (in Spanish)
 
-* [Course materials (in Spanish)](https://www.metadocencia.org/curso/intro-abc-online/)
+* [Course materials (in Spanish)](https://zenodo.org/records/7387859)
 
-* [Shared document (in Spanish)](https://drive.google.com/file/d/1m2kjzw2JyhAvvMkcGeV2HJqXGCCVPvnT/view?usp=sharing)
+* [Shared document (in Spanish)](https://zenodo.org/records/7391035)
 
 * [Course recording (in Spanish)](https://youtu.be/P0kK6SsAImA)
 
