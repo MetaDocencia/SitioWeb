@@ -12,7 +12,7 @@ social:
   link: https://cabana.network/
 superuser: false
 user_groups:
--  Also build this hive
+-  Also build and were part of this hive
 ---
 
 ### Learn more in this video
