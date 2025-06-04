@@ -12,7 +12,7 @@ social:
   link: https://www.openandequitable.org/
 superuser: false
 user_groups:
--  También construyen este Panal
+-  También construyen y formaron parte de este Panal
 ---
 
 ### Conócela en este video
