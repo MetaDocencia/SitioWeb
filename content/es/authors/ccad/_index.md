@@ -3,7 +3,7 @@ authors:
 - ccad
 bio: ""
 email: ""
-name: CCAD
+name: UNC Supercómputo (ex CCAD)
 weight: 1
 role: 
 social:
