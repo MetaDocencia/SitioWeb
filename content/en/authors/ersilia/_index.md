@@ -17,7 +17,7 @@ user_groups:
 
 ### Learn more
 
-{{< youtube Mstz_tDXLSU >}} 
+{{< youtube 4oj-ruVsG5w >}} 
 
 ### About Ersilia
 
