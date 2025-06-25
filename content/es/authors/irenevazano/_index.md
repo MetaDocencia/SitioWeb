@@ -17,7 +17,7 @@ weight: 6
 organizations:
 - name: 
   url: 
-role: Infraestructura 
+role: Infraestructura y Consejo Asesor
 social:
 - icon: envelope
   icon_pack: fas

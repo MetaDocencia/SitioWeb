@@ -6,8 +6,8 @@ email: "monica@prereview.org"
 interests:
 - Ciencia Abierta
 name: Mónica Granados
-role: 
-weight: 1
+role: Consejo Asesor
+weight: 11
 organizations:
 - name: 
   url: ""

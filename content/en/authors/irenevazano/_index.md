@@ -17,7 +17,7 @@ weight: 6
 organizations:
 - name: 
   url: 
-role: Infrastructure
+role: Infrastructure and Advisory Committee
 social:
 - icon: envelope
   icon_pack: fas
