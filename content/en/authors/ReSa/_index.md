@@ -1,9 +1,9 @@
 ---
 authors:
-- ReSa
+- ReSA
 bio: ""
 email: ""
-name: ReSa
+name: ReSA
 weight: 1
 role: 
 social:
@@ -19,7 +19,7 @@ user_groups:
 ---
 
 
-### About ReSa
+### About ReSA
 
 **[The Research Software Alliance (ReSA)](https://www.researchsoft.org)**  is a global organization that promotes the recognition and sustainability of research software and the professionals who develop it. ReSA brings together key stakeholders across the international research and innovation ecosystem — including funders, policy makers, infrastructure providers, publishers, universities, and professional associations — to collaboratively develop shared solutions, best practices, and standards.
 
