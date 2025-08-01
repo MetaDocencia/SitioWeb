@@ -38,7 +38,7 @@ user_groups:
 
 **Experiencia y Trayectoria**
 
-Irene es Licenciada en  Bibliotecología en la UCSE-DABA. Desde que Irene se sumo en los inicios de MetaDocencia, aporta todo su conocimiento sobre bibliotecas académicas y su especialización en el área de tecnología. 
+Irene es Licenciada en  Bibliotecología en la UCSE-DABA. Desde que Irene se sumo en los inicios de MetaDocencia, aporta todo su conocimiento sobre bibliotecas académicas y su especialización en el área de tecnología.
 Ha trabajado como profesional independiente en diversos proyectos digitales, desempeñando roles de administración y garantizando la calidad de accesibilidad.
 
 Irene es instructora certificada por The Carpentries, lo que subraya su compromiso con la enseñanza y la difusión de habilidades en el ámbito digital. Además, participa activamente en MetaDocencia contribuyendo al fortalecimiento de la comunidad.
