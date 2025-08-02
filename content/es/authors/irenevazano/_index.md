@@ -45,4 +45,4 @@ Irene es instructora certificada por The Carpentries, lo que subraya su compromi
 
 Hacia adentro del equipo, Ire ha ganado el Premio Transformación por su desempeño a cargo del área de Infraestructura con gran capacidad para documentar y transformar nuestros tutoriales en una biblioteca digital codiciada y hermosa.
 
-PRUEBA
+
