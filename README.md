@@ -1,4 +1,4 @@
-# Sitio Web - versión 2025
+# Sitio Web - Versión 2025
 
 Aquí se almacena:
 
