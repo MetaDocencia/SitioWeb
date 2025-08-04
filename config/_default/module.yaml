@@ -1,2 +1,6 @@
 imports:
+  # Núcleo: define hooks y utilidades que reclama cualquier theme de Blox
+  - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-core/v5
+
+  # Capa visual Bootstrap (el que ya tenías)
   - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5
