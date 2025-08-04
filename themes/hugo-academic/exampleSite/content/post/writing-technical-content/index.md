@@ -250,16 +250,16 @@ renders as
 Academic supports a [shortcode for asides](https://sourcethemes.com/academic/docs/writing-markdown-latex/#alerts), also referred to as *notices*, *hints*, or *alerts*. By wrapping a paragraph in `{{%/* alert note */%}} ... {{%/* /alert */%}}`, it will render as an aside.
 
 ```markdown
-{{%/* alert note */%}}
+{{< callout type="info" title="Algo importante" >}}
 A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
-{{%/* /alert */%}}
+{{< /callout >}}
 ```
 
 renders as
 
-{{% alert note %}}
+{{< callout type="info" title="Algo importante" >}}
 A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
-{{% /alert %}}
+{{< /callout >}}
 
 ### Icons
 
