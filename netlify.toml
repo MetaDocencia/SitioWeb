@@ -1,19 +1,4 @@
-# netlify.toml
-
-[build]
-  command   = "hugo --gc --minify"
-  publish   = "public"
-
-# Producción sigue con tu versión estable actual
 [context.production.environment]
-  HUGO_VERSION = "0.57.2"
-
-# Para previews (PRs) uso Hugo 0.125.0 + activo el entorno production
+  HUGO_VERSION = "…"
 [context.deploy-preview.environment]
-  HUGO_VERSION = "0.125.0"
-  HUGO_ENV     = "production"
-
-# Para branch-deploys (si tienes configurado)
-[context.branch-deploy.environment]
-  HUGO_VERSION = "0.125.0"
-  HUGO_ENV     = "production"
+  HUGO_VERSION = "…"
