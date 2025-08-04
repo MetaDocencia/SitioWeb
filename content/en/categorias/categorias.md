@@ -3,7 +3,7 @@
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 01  # Order that this section will appear.
+weight = 1  # Order that this section will appear.
 
 title = "Categories"
 subtitle = ""
@@ -73,6 +73,6 @@ subtitle = ""
 
 <p style="font-size: 15px"> Browse our blog post tags: 
 <ul style="font-size: 15px">
-    <a href={{< list_categories >}}
+    <a href="{{< list_categories >}}">View categories</a>
 </ul>
 </p>
