@@ -4,8 +4,7 @@ title       = "Contact us"
 widget      = "contact"     # Este campo puede variar si lo definiste distinto
 headless    = false
 
-[sections]
-  [[sections]]
+[[sections]]
   block = "contact"
   content:
     # Opciones de contenido extra (email, social, etc.)
