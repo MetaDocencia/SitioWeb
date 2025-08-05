@@ -1,22 +1,12 @@
 +++
-title       = "Contacto"
-subtitle    = "Escríbenos"
-widget      = "contact"     # Este campo puede variar si lo definiste distinto
-headless    = false
+title    = "Contacto"
+subtitle = "Escríbenos"
 
 [[sections]]
-  block = "contact"
-  content:
-    # Opciones de contenido extra (email, social, etc.)
-    email:
-      address = "info@metadocencia.org"
-    social:
-      twitter = "metadocencia"
-      linkedin = "metadocencia"
-    
-    # Formulario de Formspree
-    form:
-      provider   = "formspree"
-      formspree:
-        id = "xeqzpkjn"         # tu Formspree Form ID
+block = "contact"
+content.email.address         = "info@metadocencia.org"
+content.social.twitter        = "metadocencia"
+content.social.linkedin       = "metadocencia"
+content.form.provider         = "formspree"
+content.form.formspree.id     = "xeqzpkjn"
 +++
