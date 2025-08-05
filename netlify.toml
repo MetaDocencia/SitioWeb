@@ -1,22 +1,16 @@
-# netlify.toml
-
 [build]
-  command   = "hugo --gc --minify"
-  publish   = "public"
+  command = "hugo --gc --minify"
+  publish = "public"
 
-# Producción sigue con tu versión estable actual
+# Producción (sin tocar, usa el baseURL que tienes en config.toml)
 [context.production.environment]
+  HUGO_ENV     = "production"
   HUGO_VERSION = "0.57.2"
 
-# Para previews (PRs) uso Hugo 0.125.0 + activo el entorno production
-[context.deploy-preview.environment]
-  HUGO_VERSION = "0.125.0"
-  HUGO_ENV     = "production"
-
-# Para branch-deploys (si tienes configurado)
-[context.branch-deploy.environment]
-  HUGO_VERSION = "0.125.0"
-  HUGO_ENV     = "production"
-
+# Deploy Previews: sobre-escribo el comando para inyectar su propia URL
 [context.deploy-preview]
-  command = "hugo --gc --minify --baseURL https://deploy-preview-274--metadocencia.netlify.app/"
+  command = "hugo --gc --minify --baseURL=${DEPLOY_PRIME_URL}/"
+
+[context.deploy-preview.environment]
+  HUGO_ENV     = "production"
+  HUGO_VERSION = "0.125.0"
