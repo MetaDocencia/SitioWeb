@@ -61,6 +61,6 @@ En esta sección compartiremos la presentación, los cuadernos computacionales, 
 
 **¡Sírvete sin culpa!**
 
-¿Te vienen bien cualquiera de nuestros contenidos? ¡Sírvete sin culpa! Nuestros materiales están disponibles en forma gratuita bajo [licencia CC BY 4.0] (https://creativecommons.org/licenses/by/4.0/deed.es). Es decir, puedes reusar o editar cualquier material que aparece encima de estas líneas, lo único que pedimos a cambio es que incluyas una referencia a esta página web o la referencia del material cuando el material tenga una forma explícita de referenciarlo. Para más información, por favor escríbenos a formacion@metadocencia.org.
+¿Te vienen bien cualquiera de nuestros contenidos? ¡Sírvete sin culpa! Nuestros materiales están disponibles en forma gratuita bajo [licencia CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es). Es decir, puedes reusar o editar cualquier material que aparece encima de estas líneas, lo único que pedimos a cambio es que incluyas una referencia a esta página web o la referencia del material cuando el material tenga una forma explícita de referenciarlo. Para más información, por favor escríbenos a formacion@metadocencia.org.
 
 El desarrollo de esta formación fue posible gracias al Grant NNH22ZDA001N-TOPST otorgado por NASA TOPS [https://zenodo.org/records/8250979](https://zenodo.org/records/8250979) y gracias al Grant otorgado por la Chan Zuckerberg Initiative {https://zenodo.org/records/7386373](https://zenodo.org/records/7386373).
