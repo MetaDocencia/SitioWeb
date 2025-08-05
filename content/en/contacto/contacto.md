@@ -1,20 +1,23 @@
 +++
-# Contact widget.
-widget = "contact"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 60  # Order that this section will appear.
+title       = "Contact us"
+# subtitle    = ""
+widget      = "contact"     # Este campo puede variar si lo definiste distinto
+headless    = false
 
-title = "Contact Us"
-subtitle = ""
-
-# Automatically link email and phone?
-autolink = true
-
-# Email form provider
-#   0: Disable email form
-#   1: Netlify (requires that the site is hosted by Netlify)
-#   2: formspree.io
-email_form = 2 
+[sections]
+  [[sections]]
+  block = "contact"
+  content:
+    # Opciones de contenido extra (email, social, etc.)
+    email:
+      address = "info@metadocencia.org"
+    social:
+      twitter = "metadocencia"
+      linkedin = "metadocencia"
+    
+    # Formulario de Formspree
+    form:
+      provider   = "formspree"
+      formspree:
+        id = "xeqzpkjn"         # tu Formspree Form ID
 +++
-
