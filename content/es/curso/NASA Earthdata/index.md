@@ -3,7 +3,7 @@ date: "2020-03-22"
 draft: false
 image:
   caption: 
-  alt_text: "Imagen satélital con código"
+  alt_text: "Imagen satelital con código"
 linktitle: Introducción al uso de datos Nasa Earthdata cloud para el monitoreo de cambios y disturbios ambientales
 summary: Analizando cambios ambientales de forma reproducible con python y datos satelitales de la plataforma Earthdata Cloud de la NASA.
 title: Introducción al uso de datos Nasa Earthdata cloud para el monitoreo de cambios y disturbios ambientales
@@ -18,7 +18,7 @@ tags:
 {{% toc %}}
 
 Junto a la NASA y 2i2c, MetaDocencia invita a todas las personas de comunidades hispanohablantes interesadas en el análisis de fenómenos ambientales a participar de  un taller práctico y virtual de 3 horas.  En este taller, exploraremos cómo utilizar los datos satelitales de la plataforma Earthdata Cloud de la NASA, específicamente los productos OPERA, para el monitoreo de cambios y disturbios ambientales. Tomaremos como caso de estudio los cambios en la cobertura vegetal en la región de Maranhão, Brasil, con el objetivo de identificar patrones de deforestación utilizando Python y Jupyter Notebooks para trabajar de manera reproducible con los datos.
-La inscripción es gratuita y abierta, y el taller tendrá certificado de asistencia emitido por MetaDocencia. El taller será en formato virtual, sincrónico y 100% en español.
+**La inscripción es gratuita y abierta**, y el taller tendrá certificado de asistencia emitido por MetaDocencia. El taller será en formato **virtual, sincrónico y 100% en español**.
 
 ### Motivaciones para participar 
 Entender los cambios en la superficie terrestre y sus consecuencias es crucial para la gestión sostenible de los recursos naturales. En este contexto, los productos OPERA de la NASA ofrecen una poderosa herramienta para monitorear modificaciones en la vegetación, las precipitaciones, las aguas superficiales y el uso del suelo. A través de este taller, MetaDocencia busca capacitar a los participantes para que puedan analizar estos cambios de manera reproducible, a través de Jupyter Notebooks con código en Python, con el fin de aplicar los resultados en la toma de decisiones informadas para estudios ambientales y planificación territorial.
@@ -28,7 +28,7 @@ Acceder y visualizar los datos terrestres, disponibles a través de la plataform
 Tener una primera aproximación al uso de los nuevos productos satelitales de NASA OPERA dist alert para la evaluación de disturbios en la cobertura vegetal y el análisis de alertas ambientales. 
 Aplicar herramientas de código abierto para el análisis geoespacial utilizando flujos de trabajo reproducibles.  
 
-¿Para quién?
+**¿Para quién?**
 Este curso está dirigido a profesionales con conocimientos básicos en algún lenguaje de programación que deseen aprender a utilizar productos derivados de imágenes satelitales para el análisis de problemáticas ambientales, como la detección de deforestación y el monitoreo de cambios en la cobertura del suelo.
 
 
@@ -58,6 +58,9 @@ Los participantes que asistan al taller recibirán un certificado de asistencia 
 ### Materiales
 
 En esta sección compartiremos la presentación, los cuadernos computacionales, notas  y videos del curso.
-¡Sírvete sin culpa!
+
+**¡Sírvete sin culpa!**
+
 ¿Te vienen bien cualquiera de nuestros contenidos? ¡Sírvete sin culpa! Nuestros materiales están disponibles en forma gratuita bajo [licencia CC BY 4.0] (https://creativecommons.org/licenses/by/4.0/deed.es). Es decir, puedes reusar o editar cualquier material que aparece encima de estas líneas, lo único que pedimos a cambio es que incluyas una referencia a esta página web o la referencia del material cuando el material tenga una forma explícita de referenciarlo. Para más información, por favor escríbenos a formacion@metadocencia.org.
+
 El desarrollo de esta formación fue posible gracias al Grant NNH22ZDA001N-TOPST otorgado por NASA TOPS [https://zenodo.org/records/8250979](https://zenodo.org/records/8250979) y gracias al Grant otorgado por la Chan Zuckerberg Initiative {https://zenodo.org/records/7386373](https://zenodo.org/records/7386373).
