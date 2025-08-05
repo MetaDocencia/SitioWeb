@@ -17,3 +17,6 @@
 [context.branch-deploy.environment]
   HUGO_VERSION = "0.125.0"
   HUGO_ENV     = "production"
+
+[context.deploy-preview]
+  command = "hugo --gc --minify --baseURL https://deploy-preview-274--metadocencia.netlify.app/"
