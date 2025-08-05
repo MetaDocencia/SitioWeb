@@ -1,16 +1,14 @@
+# 1) Configuración general de build
 [build]
-  command = "hugo --gc --minify"
+  command = "hugo --gc --minify --baseURL ${DEPLOY_PRIME_URL}/"
   publish = "public"
 
-# Producción (sin tocar, usa el baseURL que tienes en config.toml)
+# 2) Variables para producción (no cambian)
 [context.production.environment]
   HUGO_ENV     = "production"
   HUGO_VERSION = "0.57.2"
 
-# Deploy Previews: sobre-escribo el comando para inyectar su propia URL
-[context.deploy-preview]
-  command = "hugo --gc --minify --baseURL=${DEPLOY_PRIME_URL}/"
-
+# 3) Variables para Deploy Previews
 [context.deploy-preview.environment]
-  HUGO_ENV     = "production"
+  HUGO_ENV     = "production"     # ¡IMPORTANTE!
   HUGO_VERSION = "0.125.0"
