@@ -1,5 +1,5 @@
 ---
-date: "2020-03-22"
+date: "2025-08-05"
 draft: false
 image:
   caption: 
@@ -21,6 +21,10 @@ Junto a la NASA y 2i2c, MetaDocencia invita a todas las personas hispanohablante
 
 **La inscripción es gratuita y abierta**, y el taller tendrá certificado de asistencia emitido por MetaDocencia. El taller será en formato **virtual, sincrónico y 100% en español**.
 
+### Cómo participar
+
+Para sumarte debes completar este *[formulario de inscripción](https://docs.google.com/forms/d/e/1FAIpQLSdzB5Menz-SmMmuq1-MmiL2aSJJgg14fehjaBTrcMqzgUZCVg/viewform?usp=header)*.
+
 ### Motivaciones para participar 
 Entender los cambios en la superficie terrestre y sus consecuencias es crucial para la gestión sostenible de los recursos naturales. En este contexto, los productos OPERA de la NASA ofrecen una poderosa herramienta para monitorear modificaciones en la vegetación, las precipitaciones, las aguas superficiales y el uso del suelo. A través de este taller, MetaDocencia busca capacitar a los participantes para que puedan analizar estos cambios de manera reproducible, a través de Jupyter Notebooks con código en Python, con el fin de aplicar los resultados en la toma de decisiones informadas para estudios ambientales y planificación territorial.
 
@@ -30,7 +34,7 @@ Quienes completen esta formación podrán:
 * Aplicar herramientas de código abierto para el análisis geoespacial utilizando flujos de trabajo reproducibles.  
 
 **¿Para quién?**
-Este curso está dirigido a profesionales que deseen aprender a utilizar productos derivados de imágenes satelitales para el análisis de problemáticas ambientales, como la detección de deforestación y el monitoreo de cambios en la cobertura del suelo. Es necesario contar con conocimientos básicos de programación en algún de programación para seguir los contenidos. El curso se dictará en Python.
+Este curso está dirigido a profesionales que deseen aprender a utilizar productos derivados de imágenes satelitales para el análisis de problemáticas ambientales, como la detección de deforestación y el monitoreo de cambios en la cobertura del suelo. Es necesario contar con conocimientos básicos de programación en algún de lenguaje de programación. El curso se dictará en Python.
 
 
 ### ¿Qué _no_ incluye esta formación? 
@@ -59,10 +63,6 @@ Durante el encuentro, se recorrerán las siguientes secciones:
 ### Certificación
 
 Los participantes que asistan al taller recibirán un certificado de asistencia emitido por MetaDocencia.
-
-### Cómo participar
-
-Para sumarte debes completar este *[formulario de inscripción](https://docs.google.com/forms/d/e/1FAIpQLSdzB5Menz-SmMmuq1-MmiL2aSJJgg14fehjaBTrcMqzgUZCVg/viewform?usp=header)*.
 
 
 ### Materiales
