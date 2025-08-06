@@ -1,5 +1,5 @@
 ---
-date: "2020-03-22"
+date: "2025-08-05"
 draft: false
 image:
   caption: 
@@ -20,6 +20,10 @@ tags:
 Junto a la NASA y 2i2c, MetaDocencia invita a todas las personas hispanohablantes interesadas en el análisis de fenómenos ambientales a participar de  un taller práctico y virtual de 3 horas.  En este taller exploraremos cómo utilizar los datos satelitales de la plataforma **NASA Earthdata Cloud**, específicamente los **productos OPERA**, para el monitoreo de cambios y disturbios ambientales. Tomaremos como caso de estudio los cambios en la cobertura vegetal en la región de Maranhão, Brasil, con el objetivo de identificar patrones de deforestación a través de Jupyter Notebooks con código en Python para trabajar de manera reproducible con los datos.
 
 **La inscripción es gratuita y abierta**, y el taller tendrá certificado de asistencia emitido por MetaDocencia. El taller será en formato **virtual, sincrónico y 100% en español**.
+
+### Cómo participar
+
+Para sumarte debes completar este *[formulario de inscripción](https://docs.google.com/forms/d/e/1FAIpQLSdzB5Menz-SmMmuq1-MmiL2aSJJgg14fehjaBTrcMqzgUZCVg/viewform?usp=header)*.
 
 ### Motivaciones para participar 
 Entender los cambios en la superficie terrestre y sus consecuencias es crucial para la gestión sostenible de los recursos naturales. En este contexto, los productos OPERA de la NASA ofrecen una poderosa herramienta para monitorear modificaciones en la vegetación, las precipitaciones, las aguas superficiales y el uso del suelo. A través de este taller, MetaDocencia busca capacitar a los participantes para que puedan analizar estos cambios de manera reproducible, a través de Jupyter Notebooks con código en Python, con el fin de aplicar los resultados en la toma de decisiones informadas para estudios ambientales y planificación territorial.
@@ -59,10 +63,6 @@ Durante el encuentro, se recorrerán las siguientes secciones:
 ### Certificación
 
 Los participantes que asistan al taller recibirán un certificado de asistencia emitido por MetaDocencia.
-
-### Cómo participar
-
-Para sumarte debes completar este *[formulario de inscripción](https://docs.google.com/forms/d/e/1FAIpQLSdzB5Menz-SmMmuq1-MmiL2aSJJgg14fehjaBTrcMqzgUZCVg/viewform?usp=header)*.
 
 
 ### Materiales
