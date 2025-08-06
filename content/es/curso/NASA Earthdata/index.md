@@ -34,7 +34,7 @@ Quienes completen esta formación podrán:
 * Aplicar herramientas de código abierto para el análisis geoespacial utilizando flujos de trabajo reproducibles.  
 
 **¿Para quién?**
-Este curso está dirigido a profesionales que deseen aprender a utilizar productos derivados de imágenes satelitales para el análisis de problemáticas ambientales, como la detección de deforestación y el monitoreo de cambios en la cobertura del suelo. Es necesario contar con conocimientos básicos de programación en algún de programación para seguir los contenidos. El curso se dictará en Python.
+Este curso está dirigido a profesionales que deseen aprender a utilizar productos derivados de imágenes satelitales para el análisis de problemáticas ambientales, como la detección de deforestación y el monitoreo de cambios en la cobertura del suelo. Es necesario contar con conocimientos básicos de programación en algún de lenguaje de programación. El curso se dictará en Python.
 
 
 ### ¿Qué _no_ incluye esta formación? 
