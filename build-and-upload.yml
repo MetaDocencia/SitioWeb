@@ -1,0 +1,33 @@
+name: Build & Upload Preview Site
+
+# Se dispara en pushes a master y a migracion-hugoblox
+on:
+  push:
+    branches:
+      - master
+      - migracion-hugoblox
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. Clona tu repo
+      - uses: actions/checkout@v3
+
+      # 2. Instala Hugo (misma versión que Netlify previews)
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.125.0'
+
+      # 3. Construye el sitio en public/
+      - name: Build site
+        run: hugo --gc --minify
+
+      # 4. Sube public/ como artifact llamado "preview-site"
+      - name: Upload public folder
+        uses: actions/upload-artifact@v3
+        with:
+          name: preview-site
+          path: public/
