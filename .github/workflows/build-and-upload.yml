@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 1. Clona el repo
+      # 1. Clona el repo.
       - uses: actions/checkout@v3
 
       # 2. Instala Hugo según la rama
