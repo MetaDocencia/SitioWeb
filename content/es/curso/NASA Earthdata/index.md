@@ -21,10 +21,6 @@ Junto a la NASA y 2i2c, MetaDocencia invita a todas las personas hispanohablante
 
 **La inscripción es gratuita y abierta**, y el taller tendrá certificado de asistencia emitido por MetaDocencia. El taller será en formato **virtual, sincrónico y 100% en español**.
 
-### Cómo participar
-
-Para sumarte debes completar este *[formulario de inscripción](https://docs.google.com/forms/d/e/1FAIpQLSdzB5Menz-SmMmuq1-MmiL2aSJJgg14fehjaBTrcMqzgUZCVg/viewform?usp=header)*.
-
 ### Motivaciones para participar 
 Entender los cambios en la superficie terrestre y sus consecuencias es crucial para la gestión sostenible de los recursos naturales. En este contexto, los productos OPERA de la NASA ofrecen una poderosa herramienta para monitorear modificaciones en la vegetación, las precipitaciones, las aguas superficiales y el uso del suelo. A través de este taller, MetaDocencia busca capacitar a los participantes para que puedan analizar estos cambios de manera reproducible, a través de Jupyter Notebooks con código en Python, con el fin de aplicar los resultados en la toma de decisiones informadas para estudios ambientales y planificación territorial.
 
@@ -64,6 +60,11 @@ Durante el encuentro, se recorrerán las siguientes secciones:
 
 Los participantes que asistan al taller recibirán un certificado de asistencia emitido por MetaDocencia.
 
+
+### Cómo participar
+
+Muchas gracias por tu interés en inscribirte. Esta edición ya se ha completado.
+Para enterarte de todas las novedades sobre nuestras propuestas de formación, puedes sumarte a [nuestro espacio de Slack](https://w3id.org/metadocencia/slack) o [suscribirte a nuestro boletín](https://www.metadocencia.org/suscripcion/).
 
 ### Materiales
 
