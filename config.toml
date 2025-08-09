@@ -20,7 +20,7 @@ copyright = ""
 ############################
 
 # Name of Academic theme folder in `themes/`.
-theme = "hugo-academic"
+#theme = "hugo-academic"
 
 # Get last modified date for content from Git?
 enableGitInfo = false
@@ -73,3 +73,13 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 
 [blackfriday]
   fractions = false
+
+  # ----------------------------------------------------
+# Seguridad: permitir getenv "WC_POST_CSS" para Hugo Blox
+[security]
+  enableInlineShortcodes = false
+
+  [security.funcs]
+    # Whitelist de variables de entorno permitidas en partials
+    getenv = ["^HUGO_", "^CI$", "^WC_POST_CSS$"]
+# ----------------------------------------------------

@@ -17,7 +17,7 @@ user_groups:
 
 ### Conócela en este video
 
-{{< youtube akpvkRyecTE >}} 
+{{< youtube id="akpvkRyecTE" >}} 
 
 ### Sobre MboaLab
 

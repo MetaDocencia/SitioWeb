@@ -1,18 +1,26 @@
 # Theme metadata
-name = "Minimal"
+name = "Metadocencia"
 
-# Is theme light or dark?
-light = true
+[light]
+# --- Paleta clara (equivalente a tu archivo actual) ---
+primary           = "#C83737"
 
-# Primary
-primary = "#C83737"
+menu_primary      = "#FFFFFF"
+menu_text         = "#34495E"
+menu_text_active  = "#C83737"
+menu_title        = "#2B2B2B"
 
-# Menu
-menu_primary = "#fff"
-menu_text = "#34495e"
-menu_text_active = "#C83737"
-menu_title = "#2b2b2b"
-
-# Home sections
-home_section_odd = "rgb(255, 255, 255)"
+home_section_odd  = "rgb(255, 255, 255)"
 home_section_even = "rgb(247, 247, 247)"
+
+[dark]
+# --- Paleta oscura accesible (AA/AAA) manteniendo el rojo institucional ---
+primary           = "#C83737"
+
+menu_primary      = "#0F1113"  # navbar fondo
+menu_text         = "#F2F4F8"  # texto navbar
+menu_text_active  = "#C83737"
+menu_title        = "#FFFFFF"
+
+home_section_odd  = "#121417"
+home_section_even = "#1A1E22"
