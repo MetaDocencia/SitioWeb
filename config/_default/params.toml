@@ -8,7 +8,7 @@
 [appearance]
 mode        = "auto"                      # "light" | "dark" | "auto"
 theme_day   = "metadocencia_theme"        # tu tema claro actual (archivo existente)
-theme_night = "metadocencia_theme_dark"   # el archivo que creaste recién
+theme_night = "metadocencia_theme"   # el archivo que creaste recién
 
 
 # Override the theme's font set (optional).
