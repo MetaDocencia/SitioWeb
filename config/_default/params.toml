@@ -5,14 +5,11 @@
 ## Theme
 ############################
 
-# Choose a theme.
-#   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
-#   Browse built-in themes in `themes/academic/data/themes/`
-#   Browse user installed themes in `data/themes/`
-theme = "metadocencia_theme"
+[appearance]
+mode        = "auto"                      # "light" | "dark" | "auto"
+theme_day   = "metadocencia_theme"        # tu tema claro actual (archivo existente)
+theme_night = "metadocencia_theme_dark"   # el archivo que creaste recién
 
-# Enable users to switch between day and night mode?
-day_night = false
 
 # Override the theme's font set (optional).
 #   Latest font sets (may require updating): https://sourcethemes.com/academic/themes/
