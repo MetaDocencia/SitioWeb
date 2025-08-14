@@ -45,8 +45,13 @@
   </div>
 
   {{ if not hugo.IsProduction }}
-    <div class="footer-debug" role="note" aria-live="polite">
-      <strong>Footer parcial activo</strong> — Entorno: preview/desarrollo — Build: {{ now.Format "2006-01-02 15:04:05 MST" }}
-    </div>
+  <div class="footer-debug" role="note" aria-live="polite">
+  <strong>Footer parcial activo</strong> — links:
+  {{ $ls := site.Params.contact_links | default (slice) }}
+  {{ len $ls }}
+  {{ if not (gt (len $ls) 0) }}<em>(vacío)</em>{{ end }}
+  &nbsp;|&nbsp; Prueba FA: <i class="fa-brands fa-github"></i>
+  &nbsp;|&nbsp; Prueba Iconify: <iconify-icon icon="simple-icons:bluesky"></iconify-icon>
+</div>
   {{ end }}
 </footer>
