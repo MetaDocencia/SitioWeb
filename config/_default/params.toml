@@ -103,16 +103,57 @@ email = "xeqzpkjn" # No borrar o cambiar
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links =
-  { icon = "envelope", icon_pack = "fas", link = "mailto:hola@metadocencia.org", name = "Email" },
-  { icon = "mastodon", icon_pack = "fab", link = "https://floss.social/@MetaDocencia", name = "Mastodon" },
-  { icon = "twitter", icon_pack = "fab", link = "https://twitter.com/MetaDocencia", name = "Twitter/X" },
-  { icon = "github", icon_pack = "fab", link = "https://github.com/MetaDocencia", name = "GitHub" },
-  { icon = "youtube", icon_pack = "fab", link = "https://www.youtube.com/metadocencia", name = "YouTube" },
-  { icon = "instagram", icon_pack = "fab", link = "https://www.instagram.com/metadocencia/", name = "Instagram" },
-  { icon = "linkedin", icon_pack = "fab", link = "https://www.linkedin.com/company/metadocencia/", name = "LinkedIn" },
-  { icon = "bluesky", icon_pack = "fab", link = "https://bsky.app/profile/metadocencia.org", name = "Bluesky" },
-  { icon = "slack", icon_pack = "fab", link = "https://w3id.org/metadocencia/slack", name = "Slack" },
-  { icon = "facebook", icon_pack = "fab", link = "https://www.facebook.com/metadocencia", name = "Facebook" }
+contact_links:
+  - icon: envelope
+    icon_pack: fas
+    link: "mailto:hola@metadocencia.org"
+    name: Email
+
+  - icon: mastodon
+    icon_pack: fab
+    link: "https://floss.social/@MetaDocencia"
+    name: Mastodon
+
+  - icon: twitter
+    icon_pack: fab
+    link: "https://twitter.com/MetaDocencia"
+    name: "Twitter/X"
+
+  - icon: github
+    icon_pack: fab
+    link: "https://github.com/MetaDocencia"
+    name: GitHub
+
+  - icon: youtube
+    icon_pack: fab
+    link: "https://www.youtube.com/metadocencia"
+    name: YouTube
+
+  - icon: instagram
+    icon_pack: fab
+    link: "https://www.instagram.com/metadocencia/"
+    name: Instagram
+
+  - icon: linkedin
+    icon_pack: fab
+    link: "https://www.linkedin.com/company/metadocencia/"
+    name: LinkedIn
+
+  - icon: bluesky
+    icon_pack: fab
+    link: "https://bsky.app/profile/metadocencia.org"
+    name: Bluesky
+
+  - icon: slack
+    icon_pack: fab
+    link: "https://w3id.org/metadocencia/slack"
+    name: Slack
+
+  - icon: facebook
+    icon_pack: fab
+    link: "https://www.facebook.com/metadocencia"
+    name: Facebook
+
 
 
 ############################
