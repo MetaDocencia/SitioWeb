@@ -1,31 +1,38 @@
 {{/* layouts/partials/site_footer.html */}}
-<footer class="footer pt-6 pb-3">
-  <div class="container">
+<footer class="footer mt-6">
+  {{ $links := site.Params.contact_links }}
 
-    <!-- Fila de iconos sociales -->
-    <div class="row justify-content-center mb-3">
-      <div class="col-auto">
-        <div class="social-icons">
-          {{- range .Site.Params.contact_links }}
-            {{- $link := .link | safeURL -}}
-            <a href="{{ $link }}" target="_blank" rel="noopener" aria-label="{{ .name | default .icon }}">
-              <i class="{{ .icon_pack }} fa-{{ .icon }}"></i>
-            </a>
-          {{- end }}
-        </div>
-      </div>
-    </div>
+  {{ if $links }}
+  <div class="container py-4">
+    <nav class="social-icons" aria-label="Redes sociales">
+      {{ range $links }}
+        {{/* Normaliza el pack para Font Awesome 6 */}}
+        {{ $pack := .icon_pack | default "fas" }}
+        {{ $faPack := cond (eq $pack "fab") "fa-brands"
+                    (cond (eq $pack "fas") "fa-solid"
+                    (cond (eq $pack "far") "fa-regular" $pack)) }}
+        {{ $name := .name | default .icon }}
+        <a class="social-link"
+           href="{{ .link }}"
+           aria-label="{{ $name }}"
+           {{ if (hasPrefix .link "http") }}target="_blank" rel="me noopener noreferrer"{{ end }}>
+          <i class="{{ $faPack }} fa-{{ .icon }}" aria-hidden="true"></i>
+          <span class="sr-only">{{ $name }}</span>
+        </a>
+      {{ end }}
+    </nav>
+  </div>
+  {{ end }}
 
-    <!-- Texto legal / licencia -->
-    <div class="row justify-content-center">
-      <div class="col-auto text-center">
-        {{- with .Site.Params.footer_html -}}
-          {{ . | safeHTML }}
-        {{- else -}}
-          <p class="mb-0">{{ .Site.Title }}</p>
-        {{- end -}}
-      </div>
-    </div>
-
+  <div class="container pb-4 text-center text-muted small">
+    {{ with site.Params.footer_text }}
+      {{ . | safeHTML }}
+    {{ else }}
+      <p>MetaDocencia, un proyecto con patrocinio fiscal de Code for Science &amp; Society.
+         <a href="/license/">Licencia</a></p>
+      <p class="mb-0">
+        Publicado con <a href="https://hugoblox.com/" target="_blank" rel="noopener">Hugo Blox Builder</a>.
+      </p>
+    {{ end }}
   </div>
 </footer>
