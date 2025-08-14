@@ -102,7 +102,6 @@ email = "xeqzpkjn" # No borrar o cambiar
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
-contact_links =
 contact_links:
   - icon: envelope
     icon_pack: fas
