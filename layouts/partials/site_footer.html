@@ -6,17 +6,25 @@
   <div class="container py-4">
     <nav class="social-icons" aria-label="Redes sociales">
       {{ range $links }}
-        {{/* Normaliza el pack para Font Awesome 6 */}}
-        {{ $pack := .icon_pack | default "fas" }}
-        {{ $faPack := cond (eq $pack "fab") "fa-brands"
-                    (cond (eq $pack "fas") "fa-solid"
-                    (cond (eq $pack "far") "fa-regular" $pack)) }}
         {{ $name := .name | default .icon }}
+
         <a class="social-link"
            href="{{ .link }}"
            aria-label="{{ $name }}"
            {{ if (hasPrefix .link "http") }}target="_blank" rel="me noopener noreferrer"{{ end }}>
-          <i class="{{ $faPack }} fa-{{ .icon }}" aria-hidden="true"></i>
+
+          {{/* Si el icono contiene ":", lo tratamos como Iconify (p.ej. simple-icons:bluesky) */}}
+          {{ if in .icon ":" }}
+            <iconify-icon icon="{{ .icon }}" width="1.6em" height="1.6em" aria-hidden="true"></iconify-icon>
+          {{ else }}
+            {{/* Font Awesome pack mapping (v6): fab->fa-brands, fas->fa-solid, far->fa-regular */}}
+            {{ $pack := .icon_pack | default "fas" }}
+            {{ $faPack := cond (eq $pack "fab") "fa-brands"
+                        (cond (eq $pack "fas") "fa-solid"
+                        (cond (eq $pack "far") "fa-regular" $pack)) }}
+            <i class="{{ $faPack }} fa-{{ .icon }}" aria-hidden="true"></i>
+          {{ end }}
+
           <span class="sr-only">{{ $name }}</span>
         </a>
       {{ end }}
@@ -35,4 +43,10 @@
       </p>
     {{ end }}
   </div>
+
+  {{ if not hugo.IsProduction }}
+    <div class="footer-debug" role="note" aria-live="polite">
+      <strong>Footer parcial activo</strong> — Entorno: preview/desarrollo — Build: {{ now.Format "2006-01-02 15:04:05 MST" }}
+    </div>
+  {{ end }}
 </footer>
