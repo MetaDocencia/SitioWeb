@@ -1,0 +1,207 @@
+# =========================
+# Hugo Blox (v5) - params
+# =========================
+
+appearance:
+  mode: "auto"                       # "light" | "dark" | "auto"
+  theme_day: "metadocencia_theme"    # nombre del tema claro en data/themes/*.toml
+  theme_night: "metadocencia_theme_dark"  # tema oscuro accesible que creaste
+
+# Tipografías (opcional)
+font: ""
+font_size: "M"                       # XS | S | M | L | XL
+
+# Metadatos del sitio
+site_type: "EducationalOrganization"
+local_business_type: ""
+org_name: ""
+description: "Ciencia abierta para comunidades hispanohablantes"
+
+# Features generales
+highlight: true
+highlight_languages: ["r"]
+# highlight_style: "github"  # si quisieras forzarlo
+
+math: false
+diagram: false
+
+# Privacidad
+privacy_pack: false
+anonymize_ip: true
+
+# Enlace de edición (botón Edit this page)
+edit_page:
+  repo_url: "https://github.com/MetaDocencia/SitioWeb"
+  content_dir: ""
+  repo_branch: "master"
+  editable:
+    docs: true
+    page: false
+    post: false
+
+# Contacto (datos del widget y enriquecimiento SEO)
+email: "xeqzpkjn"   # (no tocar)
+# phone: ""
+
+# address: {}        # Ejemplo (comentar/descomentar si lo usás)
+#   street: "450 Serra Mall"
+#   city: "Stanford"
+#   region: "CA"
+#   postcode: "94305"
+#   country: "United States"
+#   country_code: "US"
+
+# coordinates: {}    # Ejemplo
+#   latitude: "37.4275"
+#   longitude: "-122.1697"
+
+# directions: "..."
+# office_hours: []
+# appointment_url: "https://calendly.com"
+
+# === Footer / Redes sociales ===
+contact_links:
+  - icon: envelope
+    icon_pack: fas
+    link: "mailto:hola@metadocencia.org"
+    name: "Email"
+
+  - icon: mastodon
+    icon_pack: fab
+    link: "https://floss.social/@MetaDocencia"
+    name: "Mastodon"
+
+  - icon: twitter
+    icon_pack: fab
+    link: "https://twitter.com/MetaDocencia"
+    name: "Twitter/X"
+
+  - icon: github
+    icon_pack: fab
+    link: "https://github.com/MetaDocencia"
+    name: "GitHub"
+
+  - icon: youtube
+    icon_pack: fab
+    link: "https://www.youtube.com/metadocencia"
+    name: "YouTube"
+
+  - icon: instagram
+    icon_pack: fab
+    link: "https://www.instagram.com/metadocencia/"
+    name: "Instagram"
+
+  - icon: linkedin
+    icon_pack: fab
+    link: "https://www.linkedin.com/company/metadocencia/"
+    name: "LinkedIn"
+
+  - icon: bluesky
+    icon_pack: fab
+    link: "https://bsky.app/profile/metadocencia.org"
+    name: "Bluesky"
+
+  - icon: slack
+    icon_pack: fab
+    link: "https://w3id.org/metadocencia/slack"
+    name: "Slack"
+
+  - icon: facebook
+    icon_pack: fab
+    link: "https://www.facebook.com/metadocencia"
+    name: "Facebook"
+
+# Social / Open Graph
+sharing_image: "logo-metadocencia.png"
+twitter: "metadocencia"
+
+# Regional
+date_format: "02/01/2006"
+time_format: "3:04 PM"
+address_format: "en-us"
+
+# Menú principal
+main_menu:
+  align: "l"
+  show_logo: true
+
+# Lectura, paginación y UI
+reading_time: true
+section_pager: true
+docs_section_pager: true
+sharing: false
+link_authors: true
+abstract_length: 135
+
+# JS adicional (si no lo usás, queda no-op)
+plugins_js: []
+
+# Avatares
+avatar:
+  gravatar: false
+  shape: "circle"  # "circle" | "square"
+
+# Formatos de dirección
+address_formats:
+  en-us:
+    order: ['street', 'city', 'region', 'postcode']
+    delimiters: [', ', ', ', ' ', '']
+  en-gb:
+    order: ['street', 'city', 'region', 'postcode']
+    delimiters: [', ', ', ', ', ', '']
+  de:
+    order: ['street', 'postcode', 'city']
+    delimiters: ['<br>', ' ', '']
+  fr-fr:
+    order: ['street', 'postcode', 'city']
+    delimiters: ['<br>', ' ', '']
+  zh:
+    order: ['postcode', 'region', 'city', 'street']
+    delimiters: [' ', ' ', ' ', '']
+
+# Publicaciones
+publications:
+  date_format: "January 2006"
+  citation_style: "apa"
+
+# Proyectos
+projects:
+  post_view: 2
+  publication_view: 2
+  talk_view: 2
+
+# Comentarios
+comments:
+  engine: 0
+  commentable:
+    page: true
+    post: true
+    docs: true
+    project: true
+    publication: true
+    talk: true
+  disqus:
+    shortname: ""
+    show_count: true
+  commento:
+    url: ""
+
+# Búsqueda
+search:
+  engine: 1  # 0: none | 1: built-in | 2: Algolia
+  algolia:
+    app_id: ""
+    api_key: ""
+    index_name: ""
+    show_logo: false
+
+# Mapas
+map:
+  engine: 2  # 0: none | 1: Google | 2: OSM (Mapnik) | 3: OSM (Mapbox)
+  api_key: ""
+  zoom: 15
+
+# Marketing / Analytics
+marketing:
+  google_analytics: ""      # PONÉ ACA el ID GA4: "G-XXXX..." (UA ya no funciona)
+  google_tag_manager: ""    # opcional: "GTM-XXXX"

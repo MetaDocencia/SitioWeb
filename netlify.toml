@@ -1,4 +1,14 @@
+# 1) Configuración general de build
+[build]
+  command = "hugo --gc --minify --baseURL ${DEPLOY_PRIME_URL}/"
+  publish = "public"
+
+# 2) Variables para producción (no cambian)
 [context.production.environment]
-HUGO_VERSION = "0.64.0"
+  HUGO_ENV     = "production"
+  HUGO_VERSION = "0.57.2"
+
+# 3) Variables para Deploy Previews
 [context.deploy-preview.environment]
-HUGO_VERSION = "0.64.0"
+  HUGO_ENV     = "production"     # ¡IMPORTANTE!
+  HUGO_VERSION = "0.125.0"
