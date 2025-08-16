@@ -58,3 +58,4 @@ Esta publicación fue posible gracias a un subsidio de Chan Zuckerberg Initiativ
 
 Esta es la cita que te recomendamos usar para referenciarla:
 Laurel Ascenzi, Paz Míguez, Jesica Formoso (2024). Trabajo intercomunidades: la experiencia de apoyo al fortalecimiento de la gobernanza comunitaria de LABI. Zenodo. [https://doi.org/10.5281/zenodo.14186070](https://doi.org/10.5281/zenodo.14186070)
+
