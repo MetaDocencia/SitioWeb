@@ -1,34 +1,43 @@
 {{/* layouts/partials/site_footer.html */}}
 <footer class="footer mt-6">
+
   {{ $links := site.Params.contact_links }}
 
   {{ if $links }}
   <div class="container py-4">
-    <nav class="social-icons" aria-label="Redes sociales">
-      {{ range $links }}
-        {{ $name := .name | default .icon }}
 
-        <a class="social-link"
-           href="{{ .link }}"
-           aria-label="{{ $name }}"
-           {{ if (hasPrefix .link "http") }}target="_blank" rel="me noopener noreferrer"{{ end }}>
+    {{/* Wrapper de centrado a prueba de balas */}}
+    <div class="d-flex justify-content-center">
+      <nav class="social-icons d-flex justify-content-center align-items-center flex-wrap gap-3 mb-3 mx-auto"
+           aria-label="Redes sociales">
 
-          {{/* Si el icono contiene ":", lo tratamos como Iconify (p.ej. simple-icons:bluesky) */}}
-          {{ if in .icon ":" }}
-            <iconify-icon icon="{{ .icon }}" width="1.6em" height="1.6em" aria-hidden="true"></iconify-icon>
-          {{ else }}
-            {{/* Font Awesome pack mapping (v6): fab->fa-brands, fas->fa-solid, far->fa-regular */}}
-            {{ $pack := .icon_pack | default "fas" }}
-            {{ $faPack := cond (eq $pack "fab") "fa-brands"
-                        (cond (eq $pack "fas") "fa-solid"
-                        (cond (eq $pack "far") "fa-regular" $pack)) }}
-            <i class="{{ $faPack }} fa-{{ .icon }}" aria-hidden="true"></i>
-          {{ end }}
+        {{ range $links }}
+          {{ $name := .name | default .icon }}
 
-          <span class="sr-only">{{ $name }}</span>
-        </a>
-      {{ end }}
-    </nav>
+          <a class="social-link d-inline-flex align-items-center justify-content-center p-1"
+             href="{{ .link }}"
+             aria-label="{{ $name }}"
+             {{ if (hasPrefix .link "http") }}target="_blank" rel="me noopener noreferrer"{{ end }}>
+
+            {{/* Si el icono contiene ":" lo tratamos como Iconify (p.ej. simple-icons:bluesky) */}}
+            {{ if in .icon ":" }}
+              <iconify-icon icon="{{ .icon }}" width="1.6em" height="1.6em" aria-hidden="true"></iconify-icon>
+            {{ else }}
+              {{/* Font Awesome v6: fab->fa-brands, fas->fa-solid, far->fa-regular */}}
+              {{ $pack := .icon_pack | default "fas" }}
+              {{ $faPack := cond (eq $pack "fab") "fa-brands"
+                          (cond (eq $pack "fas") "fa-solid"
+                          (cond (eq $pack "far") "fa-regular" $pack)) }}
+              <i class="{{ $faPack }} fa-{{ .icon }}" aria-hidden="true"></i>
+            {{ end }}
+
+            <span class="sr-only visually-hidden">{{ $name }}</span>
+          </a>
+        {{ end }}
+
+      </nav>
+    </div>
+
   </div>
   {{ end }}
 
@@ -36,22 +45,26 @@
     {{ with site.Params.footer_text }}
       {{ . | safeHTML }}
     {{ else }}
-      <p>MetaDocencia, un proyecto con patrocinio fiscal de Code for Science &amp; Society.
-         <a href="/license/">Licencia</a></p>
+      <p>
+        MetaDocencia, un proyecto con patrocinio fiscal de Code for Science &amp; Society.
+        <a href="/license/">Licencia</a>
+      </p>
       <p class="mb-0">
-        Publicado con <a href="https://hugoblox.com/" target="_blank" rel="noopener">Hugo Blox Builder</a>.
+        Publicado con
+        <a href="https://hugoblox.com/" target="_blank" rel="noopener">Hugo Blox Builder</a>.
       </p>
     {{ end }}
   </div>
 
+  {{/* Carga Iconify (para simple-icons:bluesky, etc.) */}}
+  <script defer src="https://cdn.jsdelivr.net/npm/iconify-icon@2.1.0/dist/iconify-icon.min.js"></script>
+
   {{ if not hugo.IsProduction }}
-  <div class="footer-debug" role="note" aria-live="polite">
-  <strong>Footer parcial activo</strong> — links:
-  {{ $ls := site.Params.contact_links | default (slice) }}
-  {{ len $ls }}
-  {{ if not (gt (len $ls) 0) }}<em>(vacío)</em>{{ end }}
-  &nbsp;|&nbsp; Prueba FA: <i class="fa-brands fa-github"></i>
-  &nbsp;|&nbsp; Prueba Iconify: <iconify-icon icon="simple-icons:bluesky"></iconify-icon>
-</div>
+  <div class="footer-debug text-center small text-muted" role="note" aria-live="polite">
+    <strong>Footer parcial activo</strong> — links: {{ len (site.Params.contact_links | default (slice)) }}
+    &nbsp;|&nbsp; FA: <i class="fa-brands fa-github"></i>
+    &nbsp;|&nbsp; Iconify: <iconify-icon icon="simple-icons:bluesky"></iconify-icon>
+  </div>
   {{ end }}
+
 </footer>
