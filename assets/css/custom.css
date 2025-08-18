@@ -1,3 +1,19 @@
-.social-icons { display:flex; justify-content:center; gap:10px; }
-.social-icons a { display:inline-block; text-decoration:none; }
-.social-icons i { font-size:1.6rem; }
+/* Footer: centrar bloque de RRSS */
+footer .social-icons{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin: 0 auto;
+}
+
+footer .social-icons a{
+  display: inline-flex;
+  text-decoration: none;
+}
+
+footer .social-icons i{
+  font-size: 1.6rem;
+}
