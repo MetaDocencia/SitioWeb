@@ -130,7 +130,7 @@ reading_time: true
 section_pager: true
 docs_section_pager: true
 sharing: false
-link_authors: true
+link_authors: false
 abstract_length: 135
 
 # JS adicional (si no lo usás, queda no-op)
