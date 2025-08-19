@@ -1,6 +1,5 @@
 ---
 title: "CZI - Chan Zuckerberg Initiative"
-- czi_sponsor
 bio: ""
 email: ""
 name: CZI - Chan Zuckerberg Initiative
