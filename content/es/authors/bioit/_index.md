@@ -1,6 +1,5 @@
 ---
-authors:
-- BioIT
+title: "Bio-IT EMBL"
 bio: ""
 email: ""
 name: Bio-IT EMBL
