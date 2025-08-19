@@ -1,6 +1,5 @@
 ---
-authors:
-- danieladibella
+title: "Daniela Di Bella"
 bio: ""
 email: "daniela_dibella@fas.harvard.edu"
 interests:
