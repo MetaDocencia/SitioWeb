@@ -1,6 +1,5 @@
 ---
-authors:
-- laurel
+title: "Laura Ascenzi"
 bio: ""
 education:
   courses:
