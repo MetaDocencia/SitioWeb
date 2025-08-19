@@ -15,7 +15,7 @@
   MAINT_START_UTC = "2025-08-21T22:00:00Z"
   MAINT_END_UTC   = "2025-08-22T01:00:00Z"
   MAINT_MESSAGE_ES = "Estamos trabajando en la renovación de nuestro sitio web. Este jueves 21 de agosto realizaremos tareas de mantenimiento, por lo que la página podría no estar disponible durante algunas horas."
-  MAINT_MESSAGE_EN = "We are currently working on updating our website. Maintenance work will be carried out on Thursday 21 August, so the site may be unavailable for a few hours."
+  MAINT_MESSAGE_EN = "We are currently working on updating our website. Maintenance work will be carried out on Thursday, 21 August, so the site may be unavailable for a few hours."
   MAINT_TEST_MODE  = "0"
 
 # ===== Deploy Previews (PRs) =====
