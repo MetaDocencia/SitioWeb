@@ -1,6 +1,5 @@
 ---
-authors:
-- jzavala
+title: "Juan de Dios Zavala Villanueva"
 bio: ""
 email: ""
 interests:
