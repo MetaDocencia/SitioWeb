@@ -1,6 +1,5 @@
 ---
-authors:
-- gklocker
+title: "Gastón Klocker"
 bio: ""
 email: ""
 interests:
