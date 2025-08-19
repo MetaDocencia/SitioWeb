@@ -1,6 +1,5 @@
 ---
-authors:
-- NASA-TOPS
+title: "NASA-TOPS"
 bio: ""
 email: ""
 name: NASA-TOPS
