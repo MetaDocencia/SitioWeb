@@ -20,9 +20,9 @@
 [context.deploy-preview.environment]
   HUGO_VERSION = "0.64.0"
   # Forzar banner en pruebas (o usar ?maint_test=1)
- MAINT_TEST_MODE = "1"
+  MAINT_TEST_MODE = "1"
 # Poné una ventana amplia para hoy (UTC) para descartar tema horario:
-MAINT_START_UTC = "2025-08-19T00:00:00Z"
-MAINT_END_UTC   = "2025-08-20T00:00:00Z"
-MAINT_MESSAGE_ES = "Estamos trabajando en la renovación de nuestro sitio web. (PRUEBA)"
-MAINT_MESSAGE_EN = "We are currently working on updating our website. (TEST)"
+  MAINT_START_UTC = "2025-08-19T00:00:00Z"
+  MAINT_END_UTC   = "2025-08-20T00:00:00Z"
+  MAINT_MESSAGE_ES = "Estamos trabajando en la renovación de nuestro sitio web. (PRUEBA)"
+  MAINT_MESSAGE_EN = "We are currently working on updating our website. (TEST)"
