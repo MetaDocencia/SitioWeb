@@ -1,6 +1,5 @@
 ---
-authors:
-- jmillan
+title: "Julieta Millán"
 bio: ""
 email: ""
 interests:
