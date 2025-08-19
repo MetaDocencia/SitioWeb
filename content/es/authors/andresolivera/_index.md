@@ -1,6 +1,5 @@
 ---
-authors:
-- aolivera
+title: "Andres Olivera"
 bio: ""
 email: "aolivera.labi@gmail.com"
 interests:
