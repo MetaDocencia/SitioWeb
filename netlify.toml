@@ -1,4 +1,6 @@
 # netlify.toml — limpio, sin tablas duplicadas
+[edge_functions]
+  directory = "SitioWeb/netlify/edge-functions"
 
 # Mapeo del Edge Function (usa el directorio por defecto: netlify/edge-functions)
 [[edge_functions]]
