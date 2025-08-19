@@ -1,6 +1,5 @@
 ---
-authors:
-- BRRN
+title: "BRRN"
 bio: ""
 email: ""
 name: Red Brasileña de Reproducibilidad
