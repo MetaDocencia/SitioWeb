@@ -1,6 +1,5 @@
 ---
-authors:
-- ailin
+title: "Ailin Mandola"
 bio: ""
 education:
  courses:
