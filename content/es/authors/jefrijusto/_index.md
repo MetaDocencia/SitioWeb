@@ -1,6 +1,5 @@
 ---
-authors:
-- jefrijusto
+title: "Jefri Justo Mamani"
 bio: ""
 email: ""
 interests:
