@@ -1,6 +1,5 @@
 ---
-authors:
-- angelgarcia
+title: "Angel García O’Diana"
 bio: ""
 email: ""
 interests:
