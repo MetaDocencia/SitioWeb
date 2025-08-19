@@ -1,6 +1,5 @@
 ---
-authors:
-- mallasia
+title: "María Belén Allasia"
 bio: ""
 email: ""
 interests:
