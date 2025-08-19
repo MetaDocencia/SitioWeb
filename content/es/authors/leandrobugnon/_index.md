@@ -1,6 +1,5 @@
 ---
-authors:
-- lbugnon
+title: "Leandro Bugnon"
 bio: ""
 email: "lbugnon@sinc.unl.edu.ar"
 interests:
