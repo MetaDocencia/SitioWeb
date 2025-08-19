@@ -1,0 +1,13 @@
+# config/_default/hugo.yaml
+cascade:
+  # Posts en content/post/**
+  - _target:
+      path: /post/**
+      kind: page
+    profile: true
+
+  # (Opcional) si usan content/blog/** en lugar de post/**
+  - _target:
+      path: /blog/**
+      kind: page
+    profile: true
