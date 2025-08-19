@@ -18,9 +18,9 @@ interests:
 
 # Redes (Hugo Blox usa `profiles`, sin `icon_pack`)
 profiles:
-  - icon: "academicons/orcid"
+  - icon: academicons/orcid
     url: "https://orcid.org/0000-0001-7197-1320"
-  - icon: "brands/github"
+  - icon: brands/github
     url: "https://github.com/adacapsy"
 
 user_groups:
