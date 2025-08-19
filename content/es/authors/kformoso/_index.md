@@ -1,6 +1,5 @@
 ---
-authors:
-- kformoso
+title: "Karina Formoso"
 bio: ""
 email: "formoso.karina@gmail.com"
 interests:
