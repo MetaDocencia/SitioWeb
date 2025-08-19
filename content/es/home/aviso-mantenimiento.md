@@ -8,7 +8,7 @@ title:
 subtitle:
 design:
   spacing:
-    padding: ["0rem","0rem","0rem","0rem"]  # sección bien bajita
+    padding: ["1rem","0rem","0rem","0rem"]  # sección bien bajita
 ---
 
 <div class="md-alert" role="status" aria-live="polite">
