@@ -1,6 +1,5 @@
 ---
-authors:
-- cesarramirez
+authors: "Cesar Ramirez-Sarmiento"
 bio: ""
 email: "cesar.ramirez@uc.cl"
 interests:
