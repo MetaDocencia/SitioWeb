@@ -1,6 +1,5 @@
 ---
-authors:
-- LABI-sponsor
+title: "LABI"
 bio: ""
 email: ""
 name: LABI
