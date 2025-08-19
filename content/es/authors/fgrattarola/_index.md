@@ -1,6 +1,5 @@
 ---
-authors:
-- fgrattarola
+title: "Florencia Grattarola"
 bio: ""
 email: "flograttarola@gmail.com"
 interests:
