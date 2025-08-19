@@ -1,6 +1,5 @@
 ---
-authors:
-- croblesespinoza
+title: "Carla Daniela Robles Espinoza"
 bio: ""
 email: "drobles@liigh.unam.mx"
 interests:
