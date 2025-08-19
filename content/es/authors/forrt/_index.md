@@ -1,6 +1,5 @@
 ---
-authors:
-- forrt
+title: "FORRT"
 bio: ""
 email: ""
 name: FORRT
