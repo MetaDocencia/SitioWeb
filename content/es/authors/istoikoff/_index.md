@@ -1,6 +1,5 @@
 ---
-authors:
-- istoikoff
+title: "Iván Stoikoff"
 bio: ""
 email: ""
 interests:
