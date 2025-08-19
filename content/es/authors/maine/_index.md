@@ -1,6 +1,5 @@
 ---
-authors:
-- maine
+title: "María Inés Fariello"
 bio: ""
 education:
   courses:
