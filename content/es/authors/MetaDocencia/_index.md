@@ -1,6 +1,5 @@
 ---
-authors:
-- MetaDocencia
+title: "MetaDocencia"
 bio: 
 email: ""
 name: 
