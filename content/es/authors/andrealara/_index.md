@@ -1,6 +1,5 @@
 ---
-authors:
-- alara
+title: "Andrea Lara"
 bio: ""
 email: "andrealh@galileo.edu"
 interests:
