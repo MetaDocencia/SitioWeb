@@ -1,8 +1,6 @@
-# netlify.toml
+# netlify.toml — limpio, sin tablas duplicadas
 
-[edge_functions]
-  directory = "netlify/edge-functions"
-
+# Mapeo del Edge Function (usa el directorio por defecto: netlify/edge-functions)
 [[edge_functions]]
   function = "maintenance"
   path = "/*"
@@ -15,21 +13,16 @@
   MAINT_START_UTC = "2025-08-21T22:00:00Z"
   MAINT_END_UTC   = "2025-08-22T01:00:00Z"
   MAINT_MESSAGE_ES = "Estamos trabajando en la renovación de nuestro sitio web. Este jueves 21 de agosto realizaremos tareas de mantenimiento, por lo que la página podría no estar disponible durante algunas horas."
-  MAINT_MESSAGE_EN = "We are currently working on updating our website. Maintenance work will be carried out on Thursday, 21 August, so the site may be unavailable for a few hours."
+  MAINT_MESSAGE_EN = "We are currently working on updating our website. Maintenance work will be carried out on Thursday 21 August, so the site may be unavailable for a few hours."
   MAINT_TEST_MODE  = "0"
 
 # ===== Deploy Previews (PRs) =====
 [context.deploy-preview.environment]
   HUGO_VERSION = "0.64.0"
-  # Forzar banner en pruebas (se puede quitar y usar ?maint_test=1)
+  # Forzar banner en pruebas (o usar ?maint_test=1)
   MAINT_TEST_MODE  = "1"
-  # Ventana corta para probar (ajusten si hace falta)
+  # Ventana corta para probar (ajustá si hace falta)
   MAINT_START_UTC = "2025-08-19T04:00:00Z"
   MAINT_END_UTC   = "2025-08-19T04:30:00Z"
   MAINT_MESSAGE_ES = "Estamos trabajando en la renovación de nuestro sitio web. (PRUEBA)"
   MAINT_MESSAGE_EN = "We are currently working on updating our website. (TEST)"
-
-# ===== Branch Deploys (staging) =====
-[context.branch-deploy.environment]
-  HUGO_VERSION = "0.64.0"
-  MAINT_TEST_MODE  = "1"
