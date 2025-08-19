@@ -12,7 +12,6 @@ design:
 ---
 
 <div class="md-alert" role="status" aria-live="polite">
-  <p><strong>We are currently working on updating our website.</strong></p>
-  <p>Maintenance work will be carried out on Thursday 21 August, so the site may be unavailable for a few hours.</p>
+  <p><strong>We are currently working on updating our website. Maintenance work will be carried out on Thursday 21 August, so the site may be unavailable for a few hours.</strong></p>
   <p class="md-alert-time">Thu 21 Aug, 19:00–22:00 (UTC-3) · 22:00–01:00 UTC</p>
 </div>
