@@ -1,6 +1,5 @@
 ---
-authors:
-- INTA
+title: "INTA (Estación Experimental Agropecuaria Anguil)"
 bio: ""
 email: ""
 name: INTA (Estación Experimental Agropecuaria Anguil)
