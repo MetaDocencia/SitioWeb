@@ -13,5 +13,5 @@ design:
 ---
 
 <div role="status" aria-live="polite">
-  <p><strong>Estamos trabajando en la renovación de nuestro sitio web.</strong> Este jueves 21 de agosto realizaremos tareas de mantenimiento, por lo que la página podría no estar disponible durante algunas horas a partir de las 19:00 (UTC-3) / 22:00 </p>
+  <p><strong>Estamos trabajando en la renovación de nuestro sitio web.</strong> Este jueves 21 de agosto realizaremos tareas de mantenimiento, por lo que la página podría no estar disponible durante algunas horas a partir de las 19:00 (UTC-3) / 22:00 (UTC)</p>
 </div>
