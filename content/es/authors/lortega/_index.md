@@ -1,6 +1,5 @@
 ---
-authors:
-- lortega
+title: "Luis Adolfo Ortega Granados"
 bio: ""
 email: ""
 interests:
