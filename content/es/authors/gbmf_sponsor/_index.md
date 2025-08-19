@@ -1,6 +1,5 @@
 ---
-authors:
-- moore
+title: "Gordon and Betty Moore Foundation"
 bio: ""
 email: ""
 name: Gordon and Betty Moore Foundation
