@@ -1,6 +1,5 @@
 ---
-authors:
-- emercadolara
+title: "Eunice Mercado-Lara"
 bio: ""
 education:
   courses:
