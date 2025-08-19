@@ -1,6 +1,5 @@
 ---
-authors:
-- 2i2c-sponsor
+title: "2i2c-sponsor"
 bio: ""
 email: ""
 name: 2i2c
