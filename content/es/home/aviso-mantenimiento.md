@@ -12,7 +12,6 @@ design:
 ---
 
 <div class="md-alert" role="status" aria-live="polite">
-  <p><strong>Estamos trabajando en la renovación de nuestro sitio web.</strong></p>
-  <p>Este jueves 21 de agosto realizaremos tareas de mantenimiento, por lo que la página podría no estar disponible durante algunas horas.</p>
+  <p><strong>Estamos trabajando en la renovación de nuestro sitio web. Este jueves 21 de agosto realizaremos tareas de mantenimiento, por lo que la página podría no estar disponible durante algunas horas.</strong></p>
   <p class="md-alert-time">Jueves 21/08, 19:00–22:00 (UTC-3) · 22:00–01:00 UTC</p>
 </div>
