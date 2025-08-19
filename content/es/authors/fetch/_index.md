@@ -1,6 +1,5 @@
 ---
-authors:
-  - fetch
+title: "Francisco Etchart"
 role:
 bio: ""
 education:
