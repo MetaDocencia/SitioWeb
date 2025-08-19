@@ -1,6 +1,5 @@
 ---
-authors:
-- eiarussi
+title: "Emmanuel Iarussi"
 bio: ""
 email: "emmanuel.iarussi@utdt.edu"
 interests:
