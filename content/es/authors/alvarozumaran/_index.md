@@ -1,6 +1,5 @@
 ---
-authors:
-- alvarozumaran
+title: "Álvaro Zumarán Baldeón"
 bio: ""
 email: ""
 interests:
