@@ -1,6 +1,5 @@
 ---
-authors:
-- CS&S
+title: "CS&S"
 bio: ""
 email: ""
 name: CS&S - Code for Science & Society
