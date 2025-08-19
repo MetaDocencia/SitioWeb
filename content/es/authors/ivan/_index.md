@@ -1,6 +1,5 @@
 ---
-authors:
-- ivan
+title: "Iván Gabriel Poggio"
 bio: ""
 education:
   courses:
