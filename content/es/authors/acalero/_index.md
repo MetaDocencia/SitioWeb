@@ -17,11 +17,13 @@ interests:
   - Análisis de datos
 
 # Redes (Hugo Blox usa `profiles`, sin `icon_pack`)
-profiles:
+social:
   - icon: orcid
-    url: https://orcid.org/0000-0001-7197-1320
+    icon_pack: ai
+    link: https://orcid.org/0000-0001-7197-1320
   - icon: github
-    url: https://github.com/adacapsy
+    icon_pack: fab
+    link: https://github.com/adacapsy
 
 user_groups:
   - Colaboradores
