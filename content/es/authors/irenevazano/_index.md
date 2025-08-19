@@ -1,6 +1,5 @@
 ---
-authors:
-- irenevazano
+title: "Irene Vazano"
 bio: ""
 education:
   courses:
