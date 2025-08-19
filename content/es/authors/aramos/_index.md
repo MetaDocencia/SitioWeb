@@ -1,6 +1,5 @@
 ---
-authors:
-- aramos
+title: "Ariel Silvio Norberto Ramos"
 bio: ""
 email: ""
 interests:
