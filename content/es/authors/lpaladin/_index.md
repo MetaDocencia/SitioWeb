@@ -1,6 +1,5 @@
 ---
-authors:
-- lpaladin
+title: "Lisanna Paladin"
 bio: ""
 email: ""
 interests:
