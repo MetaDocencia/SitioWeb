@@ -1,6 +1,5 @@
 ---
-authors:
-- CABANANet
+title: "CABANAnet"
 bio: ""
 email: ""
 name: CABANAnet
@@ -27,3 +26,4 @@ user_groups:
 
 
 ***
+
