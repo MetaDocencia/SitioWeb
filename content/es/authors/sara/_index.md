@@ -1,6 +1,5 @@
 ---
-authors:
-- sara
+title: "Sara Mortara"
 bio: ""
 email: ""
 name: Sara Mortara
