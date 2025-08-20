@@ -1,6 +1,5 @@
 ---
-authors:
-- npalopoli
+title: "Nicolás Palopoli"
 bio: ""
 education:
   courses:
