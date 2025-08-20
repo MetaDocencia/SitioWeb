@@ -1,6 +1,5 @@
 ---
-authors:
-- monialonso
+title: "Mónica Alonso"
 bio: ""
 education:
   courses:
@@ -47,3 +46,4 @@ She collaborated in the Spanish translation of R and Python lessons in The Carpe
 She also collaborated in the Spanish translation and revision of the following books: R for Data Science and Teaching Tech Together. She was part of the Organizing Committee of LatinR 2018 and 2020 and of the Scientific Committee of the Argentine Congress of Agroinformatics (CAI) in 2018 and 2020.
 
 Within the team, Moni has won the Motor Award for her tireless enthusiasm, determination and perseverance, which act as fuel to take on challenges of all kinds.
+
