@@ -1,6 +1,5 @@
 ---
-authors:
-- selgebali
+title: "Sara El-Gebali"
 bio: ""
 email: ""
 interests:
