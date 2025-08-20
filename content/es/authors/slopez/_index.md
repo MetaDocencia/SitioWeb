@@ -1,6 +1,5 @@
 ---
-authors:
-- slopez
+title: "Sabrina López"
 bio: ""
 education: 
  courses:
