@@ -1,6 +1,5 @@
 ---
-authors:
-- alvarozumaran
+title: "Álvaro Zumarán Baldeón"
 bio: ""
 email: ""
 interests:
@@ -18,3 +17,4 @@ superuser: false
 user_groups:
 - 
 ---
+
