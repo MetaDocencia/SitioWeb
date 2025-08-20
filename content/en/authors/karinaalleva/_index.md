@@ -1,6 +1,5 @@
 ---
-authors:
-- kalleva
+title: "Karina Alleva"
 bio: ""
 email: "karina.alleva@gmail.com"
 interests:
@@ -30,4 +29,5 @@ social:
 superuser: false
 user_groups:
 - Contributors
+
 ---
