@@ -1,6 +1,5 @@
 ---
-authors:
-- paolefer
+title: "Paola Andrea Lefer"
 bio: ""
 education:
   courses:
@@ -41,3 +40,4 @@ She was trained in alternative tools for teaching history such as photography, l
 Currently she has added her training as a ceramist and uses these resources as an alternative way to teach.
 
 Inside the team, he has won the Motivation Award, which recognizes his ability to generate enthusiasm and lift the spirits of the entire group with his empathy and good humor.
+
