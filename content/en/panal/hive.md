@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1 # Order that this section will appear.
 
-title = " "
+title = "Fellow Communities"
 subtitle = "We would be glad to see this hive grow bigger. For further information, contact us at [comunidad@metadocencia.org](mailto:comunidad@metadocencia.org)."
 
 [content]
