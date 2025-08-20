@@ -1,6 +1,5 @@
 ---
-authors:
-- paocorrales
+title: "Paola Corrales"
 bio: ""
 education:
   courses:
@@ -42,5 +41,6 @@ user_groups:
 Paola has a degree in Atmospheric Sciences and is currently doing her PhD at the Centro de Investigaciones del Mar y la Atmósfera, UBA-CONICET applying data assimilation techniques to improve short-term forecasts of severe events. Since 2011 she is part of [Expedición Ciencia](http://expedicionciencia.org.ar/), an NGO dedicated to develop projects that allow people of all ages to learn about scientific thinking, the pleasure of exploration and permanent curiosity. In Expedición Ciencia she leads educational projects such as science camps and workshops for students and teachers.
 
 Since 2017 she has been part of different communities of R users  (for example, R-Ladies Buenos Aires and LatinR) in which she generates on-site and virtual activities. Paola is also an instructor and trainer certified by [The Carpentries](https://carpentries.org/) and a certified instructor by [RStudio](https://education.rstudio.com/trainers/people/corrales+paola/). Paola co-founded MetaDocencia.
+
 
 
