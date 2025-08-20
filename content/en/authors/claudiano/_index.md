@@ -1,6 +1,5 @@
 ---
-authors:
-- claudiano
+title: "Claudiano Neto"
 bio: ""
 education: 
  courses:
@@ -33,3 +32,4 @@ user_groups:
 ---
 
 Claudiano Neto is an Environmental Economist and works as a professor at the Center for Agricultural, Environmental and Biological Sciences, of the Federal University of Recôncavo da Bahia (Brazil), where he has taught his classes using R and RStudio since 2019. 
+
