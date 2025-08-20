@@ -1,6 +1,5 @@
 ---
-authors:
-- aolivera
+title: "Andres Olivera"
 bio: ""
 email: "aolivera.labi@gmail.com"
 interests:
@@ -32,4 +31,5 @@ social:
 superuser: false
 user_groups:
 - Contributors
+
 ---
