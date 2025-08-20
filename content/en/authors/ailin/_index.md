@@ -1,6 +1,5 @@
 ---
-authors:
-- ailin
+title: "Ailin Mandola"
 bio: ""
 education:
  courses:
@@ -18,4 +17,5 @@ superuser: false
 user_groups:
 - Former Contributors
 ---
+
 
