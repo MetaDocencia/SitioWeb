@@ -1,6 +1,5 @@
 ---
-authors:
-  - mcalvelorios
+title: "Manuel Calvelo Ríos"
 bio: ""
 education:
 email: ""
