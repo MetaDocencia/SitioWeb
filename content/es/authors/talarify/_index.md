@@ -1,6 +1,5 @@
 ---
-authors:
-- talarify
+title: "Talarify"
 bio: ""
 email: "info@talarify.co.za"
 name: Talarify
