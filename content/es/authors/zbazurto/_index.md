@@ -1,6 +1,5 @@
 ---
-authors:
-- zbazurto
+title: "Zulemma Bazurto Blacio"
 bio: ""
 email: ""
 interests:
