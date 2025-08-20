@@ -1,6 +1,5 @@
 ---
-authors:
-- andrea
+title: "Andrea Gomez Vargas"
 bio: ""
 education:
  courses:
@@ -43,3 +42,4 @@ user_groups:
 ---
 
 Andrea has a BA in Sociologist, teacher and researcher with a focus on gender (s) and Human Rights studies. 
+
