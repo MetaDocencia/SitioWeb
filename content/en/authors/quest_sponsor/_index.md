@@ -1,6 +1,5 @@
 ---
-authors:
-- Quest
+title: "QUEST Center for Responsible Research, Berlin Institute of Health @Charité"
 bio: ""
 email: "quest@bih-charite.de"
 name: QUEST Center for Responsible Research, Berlin Institute of Health @Charité
@@ -14,4 +13,5 @@ superuser: false
 user_groups:
 -  Previous
 ---
+
 
