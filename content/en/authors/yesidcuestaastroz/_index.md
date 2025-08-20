@@ -1,6 +1,5 @@
 ---
-authors:
-- ycuestaastroz
+title: "Yesid Cuesta Astroz"
 bio: ""
 email: "yesid.cuesta@udea.edu.co"
 interests:
@@ -31,4 +30,5 @@ social:
 superuser: false
 user_groups:
 - Contributors
+
 ---
