@@ -1,6 +1,5 @@
 ---
-authors:
-- vvarni
+title: "Vanina Varni"
 bio: ""
 email: ""
 interests:
@@ -29,3 +28,4 @@ superuser: false
 user_groups:
 - Contributors
 ---
+
