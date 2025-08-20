@@ -1,6 +1,5 @@
 ---
-authors:
-- lacion
+title: "Laura Ación"
 bio: ""
 education:
   courses:
@@ -57,3 +56,4 @@ She has more than two decades of experience offering consulting services and als
 Since 2017 she has held leadership positions at or co-created local, regional, and international open-science-related collective projects (e.g., R-Ladies Global, LatinR, useR!, OLS, Code for Science & Society). Laura was also a The-Carpentries-certified instructor and instructor trainer and has experience developing massive online courses for a US-based platform (whose name we omit due to the company’s ethical issues). In March 2020, Laura co-founded MetaDocencia.
 
 Inside the team, Lau has won the T-Shirt Award because she drives us, motivates us, teaches us, and empowers us on the court. Outwardly, she defends science, technology, education, and our geographies and future. She invites and brings others up to a thousand projects, shares her brilliant trajectory, and generously encourages us to play more and better.
+
