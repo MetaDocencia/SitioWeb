@@ -1,6 +1,5 @@
 ---
-authors:
-- upajarovelasquez
+title: "Umut Pajaro Velasquez"
 bio: ""
 interests:
   - Artificial intelligence
@@ -33,3 +32,4 @@ social:
 user_groups:
 - Contributors
 ---
+
