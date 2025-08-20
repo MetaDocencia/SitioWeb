@@ -1,6 +1,5 @@
 ---
-authors:
-- jfabiano
+title: "Jeremías Fabiano"
 bio: ""
 email: ""
 interests:
@@ -26,3 +25,4 @@ superuser: false
 user_groups:
 - Former Contributors
 ---
+
