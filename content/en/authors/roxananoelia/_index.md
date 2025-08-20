@@ -1,6 +1,5 @@
 ---
-authors:
-- roxananoelia
+title: "Roxana Noelia Villafañe"
 bio: ""
 education:
   courses:
@@ -39,4 +38,5 @@ I am a postdoc researcher at Laboratorio de Estructura Molecular y Propiedades (
 I'm a Rladies chapter co-founder and co-organizer: *Rladies Resistencia Corrientes*, co-founder and co-organizer of a R user's group (RUG) at my local area called *R-en-el-NEA*, and one of the organizers of latinoamerican R Conference, *LatinR*.
 
 Also, I am an #rstats teacher assistant at Facultad de Ciencias Agrarias (UNNE), creating new material with R programming for undergrad stats course.
+
 
