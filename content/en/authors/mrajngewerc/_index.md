@@ -1,6 +1,5 @@
 ---
-authors:
-- mariela
+title: "Mariela Rajngewerc"
 bio: ""
 education:
   courses:
@@ -55,3 +54,4 @@ She holds a degree in Mathematics from the University of Buenos Aires. During he
 Since 2020 she is part of MetaDocencia and since 2023 of Open Life Science (OLS).
 
 Inside the team she has won the Illumination Award for her participation in new spaces and roles and her contribution of lucidity to all the projects she is part of.
+
