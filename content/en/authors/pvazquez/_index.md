@@ -1,5 +1,5 @@
 ---
-title: "Pablo Vázquez
+title: "Pablo Vázquez"
 bio: ""
 email: ""
 interests:
@@ -26,4 +26,5 @@ superuser: false
 user_groups:
 - Contributors
 ---
+
 
