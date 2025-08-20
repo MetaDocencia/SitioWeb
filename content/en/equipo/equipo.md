@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1 # Order that this section will appear.
 
-title = ""
+title = "Team and Advisory Committee"
 subtitle = ""
 
 [content]
@@ -49,4 +49,5 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
 
