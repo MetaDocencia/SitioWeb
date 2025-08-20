@@ -1,6 +1,5 @@
 ---
-authors:
-- PsiNet LAB
+title: "PsiNet LAB"
 bio: ""
 email: ""
 name: PsiNet LAB
@@ -40,3 +39,4 @@ user_groups:
 ### About PsiNet LAB
 
 **[PsiNet LAB](https://psinetlab.wordpress.com/)** is a psychological research organization dedicated to generating cutting-edge scientific knowledge in Psychology. It is committed to practically applying this knowledge to improve society’s mental health and well-being. The work ranges from basic research to implementing interventions that promote human well-being and sustainable development. The team uses the latest methodological advances, such as network analysis, multiverse analysis, Bayesian frameworks, machine learning, and Artificial Intelligence (AI), to answer fundamental questions about human behavior based on complexity theory. In addition, it maintains a strong commitment to accessibility and transparency in science, openly sharing its findings to contribute to the collective advancement of knowledge.
+
