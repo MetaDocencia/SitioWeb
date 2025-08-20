@@ -1,6 +1,5 @@
 ---
-authors:
-- violeta
+title: "Violeta Roizman"
 bio: ""
 education:
   courses:
