@@ -1,6 +1,5 @@
 ---
-authors:
-- CS&S
+title: "CS&S Code for Science & Society"
 bio: ""
 email: ""
 name: CS&S Code for Science & Society
@@ -14,3 +13,4 @@ superuser: false
 user_groups:
 -  Clients Who Trust Our Services
 ---
+
