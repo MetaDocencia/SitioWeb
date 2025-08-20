@@ -1,6 +1,5 @@
 ---
-authors:
-- ABRIR
+title: "ABRIR"
 bio: ""
 email: ""
 name: ABRIR
@@ -31,3 +30,4 @@ user_groups:
 ### About ABRIR
 
 **[ABRIR](https://abrirpsy.org/)**  (Advancing Big-team Reproducible Science through Increased Representation) is an international consortium of researchers that aims to identify the unique barriers faced by researchers from LMICs (low-to-middle income countries) while participating and leading in Big-Team/Open Science projects. ABRIR hopes to build a collaborative network of psychological science researchers from the Global South to explore and answer questions of deep relevance to their local regions.
+
