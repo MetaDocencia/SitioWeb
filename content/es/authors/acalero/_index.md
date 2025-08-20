@@ -3,7 +3,7 @@
 title: "Alejandra Daniela Calero"
 first_name: Alejandra
 last_name: Calero
-role: Colaboradora
+role: 
 organizations:
   - name: MetaDocencia
     url: "https://www.metadocencia.org/"
