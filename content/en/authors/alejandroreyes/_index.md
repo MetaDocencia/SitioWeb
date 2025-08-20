@@ -1,6 +1,5 @@
 ---
-authors:
-- areyes
+title: "Alejandro Reyes"
 bio: ""
 email: "a.reyes@uniandes.edu.co"
 interests:
@@ -25,4 +24,5 @@ social:
 superuser: false
 user_groups:
 - Contributors
+
 ---
