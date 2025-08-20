@@ -1,6 +1,5 @@
 ---
-authors:
-- lmartinezquijano
+title: "Laura Martínez Quijano"
 bio: ""
 email: ""
 interests:
@@ -25,3 +24,4 @@ superuser: false
 user_groups:
 - Contributors
 ---
+
