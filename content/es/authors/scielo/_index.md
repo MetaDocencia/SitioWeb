@@ -1,6 +1,5 @@
 ---
-authors:
-- scielo
+title: "SciELO"
 bio: ""
 email: ""
 name: SciELO
