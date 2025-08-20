@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 2 # Order that this section will appear.
 
-title = " "
+title = "Also build and were part of this hive"
 subtitle = "The contents of this section may be out of date. If you have questions, please contact the community of your interest."
 
 [content]
