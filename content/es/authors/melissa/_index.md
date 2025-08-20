@@ -1,6 +1,5 @@
 ---
-authors:
-- melissa
+title: "Melissa Black"
 bio: ""
 email: "melissablack301@gmail.com"
 interests:
