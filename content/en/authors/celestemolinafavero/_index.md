@@ -1,6 +1,5 @@
 ---
-authors:
-- CelesteMolinaFavero
+title: "Celeste Molina Favero"
 bio: ""
 education:
   courses:
@@ -36,3 +35,4 @@ She works in the Phytogenetic Resources, Genetics and Improvement group, develop
 She also actively participates in extension projects related to the implementation of agroecological gardens in institutions for children and young people in vulnerable situations, where she works collaboratively with students, teachers, researchers, citizens and extension workers from different disciplines.
 
 She has been a university teacher for 20 years and during 2020 she had to roll up her sleeves with the team that integrates with virtual teaching.
+
