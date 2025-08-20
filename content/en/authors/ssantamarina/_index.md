@@ -1,6 +1,5 @@
 ---
-authors:
-- ssantamarina
+title: "Sergio Santamarina"
 bio: ""
 email: ""
 interests:
@@ -27,3 +26,4 @@ superuser: false
 user_groups:
 - Contributors
 ---
+
