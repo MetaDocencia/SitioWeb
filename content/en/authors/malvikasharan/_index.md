@@ -1,6 +1,5 @@
 ---
-authors:
-- malvikasharan
+title: "Malvika Sharan"
 bio: ""
 email: ""
 name: Malvika Sharan
@@ -23,3 +22,4 @@ I am a community lead of The Turing Way project at The Alan Turing institute tha
 I am a co-founder of Open Life Science, a mentoring and training programme that empowers researchers to gain an understanding of open science principles, build collaborations with experts and adopt best practices in the context of their communities.
 
 After receiving my PhD in Bioinformatics, I started my career in community building at the European Molecular Biology Laboratory. I am a Software Sustainability Institute fellow, Open Bioinformatics Foundation board member and an active contributor of open source projects. I am open to discuss and collaborate on building resources, promoting open science principles and supporting projects to enhance the representation of marginalised members in data science and research.
+
