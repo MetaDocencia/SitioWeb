@@ -1,6 +1,5 @@
 ---
-authors:
-- mboalab
+title: "MboaLab"
 bio: ""
 email: "contact@mboalab.africa"
 name: MboaLab
@@ -29,3 +28,4 @@ Its primary mission is to make biotechnology research and tools more accessible 
 
 
 ***
+
