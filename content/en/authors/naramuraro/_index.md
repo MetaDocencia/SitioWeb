@@ -1,6 +1,5 @@
 ---
-authors:
-- nmuraro
+title: "Nara Muraro"
 bio: ""
 email: "naramuraro@gmail.com"
 interests:
@@ -34,4 +33,5 @@ social:
 superuser: false
 user_groups:
 - Contributors
+
 ---
