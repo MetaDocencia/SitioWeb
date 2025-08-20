@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 2 # Order that this section will appear.
 
-title = " "
+title = "También construyen y formaron parte de este Panal"
 subtitle = "Los materiales en esta sección podrían estar desactualizados. Si tienes dudas, comunícate con la comunidad de tu interés."
 
 [content]
