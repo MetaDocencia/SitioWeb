@@ -1,6 +1,5 @@
 ---
-authors:
-- lmalacrida
+title: "Leonel Malacrida"
 bio: ""
 email: "leonelmalacrida@gmail.com"
 interests:
@@ -38,4 +37,5 @@ social:
 superuser: false
 user_groups:
 - Contributors
+
 ---
