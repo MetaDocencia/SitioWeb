@@ -1,6 +1,5 @@
 ---
-authors:
-- laurel
+title: "Laura Ascenzi"
 bio: ""
 education:
   courses:
@@ -47,3 +46,4 @@ She is also a professor at the National University of Córdoba, Argentina.
 Research and expertise areas: Information and communication technology adoption in organizations. Coordination of content management systems and interfaces for internal and external communication. Diagnosis and planning of institutional communication processes, digital communication strategy, and branding. Information architecture, content management, and their users.
 
 Inside the team, Laurel has won the Architect of Words Award for her exceptional ability to build bridges within and outside our team and to keep the team together and strong, bringing a great deal of communicational beauty to everything she does and shares with us.
+
