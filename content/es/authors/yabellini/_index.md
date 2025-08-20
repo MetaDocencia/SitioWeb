@@ -1,6 +1,5 @@
 ---
-authors:
-- yabellini
+title: "Yanina Bellini Saibene"
 bio: ""
 education:
   courses:
