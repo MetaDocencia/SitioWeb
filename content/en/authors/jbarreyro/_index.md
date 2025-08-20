@@ -1,6 +1,5 @@
 ---
-authors:
-- jbarreyro
+title: "Juan Pablo Barreyro"
 bio: ""
 email: ""
 interests:
@@ -21,3 +20,4 @@ superuser: false
 user_groups:
 - Former Contributors
 ---
+
