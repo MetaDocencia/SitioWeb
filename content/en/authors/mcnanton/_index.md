@@ -1,6 +1,5 @@
 ---
-authors:
-- mcnanton
+title: "Maria Cristina Nanton"
 bio: ""
 education: 
  courses:
@@ -44,3 +43,4 @@ In recent years, she has worked as a teacher in multiple undergraduate and gradu
 She currently leads an information and statistics management team at the Ministry of Health of the City of Buenos Aires and is currently pursuing a Master's degree in Data Exploitation and Knowledge Discovery at the Faculty of Exact and Natural Sciences of the University of Buenos Aires (UBA).
 
 Inside the team, Maria has won the Polysemy Award for her remarkable ability to move from one topic to another with great fluency and command of language, thanks to her capacity to understand many topics, details and dimensions.
+
