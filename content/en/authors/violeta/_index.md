@@ -1,6 +1,5 @@
 ---
-authors:
-- violeta
+title: "Violeta Roizman"
 bio: ""
 education:
   courses:
@@ -29,6 +28,7 @@ user_groups:
 - Former Contributors
 
 ---
+
 
 
 
