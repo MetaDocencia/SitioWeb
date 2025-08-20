@@ -1,6 +1,5 @@
 ---
-authors:
-- Conectorial
+title: "Conectorial"
 bio: ""
 email: "ceosciencelab@gmail.com"
 name: Conectorial
@@ -29,3 +28,4 @@ It provides a space where people related to the edition, management, and promoti
 
 
 ***
+
