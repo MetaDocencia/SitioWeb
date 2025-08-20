@@ -1,6 +1,5 @@
 ---
-authors:
-- mboalab
+title: "MboaLab"
 bio: ""
 email: "contact@mboalab.africa"
 name: MboaLab
