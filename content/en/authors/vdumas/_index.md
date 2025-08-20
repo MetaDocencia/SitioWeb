@@ -1,6 +1,5 @@
 ---
-authors:
-- vdumas
+title: "Victoria Gisel Dumas"
 bio: ""
 education: 
  courses:
@@ -48,3 +47,4 @@ Victoria Dumas holds a degree in Bioinformatics from the National University of 
 She worked as a data scientist in private companies in Argentina and Chile. 
 
 She is currently a coordinator in the Data Science Program at the Sadosky Foundation and teaches Visualization and Communication in the Master's Program in Data Science at the Universidad de San Andrés.
+
