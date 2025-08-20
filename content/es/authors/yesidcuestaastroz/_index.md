@@ -1,6 +1,5 @@
 ---
-authors:
-- ycuestaastroz
+title: "Yesid Cuesta Astroz"
 bio: ""
 email: "yesid.cuesta@udea.edu.co"
 interests:
