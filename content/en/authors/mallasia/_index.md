@@ -1,6 +1,5 @@
 ---
-authors:
-- mallasia
+title: "María Belén Allasia"
 bio: ""
 email: ""
 interests:
@@ -32,3 +31,4 @@ superuser: false
 user_groups:
 - Former Contributors
 ---
+
