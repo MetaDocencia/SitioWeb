@@ -1,6 +1,5 @@
 ---
-authors:
-- ols
+title: "OLS"
 bio: ""
 email: "team@openlifesci.org"
 name: OLS
