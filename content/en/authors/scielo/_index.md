@@ -1,6 +1,5 @@
 ---
-authors:
-- scielo
+title: "SciELO"
 bio: ""
 email: ""
 name: SciELO
@@ -24,3 +23,4 @@ user_groups:
 **[SciELO Mexico](https://www.scielo.org.mx/scielo.php)** is a virtual library consisting of a collection of Mexican journals from all areas of knowledge. Since 2004, it has been part of the General Directorate of Libraries and Digital Information Services (DGBSDI) of the National Autonomous University of Mexico (UNAM).
 
 SciELO Mexico is integrated into the SciELO regional network, which consists of various national collections of scientific and academic journals, mainly from Latin America, available in full text and open access.
+
