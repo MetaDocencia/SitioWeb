@@ -1,6 +1,5 @@
 ---
-authors:
-- ols-consultoria
+title: "OLS"
 bio: ""
 email: ""
 name: OLS
