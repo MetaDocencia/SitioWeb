@@ -1,6 +1,5 @@
 ---
-authors:
-- rominapendino
+title: "Romina Pendino"
 bio: ""
 education:
   courses:
