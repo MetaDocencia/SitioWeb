@@ -1,6 +1,5 @@
 ---
-authors:
-- mcnanton
+title: "María Cristina Nanton"
 bio: ""
 education: 
  courses:
