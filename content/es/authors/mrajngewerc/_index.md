@@ -1,6 +1,5 @@
 ---
-authors:
-- mariela
+title: "Mariela Rajngewerc"
 bio: ""
 education:
   courses:
