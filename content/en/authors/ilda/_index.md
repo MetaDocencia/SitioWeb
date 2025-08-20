@@ -1,6 +1,5 @@
 ---
-authors:
-- ilda
+title: "Latin America Open Data Initiative (ILDA)"
 bio: ""
 email: ""
 name: Latin America Open Data Initiative (ILDA)
@@ -22,5 +21,6 @@ user_groups:
 ### About ILDA
 
 **The [Latin American Open Data Initiative (ILDA)](https://idatosabiertos.org/)** promotes inclusive development, public and social innovation, and open knowledge through openness, the use of public data, and the active participation of the communities involved in Latin America.
+
 
 
