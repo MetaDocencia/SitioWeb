@@ -1,6 +1,5 @@
 ---
-authors:
-- ReSA
+title: "ReSA"
 bio: ""
 email: ""
 name: ReSA
@@ -26,3 +25,4 @@ user_groups:
 Founded in 2019, ReSA is a fiscally sponsored project of Code for Science & Society. It is governed by the ReSA Steering Committee and supported by a diverse group of Founding and Organisational Members who demonstrate their commitment to international collaboration and innovation by funding ReSA’s efforts to strengthen the research software community worldwide.
 
 ReSA’s key activities include convening thematic forums for research software funders, infrastructure providers, skills and training, policy, publishing, and metascience. It also leads the Research Software Community Leadership Forum, and serves as the Secretariat for the International Council of RSE Associations and the Amsterdam Declaration on Funding Research Software Sustainability (ADORE.software). Additionally, ReSA develops and maintains key resources such as research software funding databases, policy mappings, and guidance tailored for research software engineers (RSEs).
+
