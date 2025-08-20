@@ -1,6 +1,5 @@
 ---
-authors:
-- forrt
+title: "FORRT"
 bio: ""
 email: ""
 name: FORRT
@@ -24,3 +23,4 @@ user_groups:
 **[FORRT](https://forrt.org/)** is a Framework for Open and Reproducible Research Training which is advancing research transparency, reproducibility, rigor, and ethics through pedagogical reform and meta-scientific research.
 
 FORRT provides a pedagogical infrastructure and open educational resources designed to support the teaching and mentoring of open and reproducible science.
+
