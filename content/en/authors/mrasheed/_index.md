@@ -1,6 +1,5 @@
 ---
-authors:
-- mrasheed
+title: "Muneera A. Rasheed"
 bio: ""
 email: ""
 interests:
@@ -18,3 +17,4 @@ superuser: false
 user_groups:
 - 
 ---
+
