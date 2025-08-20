@@ -1,6 +1,5 @@
 ---
-authors:
-- IOI
+title: "IOI - Invest in Open Infrastructure"
 bio: ""
 email: "info@investinopen.org"
 name: IOI - Invest in Open Infrastructure
@@ -14,4 +13,5 @@ superuser: false
 user_groups:
 - Previous
 ---
+
 
