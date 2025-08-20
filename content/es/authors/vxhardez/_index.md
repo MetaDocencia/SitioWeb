@@ -1,6 +1,5 @@
 ---
-authors:
-- vxhardez
+title: "Verónica Xhardez"
 bio: ""
 email: ""
 interests:
