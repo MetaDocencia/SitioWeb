@@ -1,6 +1,5 @@
 ---
-authors:
-- 2i2c-sponsor
+title: "2i2c"
 bio: ""
 email: ""
 name: 2i2c
@@ -14,3 +13,4 @@ superuser: false
 user_groups:
 - Previous
 ---
+
