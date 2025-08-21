@@ -17,3 +17,95 @@ footer .social-icons a{
 footer .social-icons i{
   font-size: 1.6rem;
 }
+
+/* ===========================
+   Embeds responsivos (global)
+   =========================== */
+
+/* Contenedor fluido con relación de aspecto (por defecto 16:9) */
+.md-embed {
+  position: relative;
+  width: 100%;
+  max-width: 100%;
+  overflow: hidden;
+}
+.md-embed::before {
+  content: "";
+  display: block;
+  padding-top: 56.25%; /* 16:9 por defecto */
+}
+.md-embed > iframe,
+.md-embed > video,
+.md-embed > embed,
+.md-embed > object {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+/* Variante 4:3 (para presentaciones antiguas) */
+.md-embed.is-4x3::before { padding-top: 75%; }
+
+/* Mejora progresiva (navegadores con aspect-ratio) */
+@supports (aspect-ratio: 1 / 1) {
+  .md-embed::before { display: none; padding-top: 0; }
+  .md-embed > iframe,
+  .md-embed > video,
+  .md-embed > embed,
+  .md-embed > object {
+    position: relative;
+    height: auto;
+    aspect-ratio: 16 / 9; /* valor por defecto */
+  }
+  .md-embed.is-4x3 > iframe,
+  .md-embed.is-4x3 > video,
+  .md-embed.is-4x3 > embed,
+  .md-embed.is-4x3 > object { aspect-ratio: 4 / 3; }
+}
+
+/* Ajuste opcional en móviles: evitar iframes exageradamente altos */
+@media (max-width: 640px) {
+  .md-embed > iframe,
+  .md-embed > video,
+  .md-embed > embed,
+  .md-embed > object {
+    max-height: 80vh;
+  }
+}
+
+/* ---------------------------
+   Parche global para iframes
+   ya existentes sin wrapper
+   (no necesitan editar contenido)
+   --------------------------- */
+
+/* Google Slides */
+.article-container iframe[src*="docs.google.com/presentation"],
+.page-body iframe[src*="docs.google.com/presentation"] {
+  width: 100% !important;
+  height: auto !important;
+  aspect-ratio: 16 / 9;
+  border: 0;
+}
+
+/* YouTube y Vimeo (por si los usan) */
+.article-container iframe[src*="youtube.com/embed"],
+.page-body iframe[src*="youtube.com/embed"],
+.article-container iframe[src*="player.vimeo.com/video"],
+.page-body iframe[src*="player.vimeo.com/video"] {
+  width: 100% !important;
+  height: auto !important;
+  aspect-ratio: 16 / 9;
+  border: 0;
+}
+
+/* Google Maps */
+.article-container iframe[src*="google.com/maps"],
+.page-body iframe[src*="google.com/maps"] {
+  width: 100% !important;
+  height: auto !important;
+  aspect-ratio: 4 / 3;
+  border: 0;
+}
