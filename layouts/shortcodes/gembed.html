@@ -6,13 +6,13 @@
 {{- $referrer := .Get "referrerpolicy" | default "" -}}
 {{- $width := .Get "width" | default "full" -}}  {{/* full | bleed */}}
 
-{{/* relación de aspecto */}}
+{{/* Relación de aspecto */}}
 {{- $ratioClass := "" -}}
 {{- if eq $ratio "4:3" -}}
   {{- $ratioClass = " is-4x3" -}}
 {{- end -}}
 
-{{/* ancho */}}
+{{/* Ancho */}}
 {{- $widthClass := "" -}}
 {{- if eq $width "bleed" -}}
   {{- $widthClass = " is-bleed" -}}
@@ -20,7 +20,7 @@
 
 <div class="md-embed{{ $ratioClass }}{{ $widthClass }}">
   <iframe
-    src="{{ $src }}"
+    src="{{ $src | safeURL }}"
     title="{{ $title }}"
     loading="{{ $lazy }}"
     {{- if $allow }} allow="{{ $allow }}"{{ end -}}
