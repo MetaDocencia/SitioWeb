@@ -205,6 +205,12 @@ map:
   api_key: ""
   zoom: 15
 
+# lupa / buscador
+header:
+  navbar:
+    enable: true
+    show_search: true
+
 # Marketing / Analytics
 marketing:
   google_analytics: ""      # PONÉ ACA el ID GA4: "G-XXXX..." (UA ya no funciona)
