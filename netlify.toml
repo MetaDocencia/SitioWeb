@@ -1,14 +1,35 @@
-# 1) Configuración general de build
+# ==============================
+# Netlify build config (MD)
+# ==============================
+
 [build]
-  command = "hugo --gc --minify --baseURL ${DEPLOY_PRIME_URL}/ && npx pagefind --source 'public'"
   publish = "public"
+  # En producción usa $URL; en previews usa ${DEPLOY_PRIME_URL} (ver contexts abajo)
+  command = "hugo --gc --minify -b $URL && npx -y pagefind --site 'public'"
 
-# 2) Variables para producción (no cambian)
-[context.production.environment]
+[build.environment]
+  # Usar la misma versión moderna de Hugo en todos los contextos
   HUGO_ENV     = "production"
-  HUGO_VERSION = "0.57.2"
-
-# 3) Variables para Deploy Previews
-[context.deploy-preview.environment]
-  HUGO_ENV     = "production"     # ¡IMPORTANTE!
   HUGO_VERSION = "0.125.0"
+  # Pagefind requiere Node moderno (evita "Unexpected token ?")
+  NODE_VERSION = "20"
+
+# ---------- Deploy Preview (PRs) ----------
+[context.deploy-preview]
+  command = "hugo --gc --minify --baseURL ${DEPLOY_PRIME_URL}/ && npx -y pagefind --site 'public'"
+
+[context.deploy-preview.environment]
+  HUGO_ENV     = "production"
+  HUGO_VERSION = "0.125.0"
+  NODE_VERSION = "20"
+
+# ---------- Branch Deploys (opcionales) ----------
+[context.branch-deploy]
+  command = "hugo --gc --minify --baseURL ${DEPLOY_PRIME_URL}/ && npx -y pagefind --site 'public'"
+
+[context.branch-deploy.environment]
+  HUGO_ENV     = "production"
+  HUGO_VERSION = "0.125.0"
+  NODE_VERSION = "20"
+
+
