@@ -26,14 +26,31 @@ cascade:
     profile: true
     share: false
 
-# Páginas informativas (no posts)
 cascade:
-  - _target: { path: /page/**, kind: page }
+  # 0) DEFAULT GLOBAL: todas las páginas de content/**
+  - target:
+      kind: page
+      path: "/**"
     profile: false
     share: false
-  - _target: { path: /es/page/**, kind: page }
-    profile: false
+
+  # 1) Excepciones: posts/blog (mantener tarjeta de autor), ES y EN
+  - target: { kind: page, path: "/post/**" }
+    profile: true
     share: false
-  - _target: { path: /en/page/**, kind: page }
-    profile: false
+  - target: { kind: page, path: "/blog/**" }
+    profile: true
     share: false
+  - target: { kind: page, path: "/es/post/**" }
+    profile: true
+    share: false
+  - target: { kind: page, path: "/es/blog/**" }
+    profile: true
+    share: false
+  - target: { kind: page, path: "/en/post/**" }
+    profile: true
+    share: false
+  - target: { kind: page, path: "/en/blog/**" }
+    profile: true
+    share: false
+
