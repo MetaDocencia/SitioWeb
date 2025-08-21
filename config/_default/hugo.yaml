@@ -1,13 +1,27 @@
 # config/_default/hugo.yaml
 cascade:
-  # Posts en content/post/**
-  - _target:
-      path: /post/**
-      kind: page
+  # Posts - idioma por defecto en raíz (sin subcarpeta)
+  - _target: { path: /post/**, kind: page }
     profile: true
+    share: false
 
-  # (Opcional) si usan content/blog/** en lugar de post/**
-  - _target:
-      path: /blog/**
-      kind: page
+  # Blog - idioma por defecto en raíz
+  - _target: { path: /blog/**, kind: page }
     profile: true
+    share: false
+
+  # Español
+  - _target: { path: /es/post/**, kind: page }
+    profile: true
+    share: false
+  - _target: { path: /es/blog/**, kind: page }
+    profile: true
+    share: false
+
+  # Inglés (si usan subcarpeta /en/)
+  - _target: { path: /en/post/**, kind: page }
+    profile: true
+    share: false
+  - _target: { path: /en/blog/**, kind: page }
+    profile: true
+    share: false
