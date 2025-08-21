@@ -25,3 +25,15 @@ cascade:
   - _target: { path: /en/blog/**, kind: page }
     profile: true
     share: false
+
+# Páginas informativas (no posts)
+cascade:
+  - _target: { path: /page/**, kind: page }
+    profile: false
+    share: false
+  - _target: { path: /es/page/**, kind: page }
+    profile: false
+    share: false
+  - _target: { path: /en/page/**, kind: page }
+    profile: false
+    share: false
