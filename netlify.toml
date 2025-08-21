@@ -4,14 +4,21 @@
 
 [build]
   publish = "public"
-  # En producción usa $URL; en previews usa ${DEPLOY_PRIME_URL} (ver contexts abajo)
+  # Fallback (se usa si NO hay bloque context.* que lo reemplace)
   command = "hugo --gc --minify -b $URL && npx -y pagefind --site 'public'"
 
 [build.environment]
-  # Usar la misma versión moderna de Hugo en todos los contextos
   HUGO_ENV     = "production"
   HUGO_VERSION = "0.125.0"
-  # Pagefind requiere Node moderno (evita "Unexpected token ?")
+  NODE_VERSION = "20"
+
+# ---------- Producción (explícito) ----------
+[context.production]
+  command = "hugo --gc --minify -b $URL && npx -y pagefind --site 'public'"
+
+[context.production.environment]
+  HUGO_ENV     = "production"
+  HUGO_VERSION = "0.125.0"
   NODE_VERSION = "20"
 
 # ---------- Deploy Preview (PRs) ----------
@@ -31,5 +38,3 @@
   HUGO_ENV     = "production"
   HUGO_VERSION = "0.125.0"
   NODE_VERSION = "20"
-
-
