@@ -1,0 +1,23 @@
+{{- $src := .Get "src" -}}
+{{- $title := .Get "title" | default "Google Slides" -}}
+{{- $ratio := .Get "ratio" | default "16:9" -}}
+{{- $width := .Get "width" | default "full" -}}  {{/* full | bleed */}}
+
+{{- $ratioClass := "" -}}
+{{- if eq $ratio "4:3" -}}
+  {{- $ratioClass = " is-4x3" -}}
+{{- end -}}
+
+{{- $widthClass := "" -}}
+{{- if eq $width "bleed" -}}
+  {{- $widthClass = " is-bleed" -}}
+{{- end -}}
+
+<div class="md-embed{{ $ratioClass }}{{ $widthClass }}">
+  <iframe
+    src="{{ $src | safeURL }}"
+    title="{{ $title }}"
+    loading="lazy"
+    allowfullscreen>
+  </iframe>
+</div>
