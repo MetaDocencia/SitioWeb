@@ -1,6 +1,6 @@
 # 1) Configuración general de build
 [build]
-  command = "hugo --gc --minify --baseURL ${DEPLOY_PRIME_URL}/"
+  command = "hugo --gc --minify --baseURL ${DEPLOY_PRIME_URL}/ && npx pagefind --source 'public'"
   publish = "public"
 
 # 2) Variables para producción (no cambian)
