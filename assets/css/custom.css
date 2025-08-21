@@ -8,12 +8,10 @@ footer .social-icons{
   width: 100%;
   margin: 0 auto;
 }
-
 footer .social-icons a{
   display: inline-flex;
   text-decoration: none;
 }
-
 footer .social-icons i{
   font-size: 1.6rem;
 }
@@ -22,17 +20,19 @@ footer .social-icons i{
    Embeds responsivos (global)
    =========================== */
 
-/* Contenedor fluido con relación de aspecto (por defecto 16:9) */
+/* Contenedor fluido con relación de aspecto (16:9 por defecto) */
 .md-embed {
   position: relative;
+  display: block;
   width: 100%;
   max-width: 100%;
+  margin: 1rem 0;
   overflow: hidden;
 }
 .md-embed::before {
   content: "";
   display: block;
-  padding-top: 56.25%; /* 16:9 por defecto */
+  padding-top: 56.25%; /* 16:9 */
 }
 .md-embed > iframe,
 .md-embed > video,
@@ -45,10 +45,17 @@ footer .social-icons i{
   border: 0;
 }
 
-/* Variante 4:3 (para presentaciones antiguas) */
+/* Otras relaciones */
 .md-embed.is-4x3::before { padding-top: 75%; }
 
-/* Mejora progresiva (navegadores con aspect-ratio) */
+/* Modo full-bleed (ocupa el ancho del viewport) */
+.md-embed.is-bleed {
+  margin-left: calc(50% - 50vw);
+  margin-right: calc(50% - 50vw);
+  width: 100vw;
+}
+
+/* Mejora progresiva cuando hay soporte para aspect-ratio */
 @supports (aspect-ratio: 1 / 1) {
   .md-embed::before { display: none; padding-top: 0; }
   .md-embed > iframe,
@@ -57,7 +64,7 @@ footer .social-icons i{
   .md-embed > object {
     position: relative;
     height: auto;
-    aspect-ratio: 16 / 9; /* valor por defecto */
+    aspect-ratio: 16 / 9;
   }
   .md-embed.is-4x3 > iframe,
   .md-embed.is-4x3 > video,
@@ -65,7 +72,7 @@ footer .social-icons i{
   .md-embed.is-4x3 > object { aspect-ratio: 4 / 3; }
 }
 
-/* Ajuste opcional en móviles: evitar iframes exageradamente altos */
+/* En móviles, evitamos alturas excesivas */
 @media (max-width: 640px) {
   .md-embed > iframe,
   .md-embed > video,
@@ -76,9 +83,8 @@ footer .social-icons i{
 }
 
 /* ---------------------------
-   Parche global para iframes
-   ya existentes sin wrapper
-   (no necesitan editar contenido)
+   Parche global para iframes ya existentes
+   (sin wrapper): rellenan la columna
    --------------------------- */
 
 /* Google Slides */
@@ -87,25 +93,5 @@ footer .social-icons i{
   width: 100% !important;
   height: auto !important;
   aspect-ratio: 16 / 9;
-  border: 0;
-}
-
-/* YouTube y Vimeo (por si los usan) */
-.article-container iframe[src*="youtube.com/embed"],
-.page-body iframe[src*="youtube.com/embed"],
-.article-container iframe[src*="player.vimeo.com/video"],
-.page-body iframe[src*="player.vimeo.com/video"] {
-  width: 100% !important;
-  height: auto !important;
-  aspect-ratio: 16 / 9;
-  border: 0;
-}
-
-/* Google Maps */
-.article-container iframe[src*="google.com/maps"],
-.page-body iframe[src*="google.com/maps"] {
-  width: 100% !important;
-  height: auto !important;
-  aspect-ratio: 4 / 3;
   border: 0;
 }
