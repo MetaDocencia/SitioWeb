@@ -1,6 +1,5 @@
 ---
-authors:
-- jzetter
+title: "Julio Zetter Patiño"
 bio: ""
 email: ""
 interests:
@@ -24,3 +23,4 @@ superuser: false
 user_groups:
 - Contributors
 ---
+

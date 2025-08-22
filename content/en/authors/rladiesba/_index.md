@@ -1,6 +1,5 @@
 ---
-authors:
-- RLadiesBA
+title: "RLadies Buenos Aires"
 bio: ""
 email: ""
 name: RLadies Buenos Aires
@@ -31,3 +30,4 @@ The goal is to promote their use, exchange knowledge, and create a network of co
 
 
 ***
+

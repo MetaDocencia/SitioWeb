@@ -1,6 +1,5 @@
 ---
-authors:
-- paocorrales
+title: "Paola Corrales"
 bio: ""
 education:
   courses:

@@ -1,0 +1,49 @@
+{{- $id := .Get "id" -}}
+{{- $thanks := .Get "thanks" | default "" -}}
+{{- $lang := .Get "lang" | default "es" -}}
+
+<div class="md-contact">
+  <form class="md-contact__form"
+        action="https://formspree.io/f/{{ $id }}{{ if $thanks }}?redirect={{ $thanks }}{{ end }}"
+        method="POST" accept-charset="UTF-8" novalidate>
+    <input type="hidden" name="_subject" value="Nuevo mensaje desde metadocencia.org">
+    <input type="text" name="website" tabindex="-1" autocomplete="off" class="md-honeypot" aria-hidden="true">
+
+    <div class="md-field">
+      <label for="cf-name">{{ if eq $lang "en" }}Name{{ else }}Nombre{{ end }}</label>
+      <input id="cf-name" name="name" type="text" required>
+    </div>
+
+    <div class="md-field">
+      <label for="cf-email">Email</label>
+      <input id="cf-email" name="email" type="email" required>
+    </div>
+
+    <div class="md-field">
+      <label for="cf-message">{{ if eq $lang "en" }}Message{{ else }}Mensaje{{ end }}</label>
+      <textarea id="cf-message" name="message" rows="6" required></textarea>
+    </div>
+
+    <button type="submit" class="md-btn">
+      {{ if eq $lang "en" }}Send{{ else }}Enviar{{ end }}
+    </button>
+
+  <!--  <p class="md-note">
+      {{ if eq $lang "en" -}}
+      By submitting you accept that we’ll contact you about your message.
+      {{- else -}}
+      Al enviar aceptás que te contactemos respecto de tu mensaje.
+      {{- end }}
+    </p> -->
+  </form>
+
+  <noscript>
+    <p>
+      {{ if eq $lang "en" -}}
+      This form needs JavaScript to show the success page inline.
+      {{- else -}}
+      Este formulario usa JavaScript para mostrar la confirmación en la página.
+      {{- end }}
+    </p>
+  </noscript>
+</div>

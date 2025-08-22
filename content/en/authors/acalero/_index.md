@@ -1,6 +1,5 @@
 ---
-authors:
-- acalero
+title: "Alejandra Daniela Calero"
 bio: ""
 email: ""
 interests:
@@ -24,3 +23,4 @@ superuser: false
 user_groups:
 - Contributors
 ---
+

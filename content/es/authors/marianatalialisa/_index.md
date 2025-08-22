@@ -1,6 +1,5 @@
 ---
-authors:
-- mlisa
+title: "María Natalia Lisa"
 bio: ""
 email: "manatalial@gmail.com"
 interests:

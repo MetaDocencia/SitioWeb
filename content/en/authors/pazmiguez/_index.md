@@ -1,6 +1,5 @@
 ---
-authors:
-- pazmiguez
+title: "Paz Míguez"
 bio: ""
 education:
   courses:
@@ -45,3 +44,4 @@ Paz holds a Bachelor's degree in Political Science, a Master's degree in Educati
 In addition to her teaching and research work, Paz is an active member of Fundación Éforo, a civil society organization committed to public oversight, transparency and citizen participation. Her advice to national deputies, civil servants and union leaders has left a significant mark in key areas such as education, gender equality and employment. She also contributes regularly to various media and journalistic portals.
 
 Inside the team, Paz has won the Planificatona Award for being precise, dedicated, proactive and attentive, a true master of strategic planning.
+

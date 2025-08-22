@@ -73,6 +73,6 @@ subtitle = ""
 
 <p style="font-size: 15px"> Browse our blog post tags: 
 <ul style="font-size: 15px">
-    <a href={{< list_categories >}}
+    <a href="{{< list_categories >}}">View categories</a>
 </ul>
 </p>

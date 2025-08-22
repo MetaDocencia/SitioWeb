@@ -1,6 +1,5 @@
 ---
-authors:
-- fpalm
+title: "Francisco Javier Palm Rojas"
 bio: ""
 email: "fpalm@qu4nt.com"
 interests:
@@ -31,3 +30,4 @@ superuser: false
 user_groups:
 - Contributors
 ---
+

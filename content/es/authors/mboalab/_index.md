@@ -1,6 +1,5 @@
 ---
-authors:
-- mboalab
+title: "MboaLab"
 bio: ""
 email: "contact@mboalab.africa"
 name: MboaLab
@@ -17,7 +16,7 @@ user_groups:
 
 ### Conócela en este video
 
-{{< youtube akpvkRyecTE >}} 
+{{< youtube id="akpvkRyecTE" >}} 
 
 ### Sobre MboaLab
 

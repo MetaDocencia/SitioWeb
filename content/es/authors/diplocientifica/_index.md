@@ -1,6 +1,5 @@
 ---
-authors:
-- diplocientifica
+title: "DiploCientifica"
 bio: ""
 email: ""
 name: DiploCientifica

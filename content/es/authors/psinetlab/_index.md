@@ -1,6 +1,5 @@
 ---
-authors:
-- PsiNet LAB
+title: "PsiNet LAB"
 bio: ""
 email: ""
 name: PsiNet LAB

@@ -1,6 +1,5 @@
 ---
-authors:
-- selgebali
+title: "Sara El-Gebali"
 bio: ""
 email: ""
 interests:
@@ -18,3 +17,4 @@ superuser: false
 user_groups:
 - 
 ---
+

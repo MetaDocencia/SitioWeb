@@ -1,6 +1,5 @@
 ---
-authors:
-- vruiz
+title: "Vanesa Ruiz"
 bio: ""
 email: ""
 interests:
@@ -27,3 +26,4 @@ superuser: false
 user_groups:
 - Contributors
 ---
+

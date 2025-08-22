@@ -1,6 +1,5 @@
 ---
-authors:
-- priscilla
+title: "Priscilla Minotti"
 bio: ""
 education:
   courses:

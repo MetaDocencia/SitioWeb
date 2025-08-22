@@ -1,6 +1,5 @@
 ---
-authors:
-- rmosbergen
+title: "Rowland Mosbergen"
 bio: ""
 email: ""
 interests:
@@ -18,3 +17,4 @@ superuser: false
 user_groups:
 - 
 ---
+

@@ -1,6 +1,5 @@
 ---
-authors:
-- pstrobl-mazzulla
+title: "Pablo Hernán Strobl-Mazzulla"
 bio: ""
 email: "strobl@intech.gov.ar"
 interests:
@@ -30,4 +29,5 @@ social:
 superuser: false
 user_groups:
 - Contributors
+
 ---

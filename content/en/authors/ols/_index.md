@@ -1,6 +1,5 @@
 ---
-authors:
-- ols
+title: "OLS"
 bio: ""
 email: "team@openlifesci.org"
 name: OLS
@@ -29,3 +28,4 @@ OLS Cohorts Participants join the training program with a project they are alrea
 
 
 ***
+

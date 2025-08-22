@@ -1,6 +1,5 @@
 ---
-authors:
-- Conectorial
+title: "Conectorial"
 bio: ""
 email: "ceosciencelab@gmail.com"
 name: Conectorial

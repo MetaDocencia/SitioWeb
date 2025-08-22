@@ -1,6 +1,5 @@
 ---
-authors:
-- dburin
+title: "Débora I. Burin"
 bio: ""
 education: ""
 email: ""
@@ -22,3 +21,4 @@ superuser: false
 user_groups:
 - Contributors
 ---
+

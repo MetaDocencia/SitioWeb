@@ -1,6 +1,5 @@
 ---
-authors:
-  - alebellini
+title: "Alejandra Bellini"
 role:
 bio: ""
 education:

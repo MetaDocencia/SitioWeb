@@ -1,6 +1,5 @@
 ---
-authors:
-- jlvillca
+title: "José Luis Villca Villegas"
 bio: ""
 education: 
  courses:
@@ -48,3 +47,4 @@ José Luis is a Bolivian physician and scientist. Commited to advancing and diss
 In a professional network that encompasses both research and editing in scientific publications, José Luis has participated in several open science projects and he has been a pillar in the management of funds for relevant research. He also has been an integral part of the organization of scientific events in Bolivia, facilitating spaces for learning, discussion, and collaboration between professionals and enthusiasts in the sector. His proficiency in data manipulation and handling diverse technological tools and languages has broadened the spectrum of his contribution to the medical and scientific fields. 
 
 Inside the team, José Luis has won the Rising Star Award for his exceptional commitment to learning and contributing and for his thoughtful approach that brings knowledge to MetaDocente's work.
+

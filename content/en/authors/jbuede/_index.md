@@ -1,6 +1,5 @@
 ---
-authors:
-- jbuede
+title: "Julián Buede"
 bio: ""
 education:
   courses:
@@ -41,3 +40,4 @@ Julian's (aka Niño) experience is focused on strategic planning for social medi
 Currently, Julian is dedicated to explore new possibilities and formats for educational audiovisual content, especially in the area of tutorials and asynchronous classes, with the goal of exploring creative ways of presenting information. 
 
 Inside the team, Niño has won the Rayo Award because he unifies, embellishes and cohesively unifies our productions, bringing harmony to everything we do.
+

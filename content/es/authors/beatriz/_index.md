@@ -1,6 +1,5 @@
 ---
-authors:
-- beatriz
+title: "Beatriz Milz"
 bio: ""
 education:
  courses:

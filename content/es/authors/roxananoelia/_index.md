@@ -1,6 +1,5 @@
 ---
-authors:
-- roxananoelia
+title: "Roxana Noelia Villafañe"
 bio: ""
 education:
   courses:

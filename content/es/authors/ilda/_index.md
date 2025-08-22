@@ -1,6 +1,5 @@
 ---
-authors:
-- ilda
+title: "Iniciativa Latinoamericana por los Datos abiertos ILDA"
 bio: ""
 email: ""
 name: Iniciativa Latinoamericana por los Datos abiertos ILDA

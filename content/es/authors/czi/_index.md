@@ -1,6 +1,5 @@
 ---
-authors:
-- czi
+title: "CZI Ciencia Abierta"
 bio: ""
 email: ""
 name: CZI Ciencia Abierta

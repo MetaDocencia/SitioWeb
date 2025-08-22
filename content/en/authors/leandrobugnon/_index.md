@@ -1,6 +1,5 @@
 ---
-authors:
-- lbugnon
+title: "Leandro Bugnon"
 bio: ""
 email: "lbugnon@sinc.unl.edu.ar"
 interests:
@@ -27,4 +26,5 @@ social:
 superuser: false
 user_groups:
 - Contributors
+
 ---

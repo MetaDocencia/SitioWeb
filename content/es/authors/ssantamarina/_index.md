@@ -1,6 +1,5 @@
 ---
-authors:
-- ssantamarina
+title: "Sergio Santamarina"
 bio: ""
 email: ""
 interests:

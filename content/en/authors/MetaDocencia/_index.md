@@ -1,6 +1,5 @@
 ---
-authors:
-- MetaDocencia
+title: "MetaDocencia"
 bio: 
 email: ""
 name: 
@@ -69,4 +68,5 @@ To act responsibly and according to individual, collective, or regional criteria
 
 #### Versatility
 To adapt our actions to the different situations that may arise.
+
 

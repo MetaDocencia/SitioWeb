@@ -73,6 +73,6 @@ subtitle = ""
 
 <p style="font-size: 15px"> Navega por las categorías de nuestras publicaciones: 
 <ul style="font-size: 15px">
-    <a href={{< list_categories >}}
+    <a href="{{< list_categories >}}">Ver categorías</a>
 </ul>
 </p>

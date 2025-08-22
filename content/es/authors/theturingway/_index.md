@@ -1,6 +1,5 @@
 ---
-authors:
-- theturingway
+title: "The Turing Way"
 bio: ""
 email: ""
 name: The Turing Way

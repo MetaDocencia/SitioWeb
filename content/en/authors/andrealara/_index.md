@@ -1,6 +1,5 @@
 ---
-authors:
-- alara
+title: "Andrea Lara"
 bio: ""
 email: "andrealh@galileo.edu"
 interests:
@@ -27,4 +26,5 @@ social:
 superuser: false
 user_groups:
 - Contributors
+
 ---

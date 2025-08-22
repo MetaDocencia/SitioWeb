@@ -1,6 +1,5 @@
 ---
-authors:
-- vruiz
+title: "Vanesa Ruiz"
 bio: ""
 email: ""
 interests:

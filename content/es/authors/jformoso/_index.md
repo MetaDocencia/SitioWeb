@@ -1,6 +1,5 @@
 ---
-authors:
-- jformoso
+title: "Jesica Formoso"
 bio: ""
 education:
   courses:

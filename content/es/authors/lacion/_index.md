@@ -1,6 +1,5 @@
 ---
-authors:
-- lacion
+title: "Laura Ación"
 bio: ""
 education:
   courses:

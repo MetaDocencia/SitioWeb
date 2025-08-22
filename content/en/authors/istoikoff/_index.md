@@ -1,6 +1,5 @@
 ---
-authors:
-- istoikoff
+title: "Iván Stoikoff"
 bio: ""
 email: ""
 interests:
@@ -25,3 +24,4 @@ superuser: false
 user_groups:
 - Contributors
 ---
+

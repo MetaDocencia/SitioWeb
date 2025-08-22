@@ -1,6 +1,5 @@
 ---
-authors:
-- laconga
+title: "LA-CoNGA physics"
 bio: ""
 email: ""
 name: LA-CoNGA physics

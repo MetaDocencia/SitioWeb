@@ -1,6 +1,5 @@
 ---
-authors:
-- OLS-sponsor
+title: "OLS"
 bio: ""
 email: ""
 name: OLS
@@ -14,3 +13,4 @@ superuser: false
 user_groups:
 - Current
 ---
+

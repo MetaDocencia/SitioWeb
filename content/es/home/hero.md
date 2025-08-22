@@ -9,7 +9,7 @@ weight = 5  # Order that this section will appear.
 
 title = "5to Aniversario"
 
-# Hero image (optional). Enter filename of an image in the `static/img/` folder.
+# Hero image (optional). Este archivo vive en assets/media.
 hero_media = "MD_original.png"
 
 [design.background]

@@ -1,6 +1,5 @@
 ---
-authors:
-- dieonna  
+title: "Diego Onna"  
 bio: ""
 email: "diego.onna@gmail.com"  
 interests:
@@ -36,3 +35,4 @@ user_groups:
 - Colaboraron con MetaDocencia
 
 ---
+

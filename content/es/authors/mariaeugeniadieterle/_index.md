@@ -1,6 +1,5 @@
 ---
-authors:
-- mdieterle
+title: "María Eugenia Dieterle"
 bio: ""
 email: "eugenia.dieterle@gmail.com"
 interests:

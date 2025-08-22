@@ -1,6 +1,5 @@
 ---
-authors:
-- jbarreyro
+title: "Juan Pablo Barreyro"
 bio: ""
 email: ""
 interests:

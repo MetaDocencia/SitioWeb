@@ -1,6 +1,5 @@
 ---
-authors:
-- pvazquez
+title: "Pablo Vázquez"
 bio: ""
 email: ""
 interests:

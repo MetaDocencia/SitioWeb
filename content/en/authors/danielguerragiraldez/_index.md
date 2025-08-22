@@ -1,6 +1,5 @@
 ---
-authors:
-- dguerragiraldez
+title: "Daniel Guerra Giraldez"
 bio: ""
 email: "daniel.guerra@upch.pe"
 interests:
@@ -25,4 +24,5 @@ social:
 superuser: false
 user_groups:
 - Contributors
+
 ---

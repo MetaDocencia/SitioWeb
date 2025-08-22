@@ -1,6 +1,5 @@
 ---
-authors:
-- priscilla
+title: "Priscilla Minotti"
 bio: ""
 education:
   courses:
@@ -36,4 +35,5 @@ user_groups:
 - Former Contributors
 
 ---
+
 

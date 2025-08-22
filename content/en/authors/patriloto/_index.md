@@ -1,6 +1,5 @@
 ---
-authors:
-- patriloto
+title: "Patricia Andrea Loto"
 bio: ""
 education:
   courses:
@@ -52,3 +51,4 @@ Her passion for learning and collaborating in various fields has led her to be a
 Her credentials include a certification as an Instructor by The Carpentries and as a tidyverse Instructor by Rstudio, reflecting Patricia's commitment to education and empowerment through technology. In addition, I am an active member in communities such as R-Ladies, the Carpentries, Latin-R and The Turing Way, where I contribute to and benefit from community learning.
 
 Inside the team, she has won the Rocket Award because she is not afraid of challenges thanks to her power and dedication to the projects in which she represents us.
+

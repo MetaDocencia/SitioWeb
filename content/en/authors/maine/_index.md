@@ -1,6 +1,5 @@
 ---
-authors:
-- maine
+title: "María Inés Fariello"
 bio: ""
 education:
   courses:
@@ -48,4 +47,5 @@ Maine is an adjunct professor at the Institute of Mathematics and Statistics "Pr
 She was also one of the driving forces behind the creation of the Master's in Data Science and Machine Learning at the Faculty of Engineering. Her research is based on the analysis of genomic data, attempting to apply new methodologies to extract more and better information. She has a vocation to bring researchers and students from areas such as mathematics or engineering to analyze genomic data and learn a bit about genetics.
 
 Thanks to organizations like RLadies, she understood the importance of establishing female role models, so a large part of her time is spent on activities that try to show girls and adolescents that science is a possible path for them. During the pandemic, she spearheaded an interdisciplinary data analysis group (GUIAD-COVID19) with other researchers and was a member of the Honorary Scientific Advisory Group (GACH) of the Uruguayan government. Since then, it is not uncommon to come across her on the radio or television talking about science, both about her daily work and also about the biases, dangers, and opportunities of Artificial Intelligence.
+
 

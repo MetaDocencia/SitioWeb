@@ -1,6 +1,5 @@
 ---
-authors:
-- projassaunero
+title: "Paloma Rojas Saunero"
 bio: ""
 email: ""
 interests:
@@ -18,3 +17,4 @@ superuser: false
 user_groups:
 - 
 ---
+

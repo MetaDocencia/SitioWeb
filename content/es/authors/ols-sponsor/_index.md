@@ -1,6 +1,5 @@
 ---
-authors:
-- OLS-sponsor
+title: "OLS"
 bio: ""
 email: ""
 name: OLS

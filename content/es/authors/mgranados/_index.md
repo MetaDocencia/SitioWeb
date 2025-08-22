@@ -1,6 +1,5 @@
 ---
-authors:
-- mgranados
+title: "Mónica Granados"
 bio: ""
 email: "monica@prereview.org"
 interests:

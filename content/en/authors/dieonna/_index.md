@@ -1,6 +1,5 @@
 ---
-authors:
-- dieonna
+title: "Diego Onna"
 bio: ""
 email: "diego.onna@gmail.com"
 interests:
@@ -35,3 +34,4 @@ social:
 user_groups:
 - Former Contributors
 ---
+

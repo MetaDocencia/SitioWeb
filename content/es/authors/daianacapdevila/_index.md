@@ -1,6 +1,5 @@
 ---
-authors:
-- daianacapdevila
+title: "Daiana Capdevila"
 bio: ""
 email: "daianacapdevila@gmail.com"
 interests:

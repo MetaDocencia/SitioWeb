@@ -1,6 +1,5 @@
 ---
-authors:
-- gochoa-ruiz
+title: "Gilberto Ochoa-Ruiz"
 bio: ""
 email: "gilberto.ochoa@tec.mx"
 interests:

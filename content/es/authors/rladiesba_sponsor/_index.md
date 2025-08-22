@@ -1,6 +1,5 @@
 ---
-authors:
-- RLadiesBA
+title: "R-Ladies Buenos Aires"
 bio: ""
 email: ""
 name: R-Ladies Buenos Aires

@@ -1,6 +1,5 @@
 ---
-authors:
-- PREreview
+title: "PREreview"
 bio: ""
 email: "contact@prereview.org"
 name: PREreview

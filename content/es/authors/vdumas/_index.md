@@ -1,6 +1,5 @@
 ---
-authors:
-- vdumas
+title: "Victoria Gisel Dumas"
 bio: ""
 education: 
  courses:

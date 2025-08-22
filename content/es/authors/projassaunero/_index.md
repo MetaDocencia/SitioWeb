@@ -1,6 +1,5 @@
 ---
-authors:
-- projassaunero
+title: "Paloma Rojas Saunero"
 bio: ""
 email: ""
 interests:

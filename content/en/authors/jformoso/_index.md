@@ -1,6 +1,5 @@
 ---
-authors:
-- jformoso
+title: "Jesica Formoso"
 bio: ""
 education:
   courses:
@@ -47,3 +46,4 @@ As a community organizer at R-Ladies, Jesica promotes diversity and participatio
 Her certification as an instructor reflects her commitment to education and dissemination of data science skills.
 
 Inside the team, Jesi has won the Generosity Award for sharing her meticulous approach, her strong analytical skills, her joy and the unique dimension she brings from her psi perspective.
+

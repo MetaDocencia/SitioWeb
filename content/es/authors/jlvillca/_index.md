@@ -1,6 +1,5 @@
 ---
-authors:
-- jlvillca
+title: "José Luis Villca Villegas"
 bio: ""
 education: 
  courses:

@@ -1,6 +1,5 @@
 ---
-authors:
-- paolefer
+title: "Paola Andrea Lefer"
 bio: ""
 education:
   courses:

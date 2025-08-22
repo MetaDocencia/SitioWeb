@@ -1,6 +1,5 @@
 ---
-authors:
-- zbazurto
+title: "Zulemma Bazurto Blacio"
 bio: ""
 email: ""
 interests:
@@ -33,3 +32,4 @@ superuser: false
 user_groups:
 - Contributors
 ---
+

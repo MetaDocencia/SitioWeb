@@ -1,6 +1,5 @@
 ---
-authors:
-- eguerrerohaughton
+title: "Erika Guerrero Haughton"
 bio: ""
 email: "eguerrero@gorgas.gob.pa"
 interests:

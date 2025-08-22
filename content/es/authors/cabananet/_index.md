@@ -1,6 +1,5 @@
 ---
-authors:
-- CABANANet
+title: "CABANANet"
 bio: ""
 email: ""
 name: CABANAnet

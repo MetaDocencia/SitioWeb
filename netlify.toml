@@ -1,4 +1,40 @@
+# ==============================
+# Netlify build config (MD)
+# ==============================
+
+[build]
+  publish = "public"
+  # Fallback (se usa si NO hay bloque context.* que lo reemplace)
+  command = "hugo --gc --minify -b $URL && npx -y pagefind --site 'public'"
+
+[build.environment]
+  HUGO_ENV     = "production"
+  HUGO_VERSION = "0.125.0"
+  NODE_VERSION = "20"
+
+# ---------- Producción (explícito) ----------
+[context.production]
+  command = "hugo --gc --minify -b $URL && npx -y pagefind --site 'public'"
+
 [context.production.environment]
-HUGO_VERSION = "0.64.0"
+  HUGO_ENV     = "production"
+  HUGO_VERSION = "0.125.0"
+  NODE_VERSION = "20"
+
+# ---------- Deploy Preview (PRs) ----------
+[context.deploy-preview]
+  command = "hugo --gc --minify --baseURL ${DEPLOY_PRIME_URL}/ && npx -y pagefind --site 'public'"
+
 [context.deploy-preview.environment]
-HUGO_VERSION = "0.64.0"
+  HUGO_ENV     = "production"
+  HUGO_VERSION = "0.125.0"
+  NODE_VERSION = "20"
+
+# ---------- Branch Deploys (opcionales) ----------
+[context.branch-deploy]
+  command = "hugo --gc --minify --baseURL ${DEPLOY_PRIME_URL}/ && npx -y pagefind --site 'public'"
+
+[context.branch-deploy.environment]
+  HUGO_ENV     = "production"
+  HUGO_VERSION = "0.125.0"
+  NODE_VERSION = "20"

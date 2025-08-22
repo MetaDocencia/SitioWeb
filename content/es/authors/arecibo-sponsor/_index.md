@@ -1,6 +1,5 @@
 ---
-authors:
-- AreciboC3
+title: "AreciboC3"
 bio: ""
 email: ""
 name: AreciboC3

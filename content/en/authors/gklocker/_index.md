@@ -1,6 +1,5 @@
 ---
-authors:
-- gklocker
+title: "Gastón Klocker"
 bio: ""
 email: ""
 interests:
@@ -29,3 +28,4 @@ superuser: false
 user_groups:
 - Contributors
 ---
+

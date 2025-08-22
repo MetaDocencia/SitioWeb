@@ -1,6 +1,5 @@
 ---
-authors:
-- ccad
+title: "UNC Supercómputo (ex CCAD)"
 bio: ""
 email: ""
 name: UNC Supercómputo (ex CCAD)

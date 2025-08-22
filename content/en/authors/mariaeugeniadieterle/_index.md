@@ -1,6 +1,5 @@
 ---
-authors:
-- mdieterle
+title: "María Eugenia Dieterle"
 bio: ""
 email: "eugenia.dieterle@gmail.com"
 interests:
@@ -31,4 +30,5 @@ social:
 superuser: false
 user_groups:
 - Contributors
+
 ---

@@ -1,6 +1,5 @@
 ---
-authors:
-- monialonso
+title: "Mónica Alonso"
 bio: ""
 education:
   courses:

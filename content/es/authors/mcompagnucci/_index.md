@@ -1,6 +1,5 @@
 ---
-authors:
-- mcompagnucci
+title: "Marina Compagnucci"
 bio: ""
 email: ""
 interests:

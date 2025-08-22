@@ -1,6 +1,5 @@
 ---
-authors:
-- patriloto
+title: "Patricia Andrea Loto"
 bio: ""
 education:
   courses:

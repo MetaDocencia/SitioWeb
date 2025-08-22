@@ -1,6 +1,5 @@
 ---
-authors:
-- openlabec
+title: "Openlab Ecuador"
 bio: ""
 email: ""
 name: Openlab Ecuador

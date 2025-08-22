@@ -1,6 +1,5 @@
 ---
-authors:
-  - lucho
+title: "Lucio Casalla"
 role:
 bio: ""
 education:

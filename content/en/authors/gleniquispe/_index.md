@@ -1,6 +1,5 @@
 ---
-authors:
-- gleniquispe
+title: "Gleni Quispe Callo"
 bio: ""
 email: ""
 interests:
@@ -18,3 +17,4 @@ superuser: false
 user_groups:
 - 
 ---
+

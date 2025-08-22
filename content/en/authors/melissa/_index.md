@@ -1,6 +1,5 @@
 ---
-authors:
-- melissa
+title: "Melissa Black"
 bio: ""
 email: "melissablack301@gmail.com"
 interests:
@@ -33,3 +32,4 @@ Melissa also contributed as:
 - Software Sustainability Institute Fellow (2023 cohort, SSI/OLS fellow).
 
 In our "2023 Manzanita Internal Gala Awards" that shows the great value brought by each person to the team, Meli has won the All-Terrain Award, since she can speak several languages perfectly, represents us masterfully in external communities, elevates discussions, and always invites us to think outside the box.
+

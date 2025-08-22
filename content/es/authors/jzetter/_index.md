@@ -1,6 +1,5 @@
 ---
-authors:
-- jzetter
+title: "Julio Zetter Patiño"
 bio: ""
 email: ""
 interests:

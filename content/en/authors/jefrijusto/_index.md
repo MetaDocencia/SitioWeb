@@ -1,6 +1,5 @@
 ---
-authors:
-- jefrijusto
+title: "Jefri Justo Mamani"
 bio: ""
 email: ""
 interests:
@@ -18,3 +17,4 @@ superuser: false
 user_groups:
 - 
 ---
+

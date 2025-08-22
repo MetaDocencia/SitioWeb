@@ -1,6 +1,5 @@
 ---
-authors:
-- OBF
+title: "OBF - Open Bioinformatics Foundation"
 bio: "Beca a Laura Ación"
 email: ""
 name: OBF - Open Bioinformatics Foundation

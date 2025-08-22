@@ -1,6 +1,5 @@
 ---
-authors:
-- NASA-TOPS
+title: "NASA-TOPS"
 bio: ""
 email: ""
 name: NASA-TOPS
@@ -13,4 +12,5 @@ social:
 superuser: false
 user_groups:
 - Current
+
 ---

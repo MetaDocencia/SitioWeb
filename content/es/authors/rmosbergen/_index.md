@@ -1,6 +1,5 @@
 ---
-authors:
-- rmosbergen
+title: "Rowland Mosbergen"
 bio: ""
 email: ""
 interests:

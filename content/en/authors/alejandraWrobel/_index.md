@@ -1,6 +1,5 @@
 ---
-authors:
-- alejandraWrobel
+title: "Alejandra Wrobel"
 bio: ""
 education:
   courses:
@@ -26,6 +25,7 @@ superuser: false
 user_groups:
 - Former Contributors
 ---
+
 
 
 

@@ -1,6 +1,5 @@
 ---
-authors:
-- rominapendino
+title: "Romina Pendino"
 bio: ""
 education:
   courses:
@@ -43,3 +42,4 @@ Currently, Romina works in the area of People Management and Community Guideline
 Romina is a certified instructor for The Carpentries, part of her commitment to teaching and promoting open science. Her active and prolific participation in the areas of Community Guidelines and People Management reflects her interest in contributing to the smooth functioning and development of collaborative initiatives.
 
 Inside the team, Romi has won the Community Guru Award because she contributes with initiatives generating an increasingly welcoming, caring and safe environment. Her sensitivity is complemented by dedication, commitment and a lot of conviction.
+

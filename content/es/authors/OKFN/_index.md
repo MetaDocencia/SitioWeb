@@ -1,6 +1,5 @@
 ---
-authors:
-- OKFN
+title: "OKFN"
 bio: ""
 email: ""
 name: OKFN

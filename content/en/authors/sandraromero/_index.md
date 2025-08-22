@@ -1,6 +1,5 @@
 ---
-authors:
-- sromerocordoba
+title: "Sandra Lorena Romero Córdoba"
 bio: ""
 email: "sromero@iibiomedicas.unam.mx"
 interests:
@@ -26,4 +25,5 @@ social:
 superuser: false
 user_groups:
 - Contributors
+
 ---

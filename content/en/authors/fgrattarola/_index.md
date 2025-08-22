@@ -1,6 +1,5 @@
 ---
-authors:
-- fgrattarola
+title: "Florencia Grattarola"
 bio: ""
 email: "flograttarola@gmail.com"
 interests:
@@ -33,3 +32,4 @@ superuser: false
 user_groups:
 - Contributors
 ---
+

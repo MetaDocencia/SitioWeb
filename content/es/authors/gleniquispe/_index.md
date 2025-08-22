@@ -1,6 +1,5 @@
 ---
-authors:
-- gleniquispe
+title: "Gleni Quispe Callo"
 bio: ""
 email: ""
 interests:

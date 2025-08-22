@@ -1,0 +1,37 @@
+<!-- Carga la UI de Pagefind -->
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+<script src="/pagefind/pagefind-ui.js" defer></script>
+
+<!-- Botón de lupa (aparece en el header) -->
+<button class="md-nav-search" type="button" aria-label="Buscar">
+  <i class="fas fa-search" aria-hidden="true"></i>
+</button>
+
+<!-- Modal de búsqueda -->
+<div id="md-search-modal" class="md-search-modal" hidden>
+  <div id="md-search" role="dialog" aria-modal="true" aria-label="Buscar"></div>
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+  const btn   = document.querySelector('.md-nav-search');
+  const modal = document.getElementById('md-search-modal');
+  let ui; // PagefindUI se instancia al primer click
+
+  const open = () => {
+    modal.hidden = false;
+    if (!ui) {
+      ui = new PagefindUI({ element: "#md-search", showSubResults: true });
+      // Enfocar el input cuando cargue
+      setTimeout(() => {
+        document.querySelector('#md-search input[type="search"]')?.focus();
+      }, 0);
+    }
+  };
+  const close = () => { modal.hidden = true; };
+
+  btn?.addEventListener('click', open);
+  modal?.addEventListener('click', (e) => { if (e.target === modal) close(); });
+  document.addEventListener('keydown', (e) => { if (e.key === 'Escape') close(); });
+});
+</script>

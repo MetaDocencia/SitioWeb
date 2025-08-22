@@ -1,6 +1,5 @@
 ---
-authors:
-- claudiano
+title: "Claudiano Neto"
 bio: ""
 education: 
  courses:

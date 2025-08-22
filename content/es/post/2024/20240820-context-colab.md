@@ -6,7 +6,7 @@ linktitle: Contextualización Colaborativa
 summary: "Desde MetaDocencia nos propusimos recorrer la experiencia de contextualizar los contenidos de forma colaborativa."
 title: "La experiencia colaborativa de la primera contextualización al español del curso introductorio a la Ciencia Abierta desarrollado por la NASA"
 authors:
-  - acalero
+  - "acalero"
   - irenevazano
   - lacion
   - laurel
@@ -23,6 +23,7 @@ tags:
 categories:
   - Temas
   - Institucional
+profile: true
 ---
 
 Como compartimos en [esta publicación](https://www.metadocencia.org/post/nasatops10puntos/), desde MetaDocencia hemos co-creado **tres proyectos orientados a personas que se dedican a educación, ciencia y tecnología, integrantes de nuestra comunidad hispanohablante**. Estos proyectos tienen como marco la iniciativa Transform to Open Science (TOPS), de 5 años de duración, cuyo objetivo es formar 20.000 personas de ciencia y técnica en estos temas. 

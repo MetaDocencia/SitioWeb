@@ -1,6 +1,5 @@
 ---
-authors:
-- beatriz
+title: "Beatriz Milz"
 bio: ""
 education:
  courses:
@@ -30,4 +29,5 @@ superuser: false
 user_groups:
 - Former Contributors
 ---
+
 

@@ -1,6 +1,5 @@
 ---
-authors:
-- andrea
+title: "Andrea Gomez Vargas"
 bio: ""
 education:
  courses:

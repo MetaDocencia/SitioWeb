@@ -1,6 +1,5 @@
 ---
-authors:
-- OBF
+title: "OBF - Open Bioinformatics Foundation"
 bio: ""
 email: ""
 name: OBF - Open Bioinformatics Foundation
@@ -14,4 +13,5 @@ superuser: false
 user_groups:
 -   Previous
 ---
+
 

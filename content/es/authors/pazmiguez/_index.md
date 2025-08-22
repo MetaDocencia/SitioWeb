@@ -1,6 +1,5 @@
 ---
-authors:
-- pazmiguez
+title: "Paz Míguez"
 bio: ""
 education:
   courses:

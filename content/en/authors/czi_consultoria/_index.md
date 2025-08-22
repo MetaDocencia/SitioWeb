@@ -1,6 +1,5 @@
 ---
-authors:
-- czi_sponsor
+title: "Open Science CZI"
 bio: ""
 email: ""
 name: CZI Chan Zuckerberg Initiative
@@ -14,3 +13,4 @@ superuser: false
 user_groups:
 - Clients Who Trust Our Services
 ---
+

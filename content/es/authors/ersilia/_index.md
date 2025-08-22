@@ -1,6 +1,5 @@
 ---
-authors:
-- ersilia
+title: "Ersilia"
 bio: ""
 email: ""
 name: Ersilia

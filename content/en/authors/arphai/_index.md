@@ -1,6 +1,5 @@
 ---
-authors:
-- ARPHAI
+title: "ARPHAI"
 bio: ""
 email: ""
 name: ARPHAI
@@ -27,3 +26,4 @@ user_groups:
 
 
 ***
+

@@ -1,6 +1,5 @@
 ---
-authors:
-- kcabana
+title: "Kevin Hernan Cabana Horqque"
 bio: ""
 email: ""
 interests:
@@ -18,3 +17,4 @@ superuser: false
 user_groups:
 - Former Contributors
 ---
+

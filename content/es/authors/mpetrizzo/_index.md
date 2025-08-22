@@ -1,6 +1,5 @@
 ---
-authors:
-- mpetrizzo
+title: "María Ángela Petrizzo Páez"
 bio: ""
 email: "petrizzo@gmail.com"
 interests:
@@ -8,7 +7,7 @@ interests:
 - Conocimiento libre
 - Políticas públicas
 - Políticas científicas 
-name: Maria Angela Petrizzo Páez 
+name: María Ángela Petrizzo Páez 
 weight: 6
 organizations:
 - name: 

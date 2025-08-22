@@ -1,6 +1,5 @@
 ---
-authors:
-- ABRIR
+title: "ABRIR"
 bio: ""
 email: ""
 name: ABRIR

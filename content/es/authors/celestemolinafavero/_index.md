@@ -1,6 +1,5 @@
 ---
-authors:
-- CelesteMolinaFavero
+title: "Celeste Molina Favero"
 bio: ""
 education:
   courses:

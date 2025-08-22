@@ -1,6 +1,5 @@
 ---
-authors:
-- lmalacrida
+title: "Leonel Malacrida"
 bio: ""
 email: "leonelmalacrida@gmail.com"
 interests:

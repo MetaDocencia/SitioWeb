@@ -1,6 +1,5 @@
 ---
-authors:
-- LABI-consultoria
+title: "LABI"
 bio: ""
 email: ""
 name: LABI

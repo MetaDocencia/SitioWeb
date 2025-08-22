@@ -1,6 +1,5 @@
 ---
-authors:
-- malvikasharan
+title: "Malvika Sharan"
 bio: ""
 email: ""
 name: Malvika Sharan
@@ -25,3 +24,4 @@ Soy líder de la comunidad del proyecto The Turing Way en el Instituto Alan Turi
 Soy cofundadora de Open Life Science, un programa de tutoría y formación que acerca a personal de investigación a principios de la ciencia abierta, y les ayuda crea colaboraciones con expertos y adoptar las mejores prácticas en el contexto de sus comunidades.
 
 Tras obtener mi doctorado en Bioinformática, comencé mi carrera en la creación de comunidades en el Laboratorio Europeo de Biología Molecular. Soy fellow del Software Sustainability Institute, miembro de la junta de la Open Bioinformatics Foundation y colaboradora activa en proyectos de código abierto. Estoy abierta a debatir y colaborar en la creación de recursos, la promoción de los principios de la ciencia abierta y el apoyo a proyectos para mejorar la representación de los miembros marginados en la ciencia de los datos y la investigación.
+

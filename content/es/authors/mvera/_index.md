@@ -1,6 +1,5 @@
 ---
-authors:
-- mvera
+title: "María Jimena Vera"
 bio: ""
 email: ""
 interests:

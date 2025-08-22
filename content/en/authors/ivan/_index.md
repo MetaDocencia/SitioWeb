@@ -1,6 +1,5 @@
 ---
-authors:
-- ivan
+title: "Iván Gabriel Poggio"
 bio: ""
 education:
   courses:
@@ -44,3 +43,4 @@ Since 2015, Ivan has served as Provincial Disability Director, under the Ministr
 Iván does not limit his contribution to his area of work, but also demonstrates a strong commitment to the community. His approach focuses on upholding a philosophy of inclusive coexistence guidelines, seeking to raise awareness and foster a respectful and accessible environment for all.
 
 Within the team, Ivan has won the Positive Impact Award for what he generates in the lives of others through his gift of good people, generosity with his knowledge, predisposition and great sense of humor.
+

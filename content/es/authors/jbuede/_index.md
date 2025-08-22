@@ -1,6 +1,5 @@
 ---
-authors:
-- jbuede
+title: "Julián Buede"
 bio: ""
 education:
   courses:

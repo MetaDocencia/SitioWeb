@@ -1,6 +1,5 @@
 ---
-authors:
-- diplocientifica
+title: "DiploCientifica"
 bio: ""
 email: ""
 name: DiploCientifica
@@ -38,3 +37,4 @@ user_groups:
 Its purpose is to be a reference organization for Science Diplomacy in Latin America and the Caribbean during the next decade, in order to contribute to the sustainable development of the region through the collaboration of professionals involved in the interface between science and international relations. Its community has the mission to foster a sustainable, dynamic, interconnected and diverse network.	
 
 It is currently composed of 47 people from 16 countries in our region working together in different disciplines to promote the creation of educational content oriented to problem solving in science diplomacy focused on our region, as well as to solve challenges related to education and the dissemination of science diplomacy. 
+

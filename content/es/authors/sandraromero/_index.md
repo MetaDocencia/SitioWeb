@@ -1,6 +1,5 @@
 ---
-authors:
-- sromerocordoba
+title: "Sandra Lorena Romero Cordoba"
 bio: ""
 email: "sromero@iibiomedicas.unam.mx"
 interests:

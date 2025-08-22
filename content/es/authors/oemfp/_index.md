@@ -1,6 +1,5 @@
 ---
-authors:
-- oemfp
+title: "Open & Equitable Model Funding Program"
 bio: ""
 email: "eunice@orfg.org"
 name: Open & Equitable Model Funding Program

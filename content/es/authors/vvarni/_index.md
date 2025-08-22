@@ -1,6 +1,5 @@
 ---
-authors:
-- vvarni
+title: "Vanina Varni"
 bio: ""
 email: ""
 interests:

@@ -1,6 +1,5 @@
 ---
-authors:
-- eliocamp
+title: "Elio Campitelli"
 bio: ""
 education:
   courses:

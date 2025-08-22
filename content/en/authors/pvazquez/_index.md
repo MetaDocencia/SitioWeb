@@ -1,6 +1,5 @@
 ---
-authors:
-- pvazquez
+title: "Pablo Vázquez"
 bio: ""
 email: ""
 interests:
@@ -27,3 +26,5 @@ superuser: false
 user_groups:
 - Contributors
 ---
+
+

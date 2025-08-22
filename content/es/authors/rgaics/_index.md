@@ -1,6 +1,5 @@
 ---
-authors:
-- rgaics
+title: "Raniere Silva"
 bio: ""
 email: ""
 name: Raniere Silva
@@ -23,3 +22,4 @@ user_groups:
 ---
 
 Raniere Silva trabajó como Community Officer para el Instituto de Sostenibilidad de Software y fue miembro del Consejo Ejecutivo de The Carpentries. Raniere tiene una licenciatura en Matemática Aplicada y Computacional de la Universidad de Campinas.
+

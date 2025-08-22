@@ -1,6 +1,5 @@
 ---
-authors:
-- dsanchezaguirre
+title: "Driselda Sánchez Aguirre"
 bio: ""
 email: ""
 interests:

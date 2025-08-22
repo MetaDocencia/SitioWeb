@@ -1,6 +1,5 @@
 ---
-authors:
-- LABI-sponsor
+title: "LABI"
 bio: ""
 email: ""
 name: LABI
@@ -14,3 +13,4 @@ superuser: false
 user_groups:
 - Previous
 ---
+

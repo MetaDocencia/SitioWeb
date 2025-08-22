@@ -1,6 +1,5 @@
 ---
-authors:
-- dburin
+title: "Débora I. Burin"
 bio: ""
 education: ""
 email: ""

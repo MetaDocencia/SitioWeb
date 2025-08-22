@@ -1,6 +1,5 @@
 ---
-authors:
-- jfabiano
+title: "Jeremías Fabiano"
 bio: ""
 email: ""
 interests:

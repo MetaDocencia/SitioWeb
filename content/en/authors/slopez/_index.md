@@ -1,6 +1,5 @@
 ---
-authors:
-- slopez
+title: "Sabrina López"
 bio: ""
 education: 
  courses:
@@ -50,3 +49,4 @@ With experience in public management at the Ministry of Health of the City of Bu
 Currently, Sabrina is dedicated to research on the Responsible Use of Health Data, especially those from electronic health records.
 
 Inside the team, Sabri has won the Peripheral Vision Award because thanks to his knowledge and work capacity nothing escapes from her, seeing everything and being able to be here, there and beyond with professionalism and drive.
+

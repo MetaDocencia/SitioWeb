@@ -1,6 +1,5 @@
 ---
-authors:
-- alejandraWrobel
+title: "Alejandra Wrobel"
 bio: ""
 education:
   courses:

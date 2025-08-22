@@ -1,6 +1,5 @@
 ---
-authors:
-- czi_sponsor
+title: "CZI Chan Zuckerberg Initiative"
 bio: ""
 email: ""
 name: CZI Chan Zuckerberg Initiative

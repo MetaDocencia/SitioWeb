@@ -1,6 +1,5 @@
 ---
-authors:
-- czi
+title: "Open Science CZI"
 bio: ""
 email: ""
 name: Open Science CZI
@@ -27,3 +26,4 @@ user_groups:
 
 
 ***
+

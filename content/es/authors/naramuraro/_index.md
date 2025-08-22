@@ -1,6 +1,5 @@
 ---
-authors:
-- nmuraro
+title: "Nara Muraro"
 bio: ""
 email: "naramuraro@gmail.com"
 interests:

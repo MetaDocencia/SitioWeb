@@ -1,9 +1,9 @@
 ---
-authors:
-- 2i2c-consultoria
+title: "2i2c"
 bio: ""
 email: ""
 name: 2i2c
+first_name: 2i2c
 weight: 1
 role: 
 social:

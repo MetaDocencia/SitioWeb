@@ -1,6 +1,5 @@
 ---
-authors:
-- amedinarivera
+title: "Alejandra Medina Rivera"
 bio: ""
 email: "medina.alexiel@gmail.com"
 interests:

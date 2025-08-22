@@ -1,6 +1,5 @@
 ---
-authors:
-- lbenotti
+title: "Luciana Benotti"
 bio: ""
 email: ""
 interests:

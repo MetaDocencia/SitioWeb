@@ -1,6 +1,5 @@
 ---
-authors:
-- yabellini
+title: "Yanina Bellini Saibene"
 bio: ""
 education:
   courses:
@@ -58,3 +57,4 @@ Member, [The Carpentries](https://carpentries.org/) Executive Council,  [R-Ladie
 Winner of [CIALP](http://cialp.com.ar/) Technological Innovation Award (2001) and the National e-Government Award (2015 y 2016) for projects related to remote sensing and open data.  
 
 M.S. in Data Mining and Knowledge Management.
+

@@ -1,6 +1,5 @@
 ---
-authors:
-- amit
+title: "Amit Kohli"
 bio: ""
 education:
   courses:
