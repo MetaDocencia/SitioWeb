@@ -1,5 +1,5 @@
 ---
-title: "Contact"  # Add a page title.
-date: "2019-01-01T00:00:00Z"  # Add today's date.
-type: "widget_page"  # Page type is a Widget Page
+title: "Contacto"
+type: page
 ---
+{{< formspree id="TU_FORM_ID" lang="es" thanks="https://www.metadocencia.org/es/gracias/" >}}
