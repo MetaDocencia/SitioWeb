@@ -205,19 +205,15 @@ map:
   api_key: ""
   zoom: 15
 
-# lupa / buscador
-es:
-  params:
-    header:
-      navbar:
-        show_search: true
-en:
-  params:
-    header:
-      navbar:
-        show_search: true
-
 # Marketing / Analytics
 marketing:
   google_analytics: ""      # PONÉ ACA el ID GA4: "G-XXXX..." (UA ya no funciona)
   google_tag_manager: ""    # opcional: "GTM-XXXX"
+
+# lupa / buscador
+search:
+  engine: 1
+header:
+  navbar:
+    enable: true
+    show_search: true
