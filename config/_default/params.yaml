@@ -96,8 +96,7 @@ contact_links:
     link: "https://www.linkedin.com/company/metadocencia/"
     name: "LinkedIn"
 
-  - icon: bluesky
-    icon_pack: fab
+  - icon: "custom/bluesky"
     link: "https://bsky.app/profile/metadocencia.org"
     name: "Bluesky"
 
