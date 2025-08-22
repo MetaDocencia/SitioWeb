@@ -206,10 +206,16 @@ map:
   zoom: 15
 
 # lupa / buscador
-header:
-  navbar:
-    enable: true
-    show_search: true
+es:
+  params:
+    header:
+      navbar:
+        show_search: true
+en:
+  params:
+    header:
+      navbar:
+        show_search: true
 
 # Marketing / Analytics
 marketing:
