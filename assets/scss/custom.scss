@@ -118,3 +118,13 @@ footer .social-icons i{
   border-radius: .5rem; padding: 1rem;
   box-shadow: 0 10px 30px rgba(0,0,0,.25);
 }
+
+.md-contact__form { max-width: 720px; }
+.md-field { margin: 0 0 1rem; }
+.md-field label { display:block; font-weight:600; margin-bottom:.35rem; }
+.md-field input, .md-field textarea {
+  width:100%; border:1px solid #ddd; border-radius:6px; padding:.6rem .75rem; font:inherit;
+}
+.md-btn { background:#b23a2a; color:#fff; border:0; border-radius:6px; padding:.6rem 1rem; cursor:pointer; }
+.md-btn:hover { opacity:.9; }
+.md-honeypot { position:absolute !important; left:-9999px; }
