@@ -16,7 +16,19 @@ footer .social-icons i{
   font-size: 1.6rem;
 }
 
+/* Asegurar tamaño de SVGs en sociales (footer + profiles) */
+.social-icons svg,
+.network-icon svg,
+.author-links svg {
+  width: 1.6rem;
+  height: 1.6rem;
+  display: inline-block;
+  vertical-align: middle;
+}
 
+/* Opcional: color de marca solo para Bluesky en footer */
+footer .social-icons a[href*="bsky.app"] { color: #1185fe; }
+footer .social-icons a[href*="bsky.app"]:hover { opacity: .85; }
 
 /* ===========================
    Embeds responsivos (global)
