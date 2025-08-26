@@ -12,8 +12,7 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://x.com/ABRIR_Psy
-- icon: bluesky
-  icon_pack: custom
+- icon: "custom/bluesky"
   link: https://bsky.app/profile/abrir.bsky.social
 - icon: youtube
   icon_pack: fab
