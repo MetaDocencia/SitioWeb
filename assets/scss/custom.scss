@@ -20,8 +20,6 @@ footer .social-icons i{
 .social-icons svg { width: 1.6rem; height: 1.6rem; display: inline-block; }
 .social-icons a { color: currentColor; } /* hereda del tema */
 
-footer .social-icons a[href*="bsky.app"] { color: #1185fe; }
-footer .social-icons a[href*="bsky.app"]:hover { opacity:.85; }
 
 /* ===========================
    Embeds responsivos (global)
