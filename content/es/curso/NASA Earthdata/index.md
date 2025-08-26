@@ -12,7 +12,7 @@ authors:
 type: cursos
 weight: 1
 tags:
-  - Próximos cursos
+  - Ediciones anteriores
 ---
 
 {{% toc %}}
@@ -67,6 +67,9 @@ Muchas gracias por tu interés en inscribirte. Esta edición ya se ha completado
 Para enterarte de todas las novedades sobre nuestras propuestas de formación, puedes sumarte a [nuestro espacio de Slack](https://w3id.org/metadocencia/slack) o [suscribirte a nuestro boletín](https://www.metadocencia.org/suscripcion/).
 
 ### Materiales
+
+- Presentación: https://doi.org/10.5281/zenodo.16808922
+- [Video de una edición sincrónica](https://youtu.be/r68BUz7dKsQ)
 
 ¿Te vienen bien cualquiera de nuestros contenidos? ¡Sírvete sin culpa! Nuestros materiales están disponibles en forma gratuita bajo [licencia CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es). Es decir, puedes reusar o editar cualquier material que aparece encima de estas líneas, lo único que pedimos a cambio es que incluyas una referencia a esta página web o la referencia del material cuando el material tenga una forma explícita de referenciarlo. Para más información, por favor escríbenos a formacion@metadocencia.org.
 
