@@ -96,10 +96,12 @@ contact_links:
     link: "https://www.linkedin.com/company/metadocencia/"
     name: "LinkedIn"
 
-# params.yaml  (footer/contact_links)
-  - icon: "custom/bluesky"
+# footer
+  - icon: bluesky
+    icon_pack: custom
     link: "https://bsky.app/profile/metadocencia.org"
     name: "Bluesky"
+
 
   - icon: slack
     icon_pack: fab
