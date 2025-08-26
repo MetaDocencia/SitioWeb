@@ -14,7 +14,7 @@ social:
   link: https://x.com/ABRIR_Psy
 - icon: bluesky
   icon_pack: custom
-  link: "https://bsky.app/profile/abrir.bsky.social"
+  link: https://bsky.app/profile/abrir.bsky.social
 - icon: youtube
   icon_pack: fab
   link: https://www.youtube.com/@abrir-big-teamandopenscien4045/playlists
