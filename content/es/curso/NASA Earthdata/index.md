@@ -27,7 +27,7 @@ En el taller exploramos cómo utilizar los datos satelitales de la plataforma **
 ### Motivaciones para participar 
 Entender los cambios en la superficie terrestre y sus consecuencias es crucial para la gestión sostenible de los recursos naturales. En este contexto, los productos OPERA de la NASA ofrecen una poderosa herramienta para monitorear modificaciones en la vegetación, las precipitaciones, las aguas superficiales y el uso del suelo. A través de este taller, MetaDocencia busca capacitar a los participantes para que puedan analizar estos cambios de manera reproducible, a través de Jupyter Notebooks con código en Python, con el fin de aplicar los resultados en la toma de decisiones informadas para estudios ambientales y planificación territorial.
 
-Quienes completen esta formación puedrán:
+Quienes completen esta formación podrán:
 * Acceder y visualizar los datos terrestres, disponibles a través de la plataforma Earthdata Cloud de la NASA, de una zona de interés específica.
 * Tener una primera aproximación al uso de los nuevos productos satelitales de NASA OPERA DIST-ALERT para la evaluación de disturbios en la cobertura vegetal y el análisis de alertas ambientales. 
 * Aplicar herramientas de código abierto para el análisis geoespacial utilizando flujos de trabajo reproducibles.  
