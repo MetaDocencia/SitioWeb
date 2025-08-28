@@ -44,6 +44,15 @@ footer .social-icons a:hover,
   opacity: .85;
 }
 
+/* Anular cualquier parche viejo de pseudo-icono */
+footer .social-icons a[href*="bsky.app"]::before,
+.author-links a[href*="bsky.app"]::before,
+.network-icon a[href*="bsky.app"]::before {
+  content: none !important;
+  background: none !important;
+  -webkit-mask: none !important;
+          mask: none !important;
+}
 
 /* ===========================
    Embeds responsivos (global)
