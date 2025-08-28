@@ -26,17 +26,24 @@ footer .social-icons i{
   vertical-align: middle;
 }
 
-/* Bluesky: mismo color que el resto de las redes */
-footer .social-icons a[href*="bsky.app"],
-.author-links a[href*="bsky.app"] {
-  color: inherit !important;
+/* Unificar color en footer (FA <i> y SVG) */
+footer .social-icons i,
+footer .social-icons svg {
+  color: #b23a2a; /* rojo MD */
 }
 
-/* Hover genérico (opcional, si no lo tenés ya) */
+/* (Opcional) autores: mismo color o heredado del tema */
+.author-links i,
+.author-links svg {
+  color: #b23a2a; /* o 'inherit' si querés que siga el tema */
+}
+
+/* Hover genérico */
 footer .social-icons a:hover,
 .author-links a:hover {
   opacity: .85;
 }
+
 
 /* ===========================
    Embeds responsivos (global)
