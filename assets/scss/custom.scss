@@ -1,48 +1,24 @@
 /* Footer: centrar bloque de RRSS */
 footer .social-icons{
-  display: flex;
-  flex-wrap: wrap;
-  gap: 10px;
-  justify-content: center;
-  align-items: center;
-  width: 100%;
-  margin: 0 auto;
+  display:flex; flex-wrap:wrap; gap:10px;
+  justify-content:center; align-items:center;
+  width:100%; margin:0 auto;
 }
-footer .social-icons a{
-  display: inline-flex;
-  text-decoration: none;
-}
-footer .social-icons i{
-  font-size: 1.6rem;
+footer .social-icons a{ display:inline-flex; text-decoration:none; }
+footer .social-icons i{ font-size:1.6rem; }
+
+/* Tamaño para SVGs (footer + profiles) */
+.social-icons svg, .network-icon svg, .author-links svg{
+  width:1.6rem; height:1.6rem; display:inline-block; vertical-align:middle;
 }
 
-/* Asegurar tamaño de SVGs en sociales (footer + profiles) */
-.social-icons svg,
-.network-icon svg,
-.author-links svg {
-  width: 1.6rem;
-  height: 1.6rem;
-  display: inline-block;
-  vertical-align: middle;
-}
-
-/* Unificar color en footer (FA <i> y SVG) */
-footer .social-icons i,
-footer .social-icons svg {
-  color: #b23a2a; /* rojo MD */
-}
-
-/* (Opcional) autores: mismo color o heredado del tema */
-.author-links i,
-.author-links svg {
-  color: #b23a2a; /* o 'inherit' si querés que siga el tema */
-}
+/* Unificar color (FA <i> y SVG) */
+footer .social-icons i, footer .social-icons svg{ color:#b23a2a; }   /* rojo MD */
+.author-links i, .author-links svg{ color:#b23a2a; }                  /* o 'inherit' si querés */
 
 /* Hover genérico */
-footer .social-icons a:hover,
-.author-links a:hover {
-  opacity: .85;
-}
+footer .social-icons a:hover, .author-links a:hover{ opacity:.85; }
+
 
 /* Anular cualquier parche viejo de pseudo-icono */
 footer .social-icons a[href*="bsky.app"]::before,
