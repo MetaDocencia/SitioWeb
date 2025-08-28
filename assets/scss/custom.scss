@@ -26,9 +26,17 @@ footer .social-icons i{
   vertical-align: middle;
 }
 
-/* Opcional: color de marca solo para Bluesky en footer */
-footer .social-icons a[href*="bsky.app"] { color: #1185fe; }
-footer .social-icons a[href*="bsky.app"]:hover { opacity: .85; }
+/* Bluesky: mismo color que el resto de las redes */
+footer .social-icons a[href*="bsky.app"],
+.author-links a[href*="bsky.app"] {
+  color: inherit !important;
+}
+
+/* Hover genérico (opcional, si no lo tenés ya) */
+footer .social-icons a:hover,
+.author-links a:hover {
+  opacity: .85;
+}
 
 /* ===========================
    Embeds responsivos (global)
