@@ -6,7 +6,7 @@ image:
   alt_text: "Imagen satelital con código"
 linktitle: Introducción al uso de datos NASA Earthdata Cloud para el monitoreo de cambios y disturbios ambientales
 summary: Analizando cambios ambientales de forma reproducible con python y datos satelitales de la plataforma Earthdata Cloud de la NASA.
-title: Introducción al uso de datos NASA Earthdata Cloud para el monitoreo de cambios y disturbios ambientales
+title: Introducción al uso de datos NASA Earthdata Cloud para el monitoreo de cambios y disturbios ambientales. Inscripciones cerradas
 authors: 
     - "MetaDocencia"
 type: cursos
