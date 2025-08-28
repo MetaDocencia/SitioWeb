@@ -4,17 +4,17 @@
 
 [build]
   publish = "public"
-  # Fallback (se usa si NO hay bloque context.* que lo reemplace)
-  command = "hugo --gc --minify -b $URL && npx -y pagefind --site 'public'"
+  # Fallback (si no hay context.*)
+  command = "hugo mod vendor && hugo --gc --minify -b $URL && npx -y pagefind --site 'public'"
 
 [build.environment]
   HUGO_ENV     = "production"
   HUGO_VERSION = "0.125.0"
   NODE_VERSION = "20"
 
-# ---------- Producción (explícito) ----------
+# ---------- Producción ----------
 [context.production]
-  command = "hugo --gc --minify -b $URL && npx -y pagefind --site 'public'"
+  command = "hugo mod vendor && hugo --gc --minify -b $URL && npx -y pagefind --site 'public'"
 
 [context.production.environment]
   HUGO_ENV     = "production"
@@ -23,16 +23,16 @@
 
 # ---------- Deploy Preview (PRs) ----------
 [context.deploy-preview]
-  command = "hugo --gc --minify --baseURL ${DEPLOY_PRIME_URL}/ && npx -y pagefind --site 'public'"
+  command = "hugo mod vendor && hugo --gc --minify --baseURL ${DEPLOY_PRIME_URL}/ && npx -y pagefind --site 'public'"
 
 [context.deploy-preview.environment]
   HUGO_ENV     = "production"
   HUGO_VERSION = "0.125.0"
   NODE_VERSION = "20"
 
-# ---------- Branch Deploys (opcionales) ----------
+# ---------- Branch Deploys ----------
 [context.branch-deploy]
-  command = "hugo --gc --minify --baseURL ${DEPLOY_PRIME_URL}/ && npx -y pagefind --site 'public'"
+  command = "hugo mod vendor && hugo --gc --minify --baseURL ${DEPLOY_PRIME_URL}/ && npx -y pagefind --site 'public'"
 
 [context.branch-deploy.environment]
   HUGO_ENV     = "production"
