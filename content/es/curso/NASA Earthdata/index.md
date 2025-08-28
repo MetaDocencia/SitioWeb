@@ -17,9 +17,12 @@ tags:
 
 {{% toc %}}
 
-Junto a la NASA y 2i2c, MetaDocencia invita a todas las personas hispanohablantes interesadas en el análisis de fenómenos ambientales a participar de  un taller práctico y virtual de 3 horas.  En este taller exploraremos cómo utilizar los datos satelitales de la plataforma **NASA Earthdata Cloud**, específicamente los **productos OPERA**, para el monitoreo de cambios y disturbios ambientales. Tomaremos como caso de estudio los cambios en la cobertura vegetal en la región de Maranhão, Brasil, con el objetivo de identificar patrones de deforestación a través de Jupyter Notebooks con código en Python para trabajar de manera reproducible con los datos.
+### _Inscripciones cerradas_
 
-**La inscripción es gratuita y abierta**, y el taller tendrá certificado de asistencia emitido por MetaDocencia. El taller será en formato **virtual, sincrónico y 100% en español**.
+Junto a la NASA y 2i2c llevamos adelante este taller práctico y virtual de 3 horas destinado a personas hispanohablantes interesadas en el análisis de fenómenos ambientales. 
+En el taller exploramos cómo utilizar los datos satelitales de la plataforma **NASA Earthdata Cloud**, específicamente los **productos OPERA**, para el monitoreo de cambios y disturbios ambientales. Tomamos como caso de estudio los cambios en la cobertura vegetal en la región de Maranhão, Brasil, con el objetivo de identificar patrones de deforestación a través de Jupyter Notebooks con código en Python para trabajar de manera reproducible con los datos.
+
+**El taller es en formato **virtual, sincrónico y 100% en español**, con certificado de asistencia emitido por MetaDocencia.
 
 ### Motivaciones para participar 
 Entender los cambios en la superficie terrestre y sus consecuencias es crucial para la gestión sostenible de los recursos naturales. En este contexto, los productos OPERA de la NASA ofrecen una poderosa herramienta para monitorear modificaciones en la vegetación, las precipitaciones, las aguas superficiales y el uso del suelo. A través de este taller, MetaDocencia busca capacitar a los participantes para que puedan analizar estos cambios de manera reproducible, a través de Jupyter Notebooks con código en Python, con el fin de aplicar los resultados en la toma de decisiones informadas para estudios ambientales y planificación territorial.
@@ -30,7 +33,7 @@ Quienes completen esta formación podrán:
 * Aplicar herramientas de código abierto para el análisis geoespacial utilizando flujos de trabajo reproducibles.  
 
 **¿Para quién?**
-Este curso está dirigido a profesionales que deseen aprender a utilizar productos derivados de imágenes satelitales para el análisis de problemáticas ambientales, como la detección de deforestación y el monitoreo de cambios en la cobertura del suelo. Es necesario contar con conocimientos básicos de programación en algún de lenguaje de programación. El curso se dictará en Python.
+Este curso está dirigido a profesionales que deseen aprender a utilizar productos derivados de imágenes satelitales para el análisis de problemáticas ambientales, como la detección de deforestación y el monitoreo de cambios en la cobertura del suelo. Es necesario contar con conocimientos básicos de programación en algún de lenguaje de programación. El curso se dicta en Python.
 
 
 ### ¿Qué _no_ incluye esta formación? 
@@ -42,11 +45,11 @@ Este curso está dirigido a profesionales que deseen aprender a utilizar product
 
 ### Duración
 
-El taller será de 3 horas de duración, con pausas programadas cada 50 minutos. 
+El taller es de 3 horas de duración, con pausas programadas cada 50 minutos. 
 
 ### Programa
 
-Durante el encuentro, se recorrerán las siguientes secciones:
+Durante el encuentro, se recorren las siguientes secciones:
 * Fundamentos de teledetección.
 * Características de satélites y sensores.
 * Introducción a sistemas de coordenadas de referencia.
@@ -58,7 +61,7 @@ Durante el encuentro, se recorrerán las siguientes secciones:
 
 ### Certificación
 
-Los participantes que asistan al taller recibirán un certificado de asistencia emitido por MetaDocencia.
+Los participantes que asisten al taller recibien un certificado de asistencia emitido por MetaDocencia.
 
 
 ### Cómo participar
