@@ -1,166 +1,34 @@
-/* Footer: centrar bloque de RRSS */
-footer .social-icons{
-  display:flex; flex-wrap:wrap; gap:10px;
-  justify-content:center; align-items:center;
-  width:100%; margin:0 auto;
-}
-footer .social-icons a{ display:inline-flex; text-decoration:none; }
-footer .social-icons i{ font-size:1.6rem; }
+/* ===== Fallback definitivo Bluesky (negro) =====
+   Dibuja el icono por CSS aunque el <a> venga vacío
+   y anula cualquier intento anterior de ::before/mask/color. */
 
-/* Tamaño para SVGs (footer + profiles) */
-.social-icons svg, .network-icon svg, .author-links svg{
-  width:1.6rem; height:1.6rem; display:inline-block; vertical-align:middle;
-}
-
-/* Unificar color (FA <i> y SVG) */
-footer .social-icons i, footer .social-icons svg{ color:#b23a2a; }   /* rojo MD */
-.author-links i, .author-links svg{ color:#b23a2a; }                  /* o 'inherit' si querés */
-
-/* Hover genérico */
-footer .social-icons a:hover, .author-links a:hover{ opacity:.85; }
-
-
-/* Anular cualquier parche viejo de pseudo-icono */
 footer .social-icons a[href*="bsky.app"]::before,
 .author-links a[href*="bsky.app"]::before,
 .network-icon a[href*="bsky.app"]::before {
-  content: none !important;
+  /* anular parches previos y forzar nuestro pseudo-elemento */
+  content: "" !important;
   background: none !important;
   -webkit-mask: none !important;
           mask: none !important;
+
+  /* nuestro ícono (data-URI), tamaño y alineación */
+  display: inline-block;
+  width: 1.6rem;
+  height: 1.6rem;
+  vertical-align: middle;
+  background: no-repeat center / contain
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 568 501'%3E%3Cpath fill='%23b23a2a' d='M123.121 33.6637C188.241 82.5526 258.281 181.681 284 234.873C309.719 181.681 379.759 82.5526 444.879 33.6637C491.866 -1.61183 568 -28.9064 568 57.9464C568 75.2916 558.055 203.659 552.222 224.501C531.947 296.954 458.067 315.434 392.347 304.249C507.222 323.8 536.444 388.56 473.333 453.32C353.473 576.312 301.061 422.461 287.631 383.039C285.169 375.812 284.017 372.431 284 375.306C283.983 372.431 282.831 375.812 280.369 383.039C266.939 422.461 214.527 576.312 94.6667 453.32C31.5556 388.56 60.7778 323.8 175.653 304.249C109.933 315.434 36.0535 296.954 15.7778 224.501C9.94525 203.659 0 75.2916 0 57.9464C0 -28.9064 76.1345 -1.61183 123.121 33.6637Z'/%3E%3C/svg%3E");
 }
 
-/* ===========================
-   Embeds responsivos (global)
-   =========================== */
-
-/* Contenedor fluido con relación de aspecto (16:9 por defecto) */
-.md-embed {
-  position: relative;
-  display: block;
-  width: 100%;
-  max-width: 100%;
-  margin: 1rem 0;
-  overflow: hidden;
-}
-.md-embed::before {
-  content: "";
-  display: block;
-  padding-top: 56.25%; /* 16:9 */
-}
-.md-embed > iframe,
-.md-embed > video,
-.md-embed > embed,
-.md-embed > object {
-  position: absolute;
-  inset: 0;
-  width: 100%;
-  height: 100%;
-  border: 0;
+/* Si alguna vez se renderiza un <svg> interno, ocultarlo para evitar doble icono */
+footer .social-icons a[href*="bsky.app"] svg,
+.author-links a[href*="bsky.app"] svg,
+.network-icon a[href*="bsky.app"] svg {
+  display: none !important;
 }
 
-/* Otras relaciones */
-.md-embed.is-4x3::before { padding-top: 75%; }
-
-/* Modo full-bleed (ocupa el ancho del viewport) */
-.md-embed.is-bleed {
-  margin-left: calc(50% - 50vw);
-  margin-right: calc(50% - 50vw);
-  width: 100vw;
+/* Mantener el resto igual (tamaño/hover) */
+.social-icons svg, .network-icon svg, .author-links svg {
+  width: 1.6rem; height: 1.6rem; display: inline-block; vertical-align: middle;
 }
-
-/* Mejora progresiva cuando hay soporte para aspect-ratio */
-@supports (aspect-ratio: 1 / 1) {
-  .md-embed::before { display: none; padding-top: 0; }
-  .md-embed > iframe,
-  .md-embed > video,
-  .md-embed > embed,
-  .md-embed > object {
-    position: relative;
-    height: auto;
-    aspect-ratio: 16 / 9;
-  }
-  .md-embed.is-4x3 > iframe,
-  .md-embed.is-4x3 > video,
-  .md-embed.is-4x3 > embed,
-  .md-embed.is-4x3 > object { aspect-ratio: 4 / 3; }
-}
-
-/* En móviles, evitamos alturas excesivas */
-@media (max-width: 640px) {
-  .md-embed > iframe,
-  .md-embed > video,
-  .md-embed > embed,
-  .md-embed > object {
-    max-height: 80vh;
-  }
-}
-
-/* ---------------------------
-   Parche global para iframes ya existentes
-   (sin wrapper): rellenan la columna
-   --------------------------- */
-
-/* Google Slides */
-.article-container iframe[src*="docs.google.com/presentation"],
-.page-body iframe[src*="docs.google.com/presentation"] {
-  width: 100% !important;
-  height: auto !important;
-  aspect-ratio: 16 / 9;
-  border: 0;
-}
-
-/* Botón lupa en el navbar */
-.md-nav-search {
-  display: inline-flex; align-items: center; gap: .4rem;
-  background: none; border: 0; cursor: pointer;
-  color: inherit; font-size: 1rem; line-height: 1;
-  padding: .25rem .5rem;
-}
-.md-nav-search:hover { opacity: .8; }
-
-/* Modal overlay */
-.md-search-modal[hidden] { display: none; }
-.md-search-modal {
-  position: fixed; inset: 0; z-index: 9999;
-  background: rgba(0,0,0,.45);
-  display: flex; align-items: flex-start; justify-content: center;
-  padding: 6rem 1rem 2rem;
-}
-.md-search-modal #md-search {
-  background: #fff; width: 100%; max-width: 960px;
-  border-radius: .5rem; padding: 1rem;
-  box-shadow: 0 10px 30px rgba(0,0,0,.25);
-}
-
-.md-contact__form { max-width: 720px; }
-.md-field { margin: 0 0 1rem; }
-.md-field label { display:block; font-weight:600; margin-bottom:.35rem; }
-.md-field input, .md-field textarea {
-  width:100%; border:1px solid #ddd; border-radius:6px; padding:.6rem .75rem; font:inherit;
-}
-.md-btn { background:#b23a2a; color:#fff; border:0; border-radius:6px; padding:.6rem 1rem; cursor:pointer; }
-.md-btn:hover { opacity:.9; }
-.md-honeypot { position:absolute !important; left:-9999px; }
-
-/* ==== Bluesky: icono por CSS (data-URI), funciona aunque el <a> esté vacío ==== */
-:root{
-  --md-bluesky-icon: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 568 501"><path fill="%23000" d="M123.121 33.6637C188.241 82.5526 258.281 181.681 284 234.873C309.719 181.681 379.759 82.5526 444.879 33.6637C491.866 -1.61183 568 -28.9064 568 57.9464C568 75.2916 558.055 203.659 552.222 224.501C531.947 296.954 458.067 315.434 392.347 304.249C507.222 323.8 536.444 388.56 473.333 453.32C353.473 576.312 301.061 422.461 287.631 383.039C285.169 375.812 284.017 372.431 284 375.306C283.983 372.431 282.831 375.812 280.369 383.039C266.939 422.461 214.527 576.312 94.6667 453.32C31.5556 388.56 60.7778 323.8 175.653 304.249C109.933 315.434 36.0535 296.954 15.7778 224.501C9.94525 203.659 0 75.2916 0 57.9464C0 -28.9064 76.1345 -1.61183 123.121 33.6637Z"/></svg>');
-}
-
-/* Footer + autores: dibujar icono con máscara para heredar color */
-footer .social-icons a[href*="bsky.app"]::before,
-.author-links a[href*="bsky.app"]::before,
-.network-icon a[href*="bsky.app"]::before{
-  content:"";
-  display:inline-block;
-  width:1.6rem; height:1.6rem; vertical-align:middle;
-  background-color: currentColor;
-  -webkit-mask: var(--md-bluesky-icon) no-repeat center / contain;
-          mask: var(--md-bluesky-icon) no-repeat center / contain;
-}
-
-/* Color de marca (opcional) */
-footer .social-icons a[href*="bsky.app"] { color:#1185fe; }
-footer .social-icons a[href*="bsky.app"]:hover { opacity:.85; }
-
+footer .social-icons a:hover, .author-links a:hover { opacity: .85; }
