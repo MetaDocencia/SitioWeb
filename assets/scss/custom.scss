@@ -29,7 +29,7 @@ footer .social-icons i{
 /* Color de marca SOLO para Bluesky (footer y authors) */
 footer .social-icons a[href*="bsky.app"],
 .author-links a[href*="bsky.app"] {
-  color: #b23a2a;         /* azul Bluesky */
+//  color: #b23a2a;         /* azul Bluesky */
 }
 footer .social-icons a[href*="bsky.app"]:hover,
 .author-links a[href*="bsky.app"]:hover {
@@ -60,6 +60,24 @@ footer .social-icons a[href*="bsky.app"]:hover,
 .social-icons a[href*="bsky.app"] .brand-icon svg,
 .author-links a[href*="bsky.app"] .brand-icon svg {
   transform: scale(0.92); /* ← ajustá 0.90–0.95 según tu ojo */
+  transform-origin: 50% 50%;
+}
+
+/* Bluesky: mismo color que el resto (claro y oscuro) */
+footer .social-icons a[href*="bsky.app"],
+.author-links a[href*="bsky.app"] {
+  color: inherit !important;  /* hereda del grupo, igual que los demás */
+}
+
+footer .social-icons a[href*="bsky.app"]:hover,
+.author-links a[href*="bsky.app"]:hover {
+  opacity: .85;
+}
+
+/* Ajuste óptico que ya venías usando */
+.social-icons a[href*="bsky.app"] .brand-icon svg,
+.author-links a[href*="bsky.app"] .brand-icon svg {
+  transform: scale(0.92);
   transform-origin: 50% 50%;
 }
 
