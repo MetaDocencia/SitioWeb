@@ -3,9 +3,9 @@
 # ==============================
 
 [build]
-  publish = "public"
-  # Fallback (si no hay context.*)
   command = "hugo mod vendor && hugo --gc --minify -b $URL && npx -y pagefind --site 'public'"
+  publish = "public"
+
 
 [build.environment]
   HUGO_ENV     = "production"
