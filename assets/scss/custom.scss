@@ -35,3 +35,31 @@ footer .social-icons a[href*="bsky.app"]:hover,
 .author-links a[href*="bsky.app"]:hover {
   opacity: .85;
 }
+
+/* Normalizar tamaño/alineación de todos los iconos */
+.social-icons i,
+.social-icons iconify-icon,
+.social-icons .brand-icon,
+.author-links i,
+.author-links iconify-icon,
+.author-links .brand-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.6rem;
+  height: 1.6rem;
+  line-height: 1;
+}
+
+.social-icons i,
+.author-links i { font-size: 1.6rem; }
+
+.brand-icon svg { width: 100%; height: 100%; display: block; }
+
+/* Finetune: Bluesky queda apenas más chico para compensar el "sin margen" del SVG */
+.social-icons a[href*="bsky.app"] .brand-icon svg,
+.author-links a[href*="bsky.app"] .brand-icon svg {
+  transform: scale(0.92); /* ← ajustá 0.90–0.95 según tu ojo */
+  transform-origin: 50% 50%;
+}
+
