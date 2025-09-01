@@ -2,33 +2,44 @@
 <footer class="footer mt-6">
 
   {{ $links := site.Params.contact_links }}
+  {{ $brands := site.Data.icons.brands }} {{/* mapa YAML con los SVG inline */}}
 
   {{ if $links }}
   <div class="container py-4">
 
-    {{/* Wrapper de centrado a prueba de balas */}}
     <div class="d-flex justify-content-center">
       <nav class="social-icons d-flex justify-content-center align-items-center flex-wrap gap-3 mb-3 mx-auto"
            aria-label="Redes sociales">
 
         {{ range $links }}
           {{ $name := .name | default .icon }}
+          {{ $icon := .icon }}
+          {{ $pack := .icon_pack | default "fas" }}
 
           <a class="social-link d-inline-flex align-items-center justify-content-center p-1"
              href="{{ .link }}"
              aria-label="{{ $name }}"
              {{ if (hasPrefix .link "http") }}target="_blank" rel="me noopener noreferrer"{{ end }}>
 
-            {{/* Si el icono contiene ":" lo tratamos como Iconify (p.ej. simple-icons:bluesky) */}}
-            {{ if in .icon ":" }}
-              <iconify-icon icon="{{ .icon }}" width="1.6em" height="1.6em" aria-hidden="true"></iconify-icon>
+            {{/* 1) Iconify si el icono viene con "pack:icon" (p.ej. simple-icons:bluesky) */}}
+            {{ if in $icon ":" }}
+              <iconify-icon icon="{{ $icon }}" width="1.6em" height="1.6em" aria-hidden="true"></iconify-icon>
+
+            {{/* 2) Pack "brands" (nuestro YAML) */}}
+            {{ else if or (eq $pack "brands") (eq $pack "brand") (eq $pack "hb") }}
+              {{ with index $brands $icon }}
+                <span class="brand-icon" aria-hidden="true">{{ . | safeHTML }}</span>
+              {{ else }}
+                {{/* Fallback: intentamos FA brands por si acaso */}}
+                <i class="fa-brands fa-{{ $icon }}" aria-hidden="true"></i>
+              {{ end }}
+
+            {{/* 3) Font Awesome (fas/fab/far) */}}
             {{ else }}
-              {{/* Font Awesome v6: fab->fa-brands, fas->fa-solid, far->fa-regular */}}
-              {{ $pack := .icon_pack | default "fas" }}
               {{ $faPack := cond (eq $pack "fab") "fa-brands"
                           (cond (eq $pack "fas") "fa-solid"
                           (cond (eq $pack "far") "fa-regular" $pack)) }}
-              <i class="{{ $faPack }} fa-{{ .icon }}" aria-hidden="true"></i>
+              <i class="{{ $faPack }} fa-{{ $icon }}" aria-hidden="true"></i>
             {{ end }}
 
             <span class="sr-only visually-hidden">{{ $name }}</span>
@@ -37,7 +48,6 @@
 
       </nav>
     </div>
-
   </div>
   {{ end }}
 
@@ -56,15 +66,7 @@
     {{ end }}
   </div>
 
-  {{/* Carga Iconify (para simple-icons:bluesky, etc.) */}}
+  {{/* Cargamos Iconify por si algún ítem usa "pack:icon" */}}
   <script defer src="https://cdn.jsdelivr.net/npm/iconify-icon@2.1.0/dist/iconify-icon.min.js"></script>
-
-  {{ if not hugo.IsProduction }}
-  <div class="footer-debug text-center small text-muted" role="note" aria-live="polite">
-    <strong>Footer parcial activo</strong> — links: {{ len (site.Params.contact_links | default (slice)) }}
-    &nbsp;|&nbsp; FA: <i class="fa-brands fa-github"></i>
-    &nbsp;|&nbsp; Iconify: <iconify-icon icon="simple-icons:bluesky"></iconify-icon>
-  </div>
-  {{ end }}
 
 </footer>
