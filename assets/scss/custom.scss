@@ -26,20 +26,12 @@ footer .social-icons i{
   vertical-align: middle;
 }
 
-/* Unificar color en footer (FA <i> y SVG) */
-footer .social-icons i,
-footer .social-icons svg {
-  color: #b23a2a; /* rojo MD */
+/* Color de marca SOLO para Bluesky (footer y authors) */
+footer .social-icons a[href*="bsky.app"],
+.author-links a[href*="bsky.app"] {
+  color: #1185fe;         /* azul Bluesky */
 }
-
-/* (Opcional) autores: mismo color o heredado del tema */
-.author-links i,
-.author-links svg {
-  color: #b23a2a; /* o 'inherit' si querés que siga el tema */
-}
-
-/* Hover genérico */
-footer .social-icons a:hover,
-.author-links a:hover {
+footer .social-icons a[href*="bsky.app"]:hover,
+.author-links a[href*="bsky.app"]:hover {
   opacity: .85;
 }
