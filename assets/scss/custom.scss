@@ -26,13 +26,40 @@ footer .social-icons i{
   vertical-align: middle;
 }
 
-/* Color de marca SOLO para Bluesky (footer y authors) */
-footer .social-icons a[href*="bsky.app"],
-.author-links a[href*="bsky.app"] {
-//  color: #b23a2a;         /* azul Bluesky */
+/* ================ Unificar color de todas las RRSS ================ */
+/* 1) El color "fuente" será el del <a> del bloque social */
+footer .social-icons a,
+.author-links a {
+  color: var(--md-social-color);
 }
-footer .social-icons a[href*="bsky.app"]:hover,
-.author-links a[href*="bsky.app"]:hover {
+
+/* 2) Valor de color para cada tema */
+:root { --md-social-color: #b23a2a; }                /* Light (rojo MD) */
+html.dark, :root[data-bs-theme="dark"] {
+  --md-social-color: #cfd8f3;                        /* Dark (celeste suave) */
+}
+
+/* 3) Asegurar que TODOS los tipos de icono usen ese color */
+footer .social-icons i,
+.author-links i,
+footer .social-icons iconify-icon,
+.author-links iconify-icon,
+footer .social-icons .brand-icon svg,
+.author-links .brand-icon svg {
+  color: inherit !important;
+  fill: currentColor !important;  /* para SVG */
+}
+
+/* 4) Ajuste óptico para Bluesky (ligeramente más chico) */
+footer .social-icons a[href*="bsky.app"] .brand-icon svg,
+.author-links a[href*="bsky.app"] .brand-icon svg {
+  transform: scale(0.92);
+  transform-origin: 50% 50%;
+}
+
+/* Hover (opcional) */
+footer .social-icons a:hover,
+.author-links a:hover {
   opacity: .85;
 }
 
