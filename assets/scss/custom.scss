@@ -26,41 +26,42 @@ footer .social-icons i{
   vertical-align: middle;
 }
 
-/* ===============================
-   RRSS: mismo color en todos los iconos (incl. Bluesky)
-   =============================== */
+/* ====== RRSS coherentes en color (incl. Bluesky) ====== */
 
-/* 1) Color base por tema */
-:root { --md-social-color: #b23a2a; }                        /* Light: rojo MD */
-html.dark, :root[data-bs-theme="dark"] { --md-social-color: #cfd8f3; }  /* Dark: celeste suave */
+/* Paleta por tema */
+:root { --md-social-color: #b23a2a; }                             /* Light */
+html.dark, :root[data-bs-theme="dark"] { --md-social-color: #cfd8f3; }  /* Dark */
 
 footer .social-icons a,
-.author-links a {
-  color: var(--md-social-color);
+.author-links a { color: var(--md-social-color); }
+
+/* Todos los SVG de redes: tamaño + heredan color del enlace */
+footer .social-icons svg,
+.network-icon svg,
+.author-links svg {
+  width: 1.6rem;
+  height: 1.6rem;
+  display: inline-block;
+  vertical-align: middle;
+  color: inherit !important;                /* <-- clave */
 }
 
-/* 2) FontAwesome / Iconify usan color de enlace */
-footer .social-icons i,
-.author-links i,
-footer .social-icons iconify-icon,
-.author-links iconify-icon {
-  color: inherit !important;
-}
-
-/* 3) SVGs de pack “brands” (nuestro Bluesky) */
-footer .social-icons .brand-icon svg,
-.author-links .brand-icon svg,
-footer .social-icons .brand-icon svg *,
-.author-links .brand-icon svg * {
+/* Y sus nodos internos pintan con currentColor */
+footer .social-icons svg *,
+.network-icon svg *,
+.author-links svg * {
   fill: currentColor !important;
   stroke: currentColor !important;
 }
 
-/* 4) Neutralizar cualquier regla vieja específica de Bluesky */
+/* Neutralizar cualquier regla vieja específica de Bluesky */
 footer .social-icons a[href*="bsky.app"],
-.author-links a[href*="bsky.app"] {
-  color: inherit !important;
-}
+.author-links a[href*="bsky.app"] { color: inherit !important; }
+
+/* Hover genérico (si lo querés) */
+footer .social-icons a:hover,
+.author-links a:hover { opacity: .85; }
+
 
 /* 5) Ajuste óptico (opcional) para Bluesky */
 footer .social-icons a[href*="bsky.app"] .brand-icon svg,
