@@ -3,6 +3,9 @@ title: Boletines
 ---
 **[Suscribirse para recibir el boletín de MetaDocencia](https://www.metadocencia.org/suscripcion/)**
 
+
+- [Ciencia abierta que conecta: satélites, formación y comunidad 🌎 | Apuntes MetaDocentes N° 25](https://mailchi.mp/metadocencia/construyendo-en-comunidad-newsletter-n-19405446?e=798f36b789)
+- [Desde el sur, pensemos en grande: ciencia, investigación y financiamiento 🌎 | Apuntes MetaDocentes N° 24](https://us19.campaign-archive.com/?e=__test_email__&u=92fb89ce82f9689a3b083bb35&id=bc2af35f24)
 - [Inscripciones a ALTa Ciencia Abierta 2025 🧭 | Apuntes MetaDocentes N° 23](https://mailchi.mp/869cde6eb895/construyendo-en-comunidad-newsletter-n-19400746)
 - [Más metas: ¡allá vamos! 🎇 | Apuntes MetaDocentes N° 22](https://mailchi.mp/185abf8783d3/construyendo-en-comunidad-newsletter-n-19399555?e=1a7d1369ce)
 - [¡1, 2, yyy... 3! Cerrando el primer año de certificaciones ALTa 🏅 | Apuntes MetaDocentes N° 21](https://mailchi.mp/28bd30968894/construyendo-en-comunidad-newsletter-n-19398499)
