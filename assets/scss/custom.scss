@@ -56,7 +56,7 @@ footer .social-icons svg *,
 
 /* Neutralizar cualquier regla vieja específica de Bluesky */
 footer .social-icons a[href*="bsky.app"],
-.author-links a[href*="bsky.app"] { color: inherit !important; }
+.author-links a[href*="bsky.app"] { color: #b23a2a !important; }
 
 /* Hover genérico (si lo querés) */
 footer .social-icons a:hover,
