@@ -3,6 +3,8 @@ title: Newsletters
 ---
 **[Subscribe to receive the newsletter](https://www.metadocencia.org/en/suscripcion/)**
 
+- [Open Science that Connects: Satellites, Training, and Community 🌎 | Notes From MetaDocencia N° 25](https://mailchi.mp/metadocencia/construyendo-en-comunidad-newsletter-n-19405961?e=2b0de13655)
+- [Thinking Big from the Global South: Science, Research, and Funding 🌎 | Notes From MetaDocencia N° 24](https://us19.campaign-archive.com/?e=__test_email__&u=92fb89ce82f9689a3b083bb35&id=bc2af35f24)
 - [More Metas: Let's Go! 🎇 | Notes From MetaDocencia N° 22](https://mailchi.mp/e2f0464df79a/construyendo-en-comunidad-newsletter-n-19399708)
 - [1, 2... 3! Closing the first year of ALTa certifications 🏅 | Notes From MetaDocencia N° 21](https://mailchi.mp/4d8d2a69f842/construyendo-en-comunidad-newsletter-n-19398650)
 - [Open Science Plenaries 🌐 | Notes from MetaDocencia N° 20](https://mailchi.mp/5ee3cee7b474/construyendo-en-comunidad-newsletter-n-19397681?e=2b0de13655)
