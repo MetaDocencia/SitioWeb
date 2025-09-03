@@ -1,36 +1,27 @@
 ---
-title: 'Home'
-date: 2023-10-24
+title: "Home"
 type: landing
-
 design:
-  # Default section spacing
   spacing: "6rem"
-
 sections:
-  - block: hero
-    content:
-      title: Potenciemos a América Latina en el mapa de la investigación global
-      primary_action:
-        text: Súmate
-        url: https://hugoblox.com/templates/](https://www.metadocencia.org/suscripcion/
-    design:
-      spacing:
-        padding: [0, 0, 0, 0]
-        margin: [0, 0, 0, 0]
-      # For full-screen, add `min-h-screen` below
-      css_class: "dark"
-      background:
-        color: "navy"
-        image:
-          # Add your image background to `assets/media/`.
-          filename: 3azulrojo.png
-          filters:
-            brightness: 0.5
-          size: cover
-          position: center
-          parallax: false
- - block: markdown
+- block: hero
+  content:
+    title: Potenciemos a América Latina en el mapa de la investigación global
+    primary_action:
+      text: Súmate
+      url: /suscripcion/
+  design:
+    css_class: "dark"
+    spacing:
+      padding: [0,0,0,0]
+      margin: [0,0,0,0]
+    background:
+      image:
+        filename: 3azulrojo.png
+        filters:
+          brightness: 0.5
+
+- block: markdown
   id: solutions
   content:
     title: ""
@@ -56,52 +47,30 @@ sections:
       </div>
   design:
     css_class: "bg-gray-100 dark:bg-gray-900"
-    
-  - block: stats
-    content:
-      items:
-        - statistic: "NN"
-          description: |
-            Proyectos  
-            financiados
-        - statistic: "+1500"
-          description: |
-            personas  
-            formadas
-        - statistic: "+1000"
-          description: |
-            personas en la   
-            comunidad de Slack
-    design:
-      # Section background color (CSS class)
-      css_class: "bg-gray-100 dark:bg-gray-900"
-      # Reduce spacing
-      spacing:
-        padding: ["1rem", 0, "1rem", 0]
-  - block: testimonials
-    content:
-      title: ""
-      text: ""
-      items:
-        - name: "3 TESTIMONIOS A DEFINIR - Julio Zetter"
-          role: " Coordinador en Jefe de la base de datos y hemeroteca virtual SciELO México"
-          # Upload image to `assets/media/` and reference the filename here
-          image: "juliozetter.jpeg"
-          text: "No cabe más que agradecer a los instructores que hicieron posible este curso, que sin duda es la semilla de grandes frutos. Gracias por tanto MetaDocencia"
-    design:
-      spacing:
-        # Reduce bottom spacing so the testimonial appears vertically centered between sections
-        padding: ["6rem", 0, 0, 0]
-  - block: cta-card
-    content:
-      title: Apoya a la ciencia latinoamericana
-      text: Aquí te contamos cómo
-      button:
-        text: Súmate
-        url: https://hugoblox.com/templates/
-    design:
-      card:
-        # Card background color (CSS class)
-        css_class: "bg-primary-700"
-        css_style: ""
+
+- block: stats
+  content:
+    items:
+      - { statistic: "NN", description: "Proyectos\ nfinanciados" }
+      - { statistic: "+1500", description: "personas\ nformadas" }
+      - { statistic: "+1000", description: "personas en la\ ncomunidad de Slack" }
+  design:
+    spacing: { padding: ["1rem",0,"1rem",0] }
+    css_class: "bg-gray-100 dark:bg-gray-900"
+
+- block: testimonials
+  content:
+    items:
+    - name: "Julio Zetter"
+      role: "Coordinador en Jefe de la base de datos y hemeroteca virtual SciELO México"
+      image: "juliozetter.jpeg"
+      text: "No cabe más que agradecer… Gracias por tanto MetaDocencia"
+
+- block: cta-card
+  content:
+    title: Apoya a la ciencia latinoamericana
+    text: Aquí te contamos cómo
+    button: { text: Súmate, url: /donar/ }
+  design:
+    card: { css_class: "bg-primary-700" }
 ---
