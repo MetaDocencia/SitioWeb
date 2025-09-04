@@ -66,11 +66,14 @@ sections:
       image: "juliozetter.jpeg"
       text: "No cabe más que agradecer… Gracias por tanto MetaDocencia"
 
-- block: cta-card
+- block: markdown
   content:
-    title: Apoya a la ciencia latinoamericana
-    text: Aquí te contamos cómo
-    button: { text: Súmate, url: /donar/ }
-  design:
-    card: { css_class: "bg-primary-700" }
+    text: |
+      <div class="card text-center shadow-sm bg-primary-700">
+        <div class="card-body py-5">
+          <h2 class="card-title mb-3">Apoya a la ciencia latinoamericana</h2>
+          <p class="lead mb-4">Aquí te contamos cómo</p>
+          <a class="btn btn-light" href="/donar/">Súmate</a>
+        </div>
+      </div>
 ---
