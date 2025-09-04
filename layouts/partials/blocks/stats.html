@@ -1,0 +1,14 @@
+{{/* layouts/partials/blocks/stats.html */}}
+{{- $block := .block -}}
+<section {{ with $block.id }}id="{{ . }}"{{ end }}>
+  <div class="container">
+    <div class="row text-center g-4">
+      {{- range $block.content.items }}
+      <div class="col-12 col-md-4">
+        <div class="display-4 fw-bold">{{ .statistic }}</div>
+        <div class="lead mb-0">{{ .description | markdownify }}</div>
+      </div>
+      {{- end }}
+    </div>
+  </div>
+</section>

@@ -5,7 +5,7 @@
 appearance:
   mode: "auto"                       # "light" | "dark" | "auto"
   theme_day: "metadocencia_theme"    # nombre del tema claro en data/themes/*.toml
-  theme_night: "metadocencia_theme_dark"  # tema oscuro accesible que creaste
+  theme_night: "metadocencia_theme"  # tema oscuro accesible que creaste
 
 # Tipografías (opcional)
 font: ""

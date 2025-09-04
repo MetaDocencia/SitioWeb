@@ -1,0 +1,26 @@
+{{/* layouts/partials/blocks/cta-card.html */}}
+{{- $b := .block -}}
+<section {{ with $b.id }}id="{{ . }}"{{ end }} class="{{ with $b.design.css_class }}{{ . }}{{ end }}">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-12 col-lg-8">
+        <div class="card text-center shadow-sm {{ with $b.design.card.css_class }}{{ . }}{{ end }}"
+             {{ with $b.design.card.css_style }}style="{{ . | safeCSS }}"{{ end }}>
+          <div class="card-body py-5">
+            {{ with $b.content.title }}<h2 class="card-title mb-3">{{ . }}</h2>{{ end }}
+            {{ with $b.content.text }}<p class="card-text lead mb-4">{{ . | markdownify }}</p>{{ end }}
+            {{ with $b.content.button }}
+              {{ $href := .url | relURL }}
+              {{ $isExternal := hasPrefix .url "http" }}
+              <a class="btn btn-primary"
+                 href="{{ if $isExternal }}{{ .url }}{{ else }}{{ $href }}{{ end }}"
+                 {{ if $isExternal }}target="_blank" rel="noopener noreferrer"{{ end }}>
+                 {{ .text | default "Más información" }}
+              </a>
+            {{ end }}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
