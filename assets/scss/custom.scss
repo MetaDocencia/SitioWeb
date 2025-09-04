@@ -119,3 +119,88 @@ footer .social-icons a[href*="bsky.app"] .brand-icon svg,
   border: 0;
 }
 
+/* ===== Mailchimp embed (claro/oscuro) ===== */
+
+/* Variables por tema */
+.mc-embed {
+  --mc-bg: #fff;
+  --mc-text: #222;
+  --mc-border: #ddd;
+  --mc-placeholder: #7a7a7a;
+  --mc-btn-bg: #b23a2a;  /* rojo MD */
+  --mc-btn-text: #fff;
+  --mc-maxw: 720px;
+}
+
+/* Dark mode (Hugo Blox) */
+html.dark .mc-embed,
+:root[data-bs-theme="dark"] .mc-embed {
+  --mc-bg: transparent;
+  --mc-text: var(--bs-body-color, #e6e9f0);
+  --mc-border: rgba(255,255,255,.28);
+  --mc-placeholder: rgba(255,255,255,.6);
+  --mc-btn-bg: #b23a2a;
+  --mc-btn-text: #fff;
+}
+
+/* Contenedor general */
+.mc-embed #mc_embed_signup {
+  background: var(--mc-bg) !important;
+  color: var(--mc-text) !important;
+  border-radius: 8px;
+  max-width: var(--mc-maxw);
+  margin: 0 auto;
+  padding: 1rem 0; /* el CSS de Mailchimp añade su propio padding; lo mantenemos suave */
+}
+
+/* Títulos y textos */
+.mc-embed #mc_embed_signup h2,
+.mc-embed #mc_embed_signup label,
+.mc-embed #mc_embed_signup .indicates-required,
+.mc-embed #mc_embed_signup .mc-field-group label {
+  color: var(--mc-text) !important;
+}
+
+/* Campos */
+.mc-embed #mc_embed_signup input[type="text"],
+.mc-embed #mc_embed_signup input[type="email"],
+.mc-embed #mc_embed_signup input[type="url"],
+.mc-embed #mc_embed_signup input[type="tel"],
+.mc-embed #mc_embed_signup input[type="number"],
+.mc-embed #mc_embed_signup textarea,
+.mc-embed #mc_embed_signup select {
+  width: 100%;
+  border: 1px solid var(--mc-border) !important;
+  color: var(--mc-text) !important;
+  background: color-mix(in oklab, var(--mc-bg) 92%, #000 8%) !important; /* gris suave sobre claro u oscuro */
+  border-radius: 6px;
+  box-shadow: none !important;
+  padding: .65rem .8rem;
+}
+
+.mc-embed #mc_embed_signup input::placeholder,
+.mc-embed #mc_embed_signup textarea::placeholder {
+  color: var(--mc-placeholder) !important;
+}
+
+/* Botón */
+.mc-embed #mc_embed_signup .button,
+.mc-embed #mc_embed_signup input[type="submit"] {
+  background: var(--mc-btn-bg) !important;
+  color: var(--mc-btn-text) !important;
+  border: 0 !important;
+  border-radius: 6px;
+  padding: .6rem 1rem;
+  cursor: pointer;
+}
+.mc-embed #mc_embed_signup .button:hover,
+.mc-embed #mc_embed_signup input[type="submit"]:hover { opacity: .9; }
+
+/* Enlaces (p.ej. badge) */
+.mc-embed #mc_embed_signup a { color: inherit; text-decoration: underline; }
+
+/* Badge: si se ve muy oscuro en dark, puedes invertirlo ligeramente */
+html.dark .mc-embed img.refferal_badge,
+:root[data-bs-theme="dark"] .mc-embed img.refferal_badge {
+  filter: brightness(1.1) contrast(0.95);
+}
