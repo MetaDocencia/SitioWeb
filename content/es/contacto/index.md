@@ -1,5 +1,9 @@
----
-title: "Contacto"
-type: page
----
-{{< formspree id="xeqzpkjn" lang="es" thanks="https://www.metadocencia.org/es/gracias/" >}}
++++
+title = "Contacto"
+
+[[sections]]
+block = "contact"
+content.title = "Contacto"
+content.form.provider = "formspree"
+content.form.formspree.id = "xeqzpkjn"  # tu ID
++++
