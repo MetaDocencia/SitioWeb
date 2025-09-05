@@ -2,13 +2,15 @@
 title = "Contacto"
 type  = "landing"
 
-# Un único bloque: formulario de contacto (Formspree)
 [[sections]]
 block = "contact"
 content.title = "Contacto"
+
+# Formulario
 content.form.provider = "formspree"
-content.form.formspree.id = "xeqzpkjn"  # ID
-content.form.formspree.lang   = "es"
-# clave de redirección (la mayoría de builds de Hugo Blox la soportan)
-content.form.formspree.thanks = "https://www.metadocencia.org/es/gracias/"
+content.form.lang     = "es"          # idioma del thanks de Formspree (si se usa)
+content.form.thanks   = "/es/gracias/"# TU página de gracias (URL relativa)
+
+# Credenciales de Formspree
+content.form.formspree.id = "xeqzpkjn"
 +++
