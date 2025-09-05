@@ -7,5 +7,8 @@ type  = "landing"
 block = "contact"
 content.title = "Contacto"
 content.form.provider = "formspree"
-content.form.formspree.id = "xeqzpkjn"  # tu ID
+content.form.formspree.id = "xeqzpkjn"  # ID
+content.form.formspree.lang   = "es"
+# clave de redirección (la mayoría de builds de Hugo Blox la soportan)
+content.form.formspree.thanks = "https://www.metadocencia.org/es/gracias/"
 +++
