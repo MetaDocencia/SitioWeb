@@ -87,4 +87,21 @@ sections:
         - name: "Julio Zetter"
           role: "Coordinador en Jefe de la base de datos y hemeroteca virtual SciELO México"
           image: "juliozetter.jpeg"
-          text: "No cabe más que agradecer a los instructores que hicieron posible este curso, que sin duda es la semilla de grandes frutos.
+          text: "No cabe más que agradecer a los instructores que hicieron posible este curso, que sin duda es la semilla de grandes frutos. Gracias por tanto MetaDocencia"
+    design:
+      spacing:
+        padding: ["6rem", 0, 0, 0]
+
+  - block: cta-card
+    content:
+      title: "Apoya a la ciencia latinoamericana"
+      text: "Aquí te contamos cómo"
+      button:
+        label: "Súmate"
+        url: /donar/
+    design:
+      card:
+        # Bootstrap classes (compatibles con Blox)
+        css_class: "bg-primary text-white"
+        css_style: ""
+---
