@@ -3,23 +3,31 @@
 # ==============================
 
 [build]
-  command = "hugo mod clean && hugo mod vendor && hugo --gc --minify --baseURL ${URL}/ && npx -y pagefind --site 'public'"
+  # Prod por defecto (usa ${URL}/):
+  command = "hugo mod vendor && hugo --gc --minify --baseURL ${URL}/ && npx -y pagefind --site 'public'"
   publish = "public"
 
 [build.environment]
   HUGO_ENV           = "production"
-  HUGO_VERSION       = "0.150.0"   # >= 0.148.2 extended
+  HUGO_VERSION       = "0.125.0"   # ← Prod sigue con la versión actual
   HUGO_ENABLEGITINFO = "true"
   NODE_VERSION       = "20"
 
 # ---------- Producción ----------
 [context.production]
-  command = "hugo mod clean && hugo mod vendor && hugo --gc --minify --baseURL ${URL}/ && npx -y pagefind --site 'public'"
+  command = "hugo mod vendor && hugo --gc --minify --baseURL ${URL}/ && npx -y pagefind --site 'public'"
 
 # ---------- Deploy Preview (PRs) ----------
 [context.deploy-preview]
+  # Limpiamos módulos para evitar caché sucio al probar el theme nuevo:
   command = "hugo mod clean && hugo mod vendor && hugo --gc --minify --baseURL ${DEPLOY_PRIME_URL}/ && npx -y pagefind --site 'public'"
+
+[context.deploy-preview.environment]
+  HUGO_VERSION = "0.148.2"   # ← Solo previews: version nueva
 
 # ---------- Branch Deploys (ramas sin PR) ----------
 [context.branch-deploy]
   command = "hugo mod clean && hugo mod vendor && hugo --gc --minify --baseURL ${DEPLOY_PRIME_URL}/ && npx -y pagefind --site 'public'"
+
+[context.branch-deploy.environment]
+  HUGO_VERSION = "0.148.2"   # ← Solo branch deploys: version nueva
