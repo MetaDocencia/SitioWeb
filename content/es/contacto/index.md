@@ -1,3 +1,4 @@
+---
 type  = "landing"
 
 [[sections]]
@@ -11,3 +12,4 @@ content.form.thanks   = "/es/gracias/"# TU página de gracias (URL relativa)
 
 # Credenciales de Formspree
 content.form.formspree.id = "xeqzpkjn"
+---
