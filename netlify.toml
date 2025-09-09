@@ -19,16 +19,18 @@
 
 # ---------- Deploy Preview (PRs) ----------
 [context.deploy-preview]
-  command = "npm ci && hugo mod clean && hugo mod vendor && hugo --gc --minify --baseURL ${DEPLOY_PRIME_URL}/ && npx -y pagefind --site 'public'"
+  command = "npm ci && npx update-browserslist-db@latest --update-db && hugo mod clean && hugo mod vendor && hugo --gc --minify --baseURL ${DEPLOY_PRIME_URL}/ && npx -y pagefind --site 'public'"
   [context.deploy-preview.environment]
     HUGO_ENV     = "production"
     HUGO_VERSION = "0.148.2"
     NODE_VERSION = "20"
+    BROWSERSLIST_IGNORE_OLD_DATA = "1"
 
-# ---------- Branch Deploys (ramas sin PR) ----------
 [context.branch-deploy]
-  command = "npm ci && hugo mod clean && hugo mod vendor && hugo --gc --minify --baseURL ${DEPLOY_PRIME_URL}/ && npx -y pagefind --site 'public'"
+  command = "npm ci && npx update-browserslist-db@latest --update-db && hugo mod clean && hugo mod vendor && hugo --gc --minify --baseURL ${DEPLOY_PRIME_URL}/ && npx -y pagefind --site 'public'"
   [context.branch-deploy.environment]
     HUGO_ENV     = "production"
     HUGO_VERSION = "0.148.2"
     NODE_VERSION = "20"
+    BROWSERSLIST_IGNORE_OLD_DATA = "1"
+
