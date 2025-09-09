@@ -78,3 +78,4 @@ sections:
     design:
       card:
         css_class: "bg-primary-700 text-white"
+---
