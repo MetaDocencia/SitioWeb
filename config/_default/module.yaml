@@ -1,3 +1,4 @@
 imports:
   - path: github.com/HugoBlox/theme-landing-page
+  - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-reveal
 
