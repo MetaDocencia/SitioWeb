@@ -1,8 +1,8 @@
 {
   "name": "metadocencia-site",
   "private": true,
+  "dependencies": { "tailwindcss": "^3.4.13" },
   "devDependencies": {
-    "tailwindcss": "^4.0.0",
     "postcss": "^8.4.47",
     "autoprefixer": "^10.4.20"
   }
