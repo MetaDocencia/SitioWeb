@@ -9,9 +9,12 @@
 
 [build.environment]
   HUGO_ENV           = "production"
-  HUGO_VERSION       = "0.125.0"   # ← Prod sigue con la versión actual
+  HUGO_VERSION       = "0.125.0"
   HUGO_ENABLEGITINFO = "true"
   NODE_VERSION       = "20"
+  BROWSERSLIST_IGNORE_OLD_DATA = "1"   # ← evita el warning de Browserslist
+  # NPM_FLAGS = "--include=dev"        # ← solo si Tailwind queda en devDependencies
+
 
 # ---------- Producción ----------
 [context.production]
