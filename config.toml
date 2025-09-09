@@ -52,11 +52,14 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 [blackfriday]
   fractions = false
 
-# ✅ Evita el crash del parcial de analytics/SEO
+# Back-compat: algunos parciales miran este campo
 googleAnalytics = ""
+
+# GA4 (nuevo)
 [services]
   [services.googleAnalytics]
-    id = ""
+    id = ""   # Cuando tengas tu G-XXXX, colocalo aquí
+
 
 # Seguridad
 [security]
