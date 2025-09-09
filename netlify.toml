@@ -3,38 +3,23 @@
 # ==============================
 
 [build]
-  command = "hugo mod vendor && hugo --gc --minify -b $URL && npx -y pagefind --site 'public'"
+  command = "hugo mod clean && hugo mod vendor && hugo --gc --minify --baseURL ${URL}/ && npx -y pagefind --site 'public'"
   publish = "public"
 
-
 [build.environment]
-  HUGO_ENV     = "production"
-  HUGO_VERSION = "0.125.0"
-  NODE_VERSION = "20"
+  HUGO_ENV           = "production"
+  HUGO_VERSION       = "0.150.0"   # >= 0.148.2 extended
+  HUGO_ENABLEGITINFO = "true"
+  NODE_VERSION       = "20"
 
 # ---------- Producción ----------
 [context.production]
-  command = "hugo mod vendor && hugo --gc --minify -b $URL && npx -y pagefind --site 'public'"
-
-[context.production.environment]
-  HUGO_ENV     = "production"
-  HUGO_VERSION = "0.125.0"
-  NODE_VERSION = "20"
+  command = "hugo mod clean && hugo mod vendor && hugo --gc --minify --baseURL ${URL}/ && npx -y pagefind --site 'public'"
 
 # ---------- Deploy Preview (PRs) ----------
 [context.deploy-preview]
-  command = "hugo mod vendor && hugo --gc --minify --baseURL ${DEPLOY_PRIME_URL}/ && npx -y pagefind --site 'public'"
+  command = "hugo mod clean && hugo mod vendor && hugo --gc --minify --baseURL ${DEPLOY_PRIME_URL}/ && npx -y pagefind --site 'public'"
 
-[context.deploy-preview.environment]
-  HUGO_ENV     = "production"
-  HUGO_VERSION = "0.125.0"
-  NODE_VERSION = "20"
-
-# ---------- Branch Deploys ----------
+# ---------- Branch Deploys (ramas sin PR) ----------
 [context.branch-deploy]
-  command = "hugo mod vendor && hugo --gc --minify --baseURL ${DEPLOY_PRIME_URL}/ && npx -y pagefind --site 'public'"
-
-[context.branch-deploy.environment]
-  HUGO_ENV     = "production"
-  HUGO_VERSION = "0.125.0"
-  NODE_VERSION = "20"
+  command = "hugo mod clean && hugo mod vendor && hugo --gc --minify --baseURL ${DEPLOY_PRIME_URL}/ && npx -y pagefind --site 'public'"
