@@ -1,5 +1,16 @@
----
-title: "Contact"
-type: page
----
-{{< formspree id="xeqzpkjn" lang="en" thanks="https://www.metadocencia.org/en/thanks/" >}}
++++
+title = "Contacto"
+type  = "landing"
+
+[[sections]]
+block = "contact"
+content.title = "Contacto"
+
+# Formulario
+content.form.provider = "formspree"
+content.form.lang     = "en"          # idioma del thanks de Formspree (si se usa)
+content.form.thanks   = "/es/thanks/"# TU página de gracias (URL relativa)
+
+# Credenciales de Formspree
+content.form.formspree.id = "xeqzpkjn"
++++
