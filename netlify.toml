@@ -19,15 +19,16 @@
 
 # ---------- Deploy Preview (PRs) ----------
 [context.deploy-preview]
-  # Limpiamos módulos para evitar caché sucio al probar el theme nuevo:
-  command = "hugo mod clean && hugo mod vendor && hugo --gc --minify --baseURL ${DEPLOY_PRIME_URL}/ && npx -y pagefind --site 'public'"
-
-[context.deploy-preview.environment]
-  HUGO_VERSION = "0.148.2"   # ← Solo previews: version nueva
+  command = "npm ci && hugo mod clean && hugo mod vendor && hugo --gc --minify --baseURL ${DEPLOY_PRIME_URL}/ && npx -y pagefind --site 'public'"
+  [context.deploy-preview.environment]
+    HUGO_ENV     = "production"
+    HUGO_VERSION = "0.148.2"
+    NODE_VERSION = "20"
 
 # ---------- Branch Deploys (ramas sin PR) ----------
 [context.branch-deploy]
-  command = "hugo mod clean && hugo mod vendor && hugo --gc --minify --baseURL ${DEPLOY_PRIME_URL}/ && npx -y pagefind --site 'public'"
-
-[context.branch-deploy.environment]
-  HUGO_VERSION = "0.148.2"   # ← Solo branch deploys: version nueva
+  command = "npm ci && hugo mod clean && hugo mod vendor && hugo --gc --minify --baseURL ${DEPLOY_PRIME_URL}/ && npx -y pagefind --site 'public'"
+  [context.branch-deploy.environment]
+    HUGO_ENV     = "production"
+    HUGO_VERSION = "0.148.2"
+    NODE_VERSION = "20"
