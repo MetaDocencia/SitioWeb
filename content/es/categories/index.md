@@ -1,4 +1,6 @@
 ---
 title: "Categorías"
-aliases: ["/es/categorias/"]
+aliases:
+  - /es/categorias/
+  - /categorias/
 ---
