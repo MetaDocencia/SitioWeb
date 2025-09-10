@@ -1,56 +1,86 @@
-# config/_default/hugo.yaml
-cascade:
-  # Posts - idioma por defecto en raíz (sin subcarpeta)
-  - _target: { path: /post/**, kind: page }
-    profile: true
-    share: false
+# Configuration of Hugo
+# Guide: https://docs.hugoblox.com/tutorial/
+# Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
+# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-  # Blog - idioma por defecto en raíz
-  - _target: { path: /blog/**, kind: page }
-    profile: true
-    share: false
+title: Creator's Landing Page | Hugo Theme # Website name
+baseURL: 'https://example.com/' # Website URL
 
-  # Español
-  - _target: { path: /es/post/**, kind: page }
-    profile: true
-    share: false
-  - _target: { path: /es/blog/**, kind: page }
-    profile: true
-    share: false
-
-  # Inglés (si usan subcarpeta /en/)
-  - _target: { path: /en/post/**, kind: page }
-    profile: true
-    share: false
-  - _target: { path: /en/blog/**, kind: page }
-    profile: true
-    share: false
+############################
+## PAGE OPTIONS
+############################
 
 cascade:
-  # 0) DEFAULT GLOBAL: todas las páginas de content/**
-  - target:
+  # Blog post options
+  - _target:
+      path: /blog/**
       kind: page
-      path: "/**"
-    profile: false
-    share: false
+    pager: true
+    editable: true
+    hide_date: false
+    show_date_updated: true
+    reading_time: true
+    commentable: true
+    show_related: true
+    share: true
+    # Just use Breadcrumb for navigation on blog post pages?
+    show_breadcrumb: false
+    header:
+      navbar:
+        enable: true
+  # Blog section options
+  - _target:
+      path: /blog/*
+      kind: section
+    # Set the listing view
+    view: date-title-summary
 
-  # 1) Excepciones: posts/blog (mantener tarjeta de autor), ES y EN
-  - target: { kind: page, path: "/post/**" }
-    profile: true
-    share: false
-  - target: { kind: page, path: "/blog/**" }
-    profile: true
-    share: false
-  - target: { kind: page, path: "/es/post/**" }
-    profile: true
-    share: false
-  - target: { kind: page, path: "/es/blog/**" }
-    profile: true
-    share: false
-  - target: { kind: page, path: "/en/post/**" }
-    profile: true
-    share: false
-  - target: { kind: page, path: "/en/blog/**" }
-    profile: true
-    share: false
+############################
+## LANGUAGE
+############################
 
+defaultContentLanguage: en
+hasCJKLanguage: false
+defaultContentLanguageInSubdir: false
+removePathAccents: true
+
+############################
+## ADVANCED
+############################
+
+build:
+  writeStats: true
+enableGitInfo: false
+summaryLength: 30
+pagination:
+  pagerSize: 10
+enableEmoji: true
+enableRobotsTXT: true
+footnotereturnlinkcontents: <sup>^</sup>
+ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
+permalinks:
+  authors: '/author/:slug/'
+  tags: '/tag/:slug/'
+  categories: '/category/:slug/'
+disableAliases: true
+outputs:
+  home: [HTML, RSS, headers, redirects]
+  section: [HTML, RSS]
+imaging:
+  resampleFilter: lanczos
+  quality: 90
+  anchor: smart
+  hint: picture
+timeout: 600000
+taxonomies:
+  tag: tags
+  category: categories
+  author: authors
+markup:
+  _merge: deep
+  highlight:
+    lineNos: false
+security:
+  _merge: deep
+sitemap:
+  _merge: deep
