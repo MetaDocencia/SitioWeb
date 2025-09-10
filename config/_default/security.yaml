@@ -1,0 +1,6 @@
+# config/_default/security.yaml
+security:
+  _merge: deep
+  enableInlineShortcodes: false
+  funcs:
+    getenv: ['^HUGO_', '^CI$', '^WC_POST_CSS$']
