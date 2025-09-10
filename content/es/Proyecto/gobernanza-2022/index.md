@@ -38,7 +38,7 @@ La puesta en práctica de nuestra nueva gobernanza comenzó en diciembre de 2022
 
 En 2024, en el marco de [nuestra colaboración con OLS](https://www.metadocencia.org/post/ols8/), trabajamos específicamente en la Gobernanza 2.0 de MetaDocencia, ya que repensamos, enriquecimos, actualizamos y formalizamos documentación relativa al proceso 
 
-🔗 Gobernanza 2.0: https://doi.org/10.5281/zenodo.1079064
+🔗 Gobernanza 2.0: https://zenodo.org/records/12522913
 
 🔗 [Leer más sobre el avance del proceso de gobernanza](https://zenodo.org/record/7392334#.Y7gW6XaZNPY).
 
