@@ -1,26 +1,27 @@
+{{/* Bloque: stats (acepta items con value/label o statistic/description) */}}
 {{- $b := .block -}}
-<section class="section stats" id="{{ $b.id | default "" }}">
+{{- $content := or (index $b "content") (dict) -}}
+
+{{- $items := or (index $content "items") (index $content "stats") (slice) -}}
+{{- if eq (len $items) 0 }}{{ return }}{{ end -}}
+
+<section class="section stats" id="{{ index $b "id" | default "" }}">
   <div class="container">
-    {{ with $b.content.title }}<h2 class="text-center mb-5">{{ . | markdownify }}</h2>{{ end }}
-
-    {{/* Soportar content.items o content.stats */}}
-    {{- $items := slice -}}
-    {{- with $b.content.items }}{{ $items = . }}{{ end -}}
-    {{- if not (len $items) }}{{ with $b.content.stats }}{{ $items = . }}{{ end }}{{ end -}}
-
+    {{ with (index $content "title") }}<h2 class="text-center mb-5">{{ . | markdownify }}</h2>{{ end }}
     <div class="row g-4 justify-content-center">
-      {{- range $i, $it := $items -}}
+      {{ range $it := $items }}
+        {{- $val := or (index $it "value") (index $it "statistic") -}}
+        {{- $lab := or (index $it "label") (index $it "description") -}}
         <div class="col-6 col-md-3">
           <div class="card text-center h-100">
             <div class="card-body py-4">
-              {{ with $it.value }}<div class="h2 fw-bold">{{ . | markdownify }}</div>{{ end }}
-              {{ with $it.label }}<div class="text-muted">{{ . | markdownify }}</div>{{ end }}
+              {{ with $val }}<div class="h2 fw-bold">{{ . | markdownify }}</div>{{ end }}
+              {{ with $lab }}<div class="text-muted">{{ . | markdownify }}</div>{{ end }}
             </div>
           </div>
         </div>
-      {{- end -}}
+      {{ end }}
     </div>
-
-    {{ with $b.content.note }}<p class="small text-muted text-center mt-3">{{ . | markdownify }}</p>{{ end }}
+    {{ with (index $content "note") }}<p class="small text-muted text-center mt-3">{{ . | markdownify }}</p>{{ end }}
   </div>
 </section>
