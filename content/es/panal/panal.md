@@ -1,4 +1,30 @@
 +++
+
+title: "Home"
+type: landing
+
+design:
+  spacing: "6rem"
+  
+sections:
+  - block: hero
+    content:
+      title: Quiénes somos
+      text: MetaDocencia es una organización sin fines de lucro fundada en 2020. Nuestra comunidad construye capacidades científicas locales para transformar la ciencia global. Hacemos crecer la ciencia en red, desde América Latina hacia el mundo.
+    primary_action:
+        text: Nuestra Gobernanza
+        url: https://hugoblox.com/templates/](https://www.metadocencia.org/suscripcion/
+    design:
+      spacing:
+        padding: [0, 0, 0, 0]
+        margin: [0, 0, 0, 0]
+      background:
+        image:
+          filename: quienessomos.jpg
+          filters:
+            brightness: 0.3
+        text_color_light: true
+
 # A "Meet the Team" section created with the People widget.
 # This section displays people from `content/authors/` which belong to the `user_groups` below.
 
