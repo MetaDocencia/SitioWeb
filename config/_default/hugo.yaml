@@ -1,57 +1,53 @@
-# hugo.yaml — Config unificada para MetaDocencia (Hugo Blox)
-
 title: MetaDocencia
 baseURL: "https://www.metadocencia.org/"
-
-############################
-## LANGUAGE
-############################
 defaultContentLanguage: es
-hasCJKLanguage: false
-defaultContentLanguageInSubdir: false
 removePathAccents: true
 
-############################
-## PAGE OPTIONS (ej. blog)
-############################
-cascade:
-  # Entradas del blog
-  - _target:
-      path: /blog/**
-      kind: page
-    pager: true
-    editable: true
-    hide_date: false
-    show_date_updated: true
-    reading_time: true
-    commentable: true
-    show_related: true
-    share: true
-    show_breadcrumb: false
-    header:
-      navbar:
-        enable: true
-  # Listado del blog
-  - _target:
-      path: /blog/*
-      kind: section
-    view: date-title-summary
-
-############################
-## ADVANCED
-############################
 build:
   writeStats: true
-enableGitInfo: false
 summaryLength: 30
 pagination:
-  pagerSize: 10       # reemplaza la clave obsoleta `paginate`
+  pagerSize: 10
 enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: "<sup>^</sup>"
-ignoreFiles: ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
-permalinks:
-  authors: "/author/:slug/"
-  tags: "/tag/:slug/"
-  categories: "/category/:slug/"
-disableAliases: false
+
+outputs:
+  home: [HTML, RSS, JSON, WebAppManifest]
+  section: [HTML, RSS]
+
+mediaTypes:
+  application/manifest+json:
+    suffixes: ["webmanifest"]
+outputFormats:
+  WebAppManifest:
+    mediaType: application/manifest+json
+    rel: manifest
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    lineNos: false
+    codeFences: false
+  tableOfContents:
+    startLevel: 2
+    endLevel: 3
+
+imaging:
+  resampleFilter: lanczos
+  quality: 90
+  anchor: smart
+  hint: picture
+
+taxonomies:
+  tag: tags
+  category: categories
+  author: authors
+
+security:
+  _merge: deep
+  enableInlineShortcodes: false
+  funcs:
+    getenv: ['^HUGO_', '^CI$', '^WC_POST_CSS$']
