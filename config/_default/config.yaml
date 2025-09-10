@@ -51,3 +51,7 @@ security:
   enableInlineShortcodes: false
   funcs:
     getenv: ['^HUGO_', '^CI$', '^WC_POST_CSS$']
+
+services:
+  googleAnalytics:
+    ID: ""   # si no usan GA, dejalo vacío; si lo usan, poné tu G-XXXX
