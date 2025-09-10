@@ -1,40 +1,52 @@
-{{/* Bloque: cta-image-paragraph (robusto a dicts y sin contenido) */}}
-{{- $b := .block -}}
-{{- $content := or (index $b "content") (dict) -}}
+{{/* Bloque: cta-image-paragraph (robusto a shapes y claves) */}}
+{{- $ctx := . -}}
+{{- $b := or (index $ctx "block") $ctx -}}
+{{- $content := or (index $b "content") $b -}}
 
-{{/* Guard: salir si no hay nada que mostrar */}}
-{{- $title := index $content "title" -}}
-{{- $text  := or (index $content "text") (index $content "body") (index $content "markdown") -}}
-{{- $img   := index $content "image" -}}
-{{- $btn   := index $content "button" -}}
-{{- $hasItems := or $title $text $img $btn -}}
-{{- if not $hasItems }}{{ return }}{{ end -}}
+{{- $items := index $content "items" -}}
+{{- $hasItems := and $items (gt (len $items) 0) -}}
 
 <section class="section cta-image-paragraph" id="{{ index $b "id" | default "" }}">
   <div class="container">
-    <div class="row g-5 align-items-center">
-      <div class="col-12 col-md-6 order-md-2">
-        {{ with $img }}
-          <img src="{{ (printf "/media/%s" .) | relURL }}" alt="{{ index $content "image_alt" | default "" }}" class="img-fluid">
-        {{ end }}
-      </div>
-      <div class="col-12 col-md-6 order-md-1">
-        {{ with $title }}<h2 class="mb-3">{{ . | markdownify }}</h2>{{ end }}
-        {{ with $text  }}<div class="lead">{{ . | markdownify }}</div>{{ end }}
-        {{ with $btn }}
-          {{- $label := or (index . "label") (index . "text") -}}
-          <a class="btn btn-primary mt-3" href="{{ index . "url" }}">{{ $label | default "Más info" }}</a>
-        {{ end }}
-        {{/* Opcional: features como bullets si existen */}}
-        {{- $features := index $content "features" | default (slice) -}}
-        {{- if gt (len $features) 0 -}}
-        <ul class="mt-3">
-          {{- range $f := $features -}}
-            <li>{{ $f | markdownify }}</li>
-          {{- end -}}
-        </ul>
+    {{/* Si viene como lista de items, renderizamos todos; si no, un bloque simple */}}
+    {{- if $hasItems -}}
+      <div class="row g-5 align-items-center">
+        {{- range $it := $items -}}
+          {{- $title := index $it "title" -}}
+          {{- $text  := or (index $it "text") (index $it "body") (index $it "markdown") -}}
+          {{- $img   := index $it "image" -}}
+          {{- $btn   := index $it "button" -}}
+          {{- $btnLabel := or (index $btn "label") (index $btn "text") -}}
+          <div class="col-12 col-md-6">
+            <div class="row g-4 align-items-center">
+              <div class="col-12 {{ if $img }}col-md-5 order-md-2{{ end }}">
+                {{ with $img }}<img src="{{ (printf "/media/%s" .) | relURL }}" alt="" class="img-fluid">{{ end }}
+              </div>
+              <div class="col-12 {{ if $img }}col-md-7 order-md-1{{ end }}">
+                {{ with $title }}<h2 class="mb-3">{{ . | markdownify }}</h2>{{ end }}
+                {{ with $text  }}<div class="lead">{{ . | markdownify }}</div>{{ end }}
+                {{ with $btn }}<a class="btn btn-primary mt-3" href="{{ index . "url" }}">{{ $btnLabel | default "Más info" }}</a>{{ end }}
+              </div>
+            </div>
+          </div>
         {{- end -}}
       </div>
-    </div>
+    {{- else -}}
+      {{- $title := index $content "title" -}}
+      {{- $text  := or (index $content "text") (index $content "body") (index $content "markdown") -}}
+      {{- $img   := index $content "image" -}}
+      {{- $btn   := index $content "button" -}}
+      {{- $btnLabel := or (index $btn "label") (index $btn "text") -}}
+      <div class="row g-5 align-items-center">
+        <div class="col-12 {{ if $img }}col-md-6 order-md-2{{ end }}">
+          {{ with $img }}<img src="{{ (printf "/media/%s" .) | relURL }}" alt="" class="img-fluid">{{ end }}
+        </div>
+        <div class="col-12 {{ if $img }}col-md-6 order-md-1{{ end }}">
+          {{ with $title }}<h2 class="mb-3">{{ . | markdownify }}</h2>{{ end }}
+          {{ with $text  }}<div class="lead">{{ . | markdownify }}</div>{{ end }}
+          {{ with $btn }}<a class="btn btn-primary mt-3" href="{{ index . "url" }}">{{ $btnLabel | default "Más info" }}</a>{{ end }}
+        </div>
+      </div>
+    {{- end -}}
   </div>
 </section>
