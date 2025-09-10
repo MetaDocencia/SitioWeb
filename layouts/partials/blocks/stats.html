@@ -1,0 +1,26 @@
+{{- $b := .block -}}
+<section class="section stats" id="{{ $b.id | default "" }}">
+  <div class="container">
+    {{ with $b.content.title }}<h2 class="text-center mb-5">{{ . | markdownify }}</h2>{{ end }}
+
+    {{/* Soportar content.items o content.stats */}}
+    {{- $items := slice -}}
+    {{- with $b.content.items }}{{ $items = . }}{{ end -}}
+    {{- if not (len $items) }}{{ with $b.content.stats }}{{ $items = . }}{{ end }}{{ end -}}
+
+    <div class="row g-4 justify-content-center">
+      {{- range $i, $it := $items -}}
+        <div class="col-6 col-md-3">
+          <div class="card text-center h-100">
+            <div class="card-body py-4">
+              {{ with $it.value }}<div class="h2 fw-bold">{{ . | markdownify }}</div>{{ end }}
+              {{ with $it.label }}<div class="text-muted">{{ . | markdownify }}</div>{{ end }}
+            </div>
+          </div>
+        </div>
+      {{- end -}}
+    </div>
+
+    {{ with $b.content.note }}<p class="small text-muted text-center mt-3">{{ . | markdownify }}</p>{{ end }}
+  </div>
+</section>
