@@ -1,0 +1,6 @@
+/* assets/css/main.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* tus estilos propios debajo… */
