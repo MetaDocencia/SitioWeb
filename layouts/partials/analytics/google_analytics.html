@@ -1,0 +1,12 @@
+{{/* Soporta GA4 (services.googleAnalytics.ID) y no rompe si falta */}}
+{{ $id := "" }}
+{{ with site.Config.Services.GoogleAnalytics.ID }}{{ $id = . }}{{ end }}
+{{ if $id }}
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ $id }}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', '{{ $id }}');
+</script>
+{{ end }}
