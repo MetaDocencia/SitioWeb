@@ -1,17 +1,21 @@
-# Configuration of Hugo
-# Guide: https://docs.hugoblox.com/tutorial/
-# Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
-# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
+# hugo.yaml — Config unificada para MetaDocencia (Hugo Blox)
 
-title: Creator's Landing Page | Hugo Theme # Website name
-baseURL: 'https://example.com/' # Website URL
+title: MetaDocencia
+baseURL: "https://www.metadocencia.org/"
 
 ############################
-## PAGE OPTIONS
+## LANGUAGE
 ############################
+defaultContentLanguage: es
+hasCJKLanguage: false
+defaultContentLanguageInSubdir: false
+removePathAccents: true
 
+############################
+## PAGE OPTIONS (ej. blog)
+############################
 cascade:
-  # Blog post options
+  # Entradas del blog
   - _target:
       path: /blog/**
       kind: page
@@ -23,64 +27,31 @@ cascade:
     commentable: true
     show_related: true
     share: true
-    # Just use Breadcrumb for navigation on blog post pages?
     show_breadcrumb: false
     header:
       navbar:
         enable: true
-  # Blog section options
+  # Listado del blog
   - _target:
       path: /blog/*
       kind: section
-    # Set the listing view
     view: date-title-summary
-
-############################
-## LANGUAGE
-############################
-
-defaultContentLanguage: en
-hasCJKLanguage: false
-defaultContentLanguageInSubdir: false
-removePathAccents: true
 
 ############################
 ## ADVANCED
 ############################
-
 build:
   writeStats: true
 enableGitInfo: false
 summaryLength: 30
 pagination:
-  pagerSize: 10
+  pagerSize: 10       # reemplaza la clave obsoleta `paginate`
 enableEmoji: true
 enableRobotsTXT: true
-footnotereturnlinkcontents: <sup>^</sup>
-ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
+footnotereturnlinkcontents: "<sup>^</sup>"
+ignoreFiles: ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 permalinks:
-  authors: '/author/:slug/'
-  tags: '/tag/:slug/'
-  categories: '/category/:slug/'
-disableAliases: true
-outputs:
-  home: [HTML, RSS, headers, redirects]
-  section: [HTML, RSS]
-imaging:
-  resampleFilter: lanczos
-  quality: 90
-  anchor: smart
-  hint: picture
-timeout: 600000
-taxonomies:
-  tag: tags
-  category: categories
-  author: authors
-markup:
-  _merge: deep
-  highlight:
-    lineNos: false
-security:
-  _merge: deep
-sitemap:
-  _merge: deep
+  authors: "/author/:slug/"
+  tags: "/tag/:slug/"
+  categories: "/category/:slug/"
+disableAliases: false
