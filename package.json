@@ -1,11 +1,12 @@
 {
   "name": "metadocencia-site",
   "private": true,
-  "dependencies": {
-    "tailwindcss": "^3.4.13"
+  "scripts": {
+    "dev": "hugo server --disableFastRender",
+    "build": "hugo --gc --minify"
   },
   "devDependencies": {
-    "postcss": "^8.4.47",
-    "autoprefixer": "^10.4.20"
+    "@tailwindcss/cli": "^4.1.12",
+    "tailwindcss": "^4.1.12"
   }
 }
