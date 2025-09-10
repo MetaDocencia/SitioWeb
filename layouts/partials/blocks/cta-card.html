@@ -1,64 +1,61 @@
-{{/* Bloque: cta-card
-     Campos soportados en content:
-       title        (string)
-       text         (markdown)
-       image        (archivo en assets/media, opcional)
-       badge        (string opcional arriba del título)
-       button       (objeto {label,url})
-       buttons      (lista de objetos {label,url,style})
-       features     (lista de strings o {icon,label,text})
-*/}}
-
+{{/* Bloque: cta-card (GA-ready; tolera button.label/text) */}}
 {{- $b := .block -}}
-<section class="section cta-card" id="{{ $b.id | default "" }}">
+{{- $content := or (index $b "content") (dict) -}}
+
+{{- $title := index $content "title" -}}
+{{- $text  := or (index $content "text") (index $content "body") (index $content "markdown") -}}
+{{- $img   := index $content "image" -}}
+{{- $btn   := index $content "button" -}}
+{{- $btns  := index $content "buttons" | default (slice) -}}
+{{- if and (not $title) (not $text) (eq (len $btns) 0) (not $btn) }}{{ return }}{{ end -}}
+
+<section class="section cta-card" id="{{ index $b "id" | default "" }}">
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-12 col-lg-10">
-        <div class="card border-0 shadow-sm overflow-hidden">
+        <div class="card border-0 shadow-sm overflow-hidden {{ with (index (or (index $b "design") (dict)) "card") }}{{ index . "css_class" }}{{ end }}">
           <div class="row g-0 align-items-center">
-            {{/* Imagen opcional a la izquierda en desktop */}}
-            {{- with $b.content.image }}
+            {{ if $img }}
               <div class="col-12 col-md-5">
-                <img src="{{ (printf "/media/%s" .) | relURL }}" alt="{{ $b.content.image_alt | default "" }}" class="w-100 h-100 object-fit-cover">
+                <img src="{{ (printf "/media/%s" $img) | relURL }}" alt="{{ index $content "image_alt" | default "" }}" class="w-100 h-100 object-fit-cover">
               </div>
               <div class="col-12 col-md-7 p-4 p-md-5">
-            {{- else -}}
+            {{ else }}
               <div class="col-12 p-4 p-md-5">
-            {{- end }}
+            {{ end }}
 
-              {{ with $b.content.badge }}<div class="badge bg-primary-subtle text-primary mb-2">{{ . }}</div>{{ end }}
-              {{ with $b.content.title }}<h2 class="mb-3">{{ . | markdownify }}</h2>{{ end }}
-              {{ with $b.content.text }}<div class="lead mb-4">{{ . | markdownify }}</div>{{ end }}
+              {{ with (index $content "badge") }}<div class="badge bg-primary-subtle text-primary mb-2">{{ . }}</div>{{ end }}
+              {{ with $title }}<h2 class="mb-3">{{ . | markdownify }}</h2>{{ end }}
+              {{ with $text  }}<div class="lead mb-4">{{ . | markdownify }}</div>{{ end }}
 
-              {{/* Lista de bullets/beneficios (features) */}}
-              {{- $features := $b.content.features | default (slice) -}}
-              {{- if gt (len $features) 0 -}}
+              {{ $features := index $content "features" | default (slice) }}
+              {{ if gt (len $features) 0 }}
                 <ul class="list-unstyled mb-4">
-                  {{- range $f := $features -}}
-                    {{- if reflect.IsMap $f -}}
+                  {{ range $f := $features }}
+                    {{ if reflect.IsMap $f }}
                       <li class="mb-2 d-flex gap-2">
-                        {{ with $f.icon }}<i class="bi bi-{{ . }} mt-1"></i>{{ end }}
+                        {{ with (index $f "icon") }}<i class="bi bi-{{ . }} mt-1"></i>{{ end }}
                         <div>
-                          {{ with $f.label }}<div class="fw-semibold">{{ . | markdownify }}</div>{{ end }}
-                          {{ with $f.text }}<div class="text-muted">{{ . | markdownify }}</div>{{ end }}
+                          {{ with (index $f "label") }}<div class="fw-semibold">{{ . | markdownify }}</div>{{ end }}
+                          {{ with (index $f "text")  }}<div class="text-muted">{{ . | markdownify }}</div>{{ end }}
                         </div>
                       </li>
-                    {{- else -}}
+                    {{ else }}
                       <li class="mb-2">• {{ $f | markdownify }}</li>
-                    {{- end -}}
-                  {{- end -}}
+                    {{ end }}
+                  {{ end }}
                 </ul>
-              {{- end -}}
+              {{ end }}
 
-              {{/* Botón único o múltiples botones */}}
               <div class="d-flex flex-wrap gap-2">
-                {{ with $b.content.button }}
-                  <a class="btn btn-primary" href="{{ .url }}">{{ .label | default "Conocer más" }}</a>
+                {{ with $btn }}
+                  {{ $label := or (index . "label") (index . "text") }}
+                  <a class="btn btn-primary" href="{{ index . "url" }}">{{ $label | default "Conocer más" }}</a>
                 {{ end }}
-                {{- range $btn := ($b.content.buttons | default (slice)) -}}
-                  {{- $style := (cond (eq ($btn.style | default "primary") "outline") "btn-outline-primary" "btn-secondary") -}}
-                  <a class="btn {{ $style }}" href="{{ $btn.url }}">{{ $btn.label }}</a>
-                {{- end -}}
+                {{ range $btn := $btns }}
+                  {{ $style := (cond (eq ((index $btn "style") | default "primary") "outline") "btn-outline-primary" "btn-secondary") }}
+                  <a class="btn {{ $style }}" href="{{ index $btn "url" }}">{{ or (index $btn "label") (index $btn "text") }}</a>
+                {{ end }}
               </div>
 
             </div>
