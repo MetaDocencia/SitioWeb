@@ -1,39 +1,22 @@
-# ==============================
-# Netlify build config (MD)
-# ==============================
-
 [build]
-  # Prod por defecto (usa ${URL}/):
-  command = "hugo mod vendor && hugo --gc --minify --baseURL ${URL}/ && npx -y pagefind --site 'public'"
+  command = "npm ci && hugo --gc --minify -b $URL"
   publish = "public"
 
 [build.environment]
-  HUGO_ENV           = "production"
-  HUGO_VERSION       = "0.125.0"
+  HUGO_VERSION = "0.148.2"
+  NODE_VERSION = "20"
   HUGO_ENABLEGITINFO = "true"
-  NODE_VERSION       = "20"
-  NPM_FLAGS = "--include=dev"
-  BROWSERSLIST_IGNORE_OLD_DATA = "1"
 
+[context.production.environment]
+  HUGO_ENV = "production"
 
-# ---------- Producción ----------
-[context.production]
-  command = "hugo mod vendor && hugo --gc --minify --baseURL ${URL}/ && npx -y pagefind --site 'public'"
-
-# ---------- Deploy Preview (PRs) ----------
 [context.deploy-preview]
-  command = "npm ci && npx update-browserslist-db@latest --update-db && hugo mod clean && hugo mod vendor && hugo --gc --minify --baseURL ${DEPLOY_PRIME_URL}/ && npx -y pagefind --site 'public'"
-  [context.deploy-preview.environment]
-    HUGO_ENV     = "production"
-    HUGO_VERSION = "0.148.2"
-    NODE_VERSION = "20"
-    BROWSERSLIST_IGNORE_OLD_DATA = "1"
+  command = "npm ci && hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
 
 [context.branch-deploy]
-  command = "npm ci && npx update-browserslist-db@latest --update-db && hugo mod clean && hugo mod vendor && hugo --gc --minify --baseURL ${DEPLOY_PRIME_URL}/ && npx -y pagefind --site 'public'"
-  [context.branch-deploy.environment]
-    HUGO_ENV     = "production"
-    HUGO_VERSION = "0.148.2"
-    NODE_VERSION = "20"
-    BROWSERSLIST_IGNORE_OLD_DATA = "1"
+  command = "npm ci && hugo --gc --minify -b $DEPLOY_PRIME_URL"
 
+[[plugins]]
+  package = "netlify-plugin-hugo-cache-resources"
+  [plugins.inputs]
+    debug = true
