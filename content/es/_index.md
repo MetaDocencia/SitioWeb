@@ -32,7 +32,8 @@ sections:
   # CTA IMAGE + PARAGRAPH — 1 (Quiénes somos)
   - block: cta-image-paragraph
     id: "quienes-somos"
-    content.title: "Quiénes somos"
+   content:
+      title: "Quiénes somos"
       text: >
         TEXTO A DEFINIR. MetaDocencia es una organización sin fines de lucro fundada en 2020.
         Nuestra comunidad está formada por personas y organizaciones que trabajan construyendo
