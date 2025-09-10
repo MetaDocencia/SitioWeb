@@ -1,9 +1,12 @@
-{{/* DEBUG - comienzo */}}
+{{/* DEBUG compatible con Hugo: SIN 'keys' */}}
 {{- $p := index . "page" -}}
 {{- $b := index . "block" -}}
-{{ warnf "DBG blocks/%s.html → page=%s id=%v keys(block)=%v keys(content)=%v" 
-    (.Template.Name | default "??") (or $p.File.Path $p.Path "??") (index $b "id") (keys $b) (keys (index $b "content")) }}
-{{/* DEBUG - fin */}}
+{{ warnf "DBG %s → page=%s id=%v block=%#v"
+    (.Template.Name | default "??")
+    (or $p.File.Path $p.Path "??")
+    (index $b "id")
+    $b }}
+
 
 {{/* Bloque: cta-card (GA-ready; tolera button.label/text) */}}
 {{- $b := .block -}}
