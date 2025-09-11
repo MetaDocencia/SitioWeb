@@ -1,0 +1,57 @@
+title: MetaDocencia
+baseURL: "https://www.metadocencia.org/"
+defaultContentLanguage: es
+removePathAccents: true
+
+build:
+  writeStats: true
+summaryLength: 30
+pagination:
+  pagerSize: 10
+enableEmoji: true
+enableRobotsTXT: true
+footnotereturnlinkcontents: "<sup>^</sup>"
+
+outputs:
+  home: [HTML, RSS, JSON, WebAppManifest]
+  section: [HTML, RSS]
+
+mediaTypes:
+  application/manifest+json:
+    suffixes: ["webmanifest"]
+outputFormats:
+  WebAppManifest:
+    mediaType: application/manifest+json
+    rel: manifest
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    lineNos: false
+    codeFences: false
+  tableOfContents:
+    startLevel: 2
+    endLevel: 3
+
+imaging:
+  resampleFilter: lanczos
+  quality: 90
+  anchor: smart
+  hint: picture
+
+taxonomies:
+  tag: tags
+  category: categories
+  author: authors
+
+security:
+  _merge: deep
+  enableInlineShortcodes: false
+  funcs:
+    getenv: ['^HUGO_', '^CI$', '^WC_POST_CSS$']
+
+services:
+  googleAnalytics:
+    ID: ""   # si no usan GA, dejalo vacío; si lo usan, poné tu G-XXXX

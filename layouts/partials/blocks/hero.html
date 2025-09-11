@@ -1,0 +1,90 @@
+{{/* Bloque: hero (full-screen, centrado, con fondo desde assets/media o /media) */}}
+{{- $sec := .block | default (dict) -}}
+{{- $c := (index $sec "content") | default (dict) -}}
+{{- $design := (index $sec "design") | default (dict) -}}
+{{- $css := (index $design "css_class") | default "" -}}
+
+{{/* Alineación: center | start | end */}}
+{{- $align := (index $c "align") | default "center" -}}
+{{- $textAlign := cond (eq $align "center") "text-center" (cond (eq $align "end") "text-end" "text-start") -}}
+{{- $justify := cond (eq $align "center") "justify-content-center" (cond (eq $align "end") "justify-content-end" "justify-content-start") -}}
+
+{{/* Fondo */}}
+{{- $bg := (index $design "background") | default (dict) -}}
+{{- $bgColor := (index $bg "color") | default "" -}}
+{{- $imgConf := (index $bg "image") | default (dict) -}}
+{{- $imgName := (index $imgConf "filename") | default "" -}}
+{{- $pos := (index $imgConf "position") | default "center" -}}
+{{- $filters := (index $imgConf "filters") | default (dict) -}}
+{{- $brightness := (index $filters "brightness") | default 0 -}}
+{{- $overlay := (index $bg "overlay") | default 0.45 -}}
+
+{{/* Resolver URL de imagen: 1) assets/media (Hugo Pipes) 2) cualquier match 3) /media (static) */}}
+{{- $imgURL := "" -}}
+{{- with cond (ne $imgName "") (resources.Get (printf "media/%s" $imgName)) nil -}}
+  {{- $imgURL = .RelPermalink -}}
+{{- end -}}
+{{- if and (eq $imgURL "") (ne $imgName "") -}}
+  {{- with resources.GetMatch (printf "media/%s*" $imgName) -}}
+    {{- $imgURL = .RelPermalink -}}
+  {{- end -}}
+{{- end -}}
+{{- if and (eq $imgURL "") (ne $imgName "") -}}
+  {{- $imgURL = (printf "/media/%s" $imgName | relURL) -}}
+{{- end -}}
+
+{{/* Spacing (dejamos min-height:100vh para ocupar pantalla completa) */}}
+{{- $spacing := (index $design "spacing") | default (dict) -}}
+{{- $pad := (index $spacing "padding") | default (slice) -}}
+{{- $mar := (index $spacing "margin") | default (slice) -}}
+{{- $padCss := cond (gt (len $pad) 0) (printf "padding:%s;" (delimit $pad " ")) "" -}}
+{{- $marCss := cond (gt (len $mar) 0) (printf "margin:%s;" (delimit $mar " ")) "" -}}
+
+{{/* Construir estilo inline del background */}}
+{{- $bgParts := slice -}}
+{{- if $bgColor }}{{- $bgParts = $bgParts | append (printf "background-color:%s;" $bgColor) -}}{{- end -}}
+{{- if ne $imgURL "" -}}
+  {{- $bgParts = $bgParts | append (printf "background-image:url('%s');" $imgURL) -}}
+  {{- $bgParts = $bgParts | append "background-size:cover;" -}}
+  {{- $bgParts = $bgParts | append (printf "background-position:%s;" $pos) -}}
+{{- end -}}
+{{- if and (ne $imgURL "") (gt (float $brightness) 0) -}}
+  {{- $bgParts = $bgParts | append (printf "filter:brightness(%g);" $brightness) -}}
+{{- end -}}
+{{- $style := printf "min-height:100vh;%s%s%s" (delimit $bgParts " ") $padCss $marCss -}}
+
+{{- $dark := or (eq $css "dark") (in $css "bg-dark") -}}
+
+<section id="section-hero" class="position-relative blox-hero {{ $css }}" style="{{ $style }}">
+  {{/* Overlay opcional para contraste */}}
+  {{- if or $dark (ne $imgURL "") -}}
+    <div class="position-absolute top-0 start-0 w-100 h-100" style="background-color:rgba(0,0,0,{{ $overlay }});"></div>
+  {{- end -}}
+
+  <div class="container position-relative d-flex {{ $justify }}" style="min-height:100vh;">
+    <div class="row flex-grow-1 w-100">
+      <div class="col-12 d-flex {{ $justify }} align-items-center">
+        <div class="{{ $textAlign }}" style="max-width:42rem;">
+          {{ with (index $c "title") }}
+            <h1 class="display-4 fw-bold {{ if $dark }}text-white{{ else }}text-body{{ end }}">{{ . }}</h1>
+          {{ end }}
+          {{ with (index $c "subtitle") }}
+            <p class="lead mt-3 {{ if $dark }}text-white-50{{ else }}text-muted{{ end }}">{{ . | markdownify }}</p>
+          {{ end }}
+
+          {{- $pa := (index $c "primary_action") | default (dict) -}}
+          {{- $paText := or (index $pa "text") (index $pa "label") -}}
+          {{- $paURL  := index $pa "url" -}}
+          {{- $sa := (index $c "secondary_action") | default (dict) -}}
+          {{- $saText := or (index $sa "text") (index $sa "label") -}}
+          {{- $saURL  := index $sa "url" -}}
+
+          <div class="mt-4 d-flex flex-wrap gap-2 {{ $justify }}">
+            {{ if and $paText $paURL }}<a class="btn btn-primary btn-lg" href="{{ $paURL }}">{{ $paText }}</a>{{ end }}
+            {{ if and $saText $saURL }}<a class="btn btn-outline-light btn-lg" href="{{ $saURL }}">{{ $saText }}</a>{{ end }}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
