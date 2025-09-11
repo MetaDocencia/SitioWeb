@@ -91,19 +91,8 @@ sections:
     design:
       spacing:
         padding: ["6rem", 0, 0, 0]
+    
       - block: testimonials
-    id: "testimonios"
-    content:
-      title: "Lo que dice nuestra comunidad"
-      items:
-        - quote: "No cabe más que agradecer a los instructores que hicieron posible este curso, que sin duda es la semilla de grandes frutos. Gracias por tanto MetaDocencia."
-          author: "Julio Zetter"
-          role: "Coordinador en Jefe de la base de datos y hemeroteca virtual SciELO México"
-          avatar: "juliozetter.jpeg"
-    design:
-      spacing:
-        padding: ["6rem", 0, 0, 0]
-  - block: testimonials
     id: "testimonios"
     content:
       title: "Lo que dice nuestra comunidad"
