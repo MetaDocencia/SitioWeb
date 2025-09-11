@@ -1,40 +1,33 @@
-{{/* Bloque: testimonials (name/image/text -> author/avatar/quote) */}}
-{{- $b := .block -}}
-{{- $content := or (index $b "content") (dict) -}}
+{{- $b := or (index . "block") . -}}
+{{- $c := or (index $b "content") $b -}}
+{{- $items := index $c "items" | default (slice) -}}
 
-{{- $items := index $content "items" | default (slice) -}}
-{{- if eq (len $items) 0 }}{{ return }}{{ end -}}
-
-<section class="section testimonials" id="{{ index $b "id" | default "" }}">
+<section class="section" id="{{ index $b "id" | default "" }}">
   <div class="container">
-    {{ with (index $content "title") }}<h2 class="text-center mb-4">{{ . | markdownify }}</h2>{{ end }}
-    {{ with (index $content "subtitle") }}<p class="lead text-center mb-5">{{ . | markdownify }}</p>{{ end }}
-
-    <div class="row g-4 justify-content-center">
-      {{ range $t := $items }}
-        {{- $quote  := or (index $t "quote") (index $t "text") -}}
-        {{- $author := or (index $t "author") (index $t "name") -}}
-        {{- $role   := index $t "role" -}}
-        {{- $avatar := or (index $t "avatar") (index $t "image") -}}
-        <div class="col-12 col-md-6 col-lg-4">
-          <div class="card h-100 shadow-sm">
-            <div class="card-body d-flex flex-column">
-              {{ with $quote }}<div class="mb-3"><span class="fs-4">“</span>{{ . | markdownify }}<span class="fs-4">”</span></div>{{ end }}
-              <div class="mt-auto d-flex align-items-center gap-3">
-                {{ with $avatar }}
-                  <img src="{{ (printf "/media/%s" .) | relURL }}" alt="{{ $author | default "Testimonio" }}" class="rounded-circle" width="48" height="48" loading="lazy">
-                {{ end }}
+    {{ with (index $c "title") }}<h2 class="text-center mb-4">{{ . | markdownify }}</h2>{{ end }}
+    <div class="row g-4">
+      {{ if gt (len $items) 0 }}
+        {{ range $t := $items }}
+          {{- $quote  := or (index $t "quote") (index $t "text") -}}
+          {{- $author := or (index $t "author") (index $t "name") -}}
+          {{- $role   := index $t "role" -}}
+          {{- $avatar := or (index $t "avatar") (index $t "image") -}}
+          <div class="col-md-6 col-lg-4">
+            <div class="border rounded p-3 h-100">
+              {{ with $quote }}<p class="mb-3">“{{ . | markdownify }}”</p>{{ end }}
+              <div class="d-flex align-items-center gap-3">
+                {{ with $avatar }}<img src="{{ (printf "/media/%s" .) | relURL }}" width="48" height="48" class="rounded-circle" alt="">{{ end }}
                 <div>
-                  {{ with $author }}<div class="fw-semibold">{{ . }}</div>{{ end }}
+                  <div class="fw-semibold">{{ $author | default "Anon." }}</div>
                   {{ with $role }}<div class="text-muted small">{{ . }}</div>{{ end }}
                 </div>
               </div>
             </div>
           </div>
-        </div>
+        {{ end }}
+      {{ else }}
+        <div class="col-12"><em>Sin testimonios aún</em></div>
       {{ end }}
     </div>
-
-    {{ with (index $content "note") }}<p class="small text-muted text-center mt-4">{{ . | markdownify }}</p>{{ end }}
   </div>
 </section>
