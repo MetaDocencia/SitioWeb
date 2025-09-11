@@ -7,26 +7,26 @@ design:
   spacing: "6rem"
 
 sections:
-# HERO
- - block: hero
-  content:
-    title: "Potenciemos a América Latina en el mapa de la investigación global"
-    align: center            # opcional: center | start | end
-    primary_action:
-      text: "Súmate"
-      url: "https://www.metadocencia.org/suscripcion/"
-  design:
-    css_class: "dark"        # texto claro + overlay
-    spacing:
-      padding: [0, 0, 0, 0]  # si querés, dejalo vacío para usar el default clamp(6rem..)
-      margin: [0, 0, 0, 0]
-    background:
-      color: "navy"
-      image:
-        filename: "3azulrojo.png"
-        position: "50%"
-        filters:
-          brightness: 0.5
+  # HERO
+  - block: hero
+    content:
+      title: "Potenciemos a América Latina en el mapa de la investigación global"
+      align: center            # center | start | end
+      primary_action:
+        text: "Súmate"
+        url: "https://www.metadocencia.org/suscripcion/"
+    design:
+      css_class: "dark"        # texto claro + overlay
+      spacing:
+        padding: [0, 0, 0, 0]
+        margin: [0, 0, 0, 0]
+      background:
+        color: "navy"
+        image:
+          filename: "3azulrojo.png"
+          position: "50%"
+          filters:
+            brightness: 0.5
 
   # CTA IMAGE + PARAGRAPH — 1 (Quiénes somos)
   - block: cta-image-paragraph
@@ -41,7 +41,7 @@ sections:
       image: "quienesomos.jpg"
       button:
         label: "Conócenos"
-        url: "https://julianbuede.github.io/blog/second-brain/"  # cambia luego por la URL interna final
+        url: "https://julianbuede.github.io/blog/second-brain/"
     design:
       css_class: "bg-gray-100 dark:bg-gray-900"
 
@@ -56,11 +56,11 @@ sections:
       image: "organigramaapaisado.png"
       button:
         label: "Conoce nuestros proyectos"
-        url: "https://discord.gg/z8wNYzb"  # cambia luego por la URL interna final
+        url: "https://discord.gg/z8wNYzb"
     design:
       css_class: "bg-gray-100 dark:bg-gray-900"
 
-  # STATS (usa value/label, que es lo que consumen los partials)
+  # STATS
   - block: stats
     id: "impacto"
     content:
@@ -77,7 +77,7 @@ sections:
       spacing:
         padding: ["1rem", 0, "1rem", 0]
 
-  # TESTIMONIOS (usa quote/author/role/avatar)
+  # TESTIMONIOS
   - block: testimonials
     id: "testimonios"
     content:
@@ -91,7 +91,7 @@ sections:
       spacing:
         padding: ["6rem", 0, 0, 0]
 
-  # CTA CARD (usa button.label/url)
+  # CTA CARD
   - block: cta-card
     id: "apoya"
     content:
@@ -99,7 +99,7 @@ sections:
       text: "Aquí te contamos cómo"
       button:
         label: "Súmate"
-        url: "https://hugoblox.com/templates/"  # cambia luego por la URL de apoyo/donaciones
+        url: "https://hugoblox.com/templates/"
     design:
       card:
         css_class: "bg-primary-700"
