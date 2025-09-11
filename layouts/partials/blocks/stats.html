@@ -1,27 +1,25 @@
-{{/* Bloque: stats (acepta items con value/label o statistic/description) */}}
-{{- $b := .block -}}
-{{- $content := or (index $b "content") (dict) -}}
+{{- $b := or (index . "block") . -}}
+{{- $c := or (index $b "content") $b -}}
+{{- $items := or (index $c "items") (index $c "stats") (slice) -}}
 
-{{- $items := or (index $content "items") (index $content "stats") (slice) -}}
-{{- if eq (len $items) 0 }}{{ return }}{{ end -}}
-
-<section class="section stats" id="{{ index $b "id" | default "" }}">
+<section class="section" id="{{ index $b "id" | default "" }}">
   <div class="container">
-    {{ with (index $content "title") }}<h2 class="text-center mb-5">{{ . | markdownify }}</h2>{{ end }}
-    <div class="row g-4 justify-content-center">
-      {{ range $it := $items }}
-        {{- $val := or (index $it "value") (index $it "statistic") -}}
-        {{- $lab := or (index $it "label") (index $it "description") -}}
-        <div class="col-6 col-md-3">
-          <div class="card text-center h-100">
-            <div class="card-body py-4">
-              {{ with $val }}<div class="h2 fw-bold">{{ . | markdownify }}</div>{{ end }}
-              {{ with $lab }}<div class="text-muted">{{ . | markdownify }}</div>{{ end }}
+    {{ with (index $c "title") }}<h2 class="text-center mb-4">{{ . | markdownify }}</h2>{{ end }}
+    <div class="row g-3 justify-content-center">
+      {{ if gt (len $items) 0 }}
+        {{ range $it := $items }}
+          {{- $val := or (index $it "value") (index $it "statistic") (index $it 0) -}}
+          {{- $lab := or (index $it "label") (index $it "description") (index $it 1) -}}
+          <div class="col-6 col-md-3">
+            <div class="text-center p-3 border rounded">
+              <div class="h3 m-0">{{ $val | default "—" | markdownify }}</div>
+              <div class="text-muted">{{ $lab | default "" | markdownify }}</div>
             </div>
           </div>
-        </div>
+        {{ end }}
+      {{ else }}
+        <div class="col-auto"><em>Sin estadísticas aún</em></div>
       {{ end }}
     </div>
-    {{ with (index $content "note") }}<p class="small text-muted text-center mt-3">{{ . | markdownify }}</p>{{ end }}
   </div>
 </section>
