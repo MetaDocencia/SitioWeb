@@ -1,9 +1,14 @@
-{{/* Bloque: hero (Bootstrap) */}}
+{{/* Bloque: hero (Bootstrap, centrado, con fondo desde assets/media) */}}
 {{- $pg := .Page -}}
 {{- $sec := .block | default (dict) -}}
 {{- $c := (index $sec "content") | default (dict) -}}
 {{- $design := (index $sec "design") | default (dict) -}}
 {{- $css := (index $design "css_class") | default "" -}}
+
+{{/* Alineación opcional por contenido: center|start|end (default: center) */}}
+{{- $align := (index $c "align") | default "center" -}}
+{{- $textAlign := cond (eq $align "center") "text-center" (cond (eq $align "end") "text-end" "text-start") -}}
+{{- $justify := cond (eq $align "center") "justify-content-center" (cond (eq $align "end") "justify-content-end" "") -}}
 
 {{/* Fondo */}}
 {{- $bg := (index $design "background") | default (dict) -}}
@@ -11,59 +16,65 @@
 {{- $imgConf := (index $bg "image") | default (dict) -}}
 {{- $imgName := (index $imgConf "filename") | default "" -}}
 {{- $img := cond $imgName (resources.Get (printf "media/%s" $imgName)) nil -}}
+{{- $pos := (index $imgConf "position") | default "50%" -}}
+{{- $filters := (index $imgConf "filters") | default (dict) -}}
+{{- $brightness := (index $filters "brightness") | default 0 -}}
 
-{{/* Spacing inline (si viene en YAML como arrays) */}}
+{{/* Spacing */}}
 {{- $spacing := (index $design "spacing") | default (dict) -}}
 {{- $pad := (index $spacing "padding") | default (slice) -}}
 {{- $mar := (index $spacing "margin") | default (slice) -}}
-{{- $padCss := cond (gt (len $pad) 0) (printf "padding:%s;" (delimit $pad " ")) "" -}}
+{{- $padCss := cond (gt (len $pad) 0) (printf "padding:%s;" (delimit $pad " ")) "padding:clamp(6rem,10vw,10rem) 0;" -}}
 {{- $marCss := cond (gt (len $mar) 0) (printf "margin:%s;" (delimit $mar " ")) "" -}}
 
-{{/* Construir estilo de fondo */}}
+{{/* Construir estilo del fondo (como en el inspector: bg-image + cover + position + brightness) */}}
 {{- $bgParts := slice -}}
 {{- if $bgColor }}{{- $bgParts = $bgParts | append (printf "background-color:%s;" $bgColor) -}}{{- end -}}
 {{- if $img }}
   {{- $bgParts = $bgParts | append (printf "background-image:url('%s');" $img.RelPermalink) -}}
 {{- else if $imgName }}
-  {{- $bgParts = $bgParts | append (printf "background-image:url('%s');" (printf "/media/%s" $imgName | relURL)) -}}
+  {{- $bgParts = $bgParts | append (printf "background-image:url('%s');" ((printf "/media/%s" $imgName) | relURL)) -}}
 {{- end -}}
-{{- if or $img $imgName }}
+{{- if or $img $imgName -}}
   {{- $bgParts = $bgParts | append "background-size:cover;" -}}
-  {{- $pos := (index $imgConf "position") | default "center" -}}
   {{- $bgParts = $bgParts | append (printf "background-position:%s;" $pos) -}}
+{{- end -}}
+{{- if and (or $img $imgName) (gt (float $brightness) 0) -}}
+  {{- $bgParts = $bgParts | append (printf "filter:brightness(%g);" $brightness) -}}
 {{- end -}}
 {{- $style := printf "%s%s%s" (delimit $bgParts " ") $padCss $marCss -}}
 
-{{/* ¿Texto claro? */}}
 {{- $dark := or (eq $css "dark") (in $css "bg-dark") -}}
-<section class="section position-relative {{ $css }}" style="{{ $style }}">
-  {{/* Overlay suave para mejorar contraste si hay imagen o modo dark */}}
+
+<section id="section-hero" class="position-relative blox-hero {{ $css }}" style="{{ $style }}">
+  {{/* bg layer (similar a .home-section-bg.bg-image del inspector) */}}
+  <div class="position-absolute top-0 start-0 w-100 h-100"></div>
+
+  {{/* Overlay para contraste si hay imagen o modo dark */}}
   {{- if or $dark (or $img $imgName) -}}
     <div class="position-absolute top-0 start-0 w-100 h-100" style="background-color:rgba(0,0,0,0.45);"></div>
   {{- end -}}
 
-  <div class="container position-relative {{ if $dark }}text-white{{ end }}">
+  <div class="container position-relative">
     <div class="row">
-      <div class="col-12 col-lg-10 col-xl-8 py-5" style="min-height: 55vh; display:flex; align-items:center;">
-        <div>
+      <div class="col-12 d-flex {{ $justify }}">
+        <div class="{{ $textAlign }}" style="max-width: 42rem;">
           {{ with (index $c "title") }}
-            <h1 class="display-5 fw-semibold mb-3">{{ . }}</h1>
+            <h1 class="display-4 fw-bold {{ if $dark }}text-white{{ else }}text-body{{ end }}">{{ . }}</h1>
           {{ end }}
 
-          {{/* Subtítulo opcional si algún día lo agregás */}}
           {{ with (index $c "subtitle") }}
-            <p class="lead mb-4">{{ . | markdownify }}</p>
+            <p class="lead mt-3 {{ if $dark }}text-white-50{{ else }}text-muted{{ end }}">{{ . | markdownify }}</p>
           {{ end }}
 
           {{- $pa := (index $c "primary_action") | default (dict) -}}
           {{- $paText := or (index $pa "text") (index $pa "label") -}}
           {{- $paURL  := index $pa "url" -}}
-
           {{- $sa := (index $c "secondary_action") | default (dict) -}}
           {{- $saText := or (index $sa "text") (index $sa "label") -}}
           {{- $saURL  := index $sa "url" -}}
 
-          <div class="d-flex flex-wrap gap-2 mt-3">
+          <div class="mt-4 d-flex flex-wrap gap-2 {{ $justify }}">
             {{ if and $paText $paURL }}
               <a class="btn btn-primary btn-lg" href="{{ $paURL }}">{{ $paText }}</a>
             {{ end }}
