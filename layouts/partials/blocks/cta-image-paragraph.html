@@ -1,56 +1,37 @@
-<div style="padding:8px;margin:8px 0;border:2px dashed #09f;background:#eef">
-  DEBUG: Entró al partial <strong>{{ .Template.Name }}</strong>
-</div>
+{{- $b := or (index . "block") . -}}
+{{- $c := or (index $b "content") $b -}}
+{{- $items := index $c "items" -}}
 
-{{/* Bloque: cta-image-paragraph (robusto a shapes y claves) */}}
-{{- $ctx := . -}}
-{{- $b := or (index $ctx "block") $ctx -}}
-{{- $content := or (index $b "content") $b -}}
-
-{{- $items := index $content "items" -}}
-{{- $hasItems := and $items (gt (len $items) 0) -}}
-
-<section class="section cta-image-paragraph" id="{{ index $b "id" | default "" }}">
+<section class="section" id="{{ index $b "id" | default "" }}">
   <div class="container">
-    {{/* Si viene como lista de items, renderizamos todos; si no, un bloque simple */}}
-    {{- if $hasItems -}}
-      <div class="row g-5 align-items-center">
-        {{- range $it := $items -}}
-          {{- $title := index $it "title" -}}
-          {{- $text  := or (index $it "text") (index $it "body") (index $it "markdown") -}}
-          {{- $img   := index $it "image" -}}
-          {{- $btn   := index $it "button" -}}
-          {{- $btnLabel := or (index $btn "label") (index $btn "text") -}}
-          <div class="col-12 col-md-6">
-            <div class="row g-4 align-items-center">
-              <div class="col-12 {{ if $img }}col-md-5 order-md-2{{ end }}">
-                {{ with $img }}<img src="{{ (printf "/media/%s" .) | relURL }}" alt="" class="img-fluid">{{ end }}
-              </div>
-              <div class="col-12 {{ if $img }}col-md-7 order-md-1{{ end }}">
-                {{ with $title }}<h2 class="mb-3">{{ . | markdownify }}</h2>{{ end }}
-                {{ with $text  }}<div class="lead">{{ . | markdownify }}</div>{{ end }}
-                {{ with $btn }}<a class="btn btn-primary mt-3" href="{{ index . "url" }}">{{ $btnLabel | default "Más info" }}</a>{{ end }}
-              </div>
-            </div>
+    {{ if and $items (gt (len $items) 0) }}
+      {{ range $it := $items }}
+        {{- $title := index $it "title" -}}
+        {{- $text  := or (index $it "text") (index $it "body") (index $it "markdown") -}}
+        {{- $img   := index $it "image" -}}
+        <div class="row g-4 align-items-center mb-4">
+          <div class="col-md-6 order-md-2">
+            {{ with $img }}<img class="img-fluid" src="{{ (printf "/media/%s" .) | relURL }}" alt="">{{ end }}
           </div>
-        {{- end -}}
-      </div>
-    {{- else -}}
-      {{- $title := index $content "title" -}}
-      {{- $text  := or (index $content "text") (index $content "body") (index $content "markdown") -}}
-      {{- $img   := index $content "image" -}}
-      {{- $btn   := index $content "button" -}}
-      {{- $btnLabel := or (index $btn "label") (index $btn "text") -}}
-      <div class="row g-5 align-items-center">
-        <div class="col-12 {{ if $img }}col-md-6 order-md-2{{ end }}">
-          {{ with $img }}<img src="{{ (printf "/media/%s" .) | relURL }}" alt="" class="img-fluid">{{ end }}
+          <div class="col-md-6 order-md-1">
+            <h2 class="mb-2">{{ $title | default "Título pendiente" }}</h2>
+            <div class="lead">{{ $text | default "Texto pendiente" | markdownify }}</div>
+          </div>
         </div>
-        <div class="col-12 {{ if $img }}col-md-6 order-md-1{{ end }}">
-          {{ with $title }}<h2 class="mb-3">{{ . | markdownify }}</h2>{{ end }}
-          {{ with $text  }}<div class="lead">{{ . | markdownify }}</div>{{ end }}
-          {{ with $btn }}<a class="btn btn-primary mt-3" href="{{ index . "url" }}">{{ $btnLabel | default "Más info" }}</a>{{ end }}
+      {{ end }}
+    {{ else }}
+      {{- $title := index $c "title" -}}
+      {{- $text  := or (index $c "text") (index $c "body") (index $c "markdown") -}}
+      {{- $img   := index $c "image" -}}
+      <div class="row g-4 align-items-center">
+        <div class="col-md-6 order-md-2">
+          {{ with $img }}<img class="img-fluid" src="{{ (printf "/media/%s" .) | relURL }}" alt="">{{ end }}
+        </div>
+        <div class="col-md-6 order-md-1">
+          <h2 class="mb-2">{{ $title | default "Título pendiente" }}</h2>
+          <div class="lead">{{ $text | default "Texto pendiente" | markdownify }}</div>
         </div>
       </div>
-    {{- end -}}
+    {{ end }}
   </div>
 </section>
