@@ -1,24 +1,33 @@
-{{- $b := or (index . "block") . -}}
-{{- $c := or (index $b "content") $b -}}
+{{/* Bloque: cta-card */}}
+{{- $sec := .block | default (dict) -}}
+{{- $c := (index $sec "content") | default (dict) -}}
+{{- $design := (index $sec "design") | default (dict) -}}
+{{- $css := (index $design "css_class") | default "" -}}
+
 {{- $title := index $c "title" -}}
-{{- $text  := or (index $c "text") (index $c "body") (index $c "markdown") -}}
-{{- $img   := index $c "image" -}}
+{{- $text  := or (index $c "text") (index $c "body") -}}
+{{- $imgName := index $c "image" -}}
+{{- $res := cond $imgName (resources.Get (printf "media/%s" $imgName)) nil -}}
 {{- $btn   := index $c "button" -}}
 {{- $btns  := index $c "buttons" | default (slice) -}}
 {{- $btnLabel := or (index $btn "label") (index $btn "text") -}}
 
-<section class="section" id="{{ index $b "id" | default "" }}">
+<section class="section {{ $css }}">
   <div class="container">
     <div class="border rounded p-4 p-md-5">
       <div class="row g-4 align-items-center">
-        {{ if $img }}
+        {{ if $imgName }}
           <div class="col-md-4">
-            <img class="img-fluid" src="{{ (printf "/media/%s" $img) | relURL }}" alt="">
+            {{ if $res }}
+              <img class="img-fluid rounded" src="{{ $res.RelPermalink }}" alt="">
+            {{ else }}
+              <img class="img-fluid rounded" src="{{ (printf "/media/%s" $imgName) | relURL }}" alt="">
+            {{ end }}
           </div>
         {{ end }}
-        <div class="{{ if $img }}col-md-8{{ else }}col-12{{ end }}">
-          <h2 class="mb-2">{{ $title | default "Call to action" }}</h2>
-          <p class="lead mb-3">{{ $text | default "Texto pendiente" | markdownify }}</p>
+        <div class="{{ if $imgName }}col-md-8{{ else }}col-12{{ end }}">
+          {{ with $title }}<h2 class="mb-2">{{ . }}</h2>{{ end }}
+          {{ with $text  }}<p class="lead mb-3">{{ . | markdownify }}</p>{{ end }}
           <div class="d-flex flex-wrap gap-2">
             {{ with $btn }}
               <a class="btn btn-primary" href="{{ index . "url" }}">{{ $btnLabel | default "Conocer más" }}</a>
