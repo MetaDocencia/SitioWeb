@@ -1,23 +1,16 @@
 {{/* =============== CTA IMAGE + PARAGRAPH =============== */}}
 
-{{/* 1) Intentar usar el bloque que llega del parser */}}
 {{- $pg := or (index . "page") .Page -}}
 {{- $sec := or (index . "block") dict -}}
-
-{{/* 2) Si no vino `block`, resolverlo por nombre de partial dentro de sections */}}
 {{- if not (isset $sec "content") -}}
   {{- $secs := (index $pg.Params "sections") | default (slice) -}}
-  {{- $tmpl := .Template.Name -}}                       {{/* p.ej. _partials/blocks/cta-image-paragraph.html */}}
-  {{- $bname := replace (path.Base $tmpl) ".html" "" -}} {{/* cta-image-paragraph */}}
+  {{- $tmpl := .Template.Name -}}
+  {{- $bname := replace (path.Base $tmpl) ".html" "" -}}
   {{- $matches := where $secs "block" $bname -}}
-  {{- if gt (len $matches) 0 -}}
-    {{- $sec = index $matches 0 -}}
-  {{- end -}}
+  {{- if gt (len $matches) 0 }}{{- $sec = index $matches 0 -}}{{- end -}}
 {{- end -}}
 
-{{/* 3) Normalizar contenido y diseño */}}
-{{- $c := index $sec "content" -}}
-{{- if not $c -}} {{- $c = $sec -}} {{- end -}}
+{{- $c := cond (isset $sec "content") (index $sec "content") $sec -}}
 {{- $design := (index $sec "design") | default (dict) -}}
 {{- $css    := (index $design "css_class") -}}
 {{- $items  := (index $c "items") | default (slice) -}}
@@ -29,17 +22,22 @@
       {{ range $it := $items }}
         {{- $title    := index $it "title" -}}
         {{- $text     := or (index $it "text") (index $it "body") (index $it "markdown") -}}
-        {{- $img      := index $it "image" -}}
+        {{- $imgName  := index $it "image" -}}
         {{- $btn      := index $it "button" -}}
         {{- $btn_text := or (index $btn "text") (index $btn "label") -}}
         {{- $btn_url  := index $btn "url" -}}
         {{- $features := (index $it "features") | default (slice) -}}
+        {{- $img := cond $imgName (resources.Get (printf "media/%s" $imgName)) nil -}}
 
         <div class="row g-4 align-items-center mb-5">
-          <div class="col-md-6 {{ if $img }}order-md-2{{ end }}">
-            {{ with $img }}<img class="img-fluid rounded shadow-sm" src="{{ (printf "/media/%s" .) | relURL }}" alt="">{{ end }}
+          <div class="col-md-6 {{ if $imgName }}order-md-2{{ end }}">
+            {{ if $img }}
+              <img class="img-fluid rounded shadow-sm" src="{{ $img.RelPermalink }}" alt="">
+            {{ else if $imgName }}
+              <img class="img-fluid rounded shadow-sm" src="{{ (printf "/media/%s" $imgName) | relURL }}" alt="">
+            {{ end }}
           </div>
-          <div class="col-md-6 {{ if $img }}order-md-1{{ end }}">
+          <div class="col-md-6 {{ if $imgName }}order-md-1{{ end }}">
             {{ with $title }}<h2 class="mb-3">{{ . | markdownify }}</h2>{{ end }}
             {{ with $text  }}<div class="lead">{{ . | markdownify }}</div>{{ end }}
 
@@ -58,13 +56,18 @@
     {{ else }}
       {{- $title := index $c "title" -}}
       {{- $text  := or (index $c "text") (index $c "body") (index $c "markdown") -}}
-      {{- $img   := index $c "image" -}}
+      {{- $imgName := index $c "image" -}}
+      {{- $img := cond $imgName (resources.Get (printf "media/%s" $imgName)) nil -}}
 
       <div class="row g-4 align-items-center">
-        <div class="col-md-6 {{ if $img }}order-md-2{{ end }}">
-          {{ with $img }}<img class="img-fluid rounded shadow-sm" src="{{ (printf "/media/%s" .) | relURL }}" alt="">{{ end }}
+        <div class="col-md-6 {{ if $imgName }}order-md-2{{ end }}">
+          {{ if $img }}
+            <img class="img-fluid rounded shadow-sm" src="{{ $img.RelPermalink }}" alt="">
+          {{ else if $imgName }}
+            <img class="img-fluid rounded shadow-sm" src="{{ (printf "/media/%s" $imgName) | relURL }}" alt="">
+          {{ end }}
         </div>
-        <div class="col-md-6 {{ if $img }}order-md-1{{ end }}">
+        <div class="col-md-6 {{ if $imgName }}order-md-1{{ end }}">
           {{ with $title }}<h2 class="mb-3">{{ . | markdownify }}</h2>{{ end }}
           {{ with $text  }}<div class="lead">{{ . | markdownify }}</div>{{ end }}
         </div>
