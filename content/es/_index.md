@@ -9,25 +9,24 @@ design:
 sections:
   # HERO
   - block: hero
-    content:
-      title: "Potenciemos a América Latina en el mapa de la investigación global"
-      primary_action:
-        text: "Súmate"
-        url: "https://www.metadocencia.org/suscripcion/"
-    design:
-      spacing:
-        padding: [0, 0, 0, 0]
-        margin: [0, 0, 0, 0]
-      css_class: "dark"
-      background:
-        color: "navy"
-        image:
-          filename: "3azulrojo.png"
-          filters:
-            brightness: 0.5
-          size: cover
-          position: center
-          parallax: false
+  content:
+    title: "Potenciemos a América Latina en el mapa de la investigación global"
+    align: center            # opcional: center | start | end
+    primary_action:
+      text: "Súmate"
+      url: "https://www.metadocencia.org/suscripcion/"
+  design:
+    css_class: "dark"        # texto claro + overlay
+    spacing:
+      padding: [0, 0, 0, 0]  # si querés, dejalo vacío para usar el default clamp(6rem..)
+      margin: [0, 0, 0, 0]
+    background:
+      color: "navy"
+      image:
+        filename: "3azulrojo.png"
+        position: "50%"
+        filters:
+          brightness: 0.5
 
   # CTA IMAGE + PARAGRAPH — 1 (Quiénes somos)
   - block: cta-image-paragraph
