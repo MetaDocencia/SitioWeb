@@ -1,45 +1,37 @@
-{{/* =============== CTA IMAGE + PARAGRAPH =============== */}}
-
-{{- $pg := or (index . "page") .Page -}}
-{{- $sec := or (index . "block") dict -}}
-{{- if not (isset $sec "content") -}}
-  {{- $secs := (index $pg.Params "sections") | default (slice) -}}
-  {{- $tmpl := .Template.Name -}}
-  {{- $bname := replace (path.Base $tmpl) ".html" "" -}}
-  {{- $matches := where $secs "block" $bname -}}
-  {{- if gt (len $matches) 0 }}{{- $sec = index $matches 0 -}}{{- end -}}
-{{- end -}}
-
-{{- $c := cond (isset $sec "content") (index $sec "content") $sec -}}
+{{/* Bloque: cta-image-paragraph */}}
+{{- $pg := .Page -}}
+{{- $sec := .block | default (dict) -}}
+{{- $c := (index $sec "content") | default (dict) -}}
 {{- $design := (index $sec "design") | default (dict) -}}
-{{- $css    := (index $design "css_class") -}}
-{{- $items  := (index $c "items") | default (slice) -}}
+{{- $css := (index $design "css_class") | default "" -}}
+
+{{- $items := (index $c "items") | default (slice) -}}
 
 <section class="section {{ $css }}">
   <div class="container">
-
     {{ if gt (len $items) 0 }}
       {{ range $it := $items }}
-        {{- $title    := index $it "title" -}}
-        {{- $text     := or (index $it "text") (index $it "body") (index $it "markdown") -}}
-        {{- $imgName  := index $it "image" -}}
-        {{- $btn      := index $it "button" -}}
-        {{- $btn_text := or (index $btn "text") (index $btn "label") -}}
-        {{- $btn_url  := index $btn "url" -}}
+        {{- $title := index $it "title" -}}
+        {{- $text  := or (index $it "text") (index $it "body") -}}
+        {{- $imgName := index $it "image" -}}
+        {{- $btn := index $it "button" -}}
+        {{- $btnText := or (index $btn "label") (index $btn "text") -}}
+        {{- $btnURL := index $btn "url" -}}
         {{- $features := (index $it "features") | default (slice) -}}
-        {{- $img := cond $imgName (resources.Get (printf "media/%s" $imgName)) nil -}}
+
+        {{- $res := cond $imgName (resources.Get (printf "media/%s" $imgName)) nil -}}
 
         <div class="row g-4 align-items-center mb-5">
           <div class="col-md-6 {{ if $imgName }}order-md-2{{ end }}">
-            {{ if $img }}
-              <img class="img-fluid rounded shadow-sm" src="{{ $img.RelPermalink }}" alt="">
+            {{ if $res }}
+              <img class="img-fluid rounded shadow-sm" src="{{ $res.RelPermalink }}" alt="">
             {{ else if $imgName }}
               <img class="img-fluid rounded shadow-sm" src="{{ (printf "/media/%s" $imgName) | relURL }}" alt="">
             {{ end }}
           </div>
           <div class="col-md-6 {{ if $imgName }}order-md-1{{ end }}">
-            {{ with $title }}<h2 class="mb-3">{{ . | markdownify }}</h2>{{ end }}
-            {{ with $text  }}<div class="lead">{{ . | markdownify }}</div>{{ end }}
+            {{ with $title }}<h2 class="mb-3">{{ . }}</h2>{{ end }}
+            {{ with $text }}<div class="lead">{{ . | markdownify }}</div>{{ end }}
 
             {{ if gt (len $features) 0 }}
               <ul class="mt-3">
@@ -47,32 +39,31 @@
               </ul>
             {{ end }}
 
-            {{ if and $btn_url $btn_text }}
-              <a class="btn btn-primary mt-3" href="{{ $btn_url }}">{{ $btn_text }}</a>
+            {{ if and $btnText $btnURL }}
+              <a class="btn btn-primary mt-3" href="{{ $btnURL }}">{{ $btnText }}</a>
             {{ end }}
           </div>
         </div>
       {{ end }}
     {{ else }}
       {{- $title := index $c "title" -}}
-      {{- $text  := or (index $c "text") (index $c "body") (index $c "markdown") -}}
+      {{- $text  := or (index $c "text") (index $c "body") -}}
       {{- $imgName := index $c "image" -}}
-      {{- $img := cond $imgName (resources.Get (printf "media/%s" $imgName)) nil -}}
+      {{- $res := cond $imgName (resources.Get (printf "media/%s" $imgName)) nil -}}
 
       <div class="row g-4 align-items-center">
         <div class="col-md-6 {{ if $imgName }}order-md-2{{ end }}">
-          {{ if $img }}
-            <img class="img-fluid rounded shadow-sm" src="{{ $img.RelPermalink }}" alt="">
+          {{ if $res }}
+            <img class="img-fluid rounded shadow-sm" src="{{ $res.RelPermalink }}" alt="">
           {{ else if $imgName }}
             <img class="img-fluid rounded shadow-sm" src="{{ (printf "/media/%s" $imgName) | relURL }}" alt="">
           {{ end }}
         </div>
         <div class="col-md-6 {{ if $imgName }}order-md-1{{ end }}">
-          {{ with $title }}<h2 class="mb-3">{{ . | markdownify }}</h2>{{ end }}
-          {{ with $text  }}<div class="lead">{{ . | markdownify }}</div>{{ end }}
+          {{ with $title }}<h2 class="mb-3">{{ . }}</h2>{{ end }}
+          {{ with $text }}<div class="lead">{{ . | markdownify }}</div>{{ end }}
         </div>
       </div>
     {{ end }}
-
   </div>
 </section>
