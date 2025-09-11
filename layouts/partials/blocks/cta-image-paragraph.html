@@ -1,21 +1,29 @@
-{{- $b := or (index . "block") . -}}
-{{- $c := or (index $b "content") $b -}}
-{{- $items := index $c "items" -}}
+{{/* Resolver el bloque por nombre de template */}}
+{{- $pg := or (index . "page") .Page -}}
+{{- $secs := (index $pg.Params "sections") | default (slice) -}}
+{{- $tmpl := .Template.Name -}}             {{/* _partials/blocks/cta-image-paragraph.html */}}
+{{- $bname := replace (path.Base $tmpl) ".html" "" -}}  {{/* cta-image-paragraph */}}
+{{- $sec := (where $secs "block" $bname) | first -}}
+{{- $c := (index $sec "content") | default (dict) -}}
+{{- $items := (index $c "items") -}}
 
-<section class="section" id="{{ index $b "id" | default "" }}">
+<section class="section" id="{{ index $sec "id" | default "" }}">
   <div class="container">
     {{ if and $items (gt (len $items) 0) }}
       {{ range $it := $items }}
         {{- $title := index $it "title" -}}
         {{- $text  := or (index $it "text") (index $it "body") (index $it "markdown") -}}
         {{- $img   := index $it "image" -}}
+        {{- $btn   := index $it "button" -}}
+        {{- $btnLabel := or (index $btn "label") (index $btn "text") -}}
         <div class="row g-4 align-items-center mb-4">
           <div class="col-md-6 order-md-2">
             {{ with $img }}<img class="img-fluid" src="{{ (printf "/media/%s" .) | relURL }}" alt="">{{ end }}
           </div>
           <div class="col-md-6 order-md-1">
-            <h2 class="mb-2">{{ $title | default "Título pendiente" }}</h2>
-            <div class="lead">{{ $text | default "Texto pendiente" | markdownify }}</div>
+            {{ with $title }}<h2 class="mb-2">{{ . | markdownify }}</h2>{{ end }}
+            {{ with $text  }}<div class="lead">{{ . | markdownify }}</div>{{ end }}
+            {{ with $btn }}<a class="btn btn-primary mt-3" href="{{ index . "url" }}">{{ $btnLabel | default "Más info" }}</a>{{ end }}
           </div>
         </div>
       {{ end }}
@@ -28,8 +36,8 @@
           {{ with $img }}<img class="img-fluid" src="{{ (printf "/media/%s" .) | relURL }}" alt="">{{ end }}
         </div>
         <div class="col-md-6 order-md-1">
-          <h2 class="mb-2">{{ $title | default "Título pendiente" }}</h2>
-          <div class="lead">{{ $text | default "Texto pendiente" | markdownify }}</div>
+          {{ with $title }}<h2 class="mb-2">{{ . | markdownify }}</h2>{{ end }}
+          {{ with $text  }}<div class="lead">{{ . | markdownify }}</div>{{ end }}
         </div>
       </div>
     {{ end }}
