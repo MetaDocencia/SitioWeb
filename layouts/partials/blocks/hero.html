@@ -1,0 +1,78 @@
+{{/* Bloque: hero (Bootstrap) */}}
+{{- $pg := .Page -}}
+{{- $sec := .block | default (dict) -}}
+{{- $c := (index $sec "content") | default (dict) -}}
+{{- $design := (index $sec "design") | default (dict) -}}
+{{- $css := (index $design "css_class") | default "" -}}
+
+{{/* Fondo */}}
+{{- $bg := (index $design "background") | default (dict) -}}
+{{- $bgColor := (index $bg "color") | default "" -}}
+{{- $imgConf := (index $bg "image") | default (dict) -}}
+{{- $imgName := (index $imgConf "filename") | default "" -}}
+{{- $img := cond $imgName (resources.Get (printf "media/%s" $imgName)) nil -}}
+
+{{/* Spacing inline (si viene en YAML como arrays) */}}
+{{- $spacing := (index $design "spacing") | default (dict) -}}
+{{- $pad := (index $spacing "padding") | default (slice) -}}
+{{- $mar := (index $spacing "margin") | default (slice) -}}
+{{- $padCss := cond (gt (len $pad) 0) (printf "padding:%s;" (delimit $pad " ")) "" -}}
+{{- $marCss := cond (gt (len $mar) 0) (printf "margin:%s;" (delimit $mar " ")) "" -}}
+
+{{/* Construir estilo de fondo */}}
+{{- $bgParts := slice -}}
+{{- if $bgColor }}{{- $bgParts = $bgParts | append (printf "background-color:%s;" $bgColor) -}}{{- end -}}
+{{- if $img }}
+  {{- $bgParts = $bgParts | append (printf "background-image:url('%s');" $img.RelPermalink) -}}
+{{- else if $imgName }}
+  {{- $bgParts = $bgParts | append (printf "background-image:url('%s');" (printf "/media/%s" $imgName | relURL)) -}}
+{{- end -}}
+{{- if or $img $imgName }}
+  {{- $bgParts = $bgParts | append "background-size:cover;" -}}
+  {{- $pos := (index $imgConf "position") | default "center" -}}
+  {{- $bgParts = $bgParts | append (printf "background-position:%s;" $pos) -}}
+{{- end -}}
+{{- $style := printf "%s%s%s" (delimit $bgParts " ") $padCss $marCss -}}
+
+{{/* ¿Texto claro? */}}
+{{- $dark := or (eq $css "dark") (in $css "bg-dark") -}}
+<section class="section position-relative {{ $css }}" style="{{ $style }}">
+  {{/* Overlay suave para mejorar contraste si hay imagen o modo dark */}}
+  {{- if or $dark (or $img $imgName) -}}
+    <div class="position-absolute top-0 start-0 w-100 h-100" style="background-color:rgba(0,0,0,0.45);"></div>
+  {{- end -}}
+
+  <div class="container position-relative {{ if $dark }}text-white{{ end }}">
+    <div class="row">
+      <div class="col-12 col-lg-10 col-xl-8 py-5" style="min-height: 55vh; display:flex; align-items:center;">
+        <div>
+          {{ with (index $c "title") }}
+            <h1 class="display-5 fw-semibold mb-3">{{ . }}</h1>
+          {{ end }}
+
+          {{/* Subtítulo opcional si algún día lo agregás */}}
+          {{ with (index $c "subtitle") }}
+            <p class="lead mb-4">{{ . | markdownify }}</p>
+          {{ end }}
+
+          {{- $pa := (index $c "primary_action") | default (dict) -}}
+          {{- $paText := or (index $pa "text") (index $pa "label") -}}
+          {{- $paURL  := index $pa "url" -}}
+
+          {{- $sa := (index $c "secondary_action") | default (dict) -}}
+          {{- $saText := or (index $sa "text") (index $sa "label") -}}
+          {{- $saURL  := index $sa "url" -}}
+
+          <div class="d-flex flex-wrap gap-2 mt-3">
+            {{ if and $paText $paURL }}
+              <a class="btn btn-primary btn-lg" href="{{ $paURL }}">{{ $paText }}</a>
+            {{ end }}
+            {{ if and $saText $saURL }}
+              <a class="btn btn-outline-light btn-lg" href="{{ $saURL }}">{{ $saText }}</a>
+            {{ end }}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
