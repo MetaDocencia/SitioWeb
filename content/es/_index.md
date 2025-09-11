@@ -7,8 +7,8 @@ design:
   spacing: "6rem"
 
 sections:
-  # HERO
-  - block: hero
+# HERO
+ - block: hero
   content:
     title: "Potenciemos a América Latina en el mapa de la investigación global"
     align: center            # opcional: center | start | end
