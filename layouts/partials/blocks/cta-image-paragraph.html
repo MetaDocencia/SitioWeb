@@ -1,45 +1,56 @@
 {{/* =============== CTA IMAGE + PARAGRAPH =============== */}}
-{{/* Resolver bloque por nombre del archivo del partial */}}
+
+{{/* 1) Intentar usar el bloque que llega del parser */}}
 {{- $pg := or (index . "page") .Page -}}
-{{- $secs := (index $pg.Params "sections") | default (slice) -}}
-{{- $tmpl := .Template.Name -}}                       {{/* e.g. _partials/blocks/cta-image-paragraph.html */}}
-{{- $bname := replace (path.Base $tmpl) ".html" "" -}} {{/* e.g. cta-image-paragraph */}}
+{{- $sec := or (index . "block") dict -}}
 
-{{- $matches := where $secs "block" $bname -}}
-{{- $sec := dict -}}
-{{- if gt (len $matches) 0 -}}
-  {{- $sec = index $matches 0 -}}
+{{/* 2) Si no vino `block`, resolverlo por nombre de partial dentro de sections */}}
+{{- if not (isset $sec "content") -}}
+  {{- $secs := (index $pg.Params "sections") | default (slice) -}}
+  {{- $tmpl := .Template.Name -}}                       {{/* p.ej. _partials/blocks/cta-image-paragraph.html */}}
+  {{- $bname := replace (path.Base $tmpl) ".html" "" -}} {{/* cta-image-paragraph */}}
+  {{- $matches := where $secs "block" $bname -}}
+  {{- if gt (len $matches) 0 -}}
+    {{- $sec = index $matches 0 -}}
+  {{- end -}}
 {{- end -}}
-{{- $c := (index $sec "content") | default (dict) -}}
-{{- $items := (index $c "items") -}}
 
-<section class="section" id="{{ index $sec "id" | default "" }}">
+{{/* 3) Normalizar contenido y diseño */}}
+{{- $c := index $sec "content" -}}
+{{- if not $c -}} {{- $c = $sec -}} {{- end -}}
+{{- $design := (index $sec "design") | default (dict) -}}
+{{- $css    := (index $design "css_class") -}}
+{{- $items  := (index $c "items") | default (slice) -}}
+
+<section class="section {{ $css }}">
   <div class="container">
-    {{ if and $items (gt (len $items) 0) }}
+
+    {{ if gt (len $items) 0 }}
       {{ range $it := $items }}
-        {{- $title := index $it "title" -}}
-        {{- $text  := or (index $it "text") (index $it "body") (index $it "markdown") -}}
-        {{- $img   := index $it "image" -}}
-        {{- $btn   := index $it "button" -}}
-        {{- $btnLabel := or (index $btn "label") (index $btn "text") -}}
-        {{- $features := index $it "features" -}}
+        {{- $title    := index $it "title" -}}
+        {{- $text     := or (index $it "text") (index $it "body") (index $it "markdown") -}}
+        {{- $img      := index $it "image" -}}
+        {{- $btn      := index $it "button" -}}
+        {{- $btn_text := or (index $btn "text") (index $btn "label") -}}
+        {{- $btn_url  := index $btn "url" -}}
+        {{- $features := (index $it "features") | default (slice) -}}
 
         <div class="row g-4 align-items-center mb-5">
-          <div class="col-md-6 order-md-2">
+          <div class="col-md-6 {{ if $img }}order-md-2{{ end }}">
             {{ with $img }}<img class="img-fluid rounded shadow-sm" src="{{ (printf "/media/%s" .) | relURL }}" alt="">{{ end }}
           </div>
-          <div class="col-md-6 order-md-1">
+          <div class="col-md-6 {{ if $img }}order-md-1{{ end }}">
             {{ with $title }}<h2 class="mb-3">{{ . | markdownify }}</h2>{{ end }}
             {{ with $text  }}<div class="lead">{{ . | markdownify }}</div>{{ end }}
 
-            {{ with $features }}
+            {{ if gt (len $features) 0 }}
               <ul class="mt-3">
-                {{ range . }}<li>{{ . }}</li>{{ end }}
+                {{ range $f := $features }}<li>{{ $f }}</li>{{ end }}
               </ul>
             {{ end }}
 
-            {{ with $btn }}
-              <a class="btn btn-primary mt-3" href="{{ index . "url" }}">{{ $btnLabel | default "Más info" }}</a>
+            {{ if and $btn_url $btn_text }}
+              <a class="btn btn-primary mt-3" href="{{ $btn_url }}">{{ $btn_text }}</a>
             {{ end }}
           </div>
         </div>
@@ -48,15 +59,17 @@
       {{- $title := index $c "title" -}}
       {{- $text  := or (index $c "text") (index $c "body") (index $c "markdown") -}}
       {{- $img   := index $c "image" -}}
+
       <div class="row g-4 align-items-center">
-        <div class="col-md-6 order-md-2">
+        <div class="col-md-6 {{ if $img }}order-md-2{{ end }}">
           {{ with $img }}<img class="img-fluid rounded shadow-sm" src="{{ (printf "/media/%s" .) | relURL }}" alt="">{{ end }}
         </div>
-        <div class="col-md-6 order-md-1">
+        <div class="col-md-6 {{ if $img }}order-md-1{{ end }}">
           {{ with $title }}<h2 class="mb-3">{{ . | markdownify }}</h2>{{ end }}
           {{ with $text  }}<div class="lead">{{ . | markdownify }}</div>{{ end }}
         </div>
       </div>
     {{ end }}
+
   </div>
 </section>
