@@ -1,74 +1,32 @@
-{{/* DEBUG compatible con Hugo: SIN 'keys' */}}
-{{- $p := index . "page" -}}
-{{- $b := index . "block" -}}
-{{ warnf "DBG %s → page=%s id=%v block=%#v"
-    (.Template.Name | default "??")
-    (or $p.File.Path $p.Path "??")
-    (index $b "id")
-    $b }}
+{{- $b := or (index . "block") . -}}
+{{- $c := or (index $b "content") $b -}}
+{{- $title := index $c "title" -}}
+{{- $text  := or (index $c "text") (index $c "body") (index $c "markdown") -}}
+{{- $img   := index $c "image" -}}
+{{- $btn   := index $c "button" -}}
+{{- $btns  := index $c "buttons" | default (slice) -}}
+{{- $btnLabel := or (index $btn "label") (index $btn "text") -}}
 
-
-{{/* Bloque: cta-card (GA-ready; tolera button.label/text) */}}
-{{- $b := .block -}}
-{{- $content := or (index $b "content") (dict) -}}
-
-{{- $title := index $content "title" -}}
-{{- $text  := or (index $content "text") (index $content "body") (index $content "markdown") -}}
-{{- $img   := index $content "image" -}}
-{{- $btn   := index $content "button" -}}
-{{- $btns  := index $content "buttons" | default (slice) -}}
-{{- if and (not $title) (not $text) (eq (len $btns) 0) (not $btn) }}{{ return }}{{ end -}}
-
-<section class="section cta-card" id="{{ index $b "id" | default "" }}">
+<section class="section" id="{{ index $b "id" | default "" }}">
   <div class="container">
-    <div class="row justify-content-center">
-      <div class="col-12 col-lg-10">
-        <div class="card border-0 shadow-sm overflow-hidden {{ with (index (or (index $b "design") (dict)) "card") }}{{ index . "css_class" }}{{ end }}">
-          <div class="row g-0 align-items-center">
-            {{ if $img }}
-              <div class="col-12 col-md-5">
-                <img src="{{ (printf "/media/%s" $img) | relURL }}" alt="{{ index $content "image_alt" | default "" }}" class="w-100 h-100 object-fit-cover">
-              </div>
-              <div class="col-12 col-md-7 p-4 p-md-5">
-            {{ else }}
-              <div class="col-12 p-4 p-md-5">
+    <div class="border rounded p-4 p-md-5">
+      <div class="row g-4 align-items-center">
+        {{ if $img }}
+          <div class="col-md-4">
+            <img class="img-fluid" src="{{ (printf "/media/%s" $img) | relURL }}" alt="">
+          </div>
+        {{ end }}
+        <div class="{{ if $img }}col-md-8{{ else }}col-12{{ end }}">
+          <h2 class="mb-2">{{ $title | default "Call to action" }}</h2>
+          <p class="lead mb-3">{{ $text | default "Texto pendiente" | markdownify }}</p>
+          <div class="d-flex flex-wrap gap-2">
+            {{ with $btn }}
+              <a class="btn btn-primary" href="{{ index . "url" }}">{{ $btnLabel | default "Conocer más" }}</a>
             {{ end }}
-
-              {{ with (index $content "badge") }}<div class="badge bg-primary-subtle text-primary mb-2">{{ . }}</div>{{ end }}
-              {{ with $title }}<h2 class="mb-3">{{ . | markdownify }}</h2>{{ end }}
-              {{ with $text  }}<div class="lead mb-4">{{ . | markdownify }}</div>{{ end }}
-
-              {{ $features := index $content "features" | default (slice) }}
-              {{ if gt (len $features) 0 }}
-                <ul class="list-unstyled mb-4">
-                  {{ range $f := $features }}
-                    {{ if reflect.IsMap $f }}
-                      <li class="mb-2 d-flex gap-2">
-                        {{ with (index $f "icon") }}<i class="bi bi-{{ . }} mt-1"></i>{{ end }}
-                        <div>
-                          {{ with (index $f "label") }}<div class="fw-semibold">{{ . | markdownify }}</div>{{ end }}
-                          {{ with (index $f "text")  }}<div class="text-muted">{{ . | markdownify }}</div>{{ end }}
-                        </div>
-                      </li>
-                    {{ else }}
-                      <li class="mb-2">• {{ $f | markdownify }}</li>
-                    {{ end }}
-                  {{ end }}
-                </ul>
-              {{ end }}
-
-              <div class="d-flex flex-wrap gap-2">
-                {{ with $btn }}
-                  {{ $label := or (index . "label") (index . "text") }}
-                  <a class="btn btn-primary" href="{{ index . "url" }}">{{ $label | default "Conocer más" }}</a>
-                {{ end }}
-                {{ range $btn := $btns }}
-                  {{ $style := (cond (eq ((index $btn "style") | default "primary") "outline") "btn-outline-primary" "btn-secondary") }}
-                  <a class="btn {{ $style }}" href="{{ index $btn "url" }}">{{ or (index $btn "label") (index $btn "text") }}</a>
-                {{ end }}
-              </div>
-
-            </div>
+            {{ range $x := $btns }}
+              {{- $lbl := or (index $x "label") (index $x "text") -}}
+              <a class="btn btn-outline-primary" href="{{ index $x "url" }}">{{ $lbl }}</a>
+            {{ end }}
           </div>
         </div>
       </div>
