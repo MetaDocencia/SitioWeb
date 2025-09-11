@@ -1,19 +1,23 @@
-{{- $b := or (index . "block") . -}}
-{{- $c := or (index $b "content") $b -}}
+{{/* Bloque: stats */}}
+{{- $sec := .block | default (dict) -}}
+{{- $c := (index $sec "content") | default (dict) -}}
+{{- $design := (index $sec "design") | default (dict) -}}
+{{- $css := (index $design "css_class") | default "" -}}
 {{- $items := or (index $c "items") (index $c "stats") (slice) -}}
 
-<section class="section" id="{{ index $b "id" | default "" }}">
+<section class="section {{ $css }}">
   <div class="container">
-    {{ with (index $c "title") }}<h2 class="text-center mb-4">{{ . | markdownify }}</h2>{{ end }}
+    {{ with (index $c "title") }}<h2 class="text-center mb-4">{{ . }}</h2>{{ end }}
+
     <div class="row g-3 justify-content-center">
       {{ if gt (len $items) 0 }}
         {{ range $it := $items }}
           {{- $val := or (index $it "value") (index $it "statistic") (index $it 0) -}}
           {{- $lab := or (index $it "label") (index $it "description") (index $it 1) -}}
           <div class="col-6 col-md-3">
-            <div class="text-center p-3 border rounded">
-              <div class="h3 m-0">{{ $val | default "—" | markdownify }}</div>
-              <div class="text-muted">{{ $lab | default "" | markdownify }}</div>
+            <div class="text-center p-4 border rounded h-100">
+              {{ with $val }}<div class="h3 m-0">{{ . | markdownify }}</div>{{ end }}
+              {{ with $lab }}<div class="text-muted mt-1">{{ . | markdownify }}</div>{{ end }}
             </div>
           </div>
         {{ end }}
