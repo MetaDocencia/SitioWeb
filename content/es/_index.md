@@ -22,7 +22,7 @@ sections:
         margin: [0, 0, 0, 0]
       background:
         color: "navy"
-        overlay: 0.45          # opacidad del overlay (0 a 1)
+        overlay: 0.18          # opacidad del overlay (0 a 1)
         image:
           filename: "3azulrojo.png"   # poner en assets/media/ o static/media/
           position: "center"          # o "50%"
