@@ -1,0 +1,6 @@
+{{/* Renderiza GA solo si hay ID configurado (GA4) */}}
+{{ $id := "" }}
+{{ with site.Config.Services.GoogleAnalytics.ID }}{{ $id = . }}{{ end }}
+{{ if $id }}
+  {{ partial "analytics/google_analytics" . }}
+{{ end }}

@@ -1,0 +1,44 @@
+{{/* Bloque: testimonials */}}
+{{- $sec := .block | default (dict) -}}
+{{- $c := (index $sec "content") | default (dict) -}}
+{{- $design := (index $sec "design") | default (dict) -}}
+{{- $css := (index $design "css_class") | default "" -}}
+{{- $items := index $c "items" | default (slice) -}}
+
+<section class="section {{ $css }}">
+  <div class="container">
+    {{ with (index $c "title") }}<h2 class="text-center mb-4">{{ . }}</h2>{{ end }}
+    {{ with (index $c "text")  }}<p class="text-center text-muted mb-5">{{ . | markdownify }}</p>{{ end }}
+
+    <div class="row g-4">
+      {{ if gt (len $items) 0 }}
+        {{ range $t := $items }}
+          {{- $quote  := or (index $t "quote") (index $t "text") -}}
+          {{- $author := or (index $t "author") (index $t "name") -}}
+          {{- $role   := index $t "role" -}}
+          {{- $imgName := or (index $t "avatar") (index $t "image") -}}
+          {{- $res := cond $imgName (resources.Get (printf "media/%s" $imgName)) nil -}}
+
+          <div class="col-md-6 col-lg-4">
+            <div class="border rounded p-4 h-100">
+              {{ with $quote }}<p class="mb-4">“{{ . | markdownify }}”</p>{{ end }}
+              <div class="d-flex align-items-center gap-3">
+                {{ if $res }}
+                  <img src="{{ $res.RelPermalink }}" width="56" height="56" class="rounded-circle" alt="">
+                {{ else if $imgName }}
+                  <img src="{{ (printf "/media/%s" $imgName) | relURL }}" width="56" height="56" class="rounded-circle" alt="">
+                {{ end }}
+                <div>
+                  {{ with $author }}<div class="fw-semibold">{{ . }}</div>{{ end }}
+                  {{ with $role }}<div class="text-muted small">{{ . }}</div>{{ end }}
+                </div>
+              </div>
+            </div>
+          </div>
+        {{ end }}
+      {{ else }}
+        <div class="col-12"><em>Sin testimonios aún</em></div>
+      {{ end }}
+    </div>
+  </div>
+</section>

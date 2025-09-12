@@ -1,0 +1,3 @@
+{{/* Carga CSS global de overrides usando la tubería de Hugo cuando sea posible */}}
+{{ $css := resources.Get "css/md-overrides.css" | minify | fingerprint }}
+<link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}">
