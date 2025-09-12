@@ -27,7 +27,7 @@ sections:
           filename: "3azulrojo.png"   # poner en assets/media/ o static/media/
           position: "center"          # o "50%"
           filters:
-            brightness: 0.5
+            brightness: 1
 
   # CTA IMAGE + PARAGRAPH — 1 (Quiénes somos)
   - block: cta-image-paragraph
