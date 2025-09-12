@@ -1,10 +1,10 @@
-{{/* Bloque: hero (full-screen, centrado, con fondo desde assets/media o /media) */}}
+{{/* Bloque: hero (full-screen, centrado, background robusto) */}}
 {{- $sec := .block | default (dict) -}}
 {{- $c := (index $sec "content") | default (dict) -}}
 {{- $design := (index $sec "design") | default (dict) -}}
 {{- $css := (index $design "css_class") | default "" -}}
 
-{{/* Alineación: center | start | end */}}
+{{/* Alineación */}}
 {{- $align := (index $c "align") | default "center" -}}
 {{- $textAlign := cond (eq $align "center") "text-center" (cond (eq $align "end") "text-end" "text-start") -}}
 {{- $justify := cond (eq $align "center") "justify-content-center" (cond (eq $align "end") "justify-content-end" "justify-content-start") -}}
@@ -19,46 +19,38 @@
 {{- $brightness := (index $filters "brightness") | default 0 -}}
 {{- $overlay := (index $bg "overlay") | default 0.45 -}}
 
-{{/* Resolver URL de imagen: 1) assets/media (Hugo Pipes) 2) cualquier match 3) /media (static) */}}
+{{/* URL del fondo: 1) estática /media 2) assets/media si existe */}}
 {{- $imgURL := "" -}}
-{{- with cond (ne $imgName "") (resources.Get (printf "media/%s" $imgName)) nil -}}
-  {{- $imgURL = .RelPermalink -}}
-{{- end -}}
-{{- if and (eq $imgURL "") (ne $imgName "") -}}
-  {{- with resources.GetMatch (printf "media/%s*" $imgName) -}}
+{{- if ne $imgName "" -}}
+  {{- $imgURL = (printf "/media/%s" $imgName | relURL) -}}  {{/* fallback estático SIEMPRE válido si el archivo está en static/media */}}
+  {{- with resources.Get (printf "media/%s" $imgName) -}}    {{/* si existe en assets/media lo usamos */}}
     {{- $imgURL = .RelPermalink -}}
   {{- end -}}
 {{- end -}}
-{{- if and (eq $imgURL "") (ne $imgName "") -}}
-  {{- $imgURL = (printf "/media/%s" $imgName | relURL) -}}
-{{- end -}}
 
-{{/* Spacing (dejamos min-height:100vh para ocupar pantalla completa) */}}
+{{/* Spacing y alto completo */}}
 {{- $spacing := (index $design "spacing") | default (dict) -}}
 {{- $pad := (index $spacing "padding") | default (slice) -}}
 {{- $mar := (index $spacing "margin") | default (slice) -}}
 {{- $padCss := cond (gt (len $pad) 0) (printf "padding:%s;" (delimit $pad " ")) "" -}}
 {{- $marCss := cond (gt (len $mar) 0) (printf "margin:%s;" (delimit $mar " ")) "" -}}
 
-{{/* Construir estilo inline del background */}}
-{{- $bgParts := slice -}}
-{{- if $bgColor }}{{- $bgParts = $bgParts | append (printf "background-color:%s;" $bgColor) -}}{{- end -}}
-{{- if ne $imgURL "" -}}
-  {{- $bgParts = $bgParts | append (printf "background-image:url('%s');" $imgURL) -}}
-  {{- $bgParts = $bgParts | append "background-size:cover;" -}}
-  {{- $bgParts = $bgParts | append (printf "background-position:%s;" $pos) -}}
-{{- end -}}
-{{- if and (ne $imgURL "") (gt (float $brightness) 0) -}}
-  {{- $bgParts = $bgParts | append (printf "filter:brightness(%g);" $brightness) -}}
-{{- end -}}
-{{- $style := printf "min-height:100vh;%s%s%s" (delimit $bgParts " ") $padCss $marCss -}}
-
 {{- $dark := or (eq $css "dark") (in $css "bg-dark") -}}
 
-<section id="section-hero" class="position-relative blox-hero {{ $css }}" style="{{ $style }}">
-  {{/* Overlay opcional para contraste */}}
+<section id="section-hero" class="position-relative blox-hero {{ $css }}" style="min-height:100vh; {{ $padCss }} {{ $marCss }}">
+  {{/* Capa de fondo independiente (asegura render) */}}
+  <div class="position-absolute top-0 start-0 w-100 h-100" aria-hidden="true"
+       style="
+         {{ if $bgColor }}background-color: {{ $bgColor }};{{ end }}
+         {{ if $imgURL }}background-image:url('{{ $imgURL }}'); background-size:cover; background-position:{{ $pos }};{{ end }}
+         {{ if and $imgURL (gt (float $brightness) 0) }}filter: brightness({{ $brightness }});{{ end }}
+       ">
+  </div>
+
+  {{/* Overlay para contraste */}}
   {{- if or $dark (ne $imgURL "") -}}
-    <div class="position-absolute top-0 start-0 w-100 h-100" style="background-color:rgba(0,0,0,{{ $overlay }});"></div>
+    <div class="position-absolute top-0 start-0 w-100 h-100" aria-hidden="true"
+         style="background-color:rgba(0,0,0,{{ $overlay }});"></div>
   {{- end -}}
 
   <div class="container position-relative d-flex {{ $justify }}" style="min-height:100vh;">
@@ -87,4 +79,9 @@
       </div>
     </div>
   </div>
+
+  {{/* Log de ayuda en build si no se resolvió la imagen */}}
+  {{- if and (ne $imgName "") (eq $imgURL "") -}}
+    {{- warnf "Hero: no se encontró '%s' en assets/media ni en static/media." $imgName -}}
+  {{- end -}}
 </section>
