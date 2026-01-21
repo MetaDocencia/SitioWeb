@@ -1,0 +1,29 @@
+{{/* Bloque: stats */}}
+{{- $sec := .block | default (dict) -}}
+{{- $c := (index $sec "content") | default (dict) -}}
+{{- $design := (index $sec "design") | default (dict) -}}
+{{- $css := (index $design "css_class") | default "" -}}
+{{- $items := or (index $c "items") (index $c "stats") (slice) -}}
+
+<section class="section {{ $css }}">
+  <div class="container">
+    {{ with (index $c "title") }}<h2 class="text-center mb-4">{{ . }}</h2>{{ end }}
+
+    <div class="row g-3 justify-content-center">
+      {{ if gt (len $items) 0 }}
+        {{ range $it := $items }}
+          {{- $val := or (index $it "value") (index $it "statistic") (index $it 0) -}}
+          {{- $lab := or (index $it "label") (index $it "description") (index $it 1) -}}
+          <div class="col-6 col-md-3">
+            <div class="text-center p-4 border rounded h-100">
+              {{ with $val }}<div class="h3 m-0">{{ . | markdownify }}</div>{{ end }}
+              {{ with $lab }}<div class="text-muted mt-1">{{ . | markdownify }}</div>{{ end }}
+            </div>
+          </div>
+        {{ end }}
+      {{ else }}
+        <div class="col-auto"><em>Sin estadísticas aún</em></div>
+      {{ end }}
+    </div>
+  </div>
+</section>

@@ -1,0 +1,29 @@
+{{ define "main" }}
+  {{/* Tomamos las secciones del front-matter de la página actual */}}
+  {{- $page := . -}}
+  {{- $sections := .Params.sections | default (slice) -}}
+
+  {{ if eq (len $sections) 0 }}
+    <div class="container py-5">
+      <div class="alert alert-warning">
+        No se encontraron <code>sections</code> en el front-matter.
+      </div>
+    </div>
+  {{ else }}
+    {{ range $sec := $sections }}
+      {{- $block := $sec.block | default "" -}}
+      {{- $partialPath := printf "blocks/%s.html" $block -}}
+
+      {{ if templates.Exists (printf "partials/%s" $partialPath) }}
+        {{/* Pasamos el bloque y la página explícitamente */}}
+        {{ partial $partialPath (dict "Page" $page "block" $sec) }}
+      {{ else }}
+        <div class="container py-3">
+          <div class="alert alert-info">
+            Falta el partial <code>{{ $partialPath }}</code>. Dejamos un placeholder.
+          </div>
+        </div>
+      {{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}
